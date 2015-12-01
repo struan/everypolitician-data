@@ -152,21 +152,14 @@ h2 {
     }
   }
 
-  .no-matches {
+  .skip {
     &:before {
-      content: "0";
-    }
-  }
-
-  .skip-person {
-    &:before {
-      content: '\2794';
+      content: "\2794";
     }
   }
 
   .person,
-  .no-matches,
-  .skip-person {
+  .skip {
     position: relative;
     background-color: #fff;
     border: none;

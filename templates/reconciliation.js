@@ -19,12 +19,10 @@ var vote = function vote($choice){
   var incomingPersonID = $('.pairing__incoming .person', $pairing).attr('data-id');
   var vote = [];
 
-  if($choice.is('.skip-person')) {
+  if($choice.is('.skip')) {
     // Insert a null value to indicate skip, these are removed when
     // serializing to CSV.
     window.votes.push( null );
-  } else if($choice.is('.no-matches')){
-    window.votes.push( [incomingPersonID, null] );
   } else {
     window.votes.push( [incomingPersonID, $choice.attr('data-uuid')] );
   }
@@ -138,10 +136,7 @@ jQuery(function($) {
 
   $(document).on('keydown', function(e){
     if(e.which == 39){
-      var $choice = $('.pairing:visible .skip-person');
-      vote($choice);
-    } else if(e.which == 48){
-      var $choice = $('.pairing:visible .no-matches');
+      var $choice = $('.pairing:visible .skip');
       vote($choice);
     } else if(e.which > 48 && e.which < 58){
       var $choice = $('.pairing:visible .pairing__choices .person').eq(e.which - 49);
