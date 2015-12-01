@@ -187,3 +187,13 @@ h2 {
     }
   }
 }
+
+.messages {
+  text-align: center;
+
+  h1 {
+    margin: 3em 0;
+    color: $color_mid_grey;
+    text-shadow: 0 1px 0 #fff;
+  }
+}
