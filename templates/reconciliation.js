@@ -135,7 +135,7 @@ jQuery(function($) {
   });
 
   $(document).on('keydown', function(e){
-    if(e.which == 48){
+    if(e.which == 39){
       var $choice = $('.pairing:visible .skip');
       vote($choice);
     } else if(e.which > 48 && e.which < 58){
