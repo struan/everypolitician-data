@@ -92,6 +92,14 @@ var updateUndoButton = function updateUndoButton(){
 }
 
 jQuery(function($) {
+  if(matches.length == 0){
+    $('.messages').append('<h1>Nothing to reconcile!</h1>');
+    $('.progress-bar div').animate({
+      width: '100%'
+    }, 500);
+    updateUndoButton();
+  }
+
   $.each(matches, function(i, match) {
     var incomingPerson = match.incoming;
     var existingPerson = match.existing[0][0];
