@@ -103,6 +103,12 @@ h2 {
 
 .person {
   padding: 2em;
+  background-color: #fff;
+
+  .pairing__incoming & {
+    background-color: mix(#fff, $color_off_white, 60%);
+    border: 1px solid $color_light_grey;
+  }
 
   h1 {
     margin: 0 0 0.5em 0;
@@ -135,11 +141,6 @@ h2 {
 
 .pairing {
   padding: 2em;
-
-  .person {
-    background-color: mix(#fff, $color_off_white, 60%);
-    border: 1px solid $color_light_grey;
-  }
 }
 
 .pairing__choices {
@@ -162,7 +163,6 @@ h2 {
   .skip {
     position: relative;
     background-color: #fff;
-    border: none;
     box-shadow: 0 1px 3px rgba(0,0,0,0.2);
     margin-bottom: 2em;
     padding: 2em 4em 2em 2em;
@@ -186,6 +186,27 @@ h2 {
       font-weight: bold;
     }
   }
+}
+
+.person--weak-match {
+  border-left: 0.3em solid $color_grey;
+  color: $color_grey;
+
+  dt {
+    color: $color_light_grey;
+  }
+
+  img {
+    opacity: 0.7;
+  }
+}
+
+.person--medium-match {
+  border-left: 0.3em solid $color_mustard_yellow;
+}
+
+.person--strong-match {
+  border-left: 0.3em solid $color_green;
 }
 
 .messages {

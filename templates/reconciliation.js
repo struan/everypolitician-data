@@ -103,7 +103,7 @@ jQuery(function($) {
     var existingPerson = match.existing[0][0];
 
     // Skip exact matches for now
-    if (incomingPerson[incomingField].toLowerCase() == existingPerson[existingField].toLowerCase()) {
+    if (incomingPerson[window.incomingField].toLowerCase() == existingPerson[window.existingField].toLowerCase()) {
       return;
     }
     var incomingPersonFields = _.filter(Object.keys(incomingPerson), function(field) {
@@ -111,8 +111,19 @@ jQuery(function($) {
     });
     var existingPersonHTML = _.map(match.existing, function(existing) {
       var person = existing[0];
+      if(existing[1] > 0.9){
+        person.matchStrength = 'person--strong-match'
+      } else if(existing[1] > 0.6) {
+        person.matchStrength = 'person--medium-match'
+      } else {
+        person.matchStrength = 'person--weak-match'
+      }
       var fields = _.intersection(incomingPersonFields, Object.keys(person));
-      return renderTemplate('person', { person: person, field: existingField, fields: fields });
+      return renderTemplate('person', {
+        person: person,
+        field: window.existingField,
+        fields: fields
+      });
     });
 
     var fields = match.existing.map(function(existing) {
@@ -126,7 +137,7 @@ jQuery(function($) {
       existingPersonHTML: existingPersonHTML.join("\n"),
       incomingPersonHTML: renderTemplate('person', {
         person: incomingPerson,
-        field: incomingField,
+        field: window.incomingField,
         fields: commonFields
       })
     });

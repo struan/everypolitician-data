@@ -54,7 +54,7 @@
 
     <script type="text/html" id="person">
       {% if(person.uuid){ %}
-        <div class="person" data-uuid="{{ person.uuid }}">
+        <div class="person {{ person.matchStrength }}" data-uuid="{{ person.uuid }}">
       {% } else if(person.id){ %}
         <div class="person" data-id="{{ person.id }}">
       {% } %}
