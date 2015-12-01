@@ -143,16 +143,31 @@ jQuery(function($) {
   });
 
   $(document).on('keydown', function(e){
-    if(e.which == 39){
-      var $choice = $('.pairing:visible .skip');
-      vote($choice);
-    } else if(e.which > 48 && e.which < 58){
-      var $choice = $('.pairing:visible .pairing__choices .person').eq(e.which - 49);
-      vote($choice);
-    } else if(e.keyCode == 27){
+    if(e.keyCode == 27){
+      // Escape key pressed, toggle the CSV box
       showOrHideCSV();
-    } else if(e.keyCode == 90 && (e.metaKey || e.ctrlKey)){
-      undo();
+
+    } else if($('.csv').is(':hidden')){
+      // CSV box is hidden, so let the user categorise people if there are any
+      if(e.keyCode == 90 && (e.metaKey || e.ctrlKey)){
+        // Command-Z
+        undo();
+
+      } else if($('.pairing:visible').length){
+        // There is at least one pairing left to categorise
+        if(e.which == 39){
+          var $choice = $('.pairing:visible .skip');
+          vote($choice);
+
+        } else if(e.which > 48 && e.which < 58){
+          var $choice = $('.pairing:visible .pairing__choices .person').eq(e.which - 49);
+          if($choice.length){
+            // Avoid votes for numbers that don't exist on the page
+            vote($choice);
+          }
+
+        }
+      }
     }
   });
 
