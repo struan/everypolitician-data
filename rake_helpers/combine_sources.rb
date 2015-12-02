@@ -33,7 +33,7 @@ class Reconciler
     @_lookup_by_uuid ||= @_existing_rows.group_by { |r| r[:uuid].to_s }
   end
 
-  def find_all(incoming_row, return_exact_match = true)
+  def find_all(incoming_row)
     if incoming_row[@_incoming_field].to_s.empty?
       # warn "#{incoming_row.reject { |k, v| v.nil? }} has no #{@_incoming_field}"
       return []
@@ -49,7 +49,7 @@ class Reconciler
       return existing[ preset[ "existing_#{@_existing_field}".to_sym ].downcase ]
     end
 
-    if return_exact_match && exact_match = existing[ incoming_row[@_incoming_field].downcase ]
+    if exact_match = existing[ incoming_row[@_incoming_field].downcase ]
       return exact_match
     end
 
