@@ -27,14 +27,52 @@ var vote = function vote($choice){
     window.votes.push( [incomingPersonID, $choice.attr('data-uuid')] );
   }
 
-  $pairing.hide();
-  if($pairing.next().length){
-    $pairing.next().show();
+  nextPairing($pairing);
+  updateProgressBar();
+  updateUndoButton();
+}
+
+var nextPairing = function nextPairing($currentPairing){
+  $currentPairing.hide();
+  var $nextPairing = $currentPairing.next();
+  if($nextPairing.length){
+    highlightExistingVotes($nextPairing);
+    $nextPairing.show();
   } else {
     showOrHideCSV();
   }
-  updateProgressBar();
-  updateUndoButton();
+}
+
+var highlightExistingVotes = function highlightExistingVotes($pairing){
+  var allVotesSoFar = window.votes.concat(window.reconciled);
+
+  $('.pairing__choices .person', $pairing).each(function(){
+    $(this).children('.person__already-matched').remove();
+
+    var uuid = $(this).attr('data-uuid');
+    var personAlreadyMatched = _.findWhere(allVotesSoFar, {1: uuid});
+
+    if(personAlreadyMatched){
+      // This suggested person has already been matched to an incoming person!
+      // Chances are, you won't want to match again. If you do, it'll be because
+      // the original match was incorrect. So we make this clear in the UI.
+
+      // Get the details for the person they were matched to.
+      var personThisPersonWasMatchedTo;
+      _.each(window.matches, function(match){
+        if(match.incoming.id == personAlreadyMatched[0]){
+          personThisPersonWasMatchedTo = match.incoming;
+        }
+      });
+
+      // Show a warning.
+      var warningHTML = renderTemplate('personAlreadyMatched', {
+        person: personThisPersonWasMatchedTo,
+        field: window.existingField
+      });
+      $(this).prepend(warningHTML);
+    }
+  });
 }
 
 var updateProgressBar = function updateProgressBar(){

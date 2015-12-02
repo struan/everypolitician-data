@@ -220,6 +220,24 @@ h2 {
   }
 }
 
+.person__already-matched {
+  margin: -2em -2em 1em -2em;
+  padding: 1em 2em;
+  background-color: mix($color_red, #fff, 5%);
+  color: $color_red;
+
+  &:before {
+    content: "";
+    display: inline-block;
+    width: 1em;
+    height: 1em;
+    background: transparent url($svg_red_warning_triangle) 50% 50% no-repeat;
+    background-size: contain;
+    margin-right: 0.5em;
+    vertical-align: -0.1em;
+  }
+}
+
 .messages {
   text-align: center;
 

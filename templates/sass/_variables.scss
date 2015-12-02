@@ -40,6 +40,8 @@ $high_dpi_screen: '-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi
 
 $column-gutter: 1em; // remember this will be doubled
 
+$svg_red_warning_triangle: "data:image/svg+xml;charset=utf8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' width%3D'481' height%3D'424' viewBox%3D'57.351 134.506 480.579 424.053'%3E%3Cpath fill%3D'%23D71520' d%3D'M532 514L323 153c-14-25-37-25-51 0L63 514c-14 25-2 45 26 45h417c28 0 40-20 26-45zm-234-3c-19 0-34-16-34-35s15-34 34-34c20 0 35 15 35 34s-16 35-35 35zm42-225l-5 91c-1 19-17 34-36 34h-1c-19 0-35-15-36-34l-6-91c-1-19 13-34 32-34h19c19 0 34 15 33 34z'%2F%3E%3C%2Fsvg%3E";
+
 %clearfix {
   &:before,
   &:after {
