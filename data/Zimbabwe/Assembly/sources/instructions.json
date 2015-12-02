@@ -1,8 +1,17 @@
 {
   "sources": [
     {
-      "file": "manual/spreadsheet.csv",
-      "source": "https://raw.githubusercontent.com/everypolitician/everypolitician-data/ce2dde9a7e225f09333d1b8b48d700f733728139/data/Zimbabwe/Assembly/sources/manual/members.csv",
+      "file": "google/sheet.csv",
+      "create": {
+        "url": "https://docs.google.com/spreadsheets/d/1rFnkM9rrhwmo5eTwhEPordgucf-iNACnzc6E78elkaM/export?gid=80268515&format=csv"
+      },
+      "source": "http://kuvakazim.com/",
+      "filter": { 
+        "accept": {
+          "chamber": "Parliament",
+          "term": "8"
+        }
+      },
       "type": "membership"
     },
     {
