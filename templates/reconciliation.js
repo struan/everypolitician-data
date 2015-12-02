@@ -39,7 +39,7 @@ var vote = function vote($choice){
 
 var updateProgressBar = function updateProgressBar(){
   var progress = window.votes.length / $('.pairing').length * 100;
-  $('.progress-bar div').animate({
+  $('.progress .progress-bar div').animate({
     width: '' + progress + '%'
   }, 100);
 }
@@ -92,7 +92,7 @@ var updateUndoButton = function updateUndoButton(){
 jQuery(function($) {
   if(matches.length == 0){
     $('.messages').append('<h1>Nothing to reconcile!</h1>');
-    $('.progress-bar div').animate({
+    $('.progress .progress-bar div').animate({
       width: '100%'
     }, 500);
     updateUndoButton();
@@ -103,7 +103,7 @@ jQuery(function($) {
     var existingPerson = match.existing[0][0];
 
     // Skip exact matches for now
-    if (incomingPerson[incomingField].toLowerCase() == existingPerson[existingField].toLowerCase()) {
+    if (incomingPerson[window.incomingField].toLowerCase() == existingPerson[window.existingField].toLowerCase()) {
       return;
     }
     var incomingPersonFields = _.filter(Object.keys(incomingPerson), function(field) {
@@ -111,8 +111,13 @@ jQuery(function($) {
     });
     var existingPersonHTML = _.map(match.existing, function(existing) {
       var person = existing[0];
+      person.matchStrength = Math.ceil(existing[1] * 100);
       var fields = _.intersection(incomingPersonFields, Object.keys(person));
-      return renderTemplate('person', { person: person, field: existingField, fields: fields });
+      return renderTemplate('person', {
+        person: person,
+        field: window.existingField,
+        fields: fields
+      });
     });
 
     var fields = match.existing.map(function(existing) {
@@ -126,7 +131,7 @@ jQuery(function($) {
       existingPersonHTML: existingPersonHTML.join("\n"),
       incomingPersonHTML: renderTemplate('person', {
         person: incomingPerson,
-        field: incomingField,
+        field: window.incomingField,
         fields: commonFields
       })
     });

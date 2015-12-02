@@ -46,7 +46,9 @@
                 <div class="column-6 pairing__choices">
                     <h2>Potential matches from existing data</h2>
                     {{ existingPersonHTML }}
-                    <div class="skip">None of these match</div>
+                    <div class="skip">
+                      <header class="person__meta">None of these match</header>
+                    </div>
                 </div>
             </div>
         </div>
@@ -58,7 +60,17 @@
       {% } else if(person.id){ %}
         <div class="person" data-id="{{ person.id }}">
       {% } %}
+          {% if (person.matchStrength) { %}
+            <header class="person__meta">
+              <h1>
+                {{ person[field] || person.name }}
+                <span class="person__match-strength">{{ person.matchStrength }}% match</span>
+              </h1>
+              <div class="progress-bar"><div style="width: {{ person.matchStrength }}%"></div></div>
+            </header>
+          {% } else { %}
             <h1>{{ person[field] || person.name }}</h1>
+          {% } %}
             <dl>
               {% fields.forEach(function(field) { %}
                 {% if(field !== 'id' && person[field]){ %}

@@ -103,6 +103,12 @@ h2 {
 
 .person {
   padding: 2em;
+  background-color: #fff;
+
+  .pairing__incoming & {
+    background-color: mix(#fff, $color_off_white, 60%);
+    border: 1px solid $color_light_grey;
+  }
 
   h1 {
     margin: 0 0 0.5em 0;
@@ -133,57 +139,83 @@ h2 {
   }
 }
 
+.skip {
+  padding: 2em;
+  background-color: #fff;
+}
+
+.person__meta {
+  position: relative;
+  padding-left: 3em;
+  margin-bottom: 1.5em;
+
+  &:last-child {
+    margin-bottom: 0;
+  }
+
+  &:before {
+    font-size: 3em;
+    line-height: 1em;
+    display: block;
+    position: absolute;
+    top: 50%;
+    left: 0;
+    margin-top: -0.45em;
+    color: $color_off_white;
+    text-shadow: 0 -1px 0 $color_light_grey;
+    font-weight: bold;
+  }
+
+  h1 {
+    margin-bottom: 0.3em;
+  }
+
+  .progress-bar {
+    background-color: $color_off_white;
+    box-shadow: inset 0 1px 0 $color_light_grey;
+    margin-top: 0;
+  }
+}
+
+.person__match-strength {
+  color: darken($color_green, 5%);
+  font-weight: bold;
+  font-size: 0.5em;
+  text-transform: uppercase;
+  margin-left: 0.2em;
+}
+
 .pairing {
   padding: 2em;
-
-  .person {
-    background-color: mix(#fff, $color_off_white, 60%);
-    border: 1px solid $color_light_grey;
-  }
 }
 
 .pairing__choices {
   counter-reset: choices;
 
+  .person,
+  .skip {
+    box-shadow: 0 1px 3px rgba(0,0,0,0.2);
+    margin-bottom: 2em;
+    cursor: pointer;
+
+    &:hover {
+      position: relative;
+      top: -1px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    }
+  }
+
   .person {
-    &:before {
+    .person__meta:before {
       counter-increment: choices;
       content: counter(choices);
     }
   }
 
   .skip {
-    &:before {
+    .person__meta:before {
       content: "\2794";
-    }
-  }
-
-  .person,
-  .skip {
-    position: relative;
-    background-color: #fff;
-    border: none;
-    box-shadow: 0 1px 3px rgba(0,0,0,0.2);
-    margin-bottom: 2em;
-    padding: 2em 4em 2em 2em;
-    cursor: pointer;
-
-    &:hover {
-      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
-      top: -1px;
-    }
-
-    &:before {
-      font-size: 3em;
-      line-height: 1em;
-      display: block;
-      position: absolute;
-      top: 50%;
-      right: 0.33em;
-      margin-top: -0.5em;
-      color: $color_off_white;
-      text-shadow: 0 -1px 0 $color_light_grey;
-      font-weight: bold;
+      left: -0.2em; // the arrow is wider than the numbers, so give it more space
     }
   }
 }
