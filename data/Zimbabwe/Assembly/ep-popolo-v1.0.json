@@ -1,6 +1,7 @@
 {
   "persons": [
     {
+      "gender": "male",
       "id": "53db868e-8ecf-4e5a-9bcd-86811afc6bf1",
       "identifiers": [
         {
@@ -12,9 +13,17 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Abednico Bhebhe"
+      "image": "http://www.kuvakazim.com/media_root/images/Abednico-Bhebhe.jpg",
+      "images": [
+        {
+          "url": "http://www.kuvakazim.com/media_root/images/Abednico-Bhebhe.jpg"
+        }
+      ],
+      "name": "Abednico Bhebhe",
+      "summary": "Nkayi South Member of the National Assembly"
     },
     {
+      "gender": "male",
       "id": "4b647c0a-3754-4f05-be00-e5de977e8085",
       "identifiers": [
         {
@@ -26,9 +35,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Abednico Ncube"
+      "name": "Abednico Ncube",
+      "summary": "Gwanda South Member of the National Assembly and Minister of State for Matebeleland South Province."
     },
     {
+      "gender": "female",
       "id": "94955e72-aa5d-4b4d-af01-d3920ff9d3be",
       "identifiers": [
         {
@@ -36,9 +47,17 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Abigail Damasane"
+      "image": "http://www.kuvakazim.com/media_root/images/ABIGAIL-DAMASANE-1_1.jpg",
+      "images": [
+        {
+          "url": "http://www.kuvakazim.com/media_root/images/ABIGAIL-DAMASANE-1_1.jpg"
+        }
+      ],
+      "name": "Abigail Damasane",
+      "summary": "Matebeleland South Province Member of the National Assembly and Deputy Minister of Women Affairs and Community Development."
     },
     {
+      "gender": "male",
       "id": "d64d37af-a10b-4241-8296-fe44c0c16e52",
       "identifiers": [
         {
@@ -50,9 +69,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Adam Chimwamurombe"
+      "name": "Adam Chimwamurombe",
+      "summary": "Chipinge West Member of the National Assembly."
     },
     {
+      "gender": "male",
       "id": "4cff869c-d397-46b7-825f-aa639e9f5ff5",
       "identifiers": [
         {
@@ -64,9 +85,17 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Albert Mhlanga"
+      "image": "http://www.kuvakazim.com/media_root/images/mhlangaalbert.jpg",
+      "images": [
+        {
+          "url": "http://www.kuvakazim.com/media_root/images/mhlangaalbert.jpg"
+        }
+      ],
+      "name": "Albert Mhlanga",
+      "summary": "Pumula Member of the National Assembly"
     },
     {
+      "gender": "male",
       "id": "66f6daaf-0d89-4958-95a1-e6e0731895af",
       "identifiers": [
         {
@@ -78,9 +107,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Aldrin Musiiwa"
+      "name": "Aldrin Musiiwa",
+      "summary": "Chakari Member of the National Assembly."
     },
     {
+      "gender": "male",
       "id": "a7c1068d-ab38-4907-aa6d-e10ea76356d4",
       "identifiers": [
         {
@@ -92,9 +123,17 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Alexio Musundire"
+      "image": "http://www.kuvakazim.com/media_root/images/alexio_musundire.jpg",
+      "images": [
+        {
+          "url": "http://www.kuvakazim.com/media_root/images/alexio_musundire.jpg"
+        }
+      ],
+      "name": "Alexio Musundire",
+      "summary": "Zengeza East Member of the National Assembly"
     },
     {
+      "gender": "male",
       "id": "ad015d92-890d-4e1b-83fd-992045b066b5",
       "identifiers": [
         {
@@ -106,9 +145,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Alfred Mufunga"
+      "name": "Alfred Mufunga",
+      "summary": "Muzarabani North Member of National Assembly"
     },
     {
+      "gender": "male",
       "id": "98aec1f1-6cf7-48c2-bb34-3d206f9cecec",
       "identifiers": [
         {
@@ -120,9 +161,17 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Ambrose Mutinhiri"
+      "image": "http://www.kuvakazim.com/media_root/images/MutinhiriAmbrose..jpg",
+      "images": [
+        {
+          "url": "http://www.kuvakazim.com/media_root/images/MutinhiriAmbrose..jpg"
+        }
+      ],
+      "name": "Ambrose Mutinhiri",
+      "summary": "Marondera West Member of National Assembly. Former Minister of Youth Development and Employment Creation."
     },
     {
+      "gender": "male",
       "id": "3acfb90a-56db-4652-9957-9fdaeeae19f5",
       "identifiers": [
         {
@@ -134,9 +183,17 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Amos Midzi"
+      "image": "http://www.kuvakazim.com/media_root/images/amos_midzi.jpg",
+      "images": [
+        {
+          "url": "http://www.kuvakazim.com/media_root/images/amos_midzi.jpg"
+        }
+      ],
+      "name": "Amos Midzi",
+      "summary": "Epworth Member of the National Assembly. Former Minister of Energy and Power Development (2002 -2004) and Minister of Mines and Mining Development (2004 -2009).Also former Ambassador to the United States (1993)."
     },
     {
+      "gender": "female",
       "id": "2e08e7ed-ab3a-462f-bfe6-3d8dafb7ab82",
       "identifiers": [
         {
@@ -144,9 +201,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Anastancia Ndhlovu"
+      "name": "Anastancia Ndhlovu",
+      "summary": "Midlands Province member of the Senate. Former Member of the National Assembly for Shurugwi South."
     },
     {
+      "gender": "male",
       "id": "61711609-2633-4daa-8ef2-beefef99771f",
       "identifiers": [
         {
@@ -158,9 +217,17 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Andrew Langa"
+      "image": "http://www.kuvakazim.com/media_root/images/langa-andrew.jpg",
+      "images": [
+        {
+          "url": "http://www.kuvakazim.com/media_root/images/langa-andrew.jpg"
+        }
+      ],
+      "name": "Andrew Langa",
+      "summary": "Insiza Member of Parliament & Minister of Sports, Arts and Culture. Former Deputy Minister of Public Service,Labour and Social Welfare.Also Former Deputy Minister of Tourism and Hospitality."
     },
     {
+      "gender": "male",
       "id": "79671961-22b7-4ff0-b201-b00f3b2ebfa0",
       "identifiers": [
         {
@@ -172,9 +239,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Anele Ndebele"
+      "name": "Anele Ndebele",
+      "summary": "Magwegwe Member of National Assembly."
     },
     {
+      "gender": "female",
       "id": "734c8434-5f4e-474e-a063-823e306de876",
       "identifiers": [
         {
@@ -186,9 +255,17 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Aqualina Katsande"
+      "image": "http://www.kuvakazim.com/media_root/images/Aqualinah_Katsande.jpg",
+      "images": [
+        {
+          "url": "http://www.kuvakazim.com/media_root/images/Aqualinah_Katsande.jpg"
+        }
+      ],
+      "name": "Aqualina Katsande",
+      "summary": "Mudzi West Member of the National Assembly"
     },
     {
+      "gender": "male",
       "id": "0458848b-6779-4dc5-8b1d-ad8908303a6a",
       "identifiers": [
         {
@@ -200,9 +277,17 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Arnold Tsunga"
+      "image": "http://www.kuvakazim.com/media_root/images/Arnold-Tsunga-Zimbabwe.png",
+      "images": [
+        {
+          "url": "http://www.kuvakazim.com/media_root/images/Arnold-Tsunga-Zimbabwe.png"
+        }
+      ],
+      "name": "Arnold Tsunga",
+      "summary": "Dangamvura-Chikanga Member of the National Assembly"
     },
     {
+      "gender": "male",
       "id": "1d396e63-ec65-47bc-99e8-acad9ab285f2",
       "identifiers": [
         {
@@ -214,9 +299,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Batsirayi Pemhenayi"
+      "name": "Batsirayi Pemhenayi",
+      "summary": "Mutare North Member of National Assembly"
     },
     {
+      "gender": "male",
       "id": "9a58e8be-9f9f-4cdd-8f56-5da9ccd9a9b0",
       "identifiers": [
         {
@@ -228,9 +315,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Bekithemba Mpofu"
+      "name": "Bekithemba Mpofu",
+      "summary": "Hwange West Member of National Assembly"
     },
     {
+      "gender": "male",
       "id": "bf54beed-a0ad-4ddc-b026-faa038a8d356",
       "identifiers": [
         {
@@ -242,9 +331,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Bekithemba Nyathi"
+      "name": "Bekithemba Nyathi",
+      "summary": "Pelandaba Mpopoma Member of National Assembly"
     },
     {
+      "gender": "female",
       "id": "758f4734-b9bb-4004-92e1-c9474b0346e9",
       "identifiers": [
         {
@@ -256,9 +347,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Berta Chikwama"
+      "name": "Berta Chikwama",
+      "summary": "Gutu East Member of National Assembly."
     },
     {
+      "gender": "female",
       "id": "4f0f2191-f952-465a-8584-f4e079092e32",
       "identifiers": [
         {
@@ -270,9 +363,17 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Biata B. Nyamupinga"
+      "image": "http://www.kuvakazim.com/media_root/images/Biata-Beatrice-Nyamupinga-590.jpg",
+      "images": [
+        {
+          "url": "http://www.kuvakazim.com/media_root/images/Biata-Beatrice-Nyamupinga-590.jpg"
+        }
+      ],
+      "name": "Biata B. Nyamupinga",
+      "summary": "Goromonzi West Member of the National Assembly. Former Chairperson of the Zimbabwe Women's Parliamentary Caucus."
     },
     {
+      "gender": "male",
       "id": "a2cc183b-55af-404f-86fd-660fdce19138",
       "identifiers": [
         {
@@ -284,9 +385,17 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Biggie J. Matiza"
+      "image": "http://www.kuvakazim.com/media_root/images/Joel-Biggie-Matiza.jpeg",
+      "images": [
+        {
+          "url": "http://www.kuvakazim.com/media_root/images/Joel-Biggie-Matiza.jpeg"
+        }
+      ],
+      "name": "Biggie J. Matiza",
+      "summary": "Murehwa South Member of National Assembly. Deputy Minister of Local Government, Public Works & National Housing"
     },
     {
+      "gender": "male",
       "id": "7d6ce7cd-4c0d-4168-9007-a73205044f10",
       "identifiers": [
         {
@@ -298,9 +407,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Blessed Runesu"
+      "name": "Blessed Runesu",
+      "summary": "Sanyati Member of National Assembly"
     },
     {
+      "gender": "male",
       "id": "059ee8cc-18b9-42f6-a00d-2dd654044462",
       "identifiers": [
         {
@@ -312,9 +423,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Cephas Sindi"
+      "name": "Cephas Sindi",
+      "summary": "Gokwe Chireya Member of National Assembly"
     },
     {
+      "gender": "male",
       "id": "ec0e6728-5abc-4863-8f38-ba3fc7d473f0",
       "identifiers": [
         {
@@ -326,9 +439,17 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Chenayimoyo D. Francis Nhema"
+      "image": "http://www.kuvakazim.com/media_root/images/Nhema_1.jpg",
+      "images": [
+        {
+          "url": "http://www.kuvakazim.com/media_root/images/Nhema_1.jpg"
+        }
+      ],
+      "name": "Chenayimoyo D. Francis Nhema",
+      "summary": "Shurugwi North Member of the National Assembly & Minister of Youth, Indigenization and Economic Empowerment. Former Minister of Environment & Tourism."
     },
     {
+      "gender": "male",
       "id": "d4ebe0e1-c28e-472d-8c27-06a8fdc4a2ea",
       "identifiers": [
         {
@@ -340,9 +461,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Christopher Chigumba"
+      "name": "Christopher Chigumba",
+      "summary": "Chitungwiza South Member of National Assembly"
     },
     {
+      "gender": "male",
       "id": "9ec0c050-b416-41a5-a177-09836e9b6bfe",
       "identifiers": [
         {
@@ -354,9 +477,17 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Christopher Chitindi"
+      "image": "http://www.kuvakazim.com/media_root/images/Chris_Chitindi.jpg",
+      "images": [
+        {
+          "url": "http://www.kuvakazim.com/media_root/images/Chris_Chitindi.jpg"
+        }
+      ],
+      "name": "Christopher Chitindi",
+      "summary": "Muzarabani South Member of National Assembly"
     },
     {
+      "gender": "male",
       "id": "013e0bd6-c3e0-4d09-8a77-37bb50bf5a71",
       "identifiers": [
         {
@@ -368,9 +499,17 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Christopher Kuruneri"
+      "image": "http://www.kuvakazim.com/media_root/images/kuruneri.jpg",
+      "images": [
+        {
+          "url": "http://www.kuvakazim.com/media_root/images/kuruneri.jpg"
+        }
+      ],
+      "name": "Christopher Kuruneri",
+      "summary": "Mount Darwin East Member of National Assembly. Former Minister of Finance"
     },
     {
+      "gender": "male",
       "id": "3745fd9e-c470-4efe-a03d-865a21a02dee",
       "identifiers": [
         {
@@ -382,9 +521,17 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Christopher Mushohwe"
+      "image": "http://www.kuvakazim.com/media_root/images/chris_mushohwe2.jpg",
+      "images": [
+        {
+          "url": "http://www.kuvakazim.com/media_root/images/chris_mushohwe2.jpg"
+        }
+      ],
+      "name": "Christopher Mushohwe",
+      "summary": "Mutare West Member of the National Assembly & Minister of State for Manicaland Province. Former Resident Minister & Governor of Manicaland Province."
     },
     {
+      "gender": "male",
       "id": "4a176dba-c23f-49a5-9ff3-e783e4876b04",
       "identifiers": [
         {
@@ -396,9 +543,16 @@
           "scheme": "kuvakazim"
         }
       ],
+      "image": "http://www.kuvakazim.com/media_root/images/Christopher-Mutsvangwa-682x1024.jpg",
+      "images": [
+        {
+          "url": "http://www.kuvakazim.com/media_root/images/Christopher-Mutsvangwa-682x1024.jpg"
+        }
+      ],
       "name": "Christopher Mutsvangwa"
     },
     {
+      "gender": "male",
       "id": "564b5785-6eee-4495-9339-5d275c12cd48",
       "identifiers": [
         {
@@ -413,6 +567,7 @@
       "name": "Chriswell Mutematsaka"
     },
     {
+      "gender": "male",
       "id": "b7ecd7df-b83f-478c-a088-3c441f01f076",
       "identifiers": [
         {
@@ -424,9 +579,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Chuma K. Bhasikiti"
+      "name": "Chuma K. Bhasikiti",
+      "summary": "Mwenezi East Member of National Assembly. Masvingo Minister of State for Provincial Affairs."
     },
     {
+      "gender": "male",
       "id": "f68c477e-640c-4c31-a11d-40a7a3c264a2",
       "identifiers": [
         {
@@ -438,9 +595,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Clifford Sibanda"
+      "name": "Clifford Sibanda",
+      "summary": "Bubi Member of National Assembly"
     },
     {
+      "gender": "male",
       "id": "bd24340f-1376-43df-b99f-dc8e92d68bd5",
       "identifiers": [
         {
@@ -452,9 +611,17 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Costa Machingauta"
+      "image": "http://www.kuvakazim.com/media_root/images/Machingauta_1.jpg",
+      "images": [
+        {
+          "url": "http://www.kuvakazim.com/media_root/images/Machingauta_1.jpg"
+        }
+      ],
+      "name": "Costa Machingauta",
+      "summary": "Budiriro Member of the National Assembly"
     },
     {
+      "gender": "male",
       "id": "71eac4f9-a03e-4580-bf6d-ae5203fc4bae",
       "identifiers": [
         {
@@ -466,9 +633,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Daniel M. Ncube"
+      "name": "Daniel M. Ncube",
+      "summary": "Zhombe Member of the National Assembly."
     },
     {
+      "gender": "male",
       "id": "adc5416a-f822-4438-8d9b-001fc4c5e1aa",
       "identifiers": [
         {
@@ -480,9 +649,17 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Daniel Shumba"
+      "image": "http://www.kuvakazim.com/media_root/images/news_bDaniel-Shumba-250_1.jpg",
+      "images": [
+        {
+          "url": "http://www.kuvakazim.com/media_root/images/news_bDaniel-Shumba-250_1.jpg"
+        }
+      ],
+      "name": "Daniel Shumba",
+      "summary": "Masvingo Urban Member of National Assembly"
     },
     {
+      "gender": "male",
       "id": "f8fab022-a55d-4af2-9967-089c7d57760a",
       "identifiers": [
         {
@@ -494,9 +671,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "David Butau"
+      "name": "David Butau",
+      "summary": "Mbire Member of the National Assembly"
     },
     {
+      "gender": "male",
       "id": "45ef46ef-8c15-42df-83da-130dd606d001",
       "identifiers": [
         {
@@ -508,9 +687,17 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "David Chapfika"
+      "image": "http://www.kuvakazim.com/media_root/images/David-Chapfika.jpg",
+      "images": [
+        {
+          "url": "http://www.kuvakazim.com/media_root/images/David-Chapfika.jpg"
+        }
+      ],
+      "name": "David Chapfika",
+      "summary": "Mutoko South Member of National Assembly. Former Deputy Minister of Finance."
     },
     {
+      "gender": "male",
       "id": "59caf53f-854b-4091-91d7-1a573e81a27c",
       "identifiers": [
         {
@@ -522,9 +709,17 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Davis Marapira"
+      "image": "http://www.kuvakazim.com/media_root/images/Hon-Marapira-Davis-12.jpeg",
+      "images": [
+        {
+          "url": "http://www.kuvakazim.com/media_root/images/Hon-Marapira-Davis-12.jpeg"
+        }
+      ],
+      "name": "Davis Marapira",
+      "summary": "Masvingo North Member of National Assembly. Deputy Minister of Agriculture -(Cropping, Mechanisation & Irrigation Development)."
     },
     {
+      "gender": "male",
       "id": "79c21bdd-b5e4-44aa-a2bf-7e391c36c883",
       "identifiers": [
         {
@@ -536,9 +731,17 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Denford Masiya"
+      "image": "http://www.kuvakazim.com/media_root/images/2013-11-24-20-17-37-1579959567.jpeg",
+      "images": [
+        {
+          "url": "http://www.kuvakazim.com/media_root/images/2013-11-24-20-17-37-1579959567.jpeg"
+        }
+      ],
+      "name": "Denford Masiya",
+      "summary": "Chiredzi East Member of National Assembly"
     },
     {
+      "gender": "male",
       "id": "6895b6df-bef7-4f19-8216-3c852aad3cb0",
       "identifiers": [
         {
@@ -550,9 +753,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Dextor T. Nduna"
+      "name": "Dextor T. Nduna",
+      "summary": "Chegutu West Member of the National Assembly."
     },
     {
+      "gender": "male",
       "id": "52dda82b-02c8-46ee-9097-dba5eecea1ae",
       "identifiers": [
         {
@@ -560,9 +765,17 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Didymus Mutasa"
+      "image": "http://www.kuvakazim.com/media_root/images/dydimus_mutasa.jpg",
+      "images": [
+        {
+          "url": "http://www.kuvakazim.com/media_root/images/dydimus_mutasa.jpg"
+        }
+      ],
+      "name": "Didymus Mutasa",
+      "summary": "Headlands Member of the National Assembly & Minister of Presidential Affairs. Former Speaker of Parliament (1980 -1990).Also Former Minister of State for National Security, Lands, Land Reform & Resettlement in the President's Office.Former State Security Minister (2005)"
     },
     {
+      "gender": "male",
       "id": "a289303e-dd74-4e5c-a0a6-ea30f916518c",
       "identifiers": [
         {
@@ -574,9 +787,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Dingilizwe Tshuma"
+      "name": "Dingilizwe Tshuma",
+      "summary": "Emakhandeni-Entumbane Member of National Assembly"
     },
     {
+      "gender": "female",
       "id": "ae2b5210-1575-426a-95d0-08b19373b13a",
       "identifiers": [
         {
@@ -588,9 +803,17 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Dorcas Sibanda"
+      "image": "http://www.kuvakazim.com/media_root/images/dorcas-sibanda.jpg",
+      "images": [
+        {
+          "url": "http://www.kuvakazim.com/media_root/images/dorcas-sibanda.jpg"
+        }
+      ],
+      "name": "Dorcas Sibanda",
+      "summary": "Bulawayo Central Member of the National Assembly"
     },
     {
+      "gender": "female",
       "id": "595188ea-7f08-47e3-8c24-a9986ad96fa1",
       "identifiers": [
         {
@@ -602,9 +825,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Dorothy Mangami"
+      "name": "Dorothy Mangami",
+      "summary": "Gokwe Member of National Assembly"
     },
     {
+      "gender": "male",
       "id": "e134daf9-7f1b-47ef-bde5-75b11353c18f",
       "identifiers": [
         {
@@ -616,9 +841,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Dubeko Sibanda"
+      "name": "Dubeko Sibanda",
+      "summary": "Binga North Member of the National Assembly"
     },
     {
+      "gender": "male",
       "id": "e507a59c-df53-4684-925e-22e5669260e6",
       "identifiers": [
         {
@@ -630,9 +857,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Edgar Chidavaenzi"
+      "name": "Edgar Chidavaenzi",
+      "summary": "Mazowe North Member of the National Assembly"
     },
     {
+      "gender": "male",
       "id": "32df82aa-c50d-4823-9f81-7d2362c51f3d",
       "identifiers": [
         {
@@ -644,9 +873,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Edgar Mbwembwe"
+      "name": "Edgar Mbwembwe",
+      "summary": "Chikomba East Member of the National Assembly"
     },
     {
+      "gender": "male",
       "id": "5fb94a09-628f-45dc-a184-6498b67b20a9",
       "identifiers": [
         {
@@ -658,9 +889,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Edmond Mhere"
+      "name": "Edmond Mhere",
+      "summary": "Masvingo Central Member of the National Assembly"
     },
     {
+      "gender": "male",
       "id": "e2eb0751-b1d3-44d1-bd23-d251516b567f",
       "identifiers": [
         {
@@ -672,9 +905,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Edson Gumbo"
+      "name": "Edson Gumbo",
+      "summary": "Gwanda Central Member of the National Assembly"
     },
     {
+      "gender": "male",
       "id": "bdd4c820-e052-4178-9534-d88822a4d6b8",
       "identifiers": [
         {
@@ -686,9 +921,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Enock Porusingazi"
+      "name": "Enock Porusingazi",
+      "summary": "Chipinge South Member of the National Assembly."
     },
     {
+      "gender": "male",
       "id": "be33091e-be4a-4ab6-a6c3-488c05d75a27",
       "identifiers": [
         {
@@ -700,9 +937,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Ephraim Gwanonodza"
+      "name": "Ephraim Gwanonodza",
+      "summary": "Chivi Central Member of National Assembly"
     },
     {
+      "gender": "male",
       "id": "d5239bd3-8f7a-41ac-9fd7-9a10843a6227",
       "identifiers": [
         {
@@ -714,9 +953,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Epmarcus Kanhanga"
+      "name": "Epmarcus Kanhanga",
+      "summary": "Guruve North Constituency Member of National Assembly"
     },
     {
+      "gender": "male",
       "id": "62f2246f-99e9-4f7a-a786-0766b3d37038",
       "identifiers": [
         {
@@ -728,9 +969,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Erick Murai"
+      "name": "Erick Murai",
+      "summary": "Highfield East Member of National Assembly"
     },
     {
+      "gender": "male",
       "id": "78c6ceab-64f7-428e-b4e7-0f2d37695f15",
       "identifiers": [
         {
@@ -742,9 +985,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Ezira Ruvai"
+      "name": "Ezira Ruvai",
+      "summary": "Masvingo West Member of National Assembly"
     },
     {
+      "gender": "male",
       "id": "da183bf3-bbe1-4fba-92f5-82c018aea8f5",
       "identifiers": [
         {
@@ -756,9 +1001,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Fani Phanuel Phiri"
+      "name": "Fani Phanuel Phiri",
+      "summary": "Kadoma Central Member of the National Assembly"
     },
     {
+      "gender": "male",
       "id": "8f4baff2-fdfc-4841-964f-f3163419fa06",
       "identifiers": [
         {
@@ -770,9 +1017,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Felix Mhona"
+      "name": "Felix Mhona",
+      "summary": "Chikomba Central Member of the National Assembly."
     },
     {
+      "gender": "male",
       "id": "d8e8be5e-a080-4873-b4da-81470260d331",
       "identifiers": [
         {
@@ -784,9 +1033,17 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Fortune Chasi"
+      "image": "http://www.kuvakazim.com/media_root/images/MP_Fortune_Chasi.jpg",
+      "images": [
+        {
+          "url": "http://www.kuvakazim.com/media_root/images/MP_Fortune_Chasi.jpg"
+        }
+      ],
+      "name": "Fortune Chasi",
+      "summary": "Mazowe South Member of National Assembly."
     },
     {
+      "gender": "male",
       "id": "0c5473c5-0df9-448c-93a2-03184993e705",
       "identifiers": [
         {
@@ -798,9 +1055,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Francis Muchenje"
+      "name": "Francis Muchenje",
+      "summary": "Makoni North Member of National Assembly."
     },
     {
+      "gender": "male",
       "id": "098c3c79-2e68-4e99-9ced-4385abc0abf6",
       "identifiers": [
         {
@@ -812,9 +1071,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Francis Mukwangwariwa"
+      "name": "Francis Mukwangwariwa",
+      "summary": "Zvimba East Member of National Assembly"
     },
     {
+      "gender": "male",
       "id": "90c40d5b-acac-4c9b-9bad-be1d68fe1bc9",
       "identifiers": [
         {
@@ -826,9 +1087,17 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Fred Moyo"
+      "image": "http://www.kuvakazim.com/media_root/images/Fred-Moyo.jpg",
+      "images": [
+        {
+          "url": "http://www.kuvakazim.com/media_root/images/Fred-Moyo.jpg"
+        }
+      ],
+      "name": "Fred Moyo",
+      "summary": "Zvishavane-Runde Member of the National Assembly"
     },
     {
+      "gender": "female",
       "id": "9466549d-52e6-4365-a732-651da9cb9303",
       "identifiers": [
         {
@@ -840,9 +1109,17 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Fungai J Majome"
+      "image": "http://www.kuvakazim.com/media_root/images/jessie-majome3.jpg",
+      "images": [
+        {
+          "url": "http://www.kuvakazim.com/media_root/images/jessie-majome3.jpg"
+        }
+      ],
+      "name": "Fungai J Majome",
+      "summary": "Harare West Member of the National Assembly.Former Deputy Minister of Justice and Legal Affairs (2009-2010) and Former Deputy Minister of Women Affairs Gender and Community Development (2010-2013)."
     },
     {
+      "gender": "female",
       "id": "1787c6e6-d71c-42f7-af4d-bf38668ce65d",
       "identifiers": [
         {
@@ -850,9 +1127,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Getrude Chibagu"
+      "name": "Getrude Chibagu",
+      "summary": "Mashonaland Central Member of the National Assembly."
     },
     {
+      "gender": "female",
       "id": "54cf0820-622e-4713-bdfb-7d7c00e47e8c",
       "identifiers": [
         {
@@ -860,9 +1139,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Getrude Hungwa"
+      "name": "Getrude Hungwa",
+      "summary": "Mashonaland East Province Member of National Asembly"
     },
     {
+      "gender": "male",
       "id": "71bdbb61-8f02-4b0d-88dc-38e586a3e959",
       "identifiers": [
         {
@@ -874,9 +1155,17 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Gift Chimanikire"
+      "image": "http://www.kuvakazim.com/media_root/images/Gift-Chimanikire.jpg",
+      "images": [
+        {
+          "url": "http://www.kuvakazim.com/media_root/images/Gift-Chimanikire.jpg"
+        }
+      ],
+      "name": "Gift Chimanikire",
+      "summary": "Southerton Member of National Assembly."
     },
     {
+      "gender": "female",
       "id": "7b5f2996-f3d8-48a7-9fcc-350c386b22d9",
       "identifiers": [
         {
@@ -884,9 +1173,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Gladys Mathe"
+      "name": "Gladys Mathe",
+      "summary": "Bulawayo Province Member of National Assembly."
     },
     {
+      "gender": "male",
       "id": "a66a1991-9786-43b8-8a78-a836b6463e59",
       "identifiers": [
         {
@@ -898,9 +1189,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Godfrey Beremauro"
+      "name": "Godfrey Beremauro",
+      "summary": "Hurungwe Central Member of the National Assembly."
     },
     {
+      "gender": "male",
       "id": "982c56ca-2136-4ccd-844c-c0014df0e609",
       "identifiers": [
         {
@@ -912,9 +1205,17 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Godfrey Gandawa"
+      "image": "http://www.kuvakazim.com/media_root/images/Godfrey_Gandawa.jpg",
+      "images": [
+        {
+          "url": "http://www.kuvakazim.com/media_root/images/Godfrey_Gandawa.jpg"
+        }
+      ],
+      "name": "Godfrey Gandawa",
+      "summary": "Magunje Constituency Member of National Assembly"
     },
     {
+      "gender": "male",
       "id": "56efeaed-b8ba-48e9-b3e9-e600a3e91686",
       "identifiers": [
         {
@@ -929,6 +1230,7 @@
       "name": "Godfrey Sithole"
     },
     {
+      "gender": "male",
       "id": "a3137e0d-6c94-4fdb-a631-07b356a3f71c",
       "identifiers": [
         {
@@ -940,9 +1242,17 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Gorden Moyo"
+      "image": "http://www.kuvakazim.com/media_root/images/Gorden-Moyo.jpg",
+      "images": [
+        {
+          "url": "http://www.kuvakazim.com/media_root/images/Gorden-Moyo.jpg"
+        }
+      ],
+      "name": "Gorden Moyo",
+      "summary": "Makokoba Member of the National Assembly & Former Minister of State Enterprises and Parastatals (2010-2013)"
     },
     {
+      "gender": "male",
       "id": "27f6c9b1-1c9e-4601-be11-b2c062eec662",
       "identifiers": [
         {
@@ -954,9 +1264,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Harris Ncube"
+      "name": "Harris Ncube",
+      "summary": "Redcliffe Member of the National Assembly."
     },
     {
+      "gender": "male",
       "id": "01e0c097-5389-40dc-85ce-61e62ac1e56a",
       "identifiers": [
         {
@@ -971,6 +1283,7 @@
       "name": "Hubert Nyanhongo"
     },
     {
+      "gender": "male",
       "id": "7c5d7f25-61d4-4569-ac92-c39885fee149",
       "identifiers": [
         {
@@ -982,9 +1295,17 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Ignatius Chombo"
+      "image": "http://www.kuvakazim.com/media_root/images/chombo_ign.jpg",
+      "images": [
+        {
+          "url": "http://www.kuvakazim.com/media_root/images/chombo_ign.jpg"
+        }
+      ],
+      "name": "Ignatius Chombo",
+      "summary": "Zvimba North Member of the National Assembly & Minister of Local Government, Public Works and National Housing."
     },
     {
+      "gender": "male",
       "id": "963a6d60-07b9-49c3-9959-cf795ffb9b63",
       "identifiers": [
         {
@@ -996,9 +1317,17 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Innocent Gonese"
+      "image": "http://www.kuvakazim.com/media_root/images/INNOCENT-GONESE-3.jpg",
+      "images": [
+        {
+          "url": "http://www.kuvakazim.com/media_root/images/INNOCENT-GONESE-3.jpg"
+        }
+      ],
+      "name": "Innocent Gonese",
+      "summary": "Mutare Central Member of the National Assembly."
     },
     {
+      "gender": "male",
       "id": "1e424ccd-3923-424e-8dc9-85704ac2f9f1",
       "identifiers": [
         {
@@ -1010,9 +1339,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Innocent Pedzisai"
+      "name": "Innocent Pedzisai",
+      "summary": "Chirumanzu Member of the National Assembly."
     },
     {
+      "gender": "female",
       "id": "78c794d3-5a7d-4166-9c1e-24bb03bc9741",
       "identifiers": [
         {
@@ -1024,9 +1355,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Irene Zindi"
+      "name": "Irene Zindi",
+      "summary": "Mutasa South Member of National Assembly."
     },
     {
+      "gender": "female",
       "id": "14cc43d7-b64b-4a74-b9c0-670f3ff54c25",
       "identifiers": [
         {
@@ -1034,9 +1367,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Iris Chiratidzo Mabuwa"
+      "name": "Iris Chiratidzo Mabuwa",
+      "summary": "Mberengwa South Member of Parliament and Deputy Minister of Industry and Commerce"
     },
     {
+      "gender": "male",
       "id": "180b696c-26cb-4530-b1a8-173dc08e9a66",
       "identifiers": [
         {
@@ -1048,9 +1383,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Isaac Mackenzie"
+      "name": "Isaac Mackenzie",
+      "summary": "Kariba Member of the National Assembly"
     },
     {
+      "gender": "male",
       "id": "f8a23f87-4bb9-4227-9682-ddc6083b8322",
       "identifiers": [
         {
@@ -1058,9 +1395,17 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Jacob Mudenda"
+      "image": "http://www.kuvakazim.com/media_root/images/Jacob_Speaker_of_Parly.jpg",
+      "images": [
+        {
+          "url": "http://www.kuvakazim.com/media_root/images/Jacob_Speaker_of_Parly.jpg"
+        }
+      ],
+      "name": "Jacob Mudenda",
+      "summary": "Speaker of the National House of Assembly"
     },
     {
+      "gender": "male",
       "id": "a7adbb79-9556-4c6f-b8d9-df38d63a261a",
       "identifiers": [
         {
@@ -1072,9 +1417,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Jaison Passade"
+      "name": "Jaison Passade",
+      "summary": "Mount Pleasant Member of the National Assembly."
     },
     {
+      "gender": "male",
       "id": "4467c763-936e-4e3a-975b-281b0586e3c1",
       "identifiers": [
         {
@@ -1086,9 +1433,17 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "James Maridadi"
+      "image": "http://www.kuvakazim.com/media_root/images/maridadi_765583828.jpg",
+      "images": [
+        {
+          "url": "http://www.kuvakazim.com/media_root/images/maridadi_765583828.jpg"
+        }
+      ],
+      "name": "James Maridadi",
+      "summary": "Mabvuku Tafara Member of the National Assembly"
     },
     {
+      "gender": "male",
       "id": "6189a444-6907-453f-a669-729a40be250f",
       "identifiers": [
         {
@@ -1100,9 +1455,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Jeffrey Runzirwai"
+      "name": "Jeffrey Runzirwai",
+      "summary": "Gokwe-Sesame Member of the National Assembly."
     },
     {
+      "gender": "male",
       "id": "c6776595-c0b7-42fd-b850-db819e5d27a7",
       "identifiers": [
         {
@@ -1114,9 +1471,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Jeppy Jaboon"
+      "name": "Jeppy Jaboon",
+      "summary": "Bikita South Member of the National Assembly."
     },
     {
+      "gender": "male",
       "id": "c553e4cb-e5b0-482b-9e65-8879e3f5a250",
       "identifiers": [
         {
@@ -1128,9 +1487,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "John Holder"
+      "name": "John Holder",
+      "summary": "Zvishavane Ngezi Member of the National Assembly."
     },
     {
+      "gender": "female",
       "id": "af663c3c-d52a-4628-b6b1-4ecf645eb11b",
       "identifiers": [
         {
@@ -1142,9 +1503,17 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Joice Mujuru"
+      "image": "http://www.kuvakazim.com/media_root/images/VP-Mujuru.jpg",
+      "images": [
+        {
+          "url": "http://www.kuvakazim.com/media_root/images/VP-Mujuru.jpg"
+        }
+      ],
+      "name": "Joice Mujuru",
+      "summary": "Mt Darwin West Member of the National Assembly & the Vice President of Zimbabwe"
     },
     {
+      "gender": "male",
       "id": "307faa76-7da8-4ba5-8dd2-7008477f6962",
       "identifiers": [
         {
@@ -1156,9 +1525,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Jonathan Samukange"
+      "name": "Jonathan Samukange",
+      "summary": "Mudzi South Member of the National Assembly."
     },
     {
+      "gender": "male",
       "id": "ad191d37-33d4-4dd7-b53d-954b4319513b",
       "identifiers": [
         {
@@ -1170,9 +1541,17 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Joram Gumbo"
+      "image": "http://www.kuvakazim.com/media_root/images/Joram-Gumbo.jpg",
+      "images": [
+        {
+          "url": "http://www.kuvakazim.com/media_root/images/Joram-Gumbo.jpg"
+        }
+      ],
+      "name": "Joram Gumbo",
+      "summary": "Mberengwa South Member of the National Assembly."
     },
     {
+      "gender": "male",
       "id": "2b98f83b-d99b-466b-8e56-90f56700261c",
       "identifiers": [
         {
@@ -1184,9 +1563,17 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Joseph Chinotimba"
+      "image": "http://www.kuvakazim.com/media_root/images/chinos.png",
+      "images": [
+        {
+          "url": "http://www.kuvakazim.com/media_root/images/chinos.png"
+        }
+      ],
+      "name": "Joseph Chinotimba",
+      "summary": "Buhera South member of the National Assembly"
     },
     {
+      "gender": "male",
       "id": "9fdc2b86-4e48-42c9-8eea-be5ab4aefe87",
       "identifiers": [
         {
@@ -1194,9 +1581,17 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Joseph Made"
+      "image": "http://www.kuvakazim.com/media_root/images/Joseph_made_1.jpeg",
+      "images": [
+        {
+          "url": "http://www.kuvakazim.com/media_root/images/Joseph_made_1.jpeg"
+        }
+      ],
+      "name": "Joseph Made",
+      "summary": "Minister of Agriculture, Mechanisation and Irrigation"
     },
     {
+      "gender": "male",
       "id": "d70684a4-97c7-4aa9-a593-cfd10530ff27",
       "identifiers": [
         {
@@ -1208,9 +1603,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Joseph Mapiki"
+      "name": "Joseph Mapiki",
+      "summary": "Shamva South Member of the National Assembly"
     },
     {
+      "gender": "male",
       "id": "cd575780-98b6-4f93-9737-96f02fb57dff",
       "identifiers": [
         {
@@ -1222,9 +1619,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Josephat Madubeko"
+      "name": "Josephat Madubeko",
+      "summary": "Vungu Member of the National Assembly."
     },
     {
+      "gender": "female",
       "id": "a42f3c50-c2fd-43ca-98c7-4945ce22a8ad",
       "identifiers": [
         {
@@ -1232,9 +1631,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Josephine Value Chitembwe"
+      "name": "Josephine Value Chitembwe",
+      "summary": "Harare Province Member of the National Assembly"
     },
     {
+      "gender": "female",
       "id": "755b99aa-0052-4bfd-a950-c5ecd3034492",
       "identifiers": [
         {
@@ -1242,9 +1643,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Judith Muzhavazhe"
+      "name": "Judith Muzhavazhe",
+      "summary": "Masvingo Province Member of the National Assembly"
     },
     {
+      "gender": "male",
       "id": "24ec7413-3fed-4314-b390-b03f4f275054",
       "identifiers": [
         {
@@ -1256,9 +1659,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Justice Mayor Wadyajena"
+      "name": "Justice Mayor Wadyajena",
+      "summary": "Gokwe-Nembudziya Member of the National Assembly"
     },
     {
+      "gender": "male",
       "id": "d2b97fcc-0e5c-4da8-93c3-cf25f9571214",
       "identifiers": [
         {
@@ -1270,9 +1675,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Kalitso Gwanetsa"
+      "name": "Kalitso Gwanetsa",
+      "summary": "Chiredzi South Member of the National Assembly"
     },
     {
+      "gender": "male",
       "id": "e1973afb-5fd1-4ca9-8a32-a9e292dbaa53",
       "identifiers": [
         {
@@ -1284,9 +1691,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Kazembe Kazembe"
+      "name": "Kazembe Kazembe",
+      "summary": "Mazowe West Member of the National Assembly."
     },
     {
+      "gender": "male",
       "id": "011089e3-06a0-4d60-b244-d7d1677dc0e9",
       "identifiers": [
         {
@@ -1298,9 +1707,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Kennedy Matimba"
+      "name": "Kennedy Matimba",
+      "summary": "Bikita East Member of the National Assembly"
     },
     {
+      "gender": "male",
       "id": "ad91ffd7-69ea-429f-9970-d653225252e2",
       "identifiers": [
         {
@@ -1312,9 +1723,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Kenneth S. Musanhi"
+      "name": "Kenneth S. Musanhi",
+      "summary": "Bindura North Member of the National Assembly"
     },
     {
+      "gender": "male",
       "id": "84628452-ef5a-414a-8cb7-2f1e0bc53fcb",
       "identifiers": [
         {
@@ -1326,9 +1739,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Kindness Paradza"
+      "name": "Kindness Paradza",
+      "summary": "Makonde Member of the National Assembly"
     },
     {
+      "gender": "male",
       "id": "8f54ae97-7818-4e0a-a891-6b5c3b5b5803",
       "identifiers": [
         {
@@ -1340,9 +1755,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Kizito Chivamba"
+      "name": "Kizito Chivamba",
+      "summary": "Chiwundura Member of National Assembly."
     },
     {
+      "gender": "male",
       "id": "38da7403-e2dc-447c-a81a-1029c66467de",
       "identifiers": [
         {
@@ -1354,9 +1771,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Kudzanayi Chipanga"
+      "name": "Kudzanayi Chipanga",
+      "summary": "Makoni West Member of the National Assembly"
     },
     {
+      "gender": "male",
       "id": "de168739-5d05-49e8-ab1e-d5348c05fa58",
       "identifiers": [
         {
@@ -1368,9 +1787,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Ladislus Ndoro"
+      "name": "Ladislus Ndoro",
+      "summary": "Murehwa West Member of the National Assembly."
     },
     {
+      "gender": "male",
       "id": "d34f35b0-8d4f-4ca0-ac60-65a2a773f405",
       "identifiers": [
         {
@@ -1382,9 +1803,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Lamson Moyo"
+      "name": "Lamson Moyo",
+      "summary": "Mwenezi West Member of the National Assembly"
     },
     {
+      "gender": "male",
       "id": "9128c3d3-28a7-4b95-a3a0-469e20f3361d",
       "identifiers": [
         {
@@ -1396,9 +1819,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Leonard Chikomba"
+      "name": "Leonard Chikomba",
+      "summary": "Gokwe Kabuyuni Member of the National Assembly."
     },
     {
+      "gender": "female",
       "id": "9e9e58f7-427f-49e0-878c-de5e5cf4abf3",
       "identifiers": [
         {
@@ -1406,9 +1831,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Lilian Zemura"
+      "name": "Lilian Zemura",
+      "summary": "Mashonaland East Province Member of the National Assembly."
     },
     {
+      "gender": "male",
       "id": "d8d80ec2-5e83-4805-bc9b-5079c488c9a7",
       "identifiers": [
         {
@@ -1420,9 +1847,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Lovemore Matuke"
+      "name": "Lovemore Matuke",
+      "summary": "Gutu Central Member of the National Assembly."
     },
     {
+      "gender": "female",
       "id": "8acfe5a5-8f53-4f2b-a0ab-fa079ae074ae",
       "identifiers": [
         {
@@ -1434,9 +1863,17 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Lucia Matibenga"
+      "image": "http://www.kuvakazim.com/media_root/images/luciamatibenga17jan.jpg",
+      "images": [
+        {
+          "url": "http://www.kuvakazim.com/media_root/images/luciamatibenga17jan.jpg"
+        }
+      ],
+      "name": "Lucia Matibenga",
+      "summary": "Kuwadzana Member of the National Assembly. Former Minister of Public Service (2011-2013)."
     },
     {
+      "gender": "male",
       "id": "4a4fb767-b7f2-433f-bee6-8e48416c7e2d",
       "identifiers": [
         {
@@ -1448,9 +1885,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Luke Musamvu"
+      "name": "Luke Musamvu",
+      "summary": "Mutasa North Member of the National Assembly."
     },
     {
+      "gender": "male",
       "id": "d83462e1-7c52-4777-88c4-c39ed77c6cce",
       "identifiers": [
         {
@@ -1462,9 +1901,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Lungisani Nleya"
+      "name": "Lungisani Nleya",
+      "summary": "Bulilima West Member of the National Assembly."
     },
     {
+      "gender": "female",
       "id": "fbf2b04f-827d-4fe7-b97e-14884d911161",
       "identifiers": [
         {
@@ -1472,9 +1913,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Mabel Kaundikiza"
+      "name": "Mabel Kaundikiza",
+      "summary": "Mashonaland East Province Member of the National Assembly"
     },
     {
+      "gender": "female",
       "id": "5f767a39-4533-4863-8b60-29c6016107e2",
       "identifiers": [
         {
@@ -1482,9 +1925,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Mabel Matirangano Nkatazo"
+      "name": "Mabel Matirangano Nkatazo",
+      "summary": "Mashonaland East Member of the National Assembly."
     },
     {
+      "gender": "female",
       "id": "33a8a270-99c9-435a-b3d8-66486e865558",
       "identifiers": [
         {
@@ -1496,9 +1941,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Mable M. Chinomona"
+      "name": "Mable M. Chinomona",
+      "summary": "Mutoko North Member of the National Assembly."
     },
     {
+      "gender": "male",
       "id": "853714c1-569b-4cab-99c4-192c679774b6",
       "identifiers": [
         {
@@ -1510,9 +1957,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Madodana Sibanda"
+      "name": "Madodana Sibanda",
+      "summary": "Gwanda North Member of the National Assembly."
     },
     {
+      "gender": "male",
       "id": "088ef39d-5afa-40f6-b469-38deb07a32e3",
       "identifiers": [
         {
@@ -1524,9 +1973,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Mafios Vutete"
+      "name": "Mafios Vutete",
+      "summary": "Chivi South Member of the National Assembly."
     },
     {
+      "gender": "male",
       "id": "81967f39-0c7e-46b4-8581-40fd05542ad4",
       "identifiers": [
         {
@@ -1538,9 +1989,17 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Makhosini Hlongwane"
+      "image": "http://www.kuvakazim.com/media_root/images/hlongwane_makhosini.jpg",
+      "images": [
+        {
+          "url": "http://www.kuvakazim.com/media_root/images/hlongwane_makhosini.jpg"
+        }
+      ],
+      "name": "Makhosini Hlongwane",
+      "summary": "Mberengwa East Member of the National Assembly."
     },
     {
+      "gender": "male",
       "id": "35046ffc-4b9e-4e08-9b0c-649c3aa411f6",
       "identifiers": [
         {
@@ -1552,9 +2011,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Malach Nkomo"
+      "name": "Malach Nkomo",
+      "summary": "Insiza South Member of the National Assembly"
     },
     {
+      "gender": "female",
       "id": "c6dd329d-b2fc-48c8-b4e0-6eaeed489056",
       "identifiers": [
         {
@@ -1566,9 +2027,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Mandi M. Chimene"
+      "name": "Mandi M. Chimene",
+      "summary": "Makoni South Member of the National Assembly."
     },
     {
+      "gender": "male",
       "id": "d58e3df2-ba84-4c92-ad64-5215414feda8",
       "identifiers": [
         {
@@ -1580,9 +2043,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Mapetere D. V. Mawere"
+      "name": "Mapetere D. V. Mawere",
+      "summary": "Zaka West Member of the National Assembly."
     },
     {
+      "gender": "female",
       "id": "9ded0a36-ac50-4736-b4ad-7a7e53efa40f",
       "identifiers": [
         {
@@ -1594,9 +2059,17 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Margaret Matienga"
+      "image": "http://www.kuvakazim.com/media_root/images/matiengamagaret.jpg",
+      "images": [
+        {
+          "url": "http://www.kuvakazim.com/media_root/images/matiengamagaret.jpg"
+        }
+      ],
+      "name": "Margaret Matienga",
+      "summary": "Sunningdale Member of the National Assembly."
     },
     {
+      "gender": "male",
       "id": "74c70777-46c8-4df8-b093-256afabc2957",
       "identifiers": [
         {
@@ -1608,9 +2081,17 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Martin Khumalo"
+      "image": "http://www.kuvakazim.com/media_root/images/Hon_Martin_Khumalo.jpg",
+      "images": [
+        {
+          "url": "http://www.kuvakazim.com/media_root/images/Hon_Martin_Khumalo.jpg"
+        }
+      ],
+      "name": "Martin Khumalo",
+      "summary": "Lupane West Constituency Member of the National Assembly"
     },
     {
+      "gender": "male",
       "id": "d226f327-a6f1-40ef-9551-eed1b4f4bc6b",
       "identifiers": [
         {
@@ -1622,9 +2103,17 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Masango Matambanadzo"
+      "image": "http://www.kuvakazim.com/media_root/images/Masango-Matambanadzo.jpg",
+      "images": [
+        {
+          "url": "http://www.kuvakazim.com/media_root/images/Masango-Matambanadzo.jpg"
+        }
+      ],
+      "name": "Masango Matambanadzo",
+      "summary": "KweKwe Central Member of the National Assembly."
     },
     {
+      "gender": "male",
       "id": "8b187f83-79ea-495c-9f08-d7e20ac8e67c",
       "identifiers": [
         {
@@ -1639,6 +2128,7 @@
       "name": "Mathias S. Ndlovu"
     },
     {
+      "gender": "male",
       "id": "8c697536-d1a2-44cf-b6f7-c6481759ea60",
       "identifiers": [
         {
@@ -1650,9 +2140,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Mathias Tongofa"
+      "name": "Mathias Tongofa",
+      "summary": "Chivi North Member of the National Assembly."
     },
     {
+      "gender": "female",
       "id": "2d3fb081-7099-48be-9539-94faa4a02f36",
       "identifiers": [
         {
@@ -1664,9 +2156,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Melenia Mahiya"
+      "name": "Melenia Mahiya",
+      "summary": "Gokwe-Gumunyu Member of the National Assembly."
     },
     {
+      "gender": "female",
       "id": "6e136f0c-fdd9-4c36-a068-17ecfb9d7257",
       "identifiers": [
         {
@@ -1678,9 +2172,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Metrine Mdau"
+      "name": "Metrine Mdau",
+      "summary": "Beitbridge West Member of the National Assembly."
     },
     {
+      "gender": "male",
       "id": "43d462ce-ada2-4f3e-8cab-1c56c48169e4",
       "identifiers": [
         {
@@ -1692,9 +2188,17 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Michael Bimha"
+      "image": "http://www.kuvakazim.com/media_root/images/Michael_Bimha.jpg",
+      "images": [
+        {
+          "url": "http://www.kuvakazim.com/media_root/images/Michael_Bimha.jpg"
+        }
+      ],
+      "name": "Michael Bimha",
+      "summary": "Chikomba West Member of the National Assembly and Minister of Industry and Commerce"
     },
     {
+      "gender": "male",
       "id": "0ea12299-4671-44ce-9c1d-3cf37b4bafcd",
       "identifiers": [
         {
@@ -1706,9 +2210,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Michael Madanha"
+      "name": "Michael Madanha",
+      "summary": "Wedza South Member of the National Assembly."
     },
     {
+      "gender": "male",
       "id": "fcb67dda-4e74-410d-945d-ffc5a9487ae6",
       "identifiers": [
         {
@@ -1720,9 +2226,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Mike Gava"
+      "name": "Mike Gava",
+      "summary": "Mhondoro-Ngezi Member of the National Assembly."
     },
     {
+      "gender": "female",
       "id": "e7d585fd-e364-4c37-8e5f-ba915f1c941d",
       "identifiers": [
         {
@@ -1734,9 +2242,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Miriam Makweya"
+      "name": "Miriam Makweya",
+      "summary": "Gokwe Mapfungautsi Member of the National Assembly."
     },
     {
+      "gender": "female",
       "id": "f0d06042-32ff-4d10-9a35-f6576daaaaa9",
       "identifiers": [
         {
@@ -1744,9 +2254,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Monica Chigudu"
+      "name": "Monica Chigudu",
+      "summary": "Masvingo Province Member of the National Assembly."
     },
     {
+      "gender": "male",
       "id": "f3a8eab7-d86f-4e72-a603-80a806e249d5",
       "identifiers": [
         {
@@ -1758,9 +2270,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Moses Manyengawana"
+      "name": "Moses Manyengawana",
+      "summary": "Highfield West Member of the National Assembly."
     },
     {
+      "gender": "male",
       "id": "038bf59d-dc08-4686-8610-b392900b4a95",
       "identifiers": [
         {
@@ -1772,9 +2286,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Mthokozisi M. Mpofu"
+      "name": "Mthokozisi M. Mpofu",
+      "summary": "Silobela Member of the National Assembly."
     },
     {
+      "gender": "male",
       "id": "d21d663e-91d8-45b8-8a4d-f6aba60cd890",
       "identifiers": [
         {
@@ -1786,9 +2302,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Mubvumbi Mawere"
+      "name": "Mubvumbi Mawere",
+      "summary": "Mutoko East member of the National Assembly."
     },
     {
+      "gender": "male",
       "id": "e23a7daa-2280-4e54-87ca-68222e1d8e44",
       "identifiers": [
         {
@@ -1800,9 +2318,17 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Munacho Mutezo"
+      "image": "http://www.kuvakazim.com/media_root/images/Munacho_Mutezo.jpg",
+      "images": [
+        {
+          "url": "http://www.kuvakazim.com/media_root/images/Munacho_Mutezo.jpg"
+        }
+      ],
+      "name": "Munacho Mutezo",
+      "summary": "Chimanimani West Member of the National Assembly & Deputy Minister of Energy and Power Development"
     },
     {
+      "gender": "male",
       "id": "a2fb430b-347d-401d-a8f4-c1ea98e74adc",
       "identifiers": [
         {
@@ -1814,9 +2340,17 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Munyaradzi Kereke"
+      "image": "http://www.kuvakazim.com/media_root/images/Munyaradzi_kereke.jpg",
+      "images": [
+        {
+          "url": "http://www.kuvakazim.com/media_root/images/Munyaradzi_kereke.jpg"
+        }
+      ],
+      "name": "Munyaradzi Kereke",
+      "summary": "Bikita West Member of the National Assembly."
     },
     {
+      "gender": "male",
       "id": "5a027c4a-64e3-44e8-b4b2-529ca8a81684",
       "identifiers": [
         {
@@ -1828,9 +2362,17 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Murisi Zwizwai"
+      "image": "http://www.kuvakazim.com/media_root/images/Murisi_Zwizwai.jpg",
+      "images": [
+        {
+          "url": "http://www.kuvakazim.com/media_root/images/Murisi_Zwizwai.jpg"
+        }
+      ],
+      "name": "Murisi Zwizwai",
+      "summary": "Harare Central Member of the National Assembly."
     },
     {
+      "gender": "male",
       "id": "6c988957-6089-4659-8005-a6c32b2fcde5",
       "identifiers": [
         {
@@ -1842,9 +2384,17 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Nelson Chamisa"
+      "image": "http://www.kuvakazim.com/media_root/images/chamisa_nelson_copy-150x175.jpg",
+      "images": [
+        {
+          "url": "http://www.kuvakazim.com/media_root/images/chamisa_nelson_copy-150x175.jpg"
+        }
+      ],
+      "name": "Nelson Chamisa",
+      "summary": "Kuwadzana East Member of the National Assembly & Former Minister of Information, Communication & Technology (2009-2013)."
     },
     {
+      "gender": "male",
       "id": "1bd31b81-ab68-4245-be89-1f280ea96d71",
       "identifiers": [
         {
@@ -1856,9 +2406,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Never Khanye"
+      "name": "Never Khanye",
+      "summary": "Matobo North Member of the National Assembly."
     },
     {
+      "gender": "male",
       "id": "fd50f84c-6472-4b56-91ce-1602761e0607",
       "identifiers": [
         {
@@ -1870,9 +2422,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Newton Kachepa"
+      "name": "Newton Kachepa",
+      "summary": "Mudzi North Member of the National Assembly."
     },
     {
+      "gender": "male",
       "id": "b41a1e7a-d43b-4f50-aa9e-717009b974e1",
       "identifiers": [
         {
@@ -1884,9 +2438,17 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Nicholas Goche"
+      "image": "http://www.kuvakazim.com/media_root/images/Nicholas_Goche.jpg",
+      "images": [
+        {
+          "url": "http://www.kuvakazim.com/media_root/images/Nicholas_Goche.jpg"
+        }
+      ],
+      "name": "Nicholas Goche",
+      "summary": "Shamva North Member of the National Assembly & Minister of Public Service, Labour and Social Welfare"
     },
     {
+      "gender": "female",
       "id": "d4f226e0-5fad-4cd5-959b-8b8f0c9d1356",
       "identifiers": [
         {
@@ -1894,9 +2456,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Nomathemba Ndlovu"
+      "name": "Nomathemba Ndlovu",
+      "summary": "Matebeleland South Province Member of the National Assembly."
     },
     {
+      "gender": "female",
       "id": "a4dd55a7-71b1-448d-8e69-f2959ca949a8",
       "identifiers": [
         {
@@ -1904,9 +2468,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Nomsa Jenifer Mlanga"
+      "name": "Nomsa Jenifer Mlanga",
+      "summary": "Mashonaland West Province Member of the National Assembly."
     },
     {
+      "gender": "male",
       "id": "ff39ff44-d4fb-4f8f-8437-cdcb5fd3eea6",
       "identifiers": [
         {
@@ -1918,9 +2484,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Noveti Muponora"
+      "name": "Noveti Muponora",
+      "summary": "Mt Darwin North Member of the National Assembly."
     },
     {
+      "gender": "female",
       "id": "dbddd8e1-79bf-4ce4-a3e2-e6face55b51d",
       "identifiers": [
         {
@@ -1932,9 +2500,17 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Nyasha Chikwinya"
+      "image": "http://www.kuvakazim.com/media_root/images/nyashachikwinyaw.jpg",
+      "images": [
+        {
+          "url": "http://www.kuvakazim.com/media_root/images/nyashachikwinyaw.jpg"
+        }
+      ],
+      "name": "Nyasha Chikwinya",
+      "summary": "Mutare South Member of the National Assembly."
     },
     {
+      "gender": "male",
       "id": "6ff62d8e-70c5-4af4-b8df-e95508d52f52",
       "identifiers": [
         {
@@ -1946,9 +2522,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Obedingwa Mguni"
+      "name": "Obedingwa Mguni",
+      "summary": "Mangwe Member of the National Assembly."
     },
     {
+      "gender": "male",
       "id": "a4eed76a-2b7a-4d9c-80e5-c19878a66960",
       "identifiers": [
         {
@@ -1960,9 +2538,17 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Oliver Mandipaka"
+      "image": "http://www.kuvakazim.com/media_root/images/Oliver_mandipaka.jpg",
+      "images": [
+        {
+          "url": "http://www.kuvakazim.com/media_root/images/Oliver_mandipaka.jpg"
+        }
+      ],
+      "name": "Oliver Mandipaka",
+      "summary": "Buhera West Member of the National Assembly and Former National Police Spokesperson."
     },
     {
+      "gender": "female",
       "id": "97684b55-0540-4768-b9ae-879a846c5260",
       "identifiers": [
         {
@@ -1970,9 +2556,17 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Oppah Muchinguri"
+      "image": "http://www.kuvakazim.com/media_root/images/oppah_muchinguri.jpg",
+      "images": [
+        {
+          "url": "http://www.kuvakazim.com/media_root/images/oppah_muchinguri.jpg"
+        }
+      ],
+      "name": "Oppah Muchinguri",
+      "summary": "Manicaland Province Member of the National Assembly and Minister of Women Affairs and Community Development."
     },
     {
+      "gender": "male",
       "id": "50ebbde6-c009-416e-acc0-7c42b9ae4fb8",
       "identifiers": [
         {
@@ -1984,9 +2578,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Owen Ncube"
+      "name": "Owen Ncube",
+      "summary": "Gokwe Kana Member of the National Assembly."
     },
     {
+      "gender": "male",
       "id": "189a289e-4e2f-47d8-a464-312143655729",
       "identifiers": [
         {
@@ -1998,9 +2594,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Paradzai Chakona"
+      "name": "Paradzai Chakona",
+      "summary": "Zaka Central Member of the National Assembly."
     },
     {
+      "gender": "male",
       "id": "7d528638-203d-4e79-b80b-c73944835648",
       "identifiers": [
         {
@@ -2012,9 +2610,17 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Patrick Chinamasa"
+      "image": "http://www.kuvakazim.com/media_root/images/chinamasa.jpg",
+      "images": [
+        {
+          "url": "http://www.kuvakazim.com/media_root/images/chinamasa.jpg"
+        }
+      ],
+      "name": "Patrick Chinamasa",
+      "summary": "Makoni Central Member of the National Assembly & Minister of Finance.Former Minister of Justice, Legal & Parliamentary Affairs ( 2000 - 2013)."
     },
     {
+      "gender": "male",
       "id": "32c2c191-3d3e-47d8-a32e-5a5015fa8357",
       "identifiers": [
         {
@@ -2026,9 +2632,17 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Paul Chimedza"
+      "image": "http://www.kuvakazim.com/media_root/images/Paul_Chimedza.jpg",
+      "images": [
+        {
+          "url": "http://www.kuvakazim.com/media_root/images/Paul_Chimedza.jpg"
+        }
+      ],
+      "name": "Paul Chimedza",
+      "summary": "Gutu South Member of the National Assembly and Deputy Minister of Health and Child Care"
     },
     {
+      "gender": "male",
       "id": "797a2a05-9650-4646-8fb5-05724305e53f",
       "identifiers": [
         {
@@ -2040,9 +2654,17 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Paul Madzore"
+      "image": "http://www.kuvakazim.com/media_root/images/Paul_Madzore.jpg",
+      "images": [
+        {
+          "url": "http://www.kuvakazim.com/media_root/images/Paul_Madzore.jpg"
+        }
+      ],
+      "name": "Paul Madzore",
+      "summary": "Glen View South Member of the National Assembly."
     },
     {
+      "gender": "male",
       "id": "6f1e4191-9310-4e9e-aaf5-38928b3cf3a1",
       "identifiers": [
         {
@@ -2054,9 +2676,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Paul Mavima"
+      "name": "Paul Mavima",
+      "summary": "Gokwe-Sengwe Member of the National Assembly."
     },
     {
+      "gender": "female",
       "id": "9e353383-fa27-45e3-8d27-933d3998d7ba",
       "identifiers": [
         {
@@ -2068,9 +2692,17 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Paurina Mpariwa"
+      "image": "http://www.kuvakazim.com/media_root/images/Hon_Mupariwa.JPG",
+      "images": [
+        {
+          "url": "http://www.kuvakazim.com/media_root/images/Hon_Mupariwa.JPG"
+        }
+      ],
+      "name": "Paurina Mpariwa",
+      "summary": "Mufakose Member of the National Assembly and Former Minister of Labour and Social Welfare (2009-2013)"
     },
     {
+      "gender": "male",
       "id": "89ffab5d-90fb-4d01-bcf3-a7f67808b08f",
       "identifiers": [
         {
@@ -2078,9 +2710,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Peter Haritatos"
+      "name": "Peter Haritatos",
+      "summary": "Muzvezve Member of the National Assembly"
     },
     {
+      "gender": "male",
       "id": "c67af194-5f7d-4e8f-8032-3cf7551127a5",
       "identifiers": [
         {
@@ -2092,9 +2726,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Peter Mataruse"
+      "name": "Peter Mataruse",
+      "summary": "Chinhoyi Member of the National Assembly."
     },
     {
+      "gender": "female",
       "id": "85313fc7-887c-41c1-ae84-5632cecf7a22",
       "identifiers": [
         {
@@ -2106,9 +2742,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Petronella Kagonye"
+      "name": "Petronella Kagonye",
+      "summary": "Goromonzi South Member of the National Assembly."
     },
     {
+      "gender": "male",
       "id": "acc9d454-505e-453e-bd4b-a8882a20d5f0",
       "identifiers": [
         {
@@ -2120,9 +2758,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Phelele Masuku"
+      "name": "Phelele Masuku",
+      "summary": "Nketa Member of the National House of Assembly."
     },
     {
+      "gender": "male",
       "id": "227ddcbe-8d4b-498a-8d4e-fdc96def99e1",
       "identifiers": [
         {
@@ -2134,9 +2774,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Phineas Chiota"
+      "name": "Phineas Chiota",
+      "summary": "Seke Member of the National Assembly."
     },
     {
+      "gender": "female",
       "id": "14d98a4e-9fb3-4f9a-bc19-c3e569251f2f",
       "identifiers": [
         {
@@ -2144,9 +2786,17 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Priscilla Misihairabwi-Mushonga"
+      "image": "http://www.kuvakazim.com/media_root/images/Priscilla_Misihairabwi_Mushonga.jpg",
+      "images": [
+        {
+          "url": "http://www.kuvakazim.com/media_root/images/Priscilla_Misihairabwi_Mushonga.jpg"
+        }
+      ],
+      "name": "Priscilla Misihairabwi-Mushonga",
+      "summary": "Matebeleland South Member of the National Assembly and MDC Secretary General.Former Minister of Regional & International Cooperation (2009-2013)."
     },
     {
+      "gender": "male",
       "id": "4e330a25-b6ca-4b20-8801-cbc0317b4cb4",
       "identifiers": [
         {
@@ -2158,9 +2808,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Prosper Mutseyami"
+      "name": "Prosper Mutseyami",
+      "summary": "Musikavanhu Member of the National Assembly."
     },
     {
+      "gender": "male",
       "id": "97d0d5e4-281c-4d91-8b61-a7f4fd684a19",
       "identifiers": [
         {
@@ -2172,9 +2824,17 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Ray Kaukonde"
+      "image": "http://www.kuvakazim.com/media_root/images/kaukonderay.jpg",
+      "images": [
+        {
+          "url": "http://www.kuvakazim.com/media_root/images/kaukonderay.jpg"
+        }
+      ],
+      "name": "Ray Kaukonde",
+      "summary": "Marondera Central Member of the National Assembly."
     },
     {
+      "gender": "male",
       "id": "c3a3991e-e662-413e-ad00-814bb61a4b9d",
       "identifiers": [
         {
@@ -2186,9 +2846,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Raymore Machingura"
+      "name": "Raymore Machingura",
+      "summary": "Chipinge Central Member of the National Assembly."
     },
     {
+      "gender": "male",
       "id": "3f4d2228-90d2-41dd-a658-0e0d34e97b9f",
       "identifiers": [
         {
@@ -2200,9 +2862,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Reggie Moyo"
+      "name": "Reggie Moyo",
+      "summary": "Luveve Member of the National Assembly."
     },
     {
+      "gender": "male",
       "id": "bf18d97d-18dc-4e3c-96dd-322779411860",
       "identifiers": [
         {
@@ -2214,9 +2878,17 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Reuben Marumahoko"
+      "image": "http://www.kuvakazim.com/media_root/images/Reuben-Marumahoko.jpg",
+      "images": [
+        {
+          "url": "http://www.kuvakazim.com/media_root/images/Reuben-Marumahoko.jpg"
+        }
+      ],
+      "name": "Reuben Marumahoko",
+      "summary": "Hurungwe North Member of the National Assembly"
     },
     {
+      "gender": "male",
       "id": "46d8abc3-6b03-4826-8bbe-8e22b1c235d4",
       "identifiers": [
         {
@@ -2228,9 +2900,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Robert Mukwena"
+      "name": "Robert Mukwena",
+      "summary": "Chiredzi North Member of the National Assembly."
     },
     {
+      "gender": "male",
       "id": "7d43a319-3a5c-44af-bfde-20dd65331dad",
       "identifiers": [
         {
@@ -2242,9 +2916,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Robson Mavenyengwa"
+      "name": "Robson Mavenyengwa",
+      "summary": "Zaka North Member of the National Assembly."
     },
     {
+      "gender": "male",
       "id": "d6b91241-66c6-4a11-a1bb-6fd2bf538ae2",
       "identifiers": [
         {
@@ -2256,9 +2932,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Ronald Muderedzwa"
+      "name": "Ronald Muderedzwa",
+      "summary": "Buhera Central Member of the National Assembly"
     },
     {
+      "gender": "female",
       "id": "e41f2f54-9050-4170-a151-7196cebb52df",
       "identifiers": [
         {
@@ -2270,9 +2948,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Roselyn Nkomo"
+      "name": "Roselyn Nkomo",
+      "summary": "Tsholotsho North Member of the National Assembly."
     },
     {
+      "gender": "female",
       "id": "7682f918-2395-44cb-a4f7-972d43393739",
       "identifiers": [
         {
@@ -2280,9 +2960,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Rossy Mpofu"
+      "name": "Rossy Mpofu",
+      "summary": "Matebeleland South member of the National Assembly."
     },
     {
+      "gender": "female",
       "id": "f91ca6a2-1670-470c-9395-6c00e190cdd4",
       "identifiers": [
         {
@@ -2290,9 +2972,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Sabbina Mangwende"
+      "name": "Sabbina Mangwende",
+      "summary": "Harare Province Member of the National Assembly."
     },
     {
+      "gender": "male",
       "id": "56744571-a80a-4f18-93b2-6c7b47a5e0d6",
       "identifiers": [
         {
@@ -2304,9 +2988,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Samson T. Mukanduri"
+      "name": "Samson T. Mukanduri",
+      "summary": "Zaka East member of the National Assembly."
     },
     {
+      "gender": "male",
       "id": "3b9d6515-cd3f-4297-8c4a-e647470c2f65",
       "identifiers": [
         {
@@ -2318,9 +3004,17 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Samuel Sipepa"
+      "image": "http://www.kuvakazim.com/media_root/images/Samuel_Sipepa_Nkomo.jpeg",
+      "images": [
+        {
+          "url": "http://www.kuvakazim.com/media_root/images/Samuel_Sipepa_Nkomo.jpeg"
+        }
+      ],
+      "name": "Samuel Sipepa",
+      "summary": "Lobengula Member of the National Assembly and Former Minister of Water Resources Development and Management (2009-2013)"
     },
     {
+      "gender": "male",
       "id": "e1536336-dbf7-41a7-a83e-c2c4bbbf158f",
       "identifiers": [
         {
@@ -2332,9 +3026,17 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Samuel Undenge"
+      "image": "http://www.kuvakazim.com/media_root/images/samuel-udenge.jpg",
+      "images": [
+        {
+          "url": "http://www.kuvakazim.com/media_root/images/samuel-udenge.jpg"
+        }
+      ],
+      "name": "Samuel Undenge",
+      "summary": "Chimanimani East Member of the National Assembly & Deputy Minister of Finance"
     },
     {
+      "gender": "female",
       "id": "737ac326-6093-40ea-a158-40ea766305eb",
       "identifiers": [
         {
@@ -2346,9 +3048,17 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Sarah Mahoka"
+      "image": "http://www.kuvakazim.com/media_root/images/mahokasarah.jpg",
+      "images": [
+        {
+          "url": "http://www.kuvakazim.com/media_root/images/mahokasarah.jpg"
+        }
+      ],
+      "name": "Sarah Mahoka",
+      "summary": "Hurungwe East Member of the National Assembly"
     },
     {
+      "gender": "male",
       "id": "4b14e12b-28b3-4531-a3e1-954d54f0fcb9",
       "identifiers": [
         {
@@ -2360,9 +3070,17 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Sesel Zvidzai"
+      "image": "http://www.kuvakazim.com/media_root/images/Sesel-zvidzai.jpg",
+      "images": [
+        {
+          "url": "http://www.kuvakazim.com/media_root/images/Sesel-zvidzai.jpg"
+        }
+      ],
+      "name": "Sesel Zvidzai",
+      "summary": "Gweru Urban Member of the National Aseembly."
     },
     {
+      "gender": "male",
       "id": "eb6f5e38-2970-4b47-b122-6cecb10e6da2",
       "identifiers": [
         {
@@ -2374,9 +3092,17 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Settlement Chikwinya"
+      "image": "http://www.kuvakazim.com/media_root/images/Settlement_Chikwinya.jpg",
+      "images": [
+        {
+          "url": "http://www.kuvakazim.com/media_root/images/Settlement_Chikwinya.jpg"
+        }
+      ],
+      "name": "Settlement Chikwinya",
+      "summary": "Mbizo Member of the National Assembly."
     },
     {
+      "gender": "male",
       "id": "31f2f564-00e4-4d0e-8c7c-befba4fef091",
       "identifiers": [
         {
@@ -2388,9 +3114,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Shadreck Mashayamombe"
+      "name": "Shadreck Mashayamombe",
+      "summary": "Harare South Member of the National Assembly."
     },
     {
+      "gender": "male",
       "id": "a787d094-699d-4dd2-ba1f-156714d728f2",
       "identifiers": [
         {
@@ -2402,9 +3130,17 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Simbaneuta Mudarikwa"
+      "image": "http://www.kuvakazim.com/media_root/images/Simbaneutamudarikwa.jpg",
+      "images": [
+        {
+          "url": "http://www.kuvakazim.com/media_root/images/Simbaneutamudarikwa.jpg"
+        }
+      ],
+      "name": "Simbaneuta Mudarikwa",
+      "summary": "Uzumba Member of the National Assembly and Mashonaland East Minister"
     },
     {
+      "gender": "male",
       "id": "83b2dd44-e942-4ca3-8c6b-448392b9545b",
       "identifiers": [
         {
@@ -2416,9 +3152,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Simon Chidhakwa"
+      "name": "Simon Chidhakwa",
+      "summary": "Zengeza West Member of the National Assembly."
     },
     {
+      "gender": "male",
       "id": "5010c5bc-b405-4e8d-a804-3d6c3e8d0f22",
       "identifiers": [
         {
@@ -2430,9 +3168,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Simon Musanhu"
+      "name": "Simon Musanhu",
+      "summary": "Wedza North Member of the National Assembly and Deputy Minister of Environment, Water and Climate"
     },
     {
+      "gender": "female",
       "id": "028b8ac6-9d61-4405-9869-905dcf8b31c0",
       "identifiers": [
         {
@@ -2440,9 +3180,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Sipho Dube"
+      "name": "Sipho Dube",
+      "summary": "Matebeleland South Province Member of the National Assembly."
     },
     {
+      "gender": "female",
       "id": "be378d4c-d3ac-4f8b-af0f-784afeb52055",
       "identifiers": [
         {
@@ -2454,9 +3196,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Sithemba Gumbo"
+      "name": "Sithemba Gumbo",
+      "summary": "Lupane East Member of the National Assembly."
     },
     {
+      "gender": "female",
       "id": "b326d6ff-ac65-4539-9e91-e5d740774b95",
       "identifiers": [
         {
@@ -2468,9 +3212,17 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Sithembiso Nyoni"
+      "image": "http://www.kuvakazim.com/media_root/images/sithembiso_nyoni_01.jpg",
+      "images": [
+        {
+          "url": "http://www.kuvakazim.com/media_root/images/sithembiso_nyoni_01.jpg"
+        }
+      ],
+      "name": "Sithembiso Nyoni",
+      "summary": "Nkayi South Member of the National Assembly."
     },
     {
+      "gender": "male",
       "id": "b6443a74-80c5-40e8-8dcf-4d4f607d00a8",
       "identifiers": [
         {
@@ -2482,9 +3234,17 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Solomon Madzore"
+      "image": "http://www.kuvakazim.com/media_root/images/solozm.jpg",
+      "images": [
+        {
+          "url": "http://www.kuvakazim.com/media_root/images/solozm.jpg"
+        }
+      ],
+      "name": "Solomon Madzore",
+      "summary": "Dzivaresekwa Member of the National Assembly"
     },
     {
+      "gender": "male",
       "id": "153a802f-515d-4b51-a654-c99eac44fe3b",
       "identifiers": [
         {
@@ -2496,9 +3256,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Soul Ncube"
+      "name": "Soul Ncube",
+      "summary": "Matobo South Member of the National Assembly."
     },
     {
+      "gender": "male",
       "id": "d3610a68-a2ea-44f5-a2c3-352fa4259da7",
       "identifiers": [
         {
@@ -2510,9 +3272,17 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Supa C. Mandiwanzira"
+      "image": "http://www.kuvakazim.com/media_root/images/Supa.jpg",
+      "images": [
+        {
+          "url": "http://www.kuvakazim.com/media_root/images/Supa.jpg"
+        }
+      ],
+      "name": "Supa C. Mandiwanzira",
+      "summary": "Nyanga South Member of the National Assembly and Deputy Minister of Media, Information and Broadcasting Services"
     },
     {
+      "gender": "male",
       "id": "c02a494f-4426-4f4a-ba17-55056483fe4f",
       "identifiers": [
         {
@@ -2524,9 +3294,17 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Sylvester Nguni"
+      "image": "http://www.kuvakazim.com/media_root/images/nguni.jpg",
+      "images": [
+        {
+          "url": "http://www.kuvakazim.com/media_root/images/nguni.jpg"
+        }
+      ],
+      "name": "Sylvester Nguni",
+      "summary": "Mhondoro-Mubaira Member of the National Assembly & Minister of State in Vice President"
     },
     {
+      "gender": "female",
       "id": "32e5e401-4d02-4c65-a52c-89d197263ab4",
       "identifiers": [
         {
@@ -2538,9 +3316,17 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Tabetha Kanengoni-Malinga"
+      "image": "http://www.kuvakazim.com/media_root/images/Tabeth_Kanengoni.jpg",
+      "images": [
+        {
+          "url": "http://www.kuvakazim.com/media_root/images/Tabeth_Kanengoni.jpg"
+        }
+      ],
+      "name": "Tabetha Kanengoni-Malinga",
+      "summary": "Mazowe Central Member of the National Assembly and Deputy Minister of Sports, Arts and Culture"
     },
     {
+      "gender": "male",
       "id": "848dc427-9566-4a75-bde3-8e8a0bc6abf5",
       "identifiers": [
         {
@@ -2552,9 +3338,17 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Tapiwa Mashakada"
+      "image": "http://www.kuvakazim.com/media_root/images/tapiwa-Mahakada-new.jpg",
+      "images": [
+        {
+          "url": "http://www.kuvakazim.com/media_root/images/tapiwa-Mahakada-new.jpg"
+        }
+      ],
+      "name": "Tapiwa Mashakada",
+      "summary": "Hatfield Member of the National Assembly and Former Minister for Economic Planning and Investment Promotion (2009-2013)"
     },
     {
+      "gender": "male",
       "id": "ce3defff-30ea-4e41-966c-82a913fbe6fb",
       "identifiers": [
         {
@@ -2566,9 +3360,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Tapiwanashe Matangaidze"
+      "name": "Tapiwanashe Matangaidze",
+      "summary": "Shurugwi South Member of the National Assembly."
     },
     {
+      "gender": "female",
       "id": "cefeb0c3-f983-4a8e-988e-dd706d1e1ebc",
       "identifiers": [
         {
@@ -2576,9 +3372,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Tariro Mtingwende"
+      "name": "Tariro Mtingwende",
+      "summary": "Midlands Province Member of the National Assembly."
     },
     {
+      "gender": "male",
       "id": "0d1bd754-0be3-4973-91d7-67f9783fca7c",
       "identifiers": [
         {
@@ -2590,9 +3388,17 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Temba Mliswa"
+      "image": "http://www.kuvakazim.com/media_root/images/Themba-Mliswa.png",
+      "images": [
+        {
+          "url": "http://www.kuvakazim.com/media_root/images/Themba-Mliswa.png"
+        }
+      ],
+      "name": "Temba Mliswa",
+      "summary": "Hurungwe West Member of the National Assembly."
     },
     {
+      "gender": "male",
       "id": "87c03a9d-ac3d-49db-baee-be3cc190d17a",
       "identifiers": [
         {
@@ -2604,9 +3410,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Tendai Savanhu"
+      "name": "Tendai Savanhu",
+      "summary": "Mbare Member of National Assembly and Deputy Minister of Lands and Rural Resettlement"
     },
     {
+      "gender": "male",
       "id": "3cdbeefb-f72b-44f8-b94f-11740a68fea8",
       "identifiers": [
         {
@@ -2618,9 +3426,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Tendayi Makunde"
+      "name": "Tendayi Makunde",
+      "summary": "Murehwa North Member of the National Assembly"
     },
     {
+      "gender": "male",
       "id": "2d53b781-4ed6-4c2c-9f09-98da97132afd",
       "identifiers": [
         {
@@ -2632,9 +3442,17 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Tendayi P. Zhanda"
+      "image": "http://www.kuvakazim.com/media_root/images/zhanda_p.jpg",
+      "images": [
+        {
+          "url": "http://www.kuvakazim.com/media_root/images/zhanda_p.jpg"
+        }
+      ],
+      "name": "Tendayi P. Zhanda",
+      "summary": "Goromonzi North Member of the National Assembly."
     },
     {
+      "gender": "female",
       "id": "aa8604c0-1f52-4b15-b44d-23f32b6ec4e7",
       "identifiers": [
         {
@@ -2642,9 +3460,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Teti Banda"
+      "name": "Teti Banda",
+      "summary": "Midlands Province Member of the National Assembly."
     },
     {
+      "gender": "female",
       "id": "da5bbc72-76d1-470f-a7e8-03ead843c737",
       "identifiers": [
         {
@@ -2656,9 +3476,17 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Thabitha Khumalo"
+      "image": "http://www.kuvakazim.com/media_root/images/khumalo-Thabitha.jpg",
+      "images": [
+        {
+          "url": "http://www.kuvakazim.com/media_root/images/khumalo-Thabitha.jpg"
+        }
+      ],
+      "name": "Thabitha Khumalo",
+      "summary": "Bulawayo East Member of the National Assembly."
     },
     {
+      "gender": "male",
       "id": "ed981f28-00ed-4d1c-8d97-d5ecb316686b",
       "identifiers": [
         {
@@ -2666,9 +3494,17 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Thamsanqa Mahlangu"
+      "image": "http://www.kuvakazim.com/media_root/images/thamsanqa-mahlangu.jpg",
+      "images": [
+        {
+          "url": "http://www.kuvakazim.com/media_root/images/thamsanqa-mahlangu.jpg"
+        }
+      ],
+      "name": "Thamsanqa Mahlangu",
+      "summary": "Nkulumane Member of the National Assembly"
     },
     {
+      "gender": "male",
       "id": "3ac53a40-f8ce-41d6-9c97-fe0da3278c89",
       "identifiers": [
         {
@@ -2680,9 +3516,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Thomas Maseko"
+      "name": "Thomas Maseko",
+      "summary": "Mhangura Member of the National Assembly"
     },
     {
+      "gender": "female",
       "id": "a52ec1bb-c206-4299-bd58-07693dd65b40",
       "identifiers": [
         {
@@ -2690,9 +3528,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Tionei Melody Dziva"
+      "name": "Tionei Melody Dziva",
+      "summary": "Midlands Province Member of the National Assembly."
     },
     {
+      "gender": "male",
       "id": "a8404289-f6af-4970-b892-e78e6fc73401",
       "identifiers": [
         {
@@ -2704,9 +3544,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Toendepi Matangira"
+      "name": "Toendepi Matangira",
+      "summary": "Bindura South Member of the National Assembly."
     },
     {
+      "gender": "male",
       "id": "1bdd78d7-061d-4b04-ac6e-06217b4062b9",
       "identifiers": [
         {
@@ -2718,9 +3560,17 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Tongai Muzenda"
+      "image": "http://www.kuvakazim.com/media_root/images/Tongai_Muzenda.jpg",
+      "images": [
+        {
+          "url": "http://www.kuvakazim.com/media_root/images/Tongai_Muzenda.jpg"
+        }
+      ],
+      "name": "Tongai Muzenda",
+      "summary": "Gutu West Member of the National Assembly and Deputy Minister of Public Service, Labour and Social Welfare"
     },
     {
+      "gender": "male",
       "id": "056ee26a-b2b1-4547-8612-1839ec1630c5",
       "identifiers": [
         {
@@ -2732,9 +3582,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Tongesai Mudambo"
+      "name": "Tongesai Mudambo",
+      "summary": "Harare North Member of the National Assembly."
     },
     {
+      "gender": "male",
       "id": "83dcaba9-1dcb-4ab1-99c6-aaee92a90a18",
       "identifiers": [
         {
@@ -2746,9 +3598,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Tose Wesley Sansole"
+      "name": "Tose Wesley Sansole",
+      "summary": "Hwange East Member of the National Assembly"
     },
     {
+      "gender": "male",
       "id": "9b2417d4-0cbe-492b-87ed-e9b83f50432c",
       "identifiers": [
         {
@@ -2760,9 +3614,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Trevor Saruwaka"
+      "name": "Trevor Saruwaka",
+      "summary": "Mutasa Central Member of the National Assembly"
     },
     {
+      "gender": "female",
       "id": "c98d970a-efd6-4bec-bbf8-fa3fb6c98cd0",
       "identifiers": [
         {
@@ -2770,9 +3626,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Tsitsi Gezi"
+      "name": "Tsitsi Gezi",
+      "summary": "Mashonaland Central Member of the House of Aseembly."
     },
     {
+      "gender": "male",
       "id": "7bd3e99f-5023-4191-8eee-fecb519650a6",
       "identifiers": [
         {
@@ -2784,9 +3642,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Unganai Tarusenga"
+      "name": "Unganai Tarusenga",
+      "summary": "St Mary's Member of the National Assembly."
     },
     {
+      "gender": "male",
       "id": "0e35472e-d764-4dfa-b63d-b15d194a5278",
       "identifiers": [
         {
@@ -2798,9 +3658,17 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Walter Chidhakwa"
+      "image": "http://www.kuvakazim.com/media_root/images/Hon_Walter_K._Chidhakwa.jpg",
+      "images": [
+        {
+          "url": "http://www.kuvakazim.com/media_root/images/Hon_Walter_K._Chidhakwa.jpg"
+        }
+      ],
+      "name": "Walter Chidhakwa",
+      "summary": "Zvimba South Member of the National Assembly & Minister of Mines and Mining Development"
     },
     {
+      "gender": "male",
       "id": "528c2566-712a-4db5-beeb-93ea0872ef1a",
       "identifiers": [
         {
@@ -2812,9 +3680,17 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Walter Mzembi"
+      "image": "http://www.kuvakazim.com/media_root/images/Walter_Mzembi.jpeg",
+      "images": [
+        {
+          "url": "http://www.kuvakazim.com/media_root/images/Walter_Mzembi.jpeg"
+        }
+      ],
+      "name": "Walter Mzembi",
+      "summary": "Masvingo South Member of National Assembly and Minister of Tourism and Hospitality Industry."
     },
     {
+      "gender": "male",
       "id": "9035db58-efdd-48b6-beca-a71d5135fc60",
       "identifiers": [
         {
@@ -2826,9 +3702,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Washington Masvaire"
+      "name": "Washington Masvaire",
+      "summary": "Maramba Pfungwe Member of the National Assembly."
     },
     {
+      "gender": "male",
       "id": "970274bf-f4a8-4154-aa1d-bbee67b5960a",
       "identifiers": [
         {
@@ -2840,9 +3718,17 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Webster Maondera"
+      "image": "http://www.kuvakazim.com/media_root/images/Webster_Maondera.jpg",
+      "images": [
+        {
+          "url": "http://www.kuvakazim.com/media_root/images/Webster_Maondera.jpg"
+        }
+      ],
+      "name": "Webster Maondera",
+      "summary": "Glen Norah Member of the National Assembly."
     },
     {
+      "gender": "male",
       "id": "349118bc-5fbc-44e0-b5eb-63fcbfcc05d3",
       "identifiers": [
         {
@@ -2854,9 +3740,17 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Webster Shamu"
+      "image": "http://www.kuvakazim.com/media_root/images/webster-shamu.jpg",
+      "images": [
+        {
+          "url": "http://www.kuvakazim.com/media_root/images/webster-shamu.jpg"
+        }
+      ],
+      "name": "Webster Shamu",
+      "summary": "Chegutu East Member of the National Assembly & Minister of Information Communication Technology, Postal and Courier Services."
     },
     {
+      "gender": "male",
       "id": "1cfe837d-7b71-4729-b416-80cd2e14f936",
       "identifiers": [
         {
@@ -2868,9 +3762,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "William M. Dhewa"
+      "name": "William M. Dhewa",
+      "summary": "Umzingwane Member of the National Assembly."
     },
     {
+      "gender": "male",
       "id": "44bfd6ef-ad19-41fc-9383-59f254bee19a",
       "identifiers": [
         {
@@ -2882,9 +3778,17 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "William Mutomba"
+      "image": "http://www.kuvakazim.com/media_root/images/mutombawilliam.jpg",
+      "images": [
+        {
+          "url": "http://www.kuvakazim.com/media_root/images/mutombawilliam.jpg"
+        }
+      ],
+      "name": "William Mutomba",
+      "summary": "Buhera North Member of National Assemby."
     },
     {
+      "gender": "male",
       "id": "1cd6f0b2-be72-4b60-a222-2b7d6e5946d2",
       "identifiers": [
         {
@@ -2896,9 +3800,17 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Willias Madzimure"
+      "image": "http://www.kuvakazim.com/media_root/images/willias_madzimure.png",
+      "images": [
+        {
+          "url": "http://www.kuvakazim.com/media_root/images/willias_madzimure.png"
+        }
+      ],
+      "name": "Willias Madzimure",
+      "summary": "Kambuzuma Member of the National Assembly."
     },
     {
+      "gender": "male",
       "id": "4c1a3fce-395a-43d7-a813-31c5d641ad55",
       "identifiers": [
         {
@@ -2910,9 +3822,17 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Win Busayi Mlambo"
+      "image": "http://www.kuvakazim.com/media_root/images/Win-Busayi-Juyana-Mlambo-.jpg",
+      "images": [
+        {
+          "url": "http://www.kuvakazim.com/media_root/images/Win-Busayi-Juyana-Mlambo-.jpg"
+        }
+      ],
+      "name": "Win Busayi Mlambo",
+      "summary": "Chipinge East Member of the National Assembly and Deputy Minister of Information Communication Technology, Postal and Courier Services"
     },
     {
+      "gender": "male",
       "id": "c7edb148-c520-4e36-8772-f4a870bf2054",
       "identifiers": [
         {
@@ -2924,9 +3844,17 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Wonder Mashange"
+      "image": "http://www.kuvakazim.com/media_root/images/mashangewonder.jpg",
+      "images": [
+        {
+          "url": "http://www.kuvakazim.com/media_root/images/mashangewonder.jpg"
+        }
+      ],
+      "name": "Wonder Mashange",
+      "summary": "Rushinga Member of the National Assembly"
     },
     {
+      "gender": "male",
       "id": "1108c6d7-b40a-4597-94d9-75445ba040d1",
       "identifiers": [
         {
@@ -2938,9 +3866,11 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Zenzo Sibanda"
+      "name": "Zenzo Sibanda",
+      "summary": "Tsholotsho South Member of the National Assembly."
     },
     {
+      "gender": "male",
       "id": "4d64b70d-6047-4006-aa43-984b5c10d80b",
       "identifiers": [
         {
@@ -2952,7 +3882,14 @@
           "scheme": "kuvakazim"
         }
       ],
-      "name": "Ziyambi Ziyambi"
+      "image": "http://www.kuvakazim.com/media_root/images/Ziyambe-Ziyambe.jpg",
+      "images": [
+        {
+          "url": "http://www.kuvakazim.com/media_root/images/Ziyambe-Ziyambe.jpg"
+        }
+      ],
+      "name": "Ziyambi Ziyambi",
+      "summary": "Zvimba West Member of the National Assembly and Deputy Minister of Home Affairs."
     }
   ],
   "organizations": [
