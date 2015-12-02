@@ -39,7 +39,7 @@ var vote = function vote($choice){
 
 var updateProgressBar = function updateProgressBar(){
   var progress = window.votes.length / $('.pairing').length * 100;
-  $('.progress-bar div').animate({
+  $('.progress .progress-bar div').animate({
     width: '' + progress + '%'
   }, 100);
 }
@@ -92,7 +92,7 @@ var updateUndoButton = function updateUndoButton(){
 jQuery(function($) {
   if(matches.length == 0){
     $('.messages').append('<h1>Nothing to reconcile!</h1>');
-    $('.progress-bar div').animate({
+    $('.progress .progress-bar div').animate({
       width: '100%'
     }, 500);
     updateUndoButton();
@@ -111,13 +111,7 @@ jQuery(function($) {
     });
     var existingPersonHTML = _.map(match.existing, function(existing) {
       var person = existing[0];
-      if(existing[1] > 0.9){
-        person.matchStrength = 'person--strong-match'
-      } else if(existing[1] > 0.6) {
-        person.matchStrength = 'person--medium-match'
-      } else {
-        person.matchStrength = 'person--weak-match'
-      }
+      person.matchStrength = Math.ceil(existing[1] * 100);
       var fields = _.intersection(incomingPersonFields, Object.keys(person));
       return renderTemplate('person', {
         person: person,

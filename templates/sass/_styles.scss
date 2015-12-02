@@ -139,6 +139,47 @@ h2 {
   }
 }
 
+.skip {
+  padding: 2em;
+  background-color: #fff;
+}
+
+.person__meta {
+  position: relative;
+  padding-left: 3em;
+  margin-bottom: 1.5em;
+
+  &:last-child {
+    margin-bottom: 0;
+  }
+
+  &:before {
+    font-size: 3em;
+    line-height: 1em;
+    display: block;
+    position: absolute;
+    top: 50%;
+    left: 0;
+    margin-top: -0.5em;
+    color: $color_off_white;
+    text-shadow: 0 -1px 0 $color_light_grey;
+    font-weight: bold;
+  }
+
+  .progress-bar {
+    background-color: $color_off_white;
+    box-shadow: inset 0 1px 0 $color_light_grey;
+    margin-top: 0.5em;
+  }
+}
+
+.person__match-strength {
+  color: darken($color_green, 5%);
+  font-weight: bold;
+  font-size: 0.8em;
+  text-transform: uppercase;
+}
+
 .pairing {
   padding: 2em;
 }
@@ -146,67 +187,32 @@ h2 {
 .pairing__choices {
   counter-reset: choices;
 
+  .person,
+  .skip {
+    box-shadow: 0 1px 3px rgba(0,0,0,0.2);
+    margin-bottom: 2em;
+    cursor: pointer;
+
+    &:hover {
+      position: relative;
+      top: -1px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    }
+  }
+
   .person {
-    &:before {
+    .person__meta:before {
       counter-increment: choices;
       content: counter(choices);
     }
   }
 
   .skip {
-    &:before {
+    .person__meta:before {
       content: "\2794";
+      left: -0.2em; // the arrow is wider than the numbers, so give it more space
     }
   }
-
-  .person,
-  .skip {
-    position: relative;
-    background-color: #fff;
-    box-shadow: 0 1px 3px rgba(0,0,0,0.2);
-    margin-bottom: 2em;
-    padding: 2em 4em 2em 2em;
-    cursor: pointer;
-
-    &:hover {
-      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
-      top: -1px;
-    }
-
-    &:before {
-      font-size: 3em;
-      line-height: 1em;
-      display: block;
-      position: absolute;
-      top: 50%;
-      right: 0.33em;
-      margin-top: -0.5em;
-      color: $color_off_white;
-      text-shadow: 0 -1px 0 $color_light_grey;
-      font-weight: bold;
-    }
-  }
-}
-
-.person--weak-match {
-  border-left: 0.3em solid $color_grey;
-  color: $color_grey;
-
-  dt {
-    color: $color_light_grey;
-  }
-
-  img {
-    opacity: 0.7;
-  }
-}
-
-.person--medium-match {
-  border-left: 0.3em solid $color_mustard_yellow;
-}
-
-.person--strong-match {
-  border-left: 0.3em solid $color_green;
 }
 
 .messages {

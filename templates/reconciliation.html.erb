@@ -46,7 +46,9 @@
                 <div class="column-6 pairing__choices">
                     <h2>Potential matches from existing data</h2>
                     {{ existingPersonHTML }}
-                    <div class="skip">None of these match</div>
+                    <div class="skip">
+                      <header class="person__meta">None of these match</header>
+                    </div>
                 </div>
             </div>
         </div>
@@ -54,10 +56,16 @@
 
     <script type="text/html" id="person">
       {% if(person.uuid){ %}
-        <div class="person {{ person.matchStrength }}" data-uuid="{{ person.uuid }}">
+        <div class="person" data-uuid="{{ person.uuid }}">
       {% } else if(person.id){ %}
         <div class="person" data-id="{{ person.id }}">
       {% } %}
+          {% if (person.matchStrength) { %}
+            <header class="person__meta">
+              <div class="person__match-strength">{{ person.matchStrength }}% match</div>
+              <div class="progress-bar"><div style="width: {{ person.matchStrength }}%"></div></div>
+            </header>
+          {% } %}
             <h1>{{ person[field] || person.name }}</h1>
             <dl>
               {% fields.forEach(function(field) { %}
