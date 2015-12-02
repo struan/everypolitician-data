@@ -62,11 +62,15 @@
       {% } %}
           {% if (person.matchStrength) { %}
             <header class="person__meta">
-              <div class="person__match-strength">{{ person.matchStrength }}% match</div>
+              <h1>
+                {{ person[field] || person.name }}
+                <span class="person__match-strength">{{ person.matchStrength }}% match</span>
+              </h1>
               <div class="progress-bar"><div style="width: {{ person.matchStrength }}%"></div></div>
             </header>
-          {% } %}
+          {% } else { %}
             <h1>{{ person[field] || person.name }}</h1>
+          {% } %}
             <dl>
               {% fields.forEach(function(field) { %}
                 {% if(field !== 'id' && person[field]){ %}
