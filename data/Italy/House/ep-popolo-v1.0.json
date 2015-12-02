@@ -55736,6 +55736,11 @@
     },
     {
       "classification": "party",
+      "id": "party/misto_-_usei_(unione_sudamericana_emigrati_italiani)",
+      "name": "MISTO - USEI (UNIONE SUDAMERICANA EMIGRATI ITALIANI)"
+    },
+    {
+      "classification": "party",
       "id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
       "name": "MISTO - non iscritto ad alcuna componente politica"
     },
@@ -56768,12 +56773,22 @@
     },
     {
       "area_id": "XIX",
+      "end_date": "2015-11-30",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
       "organization_id": "legislature",
       "person_id": "29f700c3-f56d-40b7-9fcc-a70de18b5a30",
       "role": "member",
       "start_date": "2014-10-30"
+    },
+    {
+      "area_id": "XIX",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/misto_-_usei_(unione_sudamericana_emigrati_italiani)",
+      "organization_id": "legislature",
+      "person_id": "29f700c3-f56d-40b7-9fcc-a70de18b5a30",
+      "role": "member",
+      "start_date": "2015-11-30"
     },
     {
       "area_id": "I",
@@ -56884,12 +56899,22 @@
     },
     {
       "area_id": "B",
+      "end_date": "2015-11-30",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/misto_-_alleanza_liberalpopolare_autonomie_ala-maie-movimento_associativo_italiani_all'estero",
       "organization_id": "legislature",
       "person_id": "30f5b86d-c111-42e4-82de-4e54be66f56b",
       "role": "member",
       "start_date": "2013-03-21"
+    },
+    {
+      "area_id": "B",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/misto_-_usei_(unione_sudamericana_emigrati_italiani)",
+      "organization_id": "legislature",
+      "person_id": "30f5b86d-c111-42e4-82de-4e54be66f56b",
+      "role": "member",
+      "start_date": "2015-11-30"
     },
     {
       "area_id": "IX",
@@ -60830,12 +60855,22 @@
     },
     {
       "area_id": "XIX",
+      "end_date": "2015-11-30",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
       "organization_id": "legislature",
       "person_id": "ae62856d-da5c-408c-ab2a-e3951a42756f",
       "role": "member",
       "start_date": "2015-05-04"
+    },
+    {
+      "area_id": "XIX",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/misto_-_usei_(unione_sudamericana_emigrati_italiani)",
+      "organization_id": "legislature",
+      "person_id": "ae62856d-da5c-408c-ab2a-e3951a42756f",
+      "role": "member",
+      "start_date": "2015-11-30"
     },
     {
       "area_id": "XI",
