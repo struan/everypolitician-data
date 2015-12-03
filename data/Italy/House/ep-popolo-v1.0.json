@@ -27182,7 +27182,7 @@
           "value": "https://twitter.com/#!/TommasoGinoble"
         }
       ],
-      "email": "GINOBLE_T@CAMERA.IT",
+      "email": "ginoble_t@camera.it",
       "family_name": "GINOBLE",
       "gender": "male",
       "given_name": "Tommaso",
@@ -55663,6 +55663,11 @@
       "name": "FRATELLI D'ITALIA-ALLEANZA NAZIONALE"
     },
     {
+      "classification": "party",
+      "id": "party/gruppo_misto",
+      "name": "Gruppo Misto"
+    },
+    {
       "classification": "legislature",
       "id": "legislature",
       "identifiers": [
@@ -57403,10 +57408,9 @@
       "role": "member"
     },
     {
-      "area_id": "XXI",
-      "end_date": "2015-11-19",
+      "area_id": "area/puglia",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/forza_italia_-_il_popolo_della_liberta'_-_berlusconi_presidente",
+      "on_behalf_of_id": "party/gruppo_misto",
       "organization_id": "legislature",
       "person_id": "40e58249-bb50-4434-abc6-9cdaa6d1fe6b",
       "role": "member"
@@ -58175,7 +58179,7 @@
       "role": "member"
     },
     {
-      "area_id": "XVII",
+      "area_id": "area/abruzzo",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/partito_democratico",
       "organization_id": "legislature",
@@ -61201,12 +61205,22 @@
     },
     {
       "area_id": "XVI",
+      "end_date": "2015-12-01",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
       "organization_id": "legislature",
       "person_id": "b8ab1864-d5fa-4a54-84d6-0f3349983789",
       "role": "member",
       "start_date": "2015-11-23"
+    },
+    {
+      "area_id": "XVI",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/misto_-_usei_(unione_sudamericana_emigrati_italiani)",
+      "organization_id": "legislature",
+      "person_id": "b8ab1864-d5fa-4a54-84d6-0f3349983789",
+      "role": "member",
+      "start_date": "2015-12-01"
     },
     {
       "area_id": "III",
@@ -61865,12 +61879,22 @@
     },
     {
       "area_id": "XV",
+      "end_date": "2015-12-01",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
       "organization_id": "legislature",
       "person_id": "cf0143f4-a16d-4f8c-b799-3188b7197580",
       "role": "member",
       "start_date": "2015-11-20"
+    },
+    {
+      "area_id": "XV",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/misto_-_usei_(unione_sudamericana_emigrati_italiani)",
+      "organization_id": "legislature",
+      "person_id": "cf0143f4-a16d-4f8c-b799-3188b7197580",
+      "role": "member",
+      "start_date": "2015-12-01"
     },
     {
       "area_id": "XVIII",
@@ -63677,8 +63701,18 @@
       "type": "constituency"
     },
     {
+      "id": "area/abruzzo",
+      "name": "Abruzzo",
+      "type": "constituency"
+    },
+    {
       "id": "area/lazio_1",
       "name": "Lazio 1",
+      "type": "constituency"
+    },
+    {
+      "id": "area/puglia",
+      "name": "Puglia",
       "type": "constituency"
     }
   ]
