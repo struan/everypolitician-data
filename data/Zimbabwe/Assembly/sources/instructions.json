@@ -6,7 +6,7 @@
         "url": "https://docs.google.com/spreadsheets/d/1rFnkM9rrhwmo5eTwhEPordgucf-iNACnzc6E78elkaM/export?gid=80268515&format=csv"
       },
       "source": "http://kuvakazim.com/",
-      "filter": { 
+      "filter": {
         "accept": {
           "chamber": "Parliament",
           "term": "8"
@@ -14,14 +14,13 @@
       },
       "type": "membership"
     },
-
     {
       "file": "google/people.csv",
       "create": {
         "url": "https://docs.google.com/spreadsheets/d/1rFnkM9rrhwmo5eTwhEPordgucf-iNACnzc6E78elkaM/export?gid=933880631&format=csv"
       },
       "type": "person",
-      "merge": { 
+      "merge": {
         "incoming_field": "id",
         "existing_field": "identifier__kuvakazim",
         "report_missing": false
@@ -30,6 +29,14 @@
     {
       "file": "manual/terms.csv",
       "type": "term"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "create": {
+        "type": "group-wikidata",
+        "source": "manual/group_wikidata.csv"
+      }
     }
   ]
 }
