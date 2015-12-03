@@ -250,7 +250,6 @@ namespace :merge_sources do
             uids = to_patch.map { |r| r[:id] }.uniq
             if uids.count > 1
               warn "Too many IDs: #{uids}".red.on_yellow
-              # binding.pry
               next
             end
             to_patch.each do |existing_row|
@@ -329,9 +328,11 @@ namespace :merge_sources do
           # This is primarily to spot any initial problems.
           warn "No legacy ID for #{row[:uuid]}"
         end
-        row[:id] = row[:uuid]
       end
     end
+
+    # No matter what 'id' columns we had, use the UUID as the final ID
+    merged_rows.each { |row| row[:id] = row[:uuid] }
 
     # Then write it all out
     CSV.open("sources/merged.csv", "w") do |out|
