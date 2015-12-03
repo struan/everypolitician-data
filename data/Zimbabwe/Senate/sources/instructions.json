@@ -1,0 +1,35 @@
+{
+  "sources": [
+    {
+      "file": "google/memberships.csv",
+      "create": {
+        "url": "https://docs.google.com/spreadsheets/d/1rFnkM9rrhwmo5eTwhEPordgucf-iNACnzc6E78elkaM/export?gid=80268515&format=csv"
+      },
+      "source": "http://kuvakazim.com/",
+      "filter": { 
+        "accept": {
+          "chamber": "Senate",
+          "term": "8"
+        }
+      },
+      "type": "membership"
+    },
+
+    {
+      "file": "google/people.csv",
+      "create": {
+        "url": "https://docs.google.com/spreadsheets/d/1rFnkM9rrhwmo5eTwhEPordgucf-iNACnzc6E78elkaM/export?gid=933880631&format=csv"
+      },
+      "type": "person",
+      "merge": { 
+        "incoming_field": "id",
+        "existing_field": "identifier__kuvakazim",
+        "report_missing": false
+      }
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term"
+    }
+  ]
+}
