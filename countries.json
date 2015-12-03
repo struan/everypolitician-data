@@ -8770,9 +8770,9 @@
         "sources_directory": "data/United_States_of_America/Senate/sources",
         "popolo": "data/United_States_of_America/Senate/ep-popolo-v1.0.json",
         "names": "data/United_States_of_America/Senate/names.csv",
-        "lastmod": "1449045483",
+        "lastmod": "1449089498",
         "person_count": 310,
-        "sha": "ee9249e",
+        "sha": "486e1d1",
         "legislative_periods": [
           {
             "id": "term/114",
@@ -9223,9 +9223,9 @@
         "sources_directory": "data/Zimbabwe/Assembly/sources",
         "popolo": "data/Zimbabwe/Assembly/ep-popolo-v1.0.json",
         "names": "data/Zimbabwe/Assembly/names.csv",
-        "lastmod": "1448466499",
-        "person_count": 206,
-        "sha": "8a94d0b",
+        "lastmod": "1449095509",
+        "person_count": 219,
+        "sha": "361d748",
         "legislative_periods": [
           {
             "id": "term/8",
@@ -9233,6 +9233,25 @@
             "start_date": "2013",
             "slug": "8",
             "csv": "data/Zimbabwe/Assembly/term-8.csv"
+          }
+        ]
+      },
+      {
+        "name": "Senate",
+        "slug": "Senate",
+        "sources_directory": "data/Zimbabwe/Senate/sources",
+        "popolo": "data/Zimbabwe/Senate/ep-popolo-v1.0.json",
+        "names": "data/Zimbabwe/Senate/names.csv",
+        "lastmod": "1449156077",
+        "person_count": 65,
+        "sha": "bf98754",
+        "legislative_periods": [
+          {
+            "id": "term/8",
+            "name": "8th Parliament",
+            "start_date": "2013",
+            "slug": "8",
+            "csv": "data/Zimbabwe/Senate/term-8.csv"
           }
         ]
       }
