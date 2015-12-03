@@ -36,7 +36,16 @@ var nextPairing = function nextPairing($currentPairing){
   $currentPairing.hide();
   var $nextPairing = $currentPairing.next();
   if($nextPairing.length){
-    highlightExistingVotes($nextPairing);
+
+    // TODO: Fix the assumptions highlightExistingVotes() makes
+    // about previously matched people being in window.matches!
+    try {
+      highlightExistingVotes($nextPairing);
+    } catch (e) {
+      console.log('Oh dear, there was an exception in highlightExistingVotes()');
+      console.log('See https://github.com/everypolitician/everypolitician-data/pull/1820#issuecomment-161635498');
+    }
+
     $nextPairing.show();
   } else {
     showOrHideCSV();
