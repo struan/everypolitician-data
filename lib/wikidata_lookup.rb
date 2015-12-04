@@ -52,9 +52,15 @@ class GroupLookup < WikidataLookup
 
   def other_fields_for(result)
     {
-      links: links(result)
+      links: links(result),
+      image: logo(result),
     }.reject { |k, v| v.nil? }
   end
+
+  def logo(result)
+    result.P154 
+  end
+
 
   def links(result)
     url = result.P856 or return nil
