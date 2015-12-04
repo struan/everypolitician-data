@@ -59,6 +59,11 @@
         <div class="person" data-uuid="{{ person.uuid }}">
       {% } else if(person.id){ %}
         <div class="person" data-id="{{ person.id }}">
+        {% if(person.id.startsWith('Q')) { %}
+          <div style="float:right">
+            <a target="_blank" href="https://tools.wmflabs.org/reasonator/?&q={{ person.id }}">{{ person.id }}</a>
+          </div>
+        {% } %}
       {% } %}
           {% if (person.matchStrength) { %}
             <header class="person__meta">
