@@ -67,17 +67,16 @@ var highlightExistingVotes = function highlightExistingVotes($pairing){
       // the original match was incorrect. So we make this clear in the UI.
 
       // Get the details for the person they were matched to.
-      var personThisPersonWasMatchedTo;
+      var priorMatchDetails;
       _.each(window.matches, function(match){
         if(match.incoming.id == personAlreadyMatched[0]){
-          personThisPersonWasMatchedTo = match.incoming;
+          priorMatchDetails = match.incoming;
         }
       });
 
       // Show a warning.
       var warningHTML = renderTemplate('personAlreadyMatched', {
-        person: personThisPersonWasMatchedTo,
-        field: window.existingField
+        person: priorMatchDetails ? priorMatchDetails[window.existingField] : personAlreadyMatched[0]
       });
       $(this).prepend(warningHTML);
     }
