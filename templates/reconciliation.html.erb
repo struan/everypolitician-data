@@ -79,7 +79,15 @@
                   {% if (field == 'image') { %}
                     <img src="{{ person[field] }}" width="150">
                   {% } else { %}
-                    {{ person[field] }}
+                    {% if (comparison) { %} 
+                      {% if (comparison[field] == person[field]) { %} 
+                        <span class="match">{{ person[field] }}</span>
+                      {% } else { %}
+                        <span class="nomatch">{{ person[field] }}</span>
+                      {% } %}
+                    {% } else { %}
+                      {{ person[field] }} 
+                    {% } %}
                   {% } %}
                   </dd>
                 {% } %}

@@ -144,15 +144,18 @@ jQuery(function($) {
     if (incomingPerson[window.incomingField].toLowerCase() == existingPerson[window.existingField].toLowerCase()) {
       return;
     }
+
     var incomingPersonFields = _.filter(Object.keys(incomingPerson), function(field) {
       return incomingPerson[field];
     });
+
     var existingPersonHTML = _.map(match.existing, function(existing) {
       var person = existing[0];
       person.matchStrength = Math.ceil(existing[1] * 100);
       var fields = _.intersection(incomingPersonFields, Object.keys(person));
       return renderTemplate('person', {
         person: person,
+        comparison: incomingPerson,
         field: window.existingField,
         fields: fields
       });
@@ -169,6 +172,7 @@ jQuery(function($) {
       existingPersonHTML: existingPersonHTML.join("\n"),
       incomingPersonHTML: renderTemplate('person', {
         person: incomingPerson,
+        comparison: null,
         field: window.incomingField,
         fields: commonFields
       })
