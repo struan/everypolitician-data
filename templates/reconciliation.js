@@ -36,7 +36,16 @@ var nextPairing = function nextPairing($currentPairing){
   $currentPairing.hide();
   var $nextPairing = $currentPairing.next();
   if($nextPairing.length){
-    highlightExistingVotes($nextPairing);
+
+    // TODO: Fix the assumptions highlightExistingVotes() makes
+    // about previously matched people being in window.matches!
+    try {
+      highlightExistingVotes($nextPairing);
+    } catch (e) {
+      console.log('Oh dear, there was an exception in highlightExistingVotes()');
+      console.log('See https://github.com/everypolitician/everypolitician-data/pull/1820#issuecomment-161635498');
+    }
+
     $nextPairing.show();
   } else {
     showOrHideCSV();
@@ -58,17 +67,16 @@ var highlightExistingVotes = function highlightExistingVotes($pairing){
       // the original match was incorrect. So we make this clear in the UI.
 
       // Get the details for the person they were matched to.
-      var personThisPersonWasMatchedTo;
+      var priorMatchDetails;
       _.each(window.matches, function(match){
         if(match.incoming.id == personAlreadyMatched[0]){
-          personThisPersonWasMatchedTo = match.incoming;
+          priorMatchDetails = match.incoming;
         }
       });
 
       // Show a warning.
       var warningHTML = renderTemplate('personAlreadyMatched', {
-        person: personThisPersonWasMatchedTo,
-        field: window.existingField
+        person: priorMatchDetails ? priorMatchDetails[window.existingField] : personAlreadyMatched[0]
       });
       $(this).prepend(warningHTML);
     }
