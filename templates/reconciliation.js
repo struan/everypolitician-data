@@ -28,8 +28,7 @@ var vote = function vote($choice){
   }
 
   nextPairing($pairing);
-  updateProgressBar();
-  updateUndoButton();
+  redrawTop();
 }
 
 var nextPairing = function nextPairing($currentPairing){
@@ -74,6 +73,12 @@ var highlightExistingVotes = function highlightExistingVotes($pairing){
   });
 }
 
+var redrawTop = function redrawTop(){
+  updateProgressBar();
+  updateUndoButton();
+  updateCSVtray();
+}
+
 var updateProgressBar = function updateProgressBar(){
   var progress = window.votes.length / $('.pairing').length * 100;
   $('.progress .progress-bar div').animate({
@@ -81,19 +86,22 @@ var updateProgressBar = function updateProgressBar(){
   }, 100);
 }
 
-var generateCSV = function generateCSV(){
+var votesAsCSV = function votesAsCSV(){
   return Papa.unparse({
     fields: ['id', 'uuid'],
     data: window.reconciled.concat(_.compact(window.votes))
   });
 }
 
+var updateCSVtray = function updateCSVtray(){
+  $('.csv').val(votesAsCSV());
+}
+
 var showCSVtray = function showCSVtray(){
-  var $csv = $('.csv');
-  $csv.val(generateCSV());
+  updateCSVtray();
   $('.export-csv').text('Hide CSV');
-  $csv.slideDown(100, function(){
-    $csv.select();
+  $('.csv').slideDown(100, function(){
+    $(this).select();
   });
 }
 
@@ -118,10 +126,7 @@ var undo = function undo(){
   // and re-show the most recently hidden pairing.
   var undoneVote = window.votes.pop();
   $('.pairing:visible').hide().prev().show();
-
-  // Update the various bits of UI.
-  updateProgressBar();
-  updateUndoButton();
+  redrawTop();
 }
 
 var updateUndoButton = function updateUndoButton(){
@@ -187,8 +192,7 @@ jQuery(function($) {
 
   $('.pairing').eq(0).nextAll().hide();
 
-  updateUndoButton();
-  updateProgressBar();
+  redrawTop();
 
   $(document).on('click', '.pairing__choices > div', function(){
     vote($(this));
