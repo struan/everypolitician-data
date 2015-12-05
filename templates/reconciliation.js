@@ -39,7 +39,7 @@ var nextPairing = function nextPairing($currentPairing){
     highlightExistingVotes($nextPairing);
     $nextPairing.show();
   } else {
-    showOrHideCSV();
+    showCSVtray();
   }
 }
 
@@ -88,15 +88,23 @@ var generateCSV = function generateCSV(){
   });
 }
 
-var showOrHideCSV = function showOrHideCSV(){
+var showCSVtray = function showCSVtray(){
   var $csv = $('.csv');
-  if($csv.is(':visible')){
-    $csv.slideUp(100);
+  $csv.val(generateCSV());
+  $csv.slideDown(100, function(){
+    $csv.select();
+  });
+}
+
+var hideCSVtray = function hideCSVtray(){
+  $('.csv').slideUp(100);
+}
+
+var toggleCSVtray = function toggleCSVtray(){
+  if($('.csv').is(':visible')){
+    hideCSVtray();
   } else {
-    $csv.val(generateCSV());
-    $csv.slideDown(100, function(){
-      $csv.select();
-    });
+    showCSVtray();
   }
 }
 
@@ -187,7 +195,7 @@ jQuery(function($) {
   $(document).on('keydown', function(e){
     if(e.keyCode == 27){
       // Escape key pressed, toggle the CSV box
-      showOrHideCSV();
+      toggleCSVtray();
 
     } else if($('.csv').is(':hidden')){
       // CSV box is hidden, so let the user categorise people if there are any
@@ -219,7 +227,7 @@ jQuery(function($) {
 
   $('.export-csv').on('click', function(e){
     e.stopPropagation();
-    showOrHideCSV();
+    toggleCSVtray();
   });
 
   $('.csv').on('click', function(e){
