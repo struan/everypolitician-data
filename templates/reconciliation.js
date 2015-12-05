@@ -140,10 +140,6 @@ var updateUndoButton = function updateUndoButton(){
 }
 
 jQuery(function($) {
-  if(toReconcile.length == 0){
-    $('.messages').append('<h1>Nothing to reconcile!</h1>');
-    redrawTop();
-  }
 
   $.each(toReconcile, function(i, match) {
     var incomingPerson = match.incoming;
@@ -188,10 +184,6 @@ jQuery(function($) {
     });
     $('.pairings').append(html);
   });
-
-  $('.pairing').eq(0).nextAll().hide();
-
-  redrawTop();
 
   $(document).on('click', '.pairing__choices > div', function(){
     vote($(this));
@@ -240,4 +232,9 @@ jQuery(function($) {
   }).on('focus', function(){
     $(this).select();
   });
+
+  $('.pairing').eq(0).nextAll().hide();
+  redrawTop();
+  if(toReconcile.length == 0){ $('.messages').append('<h1>Nothing to reconcile!</h1>'); }
+
 });
