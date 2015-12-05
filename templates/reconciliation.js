@@ -79,11 +79,13 @@ var redrawTop = function redrawTop(){
   updateCSVtray();
 }
 
+var progressAsPercentage = function progressAsPercentage(){
+  if (window.matches.length == 0) { return '100%' }
+  return '' + (window.votes.length / $('.pairing').length * 100) + '%';
+}
+
 var updateProgressBar = function updateProgressBar(){
-  var progress = window.votes.length / $('.pairing').length * 100;
-  $('.progress .progress-bar div').animate({
-    width: '' + progress + '%'
-  }, 100);
+  $('.progress .progress-bar div').animate({ width: progressAsPercentage() }, 100);
 }
 
 var votesAsCSV = function votesAsCSV(){
@@ -140,10 +142,7 @@ var updateUndoButton = function updateUndoButton(){
 jQuery(function($) {
   if(matches.length == 0){
     $('.messages').append('<h1>Nothing to reconcile!</h1>');
-    $('.progress .progress-bar div').animate({
-      width: '100%'
-    }, 500);
-    updateUndoButton();
+    redrawTop();
   }
 
   $.each(matches, function(i, match) {
