@@ -58,7 +58,7 @@ var highlightExistingVotes = function highlightExistingVotes($pairing){
 
       // Get the details for the person they were matched to.
       var priorMatchDetails;
-      _.each(window.matches, function(match){
+      _.each(window.toReconcile, function(match){
         if(match.incoming.id == personAlreadyMatched[0]){
           priorMatchDetails = match.incoming;
         }
@@ -80,7 +80,7 @@ var redrawTop = function redrawTop(){
 }
 
 var progressAsPercentage = function progressAsPercentage(){
-  if (window.matches.length == 0) { return '100%' }
+  if (window.toReconcile.length == 0) { return '100%' }
   return '' + (window.votes.length / $('.pairing').length * 100) + '%';
 }
 
@@ -140,12 +140,12 @@ var updateUndoButton = function updateUndoButton(){
 }
 
 jQuery(function($) {
-  if(matches.length == 0){
+  if(toReconcile.length == 0){
     $('.messages').append('<h1>Nothing to reconcile!</h1>');
     redrawTop();
   }
 
-  $.each(matches, function(i, match) {
+  $.each(toReconcile, function(i, match) {
     var incomingPerson = match.incoming;
     var existingPerson = match.existing[0][0];
 
