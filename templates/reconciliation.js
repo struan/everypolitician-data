@@ -91,12 +91,14 @@ var generateCSV = function generateCSV(){
 var showCSVtray = function showCSVtray(){
   var $csv = $('.csv');
   $csv.val(generateCSV());
+  $('.export-csv').text('Hide CSV');
   $csv.slideDown(100, function(){
     $csv.select();
   });
 }
 
 var hideCSVtray = function hideCSVtray(){
+  $('.export-csv').text('Show CSV');
   $('.csv').slideUp(100);
 }
 
