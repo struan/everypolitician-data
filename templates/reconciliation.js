@@ -97,10 +97,6 @@ var showOrHideCSV = function showOrHideCSV(){
     $csv.slideDown(100, function(){
       $csv.select();
     });
-    $(document).on('click.dismiss-csv', function(){
-        $csv.slideUp(100);
-        $(document).off('click.dismiss-csv');
-    });
   }
 }
 
