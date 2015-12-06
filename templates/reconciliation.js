@@ -240,10 +240,12 @@ jQuery(function($) {
   });
 
   $firstPairing = $('.pairing').first();
-  $firstPairing.nextAll().hide();
-  highlightExistingVotes($firstPairing);
-
-  redrawTop();
-  if(toReconcile.length == 0){ $('.messages').append('<h1>Nothing to reconcile!</h1>'); }
+  if ($firstPairing.length) {
+    $firstPairing.nextAll().hide();
+    highlightExistingVotes($firstPairing);
+    redrawTop();
+  } else { 
+    $('.messages').append('<h1>Nothing to reconcile!</h1>'); 
+  }
 
 });
