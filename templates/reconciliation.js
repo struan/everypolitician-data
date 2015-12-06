@@ -97,7 +97,7 @@ var allVotes = function allVotes() {
 var votesAsCSV = function votesAsCSV(){
   return Papa.unparse({
     fields: ['id', 'uuid'],
-    data: _.reject(allVotes(), { 1: null })
+    data: _.sortBy( _.reject(allVotes(), { 1: null }), 1 )
   });
 }
 
