@@ -127,7 +127,12 @@ var undo = function undo(){
   // Remove last vote from window.votes,
   // and re-show the most recently hidden pairing.
   var undoneVote = window.votes.pop();
-  $('.pairing:visible').hide().prev().show();
+  if ($('.pairing:visible').length) { 
+    $('.pairing:visible').hide().prev().show();
+  } else { 
+    $('.pairing').last().show();
+    hideCSVtray();
+  }
   redrawTop();
 }
 
