@@ -175,11 +175,13 @@ jQuery(function($) {
 
   $.each(toReconcile, function(i, match) {
     var incomingPerson = match.incoming;
-    var existingPerson = match.existing[0][0];
 
-    // TODO only do this if there's only a single exact match
-    if (incomingPerson[window.incomingField].toLowerCase() == existingPerson[window.existingField].toLowerCase()) {
-      window.autovotes.push( [incomingPerson.id, existingPerson.uuid] );
+    // If there's one and only one 100% match, choose it automatically
+    var exactMatches  = _.filter(match.existing, function(e) { 
+      return e[0][window.existingField].toLowerCase() == incomingPerson[window.incomingField].toLowerCase() 
+    });
+    if (exactMatches.length == 1) { 
+      window.autovotes.push( [incomingPerson.id, exactMatches[0][0].uuid] );
       return;
     }
     
