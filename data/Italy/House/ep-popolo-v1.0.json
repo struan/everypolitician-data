@@ -11789,6 +11789,10 @@
           "url": "https://az.wikipedia.org/wiki/Mara_Karfanya"
         },
         {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Mara_Carfagna"
+        },
+        {
           "note": "Wikipedia (cs)",
           "url": "https://cs.wikipedia.org/wiki/Mara_Carfagna"
         },
@@ -26351,6 +26355,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "tr",
+          "name": "Paolo Gentiloni",
+          "note": "multilingual"
+        },
+        {
           "lang": "uk",
           "name": "Паоло Джентілоні",
           "note": "multilingual"
@@ -27182,7 +27191,7 @@
           "value": "https://twitter.com/#!/TommasoGinoble"
         }
       ],
-      "email": "ginoble_t@camera.it",
+      "email": "GINOBLE_T@CAMERA.IT",
       "family_name": "GINOBLE",
       "gender": "male",
       "given_name": "Tommaso",
@@ -27510,6 +27519,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Giancarlo_Giorgetti"
+        },
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Giancarlo_Giorgetti"
@@ -35872,6 +35885,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Antonio_Martino"
+        },
         {
           "note": "Wikipedia (da)",
           "url": "https://da.wikipedia.org/wiki/Antonio_Martino"
@@ -45025,6 +45042,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Stefania_Prestigiacomo"
+        },
+        {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Stefania_Prestigiacomo"
         },
@@ -47178,6 +47199,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Francesco_Saverio_Romano"
+        },
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Francesco_Saverio_Romano"
@@ -55663,11 +55688,6 @@
       "name": "FRATELLI D'ITALIA-ALLEANZA NAZIONALE"
     },
     {
-      "classification": "party",
-      "id": "party/gruppo_misto",
-      "name": "Gruppo Misto"
-    },
-    {
       "classification": "legislature",
       "id": "legislature",
       "identifiers": [
@@ -57408,9 +57428,10 @@
       "role": "member"
     },
     {
-      "area_id": "area/puglia",
+      "area_id": "XXI",
+      "end_date": "2015-11-19",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/gruppo_misto",
+      "on_behalf_of_id": "party/forza_italia_-_il_popolo_della_liberta'_-_berlusconi_presidente",
       "organization_id": "legislature",
       "person_id": "40e58249-bb50-4434-abc6-9cdaa6d1fe6b",
       "role": "member"
@@ -58179,7 +58200,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/abruzzo",
+      "area_id": "XVII",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/partito_democratico",
       "organization_id": "legislature",
@@ -59977,12 +59998,22 @@
     },
     {
       "area_id": "XXV",
+      "end_date": "2015-12-02",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
       "organization_id": "legislature",
       "person_id": "919e92c7-6e47-4b02-9500-c7423ba1ac6a",
       "role": "member",
       "start_date": "2015-08-05"
+    },
+    {
+      "area_id": "XXV",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/misto_-_partito_socialista_italiano_(psi)_-_liberali_per_l'italia_(pli)",
+      "organization_id": "legislature",
+      "person_id": "919e92c7-6e47-4b02-9500-c7423ba1ac6a",
+      "role": "member",
+      "start_date": "2015-12-02"
     },
     {
       "area_id": "III",
@@ -63701,18 +63732,8 @@
       "type": "constituency"
     },
     {
-      "id": "area/abruzzo",
-      "name": "Abruzzo",
-      "type": "constituency"
-    },
-    {
       "id": "area/lazio_1",
       "name": "Lazio 1",
-      "type": "constituency"
-    },
-    {
-      "id": "area/puglia",
-      "name": "Puglia",
       "type": "constituency"
     }
   ]
