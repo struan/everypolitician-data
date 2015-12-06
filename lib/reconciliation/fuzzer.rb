@@ -28,7 +28,7 @@ module Reconciliation
         end
         data = {
           incoming: incoming_row,
-          existing: matches[0...3]
+          existing: matches.take(3),
         }
         warn "Fuzzed #{display(data)}"
         data
