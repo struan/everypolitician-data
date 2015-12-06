@@ -44,7 +44,7 @@ var nextPairing = function nextPairing($currentPairing){
 }
 
 var highlightExistingVotes = function highlightExistingVotes($pairing){
-  var allVotesSoFar = window.votes.concat(window.reconciled);
+  var allVotesSoFar = allVotes();
 
   $('.pairing__choices .person', $pairing).each(function(){
     $(this).children('.person__already-matched').remove();
@@ -90,10 +90,14 @@ var updateProgressBar = function updateProgressBar(){
   $('.progress .progress-bar div').animate({ width: progressAsPercentage() }, 100);
 }
 
+var allVotes = function allVotes() { 
+  return window.reconciled.concat(window.votes).concat(window.autovotes)
+}
+
 var votesAsCSV = function votesAsCSV(){
   return Papa.unparse({
     fields: ['id', 'uuid'],
-    data: window.reconciled.concat(_.reject(window.votes, { 1: null }))
+    data: _.reject(allVotes(), { 1: null })
   });
 }
 
@@ -173,11 +177,12 @@ jQuery(function($) {
     var incomingPerson = match.incoming;
     var existingPerson = match.existing[0][0];
 
-    // Skip exact matches for now
+    // TODO only do this if there's only a single exact match
     if (incomingPerson[window.incomingField].toLowerCase() == existingPerson[window.existingField].toLowerCase()) {
+      window.autovotes.push( [incomingPerson.id, existingPerson.uuid] );
       return;
     }
-
+    
     var incomingPersonFields = _.filter(Object.keys(incomingPerson), function(field) {
       return incomingPerson[field];
     });
