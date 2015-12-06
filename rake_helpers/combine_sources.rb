@@ -10,13 +10,12 @@ end
 
 class Reconciler
 
-  def initialize(existing_rows, instructions, reconciled_csv)
+  def initialize(existing_rows, instructions, reconciled_csv = nil)
     @_existing_rows = existing_rows
     @_instructions  = instructions
     warn "Deprecated use of 'overrides'".cyan if @_instructions.include? :overrides
     @_existing_field = instructions[:existing_field].to_sym rescue raise("Need an `existing_field` to match on")
     @_incoming_field = instructions[:incoming_field].to_sym rescue raise("Need an `incoming_field` to match on")
-
     @_reconciled = reconciled_csv ? Hash[reconciled_csv.map { |r| [r.to_hash.values[0].to_s, r.to_hash] }] : {}
   end
 
@@ -24,39 +23,31 @@ class Reconciler
     @_lookup ||= @_existing_rows.group_by { |r| r[@_existing_field].to_s.downcase }
   end
 
-  # TODO: Delete this method once everything uses existing_by_uuid below
-  def existing_by_id
-    @_lookup_by_id ||= @_existing_rows.group_by { |r| r[:id].to_s }
-  end
-
   def existing_by_uuid
     @_lookup_by_uuid ||= @_existing_rows.group_by { |r| r[:uuid].to_s }
   end
+end
 
+class Reconciler::Fuzzy < Reconciler
   def find_all(incoming_row)
-    if incoming_row[@_incoming_field].to_s.empty?
-      # warn "#{incoming_row.reject { |k, v| v.nil? }} has no #{@_incoming_field}"
-      return []
-    end
-
+    return [] if incoming_row[@_incoming_field].to_s.empty?
     if match = @_reconciled[incoming_row[:id].to_s]
       return existing_by_uuid[match[:uuid].to_s] if match[:uuid]
     end
+    return []
+  end
+end
 
-    # Short-circuit if we've already been told who this matches (either by ID or field)
-    if preset = @_reconciled[incoming_row[@_incoming_field]]
-      return existing_by_id[ preset[:id].to_s ] if preset[:id]
-      return existing[ preset[ "existing_#{@_existing_field}".to_sym ].downcase ]
-    end
+class Reconciler::Exact < Reconciler
+  def find_all(incoming_row)
+    return [] if incoming_row[@_incoming_field].to_s.empty?
 
     if exact_match = existing[ incoming_row[@_incoming_field].downcase ]
       return exact_match
     end
 
     return []
-
   end
-
 end
 
 namespace :merge_sources do
@@ -222,14 +213,17 @@ namespace :merge_sources do
           merger[:report_missing] = (i == approaches.size - 1)
         end
 
-
-        # TODO complain if this isn't the last step — all prior ones
-        # should be exact matches
-        reconciliation = Reconciliation::Interface.new(merged_rows, incoming_data, merger)
-        reconciliation.generate!
+        if merger.key? :reconciliation_file
+          # TODO complain if this isn't the last step — all prior ones
+          # should be exact matches
+          reconciliation = Reconciliation::Interface.new(merged_rows, incoming_data, merger)
+          reconciliation.generate!
+          reconciler = Reconciler::Fuzzy.new(merged_rows, merger, reconciliation.reconciled)
+        else 
+          reconciler = Reconciler::Exact.new(merged_rows, merger)
+        end
 
         unmatched = []
-        reconciler = Reconciler.new(merged_rows, merger, reconciliation.reconciled)
         incoming_data.each do |incoming_row|
 
           incoming_row[:identifier__wikidata] ||= incoming_row[:id] if pd[:type] == 'wikidata'

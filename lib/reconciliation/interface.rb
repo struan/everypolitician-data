@@ -72,7 +72,7 @@ module Reconciliation
     end
 
     def reconciler
-      @reconciler ||= Reconciler.new(merged_rows, merger, reconciled)
+      @reconciler ||= Reconciler::Fuzzy.new(merged_rows, merger, reconciled)
     end
   end
 end
