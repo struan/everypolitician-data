@@ -20,9 +20,9 @@ var vote = function vote($choice){
   var vote = [];
 
   if($choice.is('.skip')) {
-    // Insert a null value to indicate skip, these are removed when
-    // serializing to CSV.
-    window.votes.push( null );
+    // Insert a null value to indicate skip. 
+    // These are removed when serializing to CSV.
+    window.votes.push( [incomingPersonID, null] );
   } else {
     window.votes.push( [incomingPersonID, $choice.attr('data-uuid')] );
   }
@@ -91,7 +91,7 @@ var updateProgressBar = function updateProgressBar(){
 var votesAsCSV = function votesAsCSV(){
   return Papa.unparse({
     fields: ['id', 'uuid'],
-    data: window.reconciled.concat(_.compact(window.votes))
+    data: window.reconciled.concat(_.reject(window.votes, { 1: null }))
   });
 }
 
