@@ -27,8 +27,8 @@ var vote = function vote($choice){
     window.votes.push( [incomingPersonID, $choice.attr('data-uuid')] );
   }
 
-  nextPairing($pairing);
   redrawTop();
+  nextPairing($pairing);
 }
 
 var nextPairing = function nextPairing($currentPairing){
@@ -38,6 +38,7 @@ var nextPairing = function nextPairing($currentPairing){
     highlightExistingVotes($nextPairing);
     $nextPairing.show();
   } else {
+    $('.messages').html('<h1>Reconciliation complete!</h1>'); 
     showCSVtray();
   }
 }
@@ -77,6 +78,7 @@ var redrawTop = function redrawTop(){
   updateProgressBar();
   updateUndoButton();
   updateCSVtray();
+  $('.messages').text('');
 }
 
 var progressAsPercentage = function progressAsPercentage(){
