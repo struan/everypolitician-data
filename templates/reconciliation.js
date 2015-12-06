@@ -44,7 +44,7 @@ var nextPairing = function nextPairing($currentPairing){
 }
 
 var highlightExistingVotes = function highlightExistingVotes($pairing){
-  var allVotesSoFar = window.votes.concat(window.reconciled);
+  var allVotesSoFar = allVotes();
 
   $('.pairing__choices .person', $pairing).each(function(){
     $(this).children('.person__already-matched').remove();
@@ -90,10 +90,14 @@ var updateProgressBar = function updateProgressBar(){
   $('.progress .progress-bar div').animate({ width: progressAsPercentage() }, 100);
 }
 
+var allVotes = function allVotes() { 
+  return window.reconciled.concat(window.votes).concat(window.autovotes)
+}
+
 var votesAsCSV = function votesAsCSV(){
   return Papa.unparse({
     fields: ['id', 'uuid'],
-    data: window.reconciled.concat(_.reject(window.votes, { 1: null }))
+    data: _.sortBy( _.reject(allVotes(), { 1: null }), 1 )
   });
 }
 
@@ -171,13 +175,16 @@ jQuery(function($) {
 
   $.each(toReconcile, function(i, match) {
     var incomingPerson = match.incoming;
-    var existingPerson = match.existing[0][0];
 
-    // Skip exact matches for now
-    if (incomingPerson[window.incomingField].toLowerCase() == existingPerson[window.existingField].toLowerCase()) {
+    // If there's one and only one 100% match, choose it automatically
+    var exactMatches  = _.filter(match.existing, function(e) { 
+      return e[0][window.existingField].toLowerCase() == incomingPerson[window.incomingField].toLowerCase() 
+    });
+    if (exactMatches.length == 1) { 
+      window.autovotes.push( [incomingPerson.id, exactMatches[0][0].uuid] );
       return;
     }
-
+    
     var incomingPersonFields = _.filter(Object.keys(incomingPerson), function(field) {
       return incomingPerson[field];
     });
@@ -235,10 +242,12 @@ jQuery(function($) {
   });
 
   $firstPairing = $('.pairing').first();
-  $firstPairing.nextAll().hide();
-  highlightExistingVotes($firstPairing);
-
-  redrawTop();
-  if(toReconcile.length == 0){ $('.messages').append('<h1>Nothing to reconcile!</h1>'); }
+  if ($firstPairing.length) {
+    $firstPairing.nextAll().hide();
+    highlightExistingVotes($firstPairing);
+    redrawTop();
+  } else { 
+    $('.messages').append('<h1>Nothing to reconcile!</h1>'); 
+  }
 
 });
