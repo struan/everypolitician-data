@@ -28190,11 +28190,36 @@
     {
       "birth_date": "1949-05-29",
       "gender": "male",
+      "given_name": "Eli",
       "id": "0eb493fe-c3bc-4606-bb9d-0c8918c006fe",
       "identifiers": [
         {
           "identifier": "714",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/051wrgx",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "0000 0001 1462 4218",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "00734237",
+          "scheme": "ndl"
+        },
+        {
+          "identifier": "076526321",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "90783792",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q19634024",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.knesset.gov.il/mk/images/members/cohen_eli.jpg",
@@ -28203,7 +28228,94 @@
           "url": "http://www.knesset.gov.il/mk/images/members/cohen_eli.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (cs)",
+          "url": "https://cs.wikipedia.org/wiki/Eli_Kohen_(1973)"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Eli_Cohen_(Politiker,_1972)"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Eli_Cohen_(politician_born_1972)"
+        },
+        {
+          "note": "Wikipedia (he)",
+          "url": "https://he.wikipedia.org/wiki/אלי_כהן_(כולנו)"
+        },
+        {
+          "note": "Wikipedia (id)",
+          "url": "https://id.wikipedia.org/wiki/Eli_Cohen_(politikus)"
+        },
+        {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/エリ・コーヘン"
+        },
+        {
+          "note": "facebook",
+          "url": "cpa.eli.cohen"
+        }
+      ],
       "name": "Eli Cohen",
+      "other_names": [
+        {
+          "lang": "cs",
+          "name": "Eli Kohen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Eli Cohen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Eli Cohen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Eli Cohen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "الی کوهن",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Eli Cohen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "אלי כהן (כולנו)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Eli Cohen (politikus)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "エリ・コーヘン",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Eli Cohen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Эли Коэн",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.knesset.gov.il/mk/eng/mk_print_eng.asp?mk_individual_id_t=714"
