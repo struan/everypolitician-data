@@ -9229,11 +9229,16 @@
       "email": "BRIGNONE_B@CAMERA.IT",
       "family_name": "Brignone",
       "gender": "female",
+      "given_name": "Beatrice",
       "id": "8b300df9-67f6-426c-bed3-f85612c9660d",
       "identifiers": [
         {
           "identifier": "306881",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q21578717",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camera.it/application/xmanager/projects/leg17/attachments/shadow_deputato/has_fotos/000/306/881/original_d306881.jpg",
@@ -9242,7 +9247,35 @@
           "url": "http://www.camera.it/application/xmanager/projects/leg17/attachments/shadow_deputato/has_fotos/000/306/881/original_d306881.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Beatrice_Brignone"
+        }
+      ],
       "name": "BRIGNONE Beatrice",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Beatrice Brignone",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Beatrice Brignone",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Beatrice Brignone",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Beatrice Brignone",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.camera.it/leg17/29?shadow_deputato=306881&idpersona=306881&idlegislatura=17"
