@@ -232,7 +232,10 @@ jQuery(function($) {
     $(this).select();
   });
 
-  $('.pairing').eq(0).nextAll().hide();
+  $firstPairing = $('.pairing').first();
+  $firstPairing.nextAll().hide();
+  highlightExistingVotes($firstPairing);
+
   redrawTop();
   if(toReconcile.length == 0){ $('.messages').append('<h1>Nothing to reconcile!</h1>'); }
 
