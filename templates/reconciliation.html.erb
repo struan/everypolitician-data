@@ -8,7 +8,7 @@
     <script>
       window.existingField = <%= Yajl::Encoder.encode(existing_field, html_safe: true) %>
       window.incomingField = <%= Yajl::Encoder.encode(incoming_field, html_safe: true) %>
-      window.matches = <%= Yajl::Encoder.encode(matched, html_safe: true) %>;
+      window.toReconcile = <%= Yajl::Encoder.encode(matched, html_safe: true) %>;
       window.votes = [];
       window.reconciled = <%= Yajl::Encoder.encode(reconciled.map(&:fields), html_safe: true) %>;
     </script>
@@ -27,7 +27,7 @@
                 <div class="undo">Undo</div>
             </div>
             <div class="column-2">
-                <div class="export-csv">Export CSV</div>
+                <div class="export-csv">Show CSV</div>
             </div>
         </div>
     </div>

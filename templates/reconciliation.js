@@ -20,35 +20,26 @@ var vote = function vote($choice){
   var vote = [];
 
   if($choice.is('.skip')) {
-    // Insert a null value to indicate skip, these are removed when
-    // serializing to CSV.
-    window.votes.push( null );
+    // Insert a null value to indicate skip. 
+    // These are removed when serializing to CSV.
+    window.votes.push( [incomingPersonID, null] );
   } else {
     window.votes.push( [incomingPersonID, $choice.attr('data-uuid')] );
   }
 
+  redrawTop();
   nextPairing($pairing);
-  updateProgressBar();
-  updateUndoButton();
 }
 
 var nextPairing = function nextPairing($currentPairing){
   $currentPairing.hide();
   var $nextPairing = $currentPairing.next();
   if($nextPairing.length){
-
-    // TODO: Fix the assumptions highlightExistingVotes() makes
-    // about previously matched people being in window.matches!
-    try {
-      highlightExistingVotes($nextPairing);
-    } catch (e) {
-      console.log('Oh dear, there was an exception in highlightExistingVotes()');
-      console.log('See https://github.com/everypolitician/everypolitician-data/pull/1820#issuecomment-161635498');
-    }
-
+    highlightExistingVotes($nextPairing);
     $nextPairing.show();
   } else {
-    showOrHideCSV();
+    $('.messages').html('<h1>Reconciliation complete!</h1>'); 
+    showCSVtray();
   }
 }
 
@@ -68,7 +59,7 @@ var highlightExistingVotes = function highlightExistingVotes($pairing){
 
       // Get the details for the person they were matched to.
       var priorMatchDetails;
-      _.each(window.matches, function(match){
+      _.each(window.toReconcile, function(match){
         if(match.incoming.id == personAlreadyMatched[0]){
           priorMatchDetails = match.incoming;
         }
@@ -83,33 +74,51 @@ var highlightExistingVotes = function highlightExistingVotes($pairing){
   });
 }
 
-var updateProgressBar = function updateProgressBar(){
-  var progress = window.votes.length / $('.pairing').length * 100;
-  $('.progress .progress-bar div').animate({
-    width: '' + progress + '%'
-  }, 100);
+var redrawTop = function redrawTop(){
+  updateProgressBar();
+  updateUndoButton();
+  updateCSVtray();
+  $('.messages').text('');
 }
 
-var generateCSV = function generateCSV(){
+var progressAsPercentage = function progressAsPercentage(){
+  if (window.toReconcile.length == 0) { return '100%' }
+  return '' + (window.votes.length / $('.pairing').length * 100) + '%';
+}
+
+var updateProgressBar = function updateProgressBar(){
+  $('.progress .progress-bar div').animate({ width: progressAsPercentage() }, 100);
+}
+
+var votesAsCSV = function votesAsCSV(){
   return Papa.unparse({
     fields: ['id', 'uuid'],
-    data: window.reconciled.concat(_.compact(window.votes))
+    data: window.reconciled.concat(_.reject(window.votes, { 1: null }))
   });
 }
 
-var showOrHideCSV = function showOrHideCSV(){
-  var $csv = $('.csv');
-  if($csv.is(':visible')){
-    $csv.slideUp(100);
+var updateCSVtray = function updateCSVtray(){
+  $('.csv').val(votesAsCSV());
+}
+
+var showCSVtray = function showCSVtray(){
+  updateCSVtray();
+  $('.export-csv').text('Hide CSV');
+  $('.csv').slideDown(100, function(){
+    $(this).select();
+  });
+}
+
+var hideCSVtray = function hideCSVtray(){
+  $('.export-csv').text('Show CSV');
+  $('.csv').slideUp(100);
+}
+
+var toggleCSVtray = function toggleCSVtray(){
+  if($('.csv').is(':visible')){
+    hideCSVtray();
   } else {
-    $csv.val(generateCSV());
-    $csv.slideDown(100, function(){
-      $csv.select();
-    });
-    $(document).on('click.dismiss-csv', function(){
-        $csv.slideUp(100);
-        $(document).off('click.dismiss-csv');
-    });
+    showCSVtray();
   }
 }
 
@@ -120,11 +129,13 @@ var undo = function undo(){
   // Remove last vote from window.votes,
   // and re-show the most recently hidden pairing.
   var undoneVote = window.votes.pop();
-  $('.pairing:visible').hide().prev().show();
-
-  // Update the various bits of UI.
-  updateProgressBar();
-  updateUndoButton();
+  if ($('.pairing:visible').length) { 
+    $('.pairing:visible').hide().prev().show();
+  } else { 
+    $('.pairing').last().show();
+    hideCSVtray();
+  }
+  redrawTop();
 }
 
 var updateUndoButton = function updateUndoButton(){
@@ -135,16 +146,30 @@ var updateUndoButton = function updateUndoButton(){
   }
 }
 
-jQuery(function($) {
-  if(matches.length == 0){
-    $('.messages').append('<h1>Nothing to reconcile!</h1>');
-    $('.progress .progress-bar div').animate({
-      width: '100%'
-    }, 500);
-    updateUndoButton();
-  }
+var handleKeyPress = function handleKeyPress(e){
+  // Escape
+  if(e.keyCode == 27){ return toggleCSVtray(); }
 
-  $.each(matches, function(i, match) {
+  // Command-Z
+  if(e.keyCode == 90 && (e.metaKey || e.ctrlKey)) { return undo(); } 
+      
+  // Only if there is at least one pairing left to categorise
+  if($('.pairing:visible').length && $('.csv').is(':hidden')){
+    // right arrow
+    if(e.which == 39){ return vote($('.pairing:visible .skip')); } 
+
+    // number key
+    if(e.which > 48 && e.which < 58){
+      // Avoid votes for numbers that don't exist on the page
+      var $choice = $('.pairing:visible .pairing__choices .person').eq(e.which - 49);
+      if($choice.length){ vote($choice); }
+    }
+  }
+}
+
+jQuery(function($) {
+
+  $.each(toReconcile, function(i, match) {
     var incomingPerson = match.incoming;
     var existingPerson = match.existing[0][0];
 
@@ -188,43 +213,11 @@ jQuery(function($) {
     $('.pairings').append(html);
   });
 
-  $('.pairing').eq(0).nextAll().hide();
-
-  updateUndoButton();
-  updateProgressBar();
-
   $(document).on('click', '.pairing__choices > div', function(){
     vote($(this));
   });
 
-  $(document).on('keydown', function(e){
-    if(e.keyCode == 27){
-      // Escape key pressed, toggle the CSV box
-      showOrHideCSV();
-
-    } else if($('.csv').is(':hidden')){
-      // CSV box is hidden, so let the user categorise people if there are any
-      if(e.keyCode == 90 && (e.metaKey || e.ctrlKey)){
-        // Command-Z
-        undo();
-
-      } else if($('.pairing:visible').length){
-        // There is at least one pairing left to categorise
-        if(e.which == 39){
-          var $choice = $('.pairing:visible .skip');
-          vote($choice);
-
-        } else if(e.which > 48 && e.which < 58){
-          var $choice = $('.pairing:visible .pairing__choices .person').eq(e.which - 49);
-          if($choice.length){
-            // Avoid votes for numbers that don't exist on the page
-            vote($choice);
-          }
-
-        }
-      }
-    }
-  });
+  $(document).on('keydown', handleKeyPress);
 
   $('.undo').on('click', function(){
     undo();
@@ -232,7 +225,7 @@ jQuery(function($) {
 
   $('.export-csv').on('click', function(e){
     e.stopPropagation();
-    showOrHideCSV();
+    toggleCSVtray();
   });
 
   $('.csv').on('click', function(e){
@@ -240,4 +233,12 @@ jQuery(function($) {
   }).on('focus', function(){
     $(this).select();
   });
+
+  $firstPairing = $('.pairing').first();
+  $firstPairing.nextAll().hide();
+  highlightExistingVotes($firstPairing);
+
+  redrawTop();
+  if(toReconcile.length == 0){ $('.messages').append('<h1>Nothing to reconcile!</h1>'); }
+
 });
