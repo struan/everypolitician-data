@@ -2752,6 +2752,10 @@
           "url": "https://en.wikipedia.org/wiki/Bardish_Chagger"
         },
         {
+          "note": "Wikipedia (fa)",
+          "url": "https://fa.wikipedia.org/wiki/بردیش_چیگر"
+        },
+        {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Bardish_Chagger"
         },
@@ -3651,6 +3655,7 @@
       ]
     },
     {
+      "birth_date": "1962-01-01",
       "contact_details": [
         {
           "type": "twitter",
@@ -3692,7 +3697,17 @@
       "name": "Bill Morneau",
       "other_names": [
         {
+          "lang": "de",
+          "name": "Bill Morneau",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
+          "name": "Bill Morneau",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
           "name": "Bill Morneau",
           "note": "multilingual"
         },
@@ -5966,6 +5981,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Carolyn_Bennett"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Carolyn_Bennett"
         },
@@ -7771,9 +7790,26 @@
         {
           "identifier": "88346",
           "scheme": "represent"
+        },
+        {
+          "identifier": "Q21662882",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Colin_Fraser_(Canadian_politician)"
         }
       ],
       "name": "Colin Fraser",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Colin Fraser",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_House_members_of_the_42nd_Parliament_of_Canada"
@@ -8466,6 +8502,7 @@
         }
       ],
       "email": "Daniel.Blaikie@parl.gc.ca",
+      "gender": "male",
       "id": "d8a40efc-de4a-4327-8a9b-058723a8d203",
       "identifiers": [
         {
@@ -31582,6 +31619,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Pat_Martin"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Pat_Martin"
         },
@@ -31831,6 +31872,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Patty_Hajdu"
+        },
+        {
+          "note": "Wikipedia (fa)",
+          "url": "https://fa.wikipedia.org/wiki/پتی_هایدو"
         },
         {
           "note": "Wikipedia (fr)",
@@ -32474,6 +32519,7 @@
         }
       ],
       "email": "Peter.Fragiskatos@parl.gc.ca",
+      "gender": "male",
       "id": "66ccd537-1f51-4e0b-8040-38d65fe0a916",
       "identifiers": [
         {
@@ -34751,6 +34797,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Rathika_Sitsabaiesan"
+        },
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Rathika_Sitsabaiesan"
@@ -38890,6 +38940,7 @@
         }
       ],
       "email": "Sean.Fraser@parl.gc.ca",
+      "gender": "male",
       "id": "deebce9a-ba90-4785-bf1e-5103a38be83d",
       "identifiers": [
         {
