@@ -3866,6 +3866,10 @@
         {
           "identifier": "ATW",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q3432049",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://data.stortinget.no/eksport/personbilde?personid=ATW&storrelse=middels",
@@ -3874,7 +3878,63 @@
           "url": "http://data.stortinget.no/eksport/personbilde?personid=ATW&storrelse=middels"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Anne_Tingelstad_Wøien"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Anne_T._Wøien"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Anne_T._Wøien"
+        }
+      ],
       "name": "Anne Tingelstad Wøien",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Anne T. Wøien",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Anne Tingelstad Wøien",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Anne Tingelstad Wøien",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Anne Tingelstad Wøien",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Anne Tingelstad Wøien",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Anne T. Wøien",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Anne T. Wøien",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Anne T. Wøien",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Wøien, Anne Tingelstad",
       "sources": [
         {
@@ -19836,7 +19896,7 @@
         },
         {
           "note": "Wikipedia (be)",
-          "url": "https://be.wikipedia.org/wiki/Эрна_Солберг"
+          "url": "https://be.wikipedia.org/wiki/Эрна_Сульберг"
         },
         {
           "note": "Wikipedia (bn)",
@@ -27136,6 +27196,7 @@
     },
     {
       "birth_date": "1899-07-01",
+      "death_date": "1981-02-11",
       "family_name": "Wika",
       "gender": "male",
       "given_name": "Haakon Olsen",
@@ -27144,9 +27205,44 @@
         {
           "identifier": "HAWI",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "62825530",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q5636501",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Haakon_Olsen_Wika"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Håkon_O._Wika"
         }
       ],
       "name": "Haakon Olsen Wika",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Haakon Olsen Wika",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Haakon Olsen Wika",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Håkon O. Wika",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Wika, Haakon Olsen",
       "sources": [
         {
@@ -38004,6 +38100,7 @@
     },
     {
       "birth_date": "1881-11-14",
+      "death_date": "1975-06-17",
       "family_name": "Lothe",
       "gender": "male",
       "given_name": "Jakob Mathias Antonson",
@@ -38012,9 +38109,50 @@
         {
           "identifier": "JALO",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q11977889",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Jakob_Mathias_Antonson_Lothe"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Jakob_A._Lothe"
         }
       ],
       "name": "Jakob Mathias Antonson Lothe",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Jakob Mathias Antonson Lothe",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Jakob Mathias Antonson Lothe",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Jakob Mathias Antonson Lothe",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Jakob A. Lothe",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Jakob Mathias Antonson Lothe",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Lothe, Jakob Mathias Antonson",
       "sources": [
         {
@@ -42243,6 +42381,7 @@
     },
     {
       "birth_date": "1913-02-20",
+      "death_date": "1973-09-24",
       "family_name": "Støa",
       "gender": "male",
       "given_name": "Johan",
@@ -42251,9 +42390,45 @@
         {
           "identifier": "JOSØ",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q6215389",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Johan_Støa_(politician)"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Johan_Støa_(politiker)"
         }
       ],
       "name": "Johan Støa",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Johan Støa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Johan Støa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Johan Støa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Johan Støa (politiker)",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Støa, Johan",
       "sources": [
         {
@@ -51509,6 +51684,7 @@
     },
     {
       "birth_date": "1882-08-06",
+      "death_date": "1976-10-29",
       "family_name": "Moljord",
       "gender": "male",
       "given_name": "Kristian Magnus Falsen Johansen",
@@ -51517,9 +51693,55 @@
         {
           "identifier": "KRMO",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q6437960",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Kristian_Moljord"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Kristian_Moljord"
         }
       ],
       "name": "Kristian Magnus Falsen Johansen Moljord",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Kristian Moljord",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Kristian Moljord",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Kristian Moljord",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Kristian Moljord",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Kristian Moljord",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Kristian Moljord",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Moljord, Kristian Magnus Falsen Johansen",
       "sources": [
         {
@@ -70412,6 +70634,7 @@
     },
     {
       "birth_date": "1929-06-11",
+      "death_date": "2014-05-18",
       "family_name": "Aas",
       "gender": "male",
       "given_name": "Per Almar",
@@ -70420,9 +70643,64 @@
         {
           "identifier": "PEAA",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q11995138",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Per_Almar_Aas"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Per_Aas"
+        },
+        {
+          "note": "Wikipedia (simple)",
+          "url": "https://simple.wikipedia.org/wiki/Per_Almar_Aas"
         }
       ],
       "name": "Per Almar Aas",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Per Almar Aas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Per Almar Aas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Per Almar Aas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Per Aas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Per Aas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Per Almar Aas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Per Aas",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Aas, Per Almar",
       "sources": [
         {
@@ -72797,6 +73075,7 @@
     },
     {
       "birth_date": "1904-10-04",
+      "death_date": "1976-03-12",
       "family_name": "Reinsnes",
       "gender": "male",
       "given_name": "Peter Ovald",
@@ -72805,9 +73084,54 @@
         {
           "identifier": "PERI",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q4584711",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Petter_Carl_Reinsnes"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Petter_Carl_Reinsnes"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/P.C._Reinsnes"
         }
       ],
       "name": "Peter Ovald Reinsnes",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Petter Carl Reinsnes",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Petter Carl Reinsnes",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Petter Carl Reinsnes",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "P.C. Reinsnes",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Petter Carl Reinsnes",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Reinsnes, Peter Ovald",
       "sources": [
         {
@@ -83131,6 +83455,7 @@
     },
     {
       "birth_date": "1887-05-13",
+      "death_date": "1959-12-07",
       "family_name": "Støstad",
       "gender": "male",
       "given_name": "Sverre Kornelius Eilertsen",
@@ -83139,9 +83464,70 @@
         {
           "identifier": "SVSØ",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q4589221",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/27/Sverre_Støstad.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Sverre_Støstad.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Sverre_Støstad"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Sverre_Støstad"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Sverre_Støstad"
         }
       ],
       "name": "Sverre Kornelius Eilertsen Støstad",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Sverre Støstad",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Sverre Støstad",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Sverre Støstad",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Sverre Støstad",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Sverre Støstad",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Sverre Støstad",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Sverre Støstad",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Støstad, Sverre Kornelius Eilertsen",
       "sources": [
         {
