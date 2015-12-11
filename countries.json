@@ -9231,9 +9231,9 @@
         "sources_directory": "data/Zimbabwe/Assembly/sources",
         "popolo": "data/Zimbabwe/Assembly/ep-popolo-v1.0.json",
         "names": "data/Zimbabwe/Assembly/names.csv",
-        "lastmod": "1448466499",
-        "person_count": 206,
-        "sha": "8a94d0b",
+        "lastmod": "1449837499",
+        "person_count": 219,
+        "sha": "89993d3",
         "legislative_periods": [
           {
             "id": "term/8",
@@ -9241,6 +9241,25 @@
             "start_date": "2013",
             "slug": "8",
             "csv": "data/Zimbabwe/Assembly/term-8.csv"
+          }
+        ]
+      },
+      {
+        "name": "Senate",
+        "slug": "Senate",
+        "sources_directory": "data/Zimbabwe/Senate/sources",
+        "popolo": "data/Zimbabwe/Senate/ep-popolo-v1.0.json",
+        "names": "data/Zimbabwe/Senate/names.csv",
+        "lastmod": "1449837633",
+        "person_count": 67,
+        "sha": "58fa2b4",
+        "legislative_periods": [
+          {
+            "id": "term/8",
+            "name": "8th Parliament",
+            "start_date": "2013",
+            "slug": "8",
+            "csv": "data/Zimbabwe/Senate/term-8.csv"
           }
         ]
       }

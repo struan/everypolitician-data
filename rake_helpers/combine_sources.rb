@@ -179,9 +179,17 @@ namespace :merge_sources do
       end
       table = csv_table(file)
 
+      # if we have any filters, apply them
+      # Currently we just recognise a hash of k:v pairs to accept if matching
+      # TODO: add 'reject' and more complex expressions
+      filter = src.key?(:filter) ? ->(row) { src[:filter][:accept].all? { |k, v| row[k] == v } } : nil
+
       table.each do |row|
+        next unless filter && filter.call(row)
+
         # If the row has no ID, we'll need something we can treate as one
         # This 'pseudo id' defaults to slugified 'name' unless provided 
+        # binding.pry
         row[:pseudoid] = row[:name].downcase.gsub(/\s+/, '_') unless (row[:id] || row[:pseudoid])
         # Assume that incoming data has no useful uuid column
         row[:uuid] = id_map[row[:id] || row[:pseudoid]] ||= SecureRandom.uuid
@@ -236,7 +244,6 @@ namespace :merge_sources do
             uids = to_patch.map { |r| r[:id] }.uniq
             if uids.count > 1
               warn "Too many IDs: #{uids}".red.on_yellow
-              # binding.pry
               next
             end
             to_patch.each do |existing_row|
@@ -311,9 +318,11 @@ namespace :merge_sources do
         if legacy.key? row[:uuid] 
           row[:identifier__everypolitician_legacy] = legacy[ row[:uuid ] ].first[:legacy] 
         end
-        row[:id] = row[:uuid]
       end
     end
+
+    # No matter what 'id' columns we had, use the UUID as the final ID
+    merged_rows.each { |row| row[:id] = row[:uuid] }
 
     # Then write it all out
     CSV.open("sources/merged.csv", "w") do |out|
