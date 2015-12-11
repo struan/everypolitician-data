@@ -2931,14 +2931,72 @@
       ]
     },
     {
+      "birth_date": "1974-07-01",
+      "gender": "male",
+      "given_name": "Hadi",
       "id": "2614ffff-5444-49e9-9769-f8d60ccc4e74",
       "identifiers": [
         {
           "identifier": "hadi_hobeiche",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q3125537",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/هادي_حبيش"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Hadi_Hobeich"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Hadi_Hobeich"
         }
       ],
       "name": "Hadi Hobeiche",
+      "other_names": [
+        {
+          "lang": "ar",
+          "name": "هادي حبيش",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Hadi Hobeich",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Hadi Hobeich",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Hadi Hobeich",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Hadi Hobeich",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Hadi Hobeich",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Hadi Hobeich",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/Members_of_the_2009%E2%80%9317_Lebanese_Parliament"
@@ -5809,6 +5867,10 @@
           "url": "https://ar.wikipedia.org/wiki/سعد_الدين_الحريري"
         },
         {
+          "note": "Wikipedia (arwikiquote)",
+          "url": "https://arwikiquote.wikipedia.org/wiki/سعد_الدين_الحريري"
+        },
+        {
           "note": "Wikipedia (bg)",
           "url": "https://bg.wikipedia.org/wiki/Саад_Харири"
         },
@@ -5843,6 +5905,10 @@
         {
           "note": "Wikipedia (fa)",
           "url": "https://fa.wikipedia.org/wiki/سعد_حریری"
+        },
+        {
+          "note": "Wikipedia (fawikiquote)",
+          "url": "https://fawikiquote.wikipedia.org/wiki/سعد_حریری"
         },
         {
           "note": "Wikipedia (fi)",
@@ -6318,6 +6384,11 @@
         {
           "lang": "pl",
           "name": "Samy Dżemajel",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Сами Жмайель",
           "note": "multilingual"
         }
       ],

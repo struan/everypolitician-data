@@ -4893,7 +4893,7 @@
         "popolo": "data/Malta/Assembly/ep-popolo-v1.0.json",
         "names": "data/Malta/Assembly/names.csv",
         "lastmod": "1448466499",
-        "person_count": 69,
+        "person_count": 70,
         "sha": "8a94d0b",
         "legislative_periods": [
           {
@@ -6302,10 +6302,18 @@
         "popolo": "data/Poland/Sejm/ep-popolo-v1.0.json",
         "names": "data/Poland/Sejm/names.csv",
         "lastmod": "1448966909",
-        "person_count": 1979,
+        "person_count": 2185,
         "sha": "c380cc1",
         "legislative_periods": [
           {
+            "id": "term/8",
+            "name": "VIII kadencja",
+            "start_date": "2015-11-12",
+            "slug": "8",
+            "csv": "data/Poland/Sejm/term-8.csv"
+          },
+          {
+            "end_date": "2015-11-11",
             "id": "term/7",
             "name": "VII kadencja",
             "start_date": "2011-11-08",
@@ -8101,7 +8109,7 @@
         "popolo": "data/Turkey/Assembly/ep-popolo-v1.0.json",
         "names": "data/Turkey/Assembly/names.csv",
         "lastmod": "1448466499",
-        "person_count": 6867,
+        "person_count": 6796,
         "sha": "8a94d0b",
         "legislative_periods": [
           {

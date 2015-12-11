@@ -9023,11 +9023,21 @@
     {
       "birth_date": "1958-03-04",
       "email": "emel.etem@parliament.bg",
+      "gender": "female",
+      "given_name": "Emel",
       "id": "051f7171-ec31-400c-a370-ebf42683573d",
       "identifiers": [
         {
           "identifier": "976",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/0krv64",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q453090",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/976.png",
@@ -9036,11 +9046,67 @@
           "url": "http://www.parliament.bg/images/Assembly/976.png"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Емел_Етем_Тошкова"
+        },
+        {
+          "note": "Wikipedia (bgwikiquote)",
+          "url": "https://bgwikiquote.wikipedia.org/wiki/Емел_Етем"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Emel_Etem_Toschkowa"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Emel_Etem_Toshkova"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Emel_Etem_Tochkova"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Emeł_Etem_Toszkowa"
+        }
+      ],
       "name": "EMEL ETEM TOSHKOVA",
       "other_names": [
         {
           "lang": "bg",
           "name": "ЕМЕЛ ЕТЕМ ТОШКОВА",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Emel Etem Toschkowa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Emel Etem Toshkova",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Emel Etem Toshkova",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Emel Etem Tochkova",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Emel Etem Toshkova",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Emel Etem Toszkowa",
           "note": "multilingual"
         }
       ]
@@ -16223,6 +16289,10 @@
         {
           "note": "Wikipedia (bgwikiquote)",
           "url": "https://bgwikiquote.wikipedia.org/wiki/Иван_Костов"
+        },
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Ivan_Kostov"
         },
         {
           "note": "Wikipedia (cs)",
@@ -33028,6 +33098,10 @@
           "url": "https://bgwikiquote.wikipedia.org/wiki/Стефан_Данаилов"
         },
         {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Stefan_Danailov"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Stefan_Danailov"
         },
@@ -37698,6 +37772,10 @@
         {
           "note": "Wikipedia (bg)",
           "url": "https://bg.wikipedia.org/wiki/Вежди_Рашидов"
+        },
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Vezhdi_Rashidov"
         },
         {
           "note": "Wikipedia (de)",

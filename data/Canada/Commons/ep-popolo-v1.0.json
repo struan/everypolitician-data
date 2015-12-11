@@ -2001,6 +2001,7 @@
           "value": "https://twitter.com/AngeloIacono"
         }
       ],
+      "email": "Angelo.Iacono@parl.gc.ca",
       "id": "79fe8e9c-7e7b-4154-bcd6-edf540ab1ba5",
       "identifiers": [
         {
@@ -2750,6 +2751,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Bardish_Chagger"
+        },
+        {
+          "note": "Wikipedia (fa)",
+          "url": "https://fa.wikipedia.org/wiki/بردیش_چیگر"
         },
         {
           "note": "Wikipedia (fr)",
@@ -3651,6 +3656,7 @@
       ]
     },
     {
+      "birth_date": "1962-01-01",
       "contact_details": [
         {
           "type": "twitter",
@@ -3692,7 +3698,17 @@
       "name": "Bill Morneau",
       "other_names": [
         {
+          "lang": "de",
+          "name": "Bill Morneau",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
+          "name": "Bill Morneau",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
           "name": "Bill Morneau",
           "note": "multilingual"
         },
@@ -5966,6 +5982,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Carolyn_Bennett"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Carolyn_Bennett"
         },
@@ -7762,6 +7782,7 @@
         }
       ],
       "email": "Colin.Fraser@parl.gc.ca",
+      "gender": "male",
       "id": "1df09c90-3cfc-4033-94de-f0bb85cee9b5",
       "identifiers": [
         {
@@ -7771,9 +7792,26 @@
         {
           "identifier": "88346",
           "scheme": "represent"
+        },
+        {
+          "identifier": "Q21662882",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Colin_Fraser_(Canadian_politician)"
         }
       ],
       "name": "Colin Fraser",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Colin Fraser",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_House_members_of_the_42nd_Parliament_of_Canada"
@@ -8466,6 +8504,7 @@
         }
       ],
       "email": "Daniel.Blaikie@parl.gc.ca",
+      "gender": "male",
       "id": "d8a40efc-de4a-4327-8a9b-058723a8d203",
       "identifiers": [
         {
@@ -8475,9 +8514,26 @@
         {
           "identifier": "89032",
           "scheme": "represent"
+        },
+        {
+          "identifier": "Q21642319",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Daniel_Blaikie"
         }
       ],
       "name": "Daniel Blaikie",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Daniel Blaikie",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_House_members_of_the_42nd_Parliament_of_Canada"
@@ -9107,6 +9163,7 @@
       ]
     },
     {
+      "birth_date": "1981-07-29",
       "contact_details": [
         {
           "type": "twitter",
@@ -12350,7 +12407,7 @@
         },
         {
           "note": "website",
-          "url": "http://www.erinweir.ca"
+          "url": "http://erinweir.com"
         }
       ],
       "name": "Erin Weir",
@@ -12579,6 +12636,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Fin_Donnelly"
+        },
+        {
+          "note": "website",
+          "url": "http://findonnelly.ca"
         }
       ],
       "name": "Fin Donnelly",
@@ -13051,6 +13112,10 @@
         {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/François_Choquette"
+        },
+        {
+          "note": "website",
+          "url": "http://francoischoquette.ndp.ca"
         }
       ],
       "name": "François Choquette",
@@ -13625,6 +13690,7 @@
         }
       ],
       "email": "Garnett.Genuis@parl.gc.ca",
+      "gender": "male",
       "id": "2c769310-2c20-40ab-98a4-b2b267bc0921",
       "identifiers": [
         {
@@ -13634,9 +13700,26 @@
         {
           "identifier": "89226",
           "scheme": "represent"
+        },
+        {
+          "identifier": "Q21642507",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Garnett_Genuis"
         }
       ],
       "name": "Garnett Genuis",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Garnett Genuis",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_House_members_of_the_42nd_Parliament_of_Canada"
@@ -13748,7 +13831,7 @@
           "value": "https://twitter.com/gary_srp"
         }
       ],
-      "email": "Gary.Anandasangaree@parl.gc.ca",
+      "email": "Gary.Anand@parl.gc.ca",
       "gender": "male",
       "given_name": "Gary",
       "id": "1997e56a-830c-4e61-94ca-3aac5d71f42f",
@@ -15932,7 +16015,7 @@
         },
         {
           "note": "website",
-          "url": "http://helenelaverdiere.ndp.ca/"
+          "url": "http://helenelaverdiere.npd.ca"
         }
       ],
       "name": "Hélène Laverdière",
@@ -16275,6 +16358,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Irwin_Cotler"
+        },
+        {
+          "note": "Wikipedia (enwikiquote)",
+          "url": "https://enwikiquote.wikipedia.org/wiki/Irwin_Cotler"
         },
         {
           "note": "Wikipedia (es)",
@@ -17605,6 +17692,11 @@
           "lang": "fa",
           "name": "جین فیلپات",
           "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Jane Philpott",
+          "note": "multilingual"
         }
       ],
       "sources": [
@@ -18784,6 +18876,11 @@
         {
           "lang": "fa",
           "name": "جیمز کار",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Jim Carr",
           "note": "multilingual"
         },
         {
@@ -20576,6 +20673,7 @@
         }
       ],
       "email": "John.Nater@parl.gc.ca",
+      "gender": "male",
       "id": "bcfc5e84-9c30-484c-96f5-9adb1f15c4af",
       "identifiers": [
         {
@@ -20585,9 +20683,26 @@
         {
           "identifier": "88917",
           "scheme": "represent"
+        },
+        {
+          "identifier": "Q21642848",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/John_Nater"
         }
       ],
       "name": "John Nater",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "John Nater",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_House_members_of_the_42nd_Parliament_of_Canada"
@@ -28389,6 +28504,10 @@
         {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Maxime_Bernier"
+        },
+        {
+          "note": "website",
+          "url": "http://maximebernier.com"
         }
       ],
       "name": "Maxime Bernier",
@@ -28764,6 +28883,7 @@
         }
       ],
       "email": "Michael.Cooper@parl.gc.ca",
+      "gender": "male",
       "id": "a5476875-2a9c-4742-a59c-cda858f49599",
       "identifiers": [
         {
@@ -28773,9 +28893,26 @@
         {
           "identifier": "89219",
           "scheme": "represent"
+        },
+        {
+          "identifier": "Q21642395",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Michael_Cooper_(politician)"
         }
       ],
       "name": "Michael Cooper",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Michael Cooper",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_House_members_of_the_42nd_Parliament_of_Canada"
@@ -28943,7 +29080,7 @@
       "links": [
         {
           "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Michel_Picard_(politician)"
+          "url": "https://en.wikipedia.org/wiki/Michel_Picard"
         },
         {
           "note": "Wikipedia (fr)",
@@ -29934,6 +30071,8 @@
         }
       ],
       "email": "Nathaniel.Erskine-Smith@parl.gc.ca",
+      "gender": "male",
+      "given_name": "Nathaniel",
       "id": "96d39d8b-612e-455b-baf5-ed596e9f5eab",
       "identifiers": [
         {
@@ -29943,9 +30082,26 @@
         {
           "identifier": "88687",
           "scheme": "represent"
+        },
+        {
+          "identifier": "Q20676568",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Nathaniel_Erskine-Smith"
         }
       ],
       "name": "Nathaniel Erskine-Smith",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Nathaniel Erskine-Smith",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_House_members_of_the_42nd_Parliament_of_Canada"
@@ -31495,6 +31651,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Pat_Martin"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Pat_Martin"
         },
@@ -31744,6 +31904,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Patty_Hajdu"
+        },
+        {
+          "note": "Wikipedia (fa)",
+          "url": "https://fa.wikipedia.org/wiki/پتی_هایدو"
         },
         {
           "note": "Wikipedia (fr)",
@@ -32387,6 +32551,7 @@
         }
       ],
       "email": "Peter.Fragiskatos@parl.gc.ca",
+      "gender": "male",
       "id": "66ccd537-1f51-4e0b-8040-38d65fe0a916",
       "identifiers": [
         {
@@ -32396,9 +32561,26 @@
         {
           "identifier": "88827",
           "scheme": "represent"
+        },
+        {
+          "identifier": "Q21642488",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Peter_Fragiskatos"
         }
       ],
       "name": "Peter Fragiskatos",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Peter Fragiskatos",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_House_members_of_the_42nd_Parliament_of_Canada"
@@ -34648,6 +34830,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Rathika_Sitsabaiesan"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Rathika_Sitsabaiesan"
         },
@@ -34810,6 +34996,7 @@
       ]
     },
     {
+      "birth_date": "1967-01-10",
       "email": "Raymond.Cote@parl.gc.ca",
       "gender": "male",
       "given_name": "Raymond",
@@ -35844,6 +36031,7 @@
           "value": "https://twitter.com/Rob_Oliphant"
         }
       ],
+      "email": "Rob.Oliphant@parl.gc.ca",
       "family_name": "Oliphant",
       "gender": "male",
       "given_name": "Rob",
@@ -36319,7 +36507,7 @@
           "value": "https://twitter.com/DrRobbieO"
         }
       ],
-      "email": "Robert-Falcon.Ouellette@parl.gc.ca",
+      "email": "robert.falcon@parl.gc.ca",
       "id": "ddaadf04-910b-40ed-981c-234fab9a3e4b",
       "identifiers": [
         {
@@ -38786,6 +38974,7 @@
         }
       ],
       "email": "Sean.Fraser@parl.gc.ca",
+      "gender": "male",
       "id": "deebce9a-ba90-4785-bf1e-5103a38be83d",
       "identifiers": [
         {
@@ -38795,9 +38984,26 @@
         {
           "identifier": "88316",
           "scheme": "represent"
+        },
+        {
+          "identifier": "Q21642492",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Sean_Fraser_(politician)"
         }
       ],
       "name": "Sean Fraser",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Sean Fraser",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_House_members_of_the_42nd_Parliament_of_Canada"
@@ -40310,6 +40516,12 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Steven_MacKinnon.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Steven_MacKinnon.jpg"
+        }
+      ],
       "links": [
         {
           "note": "Wikipedia (en)",
@@ -40398,6 +40610,10 @@
         {
           "note": "Wikipedia (mg)",
           "url": "https://mg.wikipedia.org/wiki/Steven_Blaney"
+        },
+        {
+          "note": "website",
+          "url": "http://stevenblaney.ca"
         }
       ],
       "name": "Steven Blaney",
@@ -43913,6 +44129,7 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Emblem of the Conservative Party of Canada.png",
       "links": [
         {
           "note": "website",
@@ -44263,6 +44480,7 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/93/Liberal canada emblem.png",
       "links": [
         {
           "note": "website",
@@ -44492,6 +44710,7 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/78/NDP-NPD Canada.svg",
       "links": [
         {
           "note": "website",

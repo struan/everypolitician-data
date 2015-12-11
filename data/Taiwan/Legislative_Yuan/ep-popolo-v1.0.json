@@ -154,6 +154,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Kuan_Bi-ling"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Kuan_Bi-ling"
         },
@@ -511,6 +515,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Chen_Chi-Mai"
+        },
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Chen_Chi-mai"
@@ -1288,12 +1296,18 @@
       ]
     },
     {
+      "birth_date": "1972-04-23",
+      "family_name": "Xu",
       "gender": "female",
       "id": "402b4101-82b9-45ad-88c5-69b6c35f3122",
       "identifiers": [
         {
           "identifier": "00047",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q9141091",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80047.jpg",
@@ -1302,7 +1316,42 @@
           "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80047.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Hsu_Hsin-ying"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Hsu_Hsin-ying"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/徐欣瑩"
+        },
+        {
+          "note": "Wikipedia (zh_min_nan)",
+          "url": "https://zh_min_nan.wikipedia.org/wiki/Chhî_Him-êng"
+        }
+      ],
       "name": "Hsin-Ying Hsu",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Hsu Hsin-ying",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nan",
+          "name": "Chhî Him-êng",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "徐欣瑩",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Hsu, Hsin-Ying",
       "sources": [
         {
@@ -3357,8 +3406,24 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Chiau_Wen-Yan"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Chiau_Wen-Yan"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Chiau_Wen-Yan"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Chiau_Wen-Yan"
+        },
+        {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/邱文彦"
         },
         {
           "note": "Wikipedia (zh)",
@@ -3368,7 +3433,22 @@
       "name": "Wen-Yan Chiau",
       "other_names": [
         {
+          "lang": "de",
+          "name": "Chiau Wen-Yan",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
+          "name": "Chiau Wen-Yan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Chiau Wen-Yan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
           "name": "Chiau Wen-Yan",
           "note": "multilingual"
         },
@@ -4012,6 +4092,7 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Emblem of the Kuomintang.svg",
       "links": [
         {
           "note": "website",

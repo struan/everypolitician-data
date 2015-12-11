@@ -3649,6 +3649,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Gan_Kim_Yong"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Gan_Kim_Yong"
         }
@@ -3798,10 +3802,10 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "http://www.parliament.gov.sg/sites/default/files/Gan-Thiam-Poh-_white_small.png",
+      "image": "http://www.parliament.gov.sg/sites/default/files/gan%20thiam%20poh_resized.jpg",
       "images": [
         {
-          "url": "http://www.parliament.gov.sg/sites/default/files/Gan-Thiam-Poh-_white_small.png"
+          "url": "http://www.parliament.gov.sg/sites/default/files/gan%20thiam%20poh_resized.jpg"
         }
       ],
       "links": [
@@ -6375,14 +6379,34 @@
       ]
     },
     {
+      "gender": "male",
       "id": "b58fc312-2ff8-4d65-bf6f-729fee8a7ebf",
+      "identifiers": [
+        {
+          "identifier": "Q21663168",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.gov.sg/sites/default/files/Henry%20Kwek2_web.jpg",
       "images": [
         {
           "url": "http://www.parliament.gov.sg/sites/default/files/Henry%20Kwek2_web.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Henry_Kwek"
+        }
+      ],
       "name": "Kwek Hian Chuan Henry",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Henry Kwek",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.parliament.gov.sg/history/13th-parliament"
@@ -6571,6 +6595,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Lawrence_Wong"
+        },
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Lawrence_Wong"
@@ -9746,6 +9774,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Ng_Eng_Hen"
+        },
+        {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Ng_Eng_Hen"
         },
@@ -10767,6 +10799,11 @@
       ],
       "name": "Pritam Singh",
       "other_names": [
+        {
+          "lang": "bn",
+          "name": "প্রীতম সিং",
+          "note": "multilingual"
+        },
         {
           "lang": "de",
           "name": "Pritam Singh",
@@ -12731,6 +12768,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Teo_Chee_Hean"
+        },
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Teo_Chee_Hean"
@@ -14867,6 +14908,7 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/PAP logo variation.png",
       "links": [
         {
           "note": "website",

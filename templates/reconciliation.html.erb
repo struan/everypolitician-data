@@ -8,8 +8,9 @@
     <script>
       window.existingField = <%= Yajl::Encoder.encode(existing_field, html_safe: true) %>
       window.incomingField = <%= Yajl::Encoder.encode(incoming_field, html_safe: true) %>
-      window.matches = <%= Yajl::Encoder.encode(matched, html_safe: true) %>;
+      window.toReconcile = <%= Yajl::Encoder.encode(matched, html_safe: true) %>;
       window.votes = [];
+      window.autovotes = [];
       window.reconciled = <%= Yajl::Encoder.encode(reconciled.map(&:fields), html_safe: true) %>;
     </script>
     <script><%= reconciliation_js %></script>
@@ -27,7 +28,7 @@
                 <div class="undo">Undo</div>
             </div>
             <div class="column-2">
-                <div class="export-csv">Export CSV</div>
+                <div class="export-csv">Show CSV</div>
             </div>
         </div>
     </div>
@@ -59,6 +60,11 @@
         <div class="person" data-uuid="{{ person.uuid }}">
       {% } else if(person.id){ %}
         <div class="person" data-id="{{ person.id }}">
+        {% if(person.id.startsWith('Q')) { %}
+          <div style="float:right">
+            <a target="_blank" href="https://tools.wmflabs.org/reasonator/?&q={{ person.id }}">{{ person.id }}</a>
+          </div>
+        {% } %}
       {% } %}
           {% if (person.matchStrength) { %}
             <header class="person__meta">
@@ -79,7 +85,15 @@
                   {% if (field == 'image') { %}
                     <img src="{{ person[field] }}" width="150">
                   {% } else { %}
-                    {{ person[field] }}
+                    {% if (comparison) { %} 
+                      {% if (comparison[field] == person[field]) { %} 
+                        <span class="match">{{ person[field] }}</span>
+                      {% } else { %}
+                        <span class="nomatch">{{ person[field] }}</span>
+                      {% } %}
+                    {% } else { %}
+                      {{ person[field] }} 
+                    {% } %}
                   {% } %}
                   </dd>
                 {% } %}
@@ -90,7 +104,7 @@
 
     <script type="text/html" id="personAlreadyMatched">
       <div class="person__already-matched">
-        Already matched to incoming “<b>{{ person[field] || person.name }}</b>”
+        Already matched to incoming “<b>{{ person }}</b>”
       </div>
     </script>
 

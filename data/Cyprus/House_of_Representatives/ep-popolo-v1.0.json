@@ -1,12 +1,22 @@
 {
   "persons": [
     {
+      "birth_date": "1950-10-30",
       "email": "aadamou@parliament.cy",
+      "gender": "male",
       "id": "2bccfeee-aeb1-4223-b0b9-2160ff3625a2",
       "identifiers": [
         {
+          "identifier": "28469",
+          "scheme": "europarlmep"
+        },
+        {
           "identifier": "305",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/054qk8",
+          "scheme": "freebase"
         },
         {
           "identifier": "mps",
@@ -15,6 +25,10 @@
         {
           "identifier": "305",
           "scheme": "parliament_cy"
+        },
+        {
+          "identifier": "Q351655",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.cy/assets/image/imageoriginal/Adamou%20Adamos%20a.jpg",
@@ -25,12 +39,45 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Adamos_Adamou"
+        },
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Αδάμος_Αδάμου"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Adamos_Adamou"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Adamos_Adamou"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Adamos_Adamu"
+        },
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Adamos_Adamou"
+        },
+        {
+          "note": "Wikipedia (sq)",
+          "url": "https://sq.wikipedia.org/wiki/Adamos_Adamou"
+        },
+        {
           "note": "wikipedia",
           "url": "https://en.wikipedia.org/wiki/Adamos_Adamou"
         }
       ],
       "name": "Adamou Adamos",
       "other_names": [
+        {
+          "lang": "de",
+          "name": "Adamos Adamou",
+          "note": "multilingual"
+        },
         {
           "lang": "el",
           "name": "Αδάμου Αδάμος",
@@ -39,6 +86,41 @@
         {
           "lang": "en",
           "name": "Adamou Adamos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Adamos Adamou",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Adamos Adamou",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Adamos Adamou",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Adamos Adamou",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Adamos Adamou",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Adamos Adamou",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sq",
+          "name": "Adamos Adamou",
           "note": "multilingual"
         }
       ],
@@ -49,7 +131,10 @@
       ]
     },
     {
+      "birth_date": "1959-11-30",
       "email": "aantoniou@parliament.cy",
+      "gender": "male",
+      "given_name": "Antonis",
       "id": "97573f91-7557-4bfd-ae6d-e85cd3547e00",
       "identifiers": [
         {
@@ -63,6 +148,10 @@
         {
           "identifier": "307",
           "scheme": "parliament_cy"
+        },
+        {
+          "identifier": "Q12873774",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.cy/assets/image/imageoriginal/ANTONIOU%20ANTONIS.jpg",
@@ -72,6 +161,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Αντώνης_Αντωνίου"
+        },
         {
           "note": "wikipedia",
           "url": "https://el.wikipedia.org/wiki/%CE%91%CE%BD%CF%84%CF%8E%CE%BD%CE%B7%CF%82_%CE%91%CE%BD%CF%84%CF%89%CE%BD%CE%AF%CE%BF%CF%85"
@@ -87,6 +180,11 @@
         {
           "lang": "en",
           "name": "Antoniou Antonis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Антонис Антониу",
           "note": "multilingual"
         }
       ],
@@ -733,7 +831,9 @@
       ]
     },
     {
+      "birth_date": "1961-05-31",
       "email": "mgaroyan@parliament.cy",
+      "gender": "male",
       "id": "0b5e6200-f5c0-460e-a67f-1ec17617d2c7",
       "identifiers": [
         {
@@ -747,6 +847,10 @@
         {
           "identifier": "365",
           "scheme": "parliament_cy"
+        },
+        {
+          "identifier": "Q2634360",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.cy/assets/image/imageoriginal/GAROYIAN%20Marios.jpg",
@@ -757,12 +861,41 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Marios_Garoyian"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Marios_Karoyian"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Marios_Karoyian"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Marios_Karojan"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Гароян,_Мариос"
+        },
+        {
+          "note": "Wikipedia (tr)",
+          "url": "https://tr.wikipedia.org/wiki/Marios_Garoyan"
+        },
+        {
           "note": "wikipedia",
           "url": "https://en.wikipedia.org/wiki/Marios_Garoyian"
         }
       ],
       "name": "Karogian Marios",
       "other_names": [
+        {
+          "lang": "de",
+          "name": "Marios Garoyian",
+          "note": "multilingual"
+        },
         {
           "lang": "el",
           "name": "Καρογιάν Μάριος",
@@ -771,6 +904,36 @@
         {
           "lang": "en",
           "name": "Karogian Marios",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Marios Karoyian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Marios Karoyian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Marios Garoyian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Marios Karoyian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Мариос Гароян",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Marios Garoyan",
           "note": "multilingual"
         }
       ],
@@ -781,7 +944,10 @@
       ]
     },
     {
+      "birth_date": "1951-12-14",
       "email": "nkatsourides@parliament.cy",
+      "gender": "male",
+      "given_name": "Nikos",
       "id": "78650983-5536-447f-934a-f5f1d1eedb7f",
       "identifiers": [
         {
@@ -795,6 +961,10 @@
         {
           "identifier": "366",
           "scheme": "parliament_cy"
+        },
+        {
+          "identifier": "Q2568399",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.cy/assets/image/imageoriginal/Katsouridis%20Nicos%20a.jpg",
@@ -805,12 +975,25 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Νίκος_Κατσουρίδης"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Nicos_Katsourides"
+        },
+        {
           "note": "wikipedia",
           "url": "https://en.wikipedia.org/wiki/Nicos_Katsourides"
         }
       ],
       "name": "Katsouridis Nikos",
       "other_names": [
+        {
+          "lang": "de",
+          "name": "Nicos Katsourides",
+          "note": "multilingual"
+        },
         {
           "lang": "el",
           "name": "Κατσουρίδης Νίκος",
@@ -819,6 +1002,11 @@
         {
           "lang": "en",
           "name": "Katsouridis Nikos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Nicos Katsourides",
           "note": "multilingual"
         }
       ],
@@ -1135,12 +1323,18 @@
       ]
     },
     {
+      "birth_date": "1955-10-26",
       "email": "akyprianou@parliament.cy",
+      "gender": "male",
       "id": "89de6338-fe92-4f8d-8126-576a87c04eff",
       "identifiers": [
         {
           "identifier": "372",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/05b_h1z",
+          "scheme": "freebase"
         },
         {
           "identifier": "mps",
@@ -1149,6 +1343,10 @@
         {
           "identifier": "372",
           "scheme": "parliament_cy"
+        },
+        {
+          "identifier": "Q514075",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.cy/assets/image/imageoriginal/Kiprianou%20Andros%20a.jpg",
@@ -1159,12 +1357,49 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Andros_Kyprianou"
+        },
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Άνδρος_Κυπριανού"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Andros_Kyprianou"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Ándros_Kyprianoú"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Andros_Kiprianu"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Киприану,_Андрос"
+        },
+        {
+          "note": "Wikipedia (tr)",
+          "url": "https://tr.wikipedia.org/wiki/Andros_Kiprianu"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/安德罗斯·基普里亚努"
+        },
+        {
           "note": "wikipedia",
           "url": "https://en.wikipedia.org/wiki/Andros_Kyprianou"
         }
       ],
       "name": "Kyprianou Antros",
       "other_names": [
+        {
+          "lang": "de",
+          "name": "Andros Kyprianou",
+          "note": "multilingual"
+        },
         {
           "lang": "el",
           "name": "Κυπριανού Άντρος",
@@ -1173,6 +1408,41 @@
         {
           "lang": "en",
           "name": "Kyprianou Antros",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Andros Kyprianou",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Andros Kyprianou",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Andros Kyprianou",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Andros Kyprianou",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Киприану, Андрос",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Andros Kiprianu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "安德罗斯·基普里亚努",
           "note": "multilingual"
         }
       ],
@@ -1585,7 +1855,10 @@
       ]
     },
     {
+      "birth_date": "1952-12-29",
       "email": "amichaelides@parliament.cy",
+      "gender": "male",
+      "given_name": "Andreas",
       "id": "9cfd6082-c13b-49d9-9d26-0adec3f4a65f",
       "identifiers": [
         {
@@ -1599,6 +1872,10 @@
         {
           "identifier": "401",
           "scheme": "parliament_cy"
+        },
+        {
+          "identifier": "Q4755548",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.cy/assets/image/imageoriginal/MICHAELIDES%20Antreas.jpg",
@@ -1609,12 +1886,25 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Andreas_Michaelides"
+        },
+        {
+          "note": "Wikipedia (tr)",
+          "url": "https://tr.wikipedia.org/wiki/Andreas_Mihailidis"
+        },
+        {
           "note": "wikipedia",
           "url": "https://en.wikipedia.org/wiki/Andreas_Michaelides"
         }
       ],
       "name": "Michailidis Andreas",
       "other_names": [
+        {
+          "lang": "de",
+          "name": "Andreas Michaelides",
+          "note": "multilingual"
+        },
         {
           "lang": "el",
           "name": "Μιχαηλίδης Ανδρέας",
@@ -1623,6 +1913,26 @@
         {
           "lang": "en",
           "name": "Michailidis Andreas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Andreas Michaelides",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Andreas Michaelides",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Andreas Michaelides",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Andreas Mihailidis",
           "note": "multilingual"
         }
       ],
@@ -1723,7 +2033,10 @@
       ]
     },
     {
+      "birth_date": "1953-11-02",
       "email": "nnikolaides@parliament.cy",
+      "gender": "male",
+      "given_name": "Nikos",
       "id": "8951debc-321c-4db3-9513-c695cc5ba1ba",
       "identifiers": [
         {
@@ -1737,6 +2050,10 @@
         {
           "identifier": "403",
           "scheme": "parliament_cy"
+        },
+        {
+          "identifier": "Q12912924",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.cy/assets/image/imageoriginal/Nikos_Nikolaides.jpg",
@@ -1747,12 +2064,25 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Νίκος_Νικολαΐδης_(πολιτικός)"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Nicos_Nicolaides_(politician)"
+        },
+        {
           "note": "wikipedia",
           "url": "https://en.wikipedia.org/wiki/Nicos_Nicolaides_(politician)"
         }
       ],
       "name": "Nikolaidis Nikos",
       "other_names": [
+        {
+          "lang": "de",
+          "name": "Nicos Nicolaides",
+          "note": "multilingual"
+        },
         {
           "lang": "el",
           "name": "Νικολαΐδης Νίκος",
@@ -1761,6 +2091,11 @@
         {
           "lang": "en",
           "name": "Nikolaidis Nikos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Nicos Nicolaides",
           "note": "multilingual"
         }
       ],
@@ -1813,7 +2148,9 @@
       ]
     },
     {
+      "birth_date": "1951-09-18",
       "email": "yomirou@parliament.cy",
+      "gender": "male",
       "id": "d310e419-abaa-433c-8f09-13fddf482a61",
       "identifiers": [
         {
@@ -1827,6 +2164,10 @@
         {
           "identifier": "187",
           "scheme": "parliament_cy"
+        },
+        {
+          "identifier": "Q8053482",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.cy/assets/image/imageoriginal/Yiannakis%20Omirou.jpg",
@@ -1837,12 +2178,29 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Γιαννάκης_Ομήρου"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Yiannakis_Omirou"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Janakis_Omiru"
+        },
+        {
           "note": "wikipedia",
           "url": "https://en.wikipedia.org/wiki/Yiannakis_Omirou"
         }
       ],
       "name": "Omirou Giannakis",
       "other_names": [
+        {
+          "lang": "de",
+          "name": "Yiannakis Omirou",
+          "note": "multilingual"
+        },
         {
           "lang": "el",
           "name": "Ομήρου Γιαννάκης",
@@ -1851,6 +2209,16 @@
         {
           "lang": "en",
           "name": "Omirou Giannakis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Yiannakis Omirou",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Janakis Omiru",
           "note": "multilingual"
         }
       ],
@@ -1861,7 +2229,10 @@
       ]
     },
     {
+      "birth_date": "1973-04-22",
       "email": "npapadopoulos@parliament.cy",
+      "gender": "male",
+      "given_name": "Nikolas",
       "id": "8d1885ae-3ec6-4a72-8237-90f7e2b2c66a",
       "identifiers": [
         {
@@ -1875,6 +2246,10 @@
         {
           "identifier": "406",
           "scheme": "parliament_cy"
+        },
+        {
+          "identifier": "Q3161181",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.cy/assets/image/imageoriginal/PAPADOPOULOS%20Nikolas.jpg",
@@ -1885,12 +2260,29 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Νικόλας_Παπαδόπουλος_(πολιτικός)"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Nikolas_Papadopoulos"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Nikolas_Papadopulos"
+        },
+        {
           "note": "wikipedia",
           "url": "https://el.wikipedia.org/wiki/%CE%9D%CE%B9%CE%BA%CF%8C%CE%BB%CE%B1%CF%82_%CE%A0%CE%B1%CF%80%CE%B1%CE%B4%CF%8C%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%82_(%CF%80%CE%BF%CE%BB%CE%B9%CF%84%CE%B9%CE%BA%CF%8C%CF%82)"
         }
       ],
       "name": "Papadopoulos Nikolas",
       "other_names": [
+        {
+          "lang": "de",
+          "name": "Nikolas Papadopoulos",
+          "note": "multilingual"
+        },
         {
           "lang": "el",
           "name": "Παπαδόπουλος Νικόλας",
@@ -1899,6 +2291,26 @@
         {
           "lang": "en",
           "name": "Papadopoulos Nikolas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Nikolas Papadopoulos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Nikolas Papadopoulos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Nikolas Papadopulos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Николас Пападопулос",
           "note": "multilingual"
         }
       ],
@@ -1909,7 +2321,9 @@
       ]
     },
     {
+      "birth_date": "1963-06-15",
       "email": "cpapageorgiou@parliament.cy",
+      "gender": "male",
       "id": "8ab3aab7-0bc7-4b4f-a114-3fdf5839690d",
       "identifiers": [
         {
@@ -1923,6 +2337,10 @@
         {
           "identifier": "405",
           "scheme": "parliament_cy"
+        },
+        {
+          "identifier": "Q12882425",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.cy/assets/image/imageoriginal/Papagewrgiou%20Pampos%20a.jpg",
@@ -1933,12 +2351,25 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Πάμπος_Παπαγεωργίου"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Pambos_Papageorgiou"
+        },
+        {
           "note": "wikipedia",
           "url": "https://en.wikipedia.org/wiki/Pambos_Papageorgiou"
         }
       ],
       "name": "Papageorgiou Pampos",
       "other_names": [
+        {
+          "lang": "de",
+          "name": "Pambos Papageorgiou",
+          "note": "multilingual"
+        },
         {
           "lang": "el",
           "name": "Παπαγεωργίου Πάμπος",
@@ -1947,6 +2378,11 @@
         {
           "lang": "en",
           "name": "Papageorgiou Pampos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Pambos Papageorgiou",
           "note": "multilingual"
         }
       ],
@@ -1958,6 +2394,8 @@
     },
     {
       "email": "gperdikes@parliament.cy",
+      "gender": "male",
+      "given_name": "George",
       "id": "c6e4b64d-ccfe-4ca6-a484-7b358c142818",
       "identifiers": [
         {
@@ -1971,6 +2409,10 @@
         {
           "identifier": "407",
           "scheme": "parliament_cy"
+        },
+        {
+          "identifier": "Q5543328",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.cy/assets/image/imageoriginal/PERDIKES%20George.jpg",
@@ -1981,12 +2423,21 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/George_Perdikes"
+        },
+        {
           "note": "wikipedia",
           "url": "https://en.wikipedia.org/wiki/George_Perdikes"
         }
       ],
       "name": "Perdikis Giorgos",
       "other_names": [
+        {
+          "lang": "de",
+          "name": "George Perdikes",
+          "note": "multilingual"
+        },
         {
           "lang": "el",
           "name": "Περδίκης Γιώργος",
@@ -2353,7 +2804,9 @@
       ]
     },
     {
+      "birth_date": "1964-12-06",
       "email": "ntornaritis@parliament.cy",
+      "gender": "male",
       "id": "ba9eb130-c1f9-40ae-a805-4a7c635a8b01",
       "identifiers": [
         {
@@ -2367,6 +2820,10 @@
         {
           "identifier": "417",
           "scheme": "parliament_cy"
+        },
+        {
+          "identifier": "Q7030515",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.cy/assets/image/imageoriginal/TORNARITIS%20Nikos.jpg",
@@ -2377,12 +2834,21 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Nicos_Tornaritis"
+        },
+        {
           "note": "wikipedia",
           "url": "https://en.wikipedia.org/wiki/Nicos_Tornaritis"
         }
       ],
       "name": "Tornaritis Nikos",
       "other_names": [
+        {
+          "lang": "de",
+          "name": "Nicos Tornaritis",
+          "note": "multilingual"
+        },
         {
           "lang": "el",
           "name": "Τορναρίτης Νίκος",
@@ -2391,6 +2857,16 @@
         {
           "lang": "en",
           "name": "Tornaritis Nikos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Nicos Tornaritis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Nicos Tornaritis",
           "note": "multilingual"
         }
       ],
@@ -3530,7 +4006,8 @@
   ],
   "meta": {
     "sources": [
-      "https://github.com/openpatata/openpatata-data/"
+      "https://github.com/openpatata/openpatata-data/",
+      "http://wikidata.org/"
     ]
   },
   "memberships": [

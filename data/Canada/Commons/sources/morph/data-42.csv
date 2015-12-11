@@ -1,8 +1,8 @@
 id,name,party,party_id,district,image,website,email,twitter,identifier__represent
 10524,Marc Garneau,Liberal,liberal,Notre-Dame-de-Grâce—Westmount,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/GarneauMarc_Lib.jpg,http://marcgarneau.liberal.ca,marc.garneau@parl.gc.ca,https://twitter.com/MarcGarneau,10524
 1209,Gerry Ritz,Conservative,conservative,Battlefords—Lloydminster,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/RitzGerry_CPC.jpg,,gerry.ritz@parl.gc.ca,https://twitter.com/GerryRitzMP,1209
-1265,Ralph Goodale,Liberal,liberal,Regina—Wascana,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/GoodaleRalphEdward_Lib.jpg,,ralph.goodale@parl.gc.ca,https://twitter.com/RalphGoodale,1265
-1287,Deepak Obhrai,Conservative,conservative,Calgary Forest Lawn,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/ObhraiDeepak_CPC.jpg,,deepak.obhrai@parl.gc.ca,https://twitter.com/deepakobhrai,1287
+1265,Ralph Goodale,Liberal,liberal,Regina—Wascana,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/GoodaleRalphEdward_Lib.jpg,http://ralphgoodale.ca,ralph.goodale@parl.gc.ca,https://twitter.com/RalphGoodale,1265
+1287,Deepak Obhrai,Conservative,conservative,Calgary Forest Lawn,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/ObhraiDeepak_CPC.jpg,http://deepakobhrai.com,deepak.obhrai@parl.gc.ca,https://twitter.com/deepakobhrai,1287
 1302,Jason Kenney,Conservative,conservative,Calgary Midnapore,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/KenneyJason_CPC.jpg,,jason.kenney@parl.gc.ca,https://twitter.com/jkenney,1302
 13218,Yvonne Jones,Liberal,liberal,Labrador,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/JonesYvonne_Lib.jpg,,Yvonne.Jones@parl.gc.ca,https://twitter.com/YvonneJJones,13218
 1589,Hedy Fry,Liberal,liberal,Vancouver Centre,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/FryHedy__Lib.jpg,,hedy.fry@parl.gc.ca,https://twitter.com/HedyFry,1589
@@ -16,9 +16,9 @@ id,name,party,party_id,district,image,website,email,twitter,identifier__represen
 1796,Larry Bagnell,Liberal,liberal,Yukon,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/40/BagnellLarry_LIB.jpg,,Larry.Bagnell@parl.gc.ca,https://twitter.com/LarryBagnell,1796
 1804,Rodger Cuzner,Liberal,liberal,Cape Breton—Canso,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/CuznerRodger_Lib.jpg,,rodger.cuzner@parl.gc.ca,https://twitter.com/RodgerCuzner,1804
 1806,Mark Eyking,Liberal,liberal,Sydney—Victoria,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/EykingMark_Lib.jpg,,mark.eyking@parl.gc.ca,https://twitter.com/MarkEyking_MP,1806
-1809,Cheryl Gallant,Conservative,conservative,Renfrew—Nipissing—Pembroke,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/GallantCheryl_CPC.jpg,,cheryl.gallant@parl.gc.ca,https://twitter.com/cherylgallant,1809
-1813,Dominic LeBlanc,Liberal,liberal,Beauséjour,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/LeBlancDominic_Lib.jpg,,dominic.leblanc@parl.gc.ca,,1813
-1817,John McCallum,Liberal,liberal,Markham—Thornhill,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/McCallumJohn_Lib.jpg,,john.mccallum@parl.gc.ca,https://twitter.com/JohnMcCallumLPC,1817
+1809,Cheryl Gallant,Conservative,conservative,Renfrew—Nipissing—Pembroke,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/GallantCheryl_CPC.jpg,http://cherylgallant.com,cheryl.gallant@parl.gc.ca,https://twitter.com/cherylgallant,1809
+1813,Dominic LeBlanc,Liberal,liberal,Beauséjour,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/LeBlancDominic_Lib.jpg,http://dominicleblanc.ca,dominic.leblanc@parl.gc.ca,,1813
+1817,John McCallum,Liberal,liberal,Markham—Thornhill,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/McCallumJohn_Lib.jpg,http://johnmccallum.ca,john.mccallum@parl.gc.ca,https://twitter.com/JohnMcCallumLPC,1817
 1825,Joe Peschisolido,Liberal,liberal,Steveston—Richmond East,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/37/PeschC.jpg,,Joe.Peschisolido@parl.gc.ca,https://twitter.com/jpeschisolido,1825
 1827,Scott Reid,Conservative,conservative,Lanark—Frontenac—Kingston,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/ReidScott_CPC.jpg,,scott.reid@parl.gc.ca,https://twitter.com/ScottReidCPC,1827
 1832,Kevin Sorenson,Conservative,conservative,Battle River—Crowfoot,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/SorensonKevin_CPC.jpg,,kevin.sorenson@parl.gc.ca,https://twitter.com/KevinASorenson,1832
@@ -36,7 +36,7 @@ id,name,party,party_id,district,image,website,email,twitter,identifier__represen
 25461,David Tilson,Conservative,conservative,Dufferin—Caledon,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/TilsonDavidAllan_CPC.jpg,,david.tilson@parl.gc.ca,https://twitter.com/davidtilson,25461
 25462,Brad Trost,Conservative,conservative,Saskatoon—University,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/TrostBradley_CPC.jpg,,brad.trost@parl.gc.ca,https://twitter.com/BradTrostCPC,25462
 25465,Peter Van Loan,Conservative,conservative,York—Simcoe,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/VanLoanPeter_CPC.jpg,,peter.vanloan@parl.gc.ca,https://twitter.com/PeterVanLoan,25465
-25467,Mark Warawa,Conservative,conservative,Langley—Aldergrove,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/WarawaMark_CPC.jpg,,mark.warawa@parl.gc.ca,https://twitter.com/MPmarkwarawa,25467
+25467,Mark Warawa,Conservative,conservative,Langley—Aldergrove,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/WarawaMark_CPC.jpg,http://markwarawa.com,mark.warawa@parl.gc.ca,https://twitter.com/MPmarkwarawa,25467
 25468,Borys Wrzesnewskyj,Liberal,liberal,Etobicoke Centre,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/40/WrzesnewskyjBoris_LIB.jpg,,Borys.Wrzesnewskyj@parl.gc.ca,https://twitter.com/VoteBorys,25468
 25470,Charlie Angus,NDP,ndp,Timmins—James Bay,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/AngusCharlie_NDP.jpg,,charlie.angus@parl.gc.ca,https://twitter.com/CharlieAngusNDP,25470
 25471,Navdeep Bains,Liberal,liberal,Mississauga—Malton,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/40/BainsNavdeep_Lib.jpg,,Navdeep.Bains@parl.gc.ca,https://twitter.com/NavdeepSBains,25471
@@ -44,8 +44,8 @@ id,name,party,party_id,district,image,website,email,twitter,identifier__represen
 25483,Gordon Brown,Conservative,conservative,Leeds—Grenville—Thousand Islands and Rideau Lakes,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/BrownGordon_CPC.jpg,,gord.brown@parl.gc.ca,https://twitter.com/gordbrown,25483
 25486,Colin Carrie,Conservative,conservative,Oshawa,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/CarrieColin_CPC.jpg,,colin.carrie@parl.gc.ca,https://twitter.com/ColinCarrie,25486
 25488,Michael Chong,Conservative,conservative,Wellington—Halton Hills,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/ChongMichaelD_CPC.jpg,,michael.chong@parl.gc.ca,https://twitter.com/MichaelChongMP,25488
-25489,David Christopherson,NDP,ndp,Hamilton Centre,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/ChristophersonDavid_NDP.jpg,,david.christopherson@parl.gc.ca,https://twitter.com/DaveChrisMP,25489
-25493,Nathan Cullen,NDP,ndp,Skeena—Bulkley Valley,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/CullenNathan_NDP.jpg,,nathan.cullen@parl.gc.ca,https://twitter.com/nathancullen,25493
+25489,David Christopherson,NDP,ndp,Hamilton Centre,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/ChristophersonDavid_NDP.jpg,http://davidchristopherson.ca,david.christopherson@parl.gc.ca,https://twitter.com/DaveChrisMP,25489
+25493,Nathan Cullen,NDP,ndp,Skeena—Bulkley Valley,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/CullenNathan_NDP.jpg,http://nathancullen.ca,nathan.cullen@parl.gc.ca,https://twitter.com/nathancullen,25493
 25501,Diane Finley,Conservative,conservative,Haldimand—Norfolk,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/FinleyDiane_CPC.jpg,,diane.finley@parl.gc.ca,,25501
 25508,Mark Holland,Liberal,liberal,Ajax,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/40/HollandMark_LIB.jpg,,Mark.Holland@parl.gc.ca,https://twitter.com/markhollandlib,25508
 25516,Guy Lauzon,Conservative,conservative,Stormont—Dundas—South Glengarry,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/LauzonGuy_CPC.jpg,,guy.lauzon@parl.gc.ca,,25516
@@ -62,13 +62,13 @@ id,name,party,party_id,district,image,website,email,twitter,identifier__represen
 31664,Bev Shipley,Conservative,conservative,Lambton—Kent—Middlesex,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/ShipleyBev_CPC.jpg,http://bevshipley.ca,bev.shipley@parl.gc.ca,https://twitter.com/BevShipleyMP,31664
 31701,Kennedy Stewart,NDP,ndp,Burnaby South,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/StewartKennedy_NDP.jpg,,Kennedy.Stewart@parl.gc.ca,https://twitter.com/kennedystewart,31701
 31715,David Sweet,Conservative,conservative,Flamborough—Glanbrook,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/SweetDavid_CPC.jpg,,david.sweet@parl.gc.ca,https://twitter.com/DavidSweetMP,31715
-31765,Dave Van Kesteren,Conservative,conservative,Chatham-Kent—Leamington,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/VanKesterenDavid_CPC.jpg,,dave.vankesteren@parl.gc.ca,,31765
-31796,Erin Weir,NDP,ndp,Regina—Lewvan,,,Erin.Weir@parl.gc.ca,https://twitter.com/Erin_Weir,31796
+31765,Dave Van Kesteren,Conservative,conservative,Chatham-Kent—Leamington,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/VanKesterenDavid_CPC.jpg,http://davevankesteren.ca,dave.vankesteren@parl.gc.ca,,31765
+31796,Erin Weir,NDP,ndp,Regina—Lewvan,,http://erinweir.com,Erin.Weir@parl.gc.ca,https://twitter.com/Erin_Weir,31796
 33,Lawrence MacAulay,Liberal,liberal,Cardigan,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/MacAulayLawrenceA_Lib.jpg,,lawrence.macaulay@parl.gc.ca,https://twitter.com/L_MacAulay,33
-35309,Maxime Bernier,Conservative,conservative,Beauce,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/BernierMaxime_CPC.jpg,,maxime.bernier@parl.gc.ca,https://twitter.com/MaximeBernier,35309
+35309,Maxime Bernier,Conservative,conservative,Beauce,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/BernierMaxime_CPC.jpg,http://maximebernier.com,maxime.bernier@parl.gc.ca,https://twitter.com/MaximeBernier,35309
 35320,Sylvie Boucher,Conservative,conservative,Beauport—Côte-de-Beaupré—Île d'Orléans—Charlevoix,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/40/BoucherSylvie_CPC.jpg,,Sylvie.Boucher@parl.gc.ca,https://twitter.com/SylviePCC2015,35320
-35351,François Choquette,NDP,ndp,Drummond,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/ChoquetteFrancois_NDP.jpg,,Francois.Choquette@parl.gc.ca,https://twitter.com/F_Choquette,35351
-35389,Steven Blaney,Conservative,conservative,Bellechasse—Les Etchemins—Lévis,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/BlaneySteven_CPC.jpg,,steven.blaney@parl.gc.ca,https://twitter.com/StevenBlaneyPCC,35389
+35351,François Choquette,NDP,ndp,Drummond,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/ChoquetteFrancois_NDP.jpg,http://francoischoquette.ndp.ca,Francois.Choquette@parl.gc.ca,https://twitter.com/F_Choquette,35351
+35389,Steven Blaney,Conservative,conservative,Bellechasse—Les Etchemins—Lévis,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/BlaneySteven_CPC.jpg,http://stevenblaney.ca,steven.blaney@parl.gc.ca,https://twitter.com/StevenBlaneyPCC,35389
 35397,Jacques Gourde,Conservative,conservative,Lévis—Lotbinière,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/GourdeJacques_CPC.jpg,,jacques.gourde@parl.gc.ca,https://twitter.com/JacquesGourde,35397
 35539,Phil McColeman,Conservative,conservative,Brantford—Brant,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/McColemanPhil_CPC.jpg,,phil.mccoleman@parl.gc.ca,https://twitter.com/Phil4Brant,35539
 35600,Ben Lobb,Conservative,conservative,Huron—Bruce,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/LobbBen_CPC.jpg,,ben.lobb@parl.gc.ca,https://twitter.com/BenLobbMP,35600
@@ -76,11 +76,11 @@ id,name,party,party_id,district,image,website,email,twitter,identifier__represen
 35699,Peter Kent,Conservative,conservative,Thornhill,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/KentPeter_CPC.jpg,,peter.kent@parl.gc.ca,https://twitter.com/KentThornhillMP,35699
 35724,Bruce Stanton,Conservative,conservative,Simcoe North,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/StantonRonaldBruce_CPC.jpg,,bruce.stanton@parl.gc.ca,https://twitter.com/bruce_stanton,35724
 35857,Mike Lake,Conservative,conservative,Edmonton—Wetaskiwin,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/LakeMike_CPC.jpg,,mike.lake@parl.gc.ca,https://twitter.com/MikeLakeMP,35857
-35873,Linda Duncan,NDP,ndp,Edmonton Strathcona,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/DuncanLindaFrancis_NDP.jpg,,linda.duncan@parl.gc.ca,https://twitter.com/LindaDuncanMP,35873
+35873,Linda Duncan,NDP,ndp,Edmonton Strathcona,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/DuncanLindaFrancis_NDP.jpg,http://lindaduncanmp.ca,linda.duncan@parl.gc.ca,https://twitter.com/LindaDuncanMP,35873
 35886,Chris Warkentin,Conservative,conservative,Grande Prairie—Mackenzie,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/WarkentinChris_CPC.jpg,http://chriswarkentin.com,chris.warkentin@parl.gc.ca,https://twitter.com/chriswarkentin,35886
 35897,Blaine Calkins,Conservative,conservative,Red Deer—Lacombe,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/CalkinsBlaine_CPC.jpg,,blaine.calkins@parl.gc.ca,https://twitter.com/blainecalkinsmp,35897
 35904,Ed Fast,Conservative,conservative,Abbotsford,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/FastEdward_CPC.jpg,,ed.fast@parl.gc.ca,https://twitter.com/HonEdFast,35904
-35950,Joyce Murray,Liberal,liberal,Vancouver Quadra,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/MurrayJoyce_Lib.jpg,,joyce.murray@parl.gc.ca,https://twitter.com/joycemurray,35950
+35950,Joyce Murray,Liberal,liberal,Vancouver Quadra,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/MurrayJoyce_Lib.jpg,http://joycemurray.ca,joyce.murray@parl.gc.ca,https://twitter.com/joycemurray,35950
 36037,Niki Ashton,NDP,ndp,Churchill—Keewatinook Aski,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/AshtonNiki_NDP.jpg,,niki.ashton@parl.gc.ca,https://twitter.com/nikiashton,36037
 376,Mario Beaulieu,Bloc Québécois,bloc_québécois,La Pointe-de-l'Île,,,Mario.Beaulieu@parl.gc.ca,https://twitter.com/Mario_Beaulieu,376
 38633,Denis Lebel,Conservative,conservative,Lac-Saint-Jean,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/LebelDenis_CPC.jpg,,denis.lebel@parl.gc.ca,https://twitter.com/DenisLebelPCC,38633
@@ -98,7 +98,7 @@ id,name,party,party_id,district,image,website,email,twitter,identifier__represen
 58733,Justin Trudeau,Liberal,liberal,Papineau,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/TrudeauJustin_Lib.jpg,,justin.trudeau@parl.gc.ca,https://twitter.com/JustinTrudeau,58733
 58775,Alexandre Boulerice,NDP,ndp,Rosemont—La Petite-Patrie,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/BoulericeAlexandre_NPD.jpg,,Alexandre.Boulerice@parl.gc.ca,https://twitter.com/alexboulerice,58775
 58806,Eva Nassif,Liberal,liberal,Vimy,,,Eva.Nassif@parl.gc.ca,https://twitter.com/EvaNassifVimy,58806
-58858,Robert Oliphant,Liberal,liberal,Don Valley West,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/40/OliphantRobert_Lib.jpg,,,https://twitter.com/Rob_Oliphant,58858
+58858,Robert Oliphant,Liberal,liberal,Don Valley West,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/40/OliphantRobert_Lib.jpg,,Rob.Oliphant@parl.gc.ca,https://twitter.com/Rob_Oliphant,58858
 58877,Kirsty Duncan,Liberal,liberal,Etobicoke North,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/DuncanKirsty_Lib.jpg,,kirsty.duncan@parl.gc.ca,https://twitter.com/KirstyDuncanMP,58877
 58878,Bob Saroya,Conservative,conservative,Markham—Unionville,,,Bob.Saroya@parl.gc.ca,https://twitter.com/BobSaroya,58878
 59110,Candice Bergen,Conservative,conservative,Portage—Lisgar,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/HoeppnerCandice_CPC.jpg,,candice.bergen@parl.gc.ca,https://twitter.com/CandiceBergenMP,59110
@@ -110,17 +110,17 @@ id,name,party,party_id,district,image,website,email,twitter,identifier__represen
 59293,Ron McKinnon,Liberal,liberal,Coquitlam—Port Coquitlam,,,Ron.McKinnon@parl.gc.ca,https://twitter.com/RonMcKinnonLib,59293
 59325,Don Davies,NDP,ndp,Vancouver Kingsway,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/DaviesDon_NDP.jpg,,don.davies@parl.gc.ca,https://twitter.com/DonDavies,59325
 60078,Murray Rankin,NDP,ndp,Victoria,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/MurrayRankin_NDP.jpg,,Murray.Rankin@parl.gc.ca,https://twitter.com/MurrayRankin,60078
-63592,Fin Donnelly,NDP,ndp,Port Moody—Coquitlam,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/DonnellyFin_NDP.jpg,,fin.donnelly@parl.gc.ca,https://twitter.com/FinDonnelly,63592
+63592,Fin Donnelly,NDP,ndp,Port Moody—Coquitlam,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/DonnellyFin_NDP.jpg,http://findonnelly.ca,fin.donnelly@parl.gc.ca,https://twitter.com/FinDonnelly,63592
 63908,Bernard Généreux,Conservative,conservative,Montmagny—L'Islet—Kamouraska—Rivière-du-Loup,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/40/GenereuxBernard.jpg,,Bernard.Genereux@parl.gc.ca,https://twitter.com/GenereuxBernard,63908
-69488,Robert Sopuck,Conservative,conservative,Dauphin—Swan River—Neepawa,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/SopuckRobert_CPC.jpg,,robert.sopuck@parl.gc.ca,https://twitter.com/RobertSopuck,69488
+69488,Robert Sopuck,Conservative,conservative,Dauphin—Swan River—Neepawa,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/SopuckRobert_CPC.jpg,http://robertsopuck.ca,robert.sopuck@parl.gc.ca,https://twitter.com/RobertSopuck,69488
 709,Robert Nault,Liberal,liberal,Kenora,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/37/NaultR.JPG,,,https://twitter.com/VoteBobNault,709
 71270,Sean Casey,Liberal,liberal,Charlottetown,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/CaseySean_Lib.jpg,,Sean.Casey@parl.gc.ca,https://twitter.com/SeanCaseyLPC,71270
-71337,Angelo Iacono,Liberal,liberal,Alfred-Pellan,,,,https://twitter.com/AngeloIacono,71337
+71337,Angelo Iacono,Liberal,liberal,Alfred-Pellan,,,Angelo.Iacono@parl.gc.ca,https://twitter.com/AngeloIacono,71337
 71350,Anne Minh-Thu Quach,NDP,ndp,Salaberry—Suroît,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/QuachAnneMinhThu_NDP.jpg,,AnneMinh-Thu.Quach@parl.gc.ca,https://twitter.com/AnneMTQuach,71350
 71357,Ruth Ellen Brosseau,NDP,ndp,Berthier—Maskinongé,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/BrosseauRuthEllen_NDP.jpg,,RuthEllen.Brosseau@parl.gc.ca,https://twitter.com/RE_Brosseau,71357
 71368,Matthew Dubé,NDP,ndp,Beloeil—Chambly,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/DubeMatthew_NDP.jpg,,Matthew.Dube@parl.gc.ca,https://twitter.com/MattDube,71368
 71395,Marjolaine Boutin-Sweet,NDP,ndp,Hochelaga,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/BoutinSweetMarjolaine_NDP.jpg,,Marjolaine.Boutin-Sweet@parl.gc.ca,https://twitter.com/MarjBoutinSweet,71395
-71434,Hélène Laverdière,NDP,ndp,Laurier—Sainte-Marie,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/LaverdièreHélène_NDP.jpg,,Helene.Laverdiere@parl.gc.ca,https://twitter.com/HLaverdiereNPD,71434
+71434,Hélène Laverdière,NDP,ndp,Laurier—Sainte-Marie,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/LaverdièreHélène_NDP.jpg,http://helenelaverdiere.npd.ca,Helene.Laverdiere@parl.gc.ca,https://twitter.com/HLaverdiereNPD,71434
 71447,Pierre Nantel,NDP,ndp,Longueuil—Saint-Hubert,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/NantelPierre_NDP.jpg,,Pierre.Nantel@parl.gc.ca,https://twitter.com/pierrenantel,71447
 71454,Pierre Paul-Hus,Conservative,conservative,Charlesbourg—Haute-Saint-Charles,,,Pierre.Paul-Hus@parl.gc.ca,,71454
 71482,Romeo Saganash,NDP,ndp,Abitibi—Baie-James—Nunavik—Eeyou,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/SaganashRomeo_NDP.jpg,,Romeo.Saganash@parl.gc.ca,https://twitter.com/RomeoSaganash,71482
@@ -140,14 +140,14 @@ id,name,party,party_id,district,image,website,email,twitter,identifier__represen
 71995,Randall Garrison,NDP,ndp,Esquimalt—Saanich—Sooke,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/GarrisonRandallC_NDP.jpg,,Randall.Garrison@parl.gc.ca,https://twitter.com/r_garrison,71995
 72029,Dan Albas,Conservative,conservative,Central Okanagan—Similkameen—Nicola,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/AlbasDan_CPC.jpg,,Dan.Albas@parl.gc.ca,https://twitter.com/DanAlbas,72029
 72035,Bob Zimmer,Conservative,conservative,Prince George—Peace River—Northern Rockies,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/ZimmerBob_CPC.jpg,,Bob.Zimmer@parl.gc.ca,https://twitter.com/bobzimmermp,72035
-7251,Larry Maguire,Conservative,conservative,Brandon—Souris,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/MaguireLarry_CPC.jpg,,Larry.Maguire@parl.gc.ca,https://twitter.com/LarryMaguireMP,7251
+7251,Larry Maguire,Conservative,conservative,Brandon—Souris,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/MaguireLarry_CPC.jpg,http://larrymaguire.ca,Larry.Maguire@parl.gc.ca,https://twitter.com/LarryMaguireMP,7251
 72773,Erin O'Toole,Conservative,conservative,Durham,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/O'TooleErin_CPC.jpg,,Erin.OToole@parl.gc.ca,https://twitter.com/ErinOTooleMP,72773
 74,Scott Brison,Liberal,liberal,Kings—Hants,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/BrisonScott_Lib.jpg,,scott.brison@parl.gc.ca,https://twitter.com/scottbrison,74
 764,Irene Mathyssen,NDP,ndp,London—Fanshawe,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/MathyssenIrene_NDP.jpg,,irene.mathyssen@parl.gc.ca,https://twitter.com/irenemathyssen,764
 820,Rob Nicholson,Conservative,conservative,Niagara Falls,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/NicholsonRob_CPC.jpg,,rob.nicholson@parl.gc.ca,https://twitter.com/HonRobNicholson,820
 84660,Emmanuel Dubourg,Liberal,liberal,Bourassa,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/DubourgEmmanuel_Lib.jpg,,Emmanuel.Dubourg@parl.gc.ca,https://twitter.com/EmmanuelDubourg,84660
 84665,Chrystia Freeland,Liberal,liberal,University—Rosedale,,,Chrystia.Freeland@parl.gc.ca,https://twitter.com/cafreeland,84665
-84672,Ted Falk,Conservative,conservative,Provencher,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/FalkTed_CPC.jpg,,Ted.Falk@parl.gc.ca,https://twitter.com/TedFalkCPC,84672
+84672,Ted Falk,Conservative,conservative,Provencher,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/FalkTed_CPC.jpg,http://tedfalk.ca,Ted.Falk@parl.gc.ca,https://twitter.com/TedFalkCPC,84672
 86249,Arnold Chan,Liberal,liberal,Scarborough—Agincourt,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/ChanArnold_Lib.jpg,,Arnold.Chan@parl.gc.ca,https://twitter.com/ArnoldChanLib,86249
 86260,David Yurdiga,Conservative,conservative,Fort McMurray—Cold Lake,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/YurdigaDavid_CPC.jpg,,David.Yurdiga@parl.gc.ca,https://twitter.com/DavidYurdiga,86260
 86261,John Barlow,Conservative,conservative,Foothills,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/BarlowJohn_CPC.jpg,,John.Barlow@parl.gc.ca,https://twitter.com/JohnBarlowMP,86261
@@ -326,14 +326,14 @@ id,name,party,party_id,district,image,website,email,twitter,identifier__represen
 89383,René Arseneault,Liberal,liberal,Madawaska—Restigouche,,,Rene.Arseneault@parl.gc.ca,,89383
 89407,Joël Godin,Conservative,conservative,Portneuf—Jacques-Cartier,,,Joel.Godin@parl.gc.ca,,89407
 89408,Jean-Yves Duclos,Liberal,liberal,Québec,,,Jean-Yves.Duclos@parl.gc.ca,https://twitter.com/jyduclos,89408
-89449,Gary Anandasangaree,Liberal,liberal,Scarborough—Rouge Park,,,Gary.Anandasangaree@parl.gc.ca,https://twitter.com/gary_srp,89449
-89466,Robert-Falcon Ouellette,Liberal,liberal,Winnipeg Centre,,,Robert-Falcon.Ouellette@parl.gc.ca,https://twitter.com/DrRobbieO,89466
+89449,Gary Anandasangaree,Liberal,liberal,Scarborough—Rouge Park,,,Gary.Anand@parl.gc.ca,https://twitter.com/gary_srp,89449
+89466,Robert-Falcon Ouellette,Liberal,liberal,Winnipeg Centre,,,robert.falcon@parl.gc.ca,https://twitter.com/DrRobbieO,89466
 89486,Sheila Malcolmson,NDP,ndp,Nanaimo—Ladysmith,,,Sheila.Malcolmson@parl.gc.ca,https://twitter.com/s_malcolmson,89486
 89494,Jody Wilson-Raybould,Liberal,liberal,Vancouver Granville,,,Jody.Wilson-Raybould@parl.gc.ca,https://twitter.com/Puglaas,89494
 89497,Harjit S. Sajjan,Liberal,liberal,Vancouver South,,,HarjitS.Sajjan@parl.gc.ca,https://twitter.com/HarjitSajjan,89497
 89527,William Amos,Liberal,liberal,Pontiac,,,,https://twitter.com/WillAAmos,89527
 89535,Omar Alghabra,Liberal,liberal,Mississauga Centre,,,,https://twitter.com/OmarAlghabra,89535
-9137,Brian Masse,NDP,ndp,Windsor West,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/MasseBrian_NDP.jpg,,brian.masse@parl.gc.ca,https://twitter.com/BrianMasseMP,9137
+9137,Brian Masse,NDP,ndp,Windsor West,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/MasseBrian_NDP.jpg,http://brianmasse.ca,brian.masse@parl.gc.ca,https://twitter.com/BrianMasseMP,9137
 9486,David McGuinty,Liberal,liberal,Ottawa South,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/McGuintyDavidJ_Lib.jpg,,david.mcguinty@parl.gc.ca,https://twitter.com/DavidMcGuinty,9486
 957,John McKay,Liberal,liberal,Scarborough—Guildwood,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/McKayJohnNorman_Lib.jpg,,john.mckay@parl.gc.ca,https://twitter.com/JohnMcKayLib,957
 992,Carolyn Bennett,Liberal,liberal,Toronto—St. Paul's,http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/BennettCarolyn_Lib.jpg,,carolyn.bennett@parl.gc.ca,https://twitter.com/Carolyn_Bennett,992

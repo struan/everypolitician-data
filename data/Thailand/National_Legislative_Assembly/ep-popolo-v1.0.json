@@ -92,6 +92,10 @@
         {
           "identifier": "11",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q16139706",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://library.senate.go.th/document/Picture_HR//7006.JPG",
@@ -100,7 +104,20 @@
           "url": "http://library.senate.go.th/document/Picture_HR//7006.JPG"
         }
       ],
-      "name": "กิตติชัย ไตรรัตนศิริชัย"
+      "links": [
+        {
+          "note": "Wikipedia (th)",
+          "url": "https://th.wikipedia.org/wiki/กิตติชัย_ไตรรัตนศิริชัย"
+        }
+      ],
+      "name": "กิตติชัย ไตรรัตนศิริชัย",
+      "other_names": [
+        {
+          "lang": "th",
+          "name": "กิตติชัย ไตรรัตนศิริชัย",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "honorific_prefix": "พลเอก",
@@ -612,12 +629,22 @@
       "name": "ถาวร มณีพฤกษ์"
     },
     {
+      "birth_date": "1950-12-22",
+      "gender": "male",
       "honorific_prefix": "พลเอก",
       "id": "4551adee-0df6-4a45-b9ff-38034e9125d0",
       "identifiers": [
         {
           "identifier": "49",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/0gj8cq2",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q2301433",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://library.senate.go.th/document/Picture_HR//7030.JPG",
@@ -626,7 +653,52 @@
           "url": "http://library.senate.go.th/document/Picture_HR//7030.JPG"
         }
       ],
-      "name": "ทรงกิตติ จักกาบาตร์"
+      "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Songkitti_Jaggabatara"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Songkitti_Jaggabatara"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Songkitti_Jaggabatara"
+        },
+        {
+          "note": "Wikipedia (th)",
+          "url": "https://th.wikipedia.org/wiki/ทรงกิตติ_จักกาบาตร์"
+        }
+      ],
+      "name": "ทรงกิตติ จักกาบาตร์",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Songkitti Jaggabatara",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Songkitti Jaggabatara",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Songkitti Jaggabatara",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Songkitti Jaggabatara",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "ทรงกิตติ จักกาบาตร์",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "honorific_prefix": "พลอากาศเอก",
@@ -799,12 +871,18 @@
       "name": "ธีระวัฒน์ บุณยะประดับ"
     },
     {
+      "birth_date": "1940-03-21",
+      "gender": "male",
       "honorific_prefix": "พลเอก",
       "id": "432a627b-a2ad-463f-8983-0169d771b98f",
       "identifiers": [
         {
           "identifier": "63",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q6579098",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://library.senate.go.th/document/Picture_HR//7159.JPG",
@@ -813,7 +891,39 @@
           "url": "http://library.senate.go.th/document/Picture_HR//7159.JPG"
         }
       ],
-      "name": "ธีรเดช มีเพียร"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Teeradej_Meepien"
+        },
+        {
+          "note": "Wikipedia (th)",
+          "url": "https://th.wikipedia.org/wiki/ธีรเดช_มีเพียร"
+        }
+      ],
+      "name": "ธีรเดช มีเพียร",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Teeradej Meepien",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Teeradej Meepien",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Teeradej Meepien",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "ธีรเดช มีเพียร",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "honorific_prefix": "พลเอก",
@@ -994,11 +1104,16 @@
       "name": "นางเสาวณี สุวรรณชีพ"
     },
     {
+      "gender": "male",
       "id": "5277cff6-60fe-4ee9-b1f7-01be964d7870",
       "identifiers": [
         {
           "identifier": "1",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q20556449",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://library.senate.go.th/document/Picture_HR//7003.JPG",
@@ -1007,7 +1122,20 @@
           "url": "http://library.senate.go.th/document/Picture_HR//7003.JPG"
         }
       ],
-      "name": "นายกรรณภว์ ธนภรรคภวิน"
+      "links": [
+        {
+          "note": "Wikipedia (th)",
+          "url": "https://th.wikipedia.org/wiki/กรรณภว์_ธนภรรคภวิน"
+        }
+      ],
+      "name": "นายกรรณภว์ ธนภรรคภวิน",
+      "other_names": [
+        {
+          "lang": "th",
+          "name": "กรรณภว์ ธนภรรคภวิน",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "5763da3f-88c4-4690-9a74-4dd7cb00482f",
@@ -1170,11 +1298,25 @@
       "name": "นายธานี อ่อนละเอียด"
     },
     {
+      "birth_date": "1941-11-16",
+      "gender": "male",
       "id": "72f020e0-4a9f-494f-a3d6-b7e7af158a57",
       "identifiers": [
         {
           "identifier": "66",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "13743930X",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "16318929",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q6579241",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://library.senate.go.th/document/Picture_HR//7161.JPG",
@@ -1183,7 +1325,29 @@
           "url": "http://library.senate.go.th/document/Picture_HR//7161.JPG"
         }
       ],
-      "name": "นายนรนิติ เศรษฐบุตร"
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Noranit_Setabutr"
+        },
+        {
+          "note": "Wikipedia (th)",
+          "url": "https://th.wikipedia.org/wiki/นรนิติ_เศรษฐบุตร"
+        }
+      ],
+      "name": "นายนรนิติ เศรษฐบุตร",
+      "other_names": [
+        {
+          "lang": "es",
+          "name": "Noranit Setabutr",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "นรนิติ เศรษฐบุตร",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "8e030bfa-80a0-44f4-96ee-5acc652931d9",
@@ -1399,6 +1563,10 @@
         {
           "identifier": "104",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q13018466",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://library.senate.go.th/document/Picture_HR//7061.JPG",
@@ -1407,7 +1575,20 @@
           "url": "http://library.senate.go.th/document/Picture_HR//7061.JPG"
         }
       ],
-      "name": "นายภาณุ อุทัยรัตน์"
+      "links": [
+        {
+          "note": "Wikipedia (th)",
+          "url": "https://th.wikipedia.org/wiki/ภาณุ_อุทัยรัตน์"
+        }
+      ],
+      "name": "นายภาณุ อุทัยรัตน์",
+      "other_names": [
+        {
+          "lang": "th",
+          "name": "ภาณุ อุทัยรัตน์",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "fa3d8843-0a65-4339-a2d3-a55c07d21e4e",
@@ -1415,6 +1596,10 @@
         {
           "identifier": "107",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q16141307",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://library.senate.go.th/document/Picture_HR//7064.JPG",
@@ -1423,7 +1608,20 @@
           "url": "http://library.senate.go.th/document/Picture_HR//7064.JPG"
         }
       ],
-      "name": "นายมณเฑียร บุญตัน"
+      "links": [
+        {
+          "note": "Wikipedia (th)",
+          "url": "https://th.wikipedia.org/wiki/มณเฑียร_บุญตัน"
+        }
+      ],
+      "name": "นายมณเฑียร บุญตัน",
+      "other_names": [
+        {
+          "lang": "th",
+          "name": "มณเฑียร บุญตัน",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "77374e64-97f3-4d98-971c-d668ca906fee",
@@ -1687,6 +1885,10 @@
         {
           "identifier": "150",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q13022036",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://library.senate.go.th/document/Picture_HR//7115.JPG",
@@ -1695,7 +1897,20 @@
           "url": "http://library.senate.go.th/document/Picture_HR//7115.JPG"
         }
       ],
-      "name": "นายสมชาย แสวงการ"
+      "links": [
+        {
+          "note": "Wikipedia (th)",
+          "url": "https://th.wikipedia.org/wiki/สมชาย_แสวงการ"
+        }
+      ],
+      "name": "นายสมชาย แสวงการ",
+      "other_names": [
+        {
+          "lang": "th",
+          "name": "สมชาย แสวงการ",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "cef3fce5-a0b1-4e68-a6a4-a9067a68852a",
@@ -1847,6 +2062,10 @@
         {
           "identifier": "170",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q16141164",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://library.senate.go.th/document/Picture_HR//PHOTO_1871_4512.JPG",
@@ -1855,7 +2074,20 @@
           "url": "http://library.senate.go.th/document/Picture_HR//PHOTO_1871_4512.JPG"
         }
       ],
-      "name": "นายสุรชัย เลี้ยงบุญเลิศชัย"
+      "links": [
+        {
+          "note": "Wikipedia (th)",
+          "url": "https://th.wikipedia.org/wiki/สุรชัย_เลี้ยงบุญเลิศชัย"
+        }
+      ],
+      "name": "นายสุรชัย เลี้ยงบุญเลิศชัย",
+      "other_names": [
+        {
+          "lang": "th",
+          "name": "สุรชัย เลี้ยงบุญเลิศชัย",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "bf213d61-abab-4039-b0b4-bd016fbba0fd",
@@ -2071,12 +2303,17 @@
       "name": "บุญยฤทธิ์ เกิดสุข"
     },
     {
+      "gender": "male",
       "honorific_prefix": "พลเอก",
       "id": "95aecc9e-64e7-460b-8134-79995f37c3b4",
       "identifiers": [
         {
           "identifier": "77",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q16141091",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://library.senate.go.th/document/Picture_HR//7249.JPG",
@@ -2085,7 +2322,20 @@
           "url": "http://library.senate.go.th/document/Picture_HR//7249.JPG"
         }
       ],
-      "name": "บุญสร้าง เนียมประดิษฐ์"
+      "links": [
+        {
+          "note": "Wikipedia (th)",
+          "url": "https://th.wikipedia.org/wiki/บุญสร้าง_เนียมประดิษฐ์"
+        }
+      ],
+      "name": "บุญสร้าง เนียมประดิษฐ์",
+      "other_names": [
+        {
+          "lang": "th",
+          "name": "บุญสร้าง เนียมประดิษฐ์",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "honorific_prefix": "พลตำรวจโท",
@@ -2122,12 +2372,18 @@
       "name": "ประดิษฐ์ วรรณรัตน์"
     },
     {
+      "birth_date": "1956-07-08",
+      "gender": "male",
       "honorific_prefix": "พลเอก",
       "id": "496bb0d4-eed7-4437-88e0-bce53086ce58",
       "identifiers": [
         {
           "identifier": "82",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q16957022",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://library.senate.go.th/document/Picture_HR//8147.JPG",
@@ -2136,7 +2392,30 @@
           "url": "http://library.senate.go.th/document/Picture_HR//8147.JPG"
         }
       ],
-      "name": "ปรีชา จันทร์โอชา"
+      "links": [
+        {
+          "note": "Wikipedia (th)",
+          "url": "https://th.wikipedia.org/wiki/ปรีชา_จันทร์โอชา"
+        }
+      ],
+      "name": "ปรีชา จันทร์โอชา",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Pricha Chan-ocha",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Pricha Chan-ocha",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "ปรีชา จันทร์โอชา",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "honorific_prefix": "พันตำรวจโท",
@@ -2224,12 +2503,17 @@
       "name": "พลวัฒน์ สิโรดม"
     },
     {
+      "gender": "male",
       "honorific_prefix": "พลตำรวจเอก",
       "id": "03154820-780a-48e6-a366-749b84e0b315",
       "identifiers": [
         {
           "identifier": "87",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q13018086",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://library.senate.go.th/document/Picture_HR//7170.JPG",
@@ -2238,7 +2522,30 @@
           "url": "http://library.senate.go.th/document/Picture_HR//7170.JPG"
         }
       ],
-      "name": "พัชรวาท วงษ์สุวรรณ"
+      "links": [
+        {
+          "note": "Wikipedia (th)",
+          "url": "https://th.wikipedia.org/wiki/พัชรวาท_วงษ์สุวรรณ"
+        }
+      ],
+      "name": "พัชรวาท วงษ์สุวรรณ",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Patcharawat Wongsuwan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Patcharawat Wongsuwan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "พัชรวาท วงษ์สุวรรณ",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "honorific_prefix": "พลเรือเอก",
@@ -2281,6 +2588,10 @@
         {
           "identifier": "94",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q13018232",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://library.senate.go.th/document/Picture_HR//7055.JPG",
@@ -2289,7 +2600,20 @@
           "url": "http://library.senate.go.th/document/Picture_HR//7055.JPG"
         }
       ],
-      "name": "พิรุณ แผ้วพลสง"
+      "links": [
+        {
+          "note": "Wikipedia (th)",
+          "url": "https://th.wikipedia.org/wiki/พิรุณ_แผ้วพลสง"
+        }
+      ],
+      "name": "พิรุณ แผ้วพลสง",
+      "other_names": [
+        {
+          "lang": "th",
+          "name": "พิรุณ แผ้วพลสง",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "honorific_prefix": "พลโท",
@@ -2366,6 +2690,10 @@
         {
           "identifier": "106",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q13018640",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://library.senate.go.th/document/Picture_HR//7063.JPG",
@@ -2374,7 +2702,20 @@
           "url": "http://library.senate.go.th/document/Picture_HR//7063.JPG"
         }
       ],
-      "name": "ภิรมย์ กมลรัตนกุล"
+      "links": [
+        {
+          "note": "Wikipedia (th)",
+          "url": "https://th.wikipedia.org/wiki/ภิรมย์_กมลรัตนกุล"
+        }
+      ],
+      "name": "ภิรมย์ กมลรัตนกุล",
+      "other_names": [
+        {
+          "lang": "th",
+          "name": "ภิรมย์ กมลรัตนกุล",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "honorific_prefix": "พลเอก",
@@ -2519,6 +2860,10 @@
         {
           "identifier": "119",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q13020617",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://library.senate.go.th/document/Picture_HR//7074.JPG",
@@ -2527,7 +2872,20 @@
           "url": "http://library.senate.go.th/document/Picture_HR//7074.JPG"
         }
       ],
-      "name": "วัชรพล ประสารราชกิจ"
+      "links": [
+        {
+          "note": "Wikipedia (th)",
+          "url": "https://th.wikipedia.org/wiki/วัชรพล_ประสารราชกิจ"
+        }
+      ],
+      "name": "วัชรพล ประสารราชกิจ",
+      "other_names": [
+        {
+          "lang": "th",
+          "name": "วัชรพล ประสารราชกิจ",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "honorific_prefix": "พลเรือเอก",
@@ -2689,6 +3047,10 @@
         {
           "identifier": "133",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q13021312",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://library.senate.go.th/document/Picture_HR//7092.JPG",
@@ -2697,7 +3059,20 @@
           "url": "http://library.senate.go.th/document/Picture_HR//7092.JPG"
         }
       ],
-      "name": "วุฒิศักดิ์ ลาภเจริญทรัพย์"
+      "links": [
+        {
+          "note": "Wikipedia (th)",
+          "url": "https://th.wikipedia.org/wiki/วุฒิศักดิ์_ลาภเจริญทรัพย์"
+        }
+      ],
+      "name": "วุฒิศักดิ์ ลาภเจริญทรัพย์",
+      "other_names": [
+        {
+          "lang": "th",
+          "name": "วุฒิศักดิ์ ลาภเจริญทรัพย์",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "honorific_prefix": "พลเรือเอก",
@@ -2859,6 +3234,10 @@
         {
           "identifier": "148",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q13022020",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://library.senate.go.th/document/Picture_HR//PHOTO_1770.JPG",
@@ -2867,7 +3246,20 @@
           "url": "http://library.senate.go.th/document/Picture_HR//PHOTO_1770.JPG"
         }
       ],
-      "name": "สม จาตุศรีพิทักษ์"
+      "links": [
+        {
+          "note": "Wikipedia (th)",
+          "url": "https://th.wikipedia.org/wiki/สม_จาตุศรีพิทักษ์"
+        }
+      ],
+      "name": "สม จาตุศรีพิทักษ์",
+      "other_names": [
+        {
+          "lang": "th",
+          "name": "สม จาตุศรีพิทักษ์",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "honorific_prefix": "ศาสตราจารย์",
@@ -2876,6 +3268,10 @@
         {
           "identifier": "149",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q13022032",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://library.senate.go.th/document/Picture_HR//7182.JPG",
@@ -2884,15 +3280,34 @@
           "url": "http://library.senate.go.th/document/Picture_HR//7182.JPG"
         }
       ],
-      "name": "สมคิด เลิศไพฑูรย์"
+      "links": [
+        {
+          "note": "Wikipedia (th)",
+          "url": "https://th.wikipedia.org/wiki/สมคิด_เลิศไพฑูรย์"
+        }
+      ],
+      "name": "สมคิด เลิศไพฑูรย์",
+      "other_names": [
+        {
+          "lang": "th",
+          "name": "สมคิด เลิศไพฑูรย์",
+          "note": "multilingual"
+        }
+      ]
     },
     {
+      "birth_date": "1954-12-27",
+      "gender": "male",
       "honorific_prefix": "พลตำรวจเอก",
       "id": "9b6536b9-acf1-4fea-a90d-c948173db832",
       "identifiers": [
         {
           "identifier": "155",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q18050950",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://library.senate.go.th/document/Picture_HR//7122.JPG",
@@ -2901,7 +3316,43 @@
           "url": "http://library.senate.go.th/document/Picture_HR//7122.JPG"
         }
       ],
-      "name": "สมยศ พุ่มพันธุ์ม่วง"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Somyot_Poompanmoung"
+        },
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/솜욧_품판무앙"
+        },
+        {
+          "note": "Wikipedia (th)",
+          "url": "https://th.wikipedia.org/wiki/สมยศ_พุ่มพันธุ์ม่วง"
+        }
+      ],
+      "name": "สมยศ พุ่มพันธุ์ม่วง",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Somyot Poompanmoung",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Somyot Poompanmoung",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "솜욧 품판무앙",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "สมยศ พุ่มพันธุ์ม่วง",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "honorific_prefix": "พลเอก",
@@ -2927,6 +3378,10 @@
         {
           "identifier": "158",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q13022217",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://library.senate.go.th/document/Picture_HR//7183.JPG",
@@ -2935,7 +3390,20 @@
           "url": "http://library.senate.go.th/document/Picture_HR//7183.JPG"
         }
       ],
-      "name": "สมเจตน์ บุญถนอม"
+      "links": [
+        {
+          "note": "Wikipedia (th)",
+          "url": "https://th.wikipedia.org/wiki/สมเจตน์_บุญถนอม"
+        }
+      ],
+      "name": "สมเจตน์ บุญถนอม",
+      "other_names": [
+        {
+          "lang": "th",
+          "name": "สมเจตน์ บุญถนอม",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "honorific_prefix": "พลตรี",
@@ -3329,12 +3797,18 @@
       "name": "อำพน ชูประทุม"
     },
     {
+      "birth_date": "1952-01-06",
+      "gender": "male",
       "honorific_prefix": "พลอากาศเอก",
       "id": "c6bc2873-5f2b-4c7f-bc09-4643f963afd2",
       "identifiers": [
         {
           "identifier": "197",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q6095014",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://library.senate.go.th/document/Picture_HR//7186.JPG",
@@ -3343,7 +3817,39 @@
           "url": "http://library.senate.go.th/document/Picture_HR//7186.JPG"
         }
       ],
-      "name": "อิทธพร ศุภวงศ์"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Itthaporn_Subhawong"
+        },
+        {
+          "note": "Wikipedia (th)",
+          "url": "https://th.wikipedia.org/wiki/อิทธพร_ศุภวงศ์"
+        }
+      ],
+      "name": "อิทธพร ศุภวงศ์",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Itthaporn Subhawong",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Itthaporn Subhawong",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Itthaporn Subhawong",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "อิทธพร ศุภวงศ์",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "honorific_prefix": "พลเอก",
@@ -3488,6 +3994,10 @@
         {
           "identifier": "200",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q18050972",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://library.senate.go.th/document/Picture_HR//7408.JPG",
@@ -3496,7 +4006,20 @@
           "url": "http://library.senate.go.th/document/Picture_HR//7408.JPG"
         }
       ],
-      "name": "เอก อังสนานนท์"
+      "links": [
+        {
+          "note": "Wikipedia (th)",
+          "url": "https://th.wikipedia.org/wiki/เอก_อังสนานนท์"
+        }
+      ],
+      "name": "เอก อังสนานนท์",
+      "other_names": [
+        {
+          "lang": "th",
+          "name": "เอก อังสนานนท์",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "honorific_prefix": "พลเอก",
@@ -3656,7 +4179,8 @@
   ],
   "meta": {
     "sources": [
-      "http://www.senate.go.th/"
+      "http://www.senate.go.th/",
+      "http://wikidata.org/"
     ]
   },
   "memberships": [

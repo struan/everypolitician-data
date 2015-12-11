@@ -137,6 +137,14 @@ h2 {
   dd:last-child {
     margin-bottom: 0;
   }
+
+  .match { 
+    background-color: #cf9;
+  }
+
+  .nomatch { 
+    background-color: #f99;
+  }
 }
 
 .skip {

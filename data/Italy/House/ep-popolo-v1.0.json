@@ -9229,11 +9229,16 @@
       "email": "BRIGNONE_B@CAMERA.IT",
       "family_name": "Brignone",
       "gender": "female",
+      "given_name": "Beatrice",
       "id": "8b300df9-67f6-426c-bed3-f85612c9660d",
       "identifiers": [
         {
           "identifier": "306881",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q21578717",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camera.it/application/xmanager/projects/leg17/attachments/shadow_deputato/has_fotos/000/306/881/original_d306881.jpg",
@@ -9242,7 +9247,35 @@
           "url": "http://www.camera.it/application/xmanager/projects/leg17/attachments/shadow_deputato/has_fotos/000/306/881/original_d306881.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Beatrice_Brignone"
+        }
+      ],
       "name": "BRIGNONE Beatrice",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Beatrice Brignone",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Beatrice Brignone",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Beatrice Brignone",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Beatrice Brignone",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.camera.it/leg17/29?shadow_deputato=306881&idpersona=306881&idlegislatura=17"
@@ -11765,6 +11798,10 @@
           "scheme": "openpolis"
         },
         {
+          "identifier": "IT\\ICCU\\UBOV\\274030",
+          "scheme": "sbn_it"
+        },
+        {
           "identifier": "78969987",
           "scheme": "viaf"
         },
@@ -11787,6 +11824,10 @@
         {
           "note": "Wikipedia (az)",
           "url": "https://az.wikipedia.org/wiki/Mara_Karfanya"
+        },
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Mara_Carfagna"
         },
         {
           "note": "Wikipedia (cs)",
@@ -26351,6 +26392,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "tr",
+          "name": "Paolo Gentiloni",
+          "note": "multilingual"
+        },
+        {
           "lang": "uk",
           "name": "Паоло Джентілоні",
           "note": "multilingual"
@@ -27510,6 +27556,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Giancarlo_Giorgetti"
+        },
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Giancarlo_Giorgetti"
@@ -34795,6 +34845,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "pt",
+          "name": "Marco Marchetti",
+          "note": "multilingual"
+        },
+        {
           "lang": "sv",
           "name": "Marco Marchetti",
           "note": "multilingual"
@@ -35872,6 +35927,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Antonio_Martino"
+        },
         {
           "note": "Wikipedia (da)",
           "url": "https://da.wikipedia.org/wiki/Antonio_Martino"
@@ -45025,6 +45084,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Stefania_Prestigiacomo"
+        },
+        {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Stefania_Prestigiacomo"
         },
@@ -47178,6 +47241,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Francesco_Saverio_Romano"
+        },
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Francesco_Saverio_Romano"
@@ -54140,7 +54207,7 @@
         },
         {
           "note": "Wikipedia (uk)",
-          "url": "https://uk.wikipedia.org/wiki/Валентіна_Веццалі"
+          "url": "https://uk.wikipedia.org/wiki/Валентина_Веццалі"
         },
         {
           "note": "Wikipedia (zh)",
@@ -59973,12 +60040,22 @@
     },
     {
       "area_id": "XXV",
+      "end_date": "2015-12-02",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
       "organization_id": "legislature",
       "person_id": "919e92c7-6e47-4b02-9500-c7423ba1ac6a",
       "role": "member",
       "start_date": "2015-08-05"
+    },
+    {
+      "area_id": "XXV",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/misto_-_partito_socialista_italiano_(psi)_-_liberali_per_l'italia_(pli)",
+      "organization_id": "legislature",
+      "person_id": "919e92c7-6e47-4b02-9500-c7423ba1ac6a",
+      "role": "member",
+      "start_date": "2015-12-02"
     },
     {
       "area_id": "III",
@@ -61201,12 +61278,22 @@
     },
     {
       "area_id": "XVI",
+      "end_date": "2015-12-01",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
       "organization_id": "legislature",
       "person_id": "b8ab1864-d5fa-4a54-84d6-0f3349983789",
       "role": "member",
       "start_date": "2015-11-23"
+    },
+    {
+      "area_id": "XVI",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/misto_-_usei_(unione_sudamericana_emigrati_italiani)",
+      "organization_id": "legislature",
+      "person_id": "b8ab1864-d5fa-4a54-84d6-0f3349983789",
+      "role": "member",
+      "start_date": "2015-12-01"
     },
     {
       "area_id": "III",
@@ -61865,12 +61952,22 @@
     },
     {
       "area_id": "XV",
+      "end_date": "2015-12-01",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
       "organization_id": "legislature",
       "person_id": "cf0143f4-a16d-4f8c-b799-3188b7197580",
       "role": "member",
       "start_date": "2015-11-20"
+    },
+    {
+      "area_id": "XV",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/misto_-_usei_(unione_sudamericana_emigrati_italiani)",
+      "organization_id": "legislature",
+      "person_id": "cf0143f4-a16d-4f8c-b799-3188b7197580",
+      "role": "member",
+      "start_date": "2015-12-01"
     },
     {
       "area_id": "XVIII",
