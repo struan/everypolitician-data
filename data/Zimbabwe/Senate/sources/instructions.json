@@ -3,12 +3,11 @@
     {
       "file": "google/memberships.csv",
       "create": {
-        "url": "https://docs.google.com/spreadsheets/d/1rFnkM9rrhwmo5eTwhEPordgucf-iNACnzc6E78elkaM/export?gid=80268515&format=csv"
+        "url": "https://docs.google.com/spreadsheets/d/1rFnkM9rrhwmo5eTwhEPordgucf-iNACnzc6E78elkaM/export?gid=173019085&format=csv"
       },
       "source": "http://kuvakazim.com/",
       "filter": {
         "accept": {
-          "chamber": "Senate",
           "term": "8"
         }
       },

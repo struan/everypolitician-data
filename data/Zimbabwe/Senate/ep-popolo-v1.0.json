@@ -466,6 +466,24 @@
       "summary": "Mashonaland West Province Member of the Senate."
     },
     {
+      "gender": "female",
+      "id": "64f4a4a3-7310-48ab-a001-590526fa08f1",
+      "identifiers": [
+        {
+          "identifier": "222",
+          "scheme": "kuvakazim"
+        }
+      ],
+      "image": "http://www.kuvakazim.com/media_root/images/Miriam-Chikukwa-300x225.jpg",
+      "images": [
+        {
+          "url": "http://www.kuvakazim.com/media_root/images/Miriam-Chikukwa-300x225.jpg"
+        }
+      ],
+      "name": "Miriam Chikukwa",
+      "summary": "Harare Province Member of the Senate and Minister of State for Provincial Affairs for Harare Province."
+    },
+    {
       "gender": "male",
       "id": "5cf83ebd-ef11-4f2b-a95a-743e57f2eaa3",
       "identifiers": [
@@ -806,6 +824,24 @@
       ],
       "name": "Tapera Machingaifa",
       "summary": "Mashonaland West Province Member of the Senate"
+    },
+    {
+      "gender": "female",
+      "id": "5e186507-1f8a-45a3-9bf4-ea8605f59e8c",
+      "identifiers": [
+        {
+          "identifier": "235",
+          "scheme": "kuvakazim"
+        }
+      ],
+      "image": "http://www.kuvakazim.com/media_root/images/news_bThokozani-Khupe-250.jpeg",
+      "images": [
+        {
+          "url": "http://www.kuvakazim.com/media_root/images/news_bThokozani-Khupe-250.jpeg"
+        }
+      ],
+      "name": "Thokozani Khupe",
+      "summary": "MDC-T Party Vice President & Bulawayo Province Member of the National Assembly. Former Deputy Prime Minister (2009-2013)"
     },
     {
       "gender": "female",
@@ -1485,11 +1521,27 @@
       "role": "member"
     },
     {
+      "area_id": "area/bulawayo",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/mdc-t",
+      "organization_id": "legislature",
+      "person_id": "5e186507-1f8a-45a3-9bf4-ea8605f59e8c",
+      "role": "member"
+    },
+    {
       "area_id": "area/manicaland",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "party/mdc-t",
       "organization_id": "legislature",
       "person_id": "6094a6ab-5b09-4b9d-b4e9-6cb56c697a77",
+      "role": "member"
+    },
+    {
+      "area_id": "area/harare",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/zanu_pf",
+      "organization_id": "legislature",
+      "person_id": "64f4a4a3-7310-48ab-a001-590526fa08f1",
       "role": "member"
     },
     {
