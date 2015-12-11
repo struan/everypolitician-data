@@ -6301,11 +6301,19 @@
         "sources_directory": "data/Poland/Sejm/sources",
         "popolo": "data/Poland/Sejm/ep-popolo-v1.0.json",
         "names": "data/Poland/Sejm/names.csv",
-        "lastmod": "1449393052",
-        "person_count": 1979,
-        "sha": "79e9a3f",
+        "lastmod": "1449845605",
+        "person_count": 2185,
+        "sha": "888aa50",
         "legislative_periods": [
           {
+            "id": "term/8",
+            "name": "VIII kadencja",
+            "start_date": "2015-11-12",
+            "slug": "8",
+            "csv": "data/Poland/Sejm/term-8.csv"
+          },
+          {
+            "end_date": "2015-11-11",
             "id": "term/7",
             "name": "VII kadencja",
             "start_date": "2011-11-08",

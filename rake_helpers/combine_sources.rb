@@ -310,10 +310,6 @@ namespace :merge_sources do
       merged_rows.each do |row|
         if legacy.key? row[:uuid] 
           row[:identifier__everypolitician_legacy] = legacy[ row[:uuid ] ].first[:legacy] 
-        else
-          # TODO: we can remove this once everything is running smoothly
-          # This is primarily to spot any initial problems.
-          warn "No legacy ID for #{row[:uuid]}"
         end
         row[:id] = row[:uuid]
       end
