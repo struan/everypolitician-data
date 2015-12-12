@@ -185,7 +185,7 @@ namespace :merge_sources do
       filter = src.key?(:filter) ? ->(row) { src[:filter][:accept].all? { |k, v| row[k] == v } } : nil
 
       table.each do |row|
-        next unless filter && filter.call(row)
+        next if filter and not filter.call(row)
 
         # If the row has no ID, we'll need something we can treate as one
         # This 'pseudo id' defaults to slugified 'name' unless provided 
@@ -195,6 +195,7 @@ namespace :merge_sources do
         row[:uuid] = id_map[row[:id] || row[:pseudoid]] ||= SecureRandom.uuid
         merged_rows << row.to_hash
       end
+
       CSV.open(ids_file, 'w') do |csv|
         csv << [:id, :uuid]
         id_map.each { |id, uuid| csv << [id, uuid] }

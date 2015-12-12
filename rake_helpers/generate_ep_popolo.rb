@@ -26,7 +26,7 @@ namespace :transform do
   task :write => :ensure_legislature
   task :ensure_legislature => :load do
     legis = @json[:organizations].find_all { |h| h[:classification] == 'legislature' }
-    raise "Legislature count = #{count}" unless legis.count == 1
+    raise "Legislature count = #{legis.count}" unless legis.count == 1
     @legislature = legis.first
 
     # Remake 'chamber' memberships to the full legislature
