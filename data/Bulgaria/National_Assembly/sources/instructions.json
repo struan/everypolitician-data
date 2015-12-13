@@ -5,7 +5,7 @@
       "create": {
         "type": "morph",
         "scraper": "tmtmtmtm/bulgaria-parliament",
-        "query": "SELECT *, NULL AS name__en FROM data"
+        "query": "SELECT *, NULL AS name__en FROM data ORDER BY id"
       },
       "source": "http://www.parliament.bg",
       "type": "membership"
@@ -15,13 +15,13 @@
       "create": {
         "type": "morph",
         "scraper": "tmtmtmtm/bulgaria-parliament-wikidata",
-        "query": "SELECT * FROM data"
+        "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "http://wikidata.org/",
       "type": "wikidata",
       "merge": { 
-        "incoming_field": "name__en",
-        "existing_field": "name",
+        "incoming_field": "name__bg",
+        "existing_field": "name__bg",
         "reconciliation_file": "reconciliation/wikidata.csv"
       }
     },

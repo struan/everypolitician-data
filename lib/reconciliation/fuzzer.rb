@@ -1,4 +1,5 @@
 require 'fuzzy_match'
+require 'unicode_utils'
 
 module Reconciliation
   # Does a fuzzy match to find existing rows that match incoming rows.
@@ -10,8 +11,9 @@ module Reconciliation
     def initialize(existing_rows, incoming_rows, instructions)
       @incoming_rows = incoming_rows
       @instructions = instructions
+      mapped = existing_rows.uniq { |r| r[:uuid] }.each { |r| r[:fuzzit] = UnicodeUtils.downcase(r[existing_field]) }
       @fuzzer ||= FuzzyMatch.new(
-        existing_rows.uniq { |r| r[:uuid] }, read: existing_field
+        mapped, read: :fuzzit
       )
     end
 
@@ -21,9 +23,9 @@ module Reconciliation
           warn "No #{incoming_field} in #{incoming_row.reject { |k, v| v.to_s.empty? }}".red
           next
         end
-        matches = fuzzer.find_all_with_score(incoming_row[incoming_field])
+        matches = fuzzer.find_all_with_score(UnicodeUtils.downcase(incoming_row[incoming_field]))
         unless matches.any?
-          warn "No matches for #{incoming_row}"
+          warn "No fuzzed matches for #{incoming_row.reject { |k, v| v.to_s.empty? }}"
           next
         end
         data = {
