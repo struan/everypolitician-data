@@ -4096,6 +4096,7 @@
           "value": "https://twitter.com/VoteBobNault"
         }
       ],
+      "email": "Bob.Nault@parl.gc.ca",
       "gender": "male",
       "given_name": "Bob",
       "id": "fecb5767-d696-422b-831d-6b74237c16ac",
@@ -7783,6 +7784,7 @@
       ],
       "email": "Colin.Fraser@parl.gc.ca",
       "gender": "male",
+      "given_name": "Colin",
       "id": "1df09c90-3cfc-4033-94de-f0bb85cee9b5",
       "identifiers": [
         {
@@ -8505,6 +8507,7 @@
       ],
       "email": "Daniel.Blaikie@parl.gc.ca",
       "gender": "male",
+      "given_name": "Daniel",
       "id": "d8a40efc-de4a-4327-8a9b-058723a8d203",
       "identifiers": [
         {
@@ -20010,6 +20013,12 @@
           "scheme": "represent"
         }
       ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://johnaldag.ca"
+        }
+      ],
       "name": "John Aldag",
       "sources": [
         {
@@ -20674,6 +20683,7 @@
       ],
       "email": "John.Nater@parl.gc.ca",
       "gender": "male",
+      "given_name": "John",
       "id": "bcfc5e84-9c30-484c-96f5-9adb1f15c4af",
       "identifiers": [
         {
@@ -28380,6 +28390,10 @@
         {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Mauril_Bélanger"
+        },
+        {
+          "note": "website",
+          "url": "http://www.mauril.ca"
         }
       ],
       "name": "Mauril Bélanger",
@@ -28884,6 +28898,7 @@
       ],
       "email": "Michael.Cooper@parl.gc.ca",
       "gender": "male",
+      "given_name": "Michael",
       "id": "a5476875-2a9c-4742-a59c-cda858f49599",
       "identifiers": [
         {
@@ -30154,7 +30169,7 @@
         },
         {
           "note": "Wikipedia (hi)",
-          "url": "https://hi.wikipedia.org/wiki/नवदीप_बैँस"
+          "url": "https://hi.wikipedia.org/wiki/नवदीप_बैंस"
         },
         {
           "note": "Wikipedia (it)",
@@ -31877,12 +31892,6 @@
       ]
     },
     {
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "https://twitter.com/PattyHajdu"
-        }
-      ],
       "email": "Patty.Hajdu@parl.gc.ca",
       "gender": "female",
       "id": "2a8ff148-50eb-490c-a67a-242c43dcad13",
@@ -32552,6 +32561,7 @@
       ],
       "email": "Peter.Fragiskatos@parl.gc.ca",
       "gender": "male",
+      "given_name": "Peter",
       "id": "66ccd537-1f51-4e0b-8040-38d65fe0a916",
       "identifiers": [
         {
@@ -38975,6 +38985,7 @@
       ],
       "email": "Sean.Fraser@parl.gc.ca",
       "gender": "male",
+      "given_name": "Sean",
       "id": "deebce9a-ba90-4785-bf1e-5103a38be83d",
       "identifiers": [
         {
