@@ -10781,6 +10781,29 @@
       ]
     },
     {
+      "birth_date": "1965-11-06",
+      "contact_details": [
+        {
+          "type": "phone",
+          "value": "631 6446"
+        }
+      ],
+      "email": "siim.kiisler@riigikogu.ee",
+      "id": "51ff72fb-c6e8-4200-984e-471441cdcc6b",
+      "image": "http://www.riigikogu.ee/wpcms/wp-content/uploads/ems/temp/93a2ce46-2d81-405e-b5be-7c4b1c8cf533.jpg",
+      "images": [
+        {
+          "url": "http://www.riigikogu.ee/wpcms/wp-content/uploads/ems/temp/93a2ce46-2d81-405e-b5be-7c4b1c8cf533.jpg"
+        }
+      ],
+      "name": "Siim Valmar Kiisler",
+      "sources": [
+        {
+          "url": "http://www.riigikogu.ee/riigikogu/koosseis/riigikogu-liikmed/saadik/ac0e1069-9bbf-4bf9-88fe-f609a671e74d/Siim-Kiisler"
+        }
+      ]
+    },
+    {
       "birth_date": "1986-07-27",
       "contact_details": [
         {
@@ -11047,6 +11070,11 @@
           "url": "http://www.riigikogu.ee/riigikogu/koosseis/riigikogu-liikmed/saadik/8719c4cd-291e-4216-b3e1-8b5a0d7902fb/Sven-Mikser"
         }
       ]
+    },
+    {
+      "birth_date": "1969-07-14",
+      "id": "fadf4b85-2782-4159-8a94-457448957956",
+      "name": "Sven Sester"
     },
     {
       "birth_date": "1979-09-26",
@@ -15315,11 +15343,11 @@
     {
       "area_id": "area/tallinna_kesklinna,_lasnamäe_ja_pirita_linnaosa",
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "IND",
+      "on_behalf_of_id": "KESK",
       "organization_id": "legislature",
       "person_id": "3cba65f8-efe3-470e-843a-c5b8a06dbc80",
       "role": "member",
-      "start_date": "2015-08-06"
+      "start_date": "2015-08-18"
     },
     {
       "area_id": "area/järva-_ja_viljandimaa",
@@ -15387,6 +15415,15 @@
       "organization_id": "legislature",
       "person_id": "508adc11-672e-401d-bf60-7912e9ebf6fc",
       "role": "member"
+    },
+    {
+      "area_id": "area/tallinna_mustamäe_ja_nõmme_linnaosa",
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "IRL",
+      "organization_id": "legislature",
+      "person_id": "51ff72fb-c6e8-4200-984e-471441cdcc6b",
+      "role": "member",
+      "start_date": "2015-09-01"
     },
     {
       "area_id": "area/tallinna_kesklinna,_lasnamäe_ja_pirita_linnaosa",
@@ -15524,7 +15561,7 @@
     },
     {
       "area_id": "area/harju-_ja_raplamaa",
-      "end_date": "2015-09-15",
+      "end_date": "2015-09-14",
       "legislative_period_id": "term/13",
       "on_behalf_of_id": "SDE",
       "organization_id": "legislature",
@@ -15812,6 +15849,15 @@
       "role": "member"
     },
     {
+      "area_id": "area/harju-_ja_raplamaa",
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "SDE",
+      "organization_id": "legislature",
+      "person_id": "cdb00a6d-65c7-4f22-a8d5-57dd296b30a3",
+      "role": "member",
+      "start_date": "2015-09-15"
+    },
+    {
       "area_id": "area/võru-,_valga-_ja_põlvamaa",
       "legislative_period_id": "term/13",
       "on_behalf_of_id": "SDE",
@@ -15870,12 +15916,22 @@
     },
     {
       "area_id": "area/tallinna_haabersti,_põhja-tallinna_ja_kristiine_linnaosa",
+      "end_date": "2015-09-14",
       "legislative_period_id": "term/13",
       "on_behalf_of_id": "SDE",
       "organization_id": "legislature",
       "person_id": "d88222df-a90a-4cbe-ad0a-317c4556c07b",
       "role": "member",
       "start_date": "2015-04-09"
+    },
+    {
+      "area_id": "area/tallinna_haabersti,_põhja-tallinna_ja_kristiine_linnaosa",
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "SDE",
+      "organization_id": "legislature",
+      "person_id": "d88222df-a90a-4cbe-ad0a-317c4556c07b",
+      "role": "member",
+      "start_date": "2015-09-16"
     },
     {
       "area_id": "area/tallinna_mustamäe_ja_nõmme_linnaosa",
@@ -15895,7 +15951,7 @@
     },
     {
       "area_id": "area/võru-,_valga-_ja_põlvamaa",
-      "end_date": "2015-09-01",
+      "end_date": "2015-08-31",
       "legislative_period_id": "term/13",
       "on_behalf_of_id": "IRL",
       "organization_id": "legislature",
@@ -16029,7 +16085,26 @@
       "role": "member"
     },
     {
+      "area_id": "area/harju-_ja_raplamaa",
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "SDE",
+      "organization_id": "legislature",
+      "person_id": "fa8a4384-62a5-4d09-9b6e-1a93c6cc8ef0",
+      "role": "member",
+      "start_date": "2015-09-15"
+    },
+    {
+      "area_id": "area/tallinna_kesklinna,_lasnamäe_ja_pirita_linnaosa",
+      "end_date": "2015-04-08",
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "IRL",
+      "organization_id": "legislature",
+      "person_id": "fadf4b85-2782-4159-8a94-457448957956",
+      "role": "member"
+    },
+    {
       "area_id": "area/ida-virumaa",
+      "end_date": "2015-09-14",
       "legislative_period_id": "term/13",
       "on_behalf_of_id": "SDE",
       "organization_id": "legislature",
