@@ -16,8 +16,9 @@
         "query": "SELECT id,name,image,phone,email,source FROM data ORDER BY id"
       },
       "merge": {
-        "incoming_field": "id",
-        "existing_field": "id"
+        "incoming_field": "name",
+        "existing_field": "name",
+        "reconciliation_file": "reconciliation/official.csv"
       },
       "type": "person"
     },
