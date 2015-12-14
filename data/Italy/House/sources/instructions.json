@@ -5,7 +5,7 @@
       "create": {
         "type": "morph",
         "scraper": "andylolz/italy-camera",
-        "query": "SELECT * FROM data"
+        "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "http://www.camera.it/leg17/313",
       "type": "membership"
@@ -15,7 +15,7 @@
       "create": {
         "type": "morph",
         "scraper": "tmtmtmtm/openpolis-scraper",
-        "query": "SELECT * FROM data WHERE house = 'Chamber of Deputies'"
+        "query": "SELECT * FROM data WHERE house = 'Chamber of Deputies' ORDER BY id"
       },
       "source": "https://morph.io/tmtmtmtm/openpolis-scraper",
       "type": "person",
@@ -31,7 +31,7 @@
       "create": {
         "type": "morph",
         "scraper": "tmtmtmtm/italy-legislature-XVII-wikidata",
-        "query": "SELECT * FROM data"
+        "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "http://wikidata.org/",
       "type": "wikidata",
