@@ -52910,6 +52910,10 @@
       "name": "Jim McGovern"
     },
     {
+      "id": "48fb69a8-615f-4d19-bf2a-564faa750050",
+      "name": "Jim McMahon"
+    },
+    {
       "id": "78d92074-f26d-42de-8ea7-a36b12a244af",
       "identifiers": [
         {
@@ -74474,6 +74478,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "mr-michael-lord",
+          "scheme": "hansard"
+        },
+        {
           "identifier": "443",
           "scheme": "historichansard"
         },
@@ -89720,6 +89728,10 @@
         {
           "identifier": "11727",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "mr-richard-benyon-1",
+          "scheme": "hansard"
         },
         {
           "identifier": "commons/richard-benyon/1547",
@@ -116168,6 +116180,15 @@
       "organization_id": "legislature",
       "person_id": "48e07428-aff9-4cf1-ad51-29490b85d907",
       "role": "member"
+    },
+    {
+      "area_id": "uk.org.publicwhip/cons/443",
+      "legislative_period_id": "term/56",
+      "on_behalf_of_id": "labour",
+      "organization_id": "legislature",
+      "person_id": "48fb69a8-615f-4d19-bf2a-564faa750050",
+      "role": "member",
+      "start_date": "2015-12-04"
     },
     {
       "area_id": "uk.org.publicwhip/cons/590",
