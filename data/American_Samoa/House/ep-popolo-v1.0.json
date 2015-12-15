@@ -46,14 +46,38 @@
       ]
     },
     {
+      "gender": "male",
+      "given_name": "Larry",
       "id": "928b9c7a-52cb-42b3-b6fb-4d006f78382d",
       "identifiers": [
         {
           "identifier": "larry_simou_sanitoa",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q6491066",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Larry_Sanitoa"
         }
       ],
       "name": "Larry Simou Sanitoa",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Larry Sanitoa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Larry Sanitoa",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/American_Samoan_general_election,_2014"
@@ -144,6 +168,35 @@
         }
       ],
       "name": "Puletu D. Koko",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/American_Samoan_general_election,_2014"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "bab38e7f-f19f-44e3-80a9-83b3e0a5e9fc",
+      "identifiers": [
+        {
+          "identifier": "Q21257694",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Savali_Talavou_Ale"
+        }
+      ],
+      "name": "Savali Talavou Ale",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Savali Talavou Ale",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/American_Samoan_general_election,_2014"
@@ -262,7 +315,8 @@
   ],
   "meta": {
     "sources": [
-      "https://en.wikipedia.org/wiki/American_Samoan_general_election,_2014"
+      "https://en.wikipedia.org/wiki/American_Samoan_general_election,_2014",
+      "http://wikidata.org/"
     ]
   },
   "memberships": [
@@ -363,6 +417,14 @@
       "role": "member"
     },
     {
+      "area_id": "14",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "bab38e7f-f19f-44e3-80a9-83b3e0a5e9fc",
+      "role": "member"
+    },
+    {
       "area_id": "15",
       "legislative_period_id": "term/2014",
       "on_behalf_of_id": "party/independent",
@@ -423,6 +485,11 @@
     {
       "id": "13",
       "name": "Fofo",
+      "type": "constituency"
+    },
+    {
+      "id": "14",
+      "name": "Alataua",
       "type": "constituency"
     },
     {
