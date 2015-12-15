@@ -2265,11 +2265,18 @@
       ]
     },
     {
+      "birth_date": "1949-10-24",
+      "gender": "male",
+      "given_name": "Ion",
       "id": "b8b76f52-e3b1-42c8-80a9-363e78242be3",
       "identifiers": [
         {
           "identifier": "600",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q6062941",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parlament.md/LinkClick.aspx?fileticket=tRAWhiwfBWM%3d&tabid=87&mid=476&language=en-US",
@@ -2278,7 +2285,49 @@
           "url": "http://www.parlament.md/LinkClick.aspx?fileticket=tRAWhiwfBWM%3d&tabid=87&mid=476&language=en-US"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ion_Casian"
+        },
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Ion_Casian"
+        }
+      ],
       "name": "Ion Casian",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Ion Casian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Ion Casian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Ion Casian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Ion Casian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Ion Casian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Ion Casian",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Casian Ion",
       "sources": [
         {
