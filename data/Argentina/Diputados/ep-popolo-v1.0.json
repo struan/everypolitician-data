@@ -30,6 +30,7 @@
       ]
     },
     {
+      "birth_date": "1971-09-07",
       "contact_details": [
         {
           "type": "phone",
@@ -37,11 +38,17 @@
         }
       ],
       "email": "aperez@diputados.gob.ar",
+      "gender": "male",
+      "given_name": "José",
       "id": "8efb1e0e-8454-4c6b-9f87-0d4fef875fd2",
       "identifiers": [
         {
           "identifier": "aperez",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q5937328",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www4.hcdn.gob.ar/fotos/aperez.jpg",
@@ -50,7 +57,50 @@
           "url": "http://www4.hcdn.gob.ar/fotos/aperez.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/José_Adrián_Pérez"
+        }
+      ],
       "name": "ADRIAN PEREZ",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "José Adrián Pérez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "José Adrián Pérez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "José Adrián Pérez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "José Adrián Pérez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "José Adrián Pérez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "José Adrián Pérez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "José Adrián Pérez",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "PEREZ, ADRIAN",
       "sources": [
         {
@@ -204,6 +254,7 @@
       ]
     },
     {
+      "birth_date": "1974-03-30",
       "contact_details": [
         {
           "type": "phone",
@@ -211,11 +262,17 @@
         }
       ],
       "email": "atriaca@diputados.gob.ar",
+      "gender": "male",
+      "given_name": "Jorge",
       "id": "5b48ef4a-9a23-47b9-9d43-2a4c0fe1ea4a",
       "identifiers": [
         {
           "identifier": "atriaca",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q5936162",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www4.hcdn.gob.ar/fotos/atriaca.jpg",
@@ -224,7 +281,34 @@
           "url": "http://www4.hcdn.gob.ar/fotos/atriaca.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Jorge_Triaca_Jr."
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Jorge_Triaca_(hijo)"
+        }
+      ],
       "name": "ALBERTO JORGE TRIACA",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Jorge Triaca",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Jorge Triaca",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Jorge Triaca",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "TRIACA, ALBERTO JORGE",
       "sources": [
         {
@@ -262,6 +346,7 @@
       ]
     },
     {
+      "birth_date": "1940-05-07",
       "contact_details": [
         {
           "type": "phone",
@@ -269,11 +354,16 @@
         }
       ],
       "email": "aargumedo@diputados.gob.ar",
+      "gender": "female",
       "id": "8bfac277-a4c1-4445-be96-05f6edc7ee0c",
       "identifiers": [
         {
           "identifier": "aargumedo",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q4713147",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www4.hcdn.gob.ar/fotos/aargumedo.jpg",
@@ -282,7 +372,59 @@
           "url": "http://www4.hcdn.gob.ar/fotos/aargumedo.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Alcira_Argumedo"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Alcira_Argumedo"
+        }
+      ],
       "name": "ALCIRA SUSANA ARGUMEDO",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Alcira Argumedo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Alcira Argumedo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Alcira Argumedo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Alcira Argumedo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Alcira Argumedo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Alcira Argumedo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Alcira Argumedo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Alcira Argumedo",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "ARGUMEDO, ALCIRA SUSANA",
       "sources": [
         {
@@ -320,6 +462,7 @@
       ]
     },
     {
+      "birth_date": "1965-12-28",
       "contact_details": [
         {
           "type": "phone",
@@ -327,11 +470,17 @@
         }
       ],
       "email": "aziegler@diputados.gob.ar",
+      "gender": "male",
+      "given_name": "Alex",
       "id": "f5457c1b-d69a-4422-ab38-230b81ce6398",
       "identifiers": [
         {
           "identifier": "aziegler",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q5666054",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www4.hcdn.gob.ar/fotos/aziegler.jpg",
@@ -340,7 +489,55 @@
           "url": "http://www4.hcdn.gob.ar/fotos/aziegler.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Alex_Roberto_Ziegler"
+        }
+      ],
       "name": "ALEX ROBERTO ZIEGLER",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Alex Roberto Ziegler",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Alex Roberto Ziegler",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Alex Roberto Ziegler",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Alex Roberto Ziegler",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Alex Roberto Ziegler",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Alex Roberto Ziegler",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Alex Roberto Ziegler",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Alex Roberto Ziegler",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "ZIEGLER, ALEX ROBERTO",
       "sources": [
         {
@@ -378,18 +575,29 @@
       ]
     },
     {
+      "birth_date": "1956-02-09",
       "contact_details": [
         {
           "type": "phone",
           "value": "4127-7100"
+        },
+        {
+          "type": "twitter",
+          "value": "AliciaCiciliani"
         }
       ],
       "email": "aciciliani@diputados.gob.ar",
+      "gender": "female",
+      "given_name": "Alicia",
       "id": "6f5a385e-8fc3-440d-a8b7-a63fc8f93924",
       "identifiers": [
         {
           "identifier": "aciciliani",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q5668780",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www4.hcdn.gob.ar/fotos/aciciliani.jpg",
@@ -398,7 +606,55 @@
           "url": "http://www4.hcdn.gob.ar/fotos/aciciliani.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Alicia_Mabel_Ciciliani"
+        }
+      ],
       "name": "ALICIA MABEL CICILIANI",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Alicia Mabel Ciciliani",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Alicia Mabel Ciciliani",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Alicia Mabel Ciciliani",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Alicia Mabel Ciciliani",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Alicia Mabel Ciciliani",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Alicia Mabel Ciciliani",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Alicia Mabel Ciciliani",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Alicia Mabel Ciciliani",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "CICILIANI, ALICIA MABEL",
       "sources": [
         {
@@ -987,6 +1243,7 @@
       ]
     },
     {
+      "birth_date": "1968-03-06",
       "contact_details": [
         {
           "type": "phone",
@@ -994,11 +1251,21 @@
         }
       ],
       "email": "cmacallister@diputados.gob.ar",
+      "gender": "male",
+      "given_name": "Carlos",
       "id": "e9cac585-aa7b-45b9-a5f0-a5f6b01942fa",
       "identifiers": [
         {
           "identifier": "cmacallister",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/0411ng0",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q5042309",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www4.hcdn.gob.ar/fotos/cmacallister.jpg",
@@ -1007,7 +1274,77 @@
           "url": "http://www4.hcdn.gob.ar/fotos/cmacallister.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Carlos_Mac_Allister"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Carlos_Mac_Allister"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Carlos_Mac_Allister"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Carlos_Mac_Allister"
+        }
+      ],
       "name": "CARLOS JAVIER MAC ALLISTER",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Carlos Mac Allister",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Carlos Mac Allister",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Carlos Mac Allister",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Carlos Mac Allister",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Carlos Mac Allister",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Carlos Mac Allister",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Carlos Mac Allister",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Carlos Mac Allister",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Carlos Mac Allister",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Carlos Mac Allister",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "MAC ALLISTER, CARLOS JAVIER",
       "sources": [
         {
@@ -1045,6 +1382,7 @@
       ]
     },
     {
+      "birth_date": "1945-11-06",
       "contact_details": [
         {
           "type": "phone",
@@ -1052,11 +1390,17 @@
         }
       ],
       "email": "ckunkel@diputados.gob.ar",
+      "gender": "male",
+      "given_name": "Carlos",
       "id": "fbf53801-c0bd-4bc2-9df7-6ab1c2d2cb72",
       "identifiers": [
         {
           "identifier": "ckunkel",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q2843155",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www4.hcdn.gob.ar/fotos/ckunkel.jpg",
@@ -1065,7 +1409,55 @@
           "url": "http://www4.hcdn.gob.ar/fotos/ckunkel.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Carlos_Kunkel"
+        }
+      ],
       "name": "CARLOS MIGUEL KUNKEL",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Carlos Kunkel",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Carlos Kunkel",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Carlos Kunkel",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Carlos Kunkel",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Carlos Kunkel",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Carlos Kunkel",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Carlos Kunkel",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Carlos Kunkel",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "KUNKEL, CARLOS MIGUEL",
       "sources": [
         {
@@ -1132,6 +1524,7 @@
       ]
     },
     {
+      "birth_date": "1940-10-17",
       "contact_details": [
         {
           "type": "phone",
@@ -1139,11 +1532,17 @@
         }
       ],
       "email": "cheller@diputados.gob.ar",
+      "gender": "male",
+      "given_name": "Carlos",
       "id": "683d13d4-46c2-4b46-9d75-cc8129a8c79c",
       "identifiers": [
         {
           "identifier": "cheller",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q5042165",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www4.hcdn.gob.ar/fotos/cheller.jpg",
@@ -1152,7 +1551,68 @@
           "url": "http://www4.hcdn.gob.ar/fotos/cheller.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Carlos_Heller"
+        },
+        {
+          "note": "Wikipedia (eo)",
+          "url": "https://eo.wikipedia.org/wiki/Carlos_Salomón_Heller"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Carlos_Salomón_Heller"
+        }
+      ],
       "name": "CARLOS SALOMON HELLER",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Carlos Salomón Heller",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Carlos Heller",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Carlos Heller",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Carlos Salomón Heller",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Carlos Salomón Heller",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Carlos Salomón Heller",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Carlos Salomón Heller",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Carlos Salomón Heller",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Carlos Salomón Heller",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "HELLER, CARLOS SALOMON",
       "sources": [
         {
@@ -1161,6 +1621,7 @@
       ]
     },
     {
+      "birth_date": "1973-04-04",
       "contact_details": [
         {
           "type": "phone",
@@ -1168,11 +1629,17 @@
         }
       ],
       "email": "cgribaudo@diputados.gob.ar",
+      "gender": "male",
+      "given_name": "Christian",
       "id": "d8c19f8f-f7ce-4369-8794-73d42ecc6d5e",
       "identifiers": [
         {
           "identifier": "cgribaudo",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q20644688",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www4.hcdn.gob.ar/fotos/cgribaudo.jpg",
@@ -1181,7 +1648,20 @@
           "url": "http://www4.hcdn.gob.ar/fotos/cgribaudo.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Christian_Gribaudo"
+        }
+      ],
       "name": "CHRISTIAN ALEJANDRO GRIBAUDO",
+      "other_names": [
+        {
+          "lang": "es",
+          "name": "Christian Gribaudo",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "GRIBAUDO, CHRISTIAN ALEJANDRO",
       "sources": [
         {
@@ -1393,6 +1873,7 @@
       ]
     },
     {
+      "birth_date": "1956-03-29",
       "contact_details": [
         {
           "type": "phone",
@@ -1400,11 +1881,17 @@
         }
       ],
       "email": "dconti@diputados.gob.ar",
+      "gender": "female",
+      "given_name": "Diana",
       "id": "51febe19-c399-46e5-a8e0-cd8a654c41bb",
       "identifiers": [
         {
           "identifier": "dconti",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q5271125",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www4.hcdn.gob.ar/fotos/dconti.jpg",
@@ -1413,7 +1900,64 @@
           "url": "http://www4.hcdn.gob.ar/fotos/dconti.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Diana_Conti"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Diana_Conti"
+        }
+      ],
       "name": "DIANA BEATRIZ CONTI",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Diana Conti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Diana Conti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Diana Conti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Diana Conti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Diana Conti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Diana Conti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Diana Conti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Diana Conti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Diana Conti",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "CONTI, DIANA BEATRIZ",
       "sources": [
         {
@@ -1451,6 +1995,7 @@
       ]
     },
     {
+      "birth_date": "1958-09-14",
       "contact_details": [
         {
           "type": "phone",
@@ -1458,11 +2003,17 @@
         }
       ],
       "email": "dgranados@diputados.gob.ar",
+      "gender": "female",
+      "given_name": "Dulce",
       "id": "e102ff98-2b0a-4984-bce1-021b87d2d9fe",
       "identifiers": [
         {
           "identifier": "dgranados",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q5814956",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www4.hcdn.gob.ar/fotos/dgranados.jpg",
@@ -1471,7 +2022,55 @@
           "url": "http://www4.hcdn.gob.ar/fotos/dgranados.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Dulce_Granados"
+        }
+      ],
       "name": "DULCE GRANADOS",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Dulce Granados",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Dulce Granados",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Dulce Granados",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Dulce Granados",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Dulce Granados",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Dulce Granados",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Dulce Granados",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Dulce Granados",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "GRANADOS, DULCE",
       "sources": [
         {
@@ -1625,6 +2224,7 @@
       ]
     },
     {
+      "birth_date": "1961-08-27",
       "contact_details": [
         {
           "type": "phone",
@@ -1632,11 +2232,17 @@
         }
       ],
       "email": "ecosta@diputados.gob.ar",
+      "gender": "male",
+      "given_name": "Eduardo",
       "id": "9228a1f6-0672-4f1b-95e9-598a79550c21",
       "identifiers": [
         {
           "identifier": "ecosta",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q5819618",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www4.hcdn.gob.ar/fotos/ecosta.jpg",
@@ -1645,7 +2251,45 @@
           "url": "http://www4.hcdn.gob.ar/fotos/ecosta.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Eduardo_Raúl_Costa"
+        }
+      ],
       "name": "EDUARDO RAUL COSTA",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Eduardo Raúl Costa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Eduardo Raúl Costa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Eduardo Raúl Costa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Eduardo Raúl Costa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Eduardo Raúl Costa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Eduardo Raúl Costa",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "COSTA, EDUARDO RAUL",
       "sources": [
         {
@@ -1683,6 +2327,7 @@
       ]
     },
     {
+      "birth_date": "1944-08-20",
       "contact_details": [
         {
           "type": "phone",
@@ -1690,11 +2335,21 @@
         }
       ],
       "email": "ebrizueladelmoral@diputados.gob.ar",
+      "gender": "male",
+      "given_name": "Eduardo",
       "id": "b9884031-09aa-48e7-acbf-54cb689ee4c1",
       "identifiers": [
         {
           "identifier": "ebrizueladelmoral",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/0fgbkj",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q3048310",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www4.hcdn.gob.ar/fotos/ebrizueladelmoral.jpg",
@@ -1703,7 +2358,48 @@
           "url": "http://www4.hcdn.gob.ar/fotos/ebrizueladelmoral.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Eduardo_Brizuela_del_Moral"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Eduardo_Brizuela_del_Moral"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Eduardo_Brizuela_del_Moral"
+        }
+      ],
       "name": "EDUARDO SEGUNDO BRIZUELA DEL MORAL",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Eduardo Brizuela del Moral",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Eduardo Brizuela del Moral",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Eduardo Brizuela del Moral",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Eduardo Brizuela del Moral",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Eduardo Brizuela del Moral",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "BRIZUELA DEL MORAL, EDUARDO SEGUNDO",
       "sources": [
         {
@@ -1770,6 +2466,7 @@
       ]
     },
     {
+      "birth_date": "1956-12-26",
       "contact_details": [
         {
           "type": "phone",
@@ -1777,11 +2474,33 @@
         }
       ],
       "email": "ecarrio@diputados.gob.ar",
+      "gender": "female",
+      "given_name": "Elisa",
       "id": "7c2e4c68-ef42-4097-bfa9-066bb2706bc4",
       "identifiers": [
         {
           "identifier": "ecarrio",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/02_5lb",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "no2003055468",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "076706478",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "66159431",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q270025",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www4.hcdn.gob.ar/fotos/ecarrio.jpg",
@@ -1790,7 +2509,116 @@
           "url": "http://www4.hcdn.gob.ar/fotos/ecarrio.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Elisa_Carrió"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Elisa_Carrió"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Elisa_Carrió"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Elisa_Carrió"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Elisa_Carrió"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Elisa_Carrió"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Elisa_Carrió"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Elisa_Carrió"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Elisa_Carrió"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Каррио,_Элиса"
+        }
+      ],
       "name": "ELISA MARIA AVELINA CARRIO",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Elisa Carrió",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Elisa Carrió",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Elisa Descarrio",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Elisa Carrió",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Elisa Carrió",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Elisa Carrió",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Elisa Carrió",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Elisa Carrió",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Elisa Carrió",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Elisa Carrió",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Elisa Carrió",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Каррио, Элиса",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Elisa Carrió",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "CARRIO, ELISA MARIA AVELINA",
       "sources": [
         {
@@ -1973,18 +2801,41 @@
       ]
     },
     {
+      "birth_date": "1966-02-11",
       "contact_details": [
         {
           "type": "phone",
           "value": "4127-7100"
+        },
+        {
+          "type": "twitter",
+          "value": "fedesturze"
         }
       ],
       "email": "fsturzenegger@diputados.gob.ar",
+      "gender": "male",
+      "given_name": "Federico",
       "id": "26e61cbe-ab27-4a5a-be8f-31b9c42904c6",
       "identifiers": [
         {
+          "identifier": "13520285m",
+          "scheme": "bnf"
+        },
+        {
           "identifier": "fsturzenegger",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "050229427",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "10005208",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q16302129",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www4.hcdn.gob.ar/fotos/fsturzenegger.jpg",
@@ -1993,7 +2844,55 @@
           "url": "http://www4.hcdn.gob.ar/fotos/fsturzenegger.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Federico_Sturzenegger"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Federico_Sturzenegger"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Federico_Sturzenegger"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Federico_Sturzenegger"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Federico_Sturzenegger"
+        },
+        {
+          "note": "facebook",
+          "url": "federico.sturzenegger"
+        }
+      ],
       "name": "FEDERICO ADOLFO STURZENEGGER",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Federico Sturzenegger",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Federico Sturzenegger",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Federico Sturzenegger",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Federico Sturzenegger",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "STURZENEGGER, FEDERICO ADOLFO",
       "sources": [
         {
@@ -2031,6 +2930,7 @@
       ]
     },
     {
+      "birth_date": "1950-07-23",
       "contact_details": [
         {
           "type": "phone",
@@ -2038,11 +2938,17 @@
         }
       ],
       "email": "fsola@diputados.gob.ar",
+      "gender": "male",
+      "given_name": "Felipe",
       "id": "1ac41e5e-5bfa-4c4f-b330-b26c1cb0e919",
       "identifiers": [
         {
           "identifier": "fsola",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q1403237",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www4.hcdn.gob.ar/fotos/fsola.jpg",
@@ -2051,7 +2957,90 @@
           "url": "http://www4.hcdn.gob.ar/fotos/fsola.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Felipe_Solá"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Felipe_Solá"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Felipe_Solá"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Felipe_Solá"
+        },
+        {
+          "note": "Wikipedia (mg)",
+          "url": "https://mg.wikipedia.org/wiki/Felipe_Solá"
+        },
+        {
+          "note": "Wikipedia (sw)",
+          "url": "https://sw.wikipedia.org/wiki/Felipe_Solá"
+        }
+      ],
       "name": "FELIPE CARLOS SOLA",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Felipe Solá",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Felipe Solá",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Felipe Solá",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Felipe Solá",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Felipe Solá",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mg",
+          "name": "Felipe Solá",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Felipe Solá",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Felipe Solá",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Felipe Solá",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Felipe Solá",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sw",
+          "name": "Felipe Solá",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "SOLA, FELIPE CARLOS",
       "sources": [
         {
@@ -2089,6 +3078,7 @@
       ]
     },
     {
+      "birth_date": "1973-09-07",
       "contact_details": [
         {
           "type": "phone",
@@ -2096,11 +3086,17 @@
         }
       ],
       "email": "fsanchez@diputados.gob.ar",
+      "gender": "male",
+      "given_name": "Fernando",
       "id": "d751a49a-4867-496f-883f-e1c430157f3e",
       "identifiers": [
         {
           "identifier": "fsanchez",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q5860291",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www4.hcdn.gob.ar/fotos/fsanchez.jpg",
@@ -2109,7 +3105,30 @@
           "url": "http://www4.hcdn.gob.ar/fotos/fsanchez.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Fernando_Sánchez_(diputado)"
+        }
+      ],
       "name": "FERNANDO SANCHEZ",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Fernando Sánchez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Fernando Sánchez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Fernando Sánchez (legislador)",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "SANCHEZ, FERNANDO",
       "sources": [
         {
@@ -2118,6 +3137,7 @@
       ]
     },
     {
+      "birth_date": "1953-09-22",
       "contact_details": [
         {
           "type": "phone",
@@ -2125,11 +3145,17 @@
         }
       ],
       "email": "fdenarvaez@diputados.gob.ar",
+      "gender": "male",
+      "given_name": "Francisco",
       "id": "9104f510-fb83-43f0-b5f5-e158cd0208a1",
       "identifiers": [
         {
           "identifier": "fdenarvaez",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q3071423",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www4.hcdn.gob.ar/fotos/fdenarvaez.jpg",
@@ -2138,7 +3164,57 @@
           "url": "http://www4.hcdn.gob.ar/fotos/fdenarvaez.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Francisco_de_Narváez"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Francisco_de_Narváez"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Francisco_de_Narváez"
+        },
+        {
+          "note": "Wikipedia (la)",
+          "url": "https://la.wikipedia.org/wiki/Franciscus_de_Narváez"
+        }
+      ],
       "name": "FRANCISCO DE NARVAEZ",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Francisco de Narváez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Francisco de Narváez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Francisco de Narváez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Francisco de Narváez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Franciscus de Narváez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Francisco de Narváez",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "DE NARVAEZ, FRANCISCO",
       "sources": [
         {
@@ -2350,6 +3426,7 @@
       ]
     },
     {
+      "birth_date": "1973-01-01",
       "contact_details": [
         {
           "type": "phone",
@@ -2357,11 +3434,16 @@
         }
       ],
       "email": "ggonzalez@diputados.gob.ar",
+      "gender": "female",
       "id": "52c7d4a3-0792-4a93-ab0c-db12fc91e9f8",
       "identifiers": [
         {
           "identifier": "ggonzalez",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q20015265",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www4.hcdn.gob.ar/fotos/ggonzalez.jpg",
@@ -2370,7 +3452,30 @@
           "url": "http://www4.hcdn.gob.ar/fotos/ggonzalez.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Gladys_González"
+        }
+      ],
       "name": "GLADYS ESTHER GONZALEZ",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Gladys González",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Gladys González",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Gladys González",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "GONZALEZ, GLADYS ESTHER",
       "sources": [
         {
@@ -2756,6 +3861,7 @@
       ]
     },
     {
+      "birth_date": "1966-01-05",
       "contact_details": [
         {
           "type": "phone",
@@ -2763,11 +3869,21 @@
         }
       ],
       "email": "hbaldassi@diputados.gob.ar",
+      "gender": "male",
+      "given_name": "Héctor",
       "id": "eaf6a893-3bd1-4b90-abcf-5516e9b6372b",
       "identifiers": [
         {
           "identifier": "hbaldassi",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/04gq5xd",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q312505",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www4.hcdn.gob.ar/fotos/hbaldassi.jpg",
@@ -2776,7 +3892,262 @@
           "url": "http://www4.hcdn.gob.ar/fotos/hbaldassi.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/هيكتور_بالداسي"
+        },
+        {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Héctor_Baldassi"
+        },
+        {
+          "note": "Wikipedia (da)",
+          "url": "https://da.wikipedia.org/wiki/Héctor_Baldassi"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Héctor_Baldassi"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Héctor_Baldassi"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Héctor_Baldassi"
+        },
+        {
+          "note": "Wikipedia (fa)",
+          "url": "https://fa.wikipedia.org/wiki/هکتور_بالداسی"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Héctor_Baldassi"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Héctor_Baldassi"
+        },
+        {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/Héctor_Baldassi"
+        },
+        {
+          "note": "Wikipedia (id)",
+          "url": "https://id.wikipedia.org/wiki/Héctor_Baldassi"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Héctor_Baldassi"
+        },
+        {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/エクトル・バルダッシ"
+        },
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/엑토르_발다시"
+        },
+        {
+          "note": "Wikipedia (lt)",
+          "url": "https://lt.wikipedia.org/wiki/Héctor_Baldassi"
+        },
+        {
+          "note": "Wikipedia (mg)",
+          "url": "https://mg.wikipedia.org/wiki/Héctor_Baldassi"
+        },
+        {
+          "note": "Wikipedia (mr)",
+          "url": "https://mr.wikipedia.org/wiki/हेक्टर_बाल्दासी"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Héctor_Baldassi"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Héctor_Baldassi"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Héctor_Baldassi"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Héctor_Baldassi"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Бальдасси,_Эктор"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Héctor_Baldassi"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/埃克托·巴尔达斯"
+        }
+      ],
       "name": "HECTOR BALDASSI",
+      "other_names": [
+        {
+          "lang": "ar",
+          "name": "هيكتور بالداسي",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Héctor Baldassi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Héctor Baldassi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Héctor Baldassi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Héctor Baldassi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Héctor Baldassi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "هکتور بالداسی",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Héctor Baldassi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Héctor Baldassi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Héctor Baldassi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Héctor Baldassi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Héctor Baldassi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "エクトル・バルダッシ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "엑토르 발다시",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Héctor Baldassi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mg",
+          "name": "Héctor Baldassi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mr",
+          "name": "हेक्टर बाल्दासी",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Héctor Baldassi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Héctor Baldassi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Héctor Baldassi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Héctor Baldassi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Héctor Baldassi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Эктор Бальдасси",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Héctor Baldassi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "埃克托·巴尔达斯",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "埃克托·巴尔达斯",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hans",
+          "name": "埃克托·巴尔达斯",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "埃克托·巴爾達斯",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "埃克托·巴爾達斯",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-sg",
+          "name": "埃克托·巴尔达斯",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-tw",
+          "name": "埃克托·巴爾達斯",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "BALDASSI, HECTOR",
       "sources": [
         {
@@ -2843,6 +4214,7 @@
       ]
     },
     {
+      "birth_date": "1953-04-09",
       "contact_details": [
         {
           "type": "phone",
@@ -2850,11 +4222,17 @@
         }
       ],
       "email": "hgutierrez@diputados.gob.ar",
+      "gender": "male",
+      "given_name": "Héctor",
       "id": "8ef75605-efb7-4d5b-9506-7624ba43b82d",
       "identifiers": [
         {
           "identifier": "hgutierrez",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q16300843",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www4.hcdn.gob.ar/fotos/hgutierrez.jpg",
@@ -2863,7 +4241,25 @@
           "url": "http://www4.hcdn.gob.ar/fotos/hgutierrez.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Héctor_María_Gutiérrez"
+        }
+      ],
       "name": "HECTOR MARIA GUTIERREZ",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Héctor María Gutiérrez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Héctor María Gutiérrez",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "GUTIERREZ, HECTOR MARIA",
       "sources": [
         {
@@ -2901,6 +4297,7 @@
       ]
     },
     {
+      "birth_date": "1938-05-28",
       "contact_details": [
         {
           "type": "phone",
@@ -2908,11 +4305,17 @@
         }
       ],
       "email": "hrecalde@diputados.gob.ar",
+      "gender": "male",
+      "given_name": "Héctor",
       "id": "beb6fd87-2d0b-40f9-b7c2-6fb302afab82",
       "identifiers": [
         {
           "identifier": "hrecalde",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q5906382",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www4.hcdn.gob.ar/fotos/hrecalde.jpg",
@@ -2921,7 +4324,50 @@
           "url": "http://www4.hcdn.gob.ar/fotos/hrecalde.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Héctor_Recalde"
+        }
+      ],
       "name": "HECTOR PEDRO RECALDE",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Héctor Recalde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Héctor Recalde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Héctor Recalde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Héctor Recalde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Héctor Recalde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Héctor Recalde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Héctor Recalde",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "RECALDE, HECTOR PEDRO",
       "sources": [
         {
@@ -2988,6 +4434,7 @@
       ]
     },
     {
+      "birth_date": "1943-06-05",
       "contact_details": [
         {
           "type": "phone",
@@ -2995,11 +4442,29 @@
         }
       ],
       "email": "hbinner@diputados.gob.ar",
+      "gender": "male",
+      "given_name": "Hermes",
       "id": "a14e4248-7e9b-4aa3-b958-e4fe9669b418",
       "identifiers": [
         {
           "identifier": "hbinner",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/076nmp",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "152521887",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "215223766",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q981624",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www4.hcdn.gob.ar/fotos/hbinner.jpg",
@@ -3008,7 +4473,90 @@
           "url": "http://www4.hcdn.gob.ar/fotos/hbinner.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Hermes_Binner"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Hermes_Binner"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Hermes_Binner"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Hermes_Binner"
+        },
+        {
+          "note": "Wikipedia (eswikiquote)",
+          "url": "https://eswikiquote.wikipedia.org/wiki/Hermes_Binner"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Hermes_Binner"
+        }
+      ],
       "name": "HERMES JUAN BINNER",
+      "other_names": [
+        {
+          "lang": "ca",
+          "name": "Hermes Binner",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Hermes Binner",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Hermes Binner",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Hermes Binner",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Hermes Binner",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Hermes Binner",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Hermes Binner",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Hermes Binner",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Hermes Binner",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Hermes Binner",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Hermes Binner",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "BINNER, HERMES JUAN",
       "sources": [
         {
@@ -3481,6 +5029,7 @@
       ]
     },
     {
+      "birth_date": "1950-08-23",
       "contact_details": [
         {
           "type": "phone",
@@ -3488,11 +5037,17 @@
         }
       ],
       "email": "jdemendiguren@diputados.gob.ar",
+      "gender": "male",
+      "given_name": "José",
       "id": "dd97bf72-a663-4bf9-a4d1-824bfb4a31aa",
       "identifiers": [
         {
           "identifier": "jdemendiguren",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q5649262",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www4.hcdn.gob.ar/fotos/jdemendiguren.jpg",
@@ -3501,7 +5056,30 @@
           "url": "http://www4.hcdn.gob.ar/fotos/jdemendiguren.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/José_Ignacio_de_Mendiguren"
+        }
+      ],
       "name": "JOSE IGNACIO DE MENDIGUREN",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "José Ignacio de Mendiguren",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "José Ignacio de Mendiguren",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "José Ignacio de Mendiguren",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "DE MENDIGUREN, JOSE IGNACIO",
       "sources": [
         {
@@ -3546,11 +5124,17 @@
         }
       ],
       "email": "jcano@diputados.gob.ar",
+      "gender": "male",
+      "given_name": "José",
       "id": "709e7b2d-b30a-44a0-97f8-5d29ad0e9b66",
       "identifiers": [
         {
           "identifier": "jcano",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q5640784",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www4.hcdn.gob.ar/fotos/jcano.jpg",
@@ -3559,7 +5143,45 @@
           "url": "http://www4.hcdn.gob.ar/fotos/jcano.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/José_Manuel_Cano"
+        }
+      ],
       "name": "JOSE MANUEL CANO",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "José Manuel Cano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "José Manuel Cano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "José Manuel Cano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "José Manuel Cano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "José Manuel Cano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "José Manuel Cano",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "CANO, JOSE MANUEL",
       "sources": [
         {
@@ -3655,6 +5277,7 @@
       ]
     },
     {
+      "birth_date": "1976-01-01",
       "contact_details": [
         {
           "type": "phone",
@@ -3662,11 +5285,17 @@
         }
       ],
       "email": "jvgonzalez@diputados.gob.ar",
+      "gender": "female",
+      "given_name": "Josefina",
       "id": "3dd063ae-7b11-43e1-8093-ae6f7b400bf7",
       "identifiers": [
         {
           "identifier": "jvgonzalez",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q16300926",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www4.hcdn.gob.ar/fotos/jvgonzalez.jpg",
@@ -3675,7 +5304,25 @@
           "url": "http://www4.hcdn.gob.ar/fotos/jvgonzalez.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Josefina_González"
+        }
+      ],
       "name": "JOSEFINA VICTORIA GONZALEZ",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Josefina González",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Josefina González",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "GONZALEZ, JOSEFINA VICTORIA",
       "sources": [
         {
@@ -3713,6 +5360,7 @@
       ]
     },
     {
+      "birth_date": "1978-03-16",
       "contact_details": [
         {
           "type": "phone",
@@ -3720,11 +5368,17 @@
         }
       ],
       "email": "jcabandie@diputados.gob.ar",
+      "gender": "male",
+      "given_name": "Juan",
       "id": "4e1f30d4-c98d-4d76-8385-d0586ad2c288",
       "identifiers": [
         {
           "identifier": "jcabandie",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q5948039",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www4.hcdn.gob.ar/fotos/jcabandie.jpg",
@@ -3733,7 +5387,58 @@
           "url": "http://www4.hcdn.gob.ar/fotos/jcabandie.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Juan_Cabandié"
+        },
+        {
+          "note": "Wikipedia (eswikiquote)",
+          "url": "https://eswikiquote.wikipedia.org/wiki/Juan_Cabandié"
+        },
+        {
+          "note": "Wikipedia (eswikisource)",
+          "url": "https://eswikisource.wikipedia.org/wiki/Juan_Cabandié"
+        }
+      ],
       "name": "JUAN CABANDIE",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Juan Cabandié",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Juan Cabandié",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Juan Cabandié",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Juan Cabandié",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Juan Cabandié",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Juan Cabandié",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Juan Cabandié",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "CABANDIE, JUAN",
       "sources": [
         {
@@ -4003,6 +5708,7 @@
       ]
     },
     {
+      "birth_date": "1949-06-19",
       "contact_details": [
         {
           "type": "phone",
@@ -4010,11 +5716,17 @@
         }
       ],
       "email": "jschiaretti@diputados.gob.ar",
+      "gender": "male",
+      "given_name": "Juan",
       "id": "218b5d8e-1521-4411-9802-aacd024a86c2",
       "identifiers": [
         {
           "identifier": "jschiaretti",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q1710644",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www4.hcdn.gob.ar/fotos/jschiaretti.jpg",
@@ -4023,7 +5735,68 @@
           "url": "http://www4.hcdn.gob.ar/fotos/jschiaretti.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Juan_Schiaretti"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Juan_Schiaretti"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Juan_Schiaretti"
+        }
+      ],
       "name": "JUAN SCHIARETTI",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Juan Schiaretti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Juan Schiaretti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Juan Schiaretti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Juan Schiaretti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Juan Schiaretti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Juan Schiaretti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Juan Schiaretti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Juan Schiaretti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Juan Schiaretti",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "SCHIARETTI, JUAN",
       "sources": [
         {
@@ -4090,6 +5863,7 @@
       ]
     },
     {
+      "birth_date": "1971-10-22",
       "contact_details": [
         {
           "type": "phone",
@@ -4097,11 +5871,17 @@
         }
       ],
       "email": "jditullio@diputados.gob.ar",
+      "gender": "female",
+      "given_name": "Juliana",
       "id": "b2862c73-e3ff-424d-85d2-da6e5558c197",
       "identifiers": [
         {
           "identifier": "jditullio",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q9016431",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www4.hcdn.gob.ar/fotos/jditullio.jpg",
@@ -4110,7 +5890,50 @@
           "url": "http://www4.hcdn.gob.ar/fotos/jditullio.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Juliana_Di_Tullio"
+        }
+      ],
       "name": "JULIANA DI TULLIO",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Juliana Di Tullio",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Juliana Di Tullio",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Juliana Di Tullio",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Juliana Di Tullio",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Juliana Di Tullio",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Juliana Di Tullio",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Juliana Di Tullio",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "DI TULLIO, JULIANA",
       "sources": [
         {
@@ -4119,6 +5942,7 @@
       ]
     },
     {
+      "birth_date": "1955-04-30",
       "contact_details": [
         {
           "type": "phone",
@@ -4126,11 +5950,29 @@
         }
       ],
       "email": "jcobos@diputados.gob.ar",
+      "gender": "male",
+      "given_name": "Julio",
       "id": "76d9bed6-883b-4a32-9f1b-9d44b8c085cb",
       "identifiers": [
         {
           "identifier": "jcobos",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/0fgr9s",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "1018433929",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "230700772",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q456351",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www4.hcdn.gob.ar/fotos/jcobos.jpg",
@@ -4139,7 +5981,205 @@
           "url": "http://www4.hcdn.gob.ar/fotos/jcobos.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/خوليو_كوبوس"
+        },
+        {
+          "note": "Wikipedia (cs)",
+          "url": "https://cs.wikipedia.org/wiki/Julio_Cobos"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Julio_Cobos"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Julio_Cobos"
+        },
+        {
+          "note": "Wikipedia (eo)",
+          "url": "https://eo.wikipedia.org/wiki/Julio_Cobos"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Julio_Cobos"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Julio_Cobos"
+        },
+        {
+          "note": "Wikipedia (he)",
+          "url": "https://he.wikipedia.org/wiki/חוליו_קובוס"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Julio_Cobos"
+        },
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/훌리오_코보스"
+        },
+        {
+          "note": "Wikipedia (mg)",
+          "url": "https://mg.wikipedia.org/wiki/Julio_Cobos"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Julio_Cobos"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Julio_Cobos"
+        },
+        {
+          "note": "Wikipedia (simple)",
+          "url": "https://simple.wikipedia.org/wiki/Julio_Cobos"
+        },
+        {
+          "note": "Wikipedia (tr)",
+          "url": "https://tr.wikipedia.org/wiki/Julio_Cobos"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/胡里奥·科沃斯"
+        }
+      ],
       "name": "JULIO CESAR CLETO COBOS",
+      "other_names": [
+        {
+          "lang": "ar",
+          "name": "خوليو كوبوس",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Julio Cobos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Julio Cobos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Julio Cobos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Julio Cobos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Julio Cobos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Julio Cobos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Julio Cobos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "חוליו קובוס",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Julio Cobos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "훌리오 코보스",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mg",
+          "name": "Julio Cobos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Julio Cobos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Julio Cobos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Julio Cobos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Julio Cobos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Julio Cobos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Julio Cobos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Julio Cobos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "胡里奥·科沃斯",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "胡里奥·科沃斯",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hans",
+          "name": "胡里奥·科沃斯",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "胡里奧·科沃斯",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "胡里奧·科沃斯",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-sg",
+          "name": "胡里奥·科沃斯",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-tw",
+          "name": "胡里奧·科沃斯",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "COBOS, JULIO CESAR CLETO",
       "sources": [
         {
@@ -4206,6 +6246,7 @@
       ]
     },
     {
+      "birth_date": "1972-12-23",
       "contact_details": [
         {
           "type": "phone",
@@ -4213,11 +6254,17 @@
         }
       ],
       "email": "lalonso@diputados.gob.ar",
+      "gender": "female",
+      "given_name": "Laura",
       "id": "1ae76069-6e43-4f7d-9ea8-83c2f108ef0d",
       "identifiers": [
         {
           "identifier": "lalonso",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q5971596",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www4.hcdn.gob.ar/fotos/lalonso.jpg",
@@ -4226,7 +6273,55 @@
           "url": "http://www4.hcdn.gob.ar/fotos/lalonso.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Laura_Alonso"
+        }
+      ],
       "name": "LAURA ALONSO",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Laura Alonso",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Laura Alonso",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Laura Alonso",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Laura Alonso",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Laura Alonso",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Laura Alonso",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Laura Alonso",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Laura Alonso",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "ALONSO, LAURA",
       "sources": [
         {
@@ -4329,11 +6424,17 @@
         }
       ],
       "email": "lmazure@diputados.gob.ar",
+      "gender": "female",
+      "given_name": "Liliana",
       "id": "0dacc979-742f-4454-9653-c96d703a5fe3",
       "identifiers": [
         {
           "identifier": "lmazure",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q21074953",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www4.hcdn.gob.ar/fotos/lmazure.jpg",
@@ -4342,7 +6443,20 @@
           "url": "http://www4.hcdn.gob.ar/fotos/lmazure.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Liliana_Mazure"
+        }
+      ],
       "name": "LILIANA AMALIA MAZURE",
+      "other_names": [
+        {
+          "lang": "es",
+          "name": "Liliana Mazure",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "MAZURE, LILIANA AMALIA",
       "sources": [
         {
@@ -4815,18 +6929,33 @@
       ]
     },
     {
+      "birth_date": "1955-03-17",
       "contact_details": [
         {
           "type": "phone",
           "value": "4127-7100"
+        },
+        {
+          "type": "twitter",
+          "value": "stolbizer"
         }
       ],
       "email": "mstolbizer@diputados.gob.ar",
+      "gender": "female",
+      "given_name": "Margarita",
       "id": "bed7f3ce-5d36-4709-bd4d-679e9c022cf0",
       "identifiers": [
         {
           "identifier": "mstolbizer",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/06wbj3z",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q2918563",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www4.hcdn.gob.ar/fotos/mstolbizer.jpg",
@@ -4835,7 +6964,107 @@
           "url": "http://www4.hcdn.gob.ar/fotos/mstolbizer.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Margarita_Stolbizer"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Margarita_Stolbizer"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Margarita_Stolbizer"
+        },
+        {
+          "note": "Wikipedia (fa)",
+          "url": "https://fa.wikipedia.org/wiki/مارگاریتا_استولبیزر"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Margarita_Stolbizer"
+        },
+        {
+          "note": "Wikipedia (gl)",
+          "url": "https://gl.wikipedia.org/wiki/Margarita_Stolbizer"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Margarita_Stolbizer"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Margarita_Stolbizer"
+        },
+        {
+          "note": "facebook",
+          "url": "Stolbizer"
+        }
+      ],
       "name": "MARGARITA ROSA STOLBIZER",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Margarita Stolbizer",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Margarita Stolbizer",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Margarita Stolbizer",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Margarita Stolbizer",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "مارگاریتا استولبیزر",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Margarita Stolbizer",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Margarita Stolbizer",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Margarita Stolbizer",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Margarita Stolbizer",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Margarita Stolbizer",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Margarita Stolbizer",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Margarita Stolbizer",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "STOLBIZER, MARGARITA ROSA",
       "sources": [
         {
@@ -5366,6 +7595,7 @@
       ]
     },
     {
+      "birth_date": "1951-04-27",
       "contact_details": [
         {
           "type": "phone",
@@ -5373,11 +7603,21 @@
         }
       ],
       "email": "mdasneves@diputados.gob.ar",
+      "gender": "male",
+      "given_name": "Mario",
       "id": "4929f542-cceb-4f22-a69a-06892a786570",
       "identifiers": [
         {
           "identifier": "mdasneves",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "170620363",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q6765031",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www4.hcdn.gob.ar/fotos/mdasneves.jpg",
@@ -5386,7 +7626,58 @@
           "url": "http://www4.hcdn.gob.ar/fotos/mdasneves.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Mario_das_Neves"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Mario_Das_Neves"
+        },
+        {
+          "note": "Wikipedia (sw)",
+          "url": "https://sw.wikipedia.org/wiki/Mario_Das_Neves"
+        }
+      ],
       "name": "MARIO DAS NEVES",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Mario Das Neves",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Mario das Neves",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Mario Das Neves",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Mario Das Neves",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Mario Das Neves",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Mario Das Neves",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sw",
+          "name": "Mario Das Neves",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "DAS NEVES, MARIO",
       "sources": [
         {
@@ -5395,18 +7686,29 @@
       ]
     },
     {
+      "birth_date": "1953-12-30",
       "contact_details": [
         {
           "type": "phone",
           "value": "4127-7100"
+        },
+        {
+          "type": "twitter",
+          "value": "barlettamario"
         }
       ],
       "email": "mbarletta@diputados.gob.ar",
+      "gender": "male",
+      "given_name": "Mario",
       "id": "8112edd1-2de7-4f4f-8413-252162167902",
       "identifiers": [
         {
           "identifier": "mbarletta",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q6764548",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www4.hcdn.gob.ar/fotos/mbarletta.jpg",
@@ -5415,7 +7717,64 @@
           "url": "http://www4.hcdn.gob.ar/fotos/mbarletta.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Mario_Barletta"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Mario_Domingo_Barletta"
+        }
+      ],
       "name": "MARIO DOMINGO BARLETTA",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Mario Domingo Barletta",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Mario Barletta",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Mario Barletta",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Mario Domingo Barletta",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Mario Domingo Barletta",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Mario Domingo Barletta",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Mario Barletta",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Mario Domingo Barletta",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Mario Domingo Barletta",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "BARLETTA, MARIO DOMINGO",
       "sources": [
         {
@@ -5540,6 +7899,7 @@
       ]
     },
     {
+      "birth_date": "1970-12-08",
       "contact_details": [
         {
           "type": "phone",
@@ -5547,11 +7907,17 @@
         }
       ],
       "email": "mlousteau@diputados.gob.ar",
+      "gender": "male",
+      "given_name": "Martín",
       "id": "645aa6e6-7f78-4596-8bd1-2a0fd65b8ba7",
       "identifiers": [
         {
           "identifier": "mlousteau",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q6553522",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www4.hcdn.gob.ar/fotos/mlousteau.jpg",
@@ -5560,7 +7926,81 @@
           "url": "http://www4.hcdn.gob.ar/fotos/mlousteau.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Martín_Lousteau"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Martín_Lousteau"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Martín_Lousteau"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Martín_Lousteau"
+        },
+        {
+          "note": "Wikipedia (oc)",
+          "url": "https://oc.wikipedia.org/wiki/Martín_Loustau"
+        }
+      ],
       "name": "MARTIN LOUSTEAU",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Martín Lousteau",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Martín Lousteau",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Martín Lousteau",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Martín Lousteau",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Martín Lousteau",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Martín Lousteau",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Martín Lousteau",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Martín Lousteau",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Martín Loustau",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Martín Lousteau",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "LOUSTEAU, MARTIN",
       "sources": [
         {
@@ -5605,11 +8045,17 @@
         }
       ],
       "email": "mgomezb@diputados.gob.ar",
+      "gender": "male",
+      "given_name": "Mauricio",
       "id": "54b7c2d7-3bbd-4096-9369-d64292180fca",
       "identifiers": [
         {
           "identifier": "mgomezb",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q16605530",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www4.hcdn.gob.ar/fotos/mgomezb.jpg",
@@ -5618,7 +8064,25 @@
           "url": "http://www4.hcdn.gob.ar/fotos/mgomezb.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Mauricio_Gómez_Bull"
+        }
+      ],
       "name": "MAURICIO RICARDO GOMEZ BULL",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Mauricio Gómez Bull",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Mauricio Gómez Bull",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "GOMEZ BULL, MAURICIO RICARDO",
       "sources": [
         {
@@ -5888,6 +8352,7 @@
       ]
     },
     {
+      "birth_date": "1953-09-07",
       "contact_details": [
         {
           "type": "phone",
@@ -5895,11 +8360,16 @@
         }
       ],
       "email": "nparrilli@diputados.gob.ar",
+      "gender": "female",
       "id": "0ea2d96f-a4f4-4101-90dc-2e5fa29d1588",
       "identifiers": [
         {
           "identifier": "nparrilli",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q9048549",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www4.hcdn.gob.ar/fotos/nparrilli.jpg",
@@ -5908,7 +8378,64 @@
           "url": "http://www4.hcdn.gob.ar/fotos/nparrilli.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Nanci_Parrilli"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Nanci_Parrilli"
+        }
+      ],
       "name": "NANCI MARIA AGUSTINA PARRILLI",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Nanci Parrilli",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Nanci Parrilli",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Nanci Parrilli",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Nanci Parrilli",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Nanci Parrilli",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Nanci Parrilli",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Nanci Parrilli",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Nanci Parrilli",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Nanci Parrilli",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "PARRILLI, NANCI MARIA AGUSTINA",
       "sources": [
         {
@@ -5946,6 +8473,7 @@
       ]
     },
     {
+      "birth_date": "1980-02-06",
       "contact_details": [
         {
           "type": "phone",
@@ -5953,11 +8481,17 @@
         }
       ],
       "email": "ndelcano@diputados.gob.ar",
+      "gender": "male",
+      "given_name": "Nicolás",
       "id": "cad8d9f3-5eb5-4a88-a25b-ee3aa3cba8af",
       "identifiers": [
         {
           "identifier": "ndelcano",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q15702157",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www4.hcdn.gob.ar/fotos/ndelcano.jpg",
@@ -5966,7 +8500,258 @@
           "url": "http://www4.hcdn.gob.ar/fotos/ndelcano.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Nicolás_del_Caño"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Nicolás_del_Caño"
+        },
+        {
+          "note": "Wikipedia (gl)",
+          "url": "https://gl.wikipedia.org/wiki/Nicolás_del_Caño"
+        }
+      ],
       "name": "NICOLAS DEL CAÑO",
+      "other_names": [
+        {
+          "lang": "af",
+          "name": "Nicolás del Caño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "an",
+          "name": "Nicolás del Caño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ast",
+          "name": "Nicolás del Caño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bar",
+          "name": "Nicolás del Caño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bs",
+          "name": "Nicolás del Caño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Nicolás del Caño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Nicolás del Caño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Nicolás del Caño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Nicolás del Caño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Nicolás del Caño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eml",
+          "name": "Nicolás del Caño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Nicolás del Caño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Nicolás del Caño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Nicolás del Caño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Nicolás del Caño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "Nicolás del Caño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Nicolás del Caño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fo",
+          "name": "Nicolás del Caño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Nicolás del Caño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "frr",
+          "name": "Nicolás del Caño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Nicolás del Caño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gsw",
+          "name": "Nicolás del Caño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Nicolás del Caño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Nicolás del Caño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Nicolás del Caño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "is",
+          "name": "Nicolás del Caño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Nicolás del Caño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lb",
+          "name": "Nicolás del Caño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Nicolás del Caño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lv",
+          "name": "Nicolás del Caño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "min",
+          "name": "Nicolás del Caño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Nicolás del Caño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nds",
+          "name": "Nicolás del Caño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Nicolás del Caño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Nicolás del Caño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Nicolás del Caño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Nicolás del Caño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt-br",
+          "name": "Nicolás del Caño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "rm",
+          "name": "Nicolás del Caño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Nicolás del Caño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "Nicolás del Caño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Nicolás del Caño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Nicolás del Caño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Nicolás del Caño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sq",
+          "name": "Nicolás del Caño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Nicolás del Caño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Nicolás del Caño",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "DEL CAÑO, NICOLAS",
       "sources": [
         {
@@ -6265,18 +9050,29 @@
       ]
     },
     {
+      "birth_date": "1950-05-07",
       "contact_details": [
         {
           "type": "phone",
           "value": "4127-7100"
+        },
+        {
+          "type": "twitter",
+          "value": "OscarAguadCBA"
         }
       ],
       "email": "oaguad@diputados.gob.ar",
+      "gender": "male",
+      "given_name": "Oscar",
       "id": "4f05901f-3f69-4848-9f93-a47ea44f644a",
       "identifiers": [
         {
           "identifier": "oaguad",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q7106223",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www4.hcdn.gob.ar/fotos/oaguad.jpg",
@@ -6285,7 +9081,59 @@
           "url": "http://www4.hcdn.gob.ar/fotos/oaguad.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Oscar_Aguad"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Oscar_Aguad"
+        }
+      ],
       "name": "OSCAR RAUL AGUAD",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Oscar Aguad",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Oscar Raúl Aguad",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Oscar Raúl Aguad",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Oscar Raúl Aguad",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Oscar Aguad",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Oscar Raúl Aguad",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Oscar Aguad",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Oscar Aguad",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "AGUAD, OSCAR RAUL",
       "sources": [
         {
@@ -6381,6 +9229,7 @@
       ]
     },
     {
+      "birth_date": "1971-11-19",
       "contact_details": [
         {
           "type": "phone",
@@ -6388,11 +9237,17 @@
         }
       ],
       "email": "pjavkin@diputados.gob.ar",
+      "gender": "male",
+      "given_name": "Pablo",
       "id": "b4b74550-1f99-4a36-a4b2-767eeee78b4a",
       "identifiers": [
         {
           "identifier": "pjavkin",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q18224545",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www4.hcdn.gob.ar/fotos/pjavkin.jpg",
@@ -6401,7 +9256,190 @@
           "url": "http://www4.hcdn.gob.ar/fotos/pjavkin.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Pablo_Javkin"
+        }
+      ],
       "name": "PABLO LAUTARO JAVKIN",
+      "other_names": [
+        {
+          "lang": "br",
+          "name": "Pablo Javkin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Pablo Javkin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "co",
+          "name": "Pablo Javkin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Pablo Javkin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Pablo Javkin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Pablo Javkin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Pablo Javkin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Pablo Javkin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Pablo Javkin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Pablo Javkin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Pablo Javkin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "Pablo Javkin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Pablo Javkin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Pablo Javkin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Pablo Javkin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Pablo Javkin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Pablo Javkin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Pablo Javkin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lv",
+          "name": "Pablo Javkin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Pablo Javkin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Pablo Javkin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Pablo Javkin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pcd",
+          "name": "Pablo Javkin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Pablo Javkin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Pablo Javkin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Pablo Javkin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Pablo Javkin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-el",
+          "name": "Pablo Javkin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Pablo Javkin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Pablo Javkin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vec",
+          "name": "Pablo Javkin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Pablo Javkin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vls",
+          "name": "Pablo Javkin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vo",
+          "name": "Pablo Javkin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "wa",
+          "name": "Pablo Javkin",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "JAVKIN, PABLO LAUTARO",
       "sources": [
         {
@@ -6410,6 +9448,7 @@
       ]
     },
     {
+      "birth_date": "1975-11-08",
       "contact_details": [
         {
           "type": "phone",
@@ -6417,11 +9456,17 @@
         }
       ],
       "email": "plopez@diputados.gob.ar",
+      "gender": "male",
+      "given_name": "Pablo",
       "id": "116fc39d-e993-48ca-b980-0325304ba269",
       "identifiers": [
         {
           "identifier": "plopez",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q15192668",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www4.hcdn.gob.ar/fotos/plopez.jpg",
@@ -6430,7 +9475,34 @@
           "url": "http://www4.hcdn.gob.ar/fotos/plopez.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Pablo_Sebastián_López"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Pablo_Sebastián_López"
+        }
+      ],
       "name": "PABLO SEBASTIAN LOPEZ",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Pablo Sebastián López",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Pablo Sebastián López",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Pablo López",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "LOPEZ, PABLO SEBASTIAN",
       "sources": [
         {
@@ -6497,6 +9569,7 @@
       ]
     },
     {
+      "birth_date": "1962-10-15",
       "contact_details": [
         {
           "type": "phone",
@@ -6504,11 +9577,17 @@
         }
       ],
       "email": "pgimenez@diputados.gob.ar",
+      "gender": "female",
+      "given_name": "Patricia",
       "id": "8a49687e-ed1c-4783-886b-b08fe92c29c0",
       "identifiers": [
         {
           "identifier": "pgimenez",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q20015252",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www4.hcdn.gob.ar/fotos/pgimenez.jpg",
@@ -6517,7 +9596,25 @@
           "url": "http://www4.hcdn.gob.ar/fotos/pgimenez.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Patricia_Giménez"
+        }
+      ],
       "name": "PATRICIA VIVIANA GIMENEZ",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Patricia Giménez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Patricia Giménez",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "GIMENEZ, PATRICIA VIVIANA",
       "sources": [
         {
@@ -6642,6 +9739,7 @@
       ]
     },
     {
+      "birth_date": "1962-11-29",
       "contact_details": [
         {
           "type": "phone",
@@ -6649,11 +9747,17 @@
         }
       ],
       "email": "rburyaile@diputados.gob.ar",
+      "gender": "male",
+      "given_name": "Ricardo",
       "id": "bf86865e-d3f1-4282-910e-379246ec845b",
       "identifiers": [
         {
           "identifier": "rburyaile",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q6108050",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www4.hcdn.gob.ar/fotos/rburyaile.jpg",
@@ -6662,7 +9766,29 @@
           "url": "http://www4.hcdn.gob.ar/fotos/rburyaile.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ricardo_Buryaile"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Ricardo_Buryaile"
+        }
+      ],
       "name": "RICARDO BURYAILE",
+      "other_names": [
+        {
+          "lang": "es",
+          "name": "Ricardo Buryaile",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Ricardo Buryaile",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "BURYAILE, RICARDO",
       "sources": [
         {
@@ -6671,18 +9797,34 @@
       ]
     },
     {
+      "birth_date": "1951-11-02",
       "contact_details": [
         {
           "type": "phone",
           "value": "4127-7100"
+        },
+        {
+          "type": "twitter",
+          "value": "RICALFONSIN"
         }
       ],
       "email": "ralfonsin@diputados.gob.ar",
+      "family_name": "Alfonsín",
+      "gender": "male",
+      "given_name": "Ricardo",
       "id": "2c67fb7f-e696-4c19-bf47-5d1e008bf27e",
       "identifiers": [
         {
           "identifier": "ralfonsin",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "299681237",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q1261399",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www4.hcdn.gob.ar/fotos/ralfonsin.jpg",
@@ -6691,7 +9833,78 @@
           "url": "http://www4.hcdn.gob.ar/fotos/ralfonsin.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Ricardo_Alfonsín"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ricardo_Alfonsín"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Ricardo_Alfonsín"
+        }
+      ],
       "name": "RICARDO LUIS ALFONSIN",
+      "other_names": [
+        {
+          "lang": "cs",
+          "name": "Ricardo Alfonsín",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Ricardo Alfonsín",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Ricardo Alfonsín",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Ρικάρντο Αλφονσίν",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Ricardo Alfonsín",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Ricardo Alfonsín",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Ricardo Alfonsín",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Ricardo Alfonsín",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Ricardo Alfonsín",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Ricardo Alfonsín",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Ricardo Alfonsín",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "ALFONSIN, RICARDO LUIS",
       "sources": [
         {
@@ -6845,6 +10058,7 @@
       ]
     },
     {
+      "birth_date": "1964-03-15",
       "contact_details": [
         {
           "type": "phone",
@@ -6852,11 +10066,17 @@
         }
       ],
       "email": "rgiustozzi@diputados.gob.ar",
+      "gender": "male",
+      "given_name": "Darío",
       "id": "85b75db8-b83a-421b-a680-964e76696036",
       "identifiers": [
         {
           "identifier": "rgiustozzi",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q5402890",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www4.hcdn.gob.ar/fotos/rgiustozzi.jpg",
@@ -6865,7 +10085,55 @@
           "url": "http://www4.hcdn.gob.ar/fotos/rgiustozzi.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Darío_Giustozzi"
+        }
+      ],
       "name": "RUBEN DARIO GIUSTOZZI",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Darío Giustozzi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Darío Giustozzi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Darío Giustozzi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Darío Giustozzi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Darío Giustozzi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Darío Giustozzi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Darío Giustozzi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Darío Giustozzi",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "GIUSTOZZI, RUBEN DARIO",
       "sources": [
         {
@@ -6932,6 +10200,7 @@
       ]
     },
     {
+      "birth_date": "1963-04-20",
       "contact_details": [
         {
           "type": "phone",
@@ -6939,11 +10208,17 @@
         }
       ],
       "email": "smendoza@diputados.gob.ar",
+      "gender": "female",
+      "given_name": "Sandra",
       "id": "95995127-120e-48cd-960b-cd0766e018f9",
       "identifiers": [
         {
           "identifier": "smendoza",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q16913151",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www4.hcdn.gob.ar/fotos/smendoza.jpg",
@@ -6952,7 +10227,25 @@
           "url": "http://www4.hcdn.gob.ar/fotos/smendoza.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Sandra_Mendoza"
+        }
+      ],
       "name": "SANDRA MARCELA MENDOZA",
+      "other_names": [
+        {
+          "lang": "es",
+          "name": "Sandra Mendoza",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Sandra Mendoza",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "MENDOZA, SANDRA MARCELA",
       "sources": [
         {
@@ -6990,18 +10283,37 @@
       ]
     },
     {
+      "birth_date": "1962-01-23",
       "contact_details": [
         {
           "type": "phone",
           "value": "4127-7100"
+        },
+        {
+          "type": "twitter",
+          "value": "sergiobergman"
         }
       ],
       "email": "sbergman@diputados.gob.ar",
+      "gender": "male",
+      "given_name": "Sergio",
       "id": "44332f51-1022-473a-a5e8-2176a3dc5543",
       "identifiers": [
         {
           "identifier": "sbergman",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "129956090",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "90804620",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q5662066",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www4.hcdn.gob.ar/fotos/sbergman.jpg",
@@ -7010,7 +10322,72 @@
           "url": "http://www4.hcdn.gob.ar/fotos/sbergman.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Sergio_Bergman"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Sergio_Bergman"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Sergio_Bergman"
+        },
+        {
+          "note": "Wikipedia (he)",
+          "url": "https://he.wikipedia.org/wiki/סרחיו_ברגמן"
+        }
+      ],
       "name": "SERGIO ALEJANDRO BERGMAN",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Sergio Bergman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Sergio Bergman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Sergio Bergman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Sergio Bergman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "סרחיו ברגמן",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Sergio Bergman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Sergio Bergman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Sergio Bergman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Sergio Bergman",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "BERGMAN, SERGIO ALEJANDRO",
       "sources": [
         {
@@ -7019,6 +10396,7 @@
       ]
     },
     {
+      "birth_date": "1972-04-28",
       "contact_details": [
         {
           "type": "phone",
@@ -7026,11 +10404,21 @@
         }
       ],
       "email": "smassa@diputados.gob.ar",
+      "gender": "male",
+      "given_name": "Sergio",
       "id": "0dd70127-29ee-4b13-9e1a-8750b9d4cf11",
       "identifiers": [
         {
           "identifier": "smassa",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/05h50hl",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q3479675",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www4.hcdn.gob.ar/fotos/smassa.jpg",
@@ -7039,7 +10427,108 @@
           "url": "http://www4.hcdn.gob.ar/fotos/smassa.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Sergio_Massa"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Sergio_Massa"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Sergio_Massa"
+        },
+        {
+          "note": "Wikipedia (fa)",
+          "url": "https://fa.wikipedia.org/wiki/سرخیو_ماسا"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Sergio_Massa"
+        },
+        {
+          "note": "Wikipedia (gl)",
+          "url": "https://gl.wikipedia.org/wiki/Sergio_Massa"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Sergio_Massa"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Серхіо_Томас_Масса"
+        }
+      ],
       "name": "SERGIO TOMAS MASSA",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Sergio Massa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Sergio Massa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Sergio Massa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Sergio Massa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "سرخیو ماسا",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Sergio Massa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Sergio Massa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Sergio Massa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Sergio Massa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Sergio Massa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Sergio Massa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Sergio Massa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Серхіо Томас Масса",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "MASSA, SERGIO TOMAS",
       "sources": [
         {
@@ -7048,6 +10537,7 @@
       ]
     },
     {
+      "birth_date": "1958-11-02",
       "contact_details": [
         {
           "type": "phone",
@@ -7055,11 +10545,17 @@
         }
       ],
       "email": "smajdalani@diputados.gob.ar",
+      "gender": "female",
+      "given_name": "Silvia",
       "id": "adf9a834-4546-47d0-80e9-5b7672849c5a",
       "identifiers": [
         {
           "identifier": "smajdalani",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q20016593",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www4.hcdn.gob.ar/fotos/smajdalani.jpg",
@@ -7068,7 +10564,29 @@
           "url": "http://www4.hcdn.gob.ar/fotos/smajdalani.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Silvia_Majdalani"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Silvia_Majdalani"
+        }
+      ],
       "name": "SILVIA CRISTINA MAJDALANI",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Silvia Majdalani",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Silvia Majdalani",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "MAJDALANI, SILVIA CRISTINA",
       "sources": [
         {
@@ -7077,6 +10595,7 @@
       ]
     },
     {
+      "birth_date": "1966-04-06",
       "contact_details": [
         {
           "type": "phone",
@@ -7084,11 +10603,17 @@
         }
       ],
       "email": "srisko@diputados.gob.ar",
+      "gender": "female",
+      "given_name": "Silvia",
       "id": "954df93d-f530-4057-b7ab-cf1a82e9fff4",
       "identifiers": [
         {
           "identifier": "srisko",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q16301760",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www4.hcdn.gob.ar/fotos/srisko.jpg",
@@ -7097,7 +10622,30 @@
           "url": "http://www4.hcdn.gob.ar/fotos/srisko.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Silvia_Risko"
+        }
+      ],
       "name": "SILVIA LUCRECIA RISKO",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Silvia Risko",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Silvia Risko",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Silvia Risko",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "RISKO, SILVIA LUCRECIA",
       "sources": [
         {
@@ -7135,18 +10683,29 @@
       ]
     },
     {
+      "birth_date": "1982-09-14",
       "contact_details": [
         {
           "type": "phone",
           "value": "4127-7100"
+        },
+        {
+          "type": "twitter",
+          "value": "soledadmartinez"
         }
       ],
       "email": "smartinez@diputados.gob.ar",
+      "gender": "female",
+      "given_name": "Soledad",
       "id": "597a9241-238e-4874-aeb8-95f2b0d1ce9c",
       "identifiers": [
         {
           "identifier": "smartinez",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q6131515",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www4.hcdn.gob.ar/fotos/smartinez.jpg",
@@ -7155,7 +10714,50 @@
           "url": "http://www4.hcdn.gob.ar/fotos/smartinez.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Soledad_Martínez"
+        }
+      ],
       "name": "SOLEDAD MARTINEZ",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Soledad Martínez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Soledad Martínez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Soledad Martínez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Soledad Martínez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Soledad Martínez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Soledad Martínez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Soledad Martínez",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "MARTINEZ, SOLEDAD",
       "sources": [
         {
@@ -7316,11 +10918,17 @@
         }
       ],
       "email": "vmagario@diputados.gob.ar",
+      "gender": "female",
+      "given_name": "Verónica",
       "id": "83fe0ec6-0987-4233-873b-a9cb2fa4c0bd",
       "identifiers": [
         {
           "identifier": "vmagario",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q21480801",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www4.hcdn.gob.ar/fotos/vmagario.jpg",
@@ -7329,7 +10937,25 @@
           "url": "http://www4.hcdn.gob.ar/fotos/vmagario.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Verónica_Magario"
+        }
+      ],
       "name": "VERONICA MARIA MAGARIO",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Verónica Magario",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Verónica Magario",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "MAGARIO, VERONICA MARIA",
       "sources": [
         {
@@ -7675,7 +11301,8 @@
   ],
   "meta": {
     "sources": [
-      "https://morph.io/tmtmtmtm/argentina-diputados"
+      "https://morph.io/tmtmtmtm/argentina-diputados",
+      "http://wikidata.org/"
     ]
   },
   "memberships": [
