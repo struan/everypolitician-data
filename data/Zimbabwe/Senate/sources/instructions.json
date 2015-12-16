@@ -26,6 +26,20 @@
       }
     },
     {
+      "file": "morph/official.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/zimbabwe-parliament",
+        "query": "SELECT * FROM data WHERE house = 'senate' ORDER BY id"
+      },
+      "merge": {
+        "incoming_field": "name",
+        "existing_field": "name",
+        "reconciliation_file": "reconciliation/official.csv"
+      },
+      "type": "person"
+    },
+    {
       "file": "manual/terms.csv",
       "type": "term"
     },
