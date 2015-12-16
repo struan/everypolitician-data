@@ -136,6 +136,24 @@ namespace :transform do
   end
 
   #---------------------------------------------------------------------
+  # Remap gender to consistent format
+  #---------------------------------------------------------------------
+  task :write => :remap_gender 
+  GENDER_MAP = {
+    'male'   => %w(m male homme),
+    'female' => %w(f female femme),
+    'other'  => %w(o other),
+  }
+
+  task :remap_gender => :load do
+    remap = Hash[GENDER_MAP.map { |k, vs| vs.map { |v| [v, k] } }.flatten(1)]
+    @json[:persons].each do |p|
+      next if p[:gender].to_s.empty?
+      p[:gender] = remap[ p[:gender].downcase.strip ] || raise("Unknown gender: #{p[:gender]}")
+    end
+  end
+
+  #---------------------------------------------------------------------
   # Add area wikidata information
   #---------------------------------------------------------------------
   task :write => :area_wikidata
