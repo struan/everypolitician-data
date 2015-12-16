@@ -253,6 +253,14 @@ namespace :merge_sources do
               incoming_row.keys.each do |h|
                 existing_row[h] = incoming_row[h] if existing_row[h].to_s.empty? || existing_row[h].to_s.downcase == 'unknown'
               end
+
+              # If the incoming data, however, has a different "name"
+              # field, attach that as an alternate in `other_names`
+              if incoming_row[:name].to_s.downcase != existing_row[:name].to_s.downcase
+                all_headers |= [:alternate_names] 
+                existing_row[:alternate_names] ||= nil
+                existing_row[:alternate_names] = [existing_row[:alternate_names], incoming_row[:name]].compact.join(";")
+              end
             end
           else
             warn "Can't match row to existing data: #{incoming_row.to_hash.reject { |k,v| v.to_s.empty? } }".red if merger[:report_missing]
