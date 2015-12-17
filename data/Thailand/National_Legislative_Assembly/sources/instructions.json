@@ -24,6 +24,14 @@
         "existing_field": "name",
         "reconciliation_file": "reconciliation/wikidata.csv"
       }
+    },
+    {
+      "file": "gender-balance/results.csv",
+      "type": "gender",
+      "create": {
+        "type": "gender-balance",
+        "source": "Thailand/National-Legislative-Assembly"
+      }
     }
   ]
 }

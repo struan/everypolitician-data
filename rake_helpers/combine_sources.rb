@@ -110,6 +110,9 @@ namespace :merge_sources do
           mapping = csv_table("sources/#{c[:source]}")
           area_wikidata = WikidataLookup.new(mapping)
           File.write(i[:file], JSON.pretty_generate(area_wikidata.to_hash))
+        elsif c[:type] == 'gender-balance'
+          api_url = "http://gender-balance.org/export/#{c[:source]}"
+          IO.copy_stream(open(api_url), i[:file])
         else
           raise "Don't know how to fetch #{i[:file]}" unless c[:type] == 'morph'
         end
@@ -270,6 +273,30 @@ namespace :merge_sources do
         puts "* %d of %d unmatched".magenta % [unmatched.count, incoming_data.count]
         incoming_data = unmatched
       end
+    end
+
+    # Gender information from Gender-Balance.org
+    if gb = instructions(:sources).find { |src| src[:type].to_s.downcase == 'gender' }
+      min_selections = 5   # accept gender if at least this many votes
+      vote_threshold = 0.8 # and at least this ratio of votes were for it
+
+      gender = CSV.table(gb[:file], converters: nil).group_by { |r| r[:uuid] }
+      gb_votes = 0
+
+      # Only calculate the gender if we don't already have it
+      # TODO: warn if the GB data differs from the pre-existing version
+      merged_rows.select { |r| r[:gender].to_s.empty? }.each do |r|
+        votes = (gender[ r[:uuid] ] or next).first
+        next if votes[:total].to_i < min_selections
+        winner = votes.reject { |k, _| %i(uuid total).include? k }.find { |k, v| (v.to_f / votes[:total].to_f) > vote_threshold } or begin
+          warn "Unclear gender vote pattern: #{votes.to_hash}"
+          next
+        end
+        next if winner.first == :skip
+        r[:gender] = winner.first.to_s 
+        gb_votes += 1
+      end
+      puts "⚥ #{gb_votes}".cyan unless gb_votes.zero?
     end
 
     # Map Areas
