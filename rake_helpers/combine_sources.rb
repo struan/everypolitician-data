@@ -256,7 +256,7 @@ namespace :merge_sources do
 
               # If the incoming data, however, has a different "name"
               # field, attach that as an alternate in `other_names`
-              if incoming_row[:name].to_s.downcase != existing_row[:name].to_s.downcase
+              if (incoming_row[:name].to_s.downcase != existing_row[:name].to_s.downcase) && !incoming_row[:name].to_s.strip.empty? 
                 all_headers |= [:alternate_names] 
                 existing_row[:alternate_names] ||= nil
                 existing_row[:alternate_names] = [existing_row[:alternate_names], incoming_row[:name]].compact.join(";")
