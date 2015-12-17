@@ -1173,6 +1173,10 @@
       "name": "Boniface Gatobu Kinoti",
       "other_names": [
         {
+          "name": "Kinoti Gatobu",
+          "note": "alternate"
+        },
+        {
           "lang": "de",
           "name": "Kinoti Gatobu",
           "note": "multilingual"
@@ -3469,6 +3473,10 @@
       "name": "Irshadali Mohomed Sumra",
       "other_names": [
         {
+          "name": "Irshadali Sumra",
+          "note": "alternate"
+        },
+        {
           "lang": "de",
           "name": "Irshadali Sumra",
           "note": "multilingual"
@@ -3551,6 +3559,10 @@
       ],
       "name": "Isaac Maigua Mwaura",
       "other_names": [
+        {
+          "name": "Isaac Mwaura",
+          "note": "alternate"
+        },
         {
           "lang": "en",
           "name": "Isaac Mwaura",
@@ -7107,6 +7119,10 @@
       "name": "Shakeel Shabbir",
       "other_names": [
         {
+          "name": "Ahmed Shakeel Shabbir Ahmed",
+          "note": "alternate"
+        },
+        {
           "lang": "de",
           "name": "Ahmed Shakeel Shabbir Ahmed",
           "note": "multilingual"
@@ -7497,6 +7513,10 @@
       "name": "Sunjeev Kour Birdi",
       "other_names": [
         {
+          "name": "Sonia Birdi",
+          "note": "alternate"
+        },
+        {
           "lang": "de",
           "name": "Sonia Birdi",
           "note": "multilingual"
@@ -7805,6 +7825,10 @@
       "name": "Wesley Kipchumba Korir",
       "other_names": [
         {
+          "name": "Wesley Korir",
+          "note": "alternate"
+        },
+        {
           "lang": "ar",
           "name": "ويسلي كورير",
           "note": "multilingual"
@@ -8015,6 +8039,10 @@
       ],
       "name": "Yusuf Hassan Abdi",
       "other_names": [
+        {
+          "name": "Abdi Yusuf Hassan",
+          "note": "alternate"
+        },
         {
           "lang": "de",
           "name": "Abdi Yusuf Hassan",
@@ -9583,7 +9611,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/kisumu_town_east",
+      "area_id": "area/kisumu_east",
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
@@ -11791,8 +11819,8 @@
       "type": "constituency"
     },
     {
-      "id": "area/kisumu_town_east",
-      "name": "Kisumu Town East",
+      "id": "area/kisumu_east",
+      "name": "Kisumu East",
       "type": "constituency"
     },
     {
