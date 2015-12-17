@@ -281,6 +281,7 @@ namespace :merge_sources do
       vote_threshold = 0.8 # and at least this ratio of votes were for it
 
       gender = CSV.table(gb[:file], converters: nil).group_by { |r| r[:uuid] }
+      gb_votes = 0
 
       # Only calculate the gender if we don't already have it
       # TODO: warn if the GB data differs from the pre-existing version
@@ -291,10 +292,12 @@ namespace :merge_sources do
           warn "Unclear gender vote pattern: #{votes.to_hash}"
           next
         end
-        r[:gender] = winner.first.to_s unless winner.first == :skip
+        next if winner.first == :skip
+        r[:gender] = winner.first.to_s 
+        gb_votes += 1
       end
+      puts "⚥ #{gb_votes}".cyan unless gb_votes.zero?
     end
-
 
     # Map Areas
     if area = instructions(:sources).find { |src| src[:type].to_s.downcase == 'area' }
