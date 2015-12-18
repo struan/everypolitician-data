@@ -1058,6 +1058,12 @@
       ]
     },
     {
+      "birth_date": "1976-05-02",
+      "email": "anneli.ott@riigikogu.ee",
+      "id": "372fd0c0-3379-44be-83af-527e886b2c52",
+      "name": "Anneli Ott"
+    },
+    {
       "birth_date": "1948-01-16",
       "contact_details": [
         {
@@ -2467,6 +2473,11 @@
           "url": "http://www.riigikogu.ee/riigikogu/koosseis/riigikogu-liikmed/saadik/18360e3e-b776-4fa1-a361-5d9c287a89a7/Erki-Savisaar"
         }
       ]
+    },
+    {
+      "birth_date": "1956-01-28",
+      "id": "cac5bc14-504f-4e37-9ddf-c674c51b74bf",
+      "name": "Etti Kagarov"
     },
     {
       "birth_date": "1971-10-06",
@@ -6041,6 +6052,12 @@
       ]
     },
     {
+      "birth_date": "1960-04-10",
+      "email": "kalev.kotkas@riigikogu.ee",
+      "id": "957d15b1-a5c5-45a6-bf25-971b32ef9aa0",
+      "name": "Kalev Kotkas"
+    },
+    {
       "birth_date": "1965-09-25",
       "contact_details": [
         {
@@ -6823,6 +6840,12 @@
           "url": "http://www.riigikogu.ee/riigikogu/koosseis/riigikogu-liikmed/saadik/caea357b-12c0-4069-b53e-89f69f517212/Kersti-Sarapuu"
         }
       ]
+    },
+    {
+      "birth_date": "1979-02-05",
+      "email": "oudekki.loone@riigikogu.ee",
+      "id": "26932bb9-95d0-4259-9d5c-31c9ae3ac5af",
+      "name": "Kerstin-Oudekki Loone"
     },
     {
       "birth_date": "1958-08-01",
@@ -10334,6 +10357,11 @@
       ]
     },
     {
+      "birth_date": "1968-09-02",
+      "id": "4976ec9e-f701-464d-9838-f5eb148e7510",
+      "name": "Neeme Suur"
+    },
+    {
       "birth_date": "1984-10-15",
       "contact_details": [
         {
@@ -11183,6 +11211,10 @@
       ],
       "name": "Siim Valmar Kiisler",
       "other_names": [
+        {
+          "name": "Siim Kiisler",
+          "note": "alternate"
+        },
         {
           "lang": "ca",
           "name": "Siim-Valmar Kiisler",
@@ -15777,6 +15809,7 @@
     },
     {
       "area_id": "area/järva-_ja_viljandimaa",
+      "end_date": "2015-11-18",
       "legislative_period_id": "term/13",
       "on_behalf_of_id": "KESK",
       "organization_id": "legislature",
@@ -15850,6 +15883,15 @@
       "role": "member"
     },
     {
+      "area_id": "area/harju-_ja_raplamaa",
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "KESK",
+      "organization_id": "legislature",
+      "person_id": "26932bb9-95d0-4259-9d5c-31c9ae3ac5af",
+      "role": "member",
+      "start_date": "2015-11-21"
+    },
+    {
       "area_id": "area/võru-,_valga-_ja_põlvamaa",
       "legislative_period_id": "term/13",
       "on_behalf_of_id": "RE",
@@ -15890,6 +15932,15 @@
       "organization_id": "legislature",
       "person_id": "3344a549-e83a-4fdd-8f06-6b5cde0788cd",
       "role": "member"
+    },
+    {
+      "area_id": "area/võru-,_valga-_ja_põlvamaa",
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "KESK",
+      "organization_id": "legislature",
+      "person_id": "372fd0c0-3379-44be-83af-527e886b2c52",
+      "role": "member",
+      "start_date": "2015-11-19"
     },
     {
       "area_id": "area/võru-,_valga-_ja_põlvamaa",
@@ -15941,6 +15992,16 @@
       "organization_id": "legislature",
       "person_id": "49579126-10a9-4a83-a019-23a7d7c489b9",
       "role": "member"
+    },
+    {
+      "area_id": "area/hiiu-,_lääne-_ja_saaremaa",
+      "end_date": "2015-09-16",
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "SDE",
+      "organization_id": "legislature",
+      "person_id": "4976ec9e-f701-464d-9838-f5eb148e7510",
+      "role": "member",
+      "start_date": "2015-09-15"
     },
     {
       "area_id": "area/tallinna_kesklinna,_lasnamäe_ja_pirita_linnaosa",
@@ -16204,6 +16265,15 @@
     {
       "area_id": "area/hiiu-,_lääne-_ja_saaremaa",
       "legislative_period_id": "term/13",
+      "on_behalf_of_id": "SDE",
+      "organization_id": "legislature",
+      "person_id": "957d15b1-a5c5-45a6-bf25-971b32ef9aa0",
+      "role": "member",
+      "start_date": "2015-09-16"
+    },
+    {
+      "area_id": "area/hiiu-,_lääne-_ja_saaremaa",
+      "legislative_period_id": "term/13",
       "on_behalf_of_id": "RE",
       "organization_id": "legislature",
       "person_id": "98334082-f509-4baa-ade3-77d67b124ff3",
@@ -16398,6 +16468,16 @@
       "organization_id": "legislature",
       "person_id": "ca220e41-2833-436b-b94c-91273c29b73a",
       "role": "member"
+    },
+    {
+      "area_id": "area/ida-virumaa",
+      "end_date": "2015-09-16",
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "SDE",
+      "organization_id": "legislature",
+      "person_id": "cac5bc14-504f-4e37-9ddf-c674c51b74bf",
+      "role": "member",
+      "start_date": "2015-09-15"
     },
     {
       "area_id": "area/harju-_ja_raplamaa",
