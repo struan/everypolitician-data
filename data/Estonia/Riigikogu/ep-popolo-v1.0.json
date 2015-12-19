@@ -1059,9 +1059,32 @@
     },
     {
       "birth_date": "1976-05-02",
+      "contact_details": [
+        {
+          "type": "phone",
+          "value": "631 6665"
+        }
+      ],
       "email": "anneli.ott@riigikogu.ee",
       "id": "372fd0c0-3379-44be-83af-527e886b2c52",
-      "name": "Anneli Ott"
+      "identifiers": [
+        {
+          "identifier": "4dbb83c0-9dbe-4aa7-9d89-29cf398da20d",
+          "scheme": "riigikogu"
+        }
+      ],
+      "image": "http://www.riigikogu.ee/wpcms/wp-content/uploads/ems/temp/588a441c-eec4-494f-8292-1b1bac1f93e0.jpg",
+      "images": [
+        {
+          "url": "http://www.riigikogu.ee/wpcms/wp-content/uploads/ems/temp/588a441c-eec4-494f-8292-1b1bac1f93e0.jpg"
+        }
+      ],
+      "name": "Anneli Ott",
+      "sources": [
+        {
+          "url": "http://www.riigikogu.ee/riigikogu/koosseis/riigikogu-liikmed/saadik/4dbb83c0-9dbe-4aa7-9d89-29cf398da20d/Anneli-Ott"
+        }
+      ]
     },
     {
       "birth_date": "1948-01-16",
@@ -6053,9 +6076,59 @@
     },
     {
       "birth_date": "1960-04-10",
+      "contact_details": [
+        {
+          "type": "phone",
+          "value": "631 6639"
+        }
+      ],
       "email": "kalev.kotkas@riigikogu.ee",
+      "gender": "male",
       "id": "957d15b1-a5c5-45a6-bf25-971b32ef9aa0",
-      "name": "Kalev Kotkas"
+      "identifiers": [
+        {
+          "identifier": "6686a6a2-4c7f-4595-bda6-88a593183744",
+          "scheme": "riigikogu"
+        },
+        {
+          "identifier": "Q12366157",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www.riigikogu.ee/wpcms/wp-content/uploads/ems/temp/e41d33c8-10da-4f38-9d5e-2ba80083684a.jpg",
+      "images": [
+        {
+          "url": "http://www.riigikogu.ee/wpcms/wp-content/uploads/ems/temp/e41d33c8-10da-4f38-9d5e-2ba80083684a.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Kalev_Kotkas"
+        },
+        {
+          "note": "Wikipedia (et)",
+          "url": "https://et.wikipedia.org/wiki/Kalev_Kotkas"
+        }
+      ],
+      "name": "Kalev Kotkas",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Kalev Kotkas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Kalev Kotkas",
+          "note": "multilingual"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.riigikogu.ee/riigikogu/koosseis/riigikogu-liikmed/saadik/6686a6a2-4c7f-4595-bda6-88a593183744/Kalev-Kotkas"
+        }
+      ]
     },
     {
       "birth_date": "1965-09-25",
@@ -6843,9 +6916,38 @@
     },
     {
       "birth_date": "1979-02-05",
+      "contact_details": [
+        {
+          "type": "phone",
+          "value": "631 6478"
+        }
+      ],
       "email": "oudekki.loone@riigikogu.ee",
       "id": "26932bb9-95d0-4259-9d5c-31c9ae3ac5af",
-      "name": "Kerstin-Oudekki Loone"
+      "identifiers": [
+        {
+          "identifier": "5472f8ce-5ad8-432a-b4a6-5ae523e7c8f7",
+          "scheme": "riigikogu"
+        }
+      ],
+      "image": "http://www.riigikogu.ee/wpcms/wp-content/uploads/ems/temp/5ef2f250-7368-4019-8e79-72d677ffcf5d.jpg",
+      "images": [
+        {
+          "url": "http://www.riigikogu.ee/wpcms/wp-content/uploads/ems/temp/5ef2f250-7368-4019-8e79-72d677ffcf5d.jpg"
+        }
+      ],
+      "name": "Kerstin-Oudekki Loone",
+      "other_names": [
+        {
+          "name": "Oudekki Loone",
+          "note": "alternate"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.riigikogu.ee/riigikogu/koosseis/riigikogu-liikmed/saadik/5472f8ce-5ad8-432a-b4a6-5ae523e7c8f7/Oudekki-Loone"
+        }
+      ]
     },
     {
       "birth_date": "1958-08-01",
