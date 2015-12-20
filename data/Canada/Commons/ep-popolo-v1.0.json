@@ -7859,6 +7859,7 @@
       ]
     },
     {
+      "birth_date": "1978-07-27",
       "contact_details": [
         {
           "type": "twitter",
@@ -25798,7 +25799,7 @@
       "birth_date": "1943-07-31",
       "email": "louis.plamondon@parl.gc.ca",
       "gender": "male",
-      "given_name": "Louis, Enano",
+      "given_name": "Louis",
       "id": "263d9b7d-f31d-4bd0-bab9-54365291302a",
       "identifiers": [
         {
@@ -31937,6 +31938,7 @@
         }
       ],
       "email": "Pat.Finnigan@parl.gc.ca",
+      "gender": "male",
       "id": "bfa3d80b-4f94-4405-9560-ec260c8f588e",
       "identifiers": [
         {
@@ -34807,6 +34809,12 @@
         {
           "identifier": "88692",
           "scheme": "represent"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://rameshsangha.ca"
         }
       ],
       "name": "Ramesh Sangha",
