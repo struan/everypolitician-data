@@ -107,6 +107,10 @@
       "name": "Dancia Penn-Sallah",
       "other_names": [
         {
+          "name": "Dancia Penn",
+          "note": "alternate"
+        },
+        {
           "lang": "de",
           "name": "Dancia Penn",
           "note": "multilingual"
@@ -239,6 +243,10 @@
       ],
       "name": "J. Alvin Christopher",
       "other_names": [
+        {
+          "name": "Alvin Christopher",
+          "note": "alternate"
+        },
         {
           "lang": "de",
           "name": "Alvin Christopher",
@@ -468,6 +476,10 @@
       ],
       "name": "Omar Wallace Hodge",
       "other_names": [
+        {
+          "name": "Omar Hodge",
+          "note": "alternate"
+        },
         {
           "lang": "de",
           "name": "Omar Hodge",
@@ -947,12 +959,38 @@
     {
       "classification": "party",
       "id": "party/ndp",
-      "name": "NDP"
+      "identifiers": [
+        {
+          "identifier": "Q6972226",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "NDP",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "National Democratic Party",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/vip",
-      "name": "VIP"
+      "identifiers": [
+        {
+          "identifier": "Q7933937",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "VIP",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Virgin Islands Party",
+          "note": "multilingual"
+        }
+      ]
     }
   ],
   "meta": {
