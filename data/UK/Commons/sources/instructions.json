@@ -18,7 +18,7 @@
       },
       "type": "person",
       "source": "http://data.parliament.uk",
-      "merge": { 
+      "merge": {
         "incoming_field": "id",
         "existing_field": "identifier__datadotparl"
       }
@@ -27,7 +27,7 @@
       "file": "YNMP/winners.csv",
       "type": "person",
       "source": "https://yournextmp.com/",
-      "merge": { 
+      "merge": {
         "incoming_field": "id",
         "existing_field": "id"
       }
@@ -41,21 +41,31 @@
       },
       "source": "http://wikidata.org/",
       "type": "wikidata",
-      "merge": [{
-        "incoming_field": "parlid",
-        "existing_field": "identifier__datadotparl"
-      },
-      {
-        "incoming_field": "wikipedia__en",
-        "existing_field": "wikiname"
-      }]
+      "merge": [
+        {
+          "incoming_field": "parlid",
+          "existing_field": "identifier__datadotparl"
+        },
+        {
+          "incoming_field": "wikipedia__en",
+          "existing_field": "wikiname"
+        }
+      ]
     },
     {
       "file": "manual/emails.csv",
       "type": "person",
-      "merge": { 
+      "merge": {
         "incoming_field": "id",
         "existing_field": "id"
+      }
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "create": {
+        "type": "group-wikidata",
+        "source": "manual/group_wikidata.csv"
       }
     }
   ]
