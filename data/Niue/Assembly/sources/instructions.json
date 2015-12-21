@@ -11,18 +11,18 @@
       "type": "membership"
     },
     {
-      "file": "morph/wikipedia-2014-election.csv",
+      "file": "morph/wikidata.csv",
       "create": {
         "type": "morph",
         "scraper": "tmtmtmtm/niue-election-2014",
-        "query": "SELECT *, REPLACE(LOWER(name),' ','_') AS id FROM data"
+        "query": "SELECT * FROM data ORDER BY id"
       },
-      "source": "https://en.wikipedia.org/w/index.php?title=Niuean_general_election,_2014",
-      "type": "person",
+      "source": "http://wikidata.org/",
+      "type": "wikidata",
       "merge": { 
         "incoming_field": "name",
         "existing_field": "name",
-        "reconciliation_file": "reconciliation/wikipedia-2014-election.csv"
+        "reconciliation_file": "reconciliation/wikidata.csv"
       }
     }
   ]
