@@ -74,9 +74,15 @@ namespace :merge_sources do
     open(url).read
   end
 
+  def _should_refetch(file)
+    return true unless File.exist?(file)
+    return false unless ENV['REBUILD_SOURCE']
+    return file.include? ENV['REBUILD_SOURCE']
+  end
+
   def fetch_missing
     @recreatable.each do |i|
-      unless File.exist? i[:file]
+      if _should_refetch(i[:file])
         c = i[:create]
         FileUtils.mkpath File.dirname i[:file]
         warn "Regenerating #{i[:file]}"
