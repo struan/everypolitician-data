@@ -949,7 +949,25 @@
     {
       "classification": "party",
       "id": "party/hm_horizon_monaco",
-      "name": "HM Horizon Monaco"
+      "identifiers": [
+        {
+          "identifier": "Q19604424",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "HM Horizon Monaco",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Horizon Monaco",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Horizon Monaco",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
@@ -976,7 +994,25 @@
     {
       "classification": "party",
       "id": "party/pfm_(promotion_de_la_famille_monégasque)",
-      "name": "PFM (Promotion de la Famille Monégasque)"
+      "identifiers": [
+        {
+          "identifier": "Q3923911",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "PFM (Promotion de la Famille Monégasque)",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Promotion of the Monegasque Family",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Promozione della famiglia monegasca",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
@@ -986,7 +1022,25 @@
     {
       "classification": "party",
       "id": "party/r_renaissance",
-      "name": "R Renaissance"
+      "identifiers": [
+        {
+          "identifier": "Q18619469",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "R Renaissance",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Renaissance",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Renaissance",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
@@ -996,7 +1050,31 @@
     {
       "classification": "party",
       "id": "party/rpm_(rassemblement_pour_monaco)",
-      "name": "RPM (Rassemblement Pour Monaco)"
+      "identifiers": [
+        {
+          "identifier": "Q3929414",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.rassemblement-enjeux.org/"
+        }
+      ],
+      "name": "RPM (Rassemblement Pour Monaco)",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Rally & Issues",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Raggruppamento & Scommesse",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
@@ -1011,7 +1089,45 @@
     {
       "classification": "party",
       "id": "party/um_union_monégasque",
-      "name": "UM Union Monégasque"
+      "identifiers": [
+        {
+          "identifier": "Q2053150",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "UM Union Monégasque",
+      "other_names": [
+        {
+          "lang": "ru",
+          "name": "Союз за Монако",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Union for Monaco",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Unión por Mónaco",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Unione per Monaco",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Союз за Монако",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Union Monégasque",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
@@ -1021,7 +1137,30 @@
     {
       "classification": "party",
       "id": "party/unam_union_nationale_pour_l'avenir_de_monaco_upm_(union_pour_monaco)",
-      "name": "UNAM Union Nationale pour l'Avenir de Monaco UpM (Union pour Monaco)"
+      "identifiers": [
+        {
+          "identifier": "Q4005613",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "UNAM Union Nationale pour l'Avenir de Monaco UpM (Union pour Monaco)",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "National Union for the Future of Monaco",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Unione nazionale per il futuro di Monaco",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Unión Nacional para el futuro de Mónaco",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
@@ -1031,7 +1170,25 @@
     {
       "classification": "party",
       "id": "party/up_union_pour_la_principauté_upm_(union_pour_monaco)",
-      "name": "UP Union pour la Principauté UpM (Union pour Monaco)"
+      "identifiers": [
+        {
+          "identifier": "Q4005611",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "UP Union pour la Principauté UpM (Union pour Monaco)",
+      "other_names": [
+        {
+          "lang": "it",
+          "name": "Unione per il Principato",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Union for the Principality",
+          "note": "multilingual"
+        }
+      ]
     }
   ],
   "meta": {
