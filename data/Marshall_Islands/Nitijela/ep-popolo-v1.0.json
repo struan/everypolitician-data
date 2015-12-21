@@ -536,7 +536,30 @@
     {
       "classification": "party",
       "id": "AKA",
-      "name": "Aelon Kein Ad"
+      "identifiers": [
+        {
+          "identifier": "Q4687713",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Aelon Kein Ad",
+      "other_names": [
+        {
+          "lang": "sh",
+          "name": "Aelon Kein Ad",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Aelon̄ Kein Ad",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Aelon Kein Ad",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
@@ -546,7 +569,20 @@
     {
       "classification": "party",
       "id": "KEA",
-      "name": "Kien Eo Am"
+      "identifiers": [
+        {
+          "identifier": "Q21808546",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Kien Eo Am",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Kien Eo Am",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "legislature",
@@ -563,12 +599,53 @@
     {
       "classification": "party",
       "id": "UDP",
-      "name": "United Democratic Party"
+      "identifiers": [
+        {
+          "identifier": "Q1566850",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "United Democratic Party",
+      "other_names": [
+        {
+          "lang": "ru",
+          "name": "Объединённая демократическая партия",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Ujedinjena demokratska stranka",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "United Democratic Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be",
+          "name": "Аб'яднаная дэмакратычная партыя, Маршалавы Астравы",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "UPP",
-      "name": "United People's Party"
+      "identifiers": [
+        {
+          "identifier": "Q21808547",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "United People's Party",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "United People's Party",
+          "note": "multilingual"
+        }
+      ]
     }
   ],
   "meta": {
