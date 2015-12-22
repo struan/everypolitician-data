@@ -19,6 +19,14 @@
         "scraper": "duncanparkes/namibia",
         "query": "SELECT *, term_number AS id FROM terms WHERE id LIKE '%Council%'"
       }
+    },
+    {
+      "file": "gender-balance/results.csv",
+      "type": "gender",
+      "create": {
+        "type": "gender-balance",
+        "source": "Namibia/Council"
+      }
     }
   ]
 }
