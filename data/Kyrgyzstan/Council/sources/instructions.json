@@ -19,7 +19,7 @@
       },
       "source": "http://wikidata.org/",
       "type": "wikidata",
-      "merge": { 
+      "merge": {
         "incoming_field": "name__ru",
         "existing_field": "name__ru",
         "reconciliation_file": "reconciliation/wikidata.csv"
@@ -28,6 +28,14 @@
     {
       "file": "manual/terms.csv",
       "type": "term"
+    },
+    {
+      "file": "gender-balance/results.csv",
+      "type": "gender",
+      "create": {
+        "type": "gender-balance",
+        "source": "Kyrgyzstan/Council"
+      }
     }
   ]
 }
