@@ -19,6 +19,14 @@
         "scraper": "tmtmtmtm/ivory-coast-election-results-2011",
         "query": "SELECT * FROM terms"
       }
+    },
+    {
+      "file": "gender-balance/results.csv",
+      "type": "gender",
+      "create": {
+        "type": "gender-balance",
+        "source": "Ivory-Coast/Assembly"
+      }
     }
   ]
 }
