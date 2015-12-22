@@ -19,7 +19,7 @@
       },
       "source": "https://www.wikidata.org/",
       "type": "wikidata",
-      "merge": { 
+      "merge": {
         "incoming_field": "identifier__parlamentdotch",
         "existing_field": "id"
       }
@@ -32,6 +32,14 @@
         "query": "SELECT * FROM terms"
       },
       "type": "term"
+    },
+    {
+      "file": "gender-balance/results.csv",
+      "type": "gender",
+      "create": {
+        "type": "gender-balance",
+        "source": "Switzerland/National-Council"
+      }
     }
   ]
 }
