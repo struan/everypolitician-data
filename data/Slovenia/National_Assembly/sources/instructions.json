@@ -34,6 +34,14 @@
         "scraper": "tmtmtmtm/slovenia-drzhavni-zbor",
         "query": "SELECT * FROM terms"
       }
+    },
+    {
+      "file": "gender-balance/results.csv",
+      "type": "gender",
+      "create": {
+        "type": "gender-balance",
+        "source": "Slovenia/National-Assembly"
+      }
     }
   ]
 }

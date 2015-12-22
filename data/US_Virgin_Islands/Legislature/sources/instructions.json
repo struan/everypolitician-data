@@ -18,10 +18,18 @@
         "query": "SELECT * FROM data"
       },
       "type": "person",
-      "merge": { 
+      "merge": {
         "incoming_field": "name",
         "existing_field": "name",
         "reconciliation_file": "reconciliation/official.csv"
+      }
+    },
+    {
+      "file": "gender-balance/results.csv",
+      "type": "gender",
+      "create": {
+        "type": "gender-balance",
+        "source": "US-Virgin-Islands/Legislature"
       }
     }
   ]

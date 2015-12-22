@@ -17,7 +17,7 @@
         "scraper": "tmtmtmtm/us-congress-members-social-media",
         "query": "SELECT * FROM data ORDER BY id"
       },
-      "merge": { 
+      "merge": {
         "incoming_field": "id",
         "existing_field": "id",
         "report_missing": false
@@ -34,13 +34,16 @@
       },
       "source": "http://wikidata.org/",
       "type": "wikidata",
-      "merge": [{ 
-        "incoming_field": "identifier__uscongress",
-        "existing_field": "identifier__bioguide"
-      },{ 
-        "incoming_field": "wikipedia__en",
-        "existing_field": "identifier__wikipedia"
-      }]
+      "merge": [
+        {
+          "incoming_field": "identifier__uscongress",
+          "existing_field": "identifier__bioguide"
+        },
+        {
+          "incoming_field": "wikipedia__en",
+          "existing_field": "identifier__wikipedia"
+        }
+      ]
     },
     {
       "file": "wikidata/parties.json",
@@ -62,6 +65,14 @@
     {
       "file": "manual/terms.csv",
       "type": "term"
+    },
+    {
+      "file": "gender-balance/results.csv",
+      "type": "gender",
+      "create": {
+        "type": "gender-balance",
+        "source": "United-States-of-America/House"
+      }
     }
   ]
 }

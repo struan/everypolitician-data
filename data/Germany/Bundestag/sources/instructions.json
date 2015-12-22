@@ -19,7 +19,7 @@
       },
       "source": "http://wikidata.org/",
       "type": "wikidata",
-      "merge": { 
+      "merge": {
         "existing_field": "identifier__wikipedia_de",
         "incoming_field": "original_wikiname"
       }
@@ -27,6 +27,14 @@
     {
       "file": "manual/terms.csv",
       "type": "term"
+    },
+    {
+      "file": "gender-balance/results.csv",
+      "type": "gender",
+      "create": {
+        "type": "gender-balance",
+        "source": "Germany/Bundestag"
+      }
     }
   ]
 }

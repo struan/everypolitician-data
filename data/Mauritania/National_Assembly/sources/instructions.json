@@ -19,6 +19,14 @@
         "scraper": "tmtmtmtm/mauritania-assembly",
         "query": "SELECT * FROM terms"
       }
+    },
+    {
+      "file": "gender-balance/results.csv",
+      "type": "gender",
+      "create": {
+        "type": "gender-balance",
+        "source": "Mauritania/National-Assembly"
+      }
     }
   ]
 }

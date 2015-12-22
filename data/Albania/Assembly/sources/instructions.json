@@ -29,7 +29,7 @@
       },
       "source": "http://www.parlament.al/",
       "type": "person",
-      "merge": { 
+      "merge": {
         "incoming_field": "name",
         "existing_field": "name",
         "reconciliation_file": "reconciliation/official-8.csv"
@@ -44,7 +44,7 @@
       },
       "source": "http://wikidata.org/",
       "type": "wikidata",
-      "merge": { 
+      "merge": {
         "incoming_field": "name",
         "existing_field": "name",
         "reconciliation_file": "reconciliation/wikidata.csv"
@@ -53,6 +53,14 @@
     {
       "file": "manual/terms.csv",
       "type": "term"
+    },
+    {
+      "file": "gender-balance/results.csv",
+      "type": "gender",
+      "create": {
+        "type": "gender-balance",
+        "source": "Albania/Assembly"
+      }
     }
   ]
 }

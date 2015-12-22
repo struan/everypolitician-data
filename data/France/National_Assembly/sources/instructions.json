@@ -19,11 +19,19 @@
       },
       "source": "https://fr.wikipedia.org/wiki/Cat%C3%A9gorie:D%C3%A9put%C3%A9_de_la_XIVe_l%C3%A9gislature_de_la_Ve_R%C3%A9publique",
       "type": "wikidata",
-      "merge": { 
+      "merge": {
         "incoming_field": "name",
         "existing_field": "name",
         "reconciliation_file": "reconciliation/wikidata.csv",
         "report_missing": false
+      }
+    },
+    {
+      "file": "gender-balance/results.csv",
+      "type": "gender",
+      "create": {
+        "type": "gender-balance",
+        "source": "France/National-Assembly"
       }
     }
   ]

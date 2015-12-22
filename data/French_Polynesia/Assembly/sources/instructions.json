@@ -19,6 +19,14 @@
         "scraper": "tmtmtmtm/french-polynesia-assembly",
         "query": "SELECT * FROM terms"
       }
+    },
+    {
+      "file": "gender-balance/results.csv",
+      "type": "gender",
+      "create": {
+        "type": "gender-balance",
+        "source": "French-Polynesia/Assembly"
+      }
     }
   ]
 }

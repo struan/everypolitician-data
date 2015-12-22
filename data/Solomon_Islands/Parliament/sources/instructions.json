@@ -19,7 +19,7 @@
       },
       "source": "http://www.parliament.gov.sb/index.php?q=node/833",
       "type": "person",
-      "merge": { 
+      "merge": {
         "incoming_field": "name",
         "existing_field": "name",
         "reconciliation_file": "reconciliation/gov.csv"
@@ -34,7 +34,7 @@
       },
       "source": "http://wikidata.org/",
       "type": "wikidata",
-      "merge": { 
+      "merge": {
         "incoming_field": "name",
         "existing_field": "name",
         "reconciliation_file": "reconciliation/wikidata.csv"
@@ -48,6 +48,14 @@
         "query": "SELECT * FROM terms"
       },
       "type": "term"
+    },
+    {
+      "file": "gender-balance/results.csv",
+      "type": "gender",
+      "create": {
+        "type": "gender-balance",
+        "source": "Solomon-Islands/Parliament"
+      }
     }
   ]
 }

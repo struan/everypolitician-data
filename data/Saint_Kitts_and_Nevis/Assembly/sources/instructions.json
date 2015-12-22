@@ -19,9 +19,17 @@
       },
       "source": "http://wikidata.org/",
       "type": "wikidata",
-      "merge": { 
+      "merge": {
         "incoming_field": "wikipedia__en",
         "existing_field": "wikiname"
+      }
+    },
+    {
+      "file": "gender-balance/results.csv",
+      "type": "gender",
+      "create": {
+        "type": "gender-balance",
+        "source": "Saint-Kitts-and-Nevis/Assembly"
       }
     }
   ]

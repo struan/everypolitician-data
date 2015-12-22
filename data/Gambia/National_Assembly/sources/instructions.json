@@ -9,6 +9,14 @@
       },
       "source": "http://www.assembly.gov.gm/",
       "type": "membership"
+    },
+    {
+      "file": "gender-balance/results.csv",
+      "type": "gender",
+      "create": {
+        "type": "gender-balance",
+        "source": "Gambia/National-Assembly"
+      }
     }
   ]
 }

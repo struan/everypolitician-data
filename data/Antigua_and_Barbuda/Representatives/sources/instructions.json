@@ -19,6 +19,14 @@
         "scraper": "tmtmtmtm/antigua-barbuda-election-centre",
         "query": "SELECT * FROM terms"
       }
+    },
+    {
+      "file": "gender-balance/results.csv",
+      "type": "gender",
+      "create": {
+        "type": "gender-balance",
+        "source": "Antigua-and-Barbuda/Representatives"
+      }
     }
   ]
 }

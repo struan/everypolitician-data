@@ -19,7 +19,7 @@
       },
       "source": "http://www.falklands.gov.fk/self-governance/legislative/assembly-members/",
       "type": "person",
-      "merge": { 
+      "merge": {
         "incoming_field": "name",
         "existing_field": "name",
         "reconciliation_file": "reconciliation/official.csv"
@@ -33,7 +33,7 @@
         "query": "SELECT * FROM data"
       },
       "type": "wikidata",
-      "merge": { 
+      "merge": {
         "incoming_field": "name",
         "existing_field": "name",
         "reconciliation_file": "reconciliation/wikidata.csv"
@@ -47,6 +47,14 @@
         "query": "SELECT *, ID as start_date, ID + 4 AS end_date FROM terms"
       },
       "type": "term"
+    },
+    {
+      "file": "gender-balance/results.csv",
+      "type": "gender",
+      "create": {
+        "type": "gender-balance",
+        "source": "Falkland-Islands/Assembly"
+      }
     }
   ]
 }

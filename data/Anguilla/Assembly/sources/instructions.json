@@ -27,6 +27,14 @@
         "type": "group-wikidata",
         "source": "manual/group_wikidata.csv"
       }
+    },
+    {
+      "file": "gender-balance/results.csv",
+      "type": "gender",
+      "create": {
+        "type": "gender-balance",
+        "source": "Anguilla/Assembly"
+      }
     }
   ]
 }

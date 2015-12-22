@@ -18,6 +18,14 @@
         "query": "SELECT * FROM terms"
       },
       "type": "term"
+    },
+    {
+      "file": "gender-balance/results.csv",
+      "type": "gender",
+      "create": {
+        "type": "gender-balance",
+        "source": "Saint-Vincent-and-the-Grenadines/Assembly"
+      }
     }
   ]
 }

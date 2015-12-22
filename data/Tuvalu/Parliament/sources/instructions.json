@@ -18,7 +18,7 @@
         "query": "SELECT * FROM data"
       },
       "type": "wikidata",
-      "merge": { 
+      "merge": {
         "incoming_field": "name",
         "existing_field": "name"
       }
@@ -31,6 +31,14 @@
         "query": "SELECT * FROM terms"
       },
       "type": "term"
+    },
+    {
+      "file": "gender-balance/results.csv",
+      "type": "gender",
+      "create": {
+        "type": "gender-balance",
+        "source": "Tuvalu/Parliament"
+      }
     }
   ]
 }

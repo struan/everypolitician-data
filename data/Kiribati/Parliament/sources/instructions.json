@@ -9,6 +9,14 @@
       },
       "source": "https://morph.io/tmtmtmtm/kiribati-parliament",
       "type": "membership"
+    },
+    {
+      "file": "gender-balance/results.csv",
+      "type": "gender",
+      "create": {
+        "type": "gender-balance",
+        "source": "Kiribati/Parliament"
+      }
     }
   ]
 }

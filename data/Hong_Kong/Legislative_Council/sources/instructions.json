@@ -19,7 +19,7 @@
       },
       "source": "http://wikidata.org/",
       "type": "wikidata",
-      "merge": { 
+      "merge": {
         "incoming_field": "name",
         "existing_field": "name",
         "reconciliation_file": "reconciliation/wikidata.csv"
@@ -33,6 +33,14 @@
         "type": "morph",
         "scraper": "struan/hong_kong_legislative_council_members",
         "query": "SELECT * FROM terms"
+      }
+    },
+    {
+      "file": "gender-balance/results.csv",
+      "type": "gender",
+      "create": {
+        "type": "gender-balance",
+        "source": "Hong-Kong/Legislative-Council"
       }
     }
   ]

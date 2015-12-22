@@ -19,6 +19,14 @@
         "scraper": "tmtmtmtm/dominican-republic-deputies",
         "query": "SELECT * FROM terms"
       }
+    },
+    {
+      "file": "gender-balance/results.csv",
+      "type": "gender",
+      "create": {
+        "type": "gender-balance",
+        "source": "Dominican-Republic/Diputados"
+      }
     }
   ]
 }

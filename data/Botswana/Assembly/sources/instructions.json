@@ -19,7 +19,7 @@
       },
       "source": "http://www.parliament.gov.bw/",
       "type": "person",
-      "merge": { 
+      "merge": {
         "incoming_field": "name",
         "existing_field": "name",
         "reconciliation_file": "reconciliation/official.csv"
@@ -34,7 +34,7 @@
       },
       "source": "https://www.wikidata.org/",
       "type": "wikidata",
-      "merge": { 
+      "merge": {
         "incoming_field": "wikipedia__en",
         "existing_field": "wikiname"
       }
@@ -42,6 +42,14 @@
     {
       "file": "manual/terms.csv",
       "type": "term"
+    },
+    {
+      "file": "gender-balance/results.csv",
+      "type": "gender",
+      "create": {
+        "type": "gender-balance",
+        "source": "Botswana/Assembly"
+      }
     }
   ]
 }

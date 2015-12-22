@@ -19,7 +19,7 @@
       },
       "source": "http://wikidata.org/",
       "type": "wikidata",
-      "merge": { 
+      "merge": {
         "incoming_field": "name__mn",
         "existing_field": "name__mn"
       }
@@ -27,6 +27,14 @@
     {
       "file": "manual/terms.csv",
       "type": "term"
+    },
+    {
+      "file": "gender-balance/results.csv",
+      "type": "gender",
+      "create": {
+        "type": "gender-balance",
+        "source": "Mongolia/Assembly"
+      }
     }
   ]
 }

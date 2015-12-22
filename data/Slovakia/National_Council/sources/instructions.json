@@ -19,6 +19,14 @@
         "scraper": "tmtmtmtm/slovakia-national-council",
         "query": "SELECT * FROM terms"
       }
+    },
+    {
+      "file": "gender-balance/results.csv",
+      "type": "gender",
+      "create": {
+        "type": "gender-balance",
+        "source": "Slovakia/National-Council"
+      }
     }
   ]
 }

@@ -19,7 +19,7 @@
       },
       "source": "https://www.wikidata.org/",
       "type": "wikidata",
-      "merge": { 
+      "merge": {
         "incoming_field": "wikipedia__fr",
         "existing_field": "wikiname"
       }
@@ -27,6 +27,14 @@
     {
       "file": "manual/terms.csv",
       "type": "term"
+    },
+    {
+      "file": "gender-balance/results.csv",
+      "type": "gender",
+      "create": {
+        "type": "gender-balance",
+        "source": "Saint-Pierre-and-Miquelon/Territorial-Council"
+      }
     }
   ]
 }

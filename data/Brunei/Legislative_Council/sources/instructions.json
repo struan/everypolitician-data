@@ -19,6 +19,14 @@
         "scraper": "chrismytton/brunei-legislative-council",
         "query": "SELECT * FROM terms"
       }
+    },
+    {
+      "file": "gender-balance/results.csv",
+      "type": "gender",
+      "create": {
+        "type": "gender-balance",
+        "source": "Brunei/Legislative-Council"
+      }
     }
   ]
 }

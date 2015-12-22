@@ -49,6 +49,14 @@
         "incoming_field": "wikipedia__en",
         "existing_field": "wikipedia_name"
       }
+    },
+    {
+      "file": "gender-balance/results.csv",
+      "type": "gender",
+      "create": {
+        "type": "gender-balance",
+        "source": "Gibraltar/Parliament"
+      }
     }
   ]
 }

@@ -19,6 +19,14 @@
         "scraper": "tmtmtmtm/montseratt-election-2014",
         "query": "SELECT * FROM terms"
       }
+    },
+    {
+      "file": "gender-balance/results.csv",
+      "type": "gender",
+      "create": {
+        "type": "gender-balance",
+        "source": "Montserrat/Assembly"
+      }
     }
   ]
 }

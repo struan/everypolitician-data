@@ -18,7 +18,7 @@
         "query": "SELECT * FROM data"
       },
       "type": "person",
-      "merge": { 
+      "merge": {
         "incoming_field": "id",
         "existing_field": "id"
       }
@@ -31,7 +31,7 @@
         "query": "SELECT *, REPLACE(LOWER(name),' ','_') AS id FROM data"
       },
       "type": "person",
-      "merge": { 
+      "merge": {
         "incoming_field": "name",
         "existing_field": "name",
         "reconciliation_file": "reconciliation/wikimedia.csv"
@@ -45,7 +45,7 @@
         "query": "SELECT * FROM data"
       },
       "type": "wikidata",
-      "merge": { 
+      "merge": {
         "incoming_field": "wikipedia__en",
         "existing_field": "wikiname"
       }
@@ -53,6 +53,14 @@
     {
       "file": "manual/terms.csv",
       "type": "term"
+    },
+    {
+      "file": "gender-balance/results.csv",
+      "type": "gender",
+      "create": {
+        "type": "gender-balance",
+        "source": "Costa-Rica/Assembly"
+      }
     }
   ]
 }

@@ -18,6 +18,14 @@
         "scraper": "struan/japan",
         "query": "SELECT * FROM terms"
       }
+    },
+    {
+      "file": "gender-balance/results.csv",
+      "type": "gender",
+      "create": {
+        "type": "gender-balance",
+        "source": "Japan/House-of-Representatives"
+      }
     }
   ]
 }
