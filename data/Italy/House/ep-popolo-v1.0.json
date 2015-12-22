@@ -18747,7 +18747,7 @@
           "value": "https://twitter.com/#!/F_DUva"
         }
       ],
-      "email": "duva_f@camera.it",
+      "email": "DUVA_F@CAMERA.IT",
       "family_name": "D'Uva",
       "gender": "male",
       "given_name": "Francesco",
@@ -21011,6 +21011,10 @@
         {
           "identifier": "IT\\ICCU\\CFIV\\274961",
           "scheme": "sbn_it"
+        },
+        {
+          "identifier": "307345137",
+          "scheme": "viaf"
         },
         {
           "identifier": "Q3846070",
@@ -25186,6 +25190,11 @@
         {
           "lang": "fr",
           "name": "Dario Franceschini",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hy",
+          "name": "Դարիո Ֆրանչեսկինի",
           "note": "multilingual"
         },
         {
@@ -38833,6 +38842,11 @@
         {
           "lang": "it",
           "name": "Giorgia Meloni",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ジョルジャ・メローニ",
           "note": "multilingual"
         },
         {
@@ -58502,11 +58516,6 @@
     },
     {
       "classification": "party",
-      "id": "party/movimento_5_stelle",
-      "name": "Movimento 5 stelle"
-    },
-    {
-      "classification": "party",
       "id": "party/nuovo_centrodestra",
       "name": "NUOVO CENTRODESTRA"
     },
@@ -59587,7 +59596,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/sicilia_2",
+      "area_id": "XXV",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/movimento_5_stelle",
       "organization_id": "legislature",
@@ -62969,11 +62978,21 @@
     },
     {
       "area_id": "XXV",
+      "end_date": "2015-12-14",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/partito_democratico",
       "organization_id": "legislature",
       "person_id": "98ac8a4c-ffdc-4484-880d-eb7d5d3a17b2",
       "role": "member"
+    },
+    {
+      "area_id": "XXV",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/forza_italia_-_il_popolo_della_liberta'_-_berlusconi_presidente",
+      "organization_id": "legislature",
+      "person_id": "98ac8a4c-ffdc-4484-880d-eb7d5d3a17b2",
+      "role": "member",
+      "start_date": "2015-12-15"
     },
     {
       "area_id": "III",
@@ -66465,11 +66484,6 @@
     {
       "id": "area/lazio_1",
       "name": "Lazio 1",
-      "type": "constituency"
-    },
-    {
-      "id": "area/sicilia_2",
-      "name": "Sicilia 2",
       "type": "constituency"
     }
   ]
