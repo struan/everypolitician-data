@@ -10,9 +10,9 @@
       "source": "https://morph.io/tmtmtmtm/belarus-house-of-representatives",
       "type": "membership"
     },
-    { 
+    {
       "file": "manual/overrides.csv",
-      "type": "person", 
+      "type": "person",
       "merge": {
         "incoming_field": "id",
         "existing_field": "id"
@@ -27,7 +27,7 @@
       },
       "source": "http://wikidata.org/",
       "type": "wikidata",
-      "merge": { 
+      "merge": {
         "incoming_field": "name",
         "existing_field": "name",
         "reconciliation_file": "reconciliation/wikidata.csv"
@@ -36,6 +36,14 @@
     {
       "file": "manual/terms.csv",
       "type": "term"
+    },
+    {
+      "file": "gender-balance/results.csv",
+      "type": "gender",
+      "create": {
+        "type": "gender-balance",
+        "source": "Belarus/Chamber"
+      }
     }
   ]
 }
