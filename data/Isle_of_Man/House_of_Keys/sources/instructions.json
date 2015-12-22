@@ -19,7 +19,7 @@
       },
       "source": "http://www.tynwald.org.im/memoff/member/Pages/default.aspx",
       "type": "person",
-      "merge": { 
+      "merge": {
         "incoming_field": "name",
         "existing_field": "name",
         "reconciliation_file": "reconciliation/images.csv"
@@ -34,13 +34,18 @@
       },
       "source": "http://wikidata.org/",
       "type": "wikidata",
-      "merge": { 
+      "merge": {
         "incoming_field": "wikipedia__en",
         "existing_field": "wikipedia__en"
       }
+    },
+    {
+      "file": "gender-balance/results.csv",
+      "type": "gender",
+      "create": {
+        "type": "gender-balance",
+        "source": "Isle-of-Man/House-of-Keys"
+      }
     }
-
   ]
 }
-
-
