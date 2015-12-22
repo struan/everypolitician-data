@@ -29,14 +29,17 @@
       },
       "source": "https://morph.io/tmtmtmtm/represent-ca",
       "type": "person",
-      "merge": [{
-        "incoming_field": "id",
-        "existing_field": "id"
-      }, {
-        "incoming_field": "name",
-        "existing_field": "name",
-        "reconciliation_file": "reconciliation/represent-42.csv"
-      }]
+      "merge": [
+        {
+          "incoming_field": "id",
+          "existing_field": "id"
+        },
+        {
+          "incoming_field": "name",
+          "existing_field": "name",
+          "reconciliation_file": "reconciliation/represent-42.csv"
+        }
+      ]
     },
     {
       "file": "morph/wikidata.csv",
@@ -62,6 +65,14 @@
       "create": {
         "type": "group-wikidata",
         "source": "manual/group_wikidata.csv"
+      }
+    },
+    {
+      "file": "gender-balance/results.csv",
+      "type": "gender",
+      "create": {
+        "type": "gender-balance",
+        "source": "Canada/Commons"
       }
     }
   ]
