@@ -19,6 +19,14 @@
         "scraper": "tmtmtmtm/san_marino_council",
         "query": "SELECT * FROM terms"
       }
+    },
+    {
+      "file": "gender-balance/results.csv",
+      "type": "gender",
+      "create": {
+        "type": "gender-balance",
+        "source": "San-Marino/Council"
+      }
     }
   ]
 }
