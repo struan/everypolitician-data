@@ -19,6 +19,14 @@
         "scraper": "tmtmtmtm/djibouti-election-2013",
         "query": "SELECT * FROM terms"
       }
+    },
+    {
+      "file": "gender-balance/results.csv",
+      "type": "gender",
+      "create": {
+        "type": "gender-balance",
+        "source": "Djibouti/Assembly"
+      }
     }
   ]
 }
