@@ -302,7 +302,7 @@ namespace :merge_sources do
         r[:gender] = winner.first.to_s 
         gb_votes += 1
       end
-      puts "⚥ #{gb_votes}".cyan unless gb_votes.zero?
+      puts "⚥ #{gb_votes}".cyan 
     end
 
     # Map Areas
