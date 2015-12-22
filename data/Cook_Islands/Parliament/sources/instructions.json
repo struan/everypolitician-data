@@ -19,7 +19,7 @@
       },
       "source": "http://wikidata.org/",
       "type": "wikidata",
-      "merge": { 
+      "merge": {
         "incoming_field": "original_wikiname",
         "existing_field": "wikiname"
       }
@@ -27,6 +27,14 @@
     {
       "file": "manual/terms.csv",
       "type": "term"
+    },
+    {
+      "file": "gender-balance/results.csv",
+      "type": "gender",
+      "create": {
+        "type": "gender-balance",
+        "source": "Cook-Islands/Parliament"
+      }
     }
   ]
 }
