@@ -10,7 +10,7 @@
       "source": "https://nl.wikipedia.org/",
       "type": "membership"
     },
-  {
+    {
       "file": "morph/data.csv",
       "create": {
         "type": "morph",
@@ -19,7 +19,7 @@
       },
       "source": "http://www.lachambre.be/",
       "type": "person",
-      "merge": { 
+      "merge": {
         "incoming_field": "name",
         "existing_field": "name",
         "reconciliation_file": "reconciliation/data.csv"
@@ -33,7 +33,7 @@
         "query": "SELECT * FROM data"
       },
       "type": "wikidata",
-      "merge": { 
+      "merge": {
         "incoming_field": "original_wikiname",
         "existing_field": "wikiname__nl"
       }
@@ -46,6 +46,14 @@
         "query": "SELECT * FROM terms"
       },
       "type": "terms"
+    },
+    {
+      "file": "gender-balance/results.csv",
+      "type": "gender",
+      "create": {
+        "type": "gender-balance",
+        "source": "Belgium/Representatives"
+      }
     }
   ]
 }
