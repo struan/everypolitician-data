@@ -19,6 +19,14 @@
         "scraper": "tmtmtmtm/kosovo-parldata",
         "query": "SELECT * FROM terms"
       }
+    },
+    {
+      "file": "gender-balance/results.csv",
+      "type": "gender",
+      "create": {
+        "type": "gender-balance",
+        "source": "Kosovo/Assembly"
+      }
     }
   ]
 }
