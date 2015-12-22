@@ -19,6 +19,14 @@
         "scraper": "tmtmtmtm/BiH-assembly",
         "query": "SELECT * FROM terms"
       }
+    },
+    {
+      "file": "gender-balance/results.csv",
+      "type": "gender",
+      "create": {
+        "type": "gender-balance",
+        "source": "Bosnia-and-Herzegovina/House-of-Representatives"
+      }
     }
   ]
 }
