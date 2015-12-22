@@ -19,6 +19,14 @@
         "scraper": "tmtmtmtm/india-lok-sabha",
         "query": "SELECT * FROM terms"
       }
+    },
+    {
+      "file": "gender-balance/results.csv",
+      "type": "gender",
+      "create": {
+        "type": "gender-balance",
+        "source": "India/Lok-Sabha"
+      }
     }
   ]
 }
