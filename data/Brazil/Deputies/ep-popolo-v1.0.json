@@ -711,6 +711,34 @@
       "contact_details": [
         {
           "type": "phone",
+          "value": "(61) 3215-5554 - 3215-2554"
+        }
+      ],
+      "email": "dep.alexandreserfiotis@camara.leg.br",
+      "id": "b5873819-018b-484c-a567-d1aa066a1786",
+      "identifiers": [
+        {
+          "identifier": "5830747",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.camara.gov.br/internet/deputado/bandep/178833.jpg",
+      "images": [
+        {
+          "url": "http://www.camara.gov.br/internet/deputado/bandep/178833.jpg"
+        }
+      ],
+      "name": "ALEXANDRE SERFIOTIS",
+      "sources": [
+        {
+          "url": "http://www.camara.gov.br/internet/deputado/Dep_Detalhe.asp?id=5830747"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "phone",
           "value": "(61) 3215-5587 - 32152587"
         }
       ],
@@ -20014,6 +20042,14 @@
       "on_behalf_of_id": "SD",
       "organization_id": "legislature",
       "person_id": "b5657f51-a6b2-4c73-a3fb-796248a4825e",
+      "role": "member"
+    },
+    {
+      "area_id": "area/rj",
+      "legislative_period_id": "term/55",
+      "on_behalf_of_id": "PSD",
+      "organization_id": "legislature",
+      "person_id": "b5873819-018b-484c-a567-d1aa066a1786",
       "role": "member"
     },
     {
