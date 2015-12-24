@@ -193,9 +193,19 @@ jQuery(function($) {
       var person = existing[0];
       person.matchStrength = Math.ceil(existing[1] * 100);
       var fields = _.intersection(incomingPersonFields, Object.keys(person));
+
+      var incomingNameWords = incomingPerson[window.incomingField].toLowerCase().split(/\s+/);
+      var markedName = _.map(person[window.existingField].split(/\s+/), function(word){
+        if (_.contains(incomingNameWords, word.toLowerCase())) { 
+          return '<span class="match">' + word + '</span>'
+        } else { 
+          return word
+        }
+      }).join(" ");
+      
       return renderTemplate('person', {
         person: person,
-        h1_name: person[window.existingField],
+        h1_name: markedName,
         comparison: incomingPerson,
         fields: fields
       });
