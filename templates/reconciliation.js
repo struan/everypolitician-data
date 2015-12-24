@@ -193,10 +193,20 @@ jQuery(function($) {
       var person = existing[0];
       person.matchStrength = Math.ceil(existing[1] * 100);
       var fields = _.intersection(incomingPersonFields, Object.keys(person));
+
+      var incomingNameWords = incomingPerson[window.incomingField].toLowerCase().split(/\s+/);
+      var markedName = _.map(person[window.existingField].split(/\s+/), function(word){
+        if (_.contains(incomingNameWords, word.toLowerCase())) { 
+          return '<span class="match">' + word + '</span>'
+        } else { 
+          return word
+        }
+      }).join(" ");
+      
       return renderTemplate('person', {
         person: person,
+        h1_name: markedName,
         comparison: incomingPerson,
-        field: window.existingField,
         fields: fields
       });
     });
@@ -212,8 +222,8 @@ jQuery(function($) {
       existingPersonHTML: existingPersonHTML.join("\n"),
       incomingPersonHTML: renderTemplate('person', {
         person: incomingPerson,
+        h1_name: incomingPerson[window.incomingField],
         comparison: null,
-        field: window.incomingField,
         fields: commonFields
       })
     });

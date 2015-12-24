@@ -68,14 +68,13 @@
       {% } %}
           {% if (person.matchStrength) { %}
             <header class="person__meta">
-              <h1>
-                {{ person[field] || person.name }}
+              <h1>{{ h1_name }}
                 <span class="person__match-strength">{{ person.matchStrength }}% match</span>
               </h1>
               <div class="progress-bar"><div style="width: {{ person.matchStrength }}%"></div></div>
             </header>
           {% } else { %}
-            <h1>{{ person[field] || person.name }}</h1>
+            <h1>{{ h1_name }}</h1>
           {% } %}
             <dl>
               {% fields.forEach(function(field) { %}
