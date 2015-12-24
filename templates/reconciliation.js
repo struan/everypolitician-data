@@ -195,8 +195,8 @@ jQuery(function($) {
       var fields = _.intersection(incomingPersonFields, Object.keys(person));
       return renderTemplate('person', {
         person: person,
+        h1_name: person[window.existingField],
         comparison: incomingPerson,
-        field: window.existingField,
         fields: fields
       });
     });
@@ -212,8 +212,8 @@ jQuery(function($) {
       existingPersonHTML: existingPersonHTML.join("\n"),
       incomingPersonHTML: renderTemplate('person', {
         person: incomingPerson,
+        h1_name: incomingPerson[window.incomingField],
         comparison: null,
-        field: window.incomingField,
         fields: commonFields
       })
     });
