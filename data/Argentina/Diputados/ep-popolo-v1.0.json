@@ -757,6 +757,10 @@
         {
           "identifier": "ccarrizo",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q21855237",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www4.hcdn.gob.ar/fotos/ccarrizo.jpg",
@@ -765,7 +769,24 @@
           "url": "http://www4.hcdn.gob.ar/fotos/ccarrizo.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Carla_Carrizo"
+        }
+      ],
       "name": "ANA CARLA CARRIZO",
+      "other_names": [
+        {
+          "name": "Carla Carrizo",
+          "note": "alternate"
+        },
+        {
+          "lang": "es",
+          "name": "Carla Carrizo",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "CARRIZO, ANA CARLA",
       "sources": [
         {
@@ -2657,7 +2678,7 @@
         },
         {
           "lang": "en",
-          "name": "Elisa Descarrio",
+          "name": "Ellisa Carrió",
           "note": "multilingual"
         },
         {
@@ -2922,6 +2943,10 @@
         {
           "identifier": "fsturzenegger",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "170944190",
+          "scheme": "gnd"
         },
         {
           "identifier": "050229427",
@@ -3549,7 +3574,7 @@
       ]
     },
     {
-      "birth_date": "1973-01-01",
+      "birth_date": "1973-05-30",
       "contact_details": [
         {
           "type": "phone",
@@ -8484,6 +8509,7 @@
       ]
     },
     {
+      "birth_date": "1971-09-07",
       "contact_details": [
         {
           "type": "phone",
@@ -8497,6 +8523,10 @@
         {
           "identifier": "mtundis",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q20016052",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www4.hcdn.gob.ar/fotos/mtundis.jpg",
@@ -8505,7 +8535,30 @@
           "url": "http://www4.hcdn.gob.ar/fotos/mtundis.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Mirta_Tundis"
+        }
+      ],
       "name": "MIRTA TUNDIS",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Mirta Tundis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Mirta Tundis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Mirta Tundis",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "TUNDIS, MIRTA",
       "sources": [
         {
@@ -10586,7 +10639,22 @@
           "note": "alternate"
         },
         {
+          "lang": "ca",
+          "name": "Sandra Mendoza",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Sandra Mendoza",
+          "note": "multilingual"
+        },
+        {
           "lang": "es",
+          "name": "Sandra Mendoza",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
           "name": "Sandra Mendoza",
           "note": "multilingual"
         },
