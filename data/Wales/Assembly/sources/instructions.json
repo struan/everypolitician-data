@@ -4,10 +4,10 @@
       "file": "morph/data.csv",
       "create": {
         "type": "morph",
-        "scraper": "duncanparkes/welsh_assembly_members",
-        "query": "SELECT *, 4 AS term FROM data ORDER BY id"
+        "scraper": "tmtmtmtm/welsh-assembly",
+        "query": "SELECT * FROM data ORDER BY id"
       },
-      "source": "https://morph.io/duncanparkes/welsh_assembly_members",
+      "source": "http://www.assembly.wales/",
       "type": "membership"
     },
     {
