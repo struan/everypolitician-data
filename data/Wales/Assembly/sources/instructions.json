@@ -5,7 +5,7 @@
       "create": {
         "type": "morph",
         "scraper": "duncanparkes/welsh_assembly_members",
-        "query": "SELECT *, 4 AS term FROM data"
+        "query": "SELECT *, 4 AS term FROM data ORDER BY id"
       },
       "source": "https://morph.io/duncanparkes/welsh_assembly_members",
       "type": "membership"
