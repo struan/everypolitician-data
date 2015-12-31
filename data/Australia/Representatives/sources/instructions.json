@@ -5,7 +5,7 @@
       "create": {
         "type": "morph",
         "scraper": "tmtmtmtm/australia-openaustralia",
-        "query": "SELECT *, id AS identifier__openaustralia FROM data"
+        "query": "SELECT *, id AS identifier__openaustralia FROM data ORDER BY id"
       },
       "source": "http://data.openaustralia.org/",
       "type": "membership"
@@ -15,7 +15,7 @@
       "create": {
         "type": "morph",
         "scraper": "openaustralia/aus_mp_contact_details",
-        "query": "SELECT aph_id, photo_url AS photo, email, facebook, website FROM data WHERE house = 'representatives'"
+        "query": "SELECT aph_id, photo_url AS photo, email, facebook, website FROM data WHERE house = 'representatives' ORDER BY aph_id"
       },
       "merge": {
         "incoming_field": "aph_id",
@@ -29,7 +29,7 @@
       "create": {
         "type": "morph",
         "scraper": "tmtmtmtm/australia-house-of-representatives-wikidata",
-        "query": "SELECT * FROM data"
+        "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "http://wikidata.org/",
       "type": "wikidata",
