@@ -706,15 +706,48 @@
     },
     {
       "family_name": "Ramírez del Molino Morán",
+      "gender": "male",
       "given_name": "Alejandro",
       "id": "f1b41db5-d3cf-4b2a-a8ef-21dcf8844c4f",
       "identifiers": [
         {
           "identifier": "216",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q5665425",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/52/Alramo.JPG",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Alramo.JPG"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Alejandro_Ramírez_del_Molino_Morán"
         }
       ],
       "name": "Alejandro Ramírez",
+      "other_names": [
+        {
+          "name": "Alejandro Ramírez del Molino Morán",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Alejandro Ramírez del Molino Morán",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Alejandro Ramírez del Molino Morán",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Ramírez del Molino Morán, Alejandro",
       "sources": [
         {
@@ -8938,16 +8971,67 @@
       ]
     },
     {
+      "birth_date": "1965-07-31",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "Ignacos"
+        }
+      ],
       "family_name": "Cosidó Gutiérrez",
+      "gender": "male",
       "given_name": "Ignacio",
       "id": "4545e3ff-c449-41ea-bc56-e4425eea8df9",
       "identifiers": [
         {
+          "identifier": "16574334d",
+          "scheme": "bnf"
+        },
+        {
           "identifier": "140",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "185812619",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "36170050",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q5913172",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Ignacio_Cosidó_Gutiérrez"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Ignacio_Cosidó"
         }
       ],
       "name": "Ignacio Cosidó",
+      "other_names": [
+        {
+          "lang": "ca",
+          "name": "Ignacio Cosidó Gutiérrez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Ignacio Cosidó",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Ignacio Cosidó",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Cosidó Gutiérrez, Ignacio",
       "sources": [
         {
@@ -10769,6 +10853,7 @@
       ]
     },
     {
+      "birth_date": "1959-01-04",
       "contact_details": [
         {
           "type": "twitter",
@@ -10777,15 +10862,80 @@
       ],
       "email": "joaquim.puig@congreso.es",
       "family_name": "Puig Ferrer",
+      "gender": "male",
       "given_name": "Joaquín Francisco",
       "id": "5a0855c2-bfdd-4b52-9fc2-61105ab16edb",
       "identifiers": [
         {
           "identifier": "17",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q9096682",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Ximo_Puig_2015.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Ximo_Puig_2015.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Ximo_Puig"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ximo_Puig"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Ximo_Puig"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Ximo_Puig"
         }
       ],
       "name": "Joaquín Francisco Puig",
+      "other_names": [
+        {
+          "name": "Ximo Puig",
+          "note": "alternate"
+        },
+        {
+          "lang": "ca",
+          "name": "Joaquim Puig Ferrer",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Τσίμο Πουτς",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Ximo Puig",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Ximo Puig",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Ximo Puig",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Ximo Puig",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Puig Ferrer, Joaquín Francisco",
       "sources": [
         {
@@ -16950,17 +17100,63 @@
       ]
     },
     {
+      "birth_date": "1979-07-11",
       "email": "mariagv@congreso.es",
       "family_name": "González Veracruz",
+      "gender": "female",
       "given_name": "María",
       "id": "2ed69861-338f-410a-8820-5435fc0f543e",
       "identifiers": [
         {
           "identifier": "104",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q5997280",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:María_González_Veracruz"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/María_González_Veracruz"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/María_González_Veracruz"
         }
       ],
       "name": "María González",
+      "other_names": [
+        {
+          "name": "Maria Gonzalez Veracruz",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "María González Veracruz",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "María González Veracruz",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Maria Gonzalez Veracruz",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "María González Veracruz",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "González Veracruz, María",
       "sources": [
         {
