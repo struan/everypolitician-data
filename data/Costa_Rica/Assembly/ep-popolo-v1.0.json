@@ -1962,22 +1962,180 @@
     {
       "classification": "party",
       "id": "PASE",
-      "name": "Accesibilidad Sin Exclusión"
+      "identifiers": [
+        {
+          "identifier": "Q4672493",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://partidopase.blogspot.com/"
+        }
+      ],
+      "name": "Accesibilidad Sin Exclusión",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Accessibility without Exclusion",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Accesibilidad Sin Exclusión",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "PAC",
-      "name": "Acción Ciudadana"
+      "identifiers": [
+        {
+          "identifier": "Q2033977",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/Pac_banner.svg",
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.pac.cr/"
+        }
+      ],
+      "name": "Acción Ciudadana",
+      "other_names": [
+        {
+          "lang": "nl",
+          "name": "Burgerlijke Actiepartij",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "حزب العمل للمواطنين",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Citizens' Action Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Acción Ciudadana",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti d'action citoyenne",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Partito d'Azione Cittadina",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Partia Działania Obywatelskiego",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Stranka građanske akcije",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "公民行动党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Partido Acción Ciudadana",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Partido Acción Ciudadana",
+          "note": "multilingual"
+        },
+        {
+          "lang": "se",
+          "name": "Partido Acción Ciudadana",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "PADC",
-      "name": "Alianza Demócrata Cristiana"
+      "identifiers": [
+        {
+          "identifier": "Q15890143",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://alianzademocratacristiana.com/"
+        }
+      ],
+      "name": "Alianza Demócrata Cristiana",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Christian Democratic Alliance (Costa Rica)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Alianza Demócrata Cristiana",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "PFA",
-      "name": "Frente Amplio"
+      "identifiers": [
+        {
+          "identifier": "Q403054",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Frenteamplio.gif",
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.frenteamplio.org"
+        }
+      ],
+      "name": "Frente Amplio",
+      "other_names": [
+        {
+          "lang": "fr",
+          "name": "Front large",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Broad Front",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Frente Amplio",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Frente Amplio",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "legislature",
@@ -1994,27 +2152,272 @@
     {
       "classification": "party",
       "id": "PLN",
-      "name": "Liberación Nacional"
+      "identifiers": [
+        {
+          "identifier": "Q82591",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Bandera_de_Partido_Liberación_Nacional.svg",
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.pln.or.cr/"
+        }
+      ],
+      "name": "Liberación Nacional",
+      "other_names": [
+        {
+          "lang": "zh",
+          "name": "國家自由黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Partido Liberación Nacional",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "国民解放党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Partia Wyzwolenia Narodowego",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "National Liberation Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Liberación Nacional",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Nacionalna oslobodilačka stranka",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Kosta Rikos nacionalinio išvadavimo partija",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Partito Liberazione Nazionale",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Partido Liberación Nacional",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "National Liberation Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "National Liberation Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Partido Liberación Nacional",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "국민해방당",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti Libération Nationale",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Партија националног ослобођења",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Stranka nacionalnog oslobođenja",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Εθνικό Απελευθερωτικό Κόμμα",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Partido Liberación Nacional",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "PML",
-      "name": "Movimiento Libertario"
+      "identifiers": [
+        {
+          "identifier": "Q3326706",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Bandera_del_Movimiento_Libertario.svg",
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.movimientolibertario.com"
+        }
+      ],
+      "name": "Movimiento Libertario",
+      "other_names": [
+        {
+          "lang": "fr",
+          "name": "Mouvement libertarien",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Libertarian Movement",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Movimiento Libertario",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Libertarijanski pokret",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Movimiento Libertario",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "PRC",
-      "name": "Renovación Costarricense"
+      "identifiers": [
+        {
+          "identifier": "Q5174899",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Bandera_de_Renovación_Costarricense.svg",
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.partidorenovacioncostarricense.com/"
+        }
+      ],
+      "name": "Renovación Costarricense",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Costa Rican Renovation Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Renovación Costarricense",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "PRN",
-      "name": "Restauración Nacional"
+      "identifiers": [
+        {
+          "identifier": "Q6106529",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Bandera_Partido_Restauracionnacional.png",
+      "links": [
+        {
+          "note": "website",
+          "url": "http://restauracionnacional.com/"
+        }
+      ],
+      "name": "Restauración Nacional",
+      "other_names": [
+        {
+          "lang": "es",
+          "name": "Restauración Nacional (Costa Rica)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "National Restoration Party",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "PUSC",
-      "name": "Unidad Social Cristiana"
+      "identifiers": [
+        {
+          "identifier": "Q1056879",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Bandera_del_Partido_Unidad_Social_Cristiana.svg",
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.pusc.co.cr/"
+        }
+      ],
+      "name": "Unidad Social Cristiana",
+      "other_names": [
+        {
+          "lang": "fr",
+          "name": "Parti unité sociale-chrétienne",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Social Christian Unity Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Unidad Social Cristiana",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Partito Unità Sociale Cristiana",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "基督教社会团结党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "партия социал-христианского единства",
+          "note": "multilingual"
+        }
+      ]
     }
   ],
   "meta": {
