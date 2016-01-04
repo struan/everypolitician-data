@@ -2162,7 +2162,7 @@
         },
         {
           "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Anne_Minh_Thu_Quach"
+          "url": "https://fr.wikipedia.org/wiki/Anne_Minh-Thu_Quach"
         }
       ],
       "name": "Anne Minh-Thu Quach",
@@ -2659,9 +2659,26 @@
         {
           "identifier": "89211",
           "scheme": "represent"
+        },
+        {
+          "identifier": "Q21872800",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Arnold_Viersen"
         }
       ],
       "name": "Arnold Viersen",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Arnold Viersen",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_House_members_of_the_42nd_Parliament_of_Canada"
@@ -12930,6 +12947,7 @@
       ]
     },
     {
+      "birth_date": "1983-10-07",
       "contact_details": [
         {
           "type": "twitter",
@@ -15698,6 +15716,10 @@
         {
           "note": "Wikipedia (simple)",
           "url": "https://simple.wikipedia.org/wiki/Harjit_Sajjan"
+        },
+        {
+          "note": "Wikipedia (ur)",
+          "url": "https://ur.wikipedia.org/wiki/ہرجیت_سجن"
         }
       ],
       "name": "Harjit Sajjan",
@@ -25842,6 +25864,10 @@
         {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Louis_Plamondon_(homme_politique)"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Пламондон,_Луи_(политик)"
         }
       ],
       "name": "Louis Plamondon",
@@ -29403,6 +29429,11 @@
       "name": "Michel Boudrias",
       "other_names": [
         {
+          "lang": "en",
+          "name": "Michel Boudrias",
+          "note": "multilingual"
+        },
+        {
           "lang": "fr",
           "name": "Michel Boudrias",
           "note": "multilingual"
@@ -29415,6 +29446,7 @@
       ]
     },
     {
+      "birth_date": "1960-02-15",
       "contact_details": [
         {
           "type": "twitter",
@@ -29468,7 +29500,7 @@
         },
         {
           "lang": "fr",
-          "name": "Michel Picard (homme politique)",
+          "name": "Michel Picard",
           "note": "multilingual"
         }
       ],
@@ -30248,6 +30280,7 @@
       ]
     },
     {
+      "birth_date": "1979-01-16",
       "contact_details": [
         {
           "type": "twitter",
@@ -31153,6 +31186,7 @@
           "value": "https://twitter.com/OmarAlghabra"
         }
       ],
+      "email": "Omar.Alghabra@parl.gc.ca",
       "gender": "male",
       "given_name": "Omar",
       "id": "b2f66ed9-9e23-4c4f-9dbd-0d26bdcc3d3c",
