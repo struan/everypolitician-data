@@ -1793,6 +1793,21 @@
       ]
     },
     {
+      "id": "442ba40a-cb1d-4522-9de3-638e6712697a",
+      "image": "http://dpr.go.id/doksigota/photo/blankface.jpg",
+      "images": [
+        {
+          "url": "http://dpr.go.id/doksigota/photo/blankface.jpg"
+        }
+      ],
+      "name": "DJENRI ALTING KEINTJEM, SH, MH",
+      "sources": [
+        {
+          "url": "http://dpr.go.id/en/anggota"
+        }
+      ]
+    },
+    {
       "id": "6f4036dc-0f06-46f4-b60d-0d024caddaec",
       "identifiers": [
         {
@@ -1861,6 +1876,10 @@
         {
           "identifier": "259",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q12482308",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://dpr.go.id/doksigota/photo/259_Drs._EFFENDI_M.S._SIMBOLON.jpg",
@@ -1869,7 +1888,24 @@
           "url": "http://dpr.go.id/doksigota/photo/259_Drs._EFFENDI_M.S._SIMBOLON.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (id)",
+          "url": "https://id.wikipedia.org/wiki/Effendi_Muara_Sakti_Simbolon"
+        }
+      ],
       "name": "DR. EFFENDI M.S. SIMBOLON, M.Ipol.",
+      "other_names": [
+        {
+          "name": "Effendi Muara Sakti Simbolon",
+          "note": "alternate"
+        },
+        {
+          "lang": "id",
+          "name": "Effendi Muara Sakti Simbolon",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://dpr.go.id/en/anggota"
@@ -5153,13 +5189,36 @@
     },
     {
       "id": "7e2584f8-b7dc-4aa0-9ed1-bd08fbfc964a",
+      "identifiers": [
+        {
+          "identifier": "Q16182199",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://dpr.go.id/doksigota/photo/blankface.jpg",
       "images": [
         {
           "url": "http://dpr.go.id/doksigota/photo/blankface.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (id)",
+          "url": "https://id.wikipedia.org/wiki/Idham_Samawi"
+        }
+      ],
       "name": "Drs. H.MOHAMMAD IDHAM SAMAWI",
+      "other_names": [
+        {
+          "name": "Idham Samawi",
+          "note": "alternate"
+        },
+        {
+          "lang": "id",
+          "name": "Idham Samawi",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://dpr.go.id/en/anggota"
@@ -6417,6 +6476,21 @@
         }
       ],
       "name": "H. ABDUL KADIR KARDING, S.Pi, M.Si",
+      "sources": [
+        {
+          "url": "http://dpr.go.id/en/anggota"
+        }
+      ]
+    },
+    {
+      "id": "3f5a180c-f754-49c9-98f4-dde4def0e914",
+      "image": "http://dpr.go.id/doksigota/photo/blankface.jpg",
+      "images": [
+        {
+          "url": "http://dpr.go.id/doksigota/photo/blankface.jpg"
+        }
+      ],
+      "name": "H. ABDUL LATIEF HANAFIAH, M.Sc",
       "sources": [
         {
           "url": "http://dpr.go.id/en/anggota"
@@ -8214,11 +8288,18 @@
       ]
     },
     {
+      "birth_date": "1952-04-10",
+      "gender": "male",
+      "given_name": "Muhammad",
       "id": "afe3f4c8-6f24-4e0a-a29f-b25204749097",
       "identifiers": [
         {
           "identifier": "1349",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q17410769",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://dpr.go.id/doksigota/photo/1349.jpg",
@@ -8227,7 +8308,29 @@
           "url": "http://dpr.go.id/doksigota/photo/1349.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (id)",
+          "url": "https://id.wikipedia.org/wiki/Muhammad_Asli_Chaidir"
+        }
+      ],
       "name": "H. MHD ASLI CHAIDIR, SH",
+      "other_names": [
+        {
+          "name": "Muhammad Asli Chaidir",
+          "note": "alternate"
+        },
+        {
+          "lang": "id",
+          "name": "Muhammad Asli Chaidir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Muhammad Asli Chaidir",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://dpr.go.id/en/anggota"
@@ -8256,11 +8359,17 @@
       ]
     },
     {
+      "birth_date": "1965-10-05",
+      "gender": "male",
       "id": "dc0b9b9a-8e69-411f-bf42-c85a3954d525",
       "identifiers": [
         {
           "identifier": "446",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q16182795",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://dpr.go.id/doksigota/photo/446_Dr._MOHAMAD_SOHIBUL_IMAN.jpg",
@@ -8269,7 +8378,43 @@
           "url": "http://dpr.go.id/doksigota/photo/446_Dr._MOHAMAD_SOHIBUL_IMAN.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Sohibul_Iman"
+        },
+        {
+          "note": "Wikipedia (id)",
+          "url": "https://id.wikipedia.org/wiki/Sohibul_Iman"
+        }
+      ],
       "name": "H. MOHAMAD SOHIBUL IMAN, Ph. D.",
+      "other_names": [
+        {
+          "name": "Sohibul Iman",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Sohibul Iman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Sohibul Iman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Sohibul Iman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Sohibul Iman",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://dpr.go.id/en/anggota"
@@ -9875,6 +10020,21 @@
           "note": "multilingual"
         }
       ],
+      "sources": [
+        {
+          "url": "http://dpr.go.id/en/anggota"
+        }
+      ]
+    },
+    {
+      "id": "ef08fe90-cd85-4dfb-ae98-da237b6f2c73",
+      "image": "http://dpr.go.id/doksigota/photo/453_HJ._ADJI_FARIDA_PADMO_ARDAN.jpg",
+      "images": [
+        {
+          "url": "http://dpr.go.id/doksigota/photo/453_HJ._ADJI_FARIDA_PADMO_ARDAN.jpg"
+        }
+      ],
+      "name": "HJ. ADJI FARIDA PADMO ARDAN",
       "sources": [
         {
           "url": "http://dpr.go.id/en/anggota"
@@ -14780,6 +14940,21 @@
       ]
     },
     {
+      "id": "c421cbc8-76a1-44be-831d-6d8de51a6b88",
+      "image": "http://dpr.go.id/doksigota/photo/blankface.jpg",
+      "images": [
+        {
+          "url": "http://dpr.go.id/doksigota/photo/blankface.jpg"
+        }
+      ],
+      "name": "NURHAYATI, SH",
+      "sources": [
+        {
+          "url": "http://dpr.go.id/en/anggota"
+        }
+      ]
+    },
+    {
       "id": "13b24d80-4c8a-40bc-9dfe-2dafbb8fa82b",
       "identifiers": [
         {
@@ -17096,7 +17271,7 @@
           "url": "http://dpr.go.id/doksigota/photo/blankface.jpg"
         }
       ],
-      "name": "dr. ARI YUSMITA",
+      "name": "dr. ARI YUSNITA",
       "sources": [
         {
           "url": "http://dpr.go.id/en/anggota"
@@ -18460,6 +18635,14 @@
       "role": "member"
     },
     {
+      "area_id": "area/kalimantan_selatan_ii",
+      "legislative_period_id": "term/18",
+      "on_behalf_of_id": "party/national_awakening_party_faction",
+      "organization_id": "legislature",
+      "person_id": "3f5a180c-f754-49c9-98f4-dde4def0e914",
+      "role": "member"
+    },
+    {
       "area_id": "area/jawa_barat_vii",
       "legislative_period_id": "term/18",
       "on_behalf_of_id": "party/indonesian_democratic_party_of_struggle_faction",
@@ -18521,6 +18704,14 @@
       "on_behalf_of_id": "party/great_indonesia_movement_party_faction",
       "organization_id": "legislature",
       "person_id": "43dded6f-b8ff-4e55-b81c-e4c8f317cc33",
+      "role": "member"
+    },
+    {
+      "area_id": "area/sulawesi_utara",
+      "legislative_period_id": "term/18",
+      "on_behalf_of_id": "party/unknown",
+      "organization_id": "legislature",
+      "person_id": "442ba40a-cb1d-4522-9de3-638e6712697a",
       "role": "member"
     },
     {
@@ -20820,6 +21011,14 @@
       "role": "member"
     },
     {
+      "area_id": "area/lampung_ii",
+      "legislative_period_id": "term/18",
+      "on_behalf_of_id": "party/national_awakening_party_faction",
+      "organization_id": "legislature",
+      "person_id": "c421cbc8-76a1-44be-831d-6d8de51a6b88",
+      "role": "member"
+    },
+    {
       "area_id": "area/banten_i",
       "legislative_period_id": "term/18",
       "on_behalf_of_id": "party/united_development_party_faction",
@@ -21641,6 +21840,14 @@
       "on_behalf_of_id": "party/golkar_party_faction",
       "organization_id": "legislature",
       "person_id": "eeca5ced-b819-40ea-9b44-d8c32ccb329d",
+      "role": "member"
+    },
+    {
+      "area_id": "area/kalimantan_timur",
+      "legislative_period_id": "term/18",
+      "on_behalf_of_id": "party/unknown",
+      "organization_id": "legislature",
+      "person_id": "ef08fe90-cd85-4dfb-ae98-da237b6f2c73",
       "role": "member"
     },
     {
