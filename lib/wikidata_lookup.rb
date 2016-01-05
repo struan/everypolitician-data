@@ -58,7 +58,7 @@ class GroupLookup < WikidataLookup
   end
 
   def logo(result)
-    result.P154 
+    result.P154 || result.P41
   end
 
 
