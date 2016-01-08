@@ -16114,6 +16114,58 @@
       ]
     },
     {
+      "birth_date": "1983-02-03",
+      "email": "linda.snecker@riksdagen.se",
+      "gender": "female",
+      "given_name": "Linda",
+      "id": "a070e40f-5366-4406-bf07-77db93e1a818",
+      "identifiers": [
+        {
+          "identifier": "0150118366721",
+          "scheme": "riksdagen"
+        },
+        {
+          "identifier": "Q18245930",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0150118366721_max.jpg",
+      "images": [
+        {
+          "url": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0150118366721_max.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Linda_Snecker"
+        }
+      ],
+      "name": "Linda Snecker",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Linda Snecker",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Linda Snecker",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Linda Snecker",
+          "note": "multilingual"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://data.riksdagen.se/"
+        }
+      ]
+    },
+    {
       "birth_date": "1978-01-02",
       "contact_details": [
         {
@@ -29863,6 +29915,14 @@
       "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "a0693a5e-223b-44e2-9608-b9b447a685ec",
+      "role": "member"
+    },
+    {
+      "area_id": "ocd-division/country:se/constituency:östergötlands-län",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "V",
+      "organization_id": "legislature",
+      "person_id": "a070e40f-5366-4406-bf07-77db93e1a818",
       "role": "member"
     },
     {
