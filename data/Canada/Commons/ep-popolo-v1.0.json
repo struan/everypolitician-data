@@ -102,12 +102,6 @@
       ]
     },
     {
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "https://twitter.com/AhmedHussenMP"
-        }
-      ],
       "email": "Ahmed.Hussen@parl.gc.ca",
       "gender": "male",
       "given_name": "Ahmed",
@@ -1200,6 +1194,12 @@
     },
     {
       "birth_date": "1957-12-01",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/AndrewLeslieMP"
+        }
+      ],
       "email": "Andrew.Leslie@parl.gc.ca",
       "family_name": "Leslie",
       "gender": "male",
@@ -2083,7 +2083,7 @@
       "contact_details": [
         {
           "type": "twitter",
-          "value": "https://twitter.com/adhillonliberal"
+          "value": "https://twitter.com/adhillonMP"
         }
       ],
       "email": "Anju.Dhillon@parl.gc.ca",
@@ -4757,7 +4757,7 @@
       "contact_details": [
         {
           "type": "twitter",
-          "value": "https://twitter.com/VoteBorys"
+          "value": "https://twitter.com/BorysWrz"
         }
       ],
       "email": "Borys.Wrzesnewskyj@parl.gc.ca",
@@ -6172,6 +6172,12 @@
         {
           "identifier": "89098",
           "scheme": "represent"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://cathaywagantall.ca"
         }
       ],
       "name": "Cathay Wagantall",
@@ -8515,7 +8521,7 @@
       "contact_details": [
         {
           "type": "twitter",
-          "value": "https://twitter.com/danruimy2015"
+          "value": "https://twitter.com/DanRuimyMP"
         }
       ],
       "email": "Dan.Ruimy@parl.gc.ca",
@@ -8542,7 +8548,7 @@
       "contact_details": [
         {
           "type": "twitter",
-          "value": "https://twitter.com/stbdan"
+          "value": "https://twitter.com/stbstvdan"
         }
       ],
       "email": "Dan.Vandal@parl.gc.ca",
@@ -19265,6 +19271,11 @@
       "name": "Jim Flaherty",
       "other_names": [
         {
+          "lang": "cy",
+          "name": "Jim Flaherty",
+          "note": "multilingual"
+        },
+        {
           "lang": "da",
           "name": "Jim Flaherty",
           "note": "multilingual"
@@ -22776,7 +22787,7 @@
       "contact_details": [
         {
           "type": "twitter",
-          "value": "https://twitter.com/VoteKateYoung"
+          "value": "https://twitter.com/KateYoungMP"
         }
       ],
       "email": "Kate.Young@parl.gc.ca",
@@ -27296,6 +27307,10 @@
         {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Marjolaine_Boutin-Sweet"
+        },
+        {
+          "note": "website",
+          "url": "http://marjolaineboutinsweet.ndp.ca"
         }
       ],
       "name": "Marjolaine Boutin-Sweet",
@@ -27931,6 +27946,12 @@
     },
     {
       "birth_date": "1984-08-23",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/MarwanTabbaraMP"
+        }
+      ],
       "email": "Marwan.Tabbara@parl.gc.ca",
       "gender": "male",
       "given_name": "Marwan",
@@ -32339,6 +32360,12 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/PattyHajdu"
+        }
+      ],
       "email": "Patty.Hajdu@parl.gc.ca",
       "gender": "female",
       "id": "2a8ff148-50eb-490c-a67a-242c43dcad13",
@@ -34626,6 +34653,12 @@
         {
           "identifier": "89200",
           "scheme": "represent"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://rachaelharder.ca"
         }
       ],
       "name": "Rachael Harder",
@@ -37365,6 +37398,12 @@
           "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/SaganashRomeo_NDP.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://romeosaganash.ndp.ca"
+        }
+      ],
       "name": "Romeo Saganash",
       "sources": [
         {
@@ -39490,7 +39529,7 @@
       "contact_details": [
         {
           "type": "twitter",
-          "value": "https://twitter.com/electseanfraser"
+          "value": "https://twitter.com/SeanFraserMP"
         }
       ],
       "email": "Sean.Fraser@parl.gc.ca",
@@ -42773,7 +42812,7 @@
       "contact_details": [
         {
           "type": "twitter",
-          "value": "https://twitter.com/VoteTerry"
+          "value": "https://twitter.com/TerrySheehanMP"
         }
       ],
       "email": "Terry.Sheehan@parl.gc.ca",
@@ -43047,12 +43086,6 @@
       ]
     },
     {
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "https://twitter.com/tomaszkmiec"
-        }
-      ],
       "email": "Tom.Kmiec@parl.gc.ca",
       "id": "d63c37ea-791e-4845-9808-2ab4e617a285",
       "identifiers": [
