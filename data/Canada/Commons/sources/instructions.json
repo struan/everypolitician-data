@@ -56,6 +56,14 @@
       }
     },
     {
+      "file": "manual/twitter.csv",
+      "type": "person",
+      "merge": {
+        "incoming_field": "uuid",
+        "existing_field": "uuid"
+      }
+    },
+    {
       "file": "manual/terms.csv",
       "type": "term"
     },
