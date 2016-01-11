@@ -12,19 +12,6 @@ namespace :term_csvs do
     (p[:links] || {}).find(->{{url: nil}}) { |d| d[:note] == 'facebook' }[:url]
   end
 
-  def name_at(p, date)
-    return p[:name] unless date && p.key?(:other_names)
-    historic = p[:other_names].find_all { |n| n.key?(:end_date) } 
-    return p[:name] unless historic.any?
-    at_date = historic.find_all { |n|
-      n[:end_date] >= date && (n[:start_date] || '0000-00-00') <= date
-    }
-    return p[:name] if at_date.empty?
-    raise "Too many names at #{date}: #{at_date}" if at_date.count > 1
-    
-    return at_date.first[:name]
-  end
-
   task :term_tables => 'ep-popolo-v1.0.json' do
     @json = JSON.parse(File.read('ep-popolo-v1.0.json'), symbolize_names: true )
     popolo = EveryPolitician::Popolo::JSON.new(@json)
@@ -44,7 +31,7 @@ namespace :term_csvs do
 
       {
         id: person[:id].split('/').last,
-        name: name_at(person, m[:end_date] || terms[m[:legislative_period_id]][:end_date]),
+        name: person.name_at(m[:end_date] || terms[m[:legislative_period_id]][:end_date]),
         sort_name: person[:sort_name].to_s.empty? ? person[:name] : person[:sort_name],
         email: person[:email],
         twitter: person.twitter,
