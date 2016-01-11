@@ -1947,11 +1947,16 @@
       "birth_date": "1966-02-02",
       "email": "katrin.sjogrenoch@lagtinget.ax",
       "gender": "female",
+      "given_name": "Katrin",
       "id": "10995076-8cb9-43a8-b1e0-ed1af900ed70",
       "identifiers": [
         {
           "identifier": "68",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q2269243",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.lagtinget.ax/files/sjogren_katrin.jpg",
@@ -1960,7 +1965,52 @@
           "url": "http://www.lagtinget.ax/files/sjogren_katrin.jpg"
         }
       ],
-      "name": "Sjögren Katrin"
+      "links": [
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Katrin_Sjögren"
+        },
+        {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/カトリン・シェーグレン"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Katrin_Sjögren"
+        }
+      ],
+      "name": "Sjögren Katrin",
+      "other_names": [
+        {
+          "name": "Katrin Sjögren",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Katrin Sjögren",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Katrin Sjögren",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "カトリン・シェーグレン",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Katrin Sjögren",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Katrin Sjögren",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1943-12-16",
