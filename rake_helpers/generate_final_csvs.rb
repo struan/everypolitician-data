@@ -8,10 +8,6 @@ CLEAN.include('term-*.csv', 'names.csv')
 namespace :term_csvs do
 
   require 'csv'
-  def persons_facebook(p)
-    (p[:links] || {}).find(->{{url: nil}}) { |d| d[:note] == 'facebook' }[:url]
-  end
-
   task :term_tables => 'ep-popolo-v1.0.json' do
     @json = JSON.parse(File.read('ep-popolo-v1.0.json'), symbolize_names: true )
     popolo = EveryPolitician::Popolo::JSON.new(@json)
@@ -35,7 +31,7 @@ namespace :term_csvs do
         sort_name: person[:sort_name].to_s.empty? ? person[:name] : person[:sort_name],
         email: person[:email],
         twitter: person.twitter,
-        facebook: persons_facebook(person),
+        facebook: person.facebook,
         group: group[:name],
         group_id: group[:id].split('/').last,
         area_id: m[:area_id],
