@@ -1,9 +1,10 @@
 GIT
   remote: git://github.com/tmtmtmtm/csv_to_popolo.git
-  revision: 0633d368eeced0e89c0fd56cef5384986f915f91
+  revision: 506bbfcf31518e1d5cf60c3e022f97cdbed491ff
   specs:
-    csv_to_popolo (0.17.1)
+    csv_to_popolo (0.18.1)
       json
+      twitter_username_extractor
 
 GIT
   remote: https://github.com/everypolitician/everypolitician-popolo
@@ -46,6 +47,7 @@ GEM
     safe_yaml (1.0.4)
     sass (3.4.20)
     slop (3.6.0)
+    twitter_username_extractor (0.1.0)
     unicode_utils (1.4.0)
     vcr (3.0.0)
     webmock (1.22.3)
@@ -59,7 +61,7 @@ PLATFORMS
 
 DEPENDENCIES
   colorize
-  csv_to_popolo (~> 0.17.1)!
+  csv_to_popolo (~> 0.18.1)!
   everypolitician-popolo!
   fuzzy_match
   iso_country_codes
