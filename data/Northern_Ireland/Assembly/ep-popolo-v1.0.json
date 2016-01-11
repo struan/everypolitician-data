@@ -2277,8 +2277,29 @@
       ]
     },
     {
+      "birth_date": "1988-10-20",
+      "gender": "male",
       "id": "f65e699e-6954-4a7b-9d11-276f2ee253d5",
-      "name": "Daniel McCrossan"
+      "identifiers": [
+        {
+          "identifier": "Q22006766",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Daniel_McCrossan"
+        }
+      ],
+      "name": "Daniel McCrossan",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Daniel McCrossan",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1959-07-06",
@@ -5206,8 +5227,28 @@
       ]
     },
     {
+      "birth_date": "1965-01-01",
       "id": "da289ff4-9a53-40b3-9804-d67a83cbf652",
-      "name": "Gerard Diver"
+      "identifiers": [
+        {
+          "identifier": "Q22004073",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Gerard_Diver"
+        }
+      ],
+      "name": "Gerard Diver",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Gerard Diver",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1948-10-06",
@@ -6564,6 +6605,10 @@
           "scheme": "parliamentdotuk"
         },
         {
+          "identifier": "Ian_Paisley_Jnr",
+          "scheme": "publicwhip"
+        },
+        {
           "identifier": "Q575881",
           "scheme": "wikidata"
         }
@@ -7334,6 +7379,10 @@
         {
           "identifier": "commons/jim-shannon/4131",
           "scheme": "parliamentdotuk"
+        },
+        {
+          "identifier": "jim_shannon",
+          "scheme": "publicwhip"
         },
         {
           "identifier": "Q478702",
@@ -9377,6 +9426,10 @@
           "scheme": "parliamentdotuk"
         },
         {
+          "identifier": "margaret_ritchie",
+          "scheme": "publicwhip"
+        },
+        {
           "identifier": "Q501860",
           "scheme": "wikidata"
         }
@@ -11210,6 +11263,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "naomi_long",
+          "scheme": "publicwhip"
+        },
+        {
           "identifier": "Q695272",
           "scheme": "wikidata"
         }
@@ -11376,6 +11433,10 @@
         {
           "identifier": "commons/mr-nigel-dodds/1388",
           "scheme": "parliamentdotuk"
+        },
+        {
+          "identifier": "Nigel_Dodds",
+          "scheme": "publicwhip"
         },
         {
           "identifier": "075992612",
@@ -12000,6 +12061,12 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Pat_Sheehan.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Pat_Sheehan.jpg"
+        }
+      ],
       "links": [
         {
           "note": "Wikipedia (de)",
@@ -12521,6 +12588,10 @@
         {
           "identifier": "commons/paul-maskey/4245",
           "scheme": "parliamentdotuk"
+        },
+        {
+          "identifier": "Paul_Maskey",
+          "scheme": "publicwhip"
         },
         {
           "identifier": "Q694929",
@@ -15362,6 +15433,10 @@
         {
           "identifier": "70",
           "scheme": "historichansard"
+        },
+        {
+          "identifier": "William_McCrea",
+          "scheme": "publicwhip"
         },
         {
           "identifier": "Q694775",
