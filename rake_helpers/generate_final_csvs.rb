@@ -26,10 +26,10 @@ namespace :term_csvs do
       end
 
       {
-        id: person[:id].split('/').last,
+        id: person.id.split('/').last,
         name: person.name_at(m[:end_date] || terms[m[:legislative_period_id]][:end_date]),
         sort_name: person.sort_name,
-        email: person[:email],
+        email: person.email,
         twitter: person.twitter,
         facebook: person.facebook,
         group: group[:name],
@@ -40,8 +40,8 @@ namespace :term_csvs do
         term: m[:legislative_period_id].split('/').last,
         start_date: m[:start_date],
         end_date: m[:end_date],
-        image: person[:image],
-        gender: person[:gender],
+        image: person.image,
+        gender: person.gender,
       }
     end
     data.group_by { |r| r[:term] }.each do |t, rs|
