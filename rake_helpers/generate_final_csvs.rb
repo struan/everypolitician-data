@@ -10,7 +10,7 @@ namespace :term_csvs do
   require 'csv'
   task :term_tables => 'ep-popolo-v1.0.json' do
     @json = JSON.parse(File.read('ep-popolo-v1.0.json'), symbolize_names: true )
-    popolo = EveryPolitician::Popolo::JSON.new(@json)
+    popolo = EveryPolitician::Popolo.read('ep-popolo-v1.0.json')
     terms = {}
 
     data = @json[:memberships].find_all { |m| m.key? :legislative_period_id }.map do |m|
