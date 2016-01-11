@@ -281,6 +281,12 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/46/Alban_Maginness.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Alban_Maginness.jpg"
+        }
+      ],
       "links": [
         {
           "note": "Wikipedia (en)",
@@ -2271,6 +2277,10 @@
       ]
     },
     {
+      "id": "f65e699e-6954-4a7b-9d11-276f2ee253d5",
+      "name": "Daniel McCrossan"
+    },
+    {
       "birth_date": "1959-07-06",
       "family_name": "Kennedy",
       "gender": "male",
@@ -2837,6 +2847,11 @@
       ],
       "name": "David McClarty",
       "other_names": [
+        {
+          "lang": "cy",
+          "name": "David McClarty",
+          "note": "multilingual"
+        },
         {
           "lang": "de",
           "name": "David McClarty",
@@ -4248,6 +4263,11 @@
       "name": "Eddie McGrady",
       "other_names": [
         {
+          "lang": "cy",
+          "name": "Eddie McGrady",
+          "note": "multilingual"
+        },
+        {
           "lang": "da",
           "name": "Eddie McGrady",
           "note": "multilingual"
@@ -5114,6 +5134,11 @@
       "name": "George Savage",
       "other_names": [
         {
+          "lang": "cy",
+          "name": "George Savage",
+          "note": "multilingual"
+        },
+        {
           "lang": "de",
           "name": "George Savage",
           "note": "multilingual"
@@ -5179,6 +5204,10 @@
           "note": "multilingual"
         }
       ]
+    },
+    {
+      "id": "da289ff4-9a53-40b3-9804-d67a83cbf652",
+      "name": "Gerard Diver"
     },
     {
       "birth_date": "1948-10-06",
@@ -5390,6 +5419,10 @@
         {
           "note": "Wikipedia (pl)",
           "url": "https://pl.wikipedia.org/wiki/Gerry_Adams"
+        },
+        {
+          "note": "Wikipedia (plwikiquote)",
+          "url": "https://plwikiquote.wikipedia.org/wiki/Gerry_Adams"
         },
         {
           "note": "Wikipedia (pt)",
@@ -7792,6 +7825,11 @@
       ],
       "name": "John Gorman",
       "other_names": [
+        {
+          "lang": "cy",
+          "name": "John Gorman",
+          "note": "multilingual"
+        },
         {
           "lang": "da",
           "name": "John Gorman",
@@ -13647,6 +13685,11 @@
       ],
       "name": "Sam Foster",
       "other_names": [
+        {
+          "lang": "cy",
+          "name": "Sam Foster",
+          "note": "multilingual"
+        },
         {
           "lang": "de",
           "name": "Sam Foster",
@@ -19785,6 +19828,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/629-NI",
+      "end_date": "2015-12-31",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "social-democratic-and-labour-party",
       "organization_id": "legislature",
@@ -20248,6 +20292,15 @@
       "start_date": "1998-09-21"
     },
     {
+      "area_id": "uk.org.publicwhip/cons/235-NI",
+      "legislative_period_id": "term/4",
+      "on_behalf_of_id": "social-democratic-and-labour-party",
+      "organization_id": "legislature",
+      "person_id": "da289ff4-9a53-40b3-9804-d67a83cbf652",
+      "role": "member",
+      "start_date": "2016-01-07"
+    },
+    {
       "area_id": "uk.org.publicwhip/cons/400-NI",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "sinn-fein",
@@ -20397,6 +20450,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/235-NI",
+      "end_date": "2015-12-31",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "social-democratic-and-labour-party",
       "organization_id": "legislature",
@@ -20690,6 +20744,15 @@
       "organization_id": "legislature",
       "person_id": "f45b84d0-661c-487a-84b7-219334fb5460",
       "role": "member"
+    },
+    {
+      "area_id": "uk.org.publicwhip/cons/629-NI",
+      "legislative_period_id": "term/4",
+      "on_behalf_of_id": "social-democratic-and-labour-party",
+      "organization_id": "legislature",
+      "person_id": "f65e699e-6954-4a7b-9d11-276f2ee253d5",
+      "role": "member",
+      "start_date": "2016-01-07"
     },
     {
       "area_id": "uk.org.publicwhip/cons/231-NI",
