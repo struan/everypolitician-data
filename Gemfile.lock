@@ -6,6 +6,13 @@ GIT
       json
 
 GIT
+  remote: https://github.com/everypolitician/everypolitician-popolo
+  revision: dee53c35476edf372b1bd8764061aef6b9978d3b
+  branch: master
+  specs:
+    everypolitician-popolo (0.1.0)
+
+GIT
   remote: https://github.com/everypolitician/wikisnakker
   revision: b12d368f792efbbd010b28a49404c8eb6d60fdad
   branch: master
@@ -53,6 +60,7 @@ PLATFORMS
 DEPENDENCIES
   colorize
   csv_to_popolo (~> 0.17.1)!
+  everypolitician-popolo!
   fuzzy_match
   iso_country_codes
   json
@@ -69,4 +77,4 @@ DEPENDENCIES
   yajl-ruby
 
 BUNDLED WITH
-   1.10.6
+   1.11.2

@@ -14,6 +14,7 @@ gem 'yajl-ruby', require: 'yajl'
 gem 'sass'
 gem 'unicode_utils'
 gem 'wikisnakker', git: 'https://github.com/everypolitician/wikisnakker', branch: 'master'
+gem 'everypolitician-popolo', git: 'https://github.com/everypolitician/everypolitician-popolo', branch: 'master'
 
 group :test do
   gem 'minitest'
