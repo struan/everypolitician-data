@@ -3557,7 +3557,7 @@
       "contact_details": [
         {
           "type": "twitter",
-          "value": "https://twitter.com/BillBlair"
+          "value": "BillBlair"
         }
       ],
       "email": "Bill.Blair@parl.gc.ca",
@@ -4190,7 +4190,7 @@
       "contact_details": [
         {
           "type": "twitter",
-          "value": "https://twitter.com/VoteBobNault"
+          "value": "VoteBobNault"
         }
       ],
       "email": "Bob.Nault@parl.gc.ca",
@@ -6384,7 +6384,7 @@
       "contact_details": [
         {
           "type": "twitter",
-          "value": "https://twitter.com/celinachavannes"
+          "value": "celinachavannes"
         }
       ],
       "email": "Celina.Caesar-Chavannes@parl.gc.ca",
@@ -7269,7 +7269,7 @@
       "contact_details": [
         {
           "type": "twitter",
-          "value": "https://twitter.com/MooreNpd"
+          "value": "MooreNpd"
         }
       ],
       "email": "Christine.Moore@parl.gc.ca",
@@ -8811,6 +8811,10 @@
         {
           "identifier": "88323",
           "scheme": "represent"
+        },
+        {
+          "identifier": "Q22004363",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/FisherDarren_Lib.jpg",
@@ -8819,7 +8823,20 @@
           "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/FisherDarren_Lib.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Darren_Fisher"
+        }
+      ],
       "name": "Darren Fisher",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Darren Fisher",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_House_members_of_the_42nd_Parliament_of_Canada"
@@ -9660,7 +9677,7 @@
       "contact_details": [
         {
           "type": "twitter",
-          "value": "https://twitter.com/DavidSweetMP"
+          "value": "DavidSweetMP"
         }
       ],
       "email": "david.sweet@parl.gc.ca",
@@ -10014,7 +10031,7 @@
       "contact_details": [
         {
           "type": "twitter",
-          "value": "https://twitter.com/DeanAllisonMP"
+          "value": "DeanAllisonMP"
         }
       ],
       "email": "dean.allison@parl.gc.ca",
@@ -11707,9 +11724,26 @@
         {
           "identifier": "89027",
           "scheme": "represent"
+        },
+        {
+          "identifier": "Q22004241",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Doug_Eyolfson"
         }
       ],
       "name": "Doug Eyolfson",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Doug Eyolfson",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_House_members_of_the_42nd_Parliament_of_Canada"
@@ -13150,9 +13184,26 @@
         {
           "identifier": "88578",
           "scheme": "represent"
+        },
+        {
+          "identifier": "Q22003332",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Frank_Baylis"
         }
       ],
       "name": "Frank Baylis",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Frank Baylis",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_House_members_of_the_42nd_Parliament_of_Canada"
@@ -14423,9 +14474,26 @@
         {
           "identifier": "89065",
           "scheme": "represent"
+        },
+        {
+          "identifier": "Q22005676",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Georgina_Jolibois"
         }
       ],
       "name": "Georgina Jolibois",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Georgina Jolibois",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_House_members_of_the_42nd_Parliament_of_Canada"
@@ -15392,9 +15460,26 @@
         {
           "identifier": "88292",
           "scheme": "represent"
+        },
+        {
+          "identifier": "Q22005483",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Gudie_Hutchings"
         }
       ],
       "name": "Gudie Hutchings",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Gudie Hutchings",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_House_members_of_the_42nd_Parliament_of_Canada"
@@ -15688,7 +15773,7 @@
       "contact_details": [
         {
           "type": "twitter",
-          "value": "https://twitter.com/HarjitSajjan"
+          "value": "HarjitSajjan"
         }
       ],
       "email": "Harjit.Sajjan@parl.gc.ca",
@@ -17518,7 +17603,7 @@
       "contact_details": [
         {
           "type": "twitter",
-          "value": "https://twitter.com/j_maloney"
+          "value": "j_maloney"
         }
       ],
       "email": "James.Maloney@parl.gc.ca",
@@ -19732,7 +19817,7 @@
       "contact_details": [
         {
           "type": "twitter",
-          "value": "https://twitter.com/Puglaas"
+          "value": "Puglaas"
         }
       ],
       "email": "Jody.Wilson-Raybould@parl.gc.ca",
@@ -20519,6 +20604,10 @@
         {
           "identifier": "88674",
           "scheme": "represent"
+        },
+        {
+          "identifier": "Q22003456",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/BrassardJohn_CPC.jpg",
@@ -20527,7 +20616,20 @@
           "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/BrassardJohn_CPC.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/John_Brassard"
+        }
+      ],
       "name": "John Brassard",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "John Brassard",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_House_members_of_the_42nd_Parliament_of_Canada"
@@ -22454,6 +22556,7 @@
       ]
     },
     {
+      "birth_date": "1971-01-01",
       "contact_details": [
         {
           "type": "twitter",
@@ -23151,9 +23254,26 @@
         {
           "identifier": "89179",
           "scheme": "represent"
+        },
+        {
+          "identifier": "Q22006757",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Kelly_McCauley"
         }
       ],
       "name": "Kelly McCauley",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Kelly McCauley",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_House_members_of_the_42nd_Parliament_of_Canada"
@@ -23177,9 +23297,26 @@
         {
           "identifier": "89274",
           "scheme": "represent"
+        },
+        {
+          "identifier": "Q22004772",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ken_Hardie"
         }
       ],
       "name": "Ken Hardie",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Ken Hardie",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_House_members_of_the_42nd_Parliament_of_Canada"
@@ -23986,9 +24123,26 @@
         {
           "identifier": "71702",
           "scheme": "represent"
+        },
+        {
+          "identifier": "Q22007401",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Kyle_Peterson_(politician)"
         }
       ],
       "name": "Kyle Peterson",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Kyle Peterson",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_House_members_of_the_42nd_Parliament_of_Canada"
@@ -25273,9 +25427,26 @@
         {
           "identifier": "88671",
           "scheme": "represent"
+        },
+        {
+          "identifier": "Q22003106",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Leona_Alleslev"
         }
       ],
       "name": "Leona Alleslev",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Leona Alleslev",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_House_members_of_the_42nd_Parliament_of_Canada"
@@ -27274,7 +27445,7 @@
       ],
       "email": "Mario.Beaulieu@parl.gc.ca",
       "gender": "male",
-      "given_name": "Mariana Marrana",
+      "given_name": "Mario",
       "id": "042c6bb2-8058-4e2a-aaf2-16a82dd9e436",
       "identifiers": [
         {
@@ -27627,7 +27798,7 @@
       "contact_details": [
         {
           "type": "twitter",
-          "value": "https://twitter.com/MarkGerretsen"
+          "value": "MarkGerretsen"
         }
       ],
       "email": "Mark.Gerretsen@parl.gc.ca",
@@ -29130,9 +29301,26 @@
         {
           "identifier": "89294",
           "scheme": "represent"
+        },
+        {
+          "identifier": "Q22003182",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Mel_Arnold"
         }
       ],
       "name": "Mel Arnold",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Mel Arnold",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_House_members_of_the_42nd_Parliament_of_Canada"
@@ -30756,9 +30944,26 @@
         {
           "identifier": "88683",
           "scheme": "represent"
+        },
+        {
+          "identifier": "Q22004200",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Neil_Ellis_(politician)"
         }
       ],
       "name": "Neil Ellis",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Neil Ellis",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_House_members_of_the_42nd_Parliament_of_Canada"
@@ -36522,7 +36727,7 @@
       "contact_details": [
         {
           "type": "twitter",
-          "value": "https://twitter.com/HonRobNicholson"
+          "value": "HonRobNicholson"
         }
       ],
       "email": "rob.nicholson@parl.gc.ca",
@@ -39882,7 +40087,7 @@
       "contact_details": [
         {
           "type": "twitter",
-          "value": "https://twitter.com/sherirbenson"
+          "value": "sherirbenson"
         }
       ],
       "email": "Sheri.Benson@parl.gc.ca",
@@ -40132,9 +40337,26 @@
         {
           "identifier": "89279",
           "scheme": "represent"
+        },
+        {
+          "identifier": "Q22004431",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Stephen_Fuhr"
         }
       ],
       "name": "Stephen Fuhr",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Stephen Fuhr",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_House_members_of_the_42nd_Parliament_of_Canada"
@@ -43412,7 +43634,7 @@
       "contact_details": [
         {
           "type": "twitter",
-          "value": "https://twitter.com/traceyram"
+          "value": "traceyram"
         }
       ],
       "email": "Tracey.Ramsey@parl.gc.ca",
@@ -43854,7 +44076,7 @@
       "contact_details": [
         {
           "type": "twitter",
-          "value": "https://twitter.com/WayneLongSJ"
+          "value": "WayneLongSJ"
         }
       ],
       "email": "Wayne.Long@parl.gc.ca",
@@ -44547,9 +44769,26 @@
         {
           "identifier": "89156",
           "scheme": "represent"
+        },
+        {
+          "identifier": "Q22002979",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ziad_Aboultaif"
         }
       ],
       "name": "Ziad Aboultaif",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Ziad Aboultaif",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_House_members_of_the_42nd_Parliament_of_Canada"
