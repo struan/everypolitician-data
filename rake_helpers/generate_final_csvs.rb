@@ -75,7 +75,7 @@ namespace :term_csvs do
     warn "Wikidata Persons: #{wikidata_persons.first.count} ✓ | #{wikidata_persons.last.count} ✘"
     wikidata_persons.last.each { |p| warn "  Missing: #{ p[:name] }" } if wikidata_persons.first.count > 0 && wikidata_persons.last.count <= 10
     warn "Wikidata Parties: #{wikidata_parties.first.count} ✓ | #{wikidata_parties.last.count} ✘"
-    wikidata_parties.last.each { |p| warn "  Missing: #{ p[:name] }" } if wikidata_parties.first.count > 0 && wikidata_parties.last.count <= 5
+    wikidata_parties.last.each { |p| warn "  Missing: #{p[:name]} (#{p[:id]})" } if wikidata_parties.first.count > 0 && wikidata_parties.last.count <= 5
   end
 
 end
