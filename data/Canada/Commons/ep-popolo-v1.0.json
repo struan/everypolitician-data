@@ -1,7 +1,7 @@
 {
   "persons": [
     {
-      "birth_date": "1961-01-01",
+      "birth_date": "1961",
       "contact_details": [
         {
           "type": "twitter",
@@ -165,7 +165,7 @@
       ]
     },
     {
-      "birth_date": "1959-01-01",
+      "birth_date": "1959",
       "email": "Alain.Giguere@parl.gc.ca",
       "gender": "male",
       "given_name": "Alain",
@@ -1247,7 +1247,6 @@
       ]
     },
     {
-      "birth_date": "1957-12-01",
       "email": "Andrew.Leslie@parl.gc.ca",
       "family_name": "Leslie",
       "gender": "male",
@@ -2465,7 +2464,7 @@
       ]
     },
     {
-      "birth_date": "1970-01-01",
+      "birth_date": "1970",
       "contact_details": [
         {
           "type": "twitter",
@@ -3667,7 +3666,7 @@
       ]
     },
     {
-      "birth_date": "1954-01-01",
+      "birth_date": "1954",
       "contact_details": [
         {
           "type": "twitter",
@@ -3869,7 +3868,7 @@
       ]
     },
     {
-      "birth_date": "1962-01-01",
+      "birth_date": "1962",
       "contact_details": [
         {
           "type": "twitter",
@@ -5125,6 +5124,7 @@
       ]
     },
     {
+      "birth_date": "1974-05-15",
       "contact_details": [
         {
           "type": "twitter",
@@ -5132,6 +5132,8 @@
         }
       ],
       "email": "brad.trost@parl.gc.ca",
+      "gender": "male",
+      "given_name": "Brad",
       "id": "d16b71c6-c860-474e-ae23-23cb8eca44f6",
       "identifiers": [
         {
@@ -5141,44 +5143,16 @@
         {
           "identifier": "25462",
           "scheme": "represent"
+        },
+        {
+          "identifier": "Q2923494",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/TrostBradley_CPC.jpg",
       "images": [
         {
           "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/TrostBradley_CPC.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "twitter",
-          "url": "https://twitter.com/BradTrostCPC"
-        },
-        {
-          "note": "website",
-          "url": "http://www.bradtrost.ca"
-        }
-      ],
-      "name": "Brad Trost",
-      "sources": [
-        {
-          "url": "https://en.wikipedia.org/wiki/List_of_House_members_of_the_42nd_Parliament_of_Canada"
-        }
-      ]
-    },
-    {
-      "birth_date": "1974-05-15",
-      "gender": "male",
-      "given_name": "Brad",
-      "id": "7e4fb40a-203f-4542-a3c2-3519f1c57c8b",
-      "identifiers": [
-        {
-          "identifier": "bradley-trost",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q2923494",
-          "scheme": "wikidata"
         }
       ],
       "links": [
@@ -5191,16 +5165,16 @@
           "url": "https://fr.wikipedia.org/wiki/Bradley_Trost"
         },
         {
+          "note": "twitter",
+          "url": "https://twitter.com/BradTrostCPC"
+        },
+        {
           "note": "website",
-          "url": "http://www.bradtrost.ca/"
+          "url": "http://www.bradtrost.ca"
         }
       ],
-      "name": "Bradley Trost",
+      "name": "Brad Trost",
       "other_names": [
-        {
-          "name": "Brad Trost",
-          "note": "alternate"
-        },
         {
           "lang": "da",
           "name": "Brad Trost",
@@ -5247,6 +5221,21 @@
           "note": "multilingual"
         }
       ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_House_members_of_the_42nd_Parliament_of_Canada"
+        }
+      ]
+    },
+    {
+      "id": "7e4fb40a-203f-4542-a3c2-3519f1c57c8b",
+      "identifiers": [
+        {
+          "identifier": "bradley-trost",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Bradley Trost",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_House_members_of_the_41st_Parliament_of_Canada"
@@ -8858,7 +8847,7 @@
       ]
     },
     {
-      "birth_date": "1960-01-01",
+      "birth_date": "1960",
       "contact_details": [
         {
           "type": "twitter",
@@ -13770,7 +13759,7 @@
       ]
     },
     {
-      "birth_date": "1974-01-01",
+      "birth_date": "1974",
       "contact_details": [
         {
           "type": "twitter",
@@ -13869,7 +13858,7 @@
       ]
     },
     {
-      "birth_date": "1962-01-01",
+      "birth_date": "1962",
       "email": "Francois.Lapointe@parl.gc.ca",
       "gender": "male",
       "given_name": "François",
@@ -14800,7 +14789,6 @@
       ]
     },
     {
-      "birth_date": "1963-12-01",
       "contact_details": [
         {
           "type": "twitter",
@@ -19189,7 +19177,7 @@
       ]
     },
     {
-      "birth_date": "1961-01-01",
+      "birth_date": "1961",
       "email": "Jean.Rousseau@parl.gc.ca",
       "gender": "male",
       "given_name": "Jean",
@@ -19734,7 +19722,7 @@
       ]
     },
     {
-      "birth_date": "1967-01-01",
+      "birth_date": "1967",
       "contact_details": [
         {
           "type": "twitter",
@@ -21183,7 +21171,7 @@
       ]
     },
     {
-      "birth_date": "1971-01-01",
+      "birth_date": "1971",
       "contact_details": [
         {
           "type": "twitter",
@@ -23262,7 +23250,7 @@
       ]
     },
     {
-      "birth_date": "1971-01-01",
+      "birth_date": "1971",
       "contact_details": [
         {
           "type": "twitter",
@@ -24096,7 +24084,6 @@
       ]
     },
     {
-      "birth_date": "1959-06-01",
       "contact_details": [
         {
           "type": "twitter",
@@ -27051,15 +27038,39 @@
         {
           "identifier": "88541",
           "scheme": "represent"
+        },
+        {
+          "identifier": "Q21891834",
+          "scheme": "wikidata"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Luc_Berthold"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Luc_Berthold"
+        },
         {
           "note": "twitter",
           "url": "https://twitter.com/LucBerthold"
         }
       ],
       "name": "Luc Berthold",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Luc Berthold",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Luc Berthold",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_House_members_of_the_42nd_Parliament_of_Canada"
@@ -28714,7 +28725,7 @@
       ]
     },
     {
-      "birth_date": "1975-01-01",
+      "birth_date": "1975",
       "contact_details": [
         {
           "type": "twitter",
@@ -30794,7 +30805,7 @@
       ]
     },
     {
-      "birth_date": "1980-01-01",
+      "birth_date": "1980",
       "contact_details": [
         {
           "type": "twitter",
@@ -33124,7 +33135,7 @@
       ]
     },
     {
-      "birth_date": "1961-01-01",
+      "birth_date": "1961",
       "contact_details": [
         {
           "type": "twitter",
@@ -35406,7 +35417,7 @@
       ]
     },
     {
-      "birth_date": "1965-01-01",
+      "birth_date": "1965",
       "email": "Philip.Toone@parl.gc.ca",
       "gender": "male",
       "given_name": "Philip",
@@ -38921,6 +38932,7 @@
       ]
     },
     {
+      "birth_date": "1961-10-28",
       "contact_details": [
         {
           "type": "twitter",
@@ -38928,6 +38940,8 @@
         }
       ],
       "email": "Romeo.Saganash@parl.gc.ca",
+      "gender": "male",
+      "given_name": "Romeo",
       "id": "64d282db-116a-4aaa-8edf-d3ba639cd6da",
       "identifiers": [
         {
@@ -38937,50 +38951,16 @@
         {
           "identifier": "71482",
           "scheme": "represent"
-        }
-      ],
-      "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/SaganashRomeo_NDP.jpg",
-      "images": [
-        {
-          "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/SaganashRomeo_NDP.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "twitter",
-          "url": "https://twitter.com/RomeoSaganash"
-        },
-        {
-          "note": "website",
-          "url": "http://romeosaganash.ndp.ca"
-        }
-      ],
-      "name": "Romeo Saganash",
-      "sources": [
-        {
-          "url": "https://en.wikipedia.org/wiki/List_of_House_members_of_the_42nd_Parliament_of_Canada"
-        }
-      ]
-    },
-    {
-      "birth_date": "1961-10-28",
-      "gender": "male",
-      "given_name": "Romeo",
-      "id": "9a98abea-fc2c-4295-bcd8-2a085f96b759",
-      "identifiers": [
-        {
-          "identifier": "roméo-saganash",
-          "scheme": "everypolitician_legacy"
         },
         {
           "identifier": "Q3441197",
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Romeo-Saganash-2012-NDP-Leadership-Convention.PNG",
+      "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/SaganashRomeo_NDP.jpg",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Romeo-Saganash-2012-NDP-Leadership-Convention.PNG"
+          "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/SaganashRomeo_NDP.jpg"
         }
       ],
       "links": [
@@ -38997,16 +38977,16 @@
           "url": "RomeoSaganash"
         },
         {
+          "note": "twitter",
+          "url": "https://twitter.com/RomeoSaganash"
+        },
+        {
           "note": "website",
           "url": "http://romeosaganash.ndp.ca"
         }
       ],
-      "name": "Roméo Saganash",
+      "name": "Romeo Saganash",
       "other_names": [
-        {
-          "name": "Romeo Saganash",
-          "note": "alternate"
-        },
         {
           "lang": "da",
           "name": "Romeo Saganash",
@@ -39053,6 +39033,21 @@
           "note": "multilingual"
         }
       ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_House_members_of_the_42nd_Parliament_of_Canada"
+        }
+      ]
+    },
+    {
+      "id": "9a98abea-fc2c-4295-bcd8-2a085f96b759",
+      "identifiers": [
+        {
+          "identifier": "roméo-saganash",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Roméo Saganash",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_House_members_of_the_41st_Parliament_of_Canada"
@@ -39437,7 +39432,7 @@
       ]
     },
     {
-      "birth_date": "1966-01-01",
+      "birth_date": "1966",
       "email": "Roxanne.James@parl.gc.ca",
       "family_name": "James",
       "gender": "female",
@@ -41188,7 +41183,7 @@
       ]
     },
     {
-      "birth_date": "1975-01-01",
+      "birth_date": "1975",
       "contact_details": [
         {
           "type": "twitter",
@@ -43646,7 +43641,7 @@
       ]
     },
     {
-      "birth_date": "1970-01-01",
+      "birth_date": "1970",
       "email": "Sylvain.Chicoine@parl.gc.ca",
       "gender": "male",
       "given_name": "Sylvain",
