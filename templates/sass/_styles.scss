@@ -147,7 +147,8 @@ h2 {
   }
 }
 
-.skip {
+.skip,
+.show-later {
   padding: 2em;
   background-color: #fff;
 }
@@ -201,7 +202,8 @@ h2 {
   counter-reset: choices;
 
   .person,
-  .skip {
+  .skip,
+  .show-later {
     box-shadow: 0 1px 3px rgba(0,0,0,0.2);
     margin-bottom: 2em;
     cursor: pointer;
@@ -224,6 +226,11 @@ h2 {
     .person__meta:before {
       content: "\2794";
       left: -0.2em; // the arrow is wider than the numbers, so give it more space
+    }
+  }
+  .show-later {
+    .person__meta:before {
+      content: "\003F";
     }
   }
 }

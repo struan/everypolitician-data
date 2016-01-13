@@ -23,6 +23,10 @@ var vote = function vote($choice){
     // Insert a null value to indicate skip. 
     // These are removed when serializing to CSV.
     window.votes.push( [incomingPersonID, null] );
+  } else if ($choice.is('.show-later')) {
+    nextPairing($pairing);
+    $pairing.appendTo('.pairings');
+    return;
   } else {
     window.votes.push( [incomingPersonID, $choice.attr('data-uuid')] );
   }
@@ -161,6 +165,9 @@ var handleKeyPress = function handleKeyPress(e){
   if($('.pairing:visible').length && $('.csv').is(':hidden')){
     // right arrow
     if(e.which == 39){ return vote($('.pairing:visible .skip')); } 
+
+    // question mark
+    if(e.which == 191){ return vote($('.pairing:visible .show-later')); }
 
     // number key
     if(e.which > 48 && e.which < 58){
