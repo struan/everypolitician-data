@@ -152,8 +152,10 @@ namespace :merge_sources do
     term: %w(legislative_period),
     website: %w(homepage href url site),
   }
+  REMAP_LOOKUP = {}
+  REMAP.each { |key, values| values.each { |value| REMAP_LOOKUP[value] = key } }
   def remap(str)
-    REMAP.find(->{[str]}) { |k, v| v.include? str.to_s }.first.to_sym
+    REMAP_LOOKUP[str.to_s] || str.to_sym
   end
 
   # http://codereview.stackexchange.com/questions/84290/combining-csvs-using-ruby-to-match-headers
