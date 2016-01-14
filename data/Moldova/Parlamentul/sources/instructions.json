@@ -7,7 +7,12 @@
         "scraper": "tmtmtmtm/moldova_parlament",
         "query": "SELECT * FROM data ORDER BY id"
       },
-      "source": "https://morph.io/tmtmtmtm/moldova_parlament",
+      "source": "http://www.parlament.md",
+      "type": "membership"
+    },
+    {
+      "file": "manual/gone.csv",
+      "source": "http://www.parlament.md",
       "type": "membership"
     },
     {
