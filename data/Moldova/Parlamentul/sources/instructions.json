@@ -5,9 +5,14 @@
       "create": {
         "type": "morph",
         "scraper": "tmtmtmtm/moldova_parlament",
-        "query": "SELECT * FROM data"
+        "query": "SELECT * FROM data ORDER BY id"
       },
-      "source": "https://morph.io/tmtmtmtm/moldova_parlament",
+      "source": "http://www.parlament.md",
+      "type": "membership"
+    },
+    {
+      "file": "manual/gone.csv",
+      "source": "http://www.parlament.md",
       "type": "membership"
     },
     {
@@ -41,6 +46,14 @@
       "create": {
         "type": "gender-balance",
         "source": "Moldova/Parlamentul"
+      }
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "create": {
+        "type": "group-wikidata",
+        "source": "manual/group_wikidata.csv"
       }
     }
   ]
