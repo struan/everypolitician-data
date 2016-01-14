@@ -31,6 +31,14 @@
         "type": "gender-balance",
         "source": "Mexico/Deputies"
       }
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "create": {
+        "type": "group-wikidata",
+        "source": "manual/group_wikidata.csv"
+      }
     }
   ]
 }
