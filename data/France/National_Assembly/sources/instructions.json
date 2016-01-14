@@ -33,6 +33,14 @@
         "type": "gender-balance",
         "source": "France/National-Assembly"
       }
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "create": {
+        "type": "group-wikidata",
+        "source": "manual/group_wikidata.csv"
+      }
     }
   ]
 }
