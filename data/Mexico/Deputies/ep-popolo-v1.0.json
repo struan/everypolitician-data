@@ -22444,52 +22444,1120 @@
     {
       "classification": "party",
       "id": "PES",
-      "name": "Encuentro Social"
+      "identifiers": [
+        {
+          "identifier": "Q6064040",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Encuentro Social",
+      "other_names": [
+        {
+          "lang": "es",
+          "name": "Partido Encuentro Social",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Social Encounter Party",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "MC",
-      "name": "Movimiento Ciudadano"
+      "identifiers": [
+        {
+          "identifier": "Q10920094",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.convergenciamexico.org.mx"
+        }
+      ],
+      "name": "Movimiento Ciudadano",
+      "other_names": [
+        {
+          "lang": "es",
+          "name": "Movimiento Ciudadano (partido político)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Citizens' Movement (Mexico)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Yurttaş Hareketi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Partij van de Burgerbeweging",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "MORENA",
-      "name": "Movimiento Regeneración Nacional"
+      "identifiers": [
+        {
+          "identifier": "Q15717618",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Movimiento Regeneración Nacional",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "National Regeneration Movement",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "National Regeneration Movement",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Ulusal Yenilenme Hareketi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Morena (movimiento político)",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "PAN",
-      "name": "Partido Acción Nacional"
+      "identifiers": [
+        {
+          "identifier": "Q851087",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d0/PAN_Party_(Mexico).svg",
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.pan.org.mx/"
+        }
+      ],
+      "name": "Partido Acción Nacional",
+      "other_names": [
+        {
+          "lang": "pt",
+          "name": "Partido da Ação Nacional",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hans",
+          "name": "墨西哥国家行动党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "墨西哥國家行動黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "墨西哥國家行動黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Meksika Partio pri Agado Nacia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Partia Akcji Narodowej",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nah",
+          "name": "Partido Acción Nacional",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti action nationale",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Партия национального действия",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Acción Nacional",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "National Action Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Milliyetçi Türkiye Partisi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Partit Acció Nacional",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Partito Azione Nazionale",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Partido Acción Nacional",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "国民行動党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Партия на националното действие",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Partija nacionalne akcije",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "მექსიკის ეროვნული მოქმედების პარტია",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Stranka nacionalne akcije",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "حزب الفعل الوطني",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Nationella aktionspartiet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Nationale Actiepartij",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "Naitional Action Pairty",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Partido Acción Nacional",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Странка националне акције",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Partidul Acțiunii Naționale",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "墨西哥国家行动党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Партія національної дії (Мексика)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "국민행동당",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hy",
+          "name": "Ազգային շարժման կուսակցություն",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Partido Acción Nacional de México (PAN)",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "PANAL",
-      "name": "Partido Nueva Alianza"
+      "identifiers": [
+        {
+          "identifier": "Q2080372",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4f/PNA_Party_(Mexico).svg",
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.nueva-alianza.org.mx"
+        }
+      ],
+      "name": "Partido Nueva Alianza",
+      "other_names": [
+        {
+          "lang": "nl",
+          "name": "Nieuwe Alliantie",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "New Alliance Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Nueva Alianza",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti nouvelle alliance",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nah",
+          "name": "Partido Nueva Alianza",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "新联盟党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Partido Nueva Alianza",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "PRI",
-      "name": "Partido Revolucionario Institucional"
+      "identifiers": [
+        {
+          "identifier": "Q682969",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/PRI_Party_(Mexico).svg",
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.pri.org.mx"
+        }
+      ],
+      "name": "Partido Revolucionario Institucional",
+      "other_names": [
+        {
+          "lang": "zh-hans",
+          "name": "革命制度党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "革命制度黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "革命制度黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Partia Rewolucyjno-Instytucjonalna",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nah",
+          "name": "Partido Revolucionario Institucional",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti révolutionnaire institutionnel",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "혁명제도당",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Revolucionario Institucional",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Partito Rivoluzionario Istituzionale",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Partei der institutionellen Revolution",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "制度的革命党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Institucionalno revolucionarna partija",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Institutioneel Revolutionaire Partij",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "الحزب الثوري المؤسساتي",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Partido Revolucionario Institucional",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Partido Revolucionário Institucional",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Revolucia Institucia Partio",
+          "note": "multilingual"
+        },
+        {
+          "lang": "is",
+          "name": "PRI flokkurinn",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Институционно-революционная партия",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Institutional Revolutionary Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Kurumsal Devrimci Parti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Partit Revolucionari Institucional",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Partido Revolucionario Institucional",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Институционна революционна партия",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "მექსიკის ინსტიტუციურ-რევოლუციური პარტია",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Meksikos institucinė revoliucinė partija",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Partido Revolucionario Institucional",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Институционална револуционарна партија",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "革命制度党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Інституційно-революційна партія (Мексика)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Partido Revolucionario Institucional (PRI)",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "PVE",
-      "name": "Partido Verde Ecologista"
+      "identifiers": [
+        {
+          "identifier": "Q383718",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/96/PVE_Party_(Mexico).svg",
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.partidoverde.org.mx"
+        }
+      ],
+      "name": "Partido Verde Ecologista",
+      "other_names": [
+        {
+          "lang": "es",
+          "name": "Partido Verde Ecologista de México",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Partido Verde Ecologista de México",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Ecologist Green Party of Mexico",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Partido Verde Ecologista de México",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Meksikon ekologinen vihreä puolue",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti vert écologiste du Mexique",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "緑の党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "멕시코 환경주의 녹색당",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nah",
+          "name": "Partido Verde Ecologista de México",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Groene Ecologische Partij van Mexico",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Partido Verde Ecologista do México",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Зелёная экологическая партия Мексики",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Mexikos Gröna Ekologparti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "绿色生态党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "Ecologist Green Pairty o Mexico",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Partido Verde Ecologista de México",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Οικολογικό Πράσινο Κόμμα του Μεξικού",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "PRD",
-      "name": "Partido de la Revolución Democrática"
+      "identifiers": [
+        {
+          "identifier": "Q767010",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b1/PRD_Party_(Mexico).svg",
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.prd.org.mx"
+        }
+      ],
+      "name": "Partido de la Revolución Democrática",
+      "other_names": [
+        {
+          "lang": "it",
+          "name": "Partito della Rivoluzione Democratica",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Партия на демократичната революция",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Partit de la Revolució Democràtica",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Partido de la Revolución Democrática",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Party of the Democratic Revolution",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Partio de la Demokratia Revolucio",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido de la Revolución Democrática",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti de la révolution démocratique",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "民主革命党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "민주혁명당",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Meksikos demokratinės revoliucijos partija",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nah",
+          "name": "Partido de la Revolución Democrática",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Partij van de Democratische Revolutie",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Partido de la Revolución Democrática",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Partido da Revolução Democrática",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Партия демократической революции",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Partido de la Revolución Democrática",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "民主革命党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "Pairty o the Democratic Revolution",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Партија демократске револуције",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Partido de la Revolución Democrática",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Demokratik Devrim Partisi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hy",
+          "name": "Հեղափոխական դեմոկրատներ",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "PT",
-      "name": "Partido del Trabajo"
+      "identifiers": [
+        {
+          "identifier": "Q540320",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/PT_Party_(Mexico).svg",
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.partidodeltrabajo.org.mx/"
+        }
+      ],
+      "name": "Partido del Trabajo",
+      "other_names": [
+        {
+          "lang": "fr",
+          "name": "Parti du travail",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Partido del Trabajo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Partido del Trabajo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Labor Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido del Trabajo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "労働党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Partij van de Arbeid",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Partido del Trabajo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Партия труда",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Partido del Trabajo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Partido do Trabalho (México)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "İşçi Partisi",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "_IND",
-      "name": "Sin Partido"
+      "identifiers": [
+        {
+          "identifier": "Q327591",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Sin Partido",
+      "other_names": [
+        {
+          "lang": "zh-hans",
+          "name": "无党籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "無黨籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "無黨籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "无党籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-sg",
+          "name": "无党籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-tw",
+          "name": "無黨籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Sans étiquette",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "무소속",
+          "note": "multilingual"
+        },
+        {
+          "lang": "arz",
+          "name": "سياسى مستقل",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidato independiente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "சுயேட்சை",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Parteiloser",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Independen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "無所属",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "ανεξάρτητος",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "independent politician",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yue",
+          "name": "獨立人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "onafhankelijk politicus",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Partilös",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "سياسي مستقل",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "político sem partido",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "беспартийный",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mn",
+          "name": "Бие даагч",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-ec",
+          "name": "независни политичар",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Bağımsız siyasetçi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Politician independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Sitoutumaton",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Annibynnwr",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ur",
+          "name": "آزاد",
+          "note": "multilingual"
+        },
+        {
+          "lang": "az",
+          "name": "Partiyasız",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "løsgænger",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "無黨籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "simple",
+          "name": "Independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "независни политичар",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "کنشگر سیاسی مستقل",
+          "note": "multilingual"
+        },
+        {
+          "lang": "war",
+          "name": "Independente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-el",
+          "name": "nezavisni političar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "indipendente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be",
+          "name": "Беспартыйны",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "polityk niezrzeszony",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mr",
+          "name": "अपक्ष",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be-tarask",
+          "name": "Беспартыйны",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "פוליטיקאי עצמאי",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "partiløs",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "nezávislý",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "független politikus",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Sendependa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hi",
+          "name": "निर्दलीय",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Nezavisni",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "independent politeecian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Nezávislý politik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hak",
+          "name": "Mò-tóng-sit",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "นักการเมืองอิสระ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Незалежний політик",
+          "note": "multilingual"
+        }
+      ]
     }
   ],
   "meta": {
