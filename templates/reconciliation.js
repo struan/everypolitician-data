@@ -201,8 +201,8 @@ jQuery(function($) {
       person.matchStrength = Math.ceil(existing[1] * 100);
       var fields = _.intersection(incomingPersonFields, Object.keys(person));
 
-      var incomingNameWords = incomingPerson[window.incomingField].toLowerCase().split(/\s+/);
-      var markedName = _.map(person[window.existingField].split(/\s+/), function(word){
+      var incomingNameWords = incomingPerson[window.incomingField].toLowerCase().replace(',', '').split(/\s+/);
+      var markedName = _.map(person[window.existingField].replace(',', '').split(/\s+/), function(word){
         if (_.contains(incomingNameWords, word.toLowerCase())) { 
           return '<span class="match">' + word + '</span>'
         } else { 

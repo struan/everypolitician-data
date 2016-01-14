@@ -1853,17 +1853,305 @@
     {
       "classification": "party",
       "id": "party/arena",
-      "name": "ARENA"
+      "identifiers": [
+        {
+          "identifier": "Q1146480",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Bandera_Alianza_Republicana_Nacionalista.jpg",
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.arena.com.sv/"
+        }
+      ],
+      "name": "ARENA",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Alianza Republicana Nacionalista",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Националистически републикански алианс",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Alianza Republicana Nacionalista",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Alianza Republicana Nacionalista",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Εθνικιστική Ρεπουμπλικανική Συμμαχία",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Nationalist Republican Alliance",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Alianza Republicana Nacionalista",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "ARENA",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "ARENA",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Alliance républicaine nationaliste",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Nationalistische Republikeinse Alliantie",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Narodowy Sojusz Republikański",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Aliança Republicana Nacionalista",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "ARENA",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Національний республіканський альянс",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "民族主义共和联盟",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Националистический республиканский альянс",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Alianza Republicana Nacionalista",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/fmln",
-      "name": "FMLN"
+      "identifiers": [
+        {
+          "identifier": "Q648924",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/86/Flag_of_FMLN.jpg",
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.fmln.org.sv/"
+        }
+      ],
+      "name": "FMLN",
+      "other_names": [
+        {
+          "lang": "nl",
+          "name": "Front Farabundo Martí voor Nationale Bevrijding",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Фронт за национално освобождение „Фарабундо Марти“",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Frente Farabundo Martí para la Liberación Nacional",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Frente Farabundo Martí para la Liberación Nacional",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Frente Farabundo Martí para la Liberación Nacional",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Μέτωπο Εθνικής Απελευθέρωσης Φαραμπούντο Μαρτί",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Farabundo Martí National Liberation Front",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "FMLN",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Frente Farabundo Martí para la Liberación Nacional",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "FMLN",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Frente Farabundo Martí para la Liberación Nacional",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Front Farabundo Martí de libération nationale",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hi",
+          "name": "फाराबंदो मार्ती राष्ट्रिय मुक्ति मोर्चा",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Front Pembebasan Nasional Farabundo Martí",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Fronte Farabundo Martí per la Liberazione Nazionale",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ファラブンド・マルティ民族解放戦線",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "फाराबुन्दो मार्टि राष्ट्रिय मुक्ति मोर्चा",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Front Wyzwolenia Narodowego im. Farabunda Martíego",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Frente Farabundo Martí de Libertação Nacional",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Фронт национального освобождения имени Фарабундо Марти",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Front národného oslobodenia Farabunda Martího",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "FMLN",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "法拉本多·马蒂民族解放阵线",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "جبهة فارابوندو مارتي للتحرير الوطني",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Фронт національного звільнення імені Фарабундо Марті",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nan",
+          "name": "Frente Farabundo Martí para la Liberación Nacional",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "FMLN",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Frente Farabundo Martí para la Liberación Nacional",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/gana",
-      "name": "GANA"
+      "identifiers": [
+        {
+          "identifier": "Q5594236",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "GANA",
+      "other_names": [
+        {
+          "lang": "bg",
+          "name": "Широк алианс за национално единство",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Grand Alliance for National Unity",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Gran Alianza por la Unidad Nacional",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Широкий альянс за национальное единство",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "legislature",
@@ -1880,12 +2168,99 @@
     {
       "classification": "party",
       "id": "party/pcn",
-      "name": "PCN"
+      "identifiers": [
+        {
+          "identifier": "Q1123900",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "PCN",
+      "other_names": [
+        {
+          "lang": "fr",
+          "name": "Parti de la conciliation nationale",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "National Coalition",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Partia Pojednania Narodowego",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Partido de Conciliação Nacional",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Concertación Nacional",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido de Conciliación",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Partido de Conciliacón Nacional",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Национальная коалиция",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Partido de Concertación Nacional",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/pdc",
-      "name": "PDC"
+      "identifiers": [
+        {
+          "identifier": "Q2728438",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.cambiodemocratico.com.sv/"
+        }
+      ],
+      "name": "PDC",
+      "other_names": [
+        {
+          "lang": "pl",
+          "name": "Demokratyczna Zmiana",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Changement démocratique",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Democratic Change",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Cambio Democrático",
+          "note": "multilingual"
+        }
+      ]
     }
   ],
   "meta": {
