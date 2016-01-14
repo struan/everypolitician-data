@@ -11444,12 +11444,63 @@
     {
       "classification": "party",
       "id": "party/cpdm",
-      "name": "CPDM"
+      "identifiers": [
+        {
+          "identifier": "Q3366357",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "CPDM",
+      "other_names": [
+        {
+          "lang": "eo",
+          "name": "Kameruna Partio de Demokratoj",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Cameroonian Party of Democrats",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti des démocrates camerounais",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "حزب ديموقراطيون كاميرونيون",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/mdr",
-      "name": "MDR"
+      "identifiers": [
+        {
+          "identifier": "Q15195678",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "MDR",
+      "other_names": [
+        {
+          "lang": "fr",
+          "name": "Mouvement pour la défense de la République",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Movement for the Defence of the Republic",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "حركة الدفاع عن الجمهورية",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
@@ -11459,7 +11510,41 @@
     {
       "classification": "party",
       "id": "party/nudp",
-      "name": "NUDP"
+      "identifiers": [
+        {
+          "identifier": "Q6979097",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://undpfrance.free.fr/historiq.htm"
+        }
+      ],
+      "name": "NUDP",
+      "other_names": [
+        {
+          "lang": "eo",
+          "name": "Nacia Unuiĝo por Demokratio kaj Progreso (Kameruno)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "National Union for Democracy and Progress",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Union nationale pour la démocratie et le progrès",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "الاتحاد الوطني الديمقراطي والتقدمي",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
@@ -11469,12 +11554,137 @@
     {
       "classification": "party",
       "id": "party/sdf",
-      "name": "SDF"
+      "identifiers": [
+        {
+          "identifier": "Q1470113",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/57/Flag_of_the_FSD,_Cameroon.png",
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.sdfcameroon.org/"
+        }
+      ],
+      "name": "SDF",
+      "other_names": [
+        {
+          "lang": "lv",
+          "name": "Sociāldemokrātu fronte (Kamerūna)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Социал-демократический фронт",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Kamerūno socialdemokratinis frontas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Social Democratic Front",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Socia-Demokrata Fronto (Kameruno)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Front Socialdemòcrata del Camerun",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Sozialdemokratische Front",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Social Democratic Front",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Frente Socialdemócrata de Camerún",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Social democratic front",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "جبهة ديمقراطية مشتركة",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Fronte Social-Democratico",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/upc",
-      "name": "UPC"
+      "identifiers": [
+        {
+          "identifier": "Q1860584",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/27/Flag_of_the_UPC,_Cameroon.png",
+      "links": [
+        {
+          "note": "website",
+          "url": "http://upc-kamerun.com"
+        }
+      ],
+      "name": "UPC",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Union der Völker Kameruns",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Unuiĝo de la Popoloj de Kameruno",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Союз народов Камеруна",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Union des populations du Cameroun",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Union of the Peoples of Cameroon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Unió de Pobles del Camerun",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "الاتحاد الشعوب الكاميرون",
+          "note": "multilingual"
+        }
+      ]
     }
   ],
   "meta": {
