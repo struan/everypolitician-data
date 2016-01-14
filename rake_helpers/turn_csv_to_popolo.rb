@@ -14,7 +14,7 @@ namespace :whittle do
   task :meta_info => :load do
     @json[:meta] ||= {}
     # TODO: allow for more than one source
-    @json[:meta][:sources] = instructions(:sources).map { |s| s[:source] }.compact
+    @json[:meta][:sources] = instructions(:sources).map { |s| s[:source] }.compact.uniq
   end
 
   # Remove any 'warnings' left behind from (e.g.) csv-to-popolo
