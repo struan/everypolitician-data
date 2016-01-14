@@ -132,6 +132,7 @@
       ]
     },
     {
+      "birth_date": "1986-12-08",
       "gender": "female",
       "given_name": "Alina",
       "id": "183e9f62-23e0-4b69-a9d4-20494e107f45",
@@ -182,7 +183,7 @@
       ]
     },
     {
-      "birth_date": "1970-01-01",
+      "birth_date": "1970",
       "gender": "female",
       "id": "01832bfe-3394-4a76-a20d-c36b690e51cb",
       "identifiers": [
@@ -359,7 +360,7 @@
       ]
     },
     {
-      "birth_date": "1973-01-01",
+      "birth_date": "1973",
       "email": "Anatolie.Zagorodnii@parlament.md",
       "gender": "male",
       "id": "a081a549-c630-4d3a-9ef0-ed6e4e27710b",
@@ -790,120 +791,6 @@
       ]
     },
     {
-      "birth_date": "1951-09-25",
-      "email": "Gheorghe.Brega@parlament.md",
-      "gender": "male",
-      "given_name": "Gheorghe",
-      "id": "9eed795b-b959-469e-94f2-a4178b5f856a",
-      "identifiers": [
-        {
-          "identifier": "31",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q15715802",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Gheorghe_Brega_(01).png",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Gheorghe_Brega_(01).png"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (de)",
-          "url": "https://de.wikipedia.org/wiki/Gheorghe_Brega"
-        },
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Gheorghe_Brega"
-        },
-        {
-          "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Gheorghe_Brega"
-        },
-        {
-          "note": "Wikipedia (it)",
-          "url": "https://it.wikipedia.org/wiki/Gheorghe_Brega"
-        },
-        {
-          "note": "Wikipedia (la)",
-          "url": "https://la.wikipedia.org/wiki/Georgius_Brega"
-        },
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Gheorghe_Brega"
-        },
-        {
-          "note": "Wikipedia (ru)",
-          "url": "https://ru.wikipedia.org/wiki/Брега,_Георгий"
-        },
-        {
-          "note": "Wikipedia (tr)",
-          "url": "https://tr.wikipedia.org/wiki/Gheorghe_Brega"
-        }
-      ],
-      "name": "Brega Gheorghe",
-      "other_names": [
-        {
-          "name": "Gheorghe Brega",
-          "note": "alternate"
-        },
-        {
-          "lang": "de",
-          "name": "Gheorghe Brega",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Gheorghe Brega",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Gheorghe Brega",
-          "note": "multilingual"
-        },
-        {
-          "lang": "it",
-          "name": "Gheorghe Brega",
-          "note": "multilingual"
-        },
-        {
-          "lang": "la",
-          "name": "Georgius Brega",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Gheorghe Brega",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ro",
-          "name": "Gheorghe Brega",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ru",
-          "name": "Брега, Георгий",
-          "note": "multilingual"
-        },
-        {
-          "lang": "tr",
-          "name": "Gheorghe Brega",
-          "note": "multilingual"
-        }
-      ],
-      "sources": [
-        {
-          "url": "http://www.parlament.md/StructuraParlamentului/Deputies/tabid/87/Id/31/language/en-US/Default.aspx"
-        }
-      ]
-    },
-    {
       "birth_date": "1970-11-14",
       "email": "Valeriu.Bodiu@parlament.md",
       "gender": "male",
@@ -946,43 +833,6 @@
       "sources": [
         {
           "url": "http://www.parlament.md/StructuraParlamentului/Deputies/tabid/87/Id/312/language/en-US/Default.aspx"
-        }
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "6a4cb09e-a7f0-4afc-9126-efa4925474b5",
-      "identifiers": [
-        {
-          "identifier": "542",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q20430935",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Iurie_Chirinciuc"
-        }
-      ],
-      "name": "Chirinciuc Iurie",
-      "other_names": [
-        {
-          "name": "Iurie Chirinciuc",
-          "note": "alternate"
-        },
-        {
-          "lang": "ro",
-          "name": "Iurie Chirinciuc",
-          "note": "multilingual"
-        }
-      ],
-      "sources": [
-        {
-          "url": "http://www.parlament.md/StructuraParlamentului/Deputies/tabid/87/Id/542/language/en-US/Default.aspx"
         }
       ]
     },
@@ -1250,74 +1100,6 @@
       ]
     },
     {
-      "birth_date": "1973-06-19",
-      "email": "Anatolie.Dimitriu@parlament.md",
-      "gender": "male",
-      "id": "5738b37f-30de-46cf-afb8-ce3515cfe7db",
-      "identifiers": [
-        {
-          "identifier": "306",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q4752143",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Anatolie_Dimitriu"
-        },
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Anatolie_Dimitriu"
-        }
-      ],
-      "name": "Dimitriu Anatolie",
-      "other_names": [
-        {
-          "name": "Anatolie Dimitriu",
-          "note": "alternate"
-        },
-        {
-          "lang": "de",
-          "name": "Anatolie Dimitriu",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Anatolie Dimitriu",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Anatolie Dimitriu",
-          "note": "multilingual"
-        },
-        {
-          "lang": "it",
-          "name": "Anatolie Dimitriu",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Anatolie Dimitriu",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ro",
-          "name": "Anatolie Dimitriu",
-          "note": "multilingual"
-        }
-      ],
-      "sources": [
-        {
-          "url": "http://www.parlament.md/StructuraParlamentului/Deputies/tabid/87/Id/306/language/en-US/Default.aspx"
-        }
-      ]
-    },
-    {
       "birth_date": "1952-02-10",
       "email": "Dumitru.Diacov@parlament.md",
       "gender": "male",
@@ -1488,7 +1270,7 @@
       ]
     },
     {
-      "birth_date": "1965-01-01",
+      "birth_date": "1965",
       "gender": "female",
       "given_name": "Elena",
       "id": "4b48c0ba-4348-4b18-82ac-5d6b4d4cf6bb",
@@ -1567,7 +1349,7 @@
       ]
     },
     {
-      "birth_date": "1950-01-01",
+      "birth_date": "1950",
       "gender": "female",
       "given_name": "Elena",
       "id": "59a990d5-5d9a-4895-8a41-807797cd4e91",
@@ -1756,76 +1538,6 @@
       "sources": [
         {
           "url": "http://www.parlament.md/StructuraParlamentului/Deputies/tabid/87/Id/549/language/en-US/Default.aspx"
-        }
-      ]
-    },
-    {
-      "birth_date": "1959-09-04",
-      "email": "Corina.Fusu@parlament.md",
-      "gender": "female",
-      "given_name": "Corina",
-      "id": "abecaf88-e847-4528-95b8-1464b0ab65d1",
-      "identifiers": [
-        {
-          "identifier": "21",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q5170538",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Corina_Fusu_(3952134958).jpg",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Corina_Fusu_(3952134958).jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Corina_Fusu"
-        },
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Corina_Fusu"
-        }
-      ],
-      "name": "Fusu Corina",
-      "other_names": [
-        {
-          "name": "Corina Fusu",
-          "note": "alternate"
-        },
-        {
-          "lang": "de",
-          "name": "Corina Fusu",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Corina Fusu",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Corina Fusu",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Corina Fusu",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ro",
-          "name": "Corina Fusu",
-          "note": "multilingual"
-        }
-      ],
-      "sources": [
-        {
-          "url": "http://www.parlament.md/StructuraParlamentului/Deputies/tabid/87/Id/21/language/en-US/Default.aspx"
         }
       ]
     },
@@ -2070,130 +1782,6 @@
       "sources": [
         {
           "url": "http://www.parlament.md/StructuraParlamentului/Deputies/tabid/87/Id/562/language/en-US/Default.aspx"
-        }
-      ]
-    },
-    {
-      "birth_date": "1969-12-17",
-      "gender": "male",
-      "given_name": "Igor",
-      "id": "ac89e3a4-fb59-4db4-9e72-4ad4916b208f",
-      "identifiers": [
-        {
-          "identifier": "33",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "/m/0bbzzmz",
-          "scheme": "freebase"
-        },
-        {
-          "identifier": "Q451235",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://www.parlament.md/LinkClick.aspx?fileticket=M0YlN2NpGTg%3d&tabid=87&mid=476&language=en-US",
-      "images": [
-        {
-          "url": "http://www.parlament.md/LinkClick.aspx?fileticket=M0YlN2NpGTg%3d&tabid=87&mid=476&language=en-US"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (bg)",
-          "url": "https://bg.wikipedia.org/wiki/Игор_Корман"
-        },
-        {
-          "note": "Wikipedia (commons)",
-          "url": "https://commons.wikipedia.org/wiki/Category:Igor_Corman"
-        },
-        {
-          "note": "Wikipedia (de)",
-          "url": "https://de.wikipedia.org/wiki/Igor_Corman"
-        },
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Igor_Corman"
-        },
-        {
-          "note": "Wikipedia (pl)",
-          "url": "https://pl.wikipedia.org/wiki/Igor_Corman"
-        },
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Igor_Corman"
-        },
-        {
-          "note": "Wikipedia (ru)",
-          "url": "https://ru.wikipedia.org/wiki/Корман,_Игорь"
-        },
-        {
-          "note": "Wikipedia (uk)",
-          "url": "https://uk.wikipedia.org/wiki/Ігор_Корман"
-        }
-      ],
-      "name": "Igor Corman",
-      "other_names": [
-        {
-          "lang": "bg",
-          "name": "Игор Корман",
-          "note": "multilingual"
-        },
-        {
-          "lang": "de",
-          "name": "Igor Corman",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Igor Corman",
-          "note": "multilingual"
-        },
-        {
-          "lang": "es",
-          "name": "Igor Corman",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Igor Corman",
-          "note": "multilingual"
-        },
-        {
-          "lang": "mo",
-          "name": "Igor Corman",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Igor Corman",
-          "note": "multilingual"
-        },
-        {
-          "lang": "pl",
-          "name": "Igor Corman",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ro",
-          "name": "Igor Corman",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ru",
-          "name": "Корман, Игорь",
-          "note": "multilingual"
-        },
-        {
-          "lang": "uk",
-          "name": "Ігор Корман",
-          "note": "multilingual"
-        }
-      ],
-      "sort_name": "Corman Igor",
-      "sources": [
-        {
-          "url": "http://www.parlament.md/StructuraParlamentului/Deputies/tabid/87/Id/33/language/en-US/Default.aspx"
         }
       ]
     },
@@ -2582,73 +2170,6 @@
       ]
     },
     {
-      "birth_date": "1980-06-30",
-      "email": "Ion.Ceban@parlament.md",
-      "gender": "male",
-      "given_name": "Ion",
-      "id": "e33f5d62-dba3-4c6b-b51f-8013e1c62289",
-      "identifiers": [
-        {
-          "identifier": "389",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q17336477",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://www.parlament.md/LinkClick.aspx?fileticket=wUKi85EgEv0%3d&tabid=87&mid=476&language=en-US",
-      "images": [
-        {
-          "url": "http://www.parlament.md/LinkClick.aspx?fileticket=wUKi85EgEv0%3d&tabid=87&mid=476&language=en-US"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Ion_Ceban"
-        },
-        {
-          "note": "Wikipedia (ru)",
-          "url": "https://ru.wikipedia.org/wiki/Чебан,_Ион_Васильевич"
-        }
-      ],
-      "name": "Ion Ceban",
-      "other_names": [
-        {
-          "lang": "de",
-          "name": "Ion Ceban",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Ion Ceban",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Ion Ceban",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ro",
-          "name": "Ion Ceban",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ru",
-          "name": "Чебан, Ион Васильевич",
-          "note": "multilingual"
-        }
-      ],
-      "sort_name": "Ceban Ion",
-      "sources": [
-        {
-          "url": "http://www.parlament.md/StructuraParlamentului/Deputies/tabid/87/Id/389/language/en-US/Default.aspx"
-        }
-      ]
-    },
-    {
       "id": "5e1d11f2-2bf3-47cc-9b7e-d7631b540624",
       "identifiers": [
         {
@@ -2671,7 +2192,7 @@
       ]
     },
     {
-      "birth_date": "1971-01-01",
+      "birth_date": "1971",
       "gender": "male",
       "given_name": "Iurie",
       "id": "5d0fd1c4-c702-4de3-b38b-174857eb0896",
@@ -3083,7 +2604,7 @@
       ]
     },
     {
-      "birth_date": "1953-01-01",
+      "birth_date": "1953",
       "gender": "female",
       "given_name": "Lidia",
       "id": "8a39d674-a671-4486-8878-57c2786b2fcb",
@@ -3798,45 +3319,6 @@
       ]
     },
     {
-      "id": "a1e8cd1b-5b0d-492a-9a64-d1865034025c",
-      "identifiers": [
-        {
-          "identifier": "599",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q21746908",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://www.parlament.md/LinkClick.aspx?fileticket=%2ffNcM6%2bhA78%3d&tabid=87&mid=476&language=en-US",
-      "images": [
-        {
-          "url": "http://www.parlament.md/LinkClick.aspx?fileticket=%2ffNcM6%2bhA78%3d&tabid=87&mid=476&language=en-US"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Mihaela_Iacob"
-        }
-      ],
-      "name": "Mihaela Iacob",
-      "other_names": [
-        {
-          "lang": "ro",
-          "name": "Mihaela Iacob",
-          "note": "multilingual"
-        }
-      ],
-      "sort_name": "Iacob Mihaela",
-      "sources": [
-        {
-          "url": "http://www.parlament.md/StructuraParlamentului/Deputies/tabid/87/Id/599/language/en-US/Default.aspx"
-        }
-      ]
-    },
-    {
       "id": "a67455e1-c8af-4b24-8fa6-49d0ffffeb70",
       "identifiers": [
         {
@@ -4249,37 +3731,6 @@
       "sources": [
         {
           "url": "http://www.parlament.md/StructuraParlamentului/Deputies/tabid/87/Id/10/language/en-US/Default.aspx"
-        }
-      ]
-    },
-    {
-      "id": "4dd0f8da-4326-4091-8333-cf74c1ef9077",
-      "identifiers": [
-        {
-          "identifier": "597",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Molozea Nicolae",
-      "sources": [
-        {
-          "url": "http://www.parlament.md/StructuraParlamentului/Deputies/tabid/87/Id/597/language/en-US/Default.aspx"
-        }
-      ]
-    },
-    {
-      "email": "valeriu.munteanu@parlament.md",
-      "id": "14121c5f-f09f-4e97-b312-df9533b9768d",
-      "identifiers": [
-        {
-          "identifier": "87",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Munteanu Valeriu",
-      "sources": [
-        {
-          "url": "http://www.parlament.md/StructuraParlamentului/Deputies/tabid/87/Id/87/language/en-US/Default.aspx"
         }
       ]
     },
@@ -4861,84 +4312,6 @@
       ]
     },
     {
-      "birth_date": "1966-01-01",
-      "gender": "male",
-      "given_name": "Vladimir",
-      "id": "cc62a3f3-dfa9-4643-bd2f-bf20efda9b54",
-      "identifiers": [
-        {
-          "identifier": "317",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q4364752",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/6/66/Vlad_Plahotniuc.jpg",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Vlad_Plahotniuc.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Vladimir_Plahotniuc"
-        },
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Vladimir_Plahotniuc"
-        },
-        {
-          "note": "Wikipedia (ru)",
-          "url": "https://ru.wikipedia.org/wiki/Плахотнюк,_Владимир_Георгиевич"
-        }
-      ],
-      "name": "Plahotniuc Vladimir",
-      "other_names": [
-        {
-          "name": "Vladimir Plahotniuc",
-          "note": "alternate"
-        },
-        {
-          "lang": "de",
-          "name": "Vladimir Plahotniuc",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Vladimir Plahotniuc",
-          "note": "multilingual"
-        },
-        {
-          "lang": "es",
-          "name": "Vladimir Plahotniuc",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Vladimir Plahotniuc",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ro",
-          "name": "Vladimir Plahotniuc",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ru",
-          "name": "Плахотнюк, Владимир Георгиевич",
-          "note": "multilingual"
-        }
-      ],
-      "sources": [
-        {
-          "url": "http://www.parlament.md/StructuraParlamentului/Deputies/tabid/87/Id/317/language/en-US/Default.aspx"
-        }
-      ]
-    },
-    {
       "id": "bfcce7a2-e58a-4bd0-ba02-30525a8d4cb0",
       "identifiers": [
         {
@@ -5170,201 +4543,6 @@
       ]
     },
     {
-      "birth_date": "1970-03-08",
-      "email": "Alina.Druta@parlament.md",
-      "gender": "male",
-      "given_name": "Valeriu",
-      "id": "a640fc1a-9878-4663-94d1-b4898c55ee36",
-      "identifiers": [
-        {
-          "identifier": "89",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "/m/0bbv235",
-          "scheme": "freebase"
-        },
-        {
-          "identifier": "Q7911417",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Valeriu_Streleț_(2015).png",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Valeriu_Streleț_(2015).png"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (commons)",
-          "url": "https://commons.wikipedia.org/wiki/Category:Valeriu_Streleț"
-        },
-        {
-          "note": "Wikipedia (de)",
-          "url": "https://de.wikipedia.org/wiki/Valeriu_Streleț"
-        },
-        {
-          "note": "Wikipedia (el)",
-          "url": "https://el.wikipedia.org/wiki/Βαλέριου_Στρέλετς"
-        },
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Valeriu_Streleț"
-        },
-        {
-          "note": "Wikipedia (et)",
-          "url": "https://et.wikipedia.org/wiki/Valeriu_Streleț"
-        },
-        {
-          "note": "Wikipedia (fi)",
-          "url": "https://fi.wikipedia.org/wiki/Valeriu_Streleț"
-        },
-        {
-          "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Valeriu_Streleț"
-        },
-        {
-          "note": "Wikipedia (it)",
-          "url": "https://it.wikipedia.org/wiki/Valeriu_Streleț"
-        },
-        {
-          "note": "Wikipedia (la)",
-          "url": "https://la.wikipedia.org/wiki/Valerius_Streleț"
-        },
-        {
-          "note": "Wikipedia (nds)",
-          "url": "https://nds.wikipedia.org/wiki/Valeriu_Streleț"
-        },
-        {
-          "note": "Wikipedia (pl)",
-          "url": "https://pl.wikipedia.org/wiki/Valeriu_Streleț"
-        },
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Valeriu_Streleț"
-        },
-        {
-          "note": "Wikipedia (ru)",
-          "url": "https://ru.wikipedia.org/wiki/Стрелец,_Валерий"
-        },
-        {
-          "note": "Wikipedia (tr)",
-          "url": "https://tr.wikipedia.org/wiki/Valeriu_Streleț"
-        },
-        {
-          "note": "Wikipedia (uk)",
-          "url": "https://uk.wikipedia.org/wiki/Валерій_Стрелець"
-        },
-        {
-          "note": "Wikipedia (zh)",
-          "url": "https://zh.wikipedia.org/wiki/瓦列留·斯特列萊茨"
-        }
-      ],
-      "name": "Streleţ Valeriu",
-      "other_names": [
-        {
-          "name": "Valeriu Streleț",
-          "note": "alternate"
-        },
-        {
-          "lang": "de",
-          "name": "Valeriu Streleț",
-          "note": "multilingual"
-        },
-        {
-          "lang": "el",
-          "name": "Βαλέριου Στρέλετς",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Valeriu Streleț",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en-ca",
-          "name": "Valeriu Streleț",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en-gb",
-          "name": "Valeriu Streleț",
-          "note": "multilingual"
-        },
-        {
-          "lang": "et",
-          "name": "Valeriu Streleț",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fi",
-          "name": "Valeriu Streleț",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Valeriu Streleț",
-          "note": "multilingual"
-        },
-        {
-          "lang": "it",
-          "name": "Valeriu Streleț",
-          "note": "multilingual"
-        },
-        {
-          "lang": "la",
-          "name": "Valerius Streleț",
-          "note": "multilingual"
-        },
-        {
-          "lang": "mo",
-          "name": "Valeriu Streleţ",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nds",
-          "name": "Valeriu Streleț",
-          "note": "multilingual"
-        },
-        {
-          "lang": "pl",
-          "name": "Valeriu Streleț",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ro",
-          "name": "Valeriu Streleț",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ru",
-          "name": "Стрелец, Валерий",
-          "note": "multilingual"
-        },
-        {
-          "lang": "tr",
-          "name": "Valeriu Streleț",
-          "note": "multilingual"
-        },
-        {
-          "lang": "uk",
-          "name": "Валерій Стрелець",
-          "note": "multilingual"
-        },
-        {
-          "lang": "zh",
-          "name": "瓦列留·斯特列萊茨",
-          "note": "multilingual"
-        }
-      ],
-      "sources": [
-        {
-          "url": "http://www.parlament.md/StructuraParlamentului/Deputies/tabid/87/Id/89/language/en-US/Default.aspx"
-        }
-      ]
-    },
-    {
       "birth_date": "1955-10-29",
       "email": "Tudor.Deliu@parlament.md",
       "gender": "male",
@@ -5543,7 +4721,7 @@
       ]
     },
     {
-      "birth_date": "1962-01-01",
+      "birth_date": "1962",
       "email": "Valentina.Stratan@parlament.md",
       "gender": "female",
       "given_name": "Valentina",
@@ -5913,7 +5091,7 @@
       ]
     },
     {
-      "birth_date": "1959-01-01",
+      "birth_date": "1959",
       "email": "Victor.Mindru@parlament.md",
       "gender": "male",
       "given_name": "Victor",
@@ -7633,88 +6811,6 @@
       ]
     },
     {
-      "birth_date": "1962-02-02",
-      "gender": "male",
-      "given_name": "Anatoly",
-      "id": "4cc698de-50ce-473b-973c-0f2209960a53",
-      "identifiers": [
-        {
-          "identifier": "531",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q4752069",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Anatol_Șalaru.jpg",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Anatol_Șalaru.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Anatol_Șalaru"
-        },
-        {
-          "note": "Wikipedia (et)",
-          "url": "https://et.wikipedia.org/wiki/Anatol_Șalaru"
-        },
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Anatol_Șalaru"
-        },
-        {
-          "note": "Wikipedia (ru)",
-          "url": "https://ru.wikipedia.org/wiki/Шалару,_Анатолий"
-        }
-      ],
-      "name": "Şalaru Anatolie",
-      "other_names": [
-        {
-          "name": "Anatol Șalaru",
-          "note": "alternate"
-        },
-        {
-          "lang": "de",
-          "name": "Anatol Șalaru",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Anatol Șalaru",
-          "note": "multilingual"
-        },
-        {
-          "lang": "et",
-          "name": "Anatol Șalaru",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Anatol Șalaru",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ro",
-          "name": "Anatol Șalaru",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ru",
-          "name": "Анатол Шалару",
-          "note": "multilingual"
-        }
-      ],
-      "sources": [
-        {
-          "url": "http://www.parlament.md/StructuraParlamentului/Deputies/tabid/87/Id/531/language/en-US/Default.aspx"
-        }
-      ]
-    },
-    {
       "birth_date": "1973-05-16",
       "gender": "male",
       "given_name": "Ștefan",
@@ -7801,27 +6897,12 @@
     },
     {
       "classification": "party",
-      "id": "party/fracțiunea_partidului_democrat_din_moldova",
-      "name": "Fracțiunea Partidului Democrat din Moldova"
-    },
-    {
-      "classification": "party",
       "id": "10",
       "name": "Fracțiunea Partidului Liberal"
     },
     {
       "classification": "party",
-      "id": "party/fracțiunea_partidului_liberal",
-      "name": "Fracțiunea Partidului Liberal"
-    },
-    {
-      "classification": "party",
       "id": "11",
-      "name": "Fracțiunea Partidului Liberal Democrat din Moldova"
-    },
-    {
-      "classification": "party",
-      "id": "party/fracțiunea_partidului_liberal_democrat_din_moldova",
       "name": "Fracțiunea Partidului Liberal Democrat din Moldova"
     },
     {
@@ -7908,13 +6989,6 @@
       "on_behalf_of_id": "9",
       "organization_id": "legislature",
       "person_id": "1376613a-7f76-4de2-b6e3-cf535123f4b8",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/fracțiunea_partidului_liberal",
-      "organization_id": "legislature",
-      "person_id": "14121c5f-f09f-4e97-b312-df9533b9768d",
       "role": "member"
     },
     {
@@ -8101,30 +7175,9 @@
     },
     {
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/fracțiunea_partidului_liberal",
-      "organization_id": "legislature",
-      "person_id": "4cc698de-50ce-473b-973c-0f2209960a53",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/fracțiunea_partidului_democrat_din_moldova",
-      "organization_id": "legislature",
-      "person_id": "4dd0f8da-4326-4091-8333-cf74c1ef9077",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/2014",
       "on_behalf_of_id": "10",
       "organization_id": "legislature",
       "person_id": "563ddc92-a801-49e8-9468-750983a5acfe",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/fracțiunea_partidului_liberal_democrat_din_moldova",
-      "organization_id": "legislature",
-      "person_id": "5738b37f-30de-46cf-afb8-ce3515cfe7db",
       "role": "member"
     },
     {
@@ -8209,13 +7262,6 @@
       "on_behalf_of_id": "8",
       "organization_id": "legislature",
       "person_id": "67f6b8b2-75dc-4e15-bdc8-1574bd8a4365",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/fracțiunea_partidului_liberal",
-      "organization_id": "legislature",
-      "person_id": "6a4cb09e-a7f0-4afc-9126-efa4925474b5",
       "role": "member"
     },
     {
@@ -8318,13 +7364,6 @@
     },
     {
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/fracțiunea_partidului_liberal",
-      "organization_id": "legislature",
-      "person_id": "9eed795b-b959-469e-94f2-a4178b5f856a",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/2014",
       "on_behalf_of_id": "8",
       "organization_id": "legislature",
       "person_id": "9ef05dbb-0f4b-479e-a4d2-dcbe3676c421",
@@ -8346,23 +7385,9 @@
     },
     {
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "10",
-      "organization_id": "legislature",
-      "person_id": "a1e8cd1b-5b0d-492a-9a64-d1865034025c",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/2014",
       "on_behalf_of_id": "8",
       "organization_id": "legislature",
       "person_id": "a4513b3a-6ef7-4741-ae08-e257d73f4a30",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/fracțiunea_partidului_liberal_democrat_din_moldova",
-      "organization_id": "legislature",
-      "person_id": "a640fc1a-9878-4663-94d1-b4898c55ee36",
       "role": "member"
     },
     {
@@ -8384,20 +7409,6 @@
       "on_behalf_of_id": "9",
       "organization_id": "legislature",
       "person_id": "ab3587af-d070-43e3-847a-06656e209696",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/fracțiunea_partidului_liberal",
-      "organization_id": "legislature",
-      "person_id": "abecaf88-e847-4528-95b8-1464b0ab65d1",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "9",
-      "organization_id": "legislature",
-      "person_id": "ac89e3a4-fb59-4db4-9e72-4ad4916b208f",
       "role": "member"
     },
     {
@@ -8500,13 +7511,6 @@
     },
     {
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/fracțiunea_partidului_democrat_din_moldova",
-      "organization_id": "legislature",
-      "person_id": "cc62a3f3-dfa9-4643-bd2f-bf20efda9b54",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/2014",
       "on_behalf_of_id": "10",
       "organization_id": "legislature",
       "person_id": "cd43b963-580f-44f1-a562-09671022f4bf",
@@ -8559,13 +7563,6 @@
       "on_behalf_of_id": "10",
       "organization_id": "legislature",
       "person_id": "e0518e0b-d446-4b40-95f4-58fd600e7b83",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "12",
-      "organization_id": "legislature",
-      "person_id": "e33f5d62-dba3-4c6b-b51f-8013e1c62289",
       "role": "member"
     },
     {
