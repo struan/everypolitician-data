@@ -34,6 +34,14 @@
         "type": "gender-balance",
         "source": "Bahamas/House-of-Assembly"
       }
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "create": {
+        "type": "group-wikidata",
+        "source": "manual/group_wikidata.csv"
+      }
     }
   ]
 }
