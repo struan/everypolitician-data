@@ -22779,6 +22779,23 @@
       ]
     },
     {
+      "email": "rolf.abjornsson@riksdagen.se",
+      "gender": "male",
+      "id": "d51ef631-925f-4fb3-82ff-e630506b2e90",
+      "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0530361204603_max.jpg",
+      "images": [
+        {
+          "url": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0530361204603_max.jpg"
+        }
+      ],
+      "name": "Rolf Åbjörnsson",
+      "sources": [
+        {
+          "url": "http://data.riksdagen.se/"
+        }
+      ]
+    },
+    {
       "birth_date": "1974-01-02",
       "contact_details": [
         {
@@ -30717,6 +30734,14 @@
       "on_behalf_of_id": "C",
       "organization_id": "legislature",
       "person_id": "d4c43319-738e-4004-b626-6f2c604de799",
+      "role": "member"
+    },
+    {
+      "area_id": "ocd-division/country:se/constituency:stockholms-län",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "KD",
+      "organization_id": "legislature",
+      "person_id": "d51ef631-925f-4fb3-82ff-e630506b2e90",
       "role": "member"
     },
     {
