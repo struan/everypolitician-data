@@ -8841,19 +8841,32 @@
     },
     {
       "email": "Ria.Bond@parliament.govt.nz",
+      "gender": "female",
       "id": "67b99f79-886e-49f5-89c4-4e6ea0efaabe",
       "identifiers": [
         {
           "identifier": "51MP3681",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q19875535",
+          "scheme": "wikidata"
         }
       ],
-      "images": [
+      "links": [
         {
-          "url": ""
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ria_Bond"
         }
       ],
       "name": "Ria Bond",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Ria Bond",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Bond, Ria",
       "sources": [
         {
