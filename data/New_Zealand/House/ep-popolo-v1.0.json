@@ -62,7 +62,6 @@
       ]
     },
     {
-      "birth_date": "1965-01-01",
       "email": "Alastair.scott@parliament.govt.nz",
       "gender": "male",
       "given_name": "Alastair",
@@ -181,7 +180,7 @@
       ]
     },
     {
-      "birth_date": "1971-01-01",
+      "birth_date": "1971",
       "email": "amy.adams@parliament.govt.nz",
       "gender": "female",
       "given_name": "Amy",
@@ -649,7 +648,7 @@
       ]
     },
     {
-      "birth_date": "1961-01-01",
+      "birth_date": "1961",
       "contact_details": [
         {
           "type": "twitter",
@@ -869,7 +868,7 @@
       ]
     },
     {
-      "birth_date": "1977-01-01",
+      "birth_date": "1977",
       "contact_details": [
         {
           "type": "twitter",
@@ -937,7 +936,7 @@
       ]
     },
     {
-      "birth_date": "1953-01-01",
+      "birth_date": "1953",
       "contact_details": [
         {
           "type": "twitter",
@@ -1146,7 +1145,7 @@
       ]
     },
     {
-      "birth_date": "1960-01-01",
+      "birth_date": "1960",
       "contact_details": [
         {
           "type": "twitter",
@@ -2166,7 +2165,7 @@
       ]
     },
     {
-      "birth_date": "1960-01-01",
+      "birth_date": "1960",
       "contact_details": [
         {
           "type": "twitter",
@@ -2659,7 +2658,7 @@
       ]
     },
     {
-      "birth_date": "1974-01-01",
+      "birth_date": "1974",
       "contact_details": [
         {
           "type": "twitter",
@@ -2807,7 +2806,7 @@
       ]
     },
     {
-      "birth_date": "1956-01-01",
+      "birth_date": "1956",
       "email": "gerry.brownlee@parliament.govt.nz",
       "gender": "male",
       "given_name": "Gerry",
@@ -3253,7 +3252,7 @@
       ]
     },
     {
-      "birth_date": "1956-01-01",
+      "birth_date": "1956",
       "contact_details": [
         {
           "type": "twitter",
@@ -4056,7 +4055,7 @@
       ]
     },
     {
-      "birth_date": "1961-01-01",
+      "birth_date": "1961",
       "contact_details": [
         {
           "type": "twitter",
@@ -4914,7 +4913,7 @@
       ]
     },
     {
-      "birth_date": "1958-01-01",
+      "birth_date": "1958",
       "contact_details": [
         {
           "type": "twitter",
@@ -5395,7 +5394,7 @@
       ]
     },
     {
-      "birth_date": "1946-01-01",
+      "birth_date": "1946",
       "contact_details": [
         {
           "type": "twitter",
@@ -5588,7 +5587,7 @@
       ]
     },
     {
-      "birth_date": "1976-01-01",
+      "birth_date": "1976",
       "contact_details": [
         {
           "type": "twitter",
@@ -6208,7 +6207,7 @@
       ]
     },
     {
-      "birth_date": "1971-01-01",
+      "birth_date": "1971",
       "contact_details": [
         {
           "type": "twitter",
@@ -6300,7 +6299,7 @@
       ]
     },
     {
-      "birth_date": "1959-01-01",
+      "birth_date": "1959",
       "contact_details": [
         {
           "type": "twitter",
@@ -6824,6 +6823,7 @@
       ]
     },
     {
+      "birth_date": "1965-01-11",
       "email": "meka.whaitiri@parliament.govt.nz",
       "gender": "female",
       "id": "af3f3ed4-9dd7-42c5-838b-6a5b5f95b363",
@@ -6883,7 +6883,7 @@
       ]
     },
     {
-      "birth_date": "1966-01-01",
+      "birth_date": "1966",
       "contact_details": [
         {
           "type": "twitter",
@@ -7462,7 +7462,7 @@
       ]
     },
     {
-      "birth_date": "1970-01-01",
+      "birth_date": "1970",
       "contact_details": [
         {
           "type": "twitter",
@@ -7919,14 +7919,14 @@
       ]
     },
     {
-      "birth_date": "1977-01-01",
+      "birth_date": "1977",
       "contact_details": [
         {
           "type": "twitter",
           "value": "PARFosterBell"
         }
       ],
-      "death_date": "1977-01-01",
+      "death_date": "1977",
       "email": "paul.foster-bell@parliament.govt.nz",
       "gender": "male",
       "given_name": "Paul",
@@ -7995,7 +7995,7 @@
       ]
     },
     {
-      "birth_date": "1971-01-01",
+      "birth_date": "1971",
       "contact_details": [
         {
           "type": "twitter",
@@ -8111,7 +8111,7 @@
       ]
     },
     {
-      "birth_date": "1969-01-01",
+      "birth_date": "1969",
       "contact_details": [
         {
           "type": "twitter",
@@ -8764,7 +8764,7 @@
       ]
     },
     {
-      "birth_date": "1961-01-01",
+      "birth_date": "1961",
       "contact_details": [
         {
           "type": "twitter",
@@ -8841,19 +8841,32 @@
     },
     {
       "email": "Ria.Bond@parliament.govt.nz",
+      "gender": "female",
       "id": "67b99f79-886e-49f5-89c4-4e6ea0efaabe",
       "identifiers": [
         {
           "identifier": "51MP3681",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q19875535",
+          "scheme": "wikidata"
         }
       ],
-      "images": [
+      "links": [
         {
-          "url": ""
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ria_Bond"
         }
       ],
       "name": "Ria Bond",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Ria Bond",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Bond, Ria",
       "sources": [
         {
@@ -8942,7 +8955,7 @@
       ]
     },
     {
-      "birth_date": "1972-01-01",
+      "birth_date": "1972",
       "contact_details": [
         {
           "type": "twitter",
@@ -9488,6 +9501,7 @@
       ]
     },
     {
+      "birth_date": "1963-06-05",
       "email": "shane.reti@parliament.govt.nz",
       "gender": "male",
       "given_name": "Shane",
@@ -9544,7 +9558,7 @@
       ]
     },
     {
-      "birth_date": "1976-01-01",
+      "birth_date": "1976",
       "contact_details": [
         {
           "type": "twitter",
@@ -9858,7 +9872,6 @@
       ]
     },
     {
-      "birth_date": "1967-08-01",
       "contact_details": [
         {
           "type": "twitter",
@@ -10238,7 +10251,7 @@
       ]
     },
     {
-      "birth_date": "1950-01-01",
+      "birth_date": "1950",
       "email": "tim.groser@parliament.govt.nz",
       "gender": "male",
       "given_name": "Tim",
