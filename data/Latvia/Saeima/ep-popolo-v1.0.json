@@ -8796,12 +8796,17 @@
     {
       "email": "Janis.Ruks@saeima.lv",
       "family_name": "Ruks",
+      "gender": "male",
       "given_name": "Jānis",
       "id": "ffcabc11-2dc9-4df3-9e59-54e1a3aadcaf",
       "identifiers": [
         {
           "identifier": "1A6B13C5EC34802EC2257D7B0032D7A8",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q21974469",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://titania.saeima.lv/personal/deputati/saeima12_depweb_public.nsf/0/1a6b13c5ec34802ec2257d7b0032d7a8/Foto/0.84?OpenElement&FieldElemFormat=jpg",
@@ -8810,7 +8815,25 @@
           "url": "http://titania.saeima.lv/personal/deputati/saeima12_depweb_public.nsf/0/1a6b13c5ec34802ec2257d7b0032d7a8/Foto/0.84?OpenElement&FieldElemFormat=jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (lv)",
+          "url": "https://lv.wikipedia.org/wiki/Jānis_Ruks"
+        }
+      ],
       "name": "Jānis Ruks",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Jānis Ruks",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lv",
+          "name": "Jānis Ruks",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://titania.saeima.lv/personal/deputati/saeima12_depweb_public.nsf/depArchive.html?ReadForm&unid=1A6B13C5EC34802EC2257D7B0032D7A8&url=./0/1A6B13C5EC34802EC2257D7B0032D7A8?OpenDocument&lang=EN"
