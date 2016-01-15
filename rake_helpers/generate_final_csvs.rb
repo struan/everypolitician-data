@@ -73,7 +73,7 @@ namespace :term_csvs do
     wikidata_persons = @json[:persons].partition { |p| (p[:identifiers] || []).find { |i| i[:scheme] == 'wikidata' } }
     wikidata_parties = @json[:organizations].select { |o| o[:classification] == 'party' }.partition { |p| (p[:identifiers] || []).find { |i| i[:scheme] == 'wikidata' } }
     warn "Wikidata Persons: #{wikidata_persons.first.count} ✓ | #{wikidata_persons.last.count} ✘"
-    wikidata_persons.last.each { |p| warn "  Missing: #{ p[:name] }" } if wikidata_persons.first.count > 0 && wikidata_persons.last.count <= 10
+    wikidata_persons.last.shuffle.take(10).each { |p| warn "  Missing: #{ p[:name] }" } if wikidata_persons.first.count > 0 
     warn "Wikidata Parties: #{wikidata_parties.first.count} ✓ | #{wikidata_parties.last.count} ✘"
     wikidata_parties.last.each { |p| warn "  Missing: #{p[:name]} (#{p[:id]})" } if wikidata_parties.first.count > 0 && wikidata_parties.last.count <= 5
   end
