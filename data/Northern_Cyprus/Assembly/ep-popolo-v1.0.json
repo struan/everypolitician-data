@@ -1626,14 +1626,41 @@
       ]
     },
     {
+      "birth_date": "1967-05-23",
       "id": "e37cf9e6-4c47-4797-b88e-cda95cf640f4",
       "identifiers": [
         {
           "identifier": "Özdil_nami",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q17046780",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Özdil_Nami"
+        },
+        {
+          "note": "Wikipedia (tr)",
+          "url": "https://tr.wikipedia.org/wiki/Özdil_Nami"
         }
       ],
       "name": "Özdil Nami",
+      "other_names": [
+        {
+          "lang": "hu",
+          "name": "Özdil Nami",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Özdil Nami",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/14th_Parliament_of_Northern_Cyprus"
