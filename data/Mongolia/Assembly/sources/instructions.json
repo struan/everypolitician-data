@@ -11,6 +11,21 @@
       "type": "membership"
     },
     {
+      "file": "morph/official.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/mongolia-khurai-official",
+        "query": "SELECT * FROM data ORDER BY id"
+      },
+      "source": "http://wikidata.org/",
+      "type": "person",
+      "merge": {
+        "incoming_field": "name__mn",
+        "existing_field": "name__mn",
+        "reconciliation_file": "reconciliation/official.csv"
+      }
+    },
+    {
       "file": "morph/wikidata.csv",
       "create": {
         "type": "morph",
