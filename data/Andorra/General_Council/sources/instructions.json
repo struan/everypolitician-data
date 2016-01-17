@@ -7,8 +7,23 @@
         "scraper": "tmtmtmtm/andorra-consell-general",
         "query": "SELECT * FROM data"
       },
-      "source": "https://morph.io/tmtmtmtm/andorra-consell-general",
+      "source": "http://www.consellgeneral.ad",
       "type": "membership"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/andorra-consell-general-wikidata",
+        "query": "SELECT * FROM data ORDER BY id"
+      },
+      "source": "http://wikidata.org/",
+      "type": "wikidata",
+      "merge": {
+        "incoming_field": "name",
+        "existing_field": "name",
+        "reconciliation_file": "reconciliation/wikidata.csv"
+      }
     },
     {
       "file": "manual/terms.csv",
@@ -20,6 +35,14 @@
       "create": {
         "type": "gender-balance",
         "source": "Andorra/General-Council"
+      }
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "create": {
+        "type": "group-wikidata",
+        "source": "manual/group_wikidata.csv"
       }
     }
   ]
