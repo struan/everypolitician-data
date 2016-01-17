@@ -202,10 +202,10 @@
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "++resource++plonetheme.consellgeneral.images/hemicicle/c9.jpg",
+      "image": "http://www.consellgeneral.ad/ca/composicio-actual/consellers-generals/joan-carles-camp-areny/foto",
       "images": [
         {
-          "url": "++resource++plonetheme.consellgeneral.images/hemicicle/c9.jpg"
+          "url": "http://www.consellgeneral.ad/ca/composicio-actual/consellers-generals/joan-carles-camp-areny/foto"
         }
       ],
       "name": "Joan Carles Camp Areny",
@@ -336,6 +336,23 @@
       ]
     },
     {
+      "birth_date": "1969-08-31",
+      "email": "justo.ruiz@parlament.ad",
+      "id": "8cd17a2b-9028-41c5-a56d-e2a5178dc78f",
+      "image": "http://www.consellgeneral.ad/ca/composicio-actual/consellers-generals/justo-ruiz-gonzalez/foto",
+      "images": [
+        {
+          "url": "http://www.consellgeneral.ad/ca/composicio-actual/consellers-generals/justo-ruiz-gonzalez/foto"
+        }
+      ],
+      "name": "Justo Ruiz González",
+      "sources": [
+        {
+          "url": "http://www.consellgeneral.ad/ca/composicio-actual/consellers-generals/justo-ruiz-gonzalez"
+        }
+      ]
+    },
+    {
       "birth_date": "1961-12-11",
       "email": "ladislaubaro@andorra.ad",
       "gender": "male",
@@ -356,6 +373,23 @@
       "sources": [
         {
           "url": "http://www.consellgeneral.ad/ca/composicio-actual/consellers-generals/ladislau-baro-sola"
+        }
+      ]
+    },
+    {
+      "birth_date": "1978-11-15",
+      "email": "marc.ballesta@parlament.ad",
+      "id": "caecb450-d5f5-4b62-9338-e666d761d3d5",
+      "image": "http://www.consellgeneral.ad/ca/composicio-actual/consellers-generals/marc-ballesta-alias/foto",
+      "images": [
+        {
+          "url": "http://www.consellgeneral.ad/ca/composicio-actual/consellers-generals/marc-ballesta-alias/foto"
+        }
+      ],
+      "name": "Marc Ballestà Alias",
+      "sources": [
+        {
+          "url": "http://www.consellgeneral.ad/ca/composicio-actual/consellers-generals/marc-ballesta-alias"
         }
       ]
     },
@@ -408,7 +442,7 @@
     },
     {
       "birth_date": "1966-01-19",
-      "email": "meritxellmateupi@gmail.com",
+      "email": "meritxell.mateu@parlament.ad",
       "gender": "female",
       "id": "1db086ba-889f-44e4-9d30-2cbd3797ba74",
       "identifiers": [
@@ -560,7 +594,7 @@
     },
     {
       "birth_date": "1971-08-07",
-      "email": "monica_bonell@parlament.ad",
+      "email": "monica.bonell@parlament.ad",
       "gender": "female",
       "id": "c47a85be-ee9a-4748-b733-d46133578419",
       "identifiers": [
@@ -878,7 +912,7 @@
   ],
   "meta": {
     "sources": [
-      "https://morph.io/tmtmtmtm/andorra-consell-general",
+      "http://www.consellgeneral.ad",
       "http://wikidata.org/"
     ]
   },
@@ -988,6 +1022,14 @@
       "role": "member"
     },
     {
+      "area_id": "area/circumscripció_nacional",
+      "legislative_period_id": "term/2015",
+      "on_behalf_of_id": "party/demòcrata",
+      "organization_id": "legislature",
+      "person_id": "8cd17a2b-9028-41c5-a56d-e2a5178dc78f",
+      "role": "member"
+    },
+    {
       "area_id": "area/circumscripció_parroquial",
       "legislative_period_id": "term/2015",
       "on_behalf_of_id": "party/liberal",
@@ -1065,6 +1107,14 @@
       "on_behalf_of_id": "party/demòcrata",
       "organization_id": "legislature",
       "person_id": "c82b8056-313f-45f5-bdd0-25549944e19a",
+      "role": "member"
+    },
+    {
+      "area_id": "area/circumscripció_nacional",
+      "legislative_period_id": "term/2015",
+      "on_behalf_of_id": "party/demòcrata",
+      "organization_id": "legislature",
+      "person_id": "caecb450-d5f5-4b62-9338-e666d761d3d5",
       "role": "member"
     },
     {
