@@ -4597,12 +4597,8 @@
           "url": "http://www.bobrae.ca"
         }
       ],
-      "name": "Bob Raeh",
+      "name": "Bob Rae",
       "other_names": [
-        {
-          "name": "Bob Rae",
-          "note": "alternate"
-        },
         {
           "lang": "bg",
           "name": "Боб Рей",
@@ -17895,12 +17891,8 @@
           "url": "https://twitter.com/jacklayton"
         }
       ],
-      "name": "Jack Laytoni",
+      "name": "Jack Layton",
       "other_names": [
-        {
-          "name": "Jack Layton",
-          "note": "alternate"
-        },
         {
           "lang": "be",
           "name": "Джон Гільберт Лейтан",
@@ -23576,6 +23568,7 @@
       ]
     },
     {
+      "birth_date": "1971-12-25",
       "contact_details": [
         {
           "type": "twitter",
@@ -23583,6 +23576,9 @@
         }
       ],
       "email": "justin.trudeau@parl.gc.ca",
+      "family_name": "Trudeau",
+      "gender": "male",
+      "given_name": "Justin",
       "id": "01b44d36-d39c-4cf3-a8ea-0191187cccaf",
       "identifiers": [
         {
@@ -23590,8 +23586,28 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "/m/02b5jh",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "nm0874040",
+          "scheme": "imdb"
+        },
+        {
+          "identifier": "no2014147581",
+          "scheme": "lcauth"
+        },
+        {
           "identifier": "58733",
           "scheme": "represent"
+        },
+        {
+          "identifier": "311580041",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q3099714",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/TrudeauJustin_Lib.jpg",
@@ -23602,29 +23618,623 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Justin_Trudeau"
+        },
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/جاستن_ترودو"
+        },
+        {
+          "note": "Wikipedia (azb)",
+          "url": "https://azb.wikipedia.org/wiki/جاستين_ترودو"
+        },
+        {
+          "note": "Wikipedia (bcl)",
+          "url": "https://bcl.wikipedia.org/wiki/Justin_Trudeau"
+        },
+        {
+          "note": "Wikipedia (be)",
+          "url": "https://be.wikipedia.org/wiki/Джасцін_Трудо"
+        },
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Джъстин_Трюдо"
+        },
+        {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Justin_Trudeau"
+        },
+        {
+          "note": "Wikipedia (ckb)",
+          "url": "https://ckb.wikipedia.org/wiki/جەستن_ترودۆ"
+        },
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Justin_Trudeau"
+        },
+        {
+          "note": "Wikipedia (cs)",
+          "url": "https://cs.wikipedia.org/wiki/Justin_Trudeau"
+        },
+        {
+          "note": "Wikipedia (cy)",
+          "url": "https://cy.wikipedia.org/wiki/Justin_Trudeau"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Justin_Trudeau"
+        },
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Τζάστιν_Τρυντώ"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Justin_Trudeau"
+        },
+        {
+          "note": "Wikipedia (enwikinews)",
+          "url": "https://enwikinews.wikipedia.org/wiki/Category:Justin_Trudeau"
+        },
+        {
+          "note": "Wikipedia (enwikiquote)",
+          "url": "https://enwikiquote.wikipedia.org/wiki/Justin_Trudeau"
+        },
+        {
+          "note": "Wikipedia (eo)",
+          "url": "https://eo.wikipedia.org/wiki/Justin_Trudeau"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Justin_Trudeau"
+        },
+        {
+          "note": "Wikipedia (et)",
+          "url": "https://et.wikipedia.org/wiki/Justin_Trudeau"
+        },
+        {
+          "note": "Wikipedia (fa)",
+          "url": "https://fa.wikipedia.org/wiki/جاستین_ترودو"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Justin_Trudeau"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Justin_Trudeau"
+        },
+        {
+          "note": "Wikipedia (gl)",
+          "url": "https://gl.wikipedia.org/wiki/Justin_Trudeau"
+        },
+        {
+          "note": "Wikipedia (he)",
+          "url": "https://he.wikipedia.org/wiki/ג'סטין_טרודו"
+        },
+        {
+          "note": "Wikipedia (hi)",
+          "url": "https://hi.wikipedia.org/wiki/जस्टिन_ट्रूडो"
+        },
+        {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/Justin_Trudeau"
+        },
+        {
+          "note": "Wikipedia (id)",
+          "url": "https://id.wikipedia.org/wiki/Justin_Trudeau"
+        },
+        {
+          "note": "Wikipedia (ie)",
+          "url": "https://ie.wikipedia.org/wiki/Justin_Trudeau"
+        },
+        {
+          "note": "Wikipedia (is)",
+          "url": "https://is.wikipedia.org/wiki/Justin_Trudeau"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Justin_Trudeau"
+        },
+        {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/ジャスティン・トルドー"
+        },
+        {
+          "note": "Wikipedia (ka)",
+          "url": "https://ka.wikipedia.org/wiki/ჯასტინ_ტრიუდო"
+        },
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/쥐스탱_트뤼도"
+        },
+        {
+          "note": "Wikipedia (la)",
+          "url": "https://la.wikipedia.org/wiki/Iustinus_Trudeau"
+        },
+        {
+          "note": "Wikipedia (lb)",
+          "url": "https://lb.wikipedia.org/wiki/Justin_Trudeau"
+        },
+        {
+          "note": "Wikipedia (lt)",
+          "url": "https://lt.wikipedia.org/wiki/Justin_Trudeau"
+        },
+        {
+          "note": "Wikipedia (mr)",
+          "url": "https://mr.wikipedia.org/wiki/जस्टिन_त्रूदो"
+        },
+        {
+          "note": "Wikipedia (ms)",
+          "url": "https://ms.wikipedia.org/wiki/Justin_Trudeau"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Justin_Trudeau"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Justin_Trudeau"
+        },
+        {
+          "note": "Wikipedia (pa)",
+          "url": "https://pa.wikipedia.org/wiki/ਜਸਟਿਨ_ਟਰੂਡੋ"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Justin_Trudeau"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Justin_Trudeau"
+        },
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Justin_Trudeau"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Трюдо,_Джастин"
+        },
+        {
+          "note": "Wikipedia (sco)",
+          "url": "https://sco.wikipedia.org/wiki/Justin_Trudeau"
+        },
+        {
+          "note": "Wikipedia (sh)",
+          "url": "https://sh.wikipedia.org/wiki/Justin_Trudeau"
+        },
+        {
+          "note": "Wikipedia (simple)",
+          "url": "https://simple.wikipedia.org/wiki/Justin_Trudeau"
+        },
+        {
+          "note": "Wikipedia (sk)",
+          "url": "https://sk.wikipedia.org/wiki/Justin_Trudeau"
+        },
+        {
+          "note": "Wikipedia (sr)",
+          "url": "https://sr.wikipedia.org/wiki/Жистин_Тридо"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Justin_Trudeau"
+        },
+        {
+          "note": "Wikipedia (ta)",
+          "url": "https://ta.wikipedia.org/wiki/ஜஸ்ரின்_டுரூடோ"
+        },
+        {
+          "note": "Wikipedia (th)",
+          "url": "https://th.wikipedia.org/wiki/จัสติน_ทรูโด"
+        },
+        {
+          "note": "Wikipedia (tl)",
+          "url": "https://tl.wikipedia.org/wiki/Justin_Trudeau"
+        },
+        {
+          "note": "Wikipedia (tr)",
+          "url": "https://tr.wikipedia.org/wiki/Justin_Trudeau"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Джастін_Трюдо"
+        },
+        {
+          "note": "Wikipedia (ukwikiquote)",
+          "url": "https://ukwikiquote.wikipedia.org/wiki/Джастін_Трюдо"
+        },
+        {
+          "note": "Wikipedia (ur)",
+          "url": "https://ur.wikipedia.org/wiki/جسٹن_ٹروڈو"
+        },
+        {
+          "note": "Wikipedia (vi)",
+          "url": "https://vi.wikipedia.org/wiki/Justin_Trudeau"
+        },
+        {
+          "note": "Wikipedia (xmf)",
+          "url": "https://xmf.wikipedia.org/wiki/ჯასტინ_ტრიუდო"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/賈斯汀·杜魯多"
+        },
+        {
+          "note": "Wikipedia (zh_yue)",
+          "url": "https://zh_yue.wikipedia.org/wiki/朱斯坦·杜呂多"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/JustinTrudeau"
+        },
+        {
+          "note": "website",
+          "url": "http://justin.ca/"
         }
       ],
       "name": "Justin Trudeau",
+      "other_names": [
+        {
+          "lang": "af",
+          "name": "Justin Trudeau",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "جاستین ترودو",
+          "note": "multilingual"
+        },
+        {
+          "lang": "azb",
+          "name": "جاستين ترودو",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bcl",
+          "name": "Justin Trudeau",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be",
+          "name": "Джасцін Трудо",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Джъстин Трюдо",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Justin Trudeau",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ckb",
+          "name": "جەستن ترودۆ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Justin Trudeau",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Justin Trudeau",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Justin Trudeau",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Justin Trudeau",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de-ch",
+          "name": "Justin Trudeau",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Τζάστιν Τρυντώ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Justin Trudeau",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "Justin Trudeau",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "Justin Trudeau",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Justin Trudeau",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Justin Trudeau",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Justin Trudeau",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "جاستین ترودو",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Justin Trudeau",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Justin Trudeau",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Justin Trudeau",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "ג'סטין טרודו",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hi",
+          "name": "जस्टिन ट्रूडो",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Justin Trudeau",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Justin Trudeau",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ie",
+          "name": "Justin Trudeau",
+          "note": "multilingual"
+        },
+        {
+          "lang": "is",
+          "name": "Justin Trudeau",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Justin Trudeau",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ジャスティン・トルドー",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "ჯასტინ ტრიუდო",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "저스틴 트뤼도",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Iustinus Trudeau",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lb",
+          "name": "Justin Trudeau",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Justin Trudeau",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "Џастин Тридо",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mr",
+          "name": "जस्टिन ट्रुडो",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "Justin Trudeau",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Justin Trudeau",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Justin Trudeau",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Justin Trudeau",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pa",
+          "name": "ਜਸਟਿਨ ਟਰੂਡੋ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Justin Trudeau",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Justin Trudeau",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt-br",
+          "name": "Justin Trudeau",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Justin Trudeau",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Трюдо, Джастин",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "Justin Trudeau",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Justin Trudeau",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Justin Trudeau",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Џастин Трудо",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Justin Trudeau",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "ஜஸ்டின் டுரூடோ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "จัสติน ทรูโด",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tl",
+          "name": "Justin Trudeau",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Justin Trudeau",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Джастін Трюдо",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ur",
+          "name": "جسٹن ٹروڈو",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Justin Trudeau",
+          "note": "multilingual"
+        },
+        {
+          "lang": "xmf",
+          "name": "ჯასტინ ტრიუდო",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yue",
+          "name": "朱斯坦·杜呂多",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "賈斯汀·杜魯多",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "贾斯汀·特鲁多",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hans",
+          "name": "贾斯汀·杜鲁多",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "賈斯汀·杜魯多",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "賈斯汀·杜魯多",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-sg",
+          "name": "贾斯汀·特鲁多",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-tw",
+          "name": "賈斯汀·杜魯道",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-yue",
+          "name": "朱斯坦·杜呂多",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_House_members_of_the_42nd_Parliament_of_Canada"
-        }
-      ]
-    },
-    {
-      "id": "b223d01e-1fd4-463b-a320-558a21f95114",
-      "identifiers": [
-        {
-          "identifier": "justin-trudeaup",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Justin Trudeaup",
-      "sources": [
-        {
-          "url": "https://en.wikipedia.org/wiki/List_of_House_members_of_the_41st_Parliament_of_Canada"
         }
       ]
     },
@@ -32683,16 +33293,8 @@
           "url": "https://zh.wikipedia.org/wiki/妮科爾·特梅爾"
         }
       ],
-      "name": "Nycole Turmell",
+      "name": "Nycole Turmel",
       "other_names": [
-        {
-          "name": "Nycole Turmel",
-          "note": "alternate"
-        },
-        {
-          "name": "Nycole Turmel",
-          "note": "alternate"
-        },
         {
           "lang": "da",
           "name": "Nycole Turmel",
@@ -39412,21 +40014,6 @@
       ]
     },
     {
-      "id": "9a98abea-fc2c-4295-bcd8-2a085f96b759",
-      "identifiers": [
-        {
-          "identifier": "roméo-saganash",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Roméo Saganash",
-      "sources": [
-        {
-          "url": "https://en.wikipedia.org/wiki/List_of_House_members_of_the_41st_Parliament_of_Canada"
-        }
-      ]
-    },
-    {
       "birth_date": "1961-05-08",
       "email": "ron.cannan@parl.gc.ca",
       "gender": "male",
@@ -45059,6 +45646,7 @@
       ]
     },
     {
+      "birth_date": "1954-10-24",
       "contact_details": [
         {
           "type": "twitter",
@@ -45066,15 +45654,37 @@
         }
       ],
       "email": "thomas.mulcair@parl.gc.ca",
+      "gender": "male",
+      "given_name": "Thomas",
       "id": "23b5d7bb-5adf-4c18-b47b-c57638abc901",
       "identifiers": [
+        {
+          "identifier": "165072034",
+          "scheme": "bnf"
+        },
         {
           "identifier": "thomas-mulcair",
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "/m/0ksfm7",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "26684",
           "scheme": "represent"
+        },
+        {
+          "identifier": "153119772",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "170932726",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q1892814",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/MulcairThomasJ_NDP.jpg",
@@ -45085,29 +45695,182 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Томас_Мулкер"
+        },
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Thomas_Mulcair"
+        },
+        {
+          "note": "Wikipedia (cy)",
+          "url": "https://cy.wikipedia.org/wiki/Thomas_Mulcair"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Thomas_Mulcair"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Tom_Mulcair"
+        },
+        {
+          "note": "Wikipedia (fa)",
+          "url": "https://fa.wikipedia.org/wiki/توماس_مولکر"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Thomas_Mulcair"
+        },
+        {
+          "note": "Wikipedia (gl)",
+          "url": "https://gl.wikipedia.org/wiki/Thomas_Mulcair"
+        },
+        {
+          "note": "Wikipedia (he)",
+          "url": "https://he.wikipedia.org/wiki/תומאס_מולקייר"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Thomas_Mulcair"
+        },
+        {
+          "note": "Wikipedia (la)",
+          "url": "https://la.wikipedia.org/wiki/Thomas_Mulcair"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Thomas_Mulcair"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Малкэр,_Томас"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/唐民凱"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/ThomasMulcair"
         }
       ],
       "name": "Thomas Mulcair",
+      "other_names": [
+        {
+          "lang": "bg",
+          "name": "Томас Мулкер",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Thomas Mulcair",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Thomas Mulcair",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Thomas Mulcair",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Thomas Mulcair",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Thomas Mulcair",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "توماس مالکر",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Thomas Mulcair",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Thomas Mulcair",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "תומאס מולקייר",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Thomas Mulcair",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Thomas Mulcair",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Thomas Mulcair",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Thomas Mulcair",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Thomas Mulcair",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Thomas Mulcair",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Малкэр, Томас",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Thomas Mulcair",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "唐民凱",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hans",
+          "name": "唐民凯",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "唐民凱",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "唐民凱",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_House_members_of_the_42nd_Parliament_of_Canada"
-        }
-      ]
-    },
-    {
-      "id": "b0ff39f0-0d53-4d75-9852-8020b9e87218",
-      "identifiers": [
-        {
-          "identifier": "thomas-mulcairo",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Thomas Mulcairo",
-      "sources": [
-        {
-          "url": "https://en.wikipedia.org/wiki/List_of_House_members_of_the_41st_Parliament_of_Canada"
         }
       ]
     },
@@ -47987,6 +48750,14 @@
     },
     {
       "area_id": "area/quebec_(papineau)",
+      "legislative_period_id": "term/41",
+      "on_behalf_of_id": "liberal",
+      "organization_id": "legislature",
+      "person_id": "01b44d36-d39c-4cf3-a8ea-0191187cccaf",
+      "role": "member"
+    },
+    {
+      "area_id": "area/quebec_(papineau)",
       "legislative_period_id": "term/42",
       "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
@@ -48668,6 +49439,14 @@
       "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "2366c0a9-f15f-4aca-bb93-9a3d6c01049e",
+      "role": "member"
+    },
+    {
+      "area_id": "area/quebec_(outremont)",
+      "legislative_period_id": "term/41",
+      "on_behalf_of_id": "ndp",
+      "organization_id": "legislature",
+      "person_id": "23b5d7bb-5adf-4c18-b47b-c57638abc901",
       "role": "member"
     },
     {
@@ -51085,14 +51864,6 @@
       "role": "member"
     },
     {
-      "area_id": "area/quebec_(abitibi—baie-james—nunavik—eeyou)",
-      "legislative_period_id": "term/41",
-      "on_behalf_of_id": "ndp",
-      "organization_id": "legislature",
-      "person_id": "9a98abea-fc2c-4295-bcd8-2a085f96b759",
-      "role": "member"
-    },
-    {
       "area_id": "area/quebec_(abitibi—témiscamingue)",
       "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
@@ -51520,14 +52291,6 @@
       "role": "member"
     },
     {
-      "area_id": "area/quebec_(outremont)",
-      "legislative_period_id": "term/41",
-      "on_behalf_of_id": "ndp",
-      "organization_id": "legislature",
-      "person_id": "b0ff39f0-0d53-4d75-9852-8020b9e87218",
-      "role": "member"
-    },
-    {
       "area_id": "area/saskatchewan_(desnethé—missinippi—churchill_river)",
       "legislative_period_id": "term/42",
       "on_behalf_of_id": "ndp",
@@ -51549,14 +52312,6 @@
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "b21eeba7-d27f-455d-8b9a-d0d1b61b338a",
-      "role": "member"
-    },
-    {
-      "area_id": "area/quebec_(papineau)",
-      "legislative_period_id": "term/41",
-      "on_behalf_of_id": "liberal",
-      "organization_id": "legislature",
-      "person_id": "b223d01e-1fd4-463b-a320-558a21f95114",
       "role": "member"
     },
     {
