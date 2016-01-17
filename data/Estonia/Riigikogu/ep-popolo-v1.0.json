@@ -1088,11 +1088,17 @@
         }
       ],
       "email": "anneli.ott@riigikogu.ee",
+      "gender": "female",
+      "given_name": "Anneli",
       "id": "372fd0c0-3379-44be-83af-527e886b2c52",
       "identifiers": [
         {
           "identifier": "4dbb83c0-9dbe-4aa7-9d89-29cf398da20d",
           "scheme": "riigikogu"
+        },
+        {
+          "identifier": "Q22041600",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.riigikogu.ee/wpcms/wp-content/uploads/ems/temp/588a441c-eec4-494f-8292-1b1bac1f93e0.jpg",
@@ -1101,7 +1107,25 @@
           "url": "http://www.riigikogu.ee/wpcms/wp-content/uploads/ems/temp/588a441c-eec4-494f-8292-1b1bac1f93e0.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (et)",
+          "url": "https://et.wikipedia.org/wiki/Anneli_Ott"
+        }
+      ],
       "name": "Anneli Ott",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Anneli Ott",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Anneli Ott",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.riigikogu.ee/riigikogu/koosseis/riigikogu-liikmed/saadik/4dbb83c0-9dbe-4aa7-9d89-29cf398da20d/Anneli-Ott"
@@ -1752,6 +1776,10 @@
         {
           "note": "Wikipedia (ca)",
           "url": "https://ca.wikipedia.org/wiki/Edgar_Savisaar"
+        },
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Edgar_Savisaar"
         },
         {
           "note": "Wikipedia (cs)",
