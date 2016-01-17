@@ -3,6 +3,7 @@
     {
       "birth_date": "1963-05-02",
       "email": "antoni.fillet@parlament.ad",
+      "gender": "male",
       "id": "247fb02b-0c86-42c5-8191-8a7c863fca1d",
       "identifiers": [
         {
@@ -26,6 +27,7 @@
     {
       "birth_date": "1978-06-06",
       "email": "carine.montaner@parlament.ad",
+      "gender": "female",
       "id": "dbb2389e-db6d-4c1a-94a5-96f3a6165abe",
       "identifiers": [
         {
@@ -49,6 +51,7 @@
     {
       "birth_date": "1985-02-20",
       "email": "carles.enseñat@parlament.ad",
+      "gender": "male",
       "id": "451e8dae-103d-4279-82dd-70d3fe2cb32c",
       "identifiers": [
         {
@@ -72,6 +75,7 @@
     {
       "birth_date": "1977-12-02",
       "email": "carles.jordana@parlament.ad",
+      "gender": "male",
       "id": "593e6c88-87df-47f0-b69f-36a6b88942e5",
       "identifiers": [
         {
@@ -95,6 +99,7 @@
     {
       "birth_date": "1975-12-05",
       "email": "carles.naudi@parlament.ad",
+      "gender": "male",
       "id": "51c1934c-f613-42e1-9703-6992f090cfb7",
       "identifiers": [
         {
@@ -118,6 +123,7 @@
     {
       "birth_date": "1960-08-27",
       "email": "conxita.marsol@parlament.ad",
+      "gender": "female",
       "id": "d7f9640e-dc24-419b-a267-038d11111f7b",
       "identifiers": [
         {
@@ -141,6 +147,7 @@
     {
       "birth_date": "1970-09-14",
       "email": "ferran.costa@parlament.ad",
+      "gender": "male",
       "id": "79ae676b-b2f8-4e11-bef5-2786189d0369",
       "identifiers": [
         {
@@ -164,6 +171,7 @@
     {
       "birth_date": "1977-11-13",
       "email": "gerard.alis@parlament.ad",
+      "gender": "male",
       "id": "88c63947-6999-42a5-a4fe-fe3ebc9a9443",
       "identifiers": [
         {
@@ -210,6 +218,7 @@
     {
       "birth_date": "1976-03-23",
       "email": "jordi.gallardo@parlament.ad",
+      "gender": "male",
       "id": "76156012-95d5-4927-96c7-0f09021a69e8",
       "identifiers": [
         {
@@ -233,6 +242,7 @@
     {
       "birth_date": "1974-01-17",
       "email": "pepbardina@gmail.com",
+      "gender": "male",
       "id": "8e3495a4-7cfc-43ce-8a8c-f17025f6a1da",
       "identifiers": [
         {
@@ -256,6 +266,7 @@
     {
       "birth_date": "1976-08-17",
       "email": "josep.majoral@parlament.ad",
+      "gender": "male",
       "id": "a7dc2acf-7869-45b5-aa36-398847607ffa",
       "identifiers": [
         {
@@ -279,6 +290,7 @@
     {
       "birth_date": "1960-08-31",
       "email": "josep.pintat@parlament.ad",
+      "gender": "male",
       "id": "460b5f40-84df-4ec6-9861-3e44bab5ac6a",
       "identifiers": [
         {
@@ -302,6 +314,7 @@
     {
       "birth_date": "1972-08-05",
       "email": "judith.pallares@parlament.ad",
+      "gender": "female",
       "id": "8db7e637-e7bd-427e-aaff-426c29d98113",
       "identifiers": [
         {
@@ -325,6 +338,7 @@
     {
       "birth_date": "1961-12-11",
       "email": "ladislaubaro@andorra.ad",
+      "gender": "male",
       "id": "b4c423b8-2afd-482c-b0fb-b6300c7eff28",
       "identifiers": [
         {
@@ -348,6 +362,7 @@
     {
       "birth_date": "1985-07-14",
       "email": "maria.martisella@parlament.ad",
+      "gender": "female",
       "id": "c82b8056-313f-45f5-bdd0-25549944e19a",
       "identifiers": [
         {
@@ -394,11 +409,20 @@
     {
       "birth_date": "1966-01-19",
       "email": "meritxellmateupi@gmail.com",
+      "gender": "female",
       "id": "1db086ba-889f-44e4-9d30-2cbd3797ba74",
       "identifiers": [
         {
           "identifier": "meritxell-mateu-pi",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/03d4s_4",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q140240",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.consellgeneral.ad/ca/composicio-actual/consellers-generals/meritxell-mateu-pi/foto",
@@ -407,7 +431,79 @@
           "url": "http://www.consellgeneral.ad/ca/composicio-actual/consellers-generals/meritxell-mateu-pi/foto"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Meritxell_Mateu_i_Pi"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Meritxell_Mateu_i_Pi"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Meritxell_Mateu_i_Pi"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Meritxell_Mateu"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Meritxell_Mateu_i_Pi"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Meritxell_Mateu_i_Pi"
+        }
+      ],
       "name": "Meritxell Mateu Pi",
+      "other_names": [
+        {
+          "name": "Meritxell Mateu i Pi",
+          "note": "alternate"
+        },
+        {
+          "lang": "ca",
+          "name": "Meritxell Mateu i Pi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Meritxell Mateu i Pi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Meritxell Mateu i Pi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Meritxell Mateu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Meritxell Mateu i Pi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Meritxell Mateu i Pi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Meritxell Mateu i Pi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Meritxell Mateu i Pi",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.consellgeneral.ad/ca/composicio-actual/consellers-generals/meritxell-mateu-pi"
@@ -417,6 +513,7 @@
     {
       "birth_date": "1964-12-20",
       "email": "meritxell.palmitjavila@parlament.ad",
+      "gender": "female",
       "id": "928dce4e-1bc3-4fce-80e8-4b614dc7aa53",
       "identifiers": [
         {
@@ -440,6 +537,7 @@
     {
       "birth_date": "1951-12-03",
       "email": "miquel.aleix@parlament.ad",
+      "gender": "male",
       "id": "699e8761-8b97-47a3-b246-da2423bf4e0c",
       "identifiers": [
         {
@@ -463,6 +561,7 @@
     {
       "birth_date": "1971-08-07",
       "email": "monica_bonell@parlament.ad",
+      "gender": "female",
       "id": "c47a85be-ee9a-4748-b733-d46133578419",
       "identifiers": [
         {
@@ -486,6 +585,7 @@
     {
       "birth_date": "1971-09-24",
       "email": "patricia.riberaygua@parlament.ad",
+      "gender": "female",
       "id": "1b37f649-ecab-4329-8acb-e229fd6413cc",
       "identifiers": [
         {
@@ -509,11 +609,17 @@
     {
       "birth_date": "1971-10-13",
       "email": "pere.lopez@parlament.ad",
+      "gender": "male",
+      "given_name": "Pere",
       "id": "610798d8-3001-4fe0-985e-ee2829b46f8c",
       "identifiers": [
         {
           "identifier": "pere-lopez-agras",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q7167739",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.consellgeneral.ad/ca/composicio-actual/consellers-generals/pere-lopez-agras/foto",
@@ -522,7 +628,81 @@
           "url": "http://www.consellgeneral.ad/ca/composicio-actual/consellers-generals/pere-lopez-agras/foto"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Pere_López_i_Agràs"
+        },
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Πέρε_Λόπεθ_Αγκράς"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Pere_López_Agràs"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Pere_López_Agràs"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Pere_López_Agràs"
+        }
+      ],
       "name": "Pere López Agràs",
+      "other_names": [
+        {
+          "lang": "ca",
+          "name": "Pere López Agràs",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Pere López Agràs",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Πέρε Λόπεθ Αγκράς",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Pere López Agràs",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "Pere López Agràs",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "Pere López Agràs",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Pere López Agràs",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Pere López Agràs",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Pere López Agràs",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Pere López Agràs",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.consellgeneral.ad/ca/composicio-actual/consellers-generals/pere-lopez-agras"
@@ -532,6 +712,7 @@
     {
       "birth_date": "1972-07-28",
       "email": "rgilicasals@gmail.com",
+      "gender": "female",
       "id": "f344d681-6b37-4e41-b577-46156258a82a",
       "identifiers": [
         {
@@ -555,6 +736,7 @@
     {
       "birth_date": "1974-10-28",
       "email": "sofia.garralla@parlament.ad",
+      "gender": "female",
       "id": "efd76dab-ba43-4547-846d-ef56f852b860",
       "identifiers": [
         {
@@ -578,6 +760,7 @@
     {
       "birth_date": "1965-12-19",
       "email": "silvia.bonet@parlament.ad",
+      "gender": "female",
       "id": "99094dbe-f905-4966-a99a-39824125701b",
       "identifiers": [
         {
@@ -601,6 +784,7 @@
     {
       "birth_date": "1961-12-03",
       "email": "v_mateu@parlament.ad",
+      "gender": "male",
       "id": "5e1cc899-f864-4574-b6a0-945020a47361",
       "identifiers": [
         {
@@ -624,11 +808,16 @@
     {
       "birth_date": "1958-08-28",
       "email": "victor.naudi@parlament.ad",
+      "gender": "male",
       "id": "ffb9e650-d760-4db5-9581-1a271d08a07b",
       "identifiers": [
         {
           "identifier": "victor-naudi-zamora",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q3564462",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.consellgeneral.ad/ca/composicio-actual/consellers-generals/victor-naudi-zamora/foto",
@@ -637,7 +826,20 @@
           "url": "http://www.consellgeneral.ad/ca/composicio-actual/consellers-generals/victor-naudi-zamora/foto"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Víctor_Naudi_Zamora"
+        }
+      ],
       "name": "Víctor Naudi Zamora",
+      "other_names": [
+        {
+          "lang": "fr",
+          "name": "Víctor Naudi Zamora",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.consellgeneral.ad/ca/composicio-actual/consellers-generals/victor-naudi-zamora"
@@ -676,7 +878,8 @@
   ],
   "meta": {
     "sources": [
-      "https://morph.io/tmtmtmtm/andorra-consell-general"
+      "https://morph.io/tmtmtmtm/andorra-consell-general",
+      "http://wikidata.org/"
     ]
   },
   "memberships": [
