@@ -36,6 +36,14 @@
         "type": "gender-balance",
         "source": "Andorra/General-Council"
       }
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "create": {
+        "type": "group-wikidata",
+        "source": "manual/group_wikidata.csv"
+      }
     }
   ]
 }
