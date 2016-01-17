@@ -15,7 +15,7 @@
       "create": {
         "type": "morph",
         "scraper": "tmtmtmtm/mongolia-khurai-wikidata",
-        "query": "SELECT *, id AS identifier__wikidata, NULL as id FROM data"
+        "query": "SELECT * FROM data"
       },
       "source": "http://wikidata.org/",
       "type": "wikidata",
