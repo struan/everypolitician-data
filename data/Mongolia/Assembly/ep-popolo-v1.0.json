@@ -125,18 +125,52 @@
       ]
     },
     {
+      "gender": "male",
       "id": "fef2ae4a-5a33-434b-94f0-29a93d0f741f",
       "identifiers": [
         {
           "identifier": "batjargalyn_batbayar",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q4869308",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Batjargalyn_Batbayar"
+        },
+        {
+          "note": "Wikipedia (mn)",
+          "url": "https://mn.wikipedia.org/wiki/Батжаргалын_Батбаяр"
         }
       ],
       "name": "Batjargalyn Batbayar",
       "other_names": [
         {
+          "name": "Батжаргалын Батбаяр",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Batjargalyn Batbayar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Batjargalyn Batbayar",
+          "note": "multilingual"
+        },
+        {
           "lang": "mn",
           "name": "Батжаргалын Батбаяр",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Batjargalyn Batbayar",
           "note": "multilingual"
         }
       ],
@@ -271,7 +305,7 @@
       ]
     },
     {
-      "birth_date": "1969-01-01",
+      "birth_date": "1969",
       "gender": "male",
       "id": "b7e35947-42fe-4949-973b-25b2a2129514",
       "identifiers": [
@@ -827,15 +861,54 @@
       ]
     },
     {
+      "birth_date": "1973-03-08",
+      "gender": "male",
       "id": "5b13b215-dd13-4335-8fc9-c411dcb46254",
       "identifiers": [
         {
           "identifier": "davaagiin_batbayar",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q3874590",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Kyokushūzan_Noboru"
+        },
+        {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/旭鷲山昇"
+        },
+        {
+          "note": "Wikipedia (mn)",
+          "url": "https://mn.wikipedia.org/wiki/Даваагийн_Батбаяр"
         }
       ],
       "name": "Davaagiin Batbayar",
       "other_names": [
+        {
+          "name": "Даваагийн Батбаяр",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Kyokushūzan Noboru",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Kyokushūzan Noboru",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "旭鷲山昇",
+          "note": "multilingual"
+        },
         {
           "lang": "mn",
           "name": "Даваагийн Батбаяр",
@@ -973,7 +1046,7 @@
       ]
     },
     {
-      "birth_date": "1974-01-01",
+      "birth_date": "1974",
       "gender": "male",
       "id": "90b77768-c1e7-465d-ae9e-2d6e125be1e9",
       "identifiers": [
@@ -1207,18 +1280,71 @@
       ]
     },
     {
+      "birth_date": "1957-07-01",
+      "gender": "male",
       "id": "e36fa0ac-2c4c-4ece-bc1a-7434ec558f24",
       "identifiers": [
         {
           "identifier": "erdeniin_bat-uul",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q5385283",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Erdeniin_Bat-Üül"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Erdeniin_Bat-Üül"
+        },
+        {
+          "note": "Wikipedia (mn)",
+          "url": "https://mn.wikipedia.org/wiki/Эрдэнийн_Бат-Үүл"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/额尔登·巴特乌勒"
         }
       ],
       "name": "Erdeniin Bat-Uul",
       "other_names": [
         {
+          "name": "Эрдэнийн Бат-Үүл",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Erdeniin Bat-Üül",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Erdeniin Bat-Üül",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Erdeniin Bat-Üül",
+          "note": "multilingual"
+        },
+        {
           "lang": "mn",
           "name": "Эрдэнийн Бат-Үүл",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Erdeniin Bat-Üül",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "额尔登·巴特乌勒",
           "note": "multilingual"
         }
       ],
@@ -1328,18 +1454,91 @@
       ]
     },
     {
+      "birth_date": "1970-03-08",
+      "gender": "male",
       "id": "6dd1ba94-0ef1-4fbc-9656-c0596d343117",
       "identifiers": [
         {
           "identifier": "gombojavyn_zandanshatar",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/0glnsdv",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q4142905",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/44/Zandanshatar.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Zandanshatar.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Gombojavyn_Zandanshatar"
+        },
+        {
+          "note": "Wikipedia (mn)",
+          "url": "https://mn.wikipedia.org/wiki/Гомбожавын_Занданшатар"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Гомбожавын_Занданшатар"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/贡布扎布·赞达沙塔尔"
         }
       ],
       "name": "Gombojavyn Zandanshatar",
       "other_names": [
         {
+          "name": "Гомбожавын Занданшатар",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Gombojavyn Zandanshatar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Gombojavyn Zandanshatar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Zandanshatar Gombojav",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Zandanshatar Gombojav",
+          "note": "multilingual"
+        },
+        {
           "lang": "mn",
           "name": "Гомбожавын Занданшатар",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Zandanshatar Gombojav",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Гомбожавын Занданшатар",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "贡布扎布·赞达沙塔尔",
           "note": "multilingual"
         }
       ],
@@ -1648,18 +1847,87 @@
       ]
     },
     {
+      "birth_date": "1963",
+      "gender": "male",
       "id": "d4a68d04-24ff-4456-9824-28bdeb686ef0",
       "identifiers": [
         {
           "identifier": "lamjavyn_gundalai",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q2027898",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Lamjavyn_Gündalai"
+        },
+        {
+          "note": "Wikipedia (mn)",
+          "url": "https://mn.wikipedia.org/wiki/Ламжавын_Гүндалай"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/拉木扎布·贡达赖"
         }
       ],
       "name": "Lamjavyn Gundalai",
       "other_names": [
         {
+          "name": "Ламжавын Гүндалай",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Lamjavyn Gündalai",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Lamjavyn Gündalai",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Lamjavyn Gündalai",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Lamjavyn Gündalai",
+          "note": "multilingual"
+        },
+        {
           "lang": "mn",
           "name": "Ламжавын Гүндалай",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Lamjavyn Gündalai",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "拉木扎布·贡达赖",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hans",
+          "name": "拉木扎布·贡达赖",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "拉木扎布·貢達賴",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "拉木扎布·貢達賴",
           "note": "multilingual"
         }
       ],
@@ -2982,18 +3250,222 @@
       ]
     },
     {
+      "birth_date": "1956-12-24",
+      "gender": "male",
       "id": "e2ed0caf-877d-4ed1-ae89-0fbf4cea4421",
       "identifiers": [
         {
           "identifier": "sanjaagiin_bayar",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/03cq592",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "305958841",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q372131",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/72/Sangiyin_Bayar.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Sangiyin_Bayar.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Sanjaagiin_Bayar"
+        },
+        {
+          "note": "Wikipedia (cs)",
+          "url": "https://cs.wikipedia.org/wiki/Sandžágín_Bajar"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Sandschaagiin_Bajar"
+        },
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Σαντζίν_Μπαγιάρ"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Sanjaagiin_Bayar"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Sanjaagiin_Bayar"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Sanjaagiin_Bayar"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Sanjaagiin_Bayar"
+        },
+        {
+          "note": "Wikipedia (id)",
+          "url": "https://id.wikipedia.org/wiki/Sanjaagiin_Bayar"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Sanžaagijn_Bajar"
+        },
+        {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/サンジャーギーン・バヤル"
+        },
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/산자긴_바야르"
+        },
+        {
+          "note": "Wikipedia (mk)",
+          "url": "https://mk.wikipedia.org/wiki/Санџагин_Бајар"
+        },
+        {
+          "note": "Wikipedia (mn)",
+          "url": "https://mn.wikipedia.org/wiki/Санжаагийн_Баяр"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Sandżaagijn_Bajar"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Санжийн_Баяр"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/桑吉·巴亚尔"
         }
       ],
       "name": "Sanjaagiin Bayar",
       "other_names": [
         {
+          "name": "Санжаагийн Баяр",
+          "note": "alternate"
+        },
+        {
+          "lang": "cs",
+          "name": "Sandžágín Bajar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Sandschaagiin Bajar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Σαντζίν Μπαγιάρ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Sanjaagiin Bayar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Sanjaagiin Bayar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Sanjaagiin Bayar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Sanjaagiin Bayar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Sanjaagiin Bayar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Sanžaagijn Bajar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "サンジャーギーン・バヤル",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "산자긴 바야르",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "Санџагин Бајар",
+          "note": "multilingual"
+        },
+        {
           "lang": "mn",
           "name": "Санжаагийн Баяр",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Sanjaagiin Bayar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Sandżaagijn Bajar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Санжийн Баяр",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "桑吉·巴亚尔",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "桑吉·巴亚尔",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hans",
+          "name": "桑吉·巴亚尔",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "桑吉·巴亞爾",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "桑吉·巴亞爾",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-sg",
+          "name": "桑吉·巴亚尔",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-tw",
+          "name": "桑吉·巴亞爾",
           "note": "multilingual"
         }
       ],
@@ -3128,18 +3600,240 @@
       ]
     },
     {
+      "birth_date": "1963-06-24",
+      "gender": "male",
       "id": "e9db8a15-a158-458d-a772-e954888e6eb4",
       "identifiers": [
         {
           "identifier": "sükhbaataryn_batbold",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/09gfdts",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "no2009108622",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "91155786",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q372202",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Sükhbaataryn_Batbold.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Sükhbaataryn_Batbold.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Süchbaataryn_Batbold"
+        },
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Σουχμπααταρίν_Μπάτμπολντ"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Sükhbaataryn_Batbold"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Süjbaataryn_Batbold"
+        },
+        {
+          "note": "Wikipedia (et)",
+          "url": "https://et.wikipedia.org/wiki/Sühbaatarõn_Batbold"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Suhbaataryn_Batbold"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Sükhbaataryn_Batbold"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Sùhbaataryn_Batbold"
+        },
+        {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/スフバータル・バトボルド"
+        },
+        {
+          "note": "Wikipedia (mn)",
+          "url": "https://mn.wikipedia.org/wiki/Сүхбаатарын_Батболд"
+        },
+        {
+          "note": "Wikipedia (ms)",
+          "url": "https://ms.wikipedia.org/wiki/Sükhbaataryn_Batbold"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Süchbaataryn_Batbold"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Сухбаатарын_Батболд"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Süchbaataryn_Batbold"
+        },
+        {
+          "note": "Wikipedia (tr)",
+          "url": "https://tr.wikipedia.org/wiki/Sükhbaataryn_Batbold"
+        },
+        {
+          "note": "Wikipedia (vi)",
+          "url": "https://vi.wikipedia.org/wiki/Sükhbaataryn_Batbold"
+        },
+        {
+          "note": "Wikipedia (yo)",
+          "url": "https://yo.wikipedia.org/wiki/Sükhbaataryn_Batbold"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/苏赫巴托尔·巴特包勒德"
         }
       ],
       "name": "Sükhbaataryn Batbold",
       "other_names": [
         {
+          "name": "Сүхбаатарын Батболд",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Süchbaataryn Batbold",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Σουχμπααταρίν Μπάτμπολντ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Sükhbaataryn Batbold",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Süjbaataryn Batbold",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Sühbaatarõn Batbold",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Sukhbaataryn Batbold",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Sükhbaataryn Batbold",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Sùhbaataryn Batbold",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "スフバータル・バトボルド",
+          "note": "multilingual"
+        },
+        {
           "lang": "mn",
           "name": "Сүхбаатарын Батболд",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "Sükhbaataryn Batbold",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Sükhbaataryn Batbold",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Süchbaataryn Batbold",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Сухбаатарын Батболд",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Süchbaataryn Batbold",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Sükhbaataryn Batbold",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Sükhbaataryn Batbold",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yo",
+          "name": "Sükhbaataryn Batbold",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "苏赫巴托尔·巴特包勒德",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "苏赫巴托尔·巴特包勒德",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hans",
+          "name": "苏赫巴托尔·巴特包勒德",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "蘇赫巴托爾·巴特包勒德",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "蘇赫巴托爾·巴特包勒德",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-sg",
+          "name": "苏赫巴托尔·巴特包勒德",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-tw",
+          "name": "蘇赫巴托爾·巴特包勒德",
           "note": "multilingual"
         }
       ],
@@ -3150,18 +3844,470 @@
       ]
     },
     {
+      "birth_date": "1963-03-30",
+      "gender": "male",
       "id": "002e9611-c423-4964-b780-aaa5c1377392",
       "identifiers": [
         {
           "identifier": "tsakhiagiin_elbegdorj",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/03qf0h",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "71031336",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q57421",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Tsakhiagiin_Elbegdor.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Tsakhiagiin_Elbegdor.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/تشياغين_البجدورج"
+        },
+        {
+          "note": "Wikipedia (az)",
+          "url": "https://az.wikipedia.org/wiki/Tsaxia_Elbeqdorj"
+        },
+        {
+          "note": "Wikipedia (be)",
+          "url": "https://be.wikipedia.org/wiki/Цахіягійн_Элбэгдорж"
+        },
+        {
+          "note": "Wikipedia (bn)",
+          "url": "https://bn.wikipedia.org/wiki/সাখিয়াজিন_এলবেগদর্জ"
+        },
+        {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Tsakhiagiin_Elbegdorj"
+        },
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Tsakhiagiin_Elbegdorj"
+        },
+        {
+          "note": "Wikipedia (cs)",
+          "url": "https://cs.wikipedia.org/wiki/Cachjagín_Elbegdordž"
+        },
+        {
+          "note": "Wikipedia (da)",
+          "url": "https://da.wikipedia.org/wiki/Tsakhiagijn_Elbegdorzj"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Tsachiagiin_Elbegdordsch"
+        },
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Τσαχιάγκιϊν_Ελμπεγκντόρζ"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Tsakhiagiin_Elbegdorj"
+        },
+        {
+          "note": "Wikipedia (eo)",
+          "url": "https://eo.wikipedia.org/wiki/Tsakhia_Elbegdorj"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Tsajiagiin_Elbegdorzh"
+        },
+        {
+          "note": "Wikipedia (et)",
+          "url": "https://et.wikipedia.org/wiki/Tsahhiagijn_Elbegdordž"
+        },
+        {
+          "note": "Wikipedia (fa)",
+          "url": "https://fa.wikipedia.org/wiki/تساخیاگین_البگدورج"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Tsahiagiin_Elbegdorj"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Tsakhiagiyn_Elbegdorj"
+        },
+        {
+          "note": "Wikipedia (gl)",
+          "url": "https://gl.wikipedia.org/wiki/Tsakhiagiin_Elbegdorj"
+        },
+        {
+          "note": "Wikipedia (he)",
+          "url": "https://he.wikipedia.org/wiki/צחיאגיין_אלבגדורג'"
+        },
+        {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/Cahiagín_Elbegdordzs"
+        },
+        {
+          "note": "Wikipedia (id)",
+          "url": "https://id.wikipedia.org/wiki/Tsakhiagiin_Elbegdorj"
+        },
+        {
+          "note": "Wikipedia (io)",
+          "url": "https://io.wikipedia.org/wiki/Tsakhiagiin_Elbegdorj"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Cahiagijn_Ėlbėgdorž"
+        },
+        {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/ツァヒアギーン・エルベグドルジ"
+        },
+        {
+          "note": "Wikipedia (ka)",
+          "url": "https://ka.wikipedia.org/wiki/ცაჰიაგინ_ელბეგდორჟი"
+        },
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/차히아긴_엘베그도르지"
+        },
+        {
+          "note": "Wikipedia (ky)",
+          "url": "https://ky.wikipedia.org/wiki/Элбэгдорж,_Цахиагийн"
+        },
+        {
+          "note": "Wikipedia (la)",
+          "url": "https://la.wikipedia.org/wiki/Tsakhiagiin_Elbegdorj"
+        },
+        {
+          "note": "Wikipedia (lb)",
+          "url": "https://lb.wikipedia.org/wiki/Tsachiagiin_Elbegdordj"
+        },
+        {
+          "note": "Wikipedia (lt)",
+          "url": "https://lt.wikipedia.org/wiki/Cachiagijinas_Elbegdoržas"
+        },
+        {
+          "note": "Wikipedia (lv)",
+          "url": "https://lv.wikipedia.org/wiki/Elbegdordžs_Cahjagīns"
+        },
+        {
+          "note": "Wikipedia (mn)",
+          "url": "https://mn.wikipedia.org/wiki/Цахиагийн_Элбэгдорж"
+        },
+        {
+          "note": "Wikipedia (ms)",
+          "url": "https://ms.wikipedia.org/wiki/Tsakhiagiin_Elbegdorj"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Tsahiagiin_Elbegdorzj"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Tsakhiagijn_Elbegdorzj"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Cachiagijn_Elbegdordż"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Tsakhiagiin_Elbegdorj"
+        },
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Țahiaghiin_Elbegdorj"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Цахиагийн_Элбэгдорж"
+        },
+        {
+          "note": "Wikipedia (ruwikinews)",
+          "url": "https://ruwikinews.wikipedia.org/wiki/Категория:Цахиагийн_Элбэгдорж"
+        },
+        {
+          "note": "Wikipedia (sco)",
+          "url": "https://sco.wikipedia.org/wiki/Tsakhiagiin_Elbegdorj"
+        },
+        {
+          "note": "Wikipedia (sq)",
+          "url": "https://sq.wikipedia.org/wiki/Cahiagijn_Elbegdorxh"
+        },
+        {
+          "note": "Wikipedia (sr)",
+          "url": "https://sr.wikipedia.org/wiki/Цахијагин_Елбегдорџ"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Tsachiagijn_Elbegdordzj"
+        },
+        {
+          "note": "Wikipedia (tr)",
+          "url": "https://tr.wikipedia.org/wiki/Tsakhiagiin_Elbegdorj"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Цахіагійн_Елбегдорж"
+        },
+        {
+          "note": "Wikipedia (vi)",
+          "url": "https://vi.wikipedia.org/wiki/Tsakhiagiin_Elbegdorj"
+        },
+        {
+          "note": "Wikipedia (yo)",
+          "url": "https://yo.wikipedia.org/wiki/Tsakhiagiin_Elbegdorj"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/查希亚·额勒贝格道尔吉"
         }
       ],
       "name": "Tsakhiagiin Elbegdorj",
       "other_names": [
         {
+          "name": "Цахиагийн Элбэгдорж",
+          "note": "alternate"
+        },
+        {
+          "lang": "ar",
+          "name": "تشياغين البجدورج",
+          "note": "multilingual"
+        },
+        {
+          "lang": "az",
+          "name": "Tsaxia Elbeqdorj",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be",
+          "name": "Цахіагійн Элбэгдорж",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bn",
+          "name": "সাখিয়াজিন এলবেগদর্জ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Tsakhiagiin Elbegdorj",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Cachjagín Elbegdordž",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Tsakhiagijn Elbegdorzj",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Tsachiagiin Elbegdordsch",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Τσαχιάγκιϊν Ελμπεγκντόρζ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Tsakhiagiin Elbegdorj",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Tsakhia Elbegdorj",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Tsakhiagiin Elbegdorj",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Tsahhiagijn Elbegdordž",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "تساخیاگین البگدورج",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Tsahiagiin Elbegdorj",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Tsakhiagiyn Elbegdorj",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Tsakhiagiyn Elbegdorj",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "צחיאגיין אלבגדורג'",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Cahiagín Elbegdordzs",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Tsakhiagiin Elbegdorj",
+          "note": "multilingual"
+        },
+        {
+          "lang": "io",
+          "name": "Tsakhiagiin Elbegdorj",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Cahiagijn Ėlbėgdorž",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ツァヒアギーン・エルベグドルジ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "ცაჰიაგინ ელბეგდორჟი",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "차히아긴 엘베그도르지",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ky",
+          "name": "Элбэгдорж",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Tsakhiagiin Elbegdorj",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lb",
+          "name": "Tsachiagiin Elbegdordj",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Tsakhijaginas Elbegdoržas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lv",
+          "name": "Elbegdordžs Cahjagīns",
+          "note": "multilingual"
+        },
+        {
           "lang": "mn",
           "name": "Цахиагийн Элбэгдорж",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "Tsakhiagiin Elbegdorj",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Tsakhiagijn Elbegdorzj",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Tsahiagiin Elbegdorzj",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Cachiagijn Elbegdordż",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Tsakhiagiin Elbegdorj",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Țahiagiin Elbegdorj",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Элбэгдорж, Цахиагийн",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "Tsakhiagiin Elbegdorj",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sq",
+          "name": "Cahiagijn Elbegdorxh",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Цахијагијн Елбегдорж",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Tsachiagijn Elbegdordzj",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Tsakhiagiin Elbegdorj",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Цахіагійн Елбегдорж",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Tsakhiagiin Elbegdorj",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yo",
+          "name": "Tsakhiagiin Elbegdorj",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "查希亚·额勒贝格道尔吉",
           "note": "multilingual"
         }
       ],
@@ -3260,7 +4406,7 @@
       ]
     },
     {
-      "birth_date": "1956-01-01",
+      "birth_date": "1956",
       "gender": "male",
       "id": "8a197aba-85e0-45e4-842d-e250f8a82f66",
       "identifiers": [
@@ -3734,7 +4880,7 @@
       ]
     },
     {
-      "birth_date": "1958-01-01",
+      "birth_date": "1958",
       "gender": "male",
       "id": "1f2733f3-fd76-4472-84cf-02c5dd68cce6",
       "identifiers": [
