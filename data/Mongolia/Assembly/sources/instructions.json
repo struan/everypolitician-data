@@ -36,7 +36,8 @@
       "type": "wikidata",
       "merge": {
         "incoming_field": "name__mn",
-        "existing_field": "name__mn"
+        "existing_field": "name__mn",
+        "reconciliation_file": "reconciliation/wikidata.csv"
       }
     },
     {
