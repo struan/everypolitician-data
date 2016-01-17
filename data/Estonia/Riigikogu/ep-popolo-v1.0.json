@@ -2545,7 +2545,26 @@
     {
       "birth_date": "1956-01-28",
       "id": "cac5bc14-504f-4e37-9ddf-c674c51b74bf",
-      "name": "Etti Kagarov"
+      "identifiers": [
+        {
+          "identifier": "Q16405534",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (et)",
+          "url": "https://et.wikipedia.org/wiki/Etti_Kagarov"
+        }
+      ],
+      "name": "Etti Kagarov",
+      "other_names": [
+        {
+          "lang": "et",
+          "name": "Etti Kagarov",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1971-10-06",
@@ -7002,11 +7021,16 @@
         }
       ],
       "email": "oudekki.loone@riigikogu.ee",
+      "gender": "female",
       "id": "26932bb9-95d0-4259-9d5c-31c9ae3ac5af",
       "identifiers": [
         {
           "identifier": "5472f8ce-5ad8-432a-b4a6-5ae523e7c8f7",
           "scheme": "riigikogu"
+        },
+        {
+          "identifier": "Q12371725",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.riigikogu.ee/wpcms/wp-content/uploads/ems/temp/5ef2f250-7368-4019-8e79-72d677ffcf5d.jpg",
@@ -7015,11 +7039,40 @@
           "url": "http://www.riigikogu.ee/wpcms/wp-content/uploads/ems/temp/5ef2f250-7368-4019-8e79-72d677ffcf5d.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (et)",
+          "url": "https://et.wikipedia.org/wiki/Oudekki_Loone"
+        },
+        {
+          "note": "Wikipedia (etwikiquote)",
+          "url": "https://etwikiquote.wikipedia.org/wiki/Oudekki_Loone"
+        }
+      ],
       "name": "Kerstin-Oudekki Loone",
       "other_names": [
         {
           "name": "Oudekki Loone",
           "note": "alternate"
+        },
+        {
+          "name": "Oudekki Loone",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Oudekki Loone",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "Oudekki Loone",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Oudekki Loone",
+          "note": "multilingual"
         }
       ],
       "sources": [
@@ -10549,8 +10602,39 @@
     },
     {
       "birth_date": "1968-09-02",
+      "gender": "male",
       "id": "4976ec9e-f701-464d-9838-f5eb148e7510",
-      "name": "Neeme Suur"
+      "identifiers": [
+        {
+          "identifier": "Q12370928",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Neeme_Suur,_2011.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Neeme_Suur,_2011.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (et)",
+          "url": "https://et.wikipedia.org/wiki/Neeme_Suur"
+        }
+      ],
+      "name": "Neeme Suur",
+      "other_names": [
+        {
+          "lang": "et",
+          "name": "Neeme Suur",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Neeme Suur",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1984-10-15",
@@ -11801,8 +11885,89 @@
     },
     {
       "birth_date": "1969-07-14",
+      "gender": "male",
+      "given_name": "Sven",
       "id": "fadf4b85-2782-4159-8a94-457448957956",
-      "name": "Sven Sester"
+      "identifiers": [
+        {
+          "identifier": "/m/0t_g1hj",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q11158997",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/IRL_Sven_Sester.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/IRL_Sven_Sester.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Sven_Sester"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Sven_Sester"
+        },
+        {
+          "note": "Wikipedia (et)",
+          "url": "https://et.wikipedia.org/wiki/Sven_Sester"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Sven_Sester"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Sven_Sester"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Сестер,_Свен"
+        }
+      ],
+      "name": "Sven Sester",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Sven Sester",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Sven Sester",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Sven Sester",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Sven Sester",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Sven Sester",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Sven Sester",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Свен Сестер",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1979-09-26",
@@ -15555,6 +15720,11 @@
         {
           "lang": "pt",
           "name": "Partido Reformista Estónio",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Estonská reformní strana",
           "note": "multilingual"
         }
       ]
