@@ -11,6 +11,20 @@
       "type": "membership"
     },
     {
+      "file": "morph/wikidata.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/iceland-althingismenn-wikidata",
+        "query": "SELECT * FROM data ORDER BY id"
+      },
+      "source": "http://wikidata.org/",
+      "type": "wikidata",
+      "merge": {
+        "incoming_field": "original_wikiname",
+        "existing_field": "name"
+      }
+    },
+    {
       "file": "manual/terms.csv",
       "type": "term"
     },
