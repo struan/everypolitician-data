@@ -7,8 +7,22 @@
         "scraper": "tmtmtmtm/iceland-althing-wp",
         "query": "SELECT REPLACE(LOWER(name),' ','_') AS id, REPLACE(LOWER(party),' ','_') AS party_id, * FROM data"
       },
-      "source": "https://morph.io/tmtmtmtm/iceland-althing-wp",
+      "source": "https://is.wikipedia.org/",
       "type": "membership"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/iceland-althingismenn-wikidata",
+        "query": "SELECT * FROM data ORDER BY id"
+      },
+      "source": "http://wikidata.org/",
+      "type": "wikidata",
+      "merge": {
+        "incoming_field": "original_wikiname",
+        "existing_field": "name"
+      }
     },
     {
       "file": "manual/terms.csv",
