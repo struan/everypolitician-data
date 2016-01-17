@@ -7,7 +7,7 @@
         "scraper": "tmtmtmtm/iceland-althing-wp",
         "query": "SELECT REPLACE(LOWER(name),' ','_') AS id, REPLACE(LOWER(party),' ','_') AS party_id, * FROM data"
       },
-      "source": "https://morph.io/tmtmtmtm/iceland-althing-wp",
+      "source": "https://is.wikipedia.org/",
       "type": "membership"
     },
     {
