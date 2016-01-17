@@ -254,7 +254,7 @@ namespace :merge_sources do
             to_patch = to_patch.select { |r| r[:term].to_s == incoming_row[:term].to_s } if merger[:term_match]
             uids = to_patch.map { |r| r[:id] }.uniq
             if uids.count > 1
-              warn "Too many IDs: #{uids}".red.on_yellow
+              warn "Error: trying to patch multiple people: #{uids.join('; ')}".red.on_yellow
               next
             end
             to_patch.each do |existing_row|

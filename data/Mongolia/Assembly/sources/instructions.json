@@ -7,21 +7,37 @@
         "scraper": "tmtmtmtm/mongolia-khurai-wp",
         "query": "SELECT * FROM data"
       },
-      "source": "https://morph.io/tmtmtmtm/mongolia-khurai-wp",
+      "source": "https://en.wikipedia.org/",
       "type": "membership"
+    },
+    {
+      "file": "morph/official.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/mongolia-khurai-official",
+        "query": "SELECT * FROM data ORDER BY id"
+      },
+      "source": "http://wikidata.org/",
+      "type": "person",
+      "merge": {
+        "incoming_field": "name__mn",
+        "existing_field": "name__mn",
+        "reconciliation_file": "reconciliation/official.csv"
+      }
     },
     {
       "file": "morph/wikidata.csv",
       "create": {
         "type": "morph",
         "scraper": "tmtmtmtm/mongolia-khurai-wikidata",
-        "query": "SELECT *, id AS identifier__wikidata, NULL as id FROM data"
+        "query": "SELECT * FROM data"
       },
       "source": "http://wikidata.org/",
       "type": "wikidata",
       "merge": {
         "incoming_field": "name__mn",
-        "existing_field": "name__mn"
+        "existing_field": "name__mn",
+        "reconciliation_file": "reconciliation/wikidata.csv"
       }
     },
     {

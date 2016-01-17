@@ -1,6 +1,15 @@
 {
   "persons": [
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "BakeyAgipar"
+        }
+      ],
+      "email": "bakei@parliament.mn",
+      "family_name": "Agipar",
+      "given_name": "BAKEI",
       "id": "4bf70f7d-d11e-4326-8522-8a2013feae9e",
       "identifiers": [
         {
@@ -8,14 +17,39 @@
           "scheme": "everypolitician_legacy"
         }
       ],
+      "image": "http://www.parliament.mn/en/files/images/709-7864481.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.mn/en/files/images/709-7864481.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/bakey.agipar"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/BakeyAgipar"
+        },
+        {
+          "note": "website",
+          "url": "http://bakei.parliament.mn"
+        }
+      ],
       "name": "Agilapyn Bakei",
       "other_names": [
+        {
+          "name": "BAKEI Agipar",
+          "note": "alternate"
+        },
         {
           "lang": "mn",
           "name": "Агипарын Бакей",
           "note": "multilingual"
         }
       ],
+      "sort_name": "Agipar BAKEI",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2012"
@@ -23,6 +57,9 @@
       ]
     },
     {
+      "email": "tleikhan@parliament.mn",
+      "family_name": "Almalik",
+      "given_name": "TLEIKHAN",
       "id": "2b08df74-7880-43c9-a2be-91681ebea545",
       "identifiers": [
         {
@@ -30,14 +67,31 @@
           "scheme": "everypolitician_legacy"
         }
       ],
+      "image": "http://www.parliament.mn/en/files/images/1001-7864481.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.mn/en/files/images/1001-7864481.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://tleikhan.parliament.mn"
+        }
+      ],
       "name": "Almalikyn Tleikhan",
       "other_names": [
+        {
+          "name": "TLEIKHAN Almalik",
+          "note": "alternate"
+        },
         {
           "lang": "mn",
           "name": "Алмаликын Тлейхан",
           "note": "multilingual"
         }
       ],
+      "sort_name": "Almalik TLEIKHAN",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2012"
@@ -46,7 +100,10 @@
     },
     {
       "birth_date": "1964-07-06",
+      "email": "baterdeneb@parliament.mn",
+      "family_name": "Badmaanyambuu",
       "gender": "male",
+      "given_name": "BAT-ERDENE",
       "id": "8a23a6c6-216c-4b87-a08a-3a526ca4dcbe",
       "identifiers": [
         {
@@ -62,10 +119,10 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/B-baterdene.jpg",
+      "image": "http://www.parliament.mn/en/files/images/713-7864481.jpg",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/B-baterdene.jpg"
+          "url": "http://www.parliament.mn/en/files/images/713-7864481.jpg"
         }
       ],
       "links": [
@@ -84,10 +141,18 @@
         {
           "note": "Wikipedia (ruwikinews)",
           "url": "https://ruwikinews.wikipedia.org/wiki/Категория:Бадмаанямбуугийн_Бат-Эрдэнэ"
+        },
+        {
+          "note": "website",
+          "url": "http://baterdeneb.parliament.mn"
         }
       ],
       "name": "Badmaanyambuugiin Bat-Erdene",
       "other_names": [
+        {
+          "name": "BAT-ERDENE Badmaanyambuu",
+          "note": "alternate"
+        },
         {
           "name": "Бадмаанямбуугийн Бат-Эрдэнэ",
           "note": "alternate"
@@ -118,6 +183,7 @@
           "note": "multilingual"
         }
       ],
+      "sort_name": "Badmaanyambuu BAT-ERDENE",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2012"
@@ -125,18 +191,52 @@
       ]
     },
     {
+      "gender": "male",
       "id": "fef2ae4a-5a33-434b-94f0-29a93d0f741f",
       "identifiers": [
         {
           "identifier": "batjargalyn_batbayar",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q4869308",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Batjargalyn_Batbayar"
+        },
+        {
+          "note": "Wikipedia (mn)",
+          "url": "https://mn.wikipedia.org/wiki/Батжаргалын_Батбаяр"
         }
       ],
       "name": "Batjargalyn Batbayar",
       "other_names": [
         {
+          "name": "Батжаргалын Батбаяр",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Batjargalyn Batbayar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Batjargalyn Batbayar",
+          "note": "multilingual"
+        },
+        {
           "lang": "mn",
           "name": "Батжаргалын Батбаяр",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Batjargalyn Batbayar",
           "note": "multilingual"
         }
       ],
@@ -169,6 +269,9 @@
       ]
     },
     {
+      "email": "narankhuu@parliament.mn",
+      "family_name": "Batsukh",
+      "given_name": "NARANKHUU",
       "id": "6512664b-8106-4dc8-a822-76d6d9810515",
       "identifiers": [
         {
@@ -180,14 +283,28 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "http://www.parliament.mn/en/files/images/943-7864481.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.mn/en/files/images/943-7864481.jpg"
+        }
+      ],
       "links": [
         {
           "note": "Wikipedia (mn)",
           "url": "https://mn.wikipedia.org/wiki/Батсүхийн_Наранхүү"
+        },
+        {
+          "note": "website",
+          "url": "http://narankhuu.parliament.mn"
         }
       ],
       "name": "Batsükhiin Narankhüü",
       "other_names": [
+        {
+          "name": "NARANKHUU Batsukh",
+          "note": "alternate"
+        },
         {
           "name": "Батсүхийн Наранхүү",
           "note": "alternate"
@@ -198,6 +315,7 @@
           "note": "multilingual"
         }
       ],
+      "sort_name": "Batsukh NARANKHUU",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2012"
@@ -205,6 +323,9 @@
       ]
     },
     {
+      "email": "choijilsuren@parliament.mn",
+      "family_name": "Battogtokh",
+      "given_name": "CHOIJILSUREN",
       "id": "63d33048-8f25-4674-b96d-6df3c6d3ef6b",
       "identifiers": [
         {
@@ -212,14 +333,31 @@
           "scheme": "everypolitician_legacy"
         }
       ],
+      "image": "http://www.parliament.mn/en/files/images/1074-7864481.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.mn/en/files/images/1074-7864481.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://choijilsuren.parliament.mn"
+        }
+      ],
       "name": "Battogtokhyn Choijilsüren",
       "other_names": [
+        {
+          "name": "CHOIJILSUREN Battogtokh",
+          "note": "alternate"
+        },
         {
           "lang": "mn",
           "name": "Баттогтохын Чойжилсүрэн",
           "note": "multilingual"
         }
       ],
+      "sort_name": "Battogtokh CHOIJILSUREN",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2012"
@@ -227,6 +365,9 @@
       ]
     },
     {
+      "email": "bolor@parliament.mn",
+      "family_name": "Bayarbaatar",
+      "given_name": "BOLOR",
       "id": "fdb19fce-977e-4aba-8c42-148cbceae5c1",
       "identifiers": [
         {
@@ -234,14 +375,31 @@
           "scheme": "everypolitician_legacy"
         }
       ],
+      "image": "http://www.parliament.mn/en/files/images/1009-7864481.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.mn/en/files/images/1009-7864481.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://bolor.parliament.mn"
+        }
+      ],
       "name": "Bayarbaataryn Bolor",
       "other_names": [
+        {
+          "name": "BOLOR Bayarbaatar",
+          "note": "alternate"
+        },
         {
           "lang": "mn",
           "name": "Баярбаатарын Болор",
           "note": "multilingual"
         }
       ],
+      "sort_name": "Bayarbaatar BOLOR",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2012"
@@ -249,6 +407,9 @@
       ]
     },
     {
+      "email": "khurelbaatar@parliament.mn",
+      "family_name": "Chimed",
+      "given_name": "KHURELBAATAR",
       "id": "f85e7e30-eb6a-4a7f-88f9-ec7b22470886",
       "identifiers": [
         {
@@ -256,14 +417,31 @@
           "scheme": "everypolitician_legacy"
         }
       ],
+      "image": "http://www.parliament.mn/en/files/images/1068-7864481.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.mn/en/files/images/1068-7864481.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://khurelbaatar.parliament.mn"
+        }
+      ],
       "name": "Chimediin Khürelbaatar",
       "other_names": [
+        {
+          "name": "KHURELBAATAR Chimed",
+          "note": "alternate"
+        },
         {
           "lang": "mn",
           "name": "Чимэдийн Хүрэлбаатар",
           "note": "multilingual"
         }
       ],
+      "sort_name": "Chimed KHURELBAATAR",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2012"
@@ -271,8 +449,11 @@
       ]
     },
     {
-      "birth_date": "1969-01-01",
+      "birth_date": "1969",
+      "email": "saikhanbileg@parliament.mn",
+      "family_name": "Chimed",
       "gender": "male",
+      "given_name": "SAIKHANBILEG",
       "id": "b7e35947-42fe-4949-973b-25b2a2129514",
       "identifiers": [
         {
@@ -284,10 +465,10 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/7/74/Chimediin_Saikhanbileg_2015.jpg",
+      "image": "http://www.parliament.mn/en/files/images/989-7864481.jpg",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Chimediin_Saikhanbileg_2015.jpg"
+          "url": "http://www.parliament.mn/en/files/images/989-7864481.jpg"
         }
       ],
       "links": [
@@ -354,10 +535,18 @@
         {
           "note": "Wikipedia (zh)",
           "url": "https://zh.wikipedia.org/wiki/其米德·赛汗比勒格"
+        },
+        {
+          "note": "website",
+          "url": "http://saikhanbileg.parliament.mn"
         }
       ],
       "name": "Chimediin Saikhanbileg",
       "other_names": [
+        {
+          "name": "SAIKHANBILEG Chimed",
+          "note": "alternate"
+        },
         {
           "name": "Чимэдийн Сайханбилэг",
           "note": "alternate"
@@ -448,6 +637,7 @@
           "note": "multilingual"
         }
       ],
+      "sort_name": "Chimed SAIKHANBILEG",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2012"
@@ -455,6 +645,9 @@
       ]
     },
     {
+      "email": "ulaan@parliament.mn",
+      "family_name": "Chultem",
+      "given_name": "ULAAN",
       "id": "a38867dc-73e6-4990-90df-cf89f0b25be5",
       "identifiers": [
         {
@@ -462,14 +655,31 @@
           "scheme": "everypolitician_legacy"
         }
       ],
+      "image": "http://www.parliament.mn/en/files/images/1041-7864481.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.mn/en/files/images/1041-7864481.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://ulaan.parliament.mn"
+        }
+      ],
       "name": "Chültemiin Ulaan",
       "other_names": [
+        {
+          "name": "ULAAN Chultem",
+          "note": "alternate"
+        },
         {
           "lang": "mn",
           "name": "Чүлтэмийн Улаан",
           "note": "multilingual"
         }
       ],
+      "sort_name": "Chultem ULAAN",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2012"
@@ -499,6 +709,9 @@
       ]
     },
     {
+      "email": "demberel@parliament.mn",
+      "family_name": "Damdin",
+      "given_name": "DEMBEREL",
       "id": "45406a4d-857a-4252-9ec9-146573a09636",
       "identifiers": [
         {
@@ -506,14 +719,31 @@
           "scheme": "everypolitician_legacy"
         }
       ],
+      "image": "http://www.parliament.mn/en/files/images/884-7864481.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.mn/en/files/images/884-7864481.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://dembereld.parliament.mn"
+        }
+      ],
       "name": "Damdingiin Demberel",
       "other_names": [
+        {
+          "name": "DEMBEREL Damdin",
+          "note": "alternate"
+        },
         {
           "lang": "mn",
           "name": "Дамдингийн Дэмбэрэл",
           "note": "multilingual"
         }
       ],
+      "sort_name": "Damdin DEMBEREL",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2012"
@@ -521,6 +751,9 @@
       ]
     },
     {
+      "email": "khyankhyarvaa@parliament.mn",
+      "family_name": "Damdin",
+      "given_name": "KHAYANKHYARVAA",
       "id": "6aeb9550-7d70-4ce2-a67c-ccadc9516ed1",
       "identifiers": [
         {
@@ -528,14 +761,31 @@
           "scheme": "everypolitician_legacy"
         }
       ],
+      "image": "http://www.parliament.mn/en/files/images/1066-7864481.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.mn/en/files/images/1066-7864481.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://khayankhyarvaa.parliament.mn"
+        }
+      ],
       "name": "Damdingiin Khayankhyarvaa",
       "other_names": [
+        {
+          "name": "KHAYANKHYARVAA Damdin",
+          "note": "alternate"
+        },
         {
           "lang": "mn",
           "name": "Дамдингийн Хаянхярваа",
           "note": "multilingual"
         }
       ],
+      "sort_name": "Damdin KHAYANKHYARVAA",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2012"
@@ -681,6 +931,9 @@
       ]
     },
     {
+      "email": "lundeejantsan@parliament.mn",
+      "family_name": "Danzan",
+      "given_name": "LUNDEEJANTSAN",
       "id": "50218128-a922-4256-addf-b6c82e312a73",
       "identifiers": [
         {
@@ -688,14 +941,31 @@
           "scheme": "everypolitician_legacy"
         }
       ],
+      "image": "http://www.parliament.mn/en/files/images/941-7864481.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.mn/en/files/images/941-7864481.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://lundeejantsan.parliament.mn"
+        }
+      ],
       "name": "Danzangiin Lündeejantsan",
       "other_names": [
+        {
+          "name": "LUNDEEJANTSAN Danzan",
+          "note": "alternate"
+        },
         {
           "lang": "mn",
           "name": "Данзангийн Лүндээжанцан",
           "note": "multilingual"
         }
       ],
+      "sort_name": "Danzan LUNDEEJANTSAN",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2012"
@@ -703,6 +973,9 @@
       ]
     },
     {
+      "email": "baterdened@parliament.mn",
+      "family_name": "Dashdemberel",
+      "given_name": "BAT-ERDENE",
       "id": "033995bf-e413-445b-ae6c-bfd601a1a0fa",
       "identifiers": [
         {
@@ -714,14 +987,28 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "http://www.parliament.mn/en/files/images/711-7864481.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.mn/en/files/images/711-7864481.jpg"
+        }
+      ],
       "links": [
         {
           "note": "Wikipedia (mn)",
           "url": "https://mn.wikipedia.org/wiki/Дашдэмбэрэлийн_Бат-Эрдэнэ"
+        },
+        {
+          "note": "website",
+          "url": "http://baterdened.parliament.mn"
         }
       ],
       "name": "Dashdembereliin Bat-Erdene",
       "other_names": [
+        {
+          "name": "BAT-ERDENE Dashdemberel",
+          "note": "alternate"
+        },
         {
           "name": "Дашдэмбэрэлийн Бат-Эрдэнэ",
           "note": "alternate"
@@ -732,6 +1019,7 @@
           "note": "multilingual"
         }
       ],
+      "sort_name": "Dashdemberel BAT-ERDENE",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2012"
@@ -739,6 +1027,9 @@
       ]
     },
     {
+      "email": "ganbat@parliament.mn",
+      "family_name": "Dashdondog",
+      "given_name": "GANBAT",
       "id": "01fb02cf-2cd1-418b-9746-18bd7ed1efa1",
       "identifiers": [
         {
@@ -746,14 +1037,31 @@
           "scheme": "everypolitician_legacy"
         }
       ],
+      "image": "http://www.parliament.mn/en/files/images/831-7864481.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.mn/en/files/images/831-7864481.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://ganbat.parliament.mn"
+        }
+      ],
       "name": "Dashdondogiin Ganbat",
       "other_names": [
+        {
+          "name": "GANBAT Dashdondog",
+          "note": "alternate"
+        },
         {
           "lang": "mn",
           "name": "Дашдондогийн Ганбат",
           "note": "multilingual"
         }
       ],
+      "sort_name": "Dashdondog GANBAT",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2012"
@@ -783,6 +1091,9 @@
       ]
     },
     {
+      "email": "arvin@parliament.mn",
+      "family_name": "Dashjamts",
+      "given_name": "ARVIN",
       "id": "ca30348a-a09b-4d17-8dc7-1a3d76946265",
       "identifiers": [
         {
@@ -790,14 +1101,31 @@
           "scheme": "everypolitician_legacy"
         }
       ],
+      "image": "http://www.parliament.mn/en/files/images/13042-7864481.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.mn/en/files/images/13042-7864481.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://arvin.parliament.mn"
+        }
+      ],
       "name": "Dashjamtsyn Arvin",
       "other_names": [
+        {
+          "name": "ARVIN Dashjamts",
+          "note": "alternate"
+        },
         {
           "lang": "mn",
           "name": "Дашжамцын Арвин",
           "note": "multilingual"
         }
       ],
+      "sort_name": "Dashjamts ARVIN",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2012"
@@ -827,15 +1155,54 @@
       ]
     },
     {
+      "birth_date": "1973-03-08",
+      "gender": "male",
       "id": "5b13b215-dd13-4335-8fc9-c411dcb46254",
       "identifiers": [
         {
           "identifier": "davaagiin_batbayar",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q3874590",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Kyokushūzan_Noboru"
+        },
+        {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/旭鷲山昇"
+        },
+        {
+          "note": "Wikipedia (mn)",
+          "url": "https://mn.wikipedia.org/wiki/Даваагийн_Батбаяр"
         }
       ],
       "name": "Davaagiin Batbayar",
       "other_names": [
+        {
+          "name": "Даваагийн Батбаяр",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Kyokushūzan Noboru",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Kyokushūzan Noboru",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "旭鷲山昇",
+          "note": "multilingual"
+        },
         {
           "lang": "mn",
           "name": "Даваагийн Батбаяр",
@@ -849,6 +1216,9 @@
       ]
     },
     {
+      "email": "gankhuyag@parliament.mn",
+      "family_name": "Davaajav",
+      "given_name": "GANKHUAYG",
       "id": "41065287-b891-4c42-892e-fb5d8a825b69",
       "identifiers": [
         {
@@ -860,14 +1230,28 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "http://www.parliament.mn/en/files/images/835-7864481.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.mn/en/files/images/835-7864481.jpg"
+        }
+      ],
       "links": [
         {
           "note": "Wikipedia (mn)",
           "url": "https://mn.wikipedia.org/wiki/Даваажавын_Ганхуяг"
+        },
+        {
+          "note": "website",
+          "url": "http://gankhuyag.parliament.mn"
         }
       ],
       "name": "Davaajavyn Gankhuyag",
       "other_names": [
+        {
+          "name": "GANKHUAYG Davaajav",
+          "note": "alternate"
+        },
         {
           "name": "Даваажавын Ганхуяг",
           "note": "alternate"
@@ -878,6 +1262,7 @@
           "note": "multilingual"
         }
       ],
+      "sort_name": "Davaajav GANKHUAYG",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2012"
@@ -907,6 +1292,9 @@
       ]
     },
     {
+      "email": "terbishdagva@parliament.mn",
+      "family_name": "Dendev",
+      "given_name": "TERBISHDAVGA",
       "id": "9398cdb6-d8de-45f4-9e84-ff1c65616c44",
       "identifiers": [
         {
@@ -914,14 +1302,31 @@
           "scheme": "everypolitician_legacy"
         }
       ],
+      "image": "http://www.parliament.mn/en/files/images/1023-7864481.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.mn/en/files/images/1023-7864481.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://terbishdagva.parliament.mn"
+        }
+      ],
       "name": "Dendeviin Terbishdagva",
       "other_names": [
+        {
+          "name": "TERBISHDAVGA Dendev",
+          "note": "alternate"
+        },
         {
           "lang": "mn",
           "name": "Дэндэвийн Тэрбишдагва",
           "note": "multilingual"
         }
       ],
+      "sort_name": "Dendev TERBISHDAVGA",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2012"
@@ -951,6 +1356,9 @@
       ]
     },
     {
+      "email": "battsogt@parliament.mn",
+      "family_name": "Dogsom",
+      "given_name": "BATTSOGT",
       "id": "8ae12efe-54ea-43a5-b91d-718807da3202",
       "identifiers": [
         {
@@ -958,14 +1366,31 @@
           "scheme": "everypolitician_legacy"
         }
       ],
+      "image": "http://www.parliament.mn/en/files/images/1098-7864481.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.mn/en/files/images/1098-7864481.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://battsogt.parliament.mn"
+        }
+      ],
       "name": "Dogsomyn Battsogt",
       "other_names": [
+        {
+          "name": "BATTSOGT Dogsom",
+          "note": "alternate"
+        },
         {
           "lang": "mn",
           "name": "Догсомын Батцогт",
           "note": "multilingual"
         }
       ],
+      "sort_name": "Dogsom BATTSOGT",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2012"
@@ -973,7 +1398,7 @@
       ]
     },
     {
-      "birth_date": "1974-01-01",
+      "birth_date": "1974",
       "gender": "male",
       "id": "90b77768-c1e7-465d-ae9e-2d6e125be1e9",
       "identifiers": [
@@ -1075,6 +1500,9 @@
       ]
     },
     {
+      "email": "erdenebatd@parliament.mn",
+      "family_name": "Dondogdorj",
+      "given_name": "ERDENEBAT",
       "id": "19444af9-ff6c-46c3-95cc-cc90be718fbf",
       "identifiers": [
         {
@@ -1082,14 +1510,31 @@
           "scheme": "everypolitician_legacy"
         }
       ],
+      "image": "http://www.parliament.mn/en/files/images/1088-7864481.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.mn/en/files/images/1088-7864481.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://erdenebatd.parliament.mn"
+        }
+      ],
       "name": "Dondogdorjiin Erdenebat",
       "other_names": [
+        {
+          "name": "ERDENEBAT Dondogdorj",
+          "note": "alternate"
+        },
         {
           "lang": "mn",
           "name": "Дондогдоржийн Эрдэнэбат",
           "note": "multilingual"
         }
       ],
+      "sort_name": "Dondogdorj ERDENEBAT",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2012"
@@ -1141,6 +1586,9 @@
       ]
     },
     {
+      "email": "oyunkhorol@parliament.mn",
+      "family_name": "Dulamsuren",
+      "given_name": "OYUNKHOROL",
       "id": "86ca7119-76eb-40e9-8b26-72de2184b70b",
       "identifiers": [
         {
@@ -1148,14 +1596,31 @@
           "scheme": "everypolitician_legacy"
         }
       ],
+      "image": "http://www.parliament.mn/en/files/images/987-7864481.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.mn/en/files/images/987-7864481.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://oyunkhorol.parliament.mn"
+        }
+      ],
       "name": "Dulamsürengiin Oyuunkhorol",
       "other_names": [
+        {
+          "name": "OYUNKHOROL Dulamsuren",
+          "note": "alternate"
+        },
         {
           "lang": "mn",
           "name": "Дуламсүрэнгийн Оюунхорол",
           "note": "multilingual"
         }
       ],
+      "sort_name": "Dulamsuren OYUNKHOROL",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2012"
@@ -1207,18 +1672,71 @@
       ]
     },
     {
+      "birth_date": "1957-07-01",
+      "gender": "male",
       "id": "e36fa0ac-2c4c-4ece-bc1a-7434ec558f24",
       "identifiers": [
         {
           "identifier": "erdeniin_bat-uul",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q5385283",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Erdeniin_Bat-Üül"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Erdeniin_Bat-Üül"
+        },
+        {
+          "note": "Wikipedia (mn)",
+          "url": "https://mn.wikipedia.org/wiki/Эрдэнийн_Бат-Үүл"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/额尔登·巴特乌勒"
         }
       ],
       "name": "Erdeniin Bat-Uul",
       "other_names": [
         {
+          "name": "Эрдэнийн Бат-Үүл",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Erdeniin Bat-Üül",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Erdeniin Bat-Üül",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Erdeniin Bat-Üül",
+          "note": "multilingual"
+        },
+        {
           "lang": "mn",
           "name": "Эрдэнийн Бат-Үүл",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Erdeniin Bat-Üül",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "额尔登·巴特乌勒",
           "note": "multilingual"
         }
       ],
@@ -1229,6 +1747,9 @@
       ]
     },
     {
+      "email": "uyanga@parliament.mn",
+      "family_name": "Gantumur",
+      "given_name": "UYANGA",
       "id": "9d93666a-7b22-4170-b990-53c91537731f",
       "identifiers": [
         {
@@ -1240,14 +1761,28 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "http://www.parliament.mn/en/files/images/1064-7864481.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.mn/en/files/images/1064-7864481.jpg"
+        }
+      ],
       "links": [
         {
           "note": "Wikipedia (mn)",
           "url": "https://mn.wikipedia.org/wiki/Гантөмөрийн_Уянга"
+        },
+        {
+          "note": "website",
+          "url": "http://uyanga.parliament.mn"
         }
       ],
       "name": "Gantömöriin Uyanga",
       "other_names": [
+        {
+          "name": "UYANGA Gantumur",
+          "note": "alternate"
+        },
         {
           "name": "Гантөмөрийн Уянга",
           "note": "alternate"
@@ -1258,6 +1793,7 @@
           "note": "multilingual"
         }
       ],
+      "sort_name": "Gantumur UYANGA",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2012"
@@ -1265,6 +1801,9 @@
       ]
     },
     {
+      "email": "bayarsaikhang@parliament.mn",
+      "family_name": "Garidkhuu",
+      "given_name": "BAYARSAIKHAN",
       "id": "621f0e59-e228-455b-b7c8-539a3103645b",
       "identifiers": [
         {
@@ -1272,14 +1811,31 @@
           "scheme": "everypolitician_legacy"
         }
       ],
+      "image": "http://www.parliament.mn/en/files/images/1111-7864481.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.mn/en/files/images/1111-7864481.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://bayarsaikhang.parliament.mn"
+        }
+      ],
       "name": "Garidkhüügiin Bayarsaikhan",
       "other_names": [
+        {
+          "name": "BAYARSAIKHAN Garidkhuu",
+          "note": "alternate"
+        },
         {
           "lang": "mn",
           "name": "Гарьдхүүгийн Баярсайхан",
           "note": "multilingual"
         }
       ],
+      "sort_name": "Garidkhuu BAYARSAIKHAN",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2012"
@@ -1287,6 +1843,9 @@
       ]
     },
     {
+      "email": "batkhuu@parliament.mn",
+      "family_name": "Gavaa",
+      "given_name": "BATKHUU",
       "id": "bc60b97c-6c66-4034-b79d-77ddbd1f86d1",
       "identifiers": [
         {
@@ -1298,14 +1857,28 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "http://www.parliament.mn/en/files/images/13040-7864481.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.mn/en/files/images/13040-7864481.jpg"
+        }
+      ],
       "links": [
         {
           "note": "Wikipedia (mn)",
           "url": "https://mn.wikipedia.org/wiki/Гаваагийн_Батхүү"
+        },
+        {
+          "note": "website",
+          "url": "batkhuu.parliament.mn"
         }
       ],
       "name": "Gavaagiin Batkhüü",
       "other_names": [
+        {
+          "name": "BATKHUU Gavaa",
+          "note": "alternate"
+        },
         {
           "name": "Гаваагийн Батхүү",
           "note": "alternate"
@@ -1321,6 +1894,7 @@
           "note": "multilingual"
         }
       ],
+      "sort_name": "Gavaa BATKHUU",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2012"
@@ -1328,18 +1902,91 @@
       ]
     },
     {
+      "birth_date": "1970-03-08",
+      "gender": "male",
       "id": "6dd1ba94-0ef1-4fbc-9656-c0596d343117",
       "identifiers": [
         {
           "identifier": "gombojavyn_zandanshatar",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/0glnsdv",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q4142905",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/44/Zandanshatar.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Zandanshatar.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Gombojavyn_Zandanshatar"
+        },
+        {
+          "note": "Wikipedia (mn)",
+          "url": "https://mn.wikipedia.org/wiki/Гомбожавын_Занданшатар"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Гомбожавын_Занданшатар"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/贡布扎布·赞达沙塔尔"
         }
       ],
       "name": "Gombojavyn Zandanshatar",
       "other_names": [
         {
+          "name": "Гомбожавын Занданшатар",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Gombojavyn Zandanshatar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Gombojavyn Zandanshatar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Zandanshatar Gombojav",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Zandanshatar Gombojav",
+          "note": "multilingual"
+        },
+        {
           "lang": "mn",
           "name": "Гомбожавын Занданшатар",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Zandanshatar Gombojav",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Гомбожавын Занданшатар",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "贡布扎布·赞达沙塔尔",
           "note": "multilingual"
         }
       ],
@@ -1350,6 +1997,9 @@
       ]
     },
     {
+      "email": "enkhbayar_j@parliament.mn",
+      "family_name": "Jadamba",
+      "given_name": "ENKHBAYAR",
       "id": "11454c5e-ebf6-4a0d-826f-37e4a0f6e01e",
       "identifiers": [
         {
@@ -1357,14 +2007,31 @@
           "scheme": "everypolitician_legacy"
         }
       ],
+      "image": "http://www.parliament.mn/en/files/images/1078-7864481.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.mn/en/files/images/1078-7864481.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://enkhbayar.parliament.mn"
+        }
+      ],
       "name": "Jadambyn Enkhbayar",
       "other_names": [
+        {
+          "name": "ENKHBAYAR Jadamba",
+          "note": "alternate"
+        },
         {
           "lang": "mn",
           "name": "Жадамбын Энхбаяр",
           "note": "multilingual"
         }
       ],
+      "sort_name": "Jadamba ENKHBAYAR",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2012"
@@ -1372,6 +2039,9 @@
       ]
     },
     {
+      "email": "batzandan@parliament.mn",
+      "family_name": "Jalbasuren",
+      "given_name": "BATZANDAN",
       "id": "48e5bda2-c6ed-4376-a4da-0081a59e546a",
       "identifiers": [
         {
@@ -1379,14 +2049,31 @@
           "scheme": "everypolitician_legacy"
         }
       ],
+      "image": "http://www.parliament.mn/en/files/images/62181-7864481.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.mn/en/files/images/62181-7864481.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "batzandan.parliament.mn"
+        }
+      ],
       "name": "Jalbasürengiin Batzandan",
       "other_names": [
+        {
+          "name": "BATZANDAN Jalbasuren",
+          "note": "alternate"
+        },
         {
           "lang": "mn",
           "name": "Жалбасүрэнгийн Батзандан",
           "note": "multilingual"
         }
       ],
+      "sort_name": "Jalbasuren BATZANDAN",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2012"
@@ -1416,6 +2103,9 @@
       ]
     },
     {
+      "email": "batsuurij@parliament.mn",
+      "family_name": "Jamiyansuren",
+      "given_name": "BATSUURI",
       "id": "08f5f1a8-e3e7-4cd6-b437-f574d81fef03",
       "identifiers": [
         {
@@ -1423,14 +2113,31 @@
           "scheme": "everypolitician_legacy"
         }
       ],
+      "image": "http://www.parliament.mn/en/files/images/1113-7864481.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.mn/en/files/images/1113-7864481.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://batsuuri.parliament.mn"
+        }
+      ],
       "name": "Jamyansürengiin Batsuuri",
       "other_names": [
+        {
+          "name": "BATSUURI Jamiyansuren",
+          "note": "alternate"
+        },
         {
           "lang": "mn",
           "name": "Жамъянсүрэнгийн Батсуурь",
           "note": "multilingual"
         }
       ],
+      "sort_name": "Jamiyansuren BATSUURI",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2012"
@@ -1438,6 +2145,9 @@
       ]
     },
     {
+      "email": "erdenebat_ja@parliament.mn",
+      "family_name": "Jargaltulga",
+      "given_name": "ERDENEBAT",
       "id": "fc0dd3ab-b36f-4bb8-ada2-a390e7b037fd",
       "identifiers": [
         {
@@ -1445,14 +2155,31 @@
           "scheme": "everypolitician_legacy"
         }
       ],
+      "image": "http://www.parliament.mn/en/files/images/1086-7864481.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.mn/en/files/images/1086-7864481.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://erdenebatj.parliament.mn"
+        }
+      ],
       "name": "Jargaltulgyn Erdenebat",
       "other_names": [
+        {
+          "name": "ERDENEBAT Jargaltulga",
+          "note": "alternate"
+        },
         {
           "lang": "mn",
           "name": "Жаргалтулгын Эрдэнэбат",
           "note": "multilingual"
         }
       ],
+      "sort_name": "Jargaltulga ERDENEBAT",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2012"
@@ -1482,7 +2209,10 @@
       ]
     },
     {
+      "email": "battulga@parliament.mn",
+      "family_name": "Khaltmaa",
       "gender": "male",
+      "given_name": "BATTULGA",
       "id": "affa1ab2-d95a-4132-9204-2fddde0fae93",
       "identifiers": [
         {
@@ -1494,14 +2224,28 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "http://www.parliament.mn/en/files/images/1096-7864481.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.mn/en/files/images/1096-7864481.jpg"
+        }
+      ],
       "links": [
         {
           "note": "Wikipedia (mn)",
           "url": "https://mn.wikipedia.org/wiki/Халтмаагийн_Баттулга"
+        },
+        {
+          "note": "website",
+          "url": "http://battulga.parliament.mn"
         }
       ],
       "name": "Khaltmaagiin Battulga",
       "other_names": [
+        {
+          "name": "BATTULGA Khaltmaa",
+          "note": "alternate"
+        },
         {
           "name": "Халтмаагийн Баттулга",
           "note": "alternate"
@@ -1517,6 +2261,7 @@
           "note": "multilingual"
         }
       ],
+      "sort_name": "Khaltmaa BATTULGA",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2012"
@@ -1590,6 +2335,9 @@
       ]
     },
     {
+      "email": "temuujin@parliament.mn",
+      "family_name": "Khishigdemberel",
+      "given_name": "TEMUUJIN",
       "id": "4d7f7d25-3984-4977-ac99-bd5b3e8baa12",
       "identifiers": [
         {
@@ -1601,14 +2349,28 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "http://www.parliament.mn/en/files/images/1003-7864481.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.mn/en/files/images/1003-7864481.jpg"
+        }
+      ],
       "links": [
         {
           "note": "Wikipedia (mn)",
           "url": "https://mn.wikipedia.org/wiki/Хишигдэмбэрэлийн_Тэмүүжин"
+        },
+        {
+          "note": "website",
+          "url": "http://temuujin.parliament.mn"
         }
       ],
       "name": "Khishigdembereliin Temüüjin",
       "other_names": [
+        {
+          "name": "TEMUUJIN Khishigdemberel",
+          "note": "alternate"
+        },
         {
           "name": "Хишигдэмбэрэлийн Тэмүүжин",
           "note": "alternate"
@@ -1619,6 +2381,7 @@
           "note": "multilingual"
         }
       ],
+      "sort_name": "Khishigdemberel TEMUUJIN",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2012"
@@ -1648,18 +2411,87 @@
       ]
     },
     {
+      "birth_date": "1963",
+      "gender": "male",
       "id": "d4a68d04-24ff-4456-9824-28bdeb686ef0",
       "identifiers": [
         {
           "identifier": "lamjavyn_gundalai",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q2027898",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Lamjavyn_Gündalai"
+        },
+        {
+          "note": "Wikipedia (mn)",
+          "url": "https://mn.wikipedia.org/wiki/Ламжавын_Гүндалай"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/拉木扎布·贡达赖"
         }
       ],
       "name": "Lamjavyn Gundalai",
       "other_names": [
         {
+          "name": "Ламжавын Гүндалай",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Lamjavyn Gündalai",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Lamjavyn Gündalai",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Lamjavyn Gündalai",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Lamjavyn Gündalai",
+          "note": "multilingual"
+        },
+        {
           "lang": "mn",
           "name": "Ламжавын Гүндалай",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Lamjavyn Gündalai",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "拉木扎布·贡达赖",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hans",
+          "name": "拉木扎布·贡达赖",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "拉木扎布·貢達賴",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "拉木扎布·貢達賴",
           "note": "multilingual"
         }
       ],
@@ -1670,6 +2502,9 @@
       ]
     },
     {
+      "email": "tsog@parliament.mn",
+      "family_name": "Log",
+      "given_name": "TSOG",
       "id": "7063f26d-b1af-4049-a98b-582bbe340e05",
       "identifiers": [
         {
@@ -1677,14 +2512,31 @@
           "scheme": "everypolitician_legacy"
         }
       ],
+      "image": "http://www.parliament.mn/en/files/images/667-7864481.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.mn/en/files/images/667-7864481.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://tsog.parliament.mn"
+        }
+      ],
       "name": "Logiin Tsog",
       "other_names": [
+        {
+          "name": "TSOG Log",
+          "note": "alternate"
+        },
         {
           "lang": "mn",
           "name": "Логийн Цог",
           "note": "multilingual"
         }
       ],
+      "sort_name": "Log TSOG",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2012"
@@ -1692,6 +2544,9 @@
       ]
     },
     {
+      "email": "erdenechimeg@parliament.mn",
+      "family_name": "Luvsan",
+      "given_name": "ERDENECHIMEG",
       "id": "aa14c88c-838d-4c56-bf89-716b2c647b00",
       "identifiers": [
         {
@@ -1703,14 +2558,28 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "http://www.parliament.mn/en/files/images/1090-7864481.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.mn/en/files/images/1090-7864481.jpg"
+        }
+      ],
       "links": [
         {
           "note": "Wikipedia (mn)",
           "url": "https://mn.wikipedia.org/wiki/Лувсангийн_Эрдэнэчимэг"
+        },
+        {
+          "note": "website",
+          "url": "http://erdenechimeg.parliament.mn"
         }
       ],
       "name": "Luvsangiin Erdenechimeg",
       "other_names": [
+        {
+          "name": "ERDENECHIMEG Luvsan",
+          "note": "alternate"
+        },
         {
           "name": "Лувсангийн Эрдэнэчимэг",
           "note": "alternate"
@@ -1721,6 +2590,7 @@
           "note": "multilingual"
         }
       ],
+      "sort_name": "Luvsan ERDENECHIMEG",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2012"
@@ -1728,6 +2598,9 @@
       ]
     },
     {
+      "email": "gantumur@parliament.mn",
+      "family_name": "Luvsannyam",
+      "given_name": "GANTUMUR",
       "id": "34548447-e8d7-4808-8e24-1f0ef9bdb45e",
       "identifiers": [
         {
@@ -1739,14 +2612,28 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "http://www.parliament.mn/en/files/images/833-7864481.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.mn/en/files/images/833-7864481.jpg"
+        }
+      ],
       "links": [
         {
           "note": "Wikipedia (mn)",
           "url": "https://mn.wikipedia.org/wiki/Лувсаннямын_Гантөмөр"
+        },
+        {
+          "note": "website",
+          "url": "http://gantumur.parliament.mn"
         }
       ],
       "name": "Luvsannyamyn Gantömör",
       "other_names": [
+        {
+          "name": "GANTUMUR Luvsannyam",
+          "note": "alternate"
+        },
         {
           "name": "Лувсаннямын Гантөмөр",
           "note": "alternate"
@@ -1757,6 +2644,7 @@
           "note": "multilingual"
         }
       ],
+      "sort_name": "Luvsannyam GANTUMUR",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2012"
@@ -1764,6 +2652,9 @@
       ]
     },
     {
+      "email": "enkhamgalan@parliament.mn",
+      "family_name": "Luvsantseren",
+      "given_name": "ENKH-AMGALAN",
       "id": "b7b67e3b-ec80-4b2f-bfc5-cfe3492b1eae",
       "identifiers": [
         {
@@ -1771,14 +2662,31 @@
           "scheme": "everypolitician_legacy"
         }
       ],
+      "image": "http://www.parliament.mn/en/files/images/1076-7864481.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.mn/en/files/images/1076-7864481.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://enkhamgalan.parliament.mn"
+        }
+      ],
       "name": "Luvsantserengiin Enkh-Amgalan",
       "other_names": [
+        {
+          "name": "ENKH-AMGALAN Luvsantseren",
+          "note": "alternate"
+        },
         {
           "lang": "mn",
           "name": "Лувсанцэрэнгийн Энх-Амгалан",
           "note": "multilingual"
         }
       ],
+      "sort_name": "Luvsantseren ENKH-AMGALAN",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2012"
@@ -1786,6 +2694,9 @@
       ]
     },
     {
+      "email": "bold_lu@parliament.mn",
+      "family_name": "Luvsanvandan",
+      "given_name": "BOLD",
       "id": "45a20ead-0d7d-440f-8a0e-dc322844803f",
       "identifiers": [
         {
@@ -1797,14 +2708,28 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "http://www.parliament.mn/en/files/images/1007-7864481.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.mn/en/files/images/1007-7864481.jpg"
+        }
+      ],
       "links": [
         {
           "note": "Wikipedia (mn)",
           "url": "https://mn.wikipedia.org/wiki/Лувсанвандангийн_Болд"
+        },
+        {
+          "note": "website",
+          "url": "http://bold.parliament.mn"
         }
       ],
       "name": "Luvsanvandangiin Bold",
       "other_names": [
+        {
+          "name": "BOLD Luvsanvandan",
+          "note": "alternate"
+        },
         {
           "name": "Лувсанвандангийн Болд",
           "note": "alternate"
@@ -1815,6 +2740,7 @@
           "note": "multilingual"
         }
       ],
+      "sort_name": "Luvsanvandan BOLD",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2012"
@@ -1844,6 +2770,9 @@
       ]
     },
     {
+      "email": "batchimegm@parliament.mn",
+      "family_name": "Migeddorj",
+      "given_name": "BATCHIMEG",
       "id": "dcd67e5c-1d3f-43ec-81ac-4ac155dde61d",
       "identifiers": [
         {
@@ -1851,14 +2780,31 @@
           "scheme": "everypolitician_legacy"
         }
       ],
+      "image": "http://www.parliament.mn/en/files/images/1106-7864481.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.mn/en/files/images/1106-7864481.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://batchimeg.parliament.mn"
+        }
+      ],
       "name": "Migeddorjiin Batchimeg",
       "other_names": [
+        {
+          "name": "BATCHIMEG Migeddorj",
+          "note": "alternate"
+        },
         {
           "lang": "mn",
           "name": "Мигэддоржийн Батчимэг",
           "note": "multilingual"
         }
       ],
+      "sort_name": "Migeddorj BATCHIMEG",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2012"
@@ -1866,6 +2812,9 @@
       ]
     },
     {
+      "email": "sonompil@parliament.mn",
+      "family_name": "Mishig",
+      "given_name": "SONOMPIL",
       "id": "5fcb6a5f-3134-4be2-a8dd-4cbe95501e42",
       "identifiers": [
         {
@@ -1873,14 +2822,31 @@
           "scheme": "everypolitician_legacy"
         }
       ],
+      "image": "http://www.parliament.mn/en/files/images/999-7864481.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.mn/en/files/images/999-7864481.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://sonompil.parliament.mn"
+        }
+      ],
       "name": "Mishigiin Sonompil",
       "other_names": [
+        {
+          "name": "SONOMPIL Mishig",
+          "note": "alternate"
+        },
         {
           "lang": "mn",
           "name": "Мишигийн Сономпил",
           "note": "multilingual"
         }
       ],
+      "sort_name": "Mishig SONOMPIL",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2012"
@@ -1911,7 +2877,16 @@
     },
     {
       "birth_date": "1964-07-19",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "MEnkhbold"
+        }
+      ],
+      "email": "enkhboldm@parliament.mn",
+      "family_name": "Myegombo",
       "gender": "male",
+      "given_name": "ENKHBOLD",
       "id": "886e085f-af5d-4af6-9952-e57add0dab65",
       "identifiers": [
         {
@@ -1927,10 +2902,10 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/Miyeegombo_Enkhbold.jpg",
+      "image": "http://www.parliament.mn/en/files/images/1082-7864481.jpg",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Miyeegombo_Enkhbold.jpg"
+          "url": "http://www.parliament.mn/en/files/images/1082-7864481.jpg"
         }
       ],
       "links": [
@@ -1989,10 +2964,26 @@
         {
           "note": "Wikipedia (zh)",
           "url": "https://zh.wikipedia.org/wiki/米耶贡布·恩赫包勒德"
+        },
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/Enkhbold.Miyegombo/"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/MEnkhbold"
+        },
+        {
+          "note": "website",
+          "url": "http://enkhboldm.parliament.mn"
         }
       ],
       "name": "Miyegombyn Enkhbold",
       "other_names": [
+        {
+          "name": "ENKHBOLD Myegombo",
+          "note": "alternate"
+        },
         {
           "name": "Миеэгомбын Энхболд",
           "note": "alternate"
@@ -2088,6 +3079,7 @@
           "note": "multilingual"
         }
       ],
+      "sort_name": "Myegombo ENKHBOLD",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2008"
@@ -2096,7 +3088,10 @@
     },
     {
       "birth_date": "1964-09-15",
+      "email": "zorigtm@parliament.mn",
+      "family_name": "Munkhchuluun",
       "gender": "male",
+      "given_name": "ZORIGT",
       "id": "46bef770-e45f-47dc-9f37-bc23acb83b29",
       "identifiers": [
         {
@@ -2108,6 +3103,12 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "http://www.parliament.mn/en/files/images/939-7864481.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.mn/en/files/images/939-7864481.jpg"
+        }
+      ],
       "links": [
         {
           "note": "Wikipedia (en)",
@@ -2116,10 +3117,18 @@
         {
           "note": "Wikipedia (mn)",
           "url": "https://mn.wikipedia.org/wiki/Мөнхчулууны_Зоригт"
+        },
+        {
+          "note": "website",
+          "url": "http://zorigt.parliament.mn"
         }
       ],
       "name": "Mönkhchuluuny Zorigt",
       "other_names": [
+        {
+          "name": "ZORIGT Munkhchuluun",
+          "note": "alternate"
+        },
         {
           "name": "Мөнхчулууны Зоригт",
           "note": "alternate"
@@ -2135,6 +3144,7 @@
           "note": "multilingual"
         }
       ],
+      "sort_name": "Munkhchuluun ZORIGT",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2012"
@@ -2142,6 +3152,9 @@
       ]
     },
     {
+      "email": "battsereg@parliament.mn",
+      "family_name": "Namdag",
+      "given_name": "BATTSEREG",
       "id": "af638d58-f0bb-42be-a7a9-00a8356ca4d3",
       "identifiers": [
         {
@@ -2149,14 +3162,31 @@
           "scheme": "everypolitician_legacy"
         }
       ],
+      "image": "http://www.parliament.mn/en/files/images/1103-7864481.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.mn/en/files/images/1103-7864481.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://battsereg.parliament.mn"
+        }
+      ],
       "name": "Namdagiin Battsereg",
       "other_names": [
+        {
+          "name": "BATTSEREG Namdag",
+          "note": "alternate"
+        },
         {
           "lang": "mn",
           "name": "Намдагийн Батцэрэг",
           "note": "multilingual"
         }
       ],
+      "sort_name": "Namdag BATTSEREG",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2012"
@@ -2187,7 +3217,16 @@
     },
     {
       "birth_date": "1958-01-20",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "altankhuyag_mn"
+        }
+      ],
+      "email": "altankhuyag@parliament.mn",
+      "family_name": "Norov",
       "gender": "male",
+      "given_name": "ALTANKHUYAG",
       "id": "de3fb53d-dc5d-438d-9335-32612345cbc4",
       "identifiers": [
         {
@@ -2205,6 +3244,12 @@
         {
           "identifier": "Q57888",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www.parliament.mn/en/files/images/672-7864481.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.mn/en/files/images/672-7864481.jpg"
         }
       ],
       "links": [
@@ -2277,12 +3322,24 @@
           "url": "https://zh.wikipedia.org/wiki/诺罗布·阿勒坦呼亚格"
         },
         {
+          "note": "facebook",
+          "url": "https://www.facebook.com/altankhuyag.norov"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/altankhuyag_mn"
+        },
+        {
           "note": "website",
-          "url": "http://www.altankhuyag.mn"
+          "url": "http://altankhuyag.parliament.mn"
         }
       ],
       "name": "Norovyn Altankhuyag",
       "other_names": [
+        {
+          "name": "ALTANKHUYAG Norov",
+          "note": "alternate"
+        },
         {
           "name": "Норовын Алтанхуяг",
           "note": "alternate"
@@ -2393,6 +3450,7 @@
           "note": "multilingual"
         }
       ],
+      "sort_name": "Norov ALTANKHUYAG",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2012"
@@ -2400,6 +3458,9 @@
       ]
     },
     {
+      "email": "enkhbold@parliament.mn",
+      "family_name": "Nyamaa",
+      "given_name": "ENKHBOLD",
       "id": "d86ac537-e736-468c-8209-e04947449aaf",
       "identifiers": [
         {
@@ -2407,14 +3468,31 @@
           "scheme": "everypolitician_legacy"
         }
       ],
+      "image": "http://www.parliament.mn/en/files/images/1080-7864481.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.mn/en/files/images/1080-7864481.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://enkhboldn.parliament.mn"
+        }
+      ],
       "name": "Nyamaagiin Enkhbold",
       "other_names": [
+        {
+          "name": "ENKHBOLD Nyamaa",
+          "note": "alternate"
+        },
         {
           "lang": "mn",
           "name": "Нямаагийн Энхболд",
           "note": "multilingual"
         }
       ],
+      "sort_name": "Nyamaa ENKHBOLD",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2012"
@@ -2422,6 +3500,9 @@
       ]
     },
     {
+      "email": "batbayar_n@parliament.mn",
+      "family_name": "Nyamjav",
+      "given_name": "BATBAYAR",
       "id": "10d213c2-f622-42a5-bb57-6ecd60649e4c",
       "identifiers": [
         {
@@ -2433,14 +3514,28 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "http://www.parliament.mn/en/files/images/719-7864481.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.mn/en/files/images/719-7864481.jpg"
+        }
+      ],
       "links": [
         {
           "note": "Wikipedia (mn)",
           "url": "https://mn.wikipedia.org/wiki/Нямжавын_Батбаяр"
+        },
+        {
+          "note": "website",
+          "url": "http://batbayar.parliament.mn"
         }
       ],
       "name": "Nyamjavyn Batbayar",
       "other_names": [
+        {
+          "name": "BATBAYAR Nyamjav",
+          "note": "alternate"
+        },
         {
           "name": "Нямжавын Батбаяр",
           "note": "alternate"
@@ -2451,6 +3546,7 @@
           "note": "multilingual"
         }
       ],
+      "sort_name": "Nyamjav BATBAYAR",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2012"
@@ -2458,6 +3554,9 @@
       ]
     },
     {
+      "email": "nomtoibayar@parliament.mn",
+      "family_name": "Nyamtaishir",
+      "given_name": "NOMTOIBAYAR",
       "id": "fca41e77-1bd5-4ce5-b337-dfb88d5b031f",
       "identifiers": [
         {
@@ -2469,14 +3568,28 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "http://www.parliament.mn/en/files/images/945-7864481.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.mn/en/files/images/945-7864481.jpg"
+        }
+      ],
       "links": [
         {
           "note": "Wikipedia (mn)",
           "url": "https://mn.wikipedia.org/wiki/Нямтайширийн_Номтойбаяр"
+        },
+        {
+          "note": "website",
+          "url": "http://nomtoibayar.parliament.mn"
         }
       ],
       "name": "Nyamtaishirgiin Nomtoibayar",
       "other_names": [
+        {
+          "name": "NOMTOIBAYAR Nyamtaishir",
+          "note": "alternate"
+        },
         {
           "name": "Нямтайширийн Номтойбаяр",
           "note": "alternate"
@@ -2487,6 +3600,7 @@
           "note": "multilingual"
         }
       ],
+      "sort_name": "Nyamtaishir NOMTOIBAYAR",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2012"
@@ -2516,6 +3630,15 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "baasankhuu_o"
+        }
+      ],
+      "email": "baasankhuu@parliament.mn",
+      "family_name": "Octyaber",
+      "given_name": "BAASANKHUU",
       "id": "8b975c75-0c33-4f69-bde4-90becca61dcf",
       "identifiers": [
         {
@@ -2523,14 +3646,39 @@
           "scheme": "everypolitician_legacy"
         }
       ],
+      "image": "http://www.parliament.mn/en/files/images/705-7864481.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.mn/en/files/images/705-7864481.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/О.Баасанхүү /УИХ-ын гишүүн/"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/baasankhuu_o"
+        },
+        {
+          "note": "website",
+          "url": "http://baasankhuu.parliament.mn"
+        }
+      ],
       "name": "Oktyabriin Baasankhüü",
       "other_names": [
+        {
+          "name": "BAASANKHUU Octyaber",
+          "note": "alternate"
+        },
         {
           "lang": "mn",
           "name": "Октябрийн Баасанхүү",
           "note": "multilingual"
         }
       ],
+      "sort_name": "Octyaber BAASANKHUU",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2012"
@@ -2538,6 +3686,9 @@
       ]
     },
     {
+      "email": "sodbileg@parliament.mn",
+      "family_name": "Otgonbileg",
+      "given_name": "SODBILEG",
       "id": "6099d378-bcdb-4caf-8be9-100f469c946e",
       "identifiers": [
         {
@@ -2545,14 +3696,31 @@
           "scheme": "everypolitician_legacy"
         }
       ],
+      "image": "http://www.parliament.mn/en/files/images/997-7864481.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.mn/en/files/images/997-7864481.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://sodbileg.parliament.mn"
+        }
+      ],
       "name": "Otgonbilegiin Sodbileg",
       "other_names": [
+        {
+          "name": "SODBILEG Otgonbileg",
+          "note": "alternate"
+        },
         {
           "lang": "mn",
           "name": "Отгонбилэгийн Содбилэг",
           "note": "multilingual"
         }
       ],
+      "sort_name": "Otgonbileg SODBILEG",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2012"
@@ -2604,6 +3772,9 @@
       ]
     },
     {
+      "email": "burmaa@parliament.mn",
+      "family_name": "Radnaa",
+      "given_name": "BURMAA",
       "id": "d2c9fdee-6212-42fa-a9c7-304602400562",
       "identifiers": [
         {
@@ -2611,14 +3782,31 @@
           "scheme": "everypolitician_legacy"
         }
       ],
+      "image": "http://www.parliament.mn/en/files/images/1017-7864481.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.mn/en/files/images/1017-7864481.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://burmaa.parliament.mn"
+        }
+      ],
       "name": "Radnaagiin Burmaa",
       "other_names": [
+        {
+          "name": "BURMAA Radnaa",
+          "note": "alternate"
+        },
         {
           "lang": "mn",
           "name": "Раднаагийн Бурмаа",
           "note": "multilingual"
         }
       ],
+      "sort_name": "Radnaa BURMAA",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2012"
@@ -2626,6 +3814,9 @@
       ]
     },
     {
+      "email": "gonchigdorj@parliament.mn",
+      "family_name": "Radnasumberel",
+      "given_name": "GONCHIGDORJ",
       "id": "393615b1-c5d9-46bb-90bb-ad9b1547cf54",
       "identifiers": [
         {
@@ -2633,14 +3824,31 @@
           "scheme": "everypolitician_legacy"
         }
       ],
+      "image": "http://www.parliament.mn/en/files/images/839-7864481.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.mn/en/files/images/839-7864481.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://gonchigdorj.parliament.mn"
+        }
+      ],
       "name": "Radnaasümbereliin Gonchigdorj",
       "other_names": [
+        {
+          "name": "GONCHIGDORJ Radnasumberel",
+          "note": "alternate"
+        },
         {
           "lang": "mn",
           "name": "Раднаасүмбэрэлийн Гончигдорж",
           "note": "multilingual"
         }
       ],
+      "sort_name": "Radnasumberel GONCHIGDORJ",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2012"
@@ -2671,7 +3879,16 @@
     },
     {
       "birth_date": "1961-02-02",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "AmarjargalR"
+        }
+      ],
+      "email": "arinchin@parliament.mn",
+      "family_name": "Rinchinnyam",
       "gender": "male",
+      "given_name": "AMARJARGAL",
       "id": "321601d6-b2aa-45fc-8909-51a915b9ae0c",
       "identifiers": [
         {
@@ -2685,6 +3902,12 @@
         {
           "identifier": "Q1393569",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www.parliament.mn/en/files/images/703-7864481.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.mn/en/files/images/703-7864481.jpg"
         }
       ],
       "links": [
@@ -2715,10 +3938,22 @@
         {
           "note": "Wikipedia (zh)",
           "url": "https://zh.wikipedia.org/wiki/林钦尼亚木·阿玛尔扎尔嘎勒"
+        },
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/amarjargalorg"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/AmarjargalR"
         }
       ],
       "name": "Rinchinnyamyn Amarjargal",
       "other_names": [
+        {
+          "name": "AMARJARGAL Rinchinnyam",
+          "note": "alternate"
+        },
         {
           "name": "Ринчиннямын Амаржаргал",
           "note": "alternate"
@@ -2779,6 +4014,7 @@
           "note": "multilingual"
         }
       ],
+      "sort_name": "Rinchinnyam AMARJARGAL",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2012"
@@ -2786,6 +4022,9 @@
       ]
     },
     {
+      "email": "ganbaatar@parliament.mn",
+      "family_name": "Sainkhuu",
+      "given_name": "GANBAATAR",
       "id": "51470d6a-556e-4af8-b79d-5c8d4f62c013",
       "identifiers": [
         {
@@ -2797,14 +4036,28 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "http://www.parliament.mn/en/files/images/824-7864481.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.mn/en/files/images/824-7864481.jpg"
+        }
+      ],
       "links": [
         {
           "note": "Wikipedia (mn)",
           "url": "https://mn.wikipedia.org/wiki/Сайнхүүгийн_Ганбаатар"
+        },
+        {
+          "note": "website",
+          "url": "http://ganbaatar.parliament.mn"
         }
       ],
       "name": "Sainkhüügiin Ganbaatar",
       "other_names": [
+        {
+          "name": "GANBAATAR Sainkhuu",
+          "note": "alternate"
+        },
         {
           "name": "Сайнхүүгийн Ганбаатар",
           "note": "alternate"
@@ -2815,6 +4068,7 @@
           "note": "multilingual"
         }
       ],
+      "sort_name": "Sainkhuu GANBAATAR",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2012"
@@ -2822,6 +4076,9 @@
       ]
     },
     {
+      "email": "odontuya@parliament.mn",
+      "family_name": "Saldan",
+      "given_name": "ODONTUYA",
       "id": "52f7528b-97cf-446a-a656-0db19916d06c",
       "identifiers": [
         {
@@ -2829,14 +4086,31 @@
           "scheme": "everypolitician_legacy"
         }
       ],
+      "image": "http://www.parliament.mn/en/files/images/949-7864481.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.mn/en/files/images/949-7864481.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://odontuya.parliament.mn"
+        }
+      ],
       "name": "Saldangiin Odontuyaa",
       "other_names": [
+        {
+          "name": "ODONTUYA Saldan",
+          "note": "alternate"
+        },
         {
           "lang": "mn",
           "name": "Салдангийн Одонтуяа",
           "note": "multilingual"
         }
       ],
+      "sort_name": "Saldan ODONTUYA",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2012"
@@ -2844,6 +4118,9 @@
       ]
     },
     {
+      "email": "demberels@parliament.mn",
+      "family_name": "Sambuu",
+      "given_name": "DEMBEREL",
       "id": "465b4294-7e6c-42f0-bfec-949cb25c1414",
       "identifiers": [
         {
@@ -2851,14 +4128,31 @@
           "scheme": "everypolitician_legacy"
         }
       ],
+      "image": "http://www.parliament.mn/en/files/images/886-7864481.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.mn/en/files/images/886-7864481.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://demberels.parliament.mn"
+        }
+      ],
       "name": "Sambuugiin Demberel",
       "other_names": [
+        {
+          "name": "DEMBEREL Sambuu",
+          "note": "alternate"
+        },
         {
           "lang": "mn",
           "name": "Самбуугийн Дэмбэрэл",
           "note": "multilingual"
         }
       ],
+      "sort_name": "Sambuu DEMBEREL",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2012"
@@ -2888,6 +4182,9 @@
       ]
     },
     {
+      "email": "byambatsogt@parliament.mn",
+      "family_name": "Sandag",
+      "given_name": "BYAMBATSOGT",
       "id": "a439cef5-2afe-47cb-ae83-34048790aa51",
       "identifiers": [
         {
@@ -2895,14 +4192,31 @@
           "scheme": "everypolitician_legacy"
         }
       ],
+      "image": "http://www.parliament.mn/en/files/images/1019-7864481.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.mn/en/files/images/1019-7864481.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://byambatsogt.parliament.mn"
+        }
+      ],
       "name": "Sandagiin Byambatsogt",
       "other_names": [
+        {
+          "name": "BYAMBATSOGT Sandag",
+          "note": "alternate"
+        },
         {
           "lang": "mn",
           "name": "Сандагийн Бямбацогт",
           "note": "multilingual"
         }
       ],
+      "sort_name": "Sandag BYAMBATSOGT",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2012"
@@ -2910,27 +4224,32 @@
       ]
     },
     {
+      "email": "bayartsogt@parliament.mn",
+      "family_name": "Sangajav",
+      "given_name": "BAYARTSOGT",
       "id": "33bb2298-1eb6-47dd-ba9d-825065800029",
       "identifiers": [
         {
           "identifier": "sangajavyn_bayartsogt",
           "scheme": "everypolitician_legacy"
-        },
+        }
+      ],
+      "image": "http://www.parliament.mn/en/files/images/663-7864481.jpg",
+      "images": [
         {
-          "identifier": "Q20608624",
-          "scheme": "wikidata"
+          "url": "http://www.parliament.mn/en/files/images/663-7864481.jpg"
         }
       ],
       "links": [
         {
-          "note": "Wikipedia (mn)",
-          "url": "https://mn.wikipedia.org/wiki/Сангажавын_Баярцогт"
+          "note": "website",
+          "url": "http://bayartsogt.parliament.mn"
         }
       ],
       "name": "Sangajavyn Bayartsogt",
       "other_names": [
         {
-          "name": "Сангажавын Баярцогт",
+          "name": "BAYARTSOGT Sangajav",
           "note": "alternate"
         },
         {
@@ -2939,6 +4258,7 @@
           "note": "multilingual"
         }
       ],
+      "sort_name": "Sangajav BAYARTSOGT",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2008"
@@ -2951,24 +4271,10 @@
         {
           "identifier": "sangajavyn_bayarzsogt",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q20608624",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (mn)",
-          "url": "https://mn.wikipedia.org/wiki/Сангажавын_Баярцогт"
         }
       ],
       "name": "Sangajavyn Bayarzsogt",
       "other_names": [
-        {
-          "name": "Сангажавын Баярцогт",
-          "note": "alternate"
-        },
         {
           "lang": "mn",
           "name": "Сангажавын Баярцогт",
@@ -2982,18 +4288,222 @@
       ]
     },
     {
+      "birth_date": "1956-12-24",
+      "gender": "male",
       "id": "e2ed0caf-877d-4ed1-ae89-0fbf4cea4421",
       "identifiers": [
         {
           "identifier": "sanjaagiin_bayar",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/03cq592",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "305958841",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q372131",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/72/Sangiyin_Bayar.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Sangiyin_Bayar.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Sanjaagiin_Bayar"
+        },
+        {
+          "note": "Wikipedia (cs)",
+          "url": "https://cs.wikipedia.org/wiki/Sandžágín_Bajar"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Sandschaagiin_Bajar"
+        },
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Σαντζίν_Μπαγιάρ"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Sanjaagiin_Bayar"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Sanjaagiin_Bayar"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Sanjaagiin_Bayar"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Sanjaagiin_Bayar"
+        },
+        {
+          "note": "Wikipedia (id)",
+          "url": "https://id.wikipedia.org/wiki/Sanjaagiin_Bayar"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Sanžaagijn_Bajar"
+        },
+        {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/サンジャーギーン・バヤル"
+        },
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/산자긴_바야르"
+        },
+        {
+          "note": "Wikipedia (mk)",
+          "url": "https://mk.wikipedia.org/wiki/Санџагин_Бајар"
+        },
+        {
+          "note": "Wikipedia (mn)",
+          "url": "https://mn.wikipedia.org/wiki/Санжаагийн_Баяр"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Sandżaagijn_Bajar"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Санжийн_Баяр"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/桑吉·巴亚尔"
         }
       ],
       "name": "Sanjaagiin Bayar",
       "other_names": [
         {
+          "name": "Санжаагийн Баяр",
+          "note": "alternate"
+        },
+        {
+          "lang": "cs",
+          "name": "Sandžágín Bajar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Sandschaagiin Bajar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Σαντζίν Μπαγιάρ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Sanjaagiin Bayar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Sanjaagiin Bayar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Sanjaagiin Bayar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Sanjaagiin Bayar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Sanjaagiin Bayar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Sanžaagijn Bajar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "サンジャーギーン・バヤル",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "산자긴 바야르",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "Санџагин Бајар",
+          "note": "multilingual"
+        },
+        {
           "lang": "mn",
           "name": "Санжаагийн Баяр",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Sanjaagiin Bayar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Sandżaagijn Bajar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Санжийн Баяр",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "桑吉·巴亚尔",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "桑吉·巴亚尔",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hans",
+          "name": "桑吉·巴亚尔",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "桑吉·巴亞爾",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "桑吉·巴亞爾",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-sg",
+          "name": "桑吉·巴亚尔",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-tw",
+          "name": "桑吉·巴亞爾",
           "note": "multilingual"
         }
       ],
@@ -3004,6 +4514,9 @@
       ]
     },
     {
+      "email": "oyuna@parliament.mn",
+      "family_name": "Sanjaasuren",
+      "given_name": "OYUN",
       "id": "9be31e26-dc52-465f-9d00-2aa4fd3b187e",
       "identifiers": [
         {
@@ -3011,14 +4524,31 @@
           "scheme": "everypolitician_legacy"
         }
       ],
+      "image": "http://www.parliament.mn/en/files/images/983-7864481.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.mn/en/files/images/983-7864481.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://oyun.parliament.mn"
+        }
+      ],
       "name": "Sanjaasürengiin Oyuun",
       "other_names": [
+        {
+          "name": "OYUN Sanjaasuren",
+          "note": "alternate"
+        },
         {
           "lang": "mn",
           "name": "Санжаасүрэнгийн Оюун",
           "note": "multilingual"
         }
       ],
+      "sort_name": "Sanjaasuren OYUN",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2012"
@@ -3026,6 +4556,9 @@
       ]
     },
     {
+      "email": "tuvdendorj@parliament.mn",
+      "family_name": "Sharavdorj",
+      "given_name": "TUVDENDORJ",
       "id": "e891f20f-c3b0-4813-bbd3-98dca0e603e5",
       "identifiers": [
         {
@@ -3033,14 +4566,31 @@
           "scheme": "everypolitician_legacy"
         }
       ],
+      "image": "http://www.parliament.mn/en/files/images/1029-7864481.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.mn/en/files/images/1029-7864481.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://tuvdendorj.parliament.mn"
+        }
+      ],
       "name": "Sharavdorjiin Tüvdendorj",
       "other_names": [
+        {
+          "name": "TUVDENDORJ Sharavdorj",
+          "note": "alternate"
+        },
         {
           "lang": "mn",
           "name": "Шаравдоржийн Түвдэндорж",
           "note": "multilingual"
         }
       ],
+      "sort_name": "Sharavdorj TUVDENDORJ",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2012"
@@ -3070,6 +4620,9 @@
       ]
     },
     {
+      "email": "erdene@parliament.mn",
+      "family_name": "Sodnomzundui",
+      "given_name": "ERDENE",
       "id": "3329774a-83b0-4d41-89eb-c285a069201e",
       "identifiers": [
         {
@@ -3081,14 +4634,28 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "http://www.parliament.mn/en/files/images/1084-7864481.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.mn/en/files/images/1084-7864481.jpg"
+        }
+      ],
       "links": [
         {
           "note": "Wikipedia (mn)",
           "url": "https://mn.wikipedia.org/wiki/Содномзундуйн_Эрдэнэ"
+        },
+        {
+          "note": "website",
+          "url": "http://erdene.parliament.mn"
         }
       ],
       "name": "Sodnomzunduin Erdene",
       "other_names": [
+        {
+          "name": "ERDENE Sodnomzundui",
+          "note": "alternate"
+        },
         {
           "name": "Содномзундуйн Эрдэнэ",
           "note": "alternate"
@@ -3099,6 +4666,7 @@
           "note": "multilingual"
         }
       ],
+      "sort_name": "Sodnomzundui ERDENE",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2012"
@@ -3106,6 +4674,9 @@
       ]
     },
     {
+      "email": "batbold@parliament.mn",
+      "family_name": "Sundui",
+      "given_name": "BATBOLD",
       "id": "8567ab98-c0e6-4fd2-adfa-753d2e78c7f7",
       "identifiers": [
         {
@@ -3113,14 +4684,31 @@
           "scheme": "everypolitician_legacy"
         }
       ],
+      "image": "http://www.parliament.mn/en/files/images/721-7864481.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.mn/en/files/images/721-7864481.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://batbolds.parliament.mn"
+        }
+      ],
       "name": "Sunduin Batbold",
       "other_names": [
+        {
+          "name": "BATBOLD Sundui",
+          "note": "alternate"
+        },
         {
           "lang": "mn",
           "name": "Сундуйн Батболд",
           "note": "multilingual"
         }
       ],
+      "sort_name": "Sundui BATBOLD",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2012"
@@ -3128,21 +4716,255 @@
       ]
     },
     {
+      "birth_date": "1963-06-24",
+      "email": "batbold_s@parliament.mn",
+      "family_name": "Sukhbaatar",
+      "gender": "male",
+      "given_name": "BATBOLD",
       "id": "e9db8a15-a158-458d-a772-e954888e6eb4",
       "identifiers": [
         {
           "identifier": "sükhbaataryn_batbold",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/09gfdts",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "no2009108622",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "91155786",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q372202",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www.parliament.mn/en/files/images/723-7864481.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.mn/en/files/images/723-7864481.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Süchbaataryn_Batbold"
+        },
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Σουχμπααταρίν_Μπάτμπολντ"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Sükhbaataryn_Batbold"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Süjbaataryn_Batbold"
+        },
+        {
+          "note": "Wikipedia (et)",
+          "url": "https://et.wikipedia.org/wiki/Sühbaatarõn_Batbold"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Suhbaataryn_Batbold"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Sükhbaataryn_Batbold"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Sùhbaataryn_Batbold"
+        },
+        {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/スフバータル・バトボルド"
+        },
+        {
+          "note": "Wikipedia (mn)",
+          "url": "https://mn.wikipedia.org/wiki/Сүхбаатарын_Батболд"
+        },
+        {
+          "note": "Wikipedia (ms)",
+          "url": "https://ms.wikipedia.org/wiki/Sükhbaataryn_Batbold"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Süchbaataryn_Batbold"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Сухбаатарын_Батболд"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Süchbaataryn_Batbold"
+        },
+        {
+          "note": "Wikipedia (tr)",
+          "url": "https://tr.wikipedia.org/wiki/Sükhbaataryn_Batbold"
+        },
+        {
+          "note": "Wikipedia (vi)",
+          "url": "https://vi.wikipedia.org/wiki/Sükhbaataryn_Batbold"
+        },
+        {
+          "note": "Wikipedia (yo)",
+          "url": "https://yo.wikipedia.org/wiki/Sükhbaataryn_Batbold"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/苏赫巴托尔·巴特包勒德"
+        },
+        {
+          "note": "website",
+          "url": "http://batbold.parliament.mn"
         }
       ],
       "name": "Sükhbaataryn Batbold",
       "other_names": [
         {
+          "name": "BATBOLD Sukhbaatar",
+          "note": "alternate"
+        },
+        {
+          "name": "Сүхбаатарын Батболд",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Süchbaataryn Batbold",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Σουχμπααταρίν Μπάτμπολντ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Sükhbaataryn Batbold",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Süjbaataryn Batbold",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Sühbaatarõn Batbold",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Sukhbaataryn Batbold",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Sükhbaataryn Batbold",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Sùhbaataryn Batbold",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "スフバータル・バトボルド",
+          "note": "multilingual"
+        },
+        {
           "lang": "mn",
           "name": "Сүхбаатарын Батболд",
           "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "Sükhbaataryn Batbold",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Sükhbaataryn Batbold",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Süchbaataryn Batbold",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Сухбаатарын Батболд",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Süchbaataryn Batbold",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Sükhbaataryn Batbold",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Sükhbaataryn Batbold",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yo",
+          "name": "Sükhbaataryn Batbold",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "苏赫巴托尔·巴特包勒德",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "苏赫巴托尔·巴特包勒德",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hans",
+          "name": "苏赫巴托尔·巴特包勒德",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "蘇赫巴托爾·巴特包勒德",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "蘇赫巴托爾·巴特包勒德",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-sg",
+          "name": "苏赫巴托尔·巴特包勒德",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-tw",
+          "name": "蘇赫巴托爾·巴特包勒德",
+          "note": "multilingual"
         }
       ],
+      "sort_name": "Sukhbaatar BATBOLD",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2012"
@@ -3150,18 +4972,470 @@
       ]
     },
     {
+      "birth_date": "1963-03-30",
+      "gender": "male",
       "id": "002e9611-c423-4964-b780-aaa5c1377392",
       "identifiers": [
         {
           "identifier": "tsakhiagiin_elbegdorj",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/03qf0h",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "71031336",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q57421",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Tsakhiagiin_Elbegdor.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Tsakhiagiin_Elbegdor.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/تشياغين_البجدورج"
+        },
+        {
+          "note": "Wikipedia (az)",
+          "url": "https://az.wikipedia.org/wiki/Tsaxia_Elbeqdorj"
+        },
+        {
+          "note": "Wikipedia (be)",
+          "url": "https://be.wikipedia.org/wiki/Цахіягійн_Элбэгдорж"
+        },
+        {
+          "note": "Wikipedia (bn)",
+          "url": "https://bn.wikipedia.org/wiki/সাখিয়াজিন_এলবেগদর্জ"
+        },
+        {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Tsakhiagiin_Elbegdorj"
+        },
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Tsakhiagiin_Elbegdorj"
+        },
+        {
+          "note": "Wikipedia (cs)",
+          "url": "https://cs.wikipedia.org/wiki/Cachjagín_Elbegdordž"
+        },
+        {
+          "note": "Wikipedia (da)",
+          "url": "https://da.wikipedia.org/wiki/Tsakhiagijn_Elbegdorzj"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Tsachiagiin_Elbegdordsch"
+        },
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Τσαχιάγκιϊν_Ελμπεγκντόρζ"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Tsakhiagiin_Elbegdorj"
+        },
+        {
+          "note": "Wikipedia (eo)",
+          "url": "https://eo.wikipedia.org/wiki/Tsakhia_Elbegdorj"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Tsajiagiin_Elbegdorzh"
+        },
+        {
+          "note": "Wikipedia (et)",
+          "url": "https://et.wikipedia.org/wiki/Tsahhiagijn_Elbegdordž"
+        },
+        {
+          "note": "Wikipedia (fa)",
+          "url": "https://fa.wikipedia.org/wiki/تساخیاگین_البگدورج"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Tsahiagiin_Elbegdorj"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Tsakhiagiyn_Elbegdorj"
+        },
+        {
+          "note": "Wikipedia (gl)",
+          "url": "https://gl.wikipedia.org/wiki/Tsakhiagiin_Elbegdorj"
+        },
+        {
+          "note": "Wikipedia (he)",
+          "url": "https://he.wikipedia.org/wiki/צחיאגיין_אלבגדורג'"
+        },
+        {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/Cahiagín_Elbegdordzs"
+        },
+        {
+          "note": "Wikipedia (id)",
+          "url": "https://id.wikipedia.org/wiki/Tsakhiagiin_Elbegdorj"
+        },
+        {
+          "note": "Wikipedia (io)",
+          "url": "https://io.wikipedia.org/wiki/Tsakhiagiin_Elbegdorj"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Cahiagijn_Ėlbėgdorž"
+        },
+        {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/ツァヒアギーン・エルベグドルジ"
+        },
+        {
+          "note": "Wikipedia (ka)",
+          "url": "https://ka.wikipedia.org/wiki/ცაჰიაგინ_ელბეგდორჟი"
+        },
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/차히아긴_엘베그도르지"
+        },
+        {
+          "note": "Wikipedia (ky)",
+          "url": "https://ky.wikipedia.org/wiki/Элбэгдорж,_Цахиагийн"
+        },
+        {
+          "note": "Wikipedia (la)",
+          "url": "https://la.wikipedia.org/wiki/Tsakhiagiin_Elbegdorj"
+        },
+        {
+          "note": "Wikipedia (lb)",
+          "url": "https://lb.wikipedia.org/wiki/Tsachiagiin_Elbegdordj"
+        },
+        {
+          "note": "Wikipedia (lt)",
+          "url": "https://lt.wikipedia.org/wiki/Cachiagijinas_Elbegdoržas"
+        },
+        {
+          "note": "Wikipedia (lv)",
+          "url": "https://lv.wikipedia.org/wiki/Elbegdordžs_Cahjagīns"
+        },
+        {
+          "note": "Wikipedia (mn)",
+          "url": "https://mn.wikipedia.org/wiki/Цахиагийн_Элбэгдорж"
+        },
+        {
+          "note": "Wikipedia (ms)",
+          "url": "https://ms.wikipedia.org/wiki/Tsakhiagiin_Elbegdorj"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Tsahiagiin_Elbegdorzj"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Tsakhiagijn_Elbegdorzj"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Cachiagijn_Elbegdordż"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Tsakhiagiin_Elbegdorj"
+        },
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Țahiaghiin_Elbegdorj"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Цахиагийн_Элбэгдорж"
+        },
+        {
+          "note": "Wikipedia (ruwikinews)",
+          "url": "https://ruwikinews.wikipedia.org/wiki/Категория:Цахиагийн_Элбэгдорж"
+        },
+        {
+          "note": "Wikipedia (sco)",
+          "url": "https://sco.wikipedia.org/wiki/Tsakhiagiin_Elbegdorj"
+        },
+        {
+          "note": "Wikipedia (sq)",
+          "url": "https://sq.wikipedia.org/wiki/Cahiagijn_Elbegdorxh"
+        },
+        {
+          "note": "Wikipedia (sr)",
+          "url": "https://sr.wikipedia.org/wiki/Цахијагин_Елбегдорџ"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Tsachiagijn_Elbegdordzj"
+        },
+        {
+          "note": "Wikipedia (tr)",
+          "url": "https://tr.wikipedia.org/wiki/Tsakhiagiin_Elbegdorj"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Цахіагійн_Елбегдорж"
+        },
+        {
+          "note": "Wikipedia (vi)",
+          "url": "https://vi.wikipedia.org/wiki/Tsakhiagiin_Elbegdorj"
+        },
+        {
+          "note": "Wikipedia (yo)",
+          "url": "https://yo.wikipedia.org/wiki/Tsakhiagiin_Elbegdorj"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/查希亚·额勒贝格道尔吉"
         }
       ],
       "name": "Tsakhiagiin Elbegdorj",
       "other_names": [
         {
+          "name": "Цахиагийн Элбэгдорж",
+          "note": "alternate"
+        },
+        {
+          "lang": "ar",
+          "name": "تشياغين البجدورج",
+          "note": "multilingual"
+        },
+        {
+          "lang": "az",
+          "name": "Tsaxia Elbeqdorj",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be",
+          "name": "Цахіагійн Элбэгдорж",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bn",
+          "name": "সাখিয়াজিন এলবেগদর্জ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Tsakhiagiin Elbegdorj",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Cachjagín Elbegdordž",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Tsakhiagijn Elbegdorzj",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Tsachiagiin Elbegdordsch",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Τσαχιάγκιϊν Ελμπεγκντόρζ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Tsakhiagiin Elbegdorj",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Tsakhia Elbegdorj",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Tsakhiagiin Elbegdorj",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Tsahhiagijn Elbegdordž",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "تساخیاگین البگدورج",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Tsahiagiin Elbegdorj",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Tsakhiagiyn Elbegdorj",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Tsakhiagiyn Elbegdorj",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "צחיאגיין אלבגדורג'",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Cahiagín Elbegdordzs",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Tsakhiagiin Elbegdorj",
+          "note": "multilingual"
+        },
+        {
+          "lang": "io",
+          "name": "Tsakhiagiin Elbegdorj",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Cahiagijn Ėlbėgdorž",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ツァヒアギーン・エルベグドルジ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "ცაჰიაგინ ელბეგდორჟი",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "차히아긴 엘베그도르지",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ky",
+          "name": "Элбэгдорж",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Tsakhiagiin Elbegdorj",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lb",
+          "name": "Tsachiagiin Elbegdordj",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Tsakhijaginas Elbegdoržas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lv",
+          "name": "Elbegdordžs Cahjagīns",
+          "note": "multilingual"
+        },
+        {
           "lang": "mn",
           "name": "Цахиагийн Элбэгдорж",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "Tsakhiagiin Elbegdorj",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Tsakhiagijn Elbegdorzj",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Tsahiagiin Elbegdorzj",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Cachiagijn Elbegdordż",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Tsakhiagiin Elbegdorj",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Țahiagiin Elbegdorj",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Элбэгдорж, Цахиагийн",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "Tsakhiagiin Elbegdorj",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sq",
+          "name": "Cahiagijn Elbegdorxh",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Цахијагијн Елбегдорж",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Tsachiagijn Elbegdordzj",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Tsakhiagiin Elbegdorj",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Цахіагійн Елбегдорж",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Tsakhiagiin Elbegdorj",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yo",
+          "name": "Tsakhiagiin Elbegdorj",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "查希亚·额勒贝格道尔吉",
           "note": "multilingual"
         }
       ],
@@ -3172,6 +5446,9 @@
       ]
     },
     {
+      "email": "oyungerel@parliament.mn",
+      "family_name": "Tsedevdamba",
+      "given_name": "OYUNGEREL",
       "id": "755cf1dd-26ee-498d-a03a-542fc38a50fa",
       "identifiers": [
         {
@@ -3179,14 +5456,31 @@
           "scheme": "everypolitician_legacy"
         }
       ],
+      "image": "http://www.parliament.mn/en/files/images/985-7864481.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.mn/en/files/images/985-7864481.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://oyungerel.parliament.mn"
+        }
+      ],
       "name": "Tsedevdambyn Oyuungerel",
       "other_names": [
+        {
+          "name": "OYUNGEREL Tsedevdamba",
+          "note": "alternate"
+        },
         {
           "lang": "mn",
           "name": "Цэдэвдамбын Оюунгэрэл",
           "note": "multilingual"
         }
       ],
+      "sort_name": "Tsedevdamba OYUNGEREL",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2012"
@@ -3194,6 +5488,9 @@
       ]
     },
     {
+      "email": "dashdorj@parliament.mn",
+      "family_name": "Tsedev",
+      "given_name": "DASHDORJ",
       "id": "b95eab1d-6326-4ea8-8014-980c6f74583b",
       "identifiers": [
         {
@@ -3201,14 +5498,31 @@
           "scheme": "everypolitician_legacy"
         }
       ],
+      "image": "http://www.parliament.mn/en/files/images/882-7864481.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.mn/en/files/images/882-7864481.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://dashdorj.parliament.mn"
+        }
+      ],
       "name": "Tsedeviin Dashdorj",
       "other_names": [
+        {
+          "name": "DASHDORJ Tsedev",
+          "note": "alternate"
+        },
         {
           "lang": "mn",
           "name": "Цэдэвийн Дашдорж",
           "note": "multilingual"
         }
       ],
+      "sort_name": "Tsedev DASHDORJ",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2012"
@@ -3260,8 +5574,11 @@
       ]
     },
     {
-      "birth_date": "1956-01-01",
+      "birth_date": "1956",
+      "email": "nyamdorj@parliament.mn",
+      "family_name": "Tsend",
       "gender": "male",
+      "given_name": "NYAMDORJ",
       "id": "8a197aba-85e0-45e4-842d-e250f8a82f66",
       "identifiers": [
         {
@@ -3271,6 +5588,12 @@
         {
           "identifier": "Q7849526",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www.parliament.mn/en/files/images/947-7864481.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.mn/en/files/images/947-7864481.jpg"
         }
       ],
       "links": [
@@ -3285,10 +5608,18 @@
         {
           "note": "Wikipedia (zh)",
           "url": "https://zh.wikipedia.org/wiki/曾德·尼亚木道尔吉"
+        },
+        {
+          "note": "website",
+          "url": "http://nyamdorj.parliament.mn"
         }
       ],
       "name": "Tsendiin Nyamdorj",
       "other_names": [
+        {
+          "name": "NYAMDORJ Tsend",
+          "note": "alternate"
+        },
         {
           "name": "Цэндийн Нямдорж",
           "note": "alternate"
@@ -3324,6 +5655,7 @@
           "note": "multilingual"
         }
       ],
+      "sort_name": "Tsend NYAMDORJ",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2012"
@@ -3375,6 +5707,9 @@
       ]
     },
     {
+      "email": "oyunbaatar@parliament.mn",
+      "family_name": "Tserendash",
+      "given_name": "OYUNBAATAR",
       "id": "92232516-78e9-45ef-b04c-8c19a758bcb4",
       "identifiers": [
         {
@@ -3382,14 +5717,31 @@
           "scheme": "everypolitician_legacy"
         }
       ],
+      "image": "http://www.parliament.mn/en/files/images/15323-7864481.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.mn/en/files/images/15323-7864481.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://oyunbaatar.parliament.mn"
+        }
+      ],
       "name": "Tserendashiin Oyuunbaatar",
       "other_names": [
+        {
+          "name": "OYUNBAATAR Tserendash",
+          "note": "alternate"
+        },
         {
           "lang": "mn",
           "name": "Цэрэндашийн Оюунбаатар",
           "note": "multilingual"
         }
       ],
+      "sort_name": "Tserendash OYUNBAATAR",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2012"
@@ -3397,6 +5749,9 @@
       ]
     },
     {
+      "email": "tsolmon@parliament.mn",
+      "family_name": "Tserendash",
+      "given_name": "TSOLMON",
       "id": "cbfe0c1a-aa0c-472d-bf35-5dbfa4a39af7",
       "identifiers": [
         {
@@ -3404,14 +5759,31 @@
           "scheme": "everypolitician_legacy"
         }
       ],
+      "image": "http://www.parliament.mn/en/files/images/1072-7864481.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.mn/en/files/images/1072-7864481.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://tsolmon.parliament.mn"
+        }
+      ],
       "name": "Tserendashiin Tsolmon",
       "other_names": [
+        {
+          "name": "TSOLMON Tserendash",
+          "note": "alternate"
+        },
         {
           "lang": "mn",
           "name": "Цэрэндашийн Цолмон",
           "note": "multilingual"
         }
       ],
+      "sort_name": "Tserendash TSOLMON",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2012"
@@ -3419,6 +5791,9 @@
       ]
     },
     {
+      "email": "davaasuren@parliament.mn",
+      "family_name": "Tserenpil",
+      "given_name": "DAVAASUREN",
       "id": "65fdbb42-20e3-47cc-b7b5-450c496c9ac3",
       "identifiers": [
         {
@@ -3426,14 +5801,31 @@
           "scheme": "everypolitician_legacy"
         }
       ],
+      "image": "http://www.parliament.mn/en/files/images/880-7864481.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.mn/en/files/images/880-7864481.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://davaasuren.parliament.mn"
+        }
+      ],
       "name": "Tserenpiliin Davaasüren",
       "other_names": [
+        {
+          "name": "DAVAASUREN Tserenpil",
+          "note": "alternate"
+        },
         {
           "lang": "mn",
           "name": "Цэрэнпилийн Даваасүрэн",
           "note": "multilingual"
         }
       ],
+      "sort_name": "Tserenpil DAVAASUREN",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2012"
@@ -3441,6 +5833,9 @@
       ]
     },
     {
+      "email": "bayarsaikhants@parliament.mn",
+      "family_name": "Tsevelmaa",
+      "given_name": "BAYARSAIKHAN",
       "id": "1d8956ab-a0c8-4e6f-a959-299d676c2f5a",
       "identifiers": [
         {
@@ -3448,14 +5843,31 @@
           "scheme": "everypolitician_legacy"
         }
       ],
+      "image": "http://www.parliament.mn/en/files/images/1108-7864481.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.mn/en/files/images/1108-7864481.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://bayarsaikhants.parliament.mn"
+        }
+      ],
       "name": "Tsevelmaagiin Bayarsaikhan",
       "other_names": [
+        {
+          "name": "BAYARSAIKHAN Tsevelmaa",
+          "note": "alternate"
+        },
         {
           "lang": "mn",
           "name": "Цэвэлмаагийн Баярсайхан",
           "note": "multilingual"
         }
       ],
+      "sort_name": "Tsevelmaa BAYARSAIKHAN",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2012"
@@ -3507,6 +5919,9 @@
       ]
     },
     {
+      "email": "sanjmyatav@parliament.mn",
+      "family_name": "Yadamsuren",
+      "given_name": "SANJMYATAV",
       "id": "bc99d8b9-8610-4164-a979-1a40cb91fbd2",
       "identifiers": [
         {
@@ -3514,14 +5929,31 @@
           "scheme": "everypolitician_legacy"
         }
       ],
+      "image": "http://www.parliament.mn/en/files/images/992-7864481.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.mn/en/files/images/992-7864481.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://sanjmyatav.parliament.mn"
+        }
+      ],
       "name": "Yadamsürengiin Sanjmyatav",
       "other_names": [
+        {
+          "name": "SANJMYATAV Yadamsuren",
+          "note": "alternate"
+        },
         {
           "lang": "mn",
           "name": "Ядамсүрэнгийн Санжмятав",
           "note": "multilingual"
         }
       ],
+      "sort_name": "Yadamsuren SANJMYATAV",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2012"
@@ -3551,6 +5983,9 @@
       ]
     },
     {
+      "email": "sodbaatar@parliament.mn",
+      "family_name": "Yangug",
+      "given_name": "SODBAATAR",
       "id": "b823623f-91a6-427a-95da-ea3d771e589c",
       "identifiers": [
         {
@@ -3558,14 +5993,31 @@
           "scheme": "everypolitician_legacy"
         }
       ],
+      "image": "http://www.parliament.mn/en/files/images/994-7864481.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.mn/en/files/images/994-7864481.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://sodbaatar.parliament.mn"
+        }
+      ],
       "name": "Yangugiin Sodbaatar",
       "other_names": [
+        {
+          "name": "SODBAATAR Yangug",
+          "note": "alternate"
+        },
         {
           "lang": "mn",
           "name": "Янгугийн Содбаатар",
           "note": "multilingual"
         }
       ],
+      "sort_name": "Yangug SODBAATAR",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2012"
@@ -3573,6 +6025,9 @@
       ]
     },
     {
+      "email": "otgonbayar_yo@parliament.mn",
+      "family_name": "Yondon",
+      "given_name": "OTGONBAYAR",
       "id": "627f3663-3b34-4771-a9aa-8fba9e136fa5",
       "identifiers": [
         {
@@ -3580,14 +6035,31 @@
           "scheme": "everypolitician_legacy"
         }
       ],
+      "image": "http://www.parliament.mn/en/files/images/951-7864481.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.mn/en/files/images/951-7864481.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://otgonbayar.parliament.mn"
+        }
+      ],
       "name": "Yondongiin Otgonbayar",
       "other_names": [
+        {
+          "name": "OTGONBAYAR Yondon",
+          "note": "alternate"
+        },
         {
           "lang": "mn",
           "name": "Ёндонгийн Отгонбаяр",
           "note": "multilingual"
         }
       ],
+      "sort_name": "Yondon OTGONBAYAR",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2012"
@@ -3596,7 +6068,16 @@
     },
     {
       "birth_date": "1966-05-23",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "enkhboldz"
+        }
+      ],
+      "email": "enkhboldz@parliament.mn",
+      "family_name": "Zandaakhuu",
       "gender": "male",
+      "given_name": "ENKHBOLD",
       "id": "29cc6cec-74ca-4fb8-9dbc-ae53ede1924c",
       "identifiers": [
         {
@@ -3612,10 +6093,10 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Zandaakhuu_Enkhbold_Senate_of_Poland_01.JPG",
+      "image": "http://www.parliament.mn/en/files/images/658-7864481.jpg",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Zandaakhuu_Enkhbold_Senate_of_Poland_01.JPG"
+          "url": "http://www.parliament.mn/en/files/images/658-7864481.jpg"
         }
       ],
       "links": [
@@ -3634,10 +6115,26 @@
         {
           "note": "Wikipedia (zh)",
           "url": "https://zh.wikipedia.org/wiki/赞达呼·恩赫包勒德"
+        },
+        {
+          "note": "facebook",
+          "url": "http://www.facebook.com/Zandaakhuu.Enkhbold"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/enkhboldz"
+        },
+        {
+          "note": "website",
+          "url": "http://enkhboldz.parliament.mn"
         }
       ],
       "name": "Zandaakhüügiin Enkhbold",
       "other_names": [
+        {
+          "name": "ENKHBOLD Zandaakhuu",
+          "note": "alternate"
+        },
         {
           "name": "Зандаахүүгийн Энхболд",
           "note": "alternate"
@@ -3683,6 +6180,7 @@
           "note": "multilingual"
         }
       ],
+      "sort_name": "Zandaakhuu ENKHBOLD",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2012"
@@ -3690,6 +6188,9 @@
       ]
     },
     {
+      "email": "bayanselenge@parliament.mn",
+      "family_name": "Zangad",
+      "given_name": "BAYANSELENGE",
       "id": "a8f70505-03c1-4ebe-b6ef-2b459f3fe714",
       "identifiers": [
         {
@@ -3697,14 +6198,31 @@
           "scheme": "everypolitician_legacy"
         }
       ],
+      "image": "http://www.parliament.mn/en/files/images/675-7864481.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.mn/en/files/images/675-7864481.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://bayanselenge.parliament.mn"
+        }
+      ],
       "name": "Zangadyn Bayanselenge",
       "other_names": [
+        {
+          "name": "BAYANSELENGE Zangad",
+          "note": "alternate"
+        },
         {
           "lang": "mn",
           "name": "Зангадын Баянсэлэнгэ",
           "note": "multilingual"
         }
       ],
+      "sort_name": "Zangad BAYANSELENGE",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2012"
@@ -3734,8 +6252,11 @@
       ]
     },
     {
-      "birth_date": "1958-01-01",
+      "birth_date": "1958",
+      "email": "enkhtuvshin@parliament.mn",
+      "family_name": "Ulziisaikhan",
       "gender": "male",
+      "given_name": "ENKHTUVSHIN",
       "id": "1f2733f3-fd76-4472-84cf-02c5dd68cce6",
       "identifiers": [
         {
@@ -3745,6 +6266,12 @@
         {
           "identifier": "Q3351752",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www.parliament.mn/en/files/images/669-7864481.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.mn/en/files/images/669-7864481.jpg"
         }
       ],
       "links": [
@@ -3759,10 +6286,18 @@
         {
           "note": "Wikipedia (zh)",
           "url": "https://zh.wikipedia.org/wiki/乌力吉赛汗·恩赫图布辛"
+        },
+        {
+          "note": "website",
+          "url": "http://enkhtuvshin.parliament.mn"
         }
       ],
       "name": "Ölziisaikhany Enkhtüvshin",
       "other_names": [
+        {
+          "name": "ENKHTUVSHIN Ulziisaikhan",
+          "note": "alternate"
+        },
         {
           "name": "Өлзийсайханы Энхтүвшин",
           "note": "alternate"
@@ -3783,6 +6318,7 @@
           "note": "multilingual"
         }
       ],
+      "sort_name": "Ulziisaikhan ENKHTUVSHIN",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2012"
@@ -3831,7 +6367,7 @@
   ],
   "meta": {
     "sources": [
-      "https://morph.io/tmtmtmtm/mongolia-khurai-wp",
+      "https://en.wikipedia.org/",
       "http://wikidata.org/"
     ]
   },
