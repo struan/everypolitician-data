@@ -7612,6 +7612,25 @@
       "patronymic_name": "Юріївна"
     },
     {
+      "family_name": "Підберезняк",
+      "given_name": "Вадим",
+      "id": "4a17bd68-8553-4253-90ec-0f1eda4bd27a",
+      "identifiers": [
+        {
+          "identifier": "19622",
+          "scheme": "rada"
+        }
+      ],
+      "image": "http://static.rada.gov.ua/site/no_photo.jpg",
+      "images": [
+        {
+          "url": "http://static.rada.gov.ua/site/no_photo.jpg"
+        }
+      ],
+      "name": "Підберезняк Вадим Іванович",
+      "patronymic_name": "Іванович"
+    },
+    {
       "family_name": "Підлісецький",
       "given_name": "Лев",
       "id": "418c04c6-b81f-47bd-bacc-d242e4ced5c7",
@@ -9958,6 +9977,25 @@
       "patronymic_name": "Петрівна"
     },
     {
+      "family_name": "Юзькова",
+      "given_name": "Тетяна",
+      "id": "239fceab-3e7c-489b-8f9b-e51117e1f906",
+      "identifiers": [
+        {
+          "identifier": "19623",
+          "scheme": "rada"
+        }
+      ],
+      "image": "http://static.rada.gov.ua/dep_img8/rp26.jpg",
+      "images": [
+        {
+          "url": "http://static.rada.gov.ua/dep_img8/rp26.jpg"
+        }
+      ],
+      "name": "Юзькова Тетяна Леонідівна",
+      "patronymic_name": "Леонідівна"
+    },
+    {
       "family_name": "Юрик",
       "given_name": "Тарас",
       "id": "18bd5ab1-dd53-4341-b7f8-9f7dd1da8beb",
@@ -10821,6 +10859,15 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/Позафракційні",
+      "organization_id": "legislature",
+      "person_id": "239fceab-3e7c-489b-8f9b-e51117e1f906",
+      "role": "member",
+      "start_date": "2015-12-24"
+    },
+    {
+      "area_id": "area/Загальнодержавному_багатомандатному_округу",
+      "legislative_period_id": "term/8",
       "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "24d31416-4346-4270-af45-dace6b6ce5c8",
@@ -11310,6 +11357,7 @@
     },
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
+      "end_date": "2015-12-22",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "2612",
       "organization_id": "legislature",
@@ -11433,6 +11481,15 @@
       "person_id": "4983f2b6-7c9c-4669-baac-dd6f43115df6",
       "role": "member",
       "start_date": "2014-12-04"
+    },
+    {
+      "area_id": "area/Загальнодержавному_багатомандатному_округу",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/Позафракційні",
+      "organization_id": "legislature",
+      "person_id": "4a17bd68-8553-4253-90ec-0f1eda4bd27a",
+      "role": "member",
+      "start_date": "2015-12-24"
     },
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
@@ -11659,6 +11716,7 @@
     },
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
+      "end_date": "2015-12-22",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "2615",
       "organization_id": "legislature",
@@ -12231,11 +12289,21 @@
     },
     {
       "area_id": "72",
+      "end_date": "2015-12-24",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "party/Позафракційні",
       "organization_id": "legislature",
       "person_id": "7f474e73-7c79-4fea-b312-7f7aef71a27c",
       "role": "member"
+    },
+    {
+      "area_id": "72",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "2619",
+      "organization_id": "legislature",
+      "person_id": "7f474e73-7c79-4fea-b312-7f7aef71a27c",
+      "role": "member",
+      "start_date": "2015-12-25"
     },
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
