@@ -87,7 +87,7 @@
       ]
     },
     {
-      "birth_date": "1948-01-01",
+      "birth_date": "1948",
       "gender": "male",
       "id": "69f4db0d-6752-4225-a371-4740da5e78d0",
       "identifiers": [
@@ -388,7 +388,7 @@
       ]
     },
     {
-      "birth_date": "1953-01-01",
+      "birth_date": "1953",
       "gender": "male",
       "id": "986f8bc2-6f7d-4b57-9fa4-050c610a0a6b",
       "identifiers": [
@@ -456,7 +456,7 @@
       ]
     },
     {
-      "birth_date": "1958-01-01",
+      "birth_date": "1958",
       "gender": "male",
       "given_name": "Ali",
       "id": "90c69782-414d-434d-be01-ac76ab2ec92d",
@@ -621,7 +621,7 @@
       ]
     },
     {
-      "birth_date": "1962-01-01",
+      "birth_date": "1962",
       "gender": "male",
       "given_name": "Ali",
       "id": "dd477237-0ea1-43bf-bebb-eb6daccb6bcc",
@@ -680,7 +680,7 @@
       ]
     },
     {
-      "birth_date": "1964-01-01",
+      "birth_date": "1964",
       "gender": "male",
       "given_name": "Ali",
       "id": "205294e3-2491-4cab-b98f-f54b3d4c2f5d",
@@ -756,7 +756,7 @@
       ]
     },
     {
-      "birth_date": "1957-01-01",
+      "birth_date": "1957",
       "gender": "male",
       "given_name": "Ali",
       "id": "98767fcc-c494-4668-932b-9add1ba34269",
@@ -824,7 +824,7 @@
       ]
     },
     {
-      "birth_date": "1961-01-01",
+      "birth_date": "1961",
       "gender": "male",
       "given_name": "Ali",
       "id": "6f7be70f-bc50-4699-95d3-fa2fc38cae53",
@@ -887,7 +887,7 @@
       ]
     },
     {
-      "birth_date": "1947-01-01",
+      "birth_date": "1947",
       "gender": "male",
       "given_name": "Ali",
       "id": "6f13f548-3fe0-4da7-b8f8-cb14dd090942",
@@ -995,7 +995,7 @@
       ]
     },
     {
-      "birth_date": "1956-01-01",
+      "birth_date": "1956",
       "gender": "male",
       "given_name": "Antoine",
       "id": "48b033df-c33e-49f2-8e15-ddcc7f9e45fd",
@@ -1072,7 +1072,7 @@
       ]
     },
     {
-      "birth_date": "1938-01-01",
+      "birth_date": "1938",
       "gender": "male",
       "given_name": "Anwar",
       "id": "b96e2808-e65d-4ef1-9392-fbc844a8c7c6",
@@ -1143,7 +1143,7 @@
       ]
     },
     {
-      "birth_date": "1951-01-01",
+      "birth_date": "1951",
       "gender": "male",
       "given_name": "Arthur",
       "id": "5489be9b-4b16-44ce-a9cd-cb672585d99a",
@@ -1338,7 +1338,7 @@
       ]
     },
     {
-      "birth_date": "1937-01-01",
+      "birth_date": "1937",
       "gender": "male",
       "id": "fd38c1bd-fde0-4d33-8394-728913fc4795",
       "identifiers": [
@@ -1446,7 +1446,7 @@
       ]
     },
     {
-      "birth_date": "1954-01-01",
+      "birth_date": "1954",
       "gender": "male",
       "id": "698254e9-d86f-4ce4-9e0e-3ec35a16152a",
       "identifiers": [
@@ -1670,7 +1670,7 @@
       ]
     },
     {
-      "birth_date": "1944-01-01",
+      "birth_date": "1944",
       "gender": "male",
       "id": "4d9e94bb-0a52-4f24-9c81-73a88bdc3bf7",
       "identifiers": [
@@ -1877,7 +1877,7 @@
       ]
     },
     {
-      "birth_date": "1959-01-01",
+      "birth_date": "1959",
       "gender": "male",
       "given_name": "Elie",
       "id": "8b86a1a6-9003-4ddc-8800-fe7e1aec617c",
@@ -2159,7 +2159,7 @@
       ]
     },
     {
-      "birth_date": "1935-01-01",
+      "birth_date": "1935",
       "death_date": "2012-05-31",
       "gender": "male",
       "given_name": "Farid",
@@ -2228,7 +2228,7 @@
       ]
     },
     {
-      "birth_date": "1947-01-01",
+      "birth_date": "1947",
       "gender": "male",
       "given_name": "Farid",
       "id": "642cb10c-5d54-450e-8c82-4c74184b513e",
@@ -2665,7 +2665,7 @@
       ]
     },
     {
-      "birth_date": "1947-01-01",
+      "birth_date": "1947",
       "gender": "male",
       "given_name": "Georges",
       "id": "dec29bfe-1d3f-4bcb-9674-ebc2eec210dd",
@@ -2746,14 +2746,70 @@
       ]
     },
     {
+      "birth_date": "1958",
+      "gender": "male",
+      "given_name": "Ghassan",
       "id": "f3549012-592b-449e-a60a-2ec8646e5fe9",
       "identifiers": [
         {
           "identifier": "ghassan_moukheiber",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "305213373",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q16125550",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/غسان_مخيبر"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Ghassan_Moukheiber"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Ghassan_Muchajber"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Гассан_Мухейбир"
         }
       ],
       "name": "Ghassan Moukheiber",
+      "other_names": [
+        {
+          "lang": "ar",
+          "name": "غسان مخيبر",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Ghassan Moukheiber",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Ghassan Moukheiber",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Ghassan Muchajber",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Гассан Мухейбир",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/Members_of_the_2009%E2%80%9317_Lebanese_Parliament"
@@ -2866,7 +2922,7 @@
       ]
     },
     {
-      "birth_date": "1949-01-01",
+      "birth_date": "1949",
       "gender": "male",
       "id": "7bad92e3-72e0-48c1-b3ac-6babdeebbd4e",
       "identifiers": [
@@ -3031,7 +3087,7 @@
       ]
     },
     {
-      "birth_date": "1956-01-01",
+      "birth_date": "1956",
       "gender": "male",
       "id": "870e1cc5-3b22-4d84-8d55-f1b1c1fd81e9",
       "identifiers": [
@@ -3102,7 +3158,7 @@
       ]
     },
     {
-      "birth_date": "1959-01-01",
+      "birth_date": "1959",
       "gender": "male",
       "given_name": "Hani",
       "id": "c853b454-70fc-4045-9bc9-28286d29af24",
@@ -3161,7 +3217,7 @@
       ]
     },
     {
-      "birth_date": "1967-01-01",
+      "birth_date": "1967",
       "gender": "male",
       "given_name": "Hassan",
       "id": "a660d784-484a-4e91-a1d4-c66f8a2f2162",
@@ -3267,7 +3323,7 @@
       ]
     },
     {
-      "birth_date": "1943-01-01",
+      "birth_date": "1943",
       "gender": "male",
       "given_name": "Hussein",
       "id": "680dccf7-759e-4c9e-8b46-2b0ab6715946",
@@ -3326,7 +3382,7 @@
       ]
     },
     {
-      "birth_date": "1960-01-01",
+      "birth_date": "1960",
       "gender": "male",
       "given_name": "Hussein",
       "id": "be8fb73c-6568-4e73-bc52-56bb35d0cf27",
@@ -3611,14 +3667,52 @@
       ]
     },
     {
+      "birth_date": "1960",
+      "gender": "male",
       "id": "347a9065-f6a0-4c11-b1fa-8068ee2b1798",
       "identifiers": [
         {
           "identifier": "kassem_hachem",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q12231993",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/قاسم_هاشم"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Kassem_Hachem"
         }
       ],
       "name": "Kassem Hachem",
+      "other_names": [
+        {
+          "lang": "ar",
+          "name": "قاسم هاشم",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Kassem Hachem",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Kassem Hachem",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Kassem Hachem",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/Members_of_the_2009%E2%80%9317_Lebanese_Parliament"
@@ -3671,7 +3765,7 @@
       ]
     },
     {
-      "birth_date": "1947-01-01",
+      "birth_date": "1947",
       "gender": "male",
       "given_name": "Marwan",
       "id": "3cd8345c-fc6a-4788-808d-a4d405603dae",
@@ -4111,7 +4205,7 @@
       ]
     },
     {
-      "birth_date": "1949-01-01",
+      "birth_date": "1949",
       "gender": "male",
       "given_name": "Michel",
       "id": "81059739-3b4a-47b0-929b-9c6483ab6cec",
@@ -4192,7 +4286,7 @@
       ]
     },
     {
-      "birth_date": "1932-01-01",
+      "birth_date": "1932",
       "gender": "male",
       "given_name": "Michel",
       "id": "6bb16758-4834-4925-937b-7fac1468d15f",
@@ -4290,7 +4384,7 @@
       ]
     },
     {
-      "birth_date": "1959-01-01",
+      "birth_date": "1959",
       "gender": "male",
       "given_name": "Michel",
       "id": "d6651802-331b-4715-81be-82412fc9d400",
@@ -5386,7 +5480,7 @@
       ]
     },
     {
-      "birth_date": "1967-01-01",
+      "birth_date": "1967",
       "gender": "male",
       "id": "d3a0dd17-079c-419d-a22a-7374fd091a81",
       "identifiers": [
@@ -5553,14 +5647,51 @@
       ]
     },
     {
+      "birth_date": "1934",
+      "gender": "male",
       "id": "3b0da216-2f6d-460d-bad4-68a38580d944",
       "identifiers": [
         {
           "identifier": "nehme_tohme",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q12248702",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/نعمة_طعمة"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Nehmé_Tohmé"
         }
       ],
       "name": "Nehme Tohme",
+      "other_names": [
+        {
+          "name": "Nehmé Tohmé",
+          "note": "alternate"
+        },
+        {
+          "lang": "ar",
+          "name": "نعمة طعمة",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Nehmé Tohmé",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Nehmé Tohmé",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/Members_of_the_2009%E2%80%9317_Lebanese_Parliament"
@@ -5832,7 +5963,7 @@
       ]
     },
     {
-      "birth_date": "1942-01-01",
+      "birth_date": "1942",
       "gender": "male",
       "given_name": "Robert",
       "id": "c125ef9d-7cef-4c95-9056-612a1cb2b037",
@@ -6500,7 +6631,7 @@
       ]
     },
     {
-      "birth_date": "1965-01-01",
+      "birth_date": "1965",
       "gender": "male",
       "given_name": "Serge",
       "id": "77d78288-0b7a-4a15-b760-b241c38eee61",
@@ -6709,7 +6840,7 @@
       ]
     },
     {
-      "birth_date": "1967-01-01",
+      "birth_date": "1967",
       "gender": "female",
       "id": "9e6b9686-7fd5-4420-93dc-b4152be7a9f0",
       "identifiers": [
@@ -7227,7 +7358,7 @@
       ]
     },
     {
-      "birth_date": "1972-01-01",
+      "birth_date": "1972",
       "gender": "male",
       "id": "c23b7552-08b3-4f04-a5c9-743df3d19296",
       "identifiers": [
@@ -7555,7 +7686,7 @@
       ]
     },
     {
-      "birth_date": "1951-01-01",
+      "birth_date": "1951",
       "gender": "male",
       "given_name": "Yassine",
       "id": "e0bb1b8f-1b6c-4997-a258-db4cb3928091",
