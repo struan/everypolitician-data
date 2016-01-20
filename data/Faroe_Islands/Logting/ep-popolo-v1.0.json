@@ -4948,7 +4948,7 @@
           "scheme": "wikidata"
         },
         {
-          "identifier": "Kaj Leo Holm Johannesen",
+          "identifier": "Kaj Leo Johannesen",
           "scheme": "wikipedia_fo"
         }
       ],
@@ -5068,7 +5068,7 @@
           "url": "https://zh.wikipedia.org/wiki/卡伊·莱奥·约翰内森"
         }
       ],
-      "name": "Kaj Leo Holm Johannesen",
+      "name": "Kaj Leo Johannesen",
       "other_names": [
         {
           "name": "Kaj Leo Johannesen",
@@ -5205,25 +5205,6 @@
           "note": "multilingual"
         }
       ],
-      "sources": [
-        {
-          "url": "https://fo.wikipedia.org/wiki/L%C3%B8gtingslimir_%C3%AD_F%C3%B8royum_2011%E2%80%932015"
-        }
-      ]
-    },
-    {
-      "id": "adad3499-20e0-485b-9845-0e815c69be85",
-      "identifiers": [
-        {
-          "identifier": "kaj_leo_johannesen",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Kaj Leo Johannesen",
-          "scheme": "wikipedia_fo"
-        }
-      ],
-      "name": "Kaj Leo Johannesen",
       "sources": [
         {
           "url": "https://fo.wikipedia.org/wiki/L%C3%B8gtingslimir_%C3%AD_F%C3%B8royum_2004-2008"
@@ -9057,22 +9038,6 @@
     },
     {
       "area_id": "area/suðurstreymoy",
-      "legislative_period_id": "term/2004",
-      "on_behalf_of_id": "party/sambandsflokkurin",
-      "organization_id": "legislature",
-      "person_id": "adad3499-20e0-485b-9845-0e815c69be85",
-      "role": "member"
-    },
-    {
-      "area_id": "area/suðurstreymoy",
-      "legislative_period_id": "term/2008",
-      "on_behalf_of_id": "party/sambandsflokkurin",
-      "organization_id": "legislature",
-      "person_id": "adad3499-20e0-485b-9845-0e815c69be85",
-      "role": "member"
-    },
-    {
-      "area_id": "area/suðurstreymoy",
       "legislative_period_id": "term/1994",
       "on_behalf_of_id": "party/miðflokkurin",
       "organization_id": "legislature",
@@ -9325,6 +9290,22 @@
       "on_behalf_of_id": "party/sambandsflokkurin",
       "organization_id": "legislature",
       "person_id": "c475ff0b-c375-44d6-bf7d-2d445628f665",
+      "role": "member"
+    },
+    {
+      "area_id": "area/suðurstreymoy",
+      "legislative_period_id": "term/2004",
+      "on_behalf_of_id": "party/sambandsflokkurin",
+      "organization_id": "legislature",
+      "person_id": "c5dbb97b-1227-4243-b3c0-38f6caddba87",
+      "role": "member"
+    },
+    {
+      "area_id": "area/suðurstreymoy",
+      "legislative_period_id": "term/2008",
+      "on_behalf_of_id": "party/sambandsflokkurin",
+      "organization_id": "legislature",
+      "person_id": "c5dbb97b-1227-4243-b3c0-38f6caddba87",
       "role": "member"
     },
     {

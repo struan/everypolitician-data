@@ -252,7 +252,7 @@ namespace :merge_sources do
           if to_patch && !to_patch.size.zero?
             # Be careful to take a copy and not delete from the core list
             to_patch = to_patch.select { |r| r[:term].to_s == incoming_row[:term].to_s } if merger[:term_match]
-            uids = to_patch.map { |r| r[:id] }.uniq
+            uids = to_patch.map { |r| r[:uuid] }.uniq
             if uids.count > 1
               warn "Error: trying to patch multiple people: #{uids.join('; ')}".red.on_yellow
               next
@@ -359,6 +359,7 @@ namespace :merge_sources do
 
       merged_rows.each do |row|
         if legacy.key? row[:uuid] 
+          # TODO: row[:identifier__everypolitician_legacy] = legacy[ row[:uuid ] ].map { |i| i[:legacy] }.join ";"
           row[:identifier__everypolitician_legacy] = legacy[ row[:uuid ] ].first[:legacy] 
         end
       end
