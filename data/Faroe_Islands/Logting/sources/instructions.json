@@ -20,8 +20,9 @@
       "source": "http://wikidata.org/",
       "type": "wikidata",
       "merge": {
-        "existing_field": "identifier__wikipedia_fo",
-        "incoming_field": "wikipedia__fo"
+        "incoming_field": "name",
+        "existing_field": "name",
+        "reconciliation_file": "reconciliation/wikidata.csv"
       }
     },
     {
