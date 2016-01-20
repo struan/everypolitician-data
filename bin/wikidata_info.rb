@@ -16,6 +16,7 @@ puts <<'eoheader'
 |-
 eoheader
 
+total = { persons: 0, matched: 0 }
 @countries.each do |c|
   c[:legislatures].each do |l|
     @json = json_from l[:popolo]
@@ -33,7 +34,12 @@ eoheader
       persons.count, wdp.first.count, wdp.first.count * 100.to_f / persons.count,
       parties.count, wdg.first.count, wdg.first.count * 100.to_f / parties.count,
     ]
+    total[:persons] += persons.count
+    total[:matched] += wdp.first.count
   end
 end
 
 puts "|}"
+
+# only warn so that we can paste STDOUT to Wikidata without this
+warn "Total: %d / %d (%0.f%%)" % [total[:persons], total[:matched], total[:matched] * 100.to_f / total[:persons]]
