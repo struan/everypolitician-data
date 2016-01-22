@@ -225,21 +225,21 @@ namespace :merge_sources do
       incoming_data = csv_table(pd[:file])
 
       approaches = pd[:merge].class == Hash ? [pd[:merge]] : pd[:merge]
-      approaches.each_with_index do |merger, i|
-        warn "  Match incoming #{merger[:incoming_field]} to #{merger[:existing_field]}"
-        unless merger.key? :report_missing
+      approaches.each_with_index do |merge_instructions, i|
+        warn "  Match incoming #{merge_instructions[:incoming_field]} to #{merge_instructions[:existing_field]}"
+        unless merge_instructions.key? :report_missing
           # By default only report people who are still unmatched at the end
-          merger[:report_missing] = (i == approaches.size - 1)
+          merge_instructions[:report_missing] = (i == approaches.size - 1)
         end
 
-        if merger.key? :reconciliation_file
+        if merge_instructions.key? :reconciliation_file
           # TODO complain if this isn't the last step — all prior ones
           # should be exact matches
-          reconciliation = Reconciliation::Interface.new(merged_rows, incoming_data, merger)
+          reconciliation = Reconciliation::Interface.new(merged_rows, incoming_data, merge_instructions)
           reconciliation.generate!
-          reconciler = Reconciler::Fuzzy.new(merged_rows, merger, reconciliation.reconciled)
+          reconciler = Reconciler::Fuzzy.new(merged_rows, merge_instructions, reconciliation.reconciled)
         else 
-          reconciler = Reconciler::Exact.new(merged_rows, merger)
+          reconciler = Reconciler::Exact.new(merged_rows, merge_instructions)
         end
 
         unmatched = []
@@ -251,7 +251,7 @@ namespace :merge_sources do
           to_patch = reconciler.find_all(incoming_row)
           if to_patch && !to_patch.size.zero?
             # Be careful to take a copy and not delete from the core list
-            to_patch = to_patch.select { |r| r[:term].to_s == incoming_row[:term].to_s } if merger[:term_match]
+            to_patch = to_patch.select { |r| r[:term].to_s == incoming_row[:term].to_s } if merge_instructions[:term_match]
             uids = to_patch.map { |r| r[:uuid] }.uniq
             if uids.count > 1
               warn "Error: trying to patch multiple people: #{uids.join('; ')}".red.on_yellow
@@ -273,7 +273,7 @@ namespace :merge_sources do
               end
             end
           else
-            warn "Can't match row to existing data: #{incoming_row.to_hash.reject { |k,v| v.to_s.empty? } }".red if merger[:report_missing]
+            warn "Can't match row to existing data: #{incoming_row.to_hash.reject { |k,v| v.to_s.empty? } }".red if merge_instructions[:report_missing]
             unmatched << incoming_row
           end
         end

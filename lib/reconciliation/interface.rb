@@ -3,16 +3,16 @@ module Reconciliation
   class Interface
     attr_reader :merged_rows
     attr_reader :incoming_data
-    attr_reader :merger
+    attr_reader :merge_instructions
 
-    def initialize(merged_rows, incoming_data, merger)
+    def initialize(merged_rows, incoming_data, merge_instructions)
       @merged_rows = merged_rows
       @incoming_data = incoming_data
-      @merger = merger
+      @merge_instructions = merge_instructions
     end
 
     def generate!
-      return unless merger[:reconciliation_file]
+      return unless merge_instructions[:reconciliation_file]
 
       FileUtils.mkdir_p(File.dirname(csv_file))
       File.write(html_file, template.render)
@@ -37,8 +37,8 @@ module Reconciliation
       @template ||= Template.new(
         matched: matched,
         reconciled: reconciled,
-        incoming_field: merger[:incoming_field],
-        existing_field: merger[:existing_field]
+        incoming_field: merge_instructions[:incoming_field],
+        existing_field: merge_instructions[:existing_field]
       )
     end
 
@@ -55,8 +55,8 @@ module Reconciliation
     end
 
     def csv_file
-      return unless merger[:reconciliation_file]
-      @csv_file ||= File.join('sources', merger[:reconciliation_file])
+      return unless merge_instructions[:reconciliation_file]
+      @csv_file ||= File.join('sources', merge_instructions[:reconciliation_file])
     end
 
     def html_file
@@ -68,11 +68,11 @@ module Reconciliation
     end
 
     def fuzzer
-      @fuzzer ||= Fuzzer.new(merged_rows, need_reconciling, merger)
+      @fuzzer ||= Fuzzer.new(merged_rows, need_reconciling, merge_instructions)
     end
 
     def reconciler
-      @reconciler ||= Reconciler::Fuzzy.new(merged_rows, merger, reconciled)
+      @reconciler ||= Reconciler::Fuzzy.new(merged_rows, merge_instructions, reconciled)
     end
   end
 end
