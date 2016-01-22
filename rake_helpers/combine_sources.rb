@@ -196,6 +196,9 @@ namespace :merge_sources do
           # should be exact matches
           reconciliation = Reconciliation::Interface.new(merged_rows, incoming_data, merge_instructions)
           reconciliation.generate!
+          # If no Reconciliation field exists, the above 'generate!' will
+          # abort until one is generated (usually via the HTML interface)
+          # so we proceed if we have previously reconciled data
           matcher = Matcher::Reconciled.new(merged_rows, merge_instructions, reconciliation.previously_reconciled)
         else 
           matcher = Matcher::Exact.new(merged_rows, merge_instructions)
