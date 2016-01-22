@@ -44,7 +44,7 @@ module Reconciliation
 
     def need_reconciling
       @need_reconciling ||= incoming_data.find_all do |d|
-        reconciler.find_all(d).to_a.empty? && !reconciled.any? do |r|
+        matcher.find_all(d).to_a.empty? && !reconciled.any? do |r|
           r[:id].to_s == d[:id]
         end
       end
@@ -71,8 +71,8 @@ module Reconciliation
       @fuzzer ||= Fuzzer.new(merged_rows, need_reconciling, merge_instructions)
     end
 
-    def reconciler
-      @reconciler ||= Reconciler::Fuzzy.new(merged_rows, merge_instructions, reconciled)
+    def matcher
+      @matcher ||= Matcher::Fuzzy.new(merged_rows, merge_instructions, reconciled)
     end
   end
 end

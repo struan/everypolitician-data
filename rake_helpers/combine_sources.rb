@@ -8,7 +8,7 @@ class String
   end
 end
 
-class Reconciler
+class Matcher
 
   def initialize(existing_rows, instructions, reconciled_csv = nil)
     @_existing_rows = existing_rows
@@ -28,7 +28,7 @@ class Reconciler
   end
 end
 
-class Reconciler::Fuzzy < Reconciler
+class Matcher::Fuzzy < Matcher
   def find_all(incoming_row)
     return [] if incoming_row[@_incoming_field].to_s.empty?
     if match = @_reconciled[incoming_row[:id].to_s]
@@ -38,7 +38,7 @@ class Reconciler::Fuzzy < Reconciler
   end
 end
 
-class Reconciler::Exact < Reconciler
+class Matcher::Exact < Matcher
   def find_all(incoming_row)
     return [] if incoming_row[@_incoming_field].to_s.empty?
 
@@ -237,9 +237,9 @@ namespace :merge_sources do
           # should be exact matches
           reconciliation = Reconciliation::Interface.new(merged_rows, incoming_data, merge_instructions)
           reconciliation.generate!
-          reconciler = Reconciler::Fuzzy.new(merged_rows, merge_instructions, reconciliation.reconciled)
+          matcher = Matcher::Fuzzy.new(merged_rows, merge_instructions, reconciliation.reconciled)
         else 
-          reconciler = Reconciler::Exact.new(merged_rows, merge_instructions)
+          matcher = Matcher::Exact.new(merged_rows, merge_instructions)
         end
 
         unmatched = []
@@ -248,7 +248,7 @@ namespace :merge_sources do
           incoming_row[:identifier__wikidata] ||= incoming_row[:id] if pd[:type] == 'wikidata'
 
           # TODO factor this out to a Patcher again
-          to_patch = reconciler.find_all(incoming_row)
+          to_patch = matcher.find_all(incoming_row)
           if to_patch && !to_patch.size.zero?
             # Be careful to take a copy and not delete from the core list
             to_patch = to_patch.select { |r| r[:term].to_s == incoming_row[:term].to_s } if merge_instructions[:term_match]
