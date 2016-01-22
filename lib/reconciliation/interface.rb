@@ -25,10 +25,8 @@ module Reconciliation
       abort "Created #{html_file} — please check it and re-run".green
     end
 
-    def reconciled
-      reconciled = CSV::Table.new([])
-      reconciled = CSV.table(csv_file, converters: nil) if csv_file_exists?
-      reconciled
+    def previously_reconciled
+      csv_file_exists? ? CSV.table(csv_file, converters: nil) : CSV::Table.new([])
     end
 
     private
@@ -36,7 +34,7 @@ module Reconciliation
     def template
       @template ||= Template.new(
         matched: matched,
-        reconciled: reconciled,
+        reconciled: previously_reconciled,
         incoming_field: merge_instructions[:incoming_field],
         existing_field: merge_instructions[:existing_field]
       )
@@ -44,7 +42,7 @@ module Reconciliation
 
     def need_reconciling
       @need_reconciling ||= incoming_data.find_all do |d|
-        matcher.find_all(d).to_a.empty? && !reconciled.any? do |r|
+        matcher.find_all(d).to_a.empty? && !previously_reconciled.any? do |r|
           r[:id].to_s == d[:id]
         end
       end
@@ -72,7 +70,7 @@ module Reconciliation
     end
 
     def matcher
-      @matcher ||= Matcher::Fuzzy.new(merged_rows, merge_instructions, reconciled)
+      @matcher ||= Matcher::Fuzzy.new(merged_rows, merge_instructions, previously_reconciled)
     end
   end
 end

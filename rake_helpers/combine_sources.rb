@@ -196,7 +196,7 @@ namespace :merge_sources do
           # should be exact matches
           reconciliation = Reconciliation::Interface.new(merged_rows, incoming_data, merge_instructions)
           reconciliation.generate!
-          matcher = Matcher::Fuzzy.new(merged_rows, merge_instructions, reconciliation.reconciled)
+          matcher = Matcher::Fuzzy.new(merged_rows, merge_instructions, reconciliation.previously_reconciled)
         else 
           matcher = Matcher::Exact.new(merged_rows, merge_instructions)
         end
