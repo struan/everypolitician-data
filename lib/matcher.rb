@@ -20,7 +20,6 @@ end
 
 class Matcher::Fuzzy < Matcher
   def find_all(incoming_row)
-    return [] if incoming_row[@_incoming_field].to_s.empty?
     if match = @_reconciled[incoming_row[:id].to_s]
       return existing_by_uuid[match[:uuid].to_s] if match[:uuid]
     end
