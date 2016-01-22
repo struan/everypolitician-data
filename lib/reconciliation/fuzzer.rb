@@ -1,23 +1,38 @@
 require 'fuzzy_match'
 require 'unicode_utils'
 
+# Given a list of existing People records (each of which must have a UUID)
+# and a list of incoming People (none of which yet have UUIDs), 
+# calculate potential matches from the first list for each from the second
+
 module Reconciliation
-  # Does a fuzzy match to find existing rows that match incoming rows.
   class Fuzzer
     attr_reader :fuzzer
+    attr_reader :existing_rows
     attr_reader :incoming_rows
     attr_reader :instructions
 
     def initialize(existing_rows, incoming_rows, instructions)
+      @existing_rows = existing_rows
       @incoming_rows = incoming_rows
       @instructions = instructions
-      mapped = existing_rows.uniq { |r| r[:uuid] }.each { |r| r[:fuzzit] = UnicodeUtils.downcase(r[existing_field]) }
-      @fuzzer ||= FuzzyMatch.new(
-        mapped, read: :fuzzit
-      )
     end
 
-    def find_all
+    # Ensure we only have one row per UUID, and generate for each row a
+    # 'fuzzit' field that we'll be checking against. For now this just
+    # defaults to the lowercase value of the 'existing_field' field
+    # (usually name) — later we'll want to be able to expand this to 
+    # something more complex. (e.g. multiple fields)
+    #
+    def existing_people
+      @_existing_people ||= existing_rows.uniq { |r| r[:uuid] }.each { |r| r[:fuzzit] = UnicodeUtils.downcase(r[existing_field]) }
+    end
+
+    def fuzzer
+      @_fuzzer ||= FuzzyMatch.new( existing_people, read: :fuzzit )
+    end
+
+    def score_all
       incoming_rows.map do |incoming_row|
         if incoming_row[incoming_field].to_s.empty?
           warn "No #{incoming_field} in #{incoming_row.reject { |k, v| v.to_s.empty? }}".red

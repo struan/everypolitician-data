@@ -3,16 +3,16 @@ module Reconciliation
   class Interface
     attr_reader :merged_rows
     attr_reader :incoming_data
-    attr_reader :merger
+    attr_reader :merge_instructions
 
-    def initialize(merged_rows, incoming_data, merger)
+    def initialize(merged_rows, incoming_data, merge_instructions)
       @merged_rows = merged_rows
       @incoming_data = incoming_data
-      @merger = merger
+      @merge_instructions = merge_instructions
     end
 
     def generate!
-      return unless merger[:reconciliation_file]
+      return unless merge_instructions[:reconciliation_file]
 
       FileUtils.mkdir_p(File.dirname(csv_file))
       File.write(html_file, template.render)
@@ -25,10 +25,8 @@ module Reconciliation
       abort "Created #{html_file} — please check it and re-run".green
     end
 
-    def reconciled
-      reconciled = CSV::Table.new([])
-      reconciled = CSV.table(csv_file, converters: nil) if csv_file_exists?
-      reconciled
+    def previously_reconciled
+      csv_file_exists? ? CSV.table(csv_file, converters: nil) : CSV::Table.new([])
     end
 
     private
@@ -36,15 +34,15 @@ module Reconciliation
     def template
       @template ||= Template.new(
         matched: matched,
-        reconciled: reconciled,
-        incoming_field: merger[:incoming_field],
-        existing_field: merger[:existing_field]
+        reconciled: previously_reconciled,
+        incoming_field: merge_instructions[:incoming_field],
+        existing_field: merge_instructions[:existing_field]
       )
     end
 
     def need_reconciling
       @need_reconciling ||= incoming_data.find_all do |d|
-        reconciler.find_all(d).to_a.empty? && !reconciled.any? do |r|
+        matcher.find_all(d).to_a.empty? && !previously_reconciled.any? do |r|
           r[:id].to_s == d[:id]
         end
       end
@@ -55,8 +53,8 @@ module Reconciliation
     end
 
     def csv_file
-      return unless merger[:reconciliation_file]
-      @csv_file ||= File.join('sources', merger[:reconciliation_file])
+      return unless merge_instructions[:reconciliation_file]
+      @csv_file ||= File.join('sources', merge_instructions[:reconciliation_file])
     end
 
     def html_file
@@ -64,15 +62,15 @@ module Reconciliation
     end
 
     def matched
-      @matched ||= fuzzer.find_all.sort_by { |row| row[:existing].first[1] }.reverse
+      @matched ||= fuzzer.score_all.sort_by { |row| row[:existing].first[1] }.reverse
     end
 
     def fuzzer
-      @fuzzer ||= Fuzzer.new(merged_rows, need_reconciling, merger)
+      @fuzzer ||= Fuzzer.new(merged_rows, need_reconciling, merge_instructions)
     end
 
-    def reconciler
-      @reconciler ||= Reconciler::Fuzzy.new(merged_rows, merger, reconciled)
+    def matcher
+      @matcher ||= Matcher::Reconciled.new(merged_rows, merge_instructions, previously_reconciled)
     end
   end
 end
