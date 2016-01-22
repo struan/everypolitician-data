@@ -70,7 +70,7 @@ module Reconciliation
     end
 
     def matcher
-      @matcher ||= Matcher::Fuzzy.new(merged_rows, merge_instructions, previously_reconciled)
+      @matcher ||= Matcher::Reconciled.new(merged_rows, merge_instructions, previously_reconciled)
     end
   end
 end

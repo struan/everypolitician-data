@@ -18,7 +18,7 @@ class Matcher
   end
 end
 
-class Matcher::Fuzzy < Matcher
+class Matcher::Reconciled < Matcher
   def find_all(incoming_row)
     if match = @_reconciled[incoming_row[:id].to_s]
       return existing_by_uuid[match[:uuid].to_s] if match[:uuid]
