@@ -64,7 +64,7 @@ module Reconciliation
     end
 
     def matched
-      @matched ||= fuzzer.find_all.sort_by { |row| row[:existing].first[1] }.reverse
+      @matched ||= fuzzer.score_all.sort_by { |row| row[:existing].first[1] }.reverse
     end
 
     def fuzzer

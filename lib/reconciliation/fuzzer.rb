@@ -32,7 +32,7 @@ module Reconciliation
       @_fuzzer ||= FuzzyMatch.new( existing_people, read: :fuzzit )
     end
 
-    def find_all
+    def score_all
       incoming_rows.map do |incoming_row|
         if incoming_row[incoming_field].to_s.empty?
           warn "No #{incoming_field} in #{incoming_row.reject { |k, v| v.to_s.empty? }}".red
