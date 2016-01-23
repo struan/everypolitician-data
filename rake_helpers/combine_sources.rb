@@ -119,6 +119,11 @@ namespace :merge_sources do
   # http://codereview.stackexchange.com/questions/84290/combining-csvs-using-ruby-to-match-headers
   def combine_sources
 
+    # Make sure all instructions have a `type`
+    if (no_type = instructions(:sources).find { |src| src[:type].to_s.empty? })
+      raise "Missing `type` in #{no_type} file"
+    end
+
     # Build the master list of columns
     all_headers = instructions(:sources).find_all { |src|
       src[:type] != 'term'
@@ -129,11 +134,6 @@ namespace :merge_sources do
     all_headers |= [:id]
 
     merged_rows = []
-
-    # Make sure all instructions have a `type`
-    if (no_type = instructions(:sources).find { |src| src[:type].to_s.empty? })
-      raise "Missing `type` in #{no_type} file"
-    end
 
     # First get all the `membership` rows.
     # Assume for now that each is unique, and simply concat them
