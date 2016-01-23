@@ -2206,9 +2206,9 @@
         "sources_directory": "data/Estonia/Riigikogu/sources",
         "popolo": "data/Estonia/Riigikogu/ep-popolo-v1.0.json",
         "names": "data/Estonia/Riigikogu/names.csv",
-        "lastmod": "1453533351",
-        "person_count": 127,
-        "sha": "eedfac4",
+        "lastmod": "1453580037",
+        "person_count": 192,
+        "sha": "7c297a4",
         "legislative_periods": [
           {
             "id": "term/13",
@@ -2217,6 +2217,15 @@
             "wikidata": "Q20530392",
             "slug": "13",
             "csv": "data/Estonia/Riigikogu/term-13.csv"
+          },
+          {
+            "end_date": "2015-03-23",
+            "id": "term/12",
+            "name": "12th Riigikogu",
+            "start_date": "2011-03-27",
+            "wikidata": "Q967549",
+            "slug": "12",
+            "csv": "data/Estonia/Riigikogu/term-12.csv"
           }
         ]
       }
