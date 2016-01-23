@@ -1,5 +1,5 @@
 module Reconciliation
-  # Interface for reconciling incoming data
+  # Produce an HTML interface for reconciling incoming data
   class Interface
     attr_reader :merged_rows
     attr_reader :incoming_data
@@ -13,16 +13,8 @@ module Reconciliation
       @merge_instructions = merge_instructions
     end
 
-    def generate!
-      return unless merge_instructions[:reconciliation_file]
-
-      FileUtils.mkdir_p(File.dirname(csv_file))
-      File.write(html_file, template.render)
-      if need_reconciling.any?
-        warn "#{need_reconciling.size} out of #{incoming_data.size} rows " \
-          'not reconciled'.red
-      end
-      return html_file
+    def html
+      template.render
     end
 
     private
@@ -42,19 +34,6 @@ module Reconciliation
           r[:id].to_s == d[:id]
         end
       end
-    end
-
-    def csv_file_exists?
-      csv_file && File.exist?(csv_file)
-    end
-
-    def csv_file
-      return unless merge_instructions[:reconciliation_file]
-      @csv_file ||= File.join('sources', merge_instructions[:reconciliation_file])
-    end
-
-    def html_file
-      @html_file ||= csv_file.gsub('.csv', '.html')
     end
 
     def matched

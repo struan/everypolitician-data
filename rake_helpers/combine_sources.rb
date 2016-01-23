@@ -196,8 +196,9 @@ namespace :merge_sources do
           previously_reconciled = File.exist?(reconciliation_file) ? CSV.table(reconciliation_file, converters: nil) : CSV::Table.new([])
 
           if ENV['GENERATE_RECONCILIATION_INTERFACE']
-            reconciliation = Reconciliation::Interface.new(merged_rows, incoming_data, previously_reconciled, merge_instructions)
-            html_file = reconciliation.generate! 
+            html_file = reconciliation_file.sub('.csv', '.html')
+            interface = Reconciliation::Interface.new(merged_rows, incoming_data, previously_reconciled, merge_instructions)
+            File.write(html_file, interface.html)
             abort "Created #{html_file} — please check it and re-run".green 
           end
 
