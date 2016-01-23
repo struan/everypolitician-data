@@ -20,9 +20,7 @@ module Reconciliation
         warn "#{need_reconciling.size} out of #{incoming_data.size} rows " \
           'not reconciled'.red
       end
-      return if csv_file_exists?
-      warn "Need to create #{csv_file}".cyan
-      abort "Created #{html_file} — please check it and re-run".green
+      return html_file
     end
 
     def previously_reconciled

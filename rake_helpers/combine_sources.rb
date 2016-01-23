@@ -195,10 +195,12 @@ namespace :merge_sources do
           # TODO complain if this isn't the last step — all prior ones
           # should be exact matches
           reconciliation = Reconciliation::Interface.new(merged_rows, incoming_data, merge_instructions)
-          reconciliation.generate!
-          # If no Reconciliation field exists, the above 'generate!' will
-          # abort until one is generated (usually via the HTML interface)
-          # so we proceed if we have previously reconciled data
+          html_file = reconciliation.generate! 
+
+          # If we have reconciliation data from a prior run, we can
+          # use that, otherwise we need to wait for reconciliation
+          abort "Created #{html_file} — please check it and re-run".green unless 
+            File.exist? File.join('sources', merge_instructions[:reconciliation_file])
           matcher = Matcher::Reconciled.new(merged_rows, merge_instructions, reconciliation.previously_reconciled)
         else 
           matcher = Matcher::Exact.new(merged_rows, merge_instructions)
