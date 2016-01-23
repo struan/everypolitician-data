@@ -9,6 +9,19 @@
       "type": "membership"
     },
     {
+      "file": "google/sheet-12.csv",
+      "create": {
+        "url": "https://docs.google.com/spreadsheets/d/1TMDfyfw8Olem6QolgCAG-sotyDdye7nkCb0kUhuKHNc/export?gid=213833954&format=csv"
+      },
+      "source": "http://riigikogu.ee/",
+      "merge": {
+        "incoming_field": "name",
+        "existing_field": "name",
+        "reconciliation_file": "reconciliation/sheet-12.csv"
+      },
+      "type": "membership"
+    },
+    {
       "file": "morph/data.csv",
       "create": {
         "type": "morph",
