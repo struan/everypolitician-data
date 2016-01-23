@@ -192,14 +192,22 @@ namespace :merge_sources do
         end
 
         if merge_instructions.key? :reconciliation_file
-          # TODO complain if this isn't the last step — all prior ones
-          # should be exact matches
-          reconciliation = Reconciliation::Interface.new(merged_rows, incoming_data, merge_instructions)
-          reconciliation.generate!
-          # If no Reconciliation field exists, the above 'generate!' will
-          # abort until one is generated (usually via the HTML interface)
-          # so we proceed if we have previously reconciled data
-          matcher = Matcher::Reconciled.new(merged_rows, merge_instructions, reconciliation.previously_reconciled)
+          reconciliation_file = File.join('sources', merge_instructions[:reconciliation_file])
+          previously_reconciled = File.exist?(reconciliation_file) ? CSV.table(reconciliation_file, converters: nil) : CSV::Table.new([])
+
+          if ENV['GENERATE_RECONCILIATION_INTERFACE']
+            reconciliation = Reconciliation::Interface.new(merged_rows, incoming_data, previously_reconciled, merge_instructions)
+            html_file = reconciliation.generate! 
+            abort "Created #{html_file} — please check it and re-run".green 
+          end
+
+          # If we have reconciliation data from a prior run, we can
+          # use that, otherwise we need to wait for reconciliation
+          if previously_reconciled.any?
+            matcher = Matcher::Reconciled.new(merged_rows, merge_instructions, previously_reconciled)
+          else 
+            abort "No reconciliation data. Rerun with GENERATE_RECONCILIATION_INTERFACE=1"
+          end
         else 
           matcher = Matcher::Exact.new(merged_rows, merge_instructions)
         end

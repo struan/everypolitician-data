@@ -3,11 +3,13 @@ module Reconciliation
   class Interface
     attr_reader :merged_rows
     attr_reader :incoming_data
+    attr_reader :previously_reconciled
     attr_reader :merge_instructions
 
-    def initialize(merged_rows, incoming_data, merge_instructions)
+    def initialize(merged_rows, incoming_data, previously_reconciled, merge_instructions)
       @merged_rows = merged_rows
       @incoming_data = incoming_data
+      @previously_reconciled = previously_reconciled
       @merge_instructions = merge_instructions
     end
 
@@ -20,13 +22,7 @@ module Reconciliation
         warn "#{need_reconciling.size} out of #{incoming_data.size} rows " \
           'not reconciled'.red
       end
-      return if csv_file_exists?
-      warn "Need to create #{csv_file}".cyan
-      abort "Created #{html_file} — please check it and re-run".green
-    end
-
-    def previously_reconciled
-      csv_file_exists? ? CSV.table(csv_file, converters: nil) : CSV::Table.new([])
+      return html_file
     end
 
     private
