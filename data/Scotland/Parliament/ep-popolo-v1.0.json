@@ -12074,8 +12074,28 @@
       ]
     },
     {
+      "gender": "female",
       "id": "109664e1-add7-4de6-878e-1cfe0af753ad",
-      "name": "Lesley Brennan"
+      "identifiers": [
+        {
+          "identifier": "Q22131946",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Lesley_Brennan"
+        }
+      ],
+      "name": "Lesley Brennan",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Lesley Brennan",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1957-01-01",
@@ -14488,6 +14508,11 @@
         {
           "lang": "fr",
           "name": "Michael McMahon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Michael McMahon (Scottish politician)",
           "note": "multilingual"
         }
       ]
@@ -18192,6 +18217,11 @@
           "lang": "fr",
           "name": "Stefan Tymkewycz",
           "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Stefan Tymkewycz",
+          "note": "multilingual"
         }
       ]
     },
@@ -18422,6 +18452,11 @@
         },
         {
           "lang": "nb",
+          "name": "Stuart McMillan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Stuart McMillan",
           "note": "multilingual"
         },
