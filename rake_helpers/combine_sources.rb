@@ -158,10 +158,9 @@ namespace :merge_sources do
 
         # If the row has no ID, we'll need something we can treate as one
         # This 'pseudo id' defaults to slugified 'name' unless provided 
-        # binding.pry
-        row[:pseudoid] = row[:name].downcase.gsub(/\s+/, '_') unless (row[:id] || row[:pseudoid])
+        row[:id] ||= row[:name].downcase.gsub(/\s+/, '_') 
         # Assume that incoming data has no useful uuid column
-        row[:uuid] = id_map[row[:id] || row[:pseudoid]] ||= SecureRandom.uuid
+        row[:uuid] = id_map[row[:id]] ||= SecureRandom.uuid
         merged_rows << row.to_hash
       end
 
