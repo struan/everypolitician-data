@@ -153,12 +153,15 @@ namespace :merge_sources do
       # TODO: add 'reject' and more complex expressions
       filter = src.key?(:filter) ? ->(row) { src[:filter][:accept].all? { |k, v| row[k] == v } } : nil
 
-      table.each do |row|
+      incoming_data = table.map do |row|
         next if filter and not filter.call(row)
-
         # If the row has no ID, we'll need something we can treate as one
         # This 'pseudo id' defaults to slugified 'name' unless provided 
         row[:id] ||= row[:name].downcase.gsub(/\s+/, '_') 
+        row
+      end.compact
+
+      incoming_data.each do |row|
         # Assume that incoming data has no useful uuid column
         row[:uuid] = id_map[row[:id]] ||= SecureRandom.uuid
         merged_rows << row.to_hash
