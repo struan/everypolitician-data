@@ -1,12 +1,12 @@
 module Reconciliation
   class Template
-    attr_reader :matched
+    attr_reader :to_reconcile
     attr_reader :reconciled
     attr_reader :incoming_field
     attr_reader :existing_field
 
     def initialize(opts)
-      @matched = opts[:matched]
+      @to_reconcile = opts[:to_reconcile]
       @reconciled = opts[:reconciled]
       @incoming_field = opts[:incoming_field]
       @existing_field = opts[:existing_field]

@@ -21,7 +21,7 @@ module Reconciliation
 
     def template
       @template ||= Template.new(
-        matched: matched,
+        to_reconcile: to_reconcile,
         reconciled: previously_reconciled,
         incoming_field: merge_instructions[:incoming_field],
         existing_field: merge_instructions[:existing_field]
@@ -33,8 +33,8 @@ module Reconciliation
       incoming_data.reject { |r| done.include? r[:id].to_s }
     end
 
-    def matched
-      @matched ||= fuzzer.score_all.sort_by { |row| row[:existing].first[1] }.reverse
+    def to_reconcile
+      @to_reconcile ||= fuzzer.score_all.sort_by { |row| row[:existing].first[1] }.reverse
     end
 
     def fuzzer
