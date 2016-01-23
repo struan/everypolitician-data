@@ -165,7 +165,8 @@ namespace :merge_sources do
           reconciliation_file = File.join('sources', merge_instructions[:reconciliation_file])
           previously_reconciled = File.exist?(reconciliation_file) ? CSV.table(reconciliation_file, converters: nil) : CSV::Table.new([])
 
-          if ENV['GENERATE_RECONCILIATION_INTERFACE']
+          if ENV['GENERATE_RECONCILIATION_INTERFACE'] && reconciliation_file.include?(ENV['GENERATE_RECONCILIATION_INTERFACE'])
+            binding.pry
             html_file = reconciliation_file.sub('.csv', '.html')
             interface = Reconciliation::Interface.new(merged_rows, incoming_data.uniq { |r| r[:id] }, previously_reconciled, merge_instructions)
             File.write(html_file, interface.html)
@@ -177,7 +178,7 @@ namespace :merge_sources do
           if previously_reconciled.any?
             previously_reconciled.each { |r| id_map[r[:id]] = r[:uuid] } 
           else 
-            abort "No reconciliation data. Rerun with GENERATE_RECONCILIATION_INTERFACE=1"
+            abort "No reconciliation data. Rerun with GENERATE_RECONCILIATION_INTERFACE=#{File.basename(reconciliation_file, '.csv')}"
           end
         else 
           abort "Don't know yet how to merge memberships without a reconciliation_file"
@@ -222,7 +223,7 @@ namespace :merge_sources do
           reconciliation_file = File.join('sources', merge_instructions[:reconciliation_file])
           previously_reconciled = File.exist?(reconciliation_file) ? CSV.table(reconciliation_file, converters: nil) : CSV::Table.new([])
 
-          if ENV['GENERATE_RECONCILIATION_INTERFACE']
+          if ENV['GENERATE_RECONCILIATION_INTERFACE'] && reconciliation_file.include?(ENV['GENERATE_RECONCILIATION_INTERFACE'])
             html_file = reconciliation_file.sub('.csv', '.html')
             interface = Reconciliation::Interface.new(merged_rows, incoming_data, previously_reconciled, merge_instructions)
             File.write(html_file, interface.html)
@@ -234,7 +235,7 @@ namespace :merge_sources do
           if previously_reconciled.any?
             matcher = Matcher::Reconciled.new(merged_rows, merge_instructions, previously_reconciled)
           else 
-            abort "No reconciliation data. Rerun with GENERATE_RECONCILIATION_INTERFACE=1"
+            abort "No reconciliation data. Rerun with GENERATE_RECONCILIATION_INTERFACE=#{File.basename(reconciliation_file, '.csv')}"
           end
         else 
           matcher = Matcher::Exact.new(merged_rows, merge_instructions)
