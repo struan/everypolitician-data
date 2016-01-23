@@ -193,14 +193,15 @@ namespace :merge_sources do
 
         if merge_instructions.key? :reconciliation_file
           reconciliation_file = File.join('sources', merge_instructions[:reconciliation_file])
+          previously_reconciled = File.exist?(reconciliation_file) ? CSV.table(reconciliation_file, converters: nil) : CSV::Table.new([])
 
-          reconciliation = Reconciliation::Interface.new(merged_rows, incoming_data, merge_instructions)
+          reconciliation = Reconciliation::Interface.new(merged_rows, incoming_data, previously_reconciled, merge_instructions)
           html_file = reconciliation.generate! 
 
           # If we have reconciliation data from a prior run, we can
           # use that, otherwise we need to wait for reconciliation
-          if File.exist? reconciliation_file
-            matcher = Matcher::Reconciled.new(merged_rows, merge_instructions, CSV.table(reconciliation_file, converters: nil))
+          if previously_reconciled.any?
+            matcher = Matcher::Reconciled.new(merged_rows, merge_instructions, previously_reconciled)
           else 
             abort "Created #{html_file} — please check it and re-run".green 
           end

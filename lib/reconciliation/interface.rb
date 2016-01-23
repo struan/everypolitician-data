@@ -3,11 +3,13 @@ module Reconciliation
   class Interface
     attr_reader :merged_rows
     attr_reader :incoming_data
+    attr_reader :previously_reconciled
     attr_reader :merge_instructions
 
-    def initialize(merged_rows, incoming_data, merge_instructions)
+    def initialize(merged_rows, incoming_data, previously_reconciled, merge_instructions)
       @merged_rows = merged_rows
       @incoming_data = incoming_data
+      @previously_reconciled = previously_reconciled
       @merge_instructions = merge_instructions
     end
 
@@ -21,10 +23,6 @@ module Reconciliation
           'not reconciled'.red
       end
       return html_file
-    end
-
-    def previously_reconciled
-      csv_file_exists? ? CSV.table(csv_file, converters: nil) : CSV::Table.new([])
     end
 
     private
