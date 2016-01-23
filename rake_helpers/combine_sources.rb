@@ -135,8 +135,7 @@ namespace :merge_sources do
 
     merged_rows = []
 
-    # First get all the `membership` rows.
-    # Assume for now that each is unique, and simply concat them
+    # First get all the `membership` rows, and either merge or concat
 
     instructions(:sources).find_all { |src| src[:type].to_s.downcase == 'membership' }.each do |src|
       file = src[:file]
@@ -160,6 +159,32 @@ namespace :merge_sources do
         row[:id] ||= row[:name].downcase.gsub(/\s+/, '_') 
         row
       end.compact
+
+      if merge_instructions = src[:merge]
+        if merge_instructions.key? :reconciliation_file
+          reconciliation_file = File.join('sources', merge_instructions[:reconciliation_file])
+          previously_reconciled = File.exist?(reconciliation_file) ? CSV.table(reconciliation_file, converters: nil) : CSV::Table.new([])
+
+          if ENV['GENERATE_RECONCILIATION_INTERFACE']
+            html_file = reconciliation_file.sub('.csv', '.html')
+            interface = Reconciliation::Interface.new(merged_rows, incoming_data.uniq { |r| r[:id] }, previously_reconciled, merge_instructions)
+            File.write(html_file, interface.html)
+            abort "Created #{html_file} — please check it and re-run".green 
+          end
+
+          # If we have reconciliation data from a prior run, we can
+          # use those IDs, otherwise we need to wait for reconciliation
+          if previously_reconciled.any?
+            previously_reconciled.each { |r| id_map[r[:id]] = r[:uuid] } 
+          else 
+            abort "No reconciliation data. Rerun with GENERATE_RECONCILIATION_INTERFACE=1"
+          end
+        else 
+          abort "Don't know yet how to merge memberships without a reconciliation_file"
+        end
+      else
+        warn "No merge instructions — all new Memberships"
+      end
 
       incoming_data.each do |row|
         # Assume that incoming data has no useful uuid column
