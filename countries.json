@@ -2445,10 +2445,18 @@
         "sources_directory": "data/Finland/Eduskunta/sources",
         "popolo": "data/Finland/Eduskunta/ep-popolo-v1.0.json",
         "names": "data/Finland/Eduskunta/names.csv",
-        "lastmod": "1453549408",
-        "person_count": 432,
-        "sha": "a43deee",
+        "lastmod": "1453624698",
+        "person_count": 493,
+        "sha": "882c2d5",
         "legislative_periods": [
+          {
+            "end_date": "2019",
+            "id": "term/37",
+            "name": "Eduskunta 37",
+            "start_date": "2015-04-28",
+            "slug": "37",
+            "csv": "data/Finland/Eduskunta/term-37.csv"
+          },
           {
             "end_date": "2015-03-14",
             "id": "term/36",
