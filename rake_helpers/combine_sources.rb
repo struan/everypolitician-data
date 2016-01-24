@@ -166,7 +166,6 @@ namespace :merge_sources do
           previously_reconciled = File.exist?(reconciliation_file) ? CSV.table(reconciliation_file, converters: nil) : CSV::Table.new([])
 
           if ENV['GENERATE_RECONCILIATION_INTERFACE'] && reconciliation_file.include?(ENV['GENERATE_RECONCILIATION_INTERFACE'])
-            binding.pry
             html_file = reconciliation_file.sub('.csv', '.html')
             interface = Reconciliation::Interface.new(merged_rows, incoming_data.uniq { |r| r[:id] }, previously_reconciled, merge_instructions)
             File.write(html_file, interface.html)
@@ -184,7 +183,7 @@ namespace :merge_sources do
           abort "Don't know yet how to merge memberships without a reconciliation_file"
         end
       else
-        warn "No merge instructions — all new Memberships"
+        # warn "No merge instructions — all new Memberships"
       end
 
       incoming_data.each do |row|
