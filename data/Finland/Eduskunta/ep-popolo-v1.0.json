@@ -11355,6 +11355,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "nl",
+          "name": "Janne Seurujärvi",
+          "note": "multilingual"
+        },
+        {
           "lang": "nn",
           "name": "Janne Seurujärvi",
           "note": "multilingual"
@@ -27499,8 +27504,368 @@
       ]
     },
     {
+      "birth_date": "1962-03-31",
+      "gender": "male",
+      "given_name": "Olli",
       "id": "a6cfddb1-fb4a-419f-b5a7-585c9742543d",
-      "name": "Olli Rehn"
+      "identifiers": [
+        {
+          "identifier": "356",
+          "scheme": "eduskunta"
+        },
+        {
+          "identifier": "2119",
+          "scheme": "europarlmep"
+        },
+        {
+          "identifier": "/m/04pkc9",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "132271265",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "222137",
+          "scheme": "gtaa"
+        },
+        {
+          "identifier": "9542",
+          "scheme": "kansallisbiografia"
+        },
+        {
+          "identifier": "n98014642",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "00000024997",
+          "scheme": "munzinger"
+        },
+        {
+          "identifier": "vgu719bwydma",
+          "scheme": "parlement"
+        },
+        {
+          "identifier": "158544560",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "8542588",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q294411",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Olli_Rehn_by_Moritz_Kosinsky_2.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Olli_Rehn_by_Moritz_Kosinsky_2.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (be)",
+          "url": "https://be.wikipedia.org/wiki/Олі_Рэн"
+        },
+        {
+          "note": "Wikipedia (be_x_old)",
+          "url": "https://be_x_old.wikipedia.org/wiki/Олі_Рэн"
+        },
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Оли_Рен"
+        },
+        {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Olli_Ilmari_Rehn"
+        },
+        {
+          "note": "Wikipedia (cs)",
+          "url": "https://cs.wikipedia.org/wiki/Olli_Rehn"
+        },
+        {
+          "note": "Wikipedia (cswikiquote)",
+          "url": "https://cswikiquote.wikipedia.org/wiki/Olli_Rehn"
+        },
+        {
+          "note": "Wikipedia (da)",
+          "url": "https://da.wikipedia.org/wiki/Olli_Rehn"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Olli_Rehn"
+        },
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Όλι_Ρεν"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Olli_Rehn"
+        },
+        {
+          "note": "Wikipedia (enwikiquote)",
+          "url": "https://enwikiquote.wikipedia.org/wiki/Olli_Rehn"
+        },
+        {
+          "note": "Wikipedia (eo)",
+          "url": "https://eo.wikipedia.org/wiki/Olli_Rehn"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Olli_Rehn"
+        },
+        {
+          "note": "Wikipedia (et)",
+          "url": "https://et.wikipedia.org/wiki/Olli_Rehn"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Olli_Rehn"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Olli_Rehn"
+        },
+        {
+          "note": "Wikipedia (ga)",
+          "url": "https://ga.wikipedia.org/wiki/Olli_Rehn"
+        },
+        {
+          "note": "Wikipedia (hr)",
+          "url": "https://hr.wikipedia.org/wiki/Olli_Rehn"
+        },
+        {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/Olli_Rehn"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Olli_Rehn"
+        },
+        {
+          "note": "Wikipedia (mg)",
+          "url": "https://mg.wikipedia.org/wiki/Olli_Rehn"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Olli_Rehn"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Olli_Rehn"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Olli_Rehn"
+        },
+        {
+          "note": "Wikipedia (plwikiquote)",
+          "url": "https://plwikiquote.wikipedia.org/wiki/Olli_Rehn"
+        },
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Olli_Rehn"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Рен,_Олли"
+        },
+        {
+          "note": "Wikipedia (sh)",
+          "url": "https://sh.wikipedia.org/wiki/Olli_Rehn"
+        },
+        {
+          "note": "Wikipedia (sq)",
+          "url": "https://sq.wikipedia.org/wiki/Oli_Rehn"
+        },
+        {
+          "note": "Wikipedia (sr)",
+          "url": "https://sr.wikipedia.org/wiki/Oli_Ren"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Olli_Rehn"
+        },
+        {
+          "note": "Wikipedia (tr)",
+          "url": "https://tr.wikipedia.org/wiki/Olli_Rehn"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Оллі_Рен"
+        }
+      ],
+      "name": "Olli Rehn",
+      "other_names": [
+        {
+          "lang": "be",
+          "name": "Олі Рэн",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be-tarask",
+          "name": "Олі Рэн",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Оли Рен",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Olli Ilmari Rehn",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Olli Rehn",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Olli Rehn",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Olli Rehn",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Όλι Ρεν",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Olli Rehn",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Olli Rehn",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Olli Rehn",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Olli Rehn",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Olli Rehn",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Olli Rehn",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "Olli Rehn",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Olli Rehn",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Olli Rehn",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Olli Rehn",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mg",
+          "name": "Olli Rehn",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Olli Rehn",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Olli Rehn",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Olli Rehn",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Olli Rehn",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Olli Rehn",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Рен, Олли",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Olli Rehn",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sq",
+          "name": "Oli Rehn",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Оли Рен",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-ec",
+          "name": "Оли Рен",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-el",
+          "name": "Oli Ren",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Olli Rehn",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Olli Rehn",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Оллі Рен",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1964-06-25",
@@ -42381,6 +42746,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "nl",
+          "name": "Tuomo Puumala",
+          "note": "multilingual"
+        },
+        {
           "lang": "ru",
           "name": "Пуумала, Туомо",
           "note": "multilingual"
@@ -42784,6 +43154,11 @@
         },
         {
           "lang": "fr",
+          "name": "Tytti Isohookana-Asunmaa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Tytti Isohookana-Asunmaa",
           "note": "multilingual"
         },
@@ -55934,6 +56309,11 @@
   "events": [
     {
       "classification": "legislative period",
+      "id": "term/37",
+      "name": "37"
+    },
+    {
+      "classification": "legislative period",
       "end_date": "1972-01-21",
       "id": "term/25",
       "name": "Eduskunta 25",
@@ -56027,14 +56407,6 @@
       "name": "Eduskunta 36",
       "organization_id": "legislature",
       "start_date": "2011-04-20"
-    },
-    {
-      "classification": "legislative period",
-      "end_date": "2019",
-      "id": "term/37",
-      "name": "Eduskunta 37",
-      "organization_id": "legislature",
-      "start_date": "2015-04-28"
     }
   ],
   "areas": [
