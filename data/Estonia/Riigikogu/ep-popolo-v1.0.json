@@ -1141,8 +1141,547 @@
     },
     {
       "birth_date": "1956-10-01",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "Ansip_EU"
+        }
+      ],
+      "gender": "male",
+      "given_name": "Andrus",
       "id": "062854b4-591c-4c47-83e4-bf0c20c64ef3",
-      "name": "Andrus Ansip"
+      "identifiers": [
+        {
+          "identifier": "124696",
+          "scheme": "europarlmep"
+        },
+        {
+          "identifier": "/m/05q329",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "238170",
+          "scheme": "gtaa"
+        },
+        {
+          "identifier": "851/000162365",
+          "scheme": "nndb"
+        },
+        {
+          "identifier": "vhyzn0vt5cvu",
+          "scheme": "parlement"
+        },
+        {
+          "identifier": "Q57640",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/61/Portrait_Andrus_Ansip.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Portrait_Andrus_Ansip.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/أندروس_أنسيب"
+        },
+        {
+          "note": "Wikipedia (be)",
+          "url": "https://be.wikipedia.org/wiki/Андрус_Ансіп"
+        },
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Андрус_Ансип"
+        },
+        {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Andrus_Ansip"
+        },
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Andrus_Ansip"
+        },
+        {
+          "note": "Wikipedia (cs)",
+          "url": "https://cs.wikipedia.org/wiki/Andrus_Ansip"
+        },
+        {
+          "note": "Wikipedia (da)",
+          "url": "https://da.wikipedia.org/wiki/Andrus_Ansip"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Andrus_Ansip"
+        },
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Άντρους_Άνσιπ"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Andrus_Ansip"
+        },
+        {
+          "note": "Wikipedia (enwikiquote)",
+          "url": "https://enwikiquote.wikipedia.org/wiki/Andrus_Ansip"
+        },
+        {
+          "note": "Wikipedia (eo)",
+          "url": "https://eo.wikipedia.org/wiki/Andrus_Ansip"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Andrus_Ansip"
+        },
+        {
+          "note": "Wikipedia (et)",
+          "url": "https://et.wikipedia.org/wiki/Andrus_Ansip"
+        },
+        {
+          "note": "Wikipedia (etwikiquote)",
+          "url": "https://etwikiquote.wikipedia.org/wiki/Andrus_Ansip"
+        },
+        {
+          "note": "Wikipedia (eu)",
+          "url": "https://eu.wikipedia.org/wiki/Andrus_Ansip"
+        },
+        {
+          "note": "Wikipedia (fa)",
+          "url": "https://fa.wikipedia.org/wiki/آندروس_آنسیپ"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Andrus_Ansip"
+        },
+        {
+          "note": "Wikipedia (fiwikiquote)",
+          "url": "https://fiwikiquote.wikipedia.org/wiki/Andrus_Ansip"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Andrus_Ansip"
+        },
+        {
+          "note": "Wikipedia (ga)",
+          "url": "https://ga.wikipedia.org/wiki/Andrus_Ansip"
+        },
+        {
+          "note": "Wikipedia (gl)",
+          "url": "https://gl.wikipedia.org/wiki/Andrus_Ansip"
+        },
+        {
+          "note": "Wikipedia (he)",
+          "url": "https://he.wikipedia.org/wiki/אנדרוס_אנסיפ"
+        },
+        {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/Andrus_Ansip"
+        },
+        {
+          "note": "Wikipedia (id)",
+          "url": "https://id.wikipedia.org/wiki/Andrus_Ansip"
+        },
+        {
+          "note": "Wikipedia (ie)",
+          "url": "https://ie.wikipedia.org/wiki/Andrus_Ansip"
+        },
+        {
+          "note": "Wikipedia (io)",
+          "url": "https://io.wikipedia.org/wiki/Andrus_Ansip"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Andrus_Ansip"
+        },
+        {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/アンドルス・アンシプ"
+        },
+        {
+          "note": "Wikipedia (ka)",
+          "url": "https://ka.wikipedia.org/wiki/ანდრუს_ანსიპი"
+        },
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/안드루스_안시프"
+        },
+        {
+          "note": "Wikipedia (la)",
+          "url": "https://la.wikipedia.org/wiki/Andreas_Ansip"
+        },
+        {
+          "note": "Wikipedia (lb)",
+          "url": "https://lb.wikipedia.org/wiki/Andrus_Ansip"
+        },
+        {
+          "note": "Wikipedia (lt)",
+          "url": "https://lt.wikipedia.org/wiki/Andrus_Ansip"
+        },
+        {
+          "note": "Wikipedia (lv)",
+          "url": "https://lv.wikipedia.org/wiki/Andruss_Ansips"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Andrus_Ansip"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Andrus_Ansip"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Andrus_Ansip"
+        },
+        {
+          "note": "Wikipedia (oc)",
+          "url": "https://oc.wikipedia.org/wiki/Andrus_Ansip"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Andrus_Ansip"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Andrus_Ansip"
+        },
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Andrus_Ansip"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Ансип,_Андрус"
+        },
+        {
+          "note": "Wikipedia (sco)",
+          "url": "https://sco.wikipedia.org/wiki/Andrus_Ansip"
+        },
+        {
+          "note": "Wikipedia (se)",
+          "url": "https://se.wikipedia.org/wiki/Andrus_Ansip"
+        },
+        {
+          "note": "Wikipedia (simple)",
+          "url": "https://simple.wikipedia.org/wiki/Andrus_Ansip"
+        },
+        {
+          "note": "Wikipedia (sl)",
+          "url": "https://sl.wikipedia.org/wiki/Andrus_Ansip"
+        },
+        {
+          "note": "Wikipedia (sr)",
+          "url": "https://sr.wikipedia.org/wiki/Андрус_Ансип"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Andrus_Ansip"
+        },
+        {
+          "note": "Wikipedia (tr)",
+          "url": "https://tr.wikipedia.org/wiki/Andrus_Ansip"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Андрус_Ансип"
+        },
+        {
+          "note": "Wikipedia (vi)",
+          "url": "https://vi.wikipedia.org/wiki/Andrus_Ansip"
+        },
+        {
+          "note": "Wikipedia (yo)",
+          "url": "https://yo.wikipedia.org/wiki/Andrus_Ansip"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/安德鲁斯·安西普"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/Ansip_EU"
+        }
+      ],
+      "name": "Andrus Ansip",
+      "other_names": [
+        {
+          "lang": "ar",
+          "name": "أندروس أنسيب",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be",
+          "name": "Андрус Ансіп",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Андрус Ансип",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Andrus Ansip",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Andrus Ansip",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Andrus Ansip",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Andrus Ansip",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de-ch",
+          "name": "Andrus Ansip",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Άντρους Άνσιπ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Andrus Ansip",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "Andrus Ansip",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "Andrus Ansip",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Andrus ANSIP",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Andrus Ansip",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Andrus Ansip",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "Andrus Ansip",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "آندروس آنسیپ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Andrus Ansip",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Andrus Ansip",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "Andrus Ansip",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Andrus Ansip",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "אנדרוס אנסיפ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Andrus Ansip",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Andrus Ansip",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Andrus Ansip",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ie",
+          "name": "Andrus Ansip",
+          "note": "multilingual"
+        },
+        {
+          "lang": "io",
+          "name": "Andrus Ansip",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Andrus Ansip",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "アンドルス・アンシプ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "ანდრუს ანსიპი",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "안드루스 안시프",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Andrus Ansip",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lb",
+          "name": "Andrus Ansip",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Andrus Ansip",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lv",
+          "name": "Andruss Ansips",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Andrus Ansip",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Andrus Ansip",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Andrus Ansip",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Andrus Ansip",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Andrus Ansip",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Andrus Ansip",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt-br",
+          "name": "Andrus Ansip",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Andrus Ansip",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Андрус Ансип",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "Andrus Ansip",
+          "note": "multilingual"
+        },
+        {
+          "lang": "se",
+          "name": "Andrus Ansip",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Andrus Ansip",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Andrus Ansip",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Андрус Ансип",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Andrus Ansip",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Andrus Ansip",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Андрус Ансип",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Andrus Ansip",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yo",
+          "name": "Andrus Ansip",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "安德鲁斯·安西普",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1965-12-29",
@@ -6143,8 +6682,154 @@
     },
     {
       "birth_date": "1946-10-08",
+      "gender": "male",
+      "given_name": "Jaak",
       "id": "0f616bd9-0e2d-4993-bee3-c7b3a6a82708",
-      "name": "Jaak Allik"
+      "identifiers": [
+        {
+          "identifier": "138625093",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "n86069858",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "58097438",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q1676747",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8b/SDE_Jaak_Allik.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/SDE_Jaak_Allik.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Jaak_Allik"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Jaak_Allik"
+        },
+        {
+          "note": "Wikipedia (et)",
+          "url": "https://et.wikipedia.org/wiki/Jaak_Allik"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Аллик,_Яак"
+        }
+      ],
+      "name": "Jaak Allik",
+      "other_names": [
+        {
+          "lang": "ca",
+          "name": "Jaak Allik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Jaak Allik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Jaak Allik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Jaak Allik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Jaak Allik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Jaak Allik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Jaak Allik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Jaak Allik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Jaak Allik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Jaak Allik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Jaak Allik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Jaak Allik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Jaak Allik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Jaak Allik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Jaak Allik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Jaak Allik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Яак Аллик",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Jaak Allik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Jaak Allik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Jaak Allik",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1991-04-22",
@@ -9763,8 +10448,193 @@
     },
     {
       "birth_date": "1966-12-17",
+      "gender": "female",
+      "given_name": "Kristiina",
       "id": "6c6e3b63-d1ac-4744-affe-e8545737a830",
-      "name": "Kristiina Ojuland"
+      "identifiers": [
+        {
+          "identifier": "97230",
+          "scheme": "europarlmep"
+        },
+        {
+          "identifier": "/m/039vv6",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q438802",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Ojuland_2014_by_Ave_Maria_Mõistlik.IMG_4740.JPG",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Ojuland_2014_by_Ave_Maria_Mõistlik.IMG_4740.JPG"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Kristiina_Ojuland"
+        },
+        {
+          "note": "Wikipedia (da)",
+          "url": "https://da.wikipedia.org/wiki/Kristiina_Ojuland"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Kristiina_Ojuland"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Kristiina_Ojuland"
+        },
+        {
+          "note": "Wikipedia (et)",
+          "url": "https://et.wikipedia.org/wiki/Kristiina_Ojuland"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Kristiina_Ojuland"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Kristiina_Ojuland"
+        },
+        {
+          "note": "Wikipedia (ka)",
+          "url": "https://ka.wikipedia.org/wiki/კრისტიინა_ოიულანდი"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Kristiina_Ojuland"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Kristiina_Ojuland"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Оюланд,_Кристийна"
+        }
+      ],
+      "name": "Kristiina Ojuland",
+      "other_names": [
+        {
+          "lang": "ca",
+          "name": "Kristiina Ojuland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Kristiina Ojuland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Kristiina Ojuland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Kristiina Ojuland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Kristiina Ojuland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Kristiina Ojuland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Kristiina Ojuland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Kristiina Ojuland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Kristiina Ojuland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Kristiina Ojuland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "კრისტიინა ოიულანდი",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Kristiina Ojuland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Kristiina Ojuland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Kristiina Ojuland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Kristiina Ojuland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Kristiina Ojuland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Kristiina Ojuland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Kristiina Ojuland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Kristiina Ojuland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Оюланд, Кристийна",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Kristiina Ojuland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Kristiina Ojuland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Kristiina Ojuland",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1982-12-26",
@@ -10186,8 +11056,171 @@
     },
     {
       "birth_date": "1960-03-22",
+      "gender": "male",
+      "given_name": "Lauri",
       "id": "07ed29a1-1e5b-4239-8337-64be5808e382",
-      "name": "Lauri Vahtre"
+      "identifiers": [
+        {
+          "identifier": "13579582m",
+          "scheme": "bnf"
+        },
+        {
+          "identifier": "/m/0cnxhjq",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "0000 0000 7837 5145",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "133815382",
+          "scheme": "nta"
+        },
+        {
+          "identifier": "057722056",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "49639996",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q3736786",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Lauri-Vahtre-2010.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Lauri-Vahtre-2010.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Lauri_Vahtre"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Lauri_Vahtre"
+        },
+        {
+          "note": "Wikipedia (et)",
+          "url": "https://et.wikipedia.org/wiki/Lauri_Vahtre"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Lauri_Vahtre"
+        }
+      ],
+      "name": "Lauri Vahtre",
+      "other_names": [
+        {
+          "lang": "ca",
+          "name": "Lauri Vahtre",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Lauri Vahtre",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Lauri Vahtre",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Lauri Vahtre",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Lauri Vahtre",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Lauri Vahtre",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Lauri Vahtre",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Lauri Vahtre",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Lauri Vahtre",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Lauri Vahtre",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Lauri Vahtre",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Lauri Vahtre",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Lauri Vahtre",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Lauri Vahtre",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Lauri Vahtre",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Lauri Vahtre",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Lauri Vahtre",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Lauri Vahtre",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Lauri Vahtre",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Lauri Vahtre",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Lauri Vahtre",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1952-12-29",
@@ -14207,8 +15240,251 @@
     },
     {
       "birth_date": "1942-01-19",
+      "gender": "male",
+      "given_name": "Paul",
       "id": "4abfac12-b57f-40f8-831c-15f0786e0e03",
-      "name": "Paul-Eerik Rummo"
+      "identifiers": [
+        {
+          "identifier": "12559644s",
+          "scheme": "bnf"
+        },
+        {
+          "identifier": "2515347",
+          "scheme": "discogs"
+        },
+        {
+          "identifier": "/m/099fl4",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "137168993",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "nm1451157",
+          "scheme": "imdb"
+        },
+        {
+          "identifier": "0000 0001 0919 8242",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "n88602716",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "0c4a0abf-2daa-43d3-b56a-edc7ea7cfe56",
+          "scheme": "musicbrainz"
+        },
+        {
+          "identifier": "074699121",
+          "scheme": "nta"
+        },
+        {
+          "identifier": "034892141",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "81397469",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q788525",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/Rummo,_Paul-Eerik.IMG_4500.JPG",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Rummo,_Paul-Eerik.IMG_4500.JPG"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Paul-Eerik_Rummo"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Paul-Eerik_Rummo"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Paul-Eerik_Rummo"
+        },
+        {
+          "note": "Wikipedia (et)",
+          "url": "https://et.wikipedia.org/wiki/Paul-Eerik_Rummo"
+        },
+        {
+          "note": "Wikipedia (etwikiquote)",
+          "url": "https://etwikiquote.wikipedia.org/wiki/Paul-Eerik_Rummo"
+        },
+        {
+          "note": "Wikipedia (fa)",
+          "url": "https://fa.wikipedia.org/wiki/پل-اریک_رومو"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Paul-Eerik_Rummo"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Paul-Eerik_Rummo"
+        },
+        {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/パウル＝エーリク・ルモ"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Paul-Eerik_Rummo"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Paul-Eerik_Rummo"
+        },
+        {
+          "note": "Wikipedia (oc)",
+          "url": "https://oc.wikipedia.org/wiki/Paul-Eerik_Rummo"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Paul-Eerik_Rummo"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Пауль-Еерік_Руммо"
+        }
+      ],
+      "name": "Paul-Eerik Rummo",
+      "other_names": [
+        {
+          "lang": "ca",
+          "name": "Paul-Eerik Rummo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Paul-Eerik Rummo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Paul-Eerik Rummo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Paul-Eerik Rummo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Paul-Eerik Rummo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Paul-Eerik Rummo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Paul-Eerik Rummo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "پل-اریک رومو",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Paul-Eerik Rummo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Paul-Eerik Rummo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Paul-Eerik Rummo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "パウル＝エーリク・ルモ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Paul-Eerik Rummo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Paul-Eerik Rummo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Paul-Eerik Rummo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Paul-Eerik Rummo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Paul-Eerik Rummo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Paul-Eerik Rummo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Paul-Eerik Rummo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Paul-Eerik Rummo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Paul-Eerik Rummo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Paul-Eerik Rummo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Paul-Eerik Rummo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Paul-Eerik Rummo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Пауль-Еерік Руммо",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1953-04-20",
@@ -15725,8 +17001,203 @@
     },
     {
       "birth_date": "1957-07-04",
+      "gender": "male",
+      "given_name": "Rein",
       "id": "4b060a08-805e-45c3-8477-f770d4e52c1a",
-      "name": "Rein Lang"
+      "identifiers": [
+        {
+          "identifier": "/m/058xsg",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q998617",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/11/Balticfestival_1c563_7266.Rein_Lang.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Balticfestival_1c563_7266.Rein_Lang.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Rein_Lang"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Rein_Lang"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Rein_Lang"
+        },
+        {
+          "note": "Wikipedia (et)",
+          "url": "https://et.wikipedia.org/wiki/Rein_Lang"
+        },
+        {
+          "note": "Wikipedia (etwikiquote)",
+          "url": "https://etwikiquote.wikipedia.org/wiki/Rein_Lang"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Rein_Lang"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Rein_Lang"
+        },
+        {
+          "note": "Wikipedia (id)",
+          "url": "https://id.wikipedia.org/wiki/Rein_Lang"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Rein_Lang"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Ланг,_Рейн"
+        },
+        {
+          "note": "Wikipedia (tr)",
+          "url": "https://tr.wikipedia.org/wiki/Rein_Lang"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Рейн_Ланг"
+        }
+      ],
+      "name": "Rein Lang",
+      "other_names": [
+        {
+          "lang": "ca",
+          "name": "Rein Lang",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Rein Lang",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Rein Lang",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Rein Lang",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Rein Lang",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Rein Lang",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Rein Lang",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Rein Lang",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Rein Lang",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Rein Lang",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Rein Lang",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Rein Lang",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Rein Lang",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Rein Lang",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Rein Lang",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Rein Lang",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Rein Lang",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Rein Lang",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Rein Lang",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Ланг, Рейн",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Rein Lang",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Rein Lang",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Rein Lang",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Rein Lang",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Рейн Ланг",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1956-06-24",
@@ -17938,8 +19409,163 @@
     },
     {
       "birth_date": "1953-03-29",
+      "gender": "male",
       "id": "06c667e1-ad6e-4d82-8881-baeeb6311493",
-      "name": "Tõnis Palts"
+      "identifiers": [
+        {
+          "identifier": "/m/027pydv",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q743319",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b2/IRL_Tõnis_Palts.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/IRL_Tõnis_Palts.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Tõnis_Palts"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Tõnis_Palts"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Tõnis_Palts"
+        },
+        {
+          "note": "Wikipedia (et)",
+          "url": "https://et.wikipedia.org/wiki/Tõnis_Palts"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Tõnis_Palts"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Пальтс,_Тынис"
+        }
+      ],
+      "name": "Tõnis Palts",
+      "other_names": [
+        {
+          "lang": "ca",
+          "name": "Tõnis Palts",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Tõnis Palts",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Tõnis Palts",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Tõnis Palts",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Tõnis Palts",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Tõnis Palts",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Tõnis Palts",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Tõnis Palts",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Tõnis Palts",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Tõnis Palts",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Tõnis Palts",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Tõnis Palts",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Tõnis Palts",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Tõnis Palts",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Tõnis Palts",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Tõnis Palts",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Tõnis Palts",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Tõnis Palts",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Пальтс, Тынис",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Tõnis Palts",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Tõnis Palts",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Tõnis Palts",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1958-04-21",
