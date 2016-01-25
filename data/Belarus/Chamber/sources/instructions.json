@@ -7,7 +7,7 @@
         "scraper": "tmtmtmtm/belarus-house-of-representatives",
         "query": "SELECT *, 'unknown' as party_id FROM data"
       },
-      "source": "https://morph.io/tmtmtmtm/belarus-house-of-representatives",
+      "source": "http://nationalassembly.gov.bz",
       "type": "membership"
     },
     {
