@@ -1449,6 +1449,11 @@
           "lang": "fr",
           "name": "Anne Louhelainen",
           "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Anne Louhelainen",
+          "note": "multilingual"
         }
       ],
       "sort_name": "Louhelainen Anne",
@@ -2477,6 +2482,11 @@
         },
         {
           "lang": "fr",
+          "name": "Anssi Joutsenlahti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Anssi Joutsenlahti",
           "note": "multilingual"
         }
@@ -27719,6 +27729,10 @@
       "id": "b7b5c509-f537-485e-bab6-92be41d69393",
       "identifiers": [
         {
+          "identifier": "598075",
+          "scheme": "discogs"
+        },
+        {
           "identifier": "786",
           "scheme": "eduskunta"
         },
@@ -27727,8 +27741,20 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "nm0016090",
+          "scheme": "imdb"
+        },
+        {
           "identifier": "10",
           "scheme": "kansanmuisti"
+        },
+        {
+          "identifier": "bbfc5c53-a910-4d9d-a703-9198715279cd",
+          "scheme": "musicbrainz"
+        },
+        {
+          "identifier": "Q4826119",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://kansanmuisti.fi/media/images/members/alatalo-mikko.jpg",
@@ -27737,7 +27763,67 @@
           "url": "http://kansanmuisti.fi/media/images/members/alatalo-mikko.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Mikko_Alatalo"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Mikko_Alatalo"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Mikko_Alatalo"
+        },
+        {
+          "note": "Wikipedia (tr)",
+          "url": "https://tr.wikipedia.org/wiki/Mikko_Alatalo"
+        }
+      ],
       "name": "Mikko Alatalo",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Mikko Alatalo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Mikko Alatalo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Mikko Alatalo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Mikko Alatalo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Mikko Alatalo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Mikko Alatalo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Mikko Alatalo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Mikko Alatalo",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Alatalo Mikko",
       "sources": [
         {
@@ -42946,7 +43032,9 @@
       ]
     },
     {
+      "birth_date": "1986-12-11",
       "gender": "female",
+      "given_name": "Tiina",
       "id": "181ce14e-6987-4696-84f9-c7220432218c",
       "identifiers": [
         {
