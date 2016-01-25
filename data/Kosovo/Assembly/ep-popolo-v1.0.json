@@ -1,7 +1,6 @@
 {
   "persons": [
     {
-      "birth_date": "1965-11-18",
       "family_name": "Ymeri",
       "given_name": "Abdyl",
       "id": "dc32fca1-32ee-4b72-8497-c6acaf504c1c",
@@ -11,17 +10,11 @@
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "http://files.parldata.eu/kv/kuvendi/people/mp_AbdylYmeri/image.jpeg",
-      "images": [
-        {
-          "url": "http://files.parldata.eu/kv/kuvendi/people/mp_AbdylYmeri/image.jpeg"
-        }
-      ],
       "name": "Abdyl Ymeri",
       "sort_name": "Ymeri Abdyl",
       "sources": [
         {
-          "url": "http://www.kuvendikosoves.org/?cid=1,158,650&secid=102&legid=3"
+          "url": "http://www.kuvendikosoves.org/?cid=1,102,946"
         }
       ]
     },
@@ -881,11 +874,6 @@
         {
           "identifier": "mp_AzemSyla",
           "scheme": "everypolitician_legacy"
-        }
-      ],
-      "images": [
-        {
-          "url": ""
         }
       ],
       "name": "Azem Syla",
@@ -4286,11 +4274,6 @@
           "scheme": "everypolitician_legacy"
         }
       ],
-      "images": [
-        {
-          "url": ""
-        }
-      ],
       "name": "Ilmi Ahmeti",
       "sort_name": "Ahmeti Ilmi",
       "sources": [
@@ -5260,11 +5243,6 @@
           "scheme": "everypolitician_legacy"
         }
       ],
-      "images": [
-        {
-          "url": ""
-        }
-      ],
       "name": "Mazllom Kumnova",
       "sort_name": "Kumnova Mazllom",
       "sources": [
@@ -6142,11 +6120,6 @@
           "scheme": "everypolitician_legacy"
         }
       ],
-      "images": [
-        {
-          "url": ""
-        }
-      ],
       "name": "Nekibe Kelmendi",
       "sort_name": "Kelmendi Nekibe",
       "sources": [
@@ -6334,11 +6307,6 @@
         {
           "identifier": "mp_NjomzaEmini",
           "scheme": "everypolitician_legacy"
-        }
-      ],
-      "images": [
-        {
-          "url": ""
         }
       ],
       "name": "Njomza Emini",
@@ -7605,11 +7573,6 @@
           "scheme": "everypolitician_legacy"
         }
       ],
-      "images": [
-        {
-          "url": ""
-        }
-      ],
       "name": "Sadudin Berisha",
       "sort_name": "Berisha Sadudin",
       "sources": [
@@ -7824,11 +7787,6 @@
           "scheme": "everypolitician_legacy"
         }
       ],
-      "images": [
-        {
-          "url": ""
-        }
-      ],
       "name": "Saa Djokiæ",
       "sort_name": "Djokiæ Saa",
       "sources": [
@@ -8005,29 +7963,6 @@
       "sources": [
         {
           "url": "http://www.kuvendikosoves.org/?cid=1,102,923"
-        }
-      ]
-    },
-    {
-      "family_name": "Popović",
-      "given_name": "Serdjan",
-      "id": "1f2d2db7-3730-4fbf-8039-8f85a0fa5833",
-      "identifiers": [
-        {
-          "identifier": "mp_SerdjanPopović",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "images": [
-        {
-          "url": ""
-        }
-      ],
-      "name": "Serdjan Popović",
-      "sort_name": "Popović Serdjan",
-      "sources": [
-        {
-          "url": "http://www.kuvendikosoves.org/?cid=1,102,945"
         }
       ]
     },
@@ -8304,11 +8239,6 @@
         {
           "identifier": "mp_SlaðanIliæ",
           "scheme": "everypolitician_legacy"
-        }
-      ],
-      "images": [
-        {
-          "url": ""
         }
       ],
       "name": "Slaðan Iliæ",
@@ -9188,11 +9118,6 @@
           "scheme": "everypolitician_legacy"
         }
       ],
-      "images": [
-        {
-          "url": ""
-        }
-      ],
       "name": "Vjosa Osmani",
       "sort_name": "Osmani Vjosa",
       "sources": [
@@ -9258,11 +9183,6 @@
         {
           "identifier": "mp_XhaferTahiri",
           "scheme": "everypolitician_legacy"
-        }
-      ],
-      "images": [
-        {
-          "url": ""
         }
       ],
       "name": "Xhafer Tahiri",
@@ -9381,11 +9301,6 @@
           "scheme": "everypolitician_legacy"
         }
       ],
-      "images": [
-        {
-          "url": ""
-        }
-      ],
       "name": "Xhevat Bislimi",
       "sort_name": "Bislimi Xhevat",
       "sources": [
@@ -9428,11 +9343,6 @@
           "scheme": "everypolitician_legacy"
         }
       ],
-      "images": [
-        {
-          "url": ""
-        }
-      ],
       "name": "Ylber Hysa",
       "sort_name": "Hysa Ylber",
       "sources": [
@@ -9450,11 +9360,6 @@
         {
           "identifier": "mp_YmerHalimi",
           "scheme": "everypolitician_legacy"
-        }
-      ],
-      "images": [
-        {
-          "url": ""
         }
       ],
       "name": "Ymer Halimi",
@@ -9972,11 +9877,6 @@
       "classification": "party",
       "id": "parliamentary_group_46",
       "name": "SLS"
-    },
-    {
-      "classification": "party",
-      "id": "_unknown",
-      "name": "Unknown"
     }
   ],
   "meta": {
@@ -10658,20 +10558,6 @@
       "role": "member"
     },
     {
-      "legislative_period_id": "term/chamber_2014-07-17",
-      "on_behalf_of_id": "_unknown",
-      "organization_id": "legislature",
-      "person_id": "1f2d2db7-3730-4fbf-8039-8f85a0fa5833",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/chamber_2014-07-17",
-      "on_behalf_of_id": "_unknown",
-      "organization_id": "legislature",
-      "person_id": "1f2d2db7-3730-4fbf-8039-8f85a0fa5833",
-      "role": "member"
-    },
-    {
       "legislative_period_id": "term/chamber_2010-12-12",
       "on_behalf_of_id": "parliamentary_group_44",
       "organization_id": "legislature",
@@ -10975,34 +10861,6 @@
     {
       "legislative_period_id": "term/chamber_2010-12-12",
       "on_behalf_of_id": "parliamentary_group_41",
-      "organization_id": "legislature",
-      "person_id": "2f5f59d6-561b-41ce-8aea-85a07b40d35c",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/chamber_2014-07-17",
-      "on_behalf_of_id": "_unknown",
-      "organization_id": "legislature",
-      "person_id": "2f5f59d6-561b-41ce-8aea-85a07b40d35c",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/chamber_2014-07-17",
-      "on_behalf_of_id": "_unknown",
-      "organization_id": "legislature",
-      "person_id": "2f5f59d6-561b-41ce-8aea-85a07b40d35c",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/chamber_2014-07-17",
-      "on_behalf_of_id": "_unknown",
-      "organization_id": "legislature",
-      "person_id": "2f5f59d6-561b-41ce-8aea-85a07b40d35c",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/chamber_2014-07-17",
-      "on_behalf_of_id": "_unknown",
       "organization_id": "legislature",
       "person_id": "2f5f59d6-561b-41ce-8aea-85a07b40d35c",
       "role": "member"
@@ -12247,20 +12105,6 @@
       "role": "member"
     },
     {
-      "legislative_period_id": "term/chamber_2014-07-17",
-      "on_behalf_of_id": "_unknown",
-      "organization_id": "legislature",
-      "person_id": "7f47b618-2a14-47f1-86f7-db0cc23917c0",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/chamber_2014-07-17",
-      "on_behalf_of_id": "_unknown",
-      "organization_id": "legislature",
-      "person_id": "7f47b618-2a14-47f1-86f7-db0cc23917c0",
-      "role": "member"
-    },
-    {
       "legislative_period_id": "term/chamber_2007-12-13",
       "on_behalf_of_id": "parliamentary_group_27",
       "organization_id": "legislature",
@@ -12615,34 +12459,6 @@
       "on_behalf_of_id": "parliamentary_group_43",
       "organization_id": "legislature",
       "person_id": "944fd8dc-7925-45e7-9887-20878ca2bc55",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/chamber_2014-07-17",
-      "on_behalf_of_id": "_unknown",
-      "organization_id": "legislature",
-      "person_id": "944fd8dc-7925-45e7-9887-20878ca2bc55",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/chamber_2014-07-17",
-      "on_behalf_of_id": "_unknown",
-      "organization_id": "legislature",
-      "person_id": "944fd8dc-7925-45e7-9887-20878ca2bc55",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/chamber_2001-11-17",
-      "on_behalf_of_id": "_unknown",
-      "organization_id": "legislature",
-      "person_id": "94d8da85-85c6-429b-9b13-b25d0c30c11b",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/chamber_2001-11-17",
-      "on_behalf_of_id": "_unknown",
-      "organization_id": "legislature",
-      "person_id": "94d8da85-85c6-429b-9b13-b25d0c30c11b",
       "role": "member"
     },
     {
@@ -13868,20 +13684,6 @@
       "on_behalf_of_id": "parliamentary_group_54",
       "organization_id": "legislature",
       "person_id": "e4794e56-4e91-4099-9f7d-46f4bab9bc1c",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/chamber_2001-11-17",
-      "on_behalf_of_id": "_unknown",
-      "organization_id": "legislature",
-      "person_id": "e4d6875c-d2a8-483b-a1ec-09ce90248b32",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/chamber_2001-11-17",
-      "on_behalf_of_id": "_unknown",
-      "organization_id": "legislature",
-      "person_id": "e4d6875c-d2a8-483b-a1ec-09ce90248b32",
       "role": "member"
     },
     {
