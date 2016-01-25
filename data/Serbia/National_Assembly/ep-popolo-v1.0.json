@@ -5,7 +5,7 @@
       "contact_details": [
         {
           "type": "twitter",
-          "value": "http://www.twitter.com/adrianastasov"
+          "value": "adrianastasov"
         }
       ],
       "id": "aa33a9ba-515c-49d6-ad79-0867638e1889",
@@ -19,6 +19,10 @@
         {
           "note": "facebook",
           "url": "http://www.facebook.com/adriana.anastasov"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/adrianastasov"
         }
       ],
       "name": "ADRIANA ANASTASOV",
@@ -109,20 +113,110 @@
     },
     {
       "birth_date": "1981",
+      "family_name": "Marković",
+      "gender": "male",
+      "given_name": "Aleksandar",
       "id": "316987af-b577-4979-8259-b215d714f497",
       "identifiers": [
         {
           "identifier": "806",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "24fdcd17-9400-4255-94e1-d545433a4053",
+          "scheme": "musicbrainz"
+        },
+        {
+          "identifier": "Q2640759",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Aleksandar_Markovic.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Aleksandar_Markovic.jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (cswikiquote)",
+          "url": "https://cswikiquote.wikipedia.org/wiki/Aleksandar_Marković"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Aleksandar_Markovic"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Aleksandar_Marković"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Маркович,_Александр"
+        },
         {
           "note": "facebook",
           "url": "http://www.facebook.com/aleksandar.markovic.96592"
         }
       ],
       "name": "ALEKSANDAR MARKOVIC",
+      "other_names": [
+        {
+          "lang": "cs",
+          "name": "Aleksandar Marković",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Aleksandar Markovic",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Aleksandar Markovic",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Aleksandar Markovic",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Aleksandar Markovic",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Aleksandar Markovic",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Aleksandar Marković",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Aleksandar Markovic",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Маркович, Александр",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Александар Марковић",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Aleksandar Markovic",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "ALEKSANDAR MARKOVIC",
       "sources": [
         {
@@ -206,7 +300,7 @@
       "contact_details": [
         {
           "type": "twitter",
-          "value": "http://www.twitter.com/AlexandarSenic"
+          "value": "AlexandarSenic"
         }
       ],
       "id": "6ac96b9c-46d7-48ee-967f-8cdfd007b7cd",
@@ -214,6 +308,12 @@
         {
           "identifier": "738",
           "scheme": "everypolitician_legacy"
+        }
+      ],
+      "links": [
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/AlexandarSenic"
         }
       ],
       "name": "ALEKSANDAR SENIC",
@@ -280,7 +380,7 @@
       "contact_details": [
         {
           "type": "twitter",
-          "value": "http://www.twitter.com/BgdSaska"
+          "value": "BgdSaska"
         }
       ],
       "honorific_prefix": "Dr",
@@ -289,6 +389,12 @@
         {
           "identifier": "616",
           "scheme": "everypolitician_legacy"
+        }
+      ],
+      "links": [
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/BgdSaska"
         }
       ],
       "name": "ALEKSANDRA TOMIC",
@@ -335,14 +441,41 @@
     },
     {
       "birth_date": "1983",
+      "gender": "male",
       "id": "dc3e026b-8648-4c1b-810b-52107772ddf9",
       "identifiers": [
         {
           "identifier": "559",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q4853233",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Balša_Božović"
         }
       ],
       "name": "BALSA BOZOVIC",
+      "other_names": [
+        {
+          "name": "Balša Božović",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Balša Božović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Balša Božović",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "BALSA BOZOVIC",
       "sources": [
         {
@@ -462,14 +595,126 @@
     },
     {
       "birth_date": "1974",
+      "gender": "male",
+      "given_name": "Bojan",
       "id": "ca9f9b8f-bf99-4be8-8029-6977ea5ac8b5",
       "identifiers": [
         {
           "identifier": "443",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/0dndk2",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q2909140",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/62/Bojan_Kostreš_Crop.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Bojan_Kostreš_Crop.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (bswikiquote)",
+          "url": "https://bswikiquote.wikipedia.org/wiki/Bojan_Kostreš"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Bojan_Kostreš"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Bojan_Kostreš"
+        },
+        {
+          "note": "Wikipedia (hr)",
+          "url": "https://hr.wikipedia.org/wiki/Bojan_Kostreš"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Bojan_Kostreš"
+        },
+        {
+          "note": "Wikipedia (sr)",
+          "url": "https://sr.wikipedia.org/wiki/Бојан_Костреш"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Bojan_Kostreš"
         }
       ],
       "name": "BOJAN KOSTRES",
+      "other_names": [
+        {
+          "name": "Bojan Kostreš",
+          "note": "alternate"
+        },
+        {
+          "lang": "bs",
+          "name": "Bojan Kostreš",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Bojan Kostreš",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Bojan Kostreš",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Bojan Kostreš",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Bojan Kostreš",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Bojan Kostreš",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Bojan Kostreš",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Bojan Kostreš",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Bojan Kostreš",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Bojan Kostreš",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Бојан Костреш",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Bojan Kostreš",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "BOJAN KOSTRES",
       "sources": [
         {
@@ -496,14 +741,111 @@
     },
     {
       "birth_date": "1974",
+      "gender": "male",
+      "given_name": "Borislav",
       "id": "4758daec-aea1-45fc-998a-9bf7084d20d7",
       "identifiers": [
         {
           "identifier": "558",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/0gj96mb",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q537821",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/55/Borko_Stefanović.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Borko_Stefanović.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Borislav_Stefanović"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Borko_Stefanović"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Borko_Stefanović"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Borislav_Stefanović"
+        },
+        {
+          "note": "Wikipedia (ie)",
+          "url": "https://ie.wikipedia.org/wiki/Borislav_Stefanović"
+        },
+        {
+          "note": "Wikipedia (sh)",
+          "url": "https://sh.wikipedia.org/wiki/Borislav_Stefanović"
+        },
+        {
+          "note": "Wikipedia (sr)",
+          "url": "https://sr.wikipedia.org/wiki/Борислав_Стефановић"
         }
       ],
       "name": "BORISLAV STEFANOVIC",
+      "other_names": [
+        {
+          "name": "Borko Stefanović",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Borko Stefanović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Borko Stefanović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Borislav Stefanović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ie",
+          "name": "Borislav Stefanović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Borislav Stefanović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Borislav Stefanović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Борислав Стефановић",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-ec",
+          "name": "Борислав Стефановић",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-el",
+          "name": "Borislav Stefanović",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "BORISLAV STEFANOVIC",
       "sources": [
         {
@@ -661,7 +1003,7 @@
       "contact_details": [
         {
           "type": "twitter",
-          "value": "http://Twitter.com/pasztorbalint"
+          "value": "pasztorbalint"
         }
       ],
       "id": "cd37cb2b-0ab7-4a11-b64c-4ca4b921711e",
@@ -675,6 +1017,10 @@
         {
           "note": "facebook",
           "url": "http://Facebook.com/pasztorbalint"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/pasztorbalint"
         },
         {
           "note": "website",
@@ -762,7 +1108,7 @@
       "contact_details": [
         {
           "type": "twitter",
-          "value": "http://www.twitter.com/RadenkovicDejan"
+          "value": "RadenkovicDejan"
         }
       ],
       "id": "c54c81fa-7e40-4e76-b453-1987708ca419",
@@ -770,6 +1116,12 @@
         {
           "identifier": "507",
           "scheme": "everypolitician_legacy"
+        }
+      ],
+      "links": [
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/RadenkovicDejan"
         }
       ],
       "name": "DEJAN MA RADENKOVIC",
@@ -937,14 +1289,133 @@
     },
     {
       "birth_date": "1960",
+      "family_name": "Marković",
+      "gender": "male",
+      "given_name": "Dragan",
       "id": "9036af45-72bd-4e5a-9d98-8cef75f20c5c",
       "identifiers": [
         {
           "identifier": "451",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q1252153",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/55/Dragan_Marković_Palma_&_Boris_Tadić.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Dragan_Marković_Palma_&_Boris_Tadić.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Dragan_Marković_(politician)"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Dragan_Marković"
+        },
+        {
+          "note": "Wikipedia (hr)",
+          "url": "https://hr.wikipedia.org/wiki/Dragan_Marković_(političar)"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Dragan_Marković"
+        },
+        {
+          "note": "Wikipedia (sh)",
+          "url": "https://sh.wikipedia.org/wiki/Dragan_Marković"
+        },
+        {
+          "note": "Wikipedia (sr)",
+          "url": "https://sr.wikipedia.org/wiki/Драган_Марковић_Палма"
+        },
+        {
+          "note": "Wikipedia (srwikiquote)",
+          "url": "https://srwikiquote.wikipedia.org/wiki/Драган_Марковић"
         }
       ],
       "name": "DRAGAN MARKOVIC",
+      "other_names": [
+        {
+          "name": "Dragan Marković",
+          "note": "alternate"
+        },
+        {
+          "lang": "da",
+          "name": "Dragan Marković",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Dragan Marković",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Dragan Marković",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Dragan Marković",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Dragan Marković",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Dragan Marković",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Dragan Marković",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Dragan Marković",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Dragan Marković",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Dragan Marković",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Драган Марковић Палма",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-ec",
+          "name": "Драган Марковић Палма",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-el",
+          "name": "Dragan Marković Palma",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Dragan Marković",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "DRAGAN MARKOVIC",
       "sources": [
         {
@@ -1008,7 +1479,7 @@
       "contact_details": [
         {
           "type": "twitter",
-          "value": "http://www.twitter.com/dragansormaz"
+          "value": "dragansormaz"
         }
       ],
       "id": "636ac3ca-5dd8-4c90-9f9e-9f51bdf2bee8",
@@ -1016,6 +1487,12 @@
         {
           "identifier": "686",
           "scheme": "everypolitician_legacy"
+        }
+      ],
+      "links": [
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/dragansormaz"
         }
       ],
       "name": "DRAGAN SORMAZ",
@@ -1028,14 +1505,150 @@
     },
     {
       "birth_date": "1968",
+      "gender": "male",
+      "given_name": "Dragan",
       "id": "5f341a07-da50-45c9-ba56-f3ad2f540cdc",
       "identifiers": [
         {
           "identifier": "154",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/02r5g78",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q1254664",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Dragan_Šutanovac_091201-D-9880W-025.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Dragan_Šutanovac_091201-D-9880W-025.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (bs)",
+          "url": "https://bs.wikipedia.org/wiki/Dragan_Šutanovac"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Dragan_Šutanovac"
+        },
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Ντράγκαν_Σουτάνοβατς"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Dragan_Šutanovac"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Dragan_Šutanovac"
+        },
+        {
+          "note": "Wikipedia (hr)",
+          "url": "https://hr.wikipedia.org/wiki/Dragan_Šutanovac"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Dragan_Šutanovac"
+        },
+        {
+          "note": "Wikipedia (sr)",
+          "url": "https://sr.wikipedia.org/wiki/Драган_Шутановац"
         }
       ],
       "name": "DRAGAN SUTANOVAC",
+      "other_names": [
+        {
+          "name": "Dragan Šutanovac",
+          "note": "alternate"
+        },
+        {
+          "lang": "bs",
+          "name": "Dragan Šutanovac",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Dragan Šutanovac",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Dragan Šutanovac",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de-ch",
+          "name": "Dragan Šutanovac",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Ντράγκαν Σουτάνοβατς",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Dragan Šutanovac",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "Dragan Šutanovac",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "Dragan Šutanovac",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Dragan Šutanovac",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Dragan Šutanovac",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Dragan Šutanovac",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Dragan Šutanovac",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Dragan Šutanovac",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Dragan Šutanovac",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Драган Шутановац",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Dragan Šutanovac",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "DRAGAN SUTANOVAC",
       "sources": [
         {
@@ -1086,15 +1699,145 @@
     },
     {
       "birth_date": "1930",
+      "gender": "male",
       "honorific_prefix": "Prof Dr",
       "id": "b852232c-5422-4234-933e-f696da495d74",
       "identifiers": [
         {
+          "identifier": "12968831n",
+          "scheme": "bnf"
+        },
+        {
           "identifier": "360",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/0gbx1b",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "127195629",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "n91033473",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "118440241",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "79135853",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q1254775",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Dragoljub_Mićunović_profile_photo.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Dragoljub_Mićunović_profile_photo.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Dragoljub_Mićunović"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Dragoljub_Mićunović"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Dragoljub_Mićunović"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Dragoljub_Mićunović"
+        },
+        {
+          "note": "Wikipedia (hr)",
+          "url": "https://hr.wikipedia.org/wiki/Dragoljub_Mićunović"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Dragoljub_Mićunović"
+        },
+        {
+          "note": "Wikipedia (sh)",
+          "url": "https://sh.wikipedia.org/wiki/Dragoljub_Mićunović"
+        },
+        {
+          "note": "Wikipedia (sr)",
+          "url": "https://sr.wikipedia.org/wiki/Драгољуб_Мићуновић"
         }
       ],
       "name": "DRAGOLjUB MICUNOVIC",
+      "other_names": [
+        {
+          "name": "Dragoljub Mićunović",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Dragoljub Mićunović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Dragoljub Mićunović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Dragoljub Mićunović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Dragoljub Mićunović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Dragoljub Mićunović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Dragoljub Mićunović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Dragoljub Mićunović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Dragoljub Mićunović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Драгољуб Мићуновић",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-ec",
+          "name": "Драгољуб Мићуновић",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-el",
+          "name": "Dragoljub Mićunović",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "DRAGOLjUB Prof. Dr MICUNOVIC",
       "sources": [
         {
@@ -1124,7 +1867,7 @@
       "contact_details": [
         {
           "type": "twitter",
-          "value": "http://www.twitter.com/dragomirkaric"
+          "value": "dragomirkaric"
         }
       ],
       "id": "278ffb5a-bae5-43fc-a687-ba48143d5b15",
@@ -1138,6 +1881,10 @@
         {
           "note": "facebook",
           "url": "http://www.facebook.com/dragomir.karic"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/dragomirkaric"
         }
       ],
       "name": "DRAGOMIR KARIC",
@@ -1219,14 +1966,132 @@
     },
     {
       "birth_date": "1966",
+      "family_name": "Petrović",
+      "gender": "male",
+      "given_name": "Dušan",
       "id": "9a38c6d2-9c43-47cd-991d-5a1ba2e9ae89",
       "identifiers": [
         {
           "identifier": "113",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/02r55qw",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q741215",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/33/Dušan_Petrović_crop.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Dušan_Petrović_crop.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Dušan_Petrović"
+        },
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Ντούσαν_Πέτροβιτς"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Dušan_Petrović"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Dušan_Petrović"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Dušan_Petrović"
+        },
+        {
+          "note": "Wikipedia (sr)",
+          "url": "https://sr.wikipedia.org/wiki/Душан_Петровић_(политичар)"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Dušan_Petrović"
         }
       ],
       "name": "DUSAN PETROVIC",
+      "other_names": [
+        {
+          "name": "Dušan Petrović",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Dušan Petrović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de-ch",
+          "name": "Dušan Petrović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Ντούσαν Πέτροβιτς",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Dušan Petrović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "Dušan Petrović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "Dušan Petrović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Dušan Petrović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Dušan Petrović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Dušan Petrović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Душан Петровић",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-ec",
+          "name": "Душан Петровић",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-el",
+          "name": "Dušan Petrović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Dušan Petrović",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "DUSAN PETROVIC",
       "sources": [
         {
@@ -1313,7 +2178,7 @@
       "contact_details": [
         {
           "type": "twitter",
-          "value": "http://twitter.com/EnisImamovic"
+          "value": "EnisImamovic"
         }
       ],
       "id": "462a8c40-37e0-49e2-8318-eda4a4c8a143",
@@ -1327,6 +2192,10 @@
         {
           "note": "facebook",
           "url": "http://facebook.com/enis.imamovic"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/EnisImamovic"
         }
       ],
       "name": "ENIS IMAMOVIC",
@@ -1339,14 +2208,75 @@
     },
     {
       "birth_date": "1963",
+      "gender": "male",
+      "given_name": "Goran",
       "id": "216b78a9-8be5-4ee7-a477-2d78a058576e",
       "identifiers": [
         {
           "identifier": "250",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q3110801",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/12/Goran_Bogdanovic_2.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Goran_Bogdanovic_2.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Goran_Bogdanović_(politician)"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Goran_Bogdanović"
+        },
+        {
+          "note": "Wikipedia (sq)",
+          "url": "https://sq.wikipedia.org/wiki/Goran_Bogdanović"
+        },
+        {
+          "note": "Wikipedia (sr)",
+          "url": "https://sr.wikipedia.org/wiki/Горан_Богдановић"
         }
       ],
       "name": "GORAN BOGDANOVIC",
+      "other_names": [
+        {
+          "name": "Goran Bogdanović",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Goran Bogdanović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Goran Bogdanović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Goran Bogdanović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sq",
+          "name": "Goran Bogdanović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Горан Богдановић",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "GORAN BOGDANOVIC",
       "sources": [
         {
@@ -1427,7 +2357,7 @@
       "contact_details": [
         {
           "type": "twitter",
-          "value": "http://www.twitter.com/gordanacom"
+          "value": "gordanacom"
         }
       ],
       "id": "31ca516f-15d5-41fc-8c8c-3667b7ae3106",
@@ -1441,6 +2371,10 @@
         {
           "note": "facebook",
           "url": "http://www.facebook.com/profile.php?id=1002511807"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/gordanacom"
         },
         {
           "note": "website",
@@ -1563,7 +2497,7 @@
       "contact_details": [
         {
           "type": "twitter",
-          "value": "http://twitter.com/bauerivan"
+          "value": "bauerivan"
         }
       ],
       "honorific_prefix": "Dr",
@@ -1578,6 +2512,10 @@
         {
           "note": "facebook",
           "url": "http://www.facebook.com/ivan.bauer.127"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/bauerivan"
         }
       ],
       "name": "IVAN BAUER",
@@ -1593,7 +2531,7 @@
       "contact_details": [
         {
           "type": "twitter",
-          "value": "http://www.twitter.com/IvoJovanovic"
+          "value": "IvoJovanovic"
         }
       ],
       "id": "33ff8e42-efd9-42d2-9b69-c2e5b972dee3",
@@ -1607,6 +2545,10 @@
         {
           "note": "facebook",
           "url": "http://www.facebook.com/ds.ivanjovanovic"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/IvoJovanovic"
         }
       ],
       "name": "IVAN JOVANOVIC",
@@ -1622,7 +2564,7 @@
       "contact_details": [
         {
           "type": "twitter",
-          "value": "http://www.twitter.com/ZeleniPoslanik"
+          "value": "ZeleniPoslanik"
         }
       ],
       "id": "cf77dcb1-b502-4a77-98b7-592b3ca312f7",
@@ -1636,6 +2578,10 @@
         {
           "note": "facebook",
           "url": "http://www.facebook.com/ivan.karic.773"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/ZeleniPoslanik"
         }
       ],
       "name": "IVAN KARIC",
@@ -1699,15 +2645,78 @@
     },
     {
       "birth_date": "1965",
+      "family_name": "Veselinović",
+      "gender": "male",
+      "given_name": "Janko",
       "honorific_prefix": "Dr",
       "id": "cc993d2f-c81b-4433-8bdb-e82c52a52bc2",
       "identifiers": [
         {
           "identifier": "501",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q6154858",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Janko_2.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Janko_2.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Janko_Veselinović_(lawyer)"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Janko_Veselinović_(homme_politique)"
+        },
+        {
+          "note": "Wikipedia (sr)",
+          "url": "https://sr.wikipedia.org/wiki/Јанко_Веселиновић_(правник)"
         }
       ],
       "name": "JANKO VESELINOVIC",
+      "other_names": [
+        {
+          "name": "Janko Veselinović",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Janko Veselinović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Janko Veselinović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Janko Veselinović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Janko Veselinović<br><small>Јанко Веселиновић</small>",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Janko Veselinović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Јанко Веселиновић (правник)",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "JANKO Dr VESELINOVIC",
       "sources": [
         {
@@ -1823,7 +2832,7 @@
       "contact_details": [
         {
           "type": "twitter",
-          "value": "http://www.twitter.com/jjovanoviceva"
+          "value": "jjovanoviceva"
         }
       ],
       "id": "912ba055-db0d-4a6f-bfd9-c11252a4e870",
@@ -1837,6 +2846,10 @@
         {
           "note": "facebook",
           "url": "http://www.facebook.com/jovana.j88"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/jjovanoviceva"
         }
       ],
       "name": "JOVANA JOVANOVIC",
@@ -1869,7 +2882,7 @@
       "contact_details": [
         {
           "type": "twitter",
-          "value": "http://www.twitter.com/RakicKatarina"
+          "value": "RakicKatarina"
         }
       ],
       "id": "e0fea657-09fe-44f1-94aa-7926bc4e3758",
@@ -1883,6 +2896,10 @@
         {
           "note": "facebook",
           "url": "http://www.facebook.com/pages/Katarina-Rakic/560006640812374"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/RakicKatarina"
         }
       ],
       "name": "KATARINA RAKIC",
@@ -2085,14 +3102,138 @@
     },
     {
       "birth_date": "1963",
+      "gender": "female",
+      "given_name": "Maja",
       "id": "efabdf37-1e80-46cd-8d7b-9a41ae6496d4",
       "identifiers": [
         {
           "identifier": "658",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/053grp",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "42651100",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q1280390",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Maja_Gojković.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Maja_Gojković.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (bs)",
+          "url": "https://bs.wikipedia.org/wiki/Maja_Gojković"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Maja_Gojković"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Maja_Gojković"
+        },
+        {
+          "note": "Wikipedia (hr)",
+          "url": "https://hr.wikipedia.org/wiki/Maja_Gojković"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Maja_Gojković"
+        },
+        {
+          "note": "Wikipedia (sh)",
+          "url": "https://sh.wikipedia.org/wiki/Maja_Gojković"
+        },
+        {
+          "note": "Wikipedia (sr)",
+          "url": "https://sr.wikipedia.org/wiki/Маја_Гојковић"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Майя_Гойкович"
+        },
+        {
+          "note": "website",
+          "url": "http://www.majagojkovic.rs/"
         }
       ],
       "name": "MAJA GOJKOVIC",
+      "other_names": [
+        {
+          "name": "Maja Gojković",
+          "note": "alternate"
+        },
+        {
+          "lang": "bs",
+          "name": "Maja Gojković",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Maja Gojković",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Maja Gojković",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Maja Gojković",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Maja Gojković",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Maja Gojković",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Maja Gojković",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Maja Gojković",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Маја Гојковић",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-ec",
+          "name": "Маја Гојковић",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-el",
+          "name": "Maja Gojković",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Майя Гойкович",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "MAJA GOJKOVIC",
       "sources": [
         {
@@ -2122,7 +3263,7 @@
       "contact_details": [
         {
           "type": "twitter",
-          "value": "http://www.twitter.com/marijatvkv"
+          "value": "marijatvkv"
         }
       ],
       "id": "e40e9289-7559-4c64-9a4c-a532b421059f",
@@ -2130,6 +3271,12 @@
         {
           "identifier": "608",
           "scheme": "everypolitician_legacy"
+        }
+      ],
+      "links": [
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/marijatvkv"
         }
       ],
       "name": "MARIJA OBRADOVIC",
@@ -2142,14 +3289,92 @@
     },
     {
       "birth_date": "1958",
+      "gender": "male",
+      "given_name": "Marijan",
       "id": "223b0432-79f3-4084-81d4-00a86334772a",
       "identifiers": [
         {
           "identifier": "598",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/035m3w",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q1252375",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Marijan_Rističević"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Marijan_Rističević"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Marijan_Rističević"
+        },
+        {
+          "note": "Wikipedia (sh)",
+          "url": "https://sh.wikipedia.org/wiki/Marijan_Rističević"
+        },
+        {
+          "note": "Wikipedia (sr)",
+          "url": "https://sr.wikipedia.org/wiki/Маријан_Ристичевић"
         }
       ],
       "name": "MARIJAN RISTICEVIC",
+      "other_names": [
+        {
+          "name": "Marijan Rističević",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Marijan Rističević",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Marijan Rističević",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Marijan Rističević",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Marijan Rističević",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Marijan Rističević",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Маријан Ристичевић",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-ec",
+          "name": "Маријан Ристичевић",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-el",
+          "name": "Marijan Rističević",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "MARIJAN RISTICEVIC",
       "sources": [
         {
@@ -2176,15 +3401,65 @@
     },
     {
       "birth_date": "1949",
+      "gender": "male",
+      "given_name": "Marko",
       "honorific_prefix": "Prof Dr",
       "id": "8b103c82-f8a3-476e-b567-d2a2216b64d7",
       "identifiers": [
         {
+          "identifier": "12671909r",
+          "scheme": "bnf"
+        },
+        {
           "identifier": "603",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "166447188",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "65406227",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q6771114",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Marko_Atlagić"
         }
       ],
       "name": "MARKO ATLAGIC",
+      "other_names": [
+        {
+          "name": "Marko Atlagić",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Marko Atlagić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Marko Atlagić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Marko Atlagić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Marko Atlagić",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "MARKO Prof. Dr ATLAGIC",
       "sources": [
         {
@@ -2375,7 +3650,7 @@
       "contact_details": [
         {
           "type": "twitter",
-          "value": "http://www.twitter.com/milanpixel"
+          "value": "milanpixel"
         }
       ],
       "id": "76f3d211-0502-492e-b2da-95ad1485f965",
@@ -2389,6 +3664,10 @@
         {
           "note": "facebook",
           "url": "http://www.facebook.com/milan.stevanovic.1420?fref=ts"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/milanpixel"
         }
       ],
       "name": "MILAN STEVANOVIC",
@@ -2421,7 +3700,7 @@
       "contact_details": [
         {
           "type": "twitter",
-          "value": "http://www.twitter.com/milankakaric"
+          "value": "milankakaric"
         }
       ],
       "id": "12a0485d-d9de-4890-a139-6a1c3ecdecb2",
@@ -2435,6 +3714,10 @@
         {
           "note": "facebook",
           "url": "http://www.facebook.com/milanka.karic"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/milankakaric"
         }
       ],
       "name": "MILANKA KARIC",
@@ -2681,14 +3964,108 @@
     },
     {
       "birth_date": "1957",
+      "gender": "male",
+      "given_name": "Milovan",
       "id": "5069ea47-4780-4747-82cf-37fbb326dac1",
       "identifiers": [
         {
+          "identifier": "15522718m",
+          "scheme": "bnf"
+        },
+        {
           "identifier": "619",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/035m6n",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "0000 0000 7143 3357",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "no2004097911",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "jo2015876017",
+          "scheme": "nkc"
+        },
+        {
+          "identifier": "382997050",
+          "scheme": "nta"
+        },
+        {
+          "identifier": "16494270X",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "47072531",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q6860560",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Milovan_Drecun"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Milovan_Drecun"
+        },
+        {
+          "note": "Wikipedia (sr)",
+          "url": "https://sr.wikipedia.org/wiki/Милован_Дрецун"
         }
       ],
       "name": "MILOVAN DRECUN",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Milovan Drecun",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Milovan Drecun",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Milovan Drecun",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Milovan Drecun",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Milovan Drecun",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Милован Дрецун",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-ec",
+          "name": "Милован Дрецун",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-el",
+          "name": "Milovan Drecun",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "MILOVAN DRECUN",
       "sources": [
         {
@@ -2698,14 +4075,139 @@
     },
     {
       "birth_date": "1942",
+      "gender": "male",
       "id": "c1287d8a-4abb-4aed-add3-be400c2660a5",
       "identifiers": [
         {
           "identifier": "350",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/03h13g2",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q3314557",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Milutin_Mrkonjić_Crop.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Milutin_Mrkonjić_Crop.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Milutin_Mrkonjić"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Milutin_Mrkonjić"
+        },
+        {
+          "note": "Wikipedia (hr)",
+          "url": "https://hr.wikipedia.org/wiki/Milutin_Mrkonjić"
+        },
+        {
+          "note": "Wikipedia (mg)",
+          "url": "https://mg.wikipedia.org/wiki/Milutin_Mrkonjić"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Milutin_Mrkonjić"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Мрконич,_Милютин"
+        },
+        {
+          "note": "Wikipedia (sh)",
+          "url": "https://sh.wikipedia.org/wiki/Milutin_Mrkonjić"
+        },
+        {
+          "note": "Wikipedia (sr)",
+          "url": "https://sr.wikipedia.org/wiki/Милутин_Мркоњић"
         }
       ],
       "name": "MILUTIN MRKONЈIC",
+      "other_names": [
+        {
+          "name": "Milutin Mrkonjić",
+          "note": "alternate"
+        },
+        {
+          "lang": "da",
+          "name": "Milutin Mrkonjić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Milutin Mrkonjić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Milutin Mrkonjić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Milutin Mrkonjić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Milutin Mrkonjić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mg",
+          "name": "Milutin Mrkonjić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Milutin Mrkonjić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Milutin Mrkonjić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Milutin Mrkonjić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Milutin Mrkonjić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Мрконич, Милютин",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Milutin Mrkonjić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Милутин Мркоњић",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Milutin Mrkonjić",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "MILUTIN MRKONЈIC",
       "sources": [
         {
@@ -2735,7 +4237,7 @@
       "contact_details": [
         {
           "type": "twitter",
-          "value": "http://www.twitter.com/MiodragLinta"
+          "value": "MiodragLinta"
         }
       ],
       "id": "7f4fc7fa-b89a-4ef5-9046-426e7dc42561",
@@ -2743,6 +4245,12 @@
         {
           "identifier": "596",
           "scheme": "everypolitician_legacy"
+        }
+      ],
+      "links": [
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/MiodragLinta"
         }
       ],
       "name": "MIODRAG LINTA",
@@ -2866,7 +4374,7 @@
       "contact_details": [
         {
           "type": "twitter",
-          "value": "http://www.twitter.com/CikirizSPO"
+          "value": "CikirizSPO"
         }
       ],
       "id": "bc8bb5f7-ebd9-4195-a5c9-9f2dcd388ca1",
@@ -2880,6 +4388,10 @@
         {
           "note": "facebook",
           "url": "http://www.facebook.com/mirko.cikiriz"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/CikirizSPO"
         }
       ],
       "name": "MIRKO CIKIRIZ",
@@ -3031,7 +4543,7 @@
       "contact_details": [
         {
           "type": "twitter",
-          "value": "http://www.twitter.com/mbacevac"
+          "value": "mbacevac"
         }
       ],
       "honorific_prefix": "Dr",
@@ -3040,6 +4552,12 @@
         {
           "identifier": "769",
           "scheme": "everypolitician_legacy"
+        }
+      ],
+      "links": [
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/mbacevac"
         }
       ],
       "name": "MUAMER BACEVAC",
@@ -3189,14 +4707,143 @@
     },
     {
       "birth_date": "1959",
+      "gender": "male",
+      "given_name": "Nenad",
       "id": "9f7f48d2-03af-4cf8-8b40-75a2fea63bd5",
       "identifiers": [
         {
           "identifier": "516",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/02pm1jd",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "65970872",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q1288930",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Nenad_Canak_crop.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Nenad_Canak_crop.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (bs)",
+          "url": "https://bs.wikipedia.org/wiki/Nenad_Čanak"
+        },
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Nenad_Čanak"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Nenad_Čanak"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Nenad_Čanak"
+        },
+        {
+          "note": "Wikipedia (hr)",
+          "url": "https://hr.wikipedia.org/wiki/Nenad_Čanak"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Nenad_Čanak"
+        },
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Nenad_Čanak"
+        },
+        {
+          "note": "Wikipedia (sh)",
+          "url": "https://sh.wikipedia.org/wiki/Nenad_Čanak"
+        },
+        {
+          "note": "Wikipedia (sr)",
+          "url": "https://sr.wikipedia.org/wiki/Ненад_Чанак"
         }
       ],
       "name": "NENAD CANAK",
+      "other_names": [
+        {
+          "name": "Nenad Čanak",
+          "note": "alternate"
+        },
+        {
+          "lang": "bs",
+          "name": "Nenad Čanak",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Nenad Čanak",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Nenad Čanak",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Nenad Čanak",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Nenad Čanak",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Nenad Čanak",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Nenad Čanak",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Nenad Čanak",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Nenad Čanak",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Nenad Čanak",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Ненад Чанак",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-ec",
+          "name": "Ненад Чанак",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-el",
+          "name": "Nenad Čanak",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "NENAD CANAK",
       "sources": [
         {
@@ -3206,14 +4853,95 @@
     },
     {
       "birth_date": "1954",
+      "gender": "male",
+      "given_name": "Nenad",
       "id": "612361f3-f29f-40c7-ba22-9e00ef615610",
       "identifiers": [
         {
           "identifier": "837",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "nm1201518",
+          "scheme": "imdb"
+        },
+        {
+          "identifier": "Q6563562",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Nesagalija.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Nesagalija.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Nenad_Milosavljević"
+        },
+        {
+          "note": "Wikipedia (sh)",
+          "url": "https://sh.wikipedia.org/wiki/Nenad_Milosavljević"
+        },
+        {
+          "note": "Wikipedia (sr)",
+          "url": "https://sr.wikipedia.org/wiki/Ненад_Милосављевић"
         }
       ],
       "name": "NENAD MILOSAVLjEVIC",
+      "other_names": [
+        {
+          "name": "Nenad Milosavljević",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Nenad Milosavljević",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "Nenad Milosavljević",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "Nenad Milosavljević",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Nenad Milosavljević",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Nenad Milosavljević",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Nenad Milosavljević",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Ненад Милосављевић",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-ec",
+          "name": "Ненад Милосављевић",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-el",
+          "name": "Nenad Milosavljević",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "NENAD MILOSAVLjEVIC",
       "sources": [
         {
@@ -3243,7 +4971,7 @@
       "contact_details": [
         {
           "type": "twitter",
-          "value": "http://www.twitter.com/nenadnikolic"
+          "value": "nenadnikolic"
         }
       ],
       "id": "2b1271a3-19c5-4468-a19d-106ea7daa8de",
@@ -3257,6 +4985,10 @@
         {
           "note": "facebook",
           "url": "http://www.facebook.com/nikolic.nenad"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/nenadnikolic"
         }
       ],
       "name": "NENAD NIKOLIC",
@@ -3601,7 +5333,7 @@
       "contact_details": [
         {
           "type": "twitter",
-          "value": "http://www.twitter.com/sanjanpakao"
+          "value": "sanjanpakao"
         }
       ],
       "id": "3627405e-ab7c-418f-8173-4ea80a5fe8b5",
@@ -3609,6 +5341,12 @@
         {
           "identifier": "788",
           "scheme": "everypolitician_legacy"
+        }
+      ],
+      "links": [
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/sanjanpakao"
         }
       ],
       "name": "SANjA NIKOLIC",
@@ -3672,15 +5410,208 @@
     },
     {
       "birth_date": "1951",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "predsednicaNSRS"
+        }
+      ],
+      "gender": "female",
       "honorific_prefix": "Prof Dr",
       "id": "a7d39108-ff97-4f64-b505-10abf7b05e26",
       "identifiers": [
         {
           "identifier": "431",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/04cqlxs",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q1192059",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Slavica_Djukic_Dejanovic_(1).jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Slavica_Djukic_Dejanovic_(1).jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (be)",
+          "url": "https://be.wikipedia.org/wiki/Славіца_Джукіч-Дэянавіч"
+        },
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Slavica_Đukić-Dejanović"
+        },
+        {
+          "note": "Wikipedia (cs)",
+          "url": "https://cs.wikipedia.org/wiki/Slavica_Djukićová_Dejanovićová"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Slavica_Đukić_Dejanović"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Slavica_Đukić_Dejanović"
+        },
+        {
+          "note": "Wikipedia (hr)",
+          "url": "https://hr.wikipedia.org/wiki/Slavica_Đukić-Dejanović"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Slavica_Đukić_Dejanović"
+        },
+        {
+          "note": "Wikipedia (ka)",
+          "url": "https://ka.wikipedia.org/wiki/სლავიცა_ჯუკიჩ-დეიანოვიჩი"
+        },
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/슬라비차_주키치_데야노비치"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Slavica_Đukić_Dejanović"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Slavica_Đukić-Dejanović"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Джукич-Деянович,_Славица"
+        },
+        {
+          "note": "Wikipedia (sh)",
+          "url": "https://sh.wikipedia.org/wiki/Slavica_Đukić-Dejanović"
+        },
+        {
+          "note": "Wikipedia (sr)",
+          "url": "https://sr.wikipedia.org/wiki/Славица_Ђукић_Дејановић"
+        },
+        {
+          "note": "Wikipedia (tr)",
+          "url": "https://tr.wikipedia.org/wiki/Slavica_Đukić_Dejanović"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/predsednicaNSRS"
         }
       ],
       "name": "SLAVICA DJUKIC DEJANOVIC",
+      "other_names": [
+        {
+          "name": "Slavica Đukić Dejanović",
+          "note": "alternate"
+        },
+        {
+          "lang": "be",
+          "name": "Славіца Джукіч-Дэянавіч",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Slavica Djukićová Dejanovićová",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Slavica Đukić-Dejanović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Slavica Đukić Dejanović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Slavica Đukić Dejanović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Slavica Đukić-Dejanović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Slavica Đukić Dejanović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "სლავიცა ჯუკიჩ-დეიანოვიჩი",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "슬라비차 주키치 데야노비치",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Slavica Đukić-Dejanović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Slavica Đukić Dejanović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Slavica Đukić-Dejanović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Slavica Đukić-Dejanović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Джукич-Деянович, Славица",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Slavica Đukić-Dejanović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Славица Ђукић Дејановић",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-ec",
+          "name": "Славица Ђукић Дејановић",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-el",
+          "name": "Slavica Đukić Dejanović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Slavica Đukić-Dejanović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Slavica Đukić Dejanović",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "SLAVICA Prof. Dr DJUKIC DEJANOVIC",
       "sources": [
         {
@@ -3742,14 +5673,127 @@
     },
     {
       "birth_date": "1976",
+      "gender": "female",
+      "given_name": "Snežana",
       "id": "94e54c47-c67f-443d-ba59-d9166b52e2dd",
       "identifiers": [
         {
           "identifier": "555",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/04gjjd5",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q468319",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Snezana_Malovic.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Snezana_Malovic.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Snežana_Malović"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Snežana_Malović"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Snežana_Malović"
+        },
+        {
+          "note": "Wikipedia (hr)",
+          "url": "https://hr.wikipedia.org/wiki/Snežana_Malović"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Snežana_Malović"
+        },
+        {
+          "note": "Wikipedia (sr)",
+          "url": "https://sr.wikipedia.org/wiki/Снежана_Маловић"
         }
       ],
       "name": "SNEZANA MALOVIC",
+      "other_names": [
+        {
+          "name": "Snežana Malović",
+          "note": "alternate"
+        },
+        {
+          "lang": "da",
+          "name": "Snežana Malović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Snežana Malović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Snežana Malović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Snežana Malović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Snežana Malović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Snežana Malović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Snežana Malović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Snežana Malović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Snežana Malović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Снежана Маловић",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-ec",
+          "name": "Снежана Маловић",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-el",
+          "name": "Snežana Malović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Snežana Malović",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "SNEZANA MALOVIC",
       "sources": [
         {
@@ -3776,14 +5820,189 @@
     },
     {
       "birth_date": "1963",
+      "gender": "male",
+      "given_name": "Srđan",
       "id": "9393981e-be29-48ce-9a46-56742fff280f",
       "identifiers": [
         {
+          "identifier": "p189621",
+          "scheme": "allmovie"
+        },
+        {
+          "identifier": "16322",
+          "scheme": "allocine"
+        },
+        {
           "identifier": "748",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/07yzyc",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "nm0236729",
+          "scheme": "imdb"
+        },
+        {
+          "identifier": "0000 0001 1759 3656",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "257627",
+          "scheme": "sfdb"
+        },
+        {
+          "identifier": "132171902",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "39787561",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q385312",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/SRDJAN_DRAGOJEVIC-PHOTO1.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/SRDJAN_DRAGOJEVIC-PHOTO1.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (bswikiquote)",
+          "url": "https://bswikiquote.wikipedia.org/wiki/Srđan_Dragojević"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Srđan_Dragojević"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Srđan_Dragojević"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Srđan_Dragojević"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Srđan_Dragojević"
+        },
+        {
+          "note": "Wikipedia (mg)",
+          "url": "https://mg.wikipedia.org/wiki/Srđan_Dragojević"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Srđan_Dragojević"
+        },
+        {
+          "note": "Wikipedia (sh)",
+          "url": "https://sh.wikipedia.org/wiki/Srđan_Dragojević"
+        },
+        {
+          "note": "Wikipedia (sr)",
+          "url": "https://sr.wikipedia.org/wiki/Срђан_Драгојевић"
+        },
+        {
+          "note": "Wikipedia (srwikiquote)",
+          "url": "https://srwikiquote.wikipedia.org/wiki/Срђан_Драгојевић"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Srđan_Dragojević"
+        },
+        {
+          "note": "Wikipedia (tr)",
+          "url": "https://tr.wikipedia.org/wiki/Srđan_Dragojević"
         }
       ],
       "name": "SRDJAN DRAGOJEVIC",
+      "other_names": [
+        {
+          "name": "Srđan Dragojević",
+          "note": "alternate"
+        },
+        {
+          "lang": "bs",
+          "name": "Srđan Dragojević",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Srđan Dragojević",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Srđan Dragojević",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Srđan Dragojević",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Srđan Dragojević",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Srđan Dragojević",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mg",
+          "name": "Srđan Dragojević",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Srđan Dragojević",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Srđan Dragojević",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Srđan Dragojević",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Срђан Драгојевић",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-ec",
+          "name": "Срђан Драгојевић",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-el",
+          "name": "Srđan Dragojević",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Srđan Dragojević",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Srđan Dragojević",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "SRDJAN DRAGOJEVIC",
       "sources": [
         {
@@ -3813,7 +6032,7 @@
       "contact_details": [
         {
           "type": "twitter",
-          "value": "http://www.twitter.com/just_Stefana"
+          "value": "just_Stefana"
         }
       ],
       "id": "ab0d636e-84d8-4d6f-8631-c51f674d2dff",
@@ -3821,6 +6040,12 @@
         {
           "identifier": "639",
           "scheme": "everypolitician_legacy"
+        }
+      ],
+      "links": [
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/just_Stefana"
         }
       ],
       "name": "STEFANA MILADINOVIC",
@@ -3833,15 +6058,169 @@
     },
     {
       "birth_date": "1953",
+      "gender": "male",
+      "given_name": "Sulejman",
       "honorific_prefix": "Dr",
       "id": "801ca565-a5f0-423c-b9bc-9150c22685d0",
       "identifiers": [
         {
           "identifier": "860",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/027t7xb",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q1290169",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Sulejman_Ugljanin_MC.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Sulejman_Ugljanin_MC.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (bs)",
+          "url": "https://bs.wikipedia.org/wiki/Sulejman_Ugljanin"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Sulejman_Ugljanin"
+        },
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Σουλεϊμάν_Ουγκλιάνιν"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Sulejman_Ugljanin"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Sulejman_Ugljanin"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Sulejman_Ugljanin"
+        },
+        {
+          "note": "Wikipedia (sh)",
+          "url": "https://sh.wikipedia.org/wiki/Sulejman_Ugljanin"
+        },
+        {
+          "note": "Wikipedia (sq)",
+          "url": "https://sq.wikipedia.org/wiki/Sulejman_Ugljanin"
+        },
+        {
+          "note": "Wikipedia (sr)",
+          "url": "https://sr.wikipedia.org/wiki/Сулејман_Угљанин"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Sulejman_Ugljanin"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Сулейман_Углянін"
         }
       ],
       "name": "SULEJMAN UGLjANIN",
+      "other_names": [
+        {
+          "lang": "bs",
+          "name": "Sulejman Ugljanin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Sulejman Ugljanin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de-ch",
+          "name": "Sulejman Ugljanin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Σουλεϊμάν Ουγκλιάνιν",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Sulejman Ugljanin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "Sulejman Ugljanin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "Sulejman Ugljanin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Sulejman Ugljanin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Sulejman Ugljanin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Sulejman Ugljanin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Sulejman Ugljanin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Sulejman Ugljanin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sq",
+          "name": "Sulejman Ugljanin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Сулејман Угљанин",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-ec",
+          "name": "Сулејман Угљанин",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-el",
+          "name": "Sulejman Ugljanin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Sulejman Ugljanin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Сулейман Углянін",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "SULEJMAN Dr UGLjANIN",
       "sources": [
         {
@@ -4215,7 +6594,7 @@
       "contact_details": [
         {
           "type": "twitter",
-          "value": "http://www.twitter.com/djuka_sns"
+          "value": "djuka_sns"
         }
       ],
       "id": "e7b4408d-11d9-4cca-ab6f-059b370b95b7",
@@ -4229,6 +6608,10 @@
         {
           "note": "facebook",
           "url": "http://www.facebook.com/vladimir.djukanovic.5"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/djuka_sns"
         }
       ],
       "name": "VLADIMIR DJUKANOVIC",
@@ -4244,7 +6627,7 @@
       "contact_details": [
         {
           "type": "twitter",
-          "value": "http://www.twitter.com/vmarinkovic99"
+          "value": "vmarinkovic99"
         }
       ],
       "honorific_prefix": "Prof Dr",
@@ -4253,6 +6636,12 @@
         {
           "identifier": "571",
           "scheme": "everypolitician_legacy"
+        }
+      ],
+      "links": [
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/vmarinkovic99"
         }
       ],
       "name": "VLADIMIR MARINKOVIC",
@@ -4286,7 +6675,7 @@
       "contact_details": [
         {
           "type": "twitter",
-          "value": "http://www.twitter.com/vpavicevic"
+          "value": "vpavicevic"
         }
       ],
       "id": "a67eddc5-eb32-4e27-bd1e-d8df3786186e",
@@ -4300,6 +6689,10 @@
         {
           "note": "facebook",
           "url": "http://www.facebook.com/vladimir.pavicevic"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/vpavicevic"
         }
       ],
       "name": "VLADIMIR PAVICEVIC",
@@ -4414,15 +6807,137 @@
     },
     {
       "birth_date": "1960",
+      "gender": "male",
+      "given_name": "Žarko",
       "honorific_prefix": "Prof Dr",
       "id": "591607d9-71b6-475f-82ba-8b1894404e06",
       "identifiers": [
         {
           "identifier": "101",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/04gmwlq",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q3443084",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/68/Žarko_Obradović.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Žarko_Obradović.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Žarko_Obradović"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Žarko_Obradović"
+        },
+        {
+          "note": "Wikipedia (hr)",
+          "url": "https://hr.wikipedia.org/wiki/Žarko_Obradović"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Žarko_Obradović"
+        },
+        {
+          "note": "Wikipedia (sh)",
+          "url": "https://sh.wikipedia.org/wiki/Žarko_Obradović"
+        },
+        {
+          "note": "Wikipedia (sr)",
+          "url": "https://sr.wikipedia.org/wiki/Жарко_Обрадовић"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Жарко_Обрадович"
         }
       ],
       "name": "ZARKO OBRADOVIC",
+      "other_names": [
+        {
+          "name": "Žarko Obradović",
+          "note": "alternate"
+        },
+        {
+          "lang": "da",
+          "name": "Žarko Obradović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Žarko Obradović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Žarko Obradović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Žarko Obradović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Žarko Obradović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Zjarko Obradović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Žarko Obradović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Žarko Obradović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Žarko Obradović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Жарко Обрадовић",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-ec",
+          "name": "Жарко Обрадовић",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-el",
+          "name": "Žarko Obradović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Žarko Obradović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Жарко Обрадович",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "ZARKO Prof. Dr OBRADOVIC",
       "sources": [
         {
@@ -4646,17 +7161,224 @@
       "contact_details": [
         {
           "type": "twitter",
-          "value": "http://www.twitter.com/zorandirektno"
+          "value": "zorandirektno"
         }
       ],
+      "family_name": "Živković",
+      "gender": "male",
+      "given_name": "Zoran",
       "id": "19eccb50-63dc-4044-9270-a54d4f3141ec",
       "identifiers": [
         {
           "identifier": "851",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/0477dv",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "00000024478",
+          "scheme": "munzinger"
+        },
+        {
+          "identifier": "Q226696",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/53/Zoran_Živković.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Zoran_Živković.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (bs)",
+          "url": "https://bs.wikipedia.org/wiki/Zoran_Živković"
+        },
+        {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Zoran_Živković"
+        },
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Zoran_Živković"
+        },
+        {
+          "note": "Wikipedia (cswikiquote)",
+          "url": "https://cswikiquote.wikipedia.org/wiki/Zoran_Živković"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Zoran_Živković_(Politiker)"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Zoran_Živković_(politician)"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Zoran_Živković"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Zoran_Živković_(homme_politique)"
+        },
+        {
+          "note": "Wikipedia (he)",
+          "url": "https://he.wikipedia.org/wiki/זוראן_ז'יווקוביץ'"
+        },
+        {
+          "note": "Wikipedia (hr)",
+          "url": "https://hr.wikipedia.org/wiki/Zoran_Živković"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Zoran_Živković_(politico)"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Zoran_Živković_(polityk)"
+        },
+        {
+          "note": "Wikipedia (sh)",
+          "url": "https://sh.wikipedia.org/wiki/Zoran_Živković_(političar)"
+        },
+        {
+          "note": "Wikipedia (sr)",
+          "url": "https://sr.wikipedia.org/wiki/Зоран_Живковић_(политичар)"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Зоран_Живкович"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/佐兰·日夫科维奇"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/zorandirektno"
         }
       ],
       "name": "ZORAN ZIVKOVIC",
+      "other_names": [
+        {
+          "name": "Zoran Živković",
+          "note": "alternate"
+        },
+        {
+          "lang": "bs",
+          "name": "Zoran Živković",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Zoran Živković",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Zoran Živković",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Zoran Živković",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Zoran Živković",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Zoran Živković",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Zoran Živković",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Zoran Živković",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "זוראן ז'יווקוביץ'",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Zoran Živković",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Zoran Živković",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Zoran Živković",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Zoran Živković",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Zoran Živković",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Zoran Živković (polityk)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Zoran Živković (političar)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Зоран Живковић",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-ec",
+          "name": "Зоран Живковић",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-el",
+          "name": "Zoran Živković",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Zoran Živković",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Зоран Живкович",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "佐兰·日夫科维奇",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "ZORAN ZIVKOVIC",
       "sources": [
         {
@@ -4786,7 +7508,8 @@
   ],
   "meta": {
     "sources": [
-      "http://www.parlament.gov.rs/"
+      "http://www.parlament.gov.rs/",
+      "http://wikidata.org/"
     ]
   },
   "memberships": [
