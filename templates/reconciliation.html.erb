@@ -82,7 +82,7 @@
             <dl>
               {% fields.forEach(function(field) { %}
                 {% if(field !== 'id' && person[field]){ %}
-                  <dt>{{ field }}:</dt>
+                  <dt title="{{ field }}">{{ field }}:</dt>
                   <dd>
                   {% if (field == 'image') { %}
                     <img src="{{ person[field] }}" width="150">
