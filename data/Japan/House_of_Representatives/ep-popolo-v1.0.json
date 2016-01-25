@@ -9956,7 +9956,7 @@
       ]
     },
     {
-      "birth_date": "1955",
+      "birth_date": "1957-07-21",
       "gender": "male",
       "given_name": "Hiroshi",
       "id": "74dcedda-4201-42db-ad2d-8e5f85fa50e9",
@@ -9966,7 +9966,7 @@
           "scheme": "everypolitician_legacy"
         },
         {
-          "identifier": "Q5770884",
+          "identifier": "Q11539458",
           "scheme": "wikidata"
         }
       ],
@@ -9987,7 +9987,7 @@
         },
         {
           "note": "Wikipedia (ja)",
-          "url": "https://ja.wikipedia.org/wiki/梶山弘志"
+          "url": "https://ja.wikipedia.org/wiki/森屋宏"
         }
       ],
       "name": "KAJIYAMA Hiroshi",
@@ -9997,13 +9997,17 @@
           "note": "alternate"
         },
         {
+          "name": "Hiroshi Moriya",
+          "note": "alternate"
+        },
+        {
           "lang": "de",
           "name": "Hiroshi Kajiyama",
           "note": "multilingual"
         },
         {
           "lang": "en",
-          "name": "Hiroshi Kajiyama",
+          "name": "Hiroshi Moriya",
           "note": "multilingual"
         },
         {
@@ -10013,7 +10017,7 @@
         },
         {
           "lang": "ja",
-          "name": "梶山弘志",
+          "name": "森屋宏",
           "note": "multilingual"
         }
       ],
@@ -18751,6 +18755,12 @@
     },
     {
       "birth_date": "1950-06-10",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "nakagawa_tokyo"
+        }
+      ],
       "family_name": "Nakagawa",
       "gender": "male",
       "given_name": "Masaharu",
@@ -18763,6 +18773,10 @@
         {
           "identifier": "/m/03cbwfq",
           "scheme": "freebase"
+        },
+        {
+          "identifier": "00256207",
+          "scheme": "ndl"
         },
         {
           "identifier": "310665851",
@@ -18795,10 +18809,18 @@
         {
           "note": "Wikipedia (ja)",
           "url": "https://ja.wikipedia.org/wiki/中川正春"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/nakagawa_tokyo"
         }
       ],
       "name": "NAKAGAWA Masaharu",
       "other_names": [
+        {
+          "name": "Masaharu Nakagawa",
+          "note": "alternate"
+        },
         {
           "name": "Masaharu Nakagawa",
           "note": "alternate"
@@ -18810,6 +18832,11 @@
         },
         {
           "lang": "en",
+          "name": "Masaharu Nakagawa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
           "name": "Masaharu Nakagawa",
           "note": "multilingual"
         },
@@ -18831,6 +18858,11 @@
         {
           "lang": "sco",
           "name": "Masaharu Nakagawa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "中川雅治,",
           "note": "multilingual"
         }
       ],
