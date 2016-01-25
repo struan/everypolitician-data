@@ -168,6 +168,7 @@ namespace :merge_sources do
           if ENV['GENERATE_RECONCILIATION_INTERFACE'] && reconciliation_file.include?(ENV['GENERATE_RECONCILIATION_INTERFACE'])
             html_file = reconciliation_file.sub('.csv', '.html')
             interface = Reconciliation::Interface.new(merged_rows, incoming_data.uniq { |r| r[:id] }, previously_reconciled, merge_instructions)
+            FileUtils.mkdir_p(File.dirname(html_file))
             File.write(html_file, interface.html)
             abort "Created #{html_file} — please check it and re-run".green 
           end
@@ -225,6 +226,7 @@ namespace :merge_sources do
           if ENV['GENERATE_RECONCILIATION_INTERFACE'] && reconciliation_file.include?(ENV['GENERATE_RECONCILIATION_INTERFACE'])
             html_file = reconciliation_file.sub('.csv', '.html')
             interface = Reconciliation::Interface.new(merged_rows, incoming_data, previously_reconciled, merge_instructions)
+            FileUtils.mkdir_p(File.dirname(html_file))
             File.write(html_file, interface.html)
             abort "Created #{html_file} — please check it and re-run".green 
           end
