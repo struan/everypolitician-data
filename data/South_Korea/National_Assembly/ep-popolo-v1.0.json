@@ -6443,6 +6443,40 @@
       ]
     },
     {
+      "birth_date": "1956-09-23",
+      "id": "96c7e3b9-d7e6-4e15-ae54-1820124aea74",
+      "identifiers": [
+        {
+          "identifier": "1956217",
+          "scheme": "popong"
+        }
+      ],
+      "image": "http://www.assembly.go.kr/photo/.jpg)",
+      "images": [
+        {
+          "url": "http://www.assembly.go.kr/photo/.jpg)"
+        }
+      ],
+      "name": "JUNG Younsuk",
+      "other_names": [
+        {
+          "lang": "cn",
+          "name": "鄭潤淑",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "정윤숙",
+          "note": "multilingual"
+        }
+      ],
+      "sources": [
+        {
+          "url": "github.com/teampopong/data-for-rnd"
+        }
+      ]
+    },
+    {
       "birth_date": "1962-06-01",
       "contact_details": [
         {
@@ -9729,6 +9763,11 @@
         {
           "lang": "ko",
           "name": "김무성",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Kim Moo-sung",
           "note": "multilingual"
         },
         {
@@ -18961,6 +19000,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "nl",
+          "name": "Lee In-je",
+          "note": "multilingual"
+        },
+        {
           "lang": "ru",
           "name": "Ли Индже",
           "note": "multilingual"
@@ -25043,7 +25087,7 @@
     {
       "area_id": "area/전남_목포시",
       "legislative_period_id": "term/19",
-      "on_behalf_of_id": "party/더불어민주당",
+      "on_behalf_of_id": "party/무소속",
       "organization_id": "legislature",
       "person_id": "737be580-efa9-4ba5-90fb-2f6b1dc7b74d",
       "role": "member"
@@ -25398,6 +25442,14 @@
       "on_behalf_of_id": "party/무소속",
       "organization_id": "legislature",
       "person_id": "969b5012-13a3-4386-a2e8-968e7d0e3153",
+      "role": "member"
+    },
+    {
+      "area_id": "area/비례대표",
+      "legislative_period_id": "term/19",
+      "on_behalf_of_id": "party/새누리당",
+      "organization_id": "legislature",
+      "person_id": "96c7e3b9-d7e6-4e15-ae54-1820124aea74",
       "role": "member"
     },
     {
@@ -26115,7 +26167,7 @@
     {
       "area_id": "area/부산_사하구을",
       "legislative_period_id": "term/19",
-      "on_behalf_of_id": "party/무소속",
+      "on_behalf_of_id": "party/새누리당",
       "organization_id": "legislature",
       "person_id": "e46af24e-a6b0-4aa0-bf28-aed47ad96a3c",
       "role": "member"
