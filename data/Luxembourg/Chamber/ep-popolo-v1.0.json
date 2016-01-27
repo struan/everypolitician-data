@@ -5195,12 +5195,246 @@
     {
       "classification": "party",
       "id": "1081",
-      "name": "Alternativ Demokratesch Reformpartei"
+      "identifiers": [
+        {
+          "identifier": "Q339280",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.adr.lu/"
+        }
+      ],
+      "name": "Alternativ Demokratesch Reformpartei",
+      "other_names": [
+        {
+          "lang": "it",
+          "name": "Partito Riformista di Alternativa Democratica",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Comitè d'Acció per a la Justícia i la Democràcia dels Pensionistes",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Alternativ Demokratesch Reformpartei",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Alternative Democratic Reform Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti réformiste d'alternative démocratique",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lb",
+          "name": "Alternativ Demokratesch Reformpartei",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Alternativ Demokratesch Reformpartei",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Alternativa demokratiska reformpartiet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de-ch",
+          "name": "Alternativ Demokratesch Reformpartei",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Εναλλακτικό Δημοκρατικό Μεταρρυθμιστικό Κόμμα",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "Alternative Democratic Reform Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "Alternative Democratic Reform Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Alternatywna Demokratyczna Partia Reform",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Partido Reformista da Alternativa Democrática",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "1511",
-      "name": "CSV"
+      "identifiers": [
+        {
+          "identifier": "Q1344670",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f0/CSV_Logo.svg",
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.csv.lu/"
+        }
+      ],
+      "name": "CSV",
+      "other_names": [
+        {
+          "lang": "lb",
+          "name": "Chrëschtlech Sozial Vollekspartei",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ku-arab",
+          "name": "پارتیا خرستیان-سۆسیالئا گەلئا لووکسەمبوورگێ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ku-latn",
+          "name": "Partiya Xiristiyan-Sosyal a Gel a Lûksembûrgê",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Chrześcijańsko-Społeczna Partia Ludowa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti populaire chrétien-social",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Христианско-социальная народная партия",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Christian Social People's Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Popular Social Cristiano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Partit Popular Social Cristià",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Християнсько-соціальна народна партія",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Partito Popolare Cristiano Sociale",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Chrëschtlech Sozial Vollekspartei",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "キリスト教社会人民党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Chrëschtlech Sozial Vollekspartei",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Kristsociala folkpartiet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Chrëschtlech Sozial Vollekspartei",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ku",
+          "name": "Partiya Xiristiyan-Sosyal a Gel a Lûksembûrgê",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de-ch",
+          "name": "Christlich Soziale Volkspartei",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Χριστιανικό Κοινωνικό Λαϊκό Κόμμα",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "Christian Social People's Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "Christian Social People's Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Християнска социална народна партия",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Kristillissosiaalinen kansanpuolue",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Kristelig sosialt folkeparti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Partido Popular Social Cristão",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "기독사회인민당",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Hristiyan Sosyal Halkçı Parti",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "legislature",
@@ -5217,22 +5451,494 @@
     {
       "classification": "party",
       "id": "1472",
-      "name": "DP"
+      "identifiers": [
+        {
+          "identifier": "Q1029792",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.dp.lu/"
+        }
+      ],
+      "name": "DP",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Demokratesch Partei",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Partit Democràtic",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Democratic Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Democrático",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti démocratique",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Partito Democratico",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lb",
+          "name": "Demokratesch Partei",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Demokratesch Partei",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Partia Demokratyczna",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Demokratiska partiet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Демократична партія",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de-ch",
+          "name": "Demokratesch Partei",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Δημοκρατικό Κόμμα",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "Democratic Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "Democratic Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Partit Democratic",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Демократическая партия",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "民主党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Demokraattinen puolue",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Partido Democrata",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Demokratiske partiet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Demokratiske partiet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Partidul Democrat",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Demokratesch Partei",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "919",
-      "name": "LSAP"
+      "identifiers": [
+        {
+          "identifier": "Q1070311",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.lsap.lu/"
+        }
+      ],
+      "name": "LSAP",
+      "other_names": [
+        {
+          "lang": "lb",
+          "name": "Lëtzebuerger Sozialistesch Aarbechterpartei",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Luksemburska Socjalistyczna Partia Robotnicza",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Люксембургская социалистическая рабочая партия",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti ouvrier socialiste luxembourgeois",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "룩셈부르크 사회주의 노동자당",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Socialista Obrero Luxemburgués",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Luxembourg Socialist Workers' Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Люксембурзька соціалістична робітнича партія",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Partito Socialista Operaio del Lussemburgo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Lëtzebuerger Sozialistesch Aarbechterpartei",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ルクセンブルク社会主義労働者党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Lëtzebuerger Sozialistesch Arbechterpartei",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Liuksemburgo socialistinė darbininkų partija",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Lëtzebuerger Sozialistesch Aarbechterpartei",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Socialistiska arbetarpartiet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Partit Socialista dels Treballadors",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de-ch",
+          "name": "Lëtzebuerger Sozialistesch Arbechterpartei",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Λουξεμβουργιανό Σοσιαλιστικό Εργατικό Κόμμα",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "Luxembourg Socialist Workers' Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "Luxembourg Socialist Workers' Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Люксембургска социалистическа работническа партия",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Luxemburgin sosialistinen työväenpuolue",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Partido Socialista dos Trabalhadores Luxemburgo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Luxemburg Sosyalist İşçi Partisi",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "1149",
-      "name": "déi Gréng"
+      "identifiers": [
+        {
+          "identifier": "Q767761",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.greng.lu"
+        }
+      ],
+      "name": "déi Gréng",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Déi Gréng",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Els Verds",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Zelení",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "The Greens",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "La Verduloj",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Los Verdes",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Les Verts",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "I Verdi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lb",
+          "name": "Déi gréng",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Déi Gréng",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Zieloni",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Déi Gréng",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Зелені",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de-ch",
+          "name": "Déi Gréng",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Οι Πράσινοι",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "The Greens",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "The Greens",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Os Verdes",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Vihreät",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "1361",
-      "name": "déi Lénk"
+      "identifiers": [
+        {
+          "identifier": "Q1270494",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/Left_Logo.svg",
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.dei-lenk.lu/"
+        }
+      ],
+      "name": "déi Lénk",
+      "other_names": [
+        {
+          "lang": "ru",
+          "name": "Левые (Люксембург)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "La Gauche (Luxembourg)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "The Left",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lb",
+          "name": "Déi Lénk",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Ліві (Люксембург)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Déi Lénk",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "L'Esquerra (Luxemburg)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Déi Lénk",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "La Sinistra",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Lewica (Luksemburg)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de-ch",
+          "name": "Déi Lénk",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Η Αριστερά",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "The Left",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "The Left",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "左派黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "A Esquerda",
+          "note": "multilingual"
+        }
+      ]
     }
   ],
   "meta": {
