@@ -9941,7 +9941,70 @@
     {
       "classification": "party",
       "id": "party/alde",
-      "name": "ALDE"
+      "identifiers": [
+        {
+          "identifier": "Q20432251",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "ALDE",
+      "other_names": [
+        {
+          "lang": "ro",
+          "name": "Partidul Alianța Liberalilor și Democraților",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Alliance des libéraux et démocrates",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Alliance of Liberals and Democrats",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Sojusz Liberałów i Demokratów",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "Alliance of Liberals and Democrats",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "Alliance of Liberals and Democrats",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Alliantie van Liberalen en Democraten",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Alleanza dei Liberali e dei Democratici",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Liberálisok és Demokraták Szövetsége",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Alliansen liberaler och demokrater",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Foedus Liberalium et Democraticorum",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "legislature",
@@ -9963,7 +10026,25 @@
     {
       "classification": "party",
       "id": "party/nd",
-      "name": "ND"
+      "identifiers": [
+        {
+          "identifier": "Q21334645",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "ND",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "National Democratic Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Nationale Democratische Partij",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
@@ -9973,22 +10054,753 @@
     {
       "classification": "party",
       "id": "party/pnl",
-      "name": "PNL"
+      "identifiers": [
+        {
+          "identifier": "Q686228",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.pnl.ro/"
+        }
+      ],
+      "name": "PNL",
+      "other_names": [
+        {
+          "lang": "hu",
+          "name": "Nemzeti Liberális Párt",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Partit Nacional Liberal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Národní liberální strana",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Nationalliberale parti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Partidul Național Liberal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "National Liberal Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Nacional Liberal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti national libéral",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Partidul Naţional Liberal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Partito Nazionale Liberale",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "国民自由党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Factio Nationalis Liberalis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Nationaal-Liberale Partij",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Partia Narodowo-Liberalna",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Partidul Național Liberal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Национальная либеральная партия",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Partidul Naţional Liberal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Milliyetçi Liberal Parti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "国家自由党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Partit nacional liberal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Partidul Național Liberal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Національна ліберальна партія (Румунія)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "המפלגה הלאומית ליברלית (רומניה)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "Национална либерална партија",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Partido Nacional Liberal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "რუმინეთის ნაციონალ-ლიბერალური პარტია",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/psd",
-      "name": "PSD"
+      "identifiers": [
+        {
+          "identifier": "Q752435",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.psd.ro/"
+        }
+      ],
+      "name": "PSD",
+      "other_names": [
+        {
+          "lang": "pl",
+          "name": "Partia Socjaldemokratyczna",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "parti social-démocrate",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "המפלגה הסוציאל-דמוקרטית",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Социал-демократическая партия",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Socialdemócrata",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Social Democratic Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Partidul Social Democrat",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Partit Socialdemòcrata",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Szociáldemokrata Párt",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Partito Social Democratico",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Socialis Democratica Factio",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Partidul Social Democrat",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Partidul Social Democrat",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "社会民主党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Социалдемократическа партия",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Rumunijos socialdemokratų partija",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Sociaaldemocratische Partij",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Socialdemokratiska partiet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Socialdemokratiske parti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Соціал-демократична партія (Румунія)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "Social Democratic Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "Social Democratic Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Partidul Social Democrat",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "社会民主党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ast",
+          "name": "Partíu Social Demócrata",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Partido Social-Democrata",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "რუმინეთის სოციალ-დემოკრატიული პარტია",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "루마니아 사회민주당",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Sociálně-demokraticka strana",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Σοσιαλδημοκρατικό Κόμμα της Ρουμανίας",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be",
+          "name": "Сацыял-дэмакратычная партыя",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/udmr",
-      "name": "UDMR"
+      "identifiers": [
+        {
+          "identifier": "Q266582",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1f/RMDSZlogo.png",
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.udmr.ro"
+        }
+      ],
+      "name": "UDMR",
+      "other_names": [
+        {
+          "lang": "hu",
+          "name": "Romániai Magyar Demokrata Szövetség",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Демократичен съюз на унгарците в Румъния",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Unió Democràtica dels Hongaresos de Romania",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Uniunea Democrată Maghiară din România",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Demokratisk Forening af Ungarere i Rumænien",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Demokratische Union der Ungarn in Rumänien",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Democratic Union of Hungarians in Romania",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Romániai Magyar Demokrata Szövetség",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Union démocrate magyare de Roumanie",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Uniunea Democrată Maghiară din România",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Unione Democratica degli Ungheresi di Romania",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ハンガリー人民主同盟",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Democratische Unie van Hongaren in Roemenië",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Demokratyczny Związek Węgrów w Rumunii",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Uniunea Democrată Maghiară din România",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Демократический союз венгров Румынии",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Maďarský demokratický zväz Rumunska",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Ungerska demokratiska unionen i Rumänien",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Ungarsk demokratisk enhet i Romania",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Демократичний союз угорців Румунії",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Unio democratica Hungarorum in Romania",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Unión Democrática de Húngaros en Rumania",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sq",
+          "name": "Uniunea Democrată Maghiară din România",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/non-attached",
-      "name": "non-attached"
+      "identifiers": [
+        {
+          "identifier": "Q327591",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "non-attached",
+      "other_names": [
+        {
+          "lang": "zh-hans",
+          "name": "无党籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "無黨籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "無黨籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "无党籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-sg",
+          "name": "无党籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-tw",
+          "name": "無黨籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Sans étiquette",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "무소속",
+          "note": "multilingual"
+        },
+        {
+          "lang": "arz",
+          "name": "سياسى مستقل",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidato independiente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "சுயேட்சை",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Parteiloser",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Independen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "無所属",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "ανεξάρτητος",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "independent politician",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yue",
+          "name": "獨立人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "onafhankelijk politicus",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Partilös",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "سياسي مستقل",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "político sem partido",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "беспартийный",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mn",
+          "name": "Бие даагч",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-ec",
+          "name": "независни политичар",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Bağımsız siyasetçi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Politician independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Sitoutumaton",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Annibynnwr",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ur",
+          "name": "آزاد",
+          "note": "multilingual"
+        },
+        {
+          "lang": "az",
+          "name": "Partiyasız",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "løsgænger",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "無黨籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "simple",
+          "name": "Independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "независни политичар",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "کنشگر سیاسی مستقل",
+          "note": "multilingual"
+        },
+        {
+          "lang": "war",
+          "name": "Independente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-el",
+          "name": "nezavisni političar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "indipendente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be",
+          "name": "Беспартыйны",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "polityk niezrzeszony",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mr",
+          "name": "अपक्ष",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be-tarask",
+          "name": "Беспартыйны",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "פוליטיקאי עצמאי",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "partiløs",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "nezávislý",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "független politikus",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Sendependa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hi",
+          "name": "निर्दलीय",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Nezavisni",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "independent politeecian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Nezávislý politik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hak",
+          "name": "Mò-tóng-sit",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "นักการเมืองอิสระ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Незалежний політик",
+          "note": "multilingual"
+        }
+      ]
     }
   ],
   "meta": {
