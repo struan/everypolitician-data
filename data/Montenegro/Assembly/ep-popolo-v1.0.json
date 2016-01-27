@@ -2105,7 +2105,26 @@
     {
       "classification": "party",
       "id": "bosnjacka-stranka",
-      "name": "Bošnjačka stranka"
+      "identifiers": [
+        {
+          "identifier": "Q4947380",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.bosnjackastranka.org"
+        }
+      ],
+      "name": "Bošnjačka stranka",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Bosniak Party",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
@@ -2115,32 +2134,348 @@
     {
       "classification": "party",
       "id": "demokratska-partija-socijalista",
-      "name": "Demokratska partija socijalista"
+      "identifiers": [
+        {
+          "identifier": "Q648211",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.dps.me/"
+        }
+      ],
+      "name": "Demokratska partija socijalista",
+      "other_names": [
+        {
+          "lang": "it",
+          "name": "Partito Democratico dei Socialisti del Montenegro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Демократическа партия на социалистите в Черна гора",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Demokratska Partija Socijalista Crna Gore",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Demokratische Partei der Sozialisten Montenegros",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Democratic Party of Socialists of Montenegro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido de los Socialistas Democráticos de Montenegro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti démocratique socialiste du Monténégro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Демократическая партия социалистов Черногории",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Demokratska partija socijalista Crne Gore",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Демократска партија социјалиста Црне Горе",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Demokratska Partija Socijalista Crne Gore",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be",
+          "name": "Дэмакратычная партыя сацыялістаў Чарнагорыі",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Демократична партія соціалістів Чорногорії",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "حزب الديمقراطي الإشتراكي المونتينيغري",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Demokratická strana socialistů Černé Hory",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Karadağ Sosyalistleri Demokratik Partisi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Demokrata Partio de Socialistoj de Montenegro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Demokratska Partija Socijalista Crne Gore",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Partidul Democrat-Socialist din Muntenegru",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "Демократска партија на социјалистите на Црна Гора",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "demokratski-front",
-      "name": "Demokratski front"
+      "identifiers": [
+        {
+          "identifier": "Q347411",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Demokratski front",
+      "other_names": [
+        {
+          "lang": "sr-el",
+          "name": "Demokratski front",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-ec",
+          "name": "Демократски фронт",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Fronte Democratico",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Демократски фронт",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Democratic Front",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Demokratische Front Montenegros",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Demokratski front (Crna Gora)",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "forca",
-      "name": "Forca"
+      "identifiers": [
+        {
+          "identifier": "Q4800",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Forca",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "New Democratic Power – FORCA",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Nuova Forza Democratica",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Nova Demokratska Snaga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Nueva Fuerza Democrática",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Énergie Nouveau-démocrate",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sq",
+          "name": "Forca e Re Demokratike",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "ФОРЦА",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "hrvatska-gradanska-inicijativa",
-      "name": "Hrvatska građanska inicijativa"
+      "identifiers": [
+        {
+          "identifier": "Q5187103",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.hgi.co.me/"
+        }
+      ],
+      "name": "Hrvatska građanska inicijativa",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Croatian Civic Initiative",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "liberalna-partija",
-      "name": "Liberalna partija"
+      "identifiers": [
+        {
+          "identifier": "Q1266892",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Liberalna partija",
+      "other_names": [
+        {
+          "lang": "fr",
+          "name": "Parti libéral du Monténégro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Liberalna partija Crne Gore",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-el",
+          "name": "Liberalna partija Crne Gore",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-ec",
+          "name": "Либерална партија Црне Горе",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Liberal Party of Montenegro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Partito Liberale del Montenegro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Liberalna partija Crne Gore",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Либерална партија Црне Горе",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bs",
+          "name": "Liberalna partija Crne Gore",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Ліберальна партія Чорногорії",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "pozitivna-crna-gora",
-      "name": "Pozitivna Crna Gora"
+      "identifiers": [
+        {
+          "identifier": "Q3862307",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.pozitivnacrnagora.me"
+        }
+      ],
+      "name": "Pozitivna Crna Gora",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Positive Montenegro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Montenegro Positivo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sq",
+          "name": "Mali i Zi Pozitiv",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Pozitivna Crna Gora",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Позитивна Црна Гора",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "legislature",
@@ -2157,12 +2492,135 @@
     {
       "classification": "party",
       "id": "socijaldemokratska-partija-crne-gore",
-      "name": "Socijaldemokratska partija Crne Gore"
+      "identifiers": [
+        {
+          "identifier": "Q2713129",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.sdp.cg.yu/"
+        }
+      ],
+      "name": "Socijaldemokratska partija Crne Gore",
+      "other_names": [
+        {
+          "lang": "el",
+          "name": "Σοσιαλδημοκρατικό Κόμμα του Μαυροβουνίου",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti social-démocrate du Monténégro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-el",
+          "name": "Socijaldemokratska partija Crne Gore",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-ec",
+          "name": "Социјалдемократска партија Црне Горе",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Socialdemócrata de Montenegro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Social Democratic Party of Montenegro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Juodkalnijos socialdemokratų partija",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Partito Socialdemocratico del Montenegro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Социјалдемократска партија Црне Горе",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Социал-демократическая партия Черногории",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "socijalisticka-narodna-partija",
-      "name": "Socijalistička narodna partija"
+      "identifiers": [
+        {
+          "identifier": "Q2711827",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.snp.co.me"
+        }
+      ],
+      "name": "Socijalistička narodna partija",
+      "other_names": [
+        {
+          "lang": "pl",
+          "name": "Czarnogórska Partia Narodowosocjalistyczna",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Социалистическа народна партия на Черна гора",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti socialiste populaire du Monténégro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Социалистическая народная партия Черногории",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-el",
+          "name": "Socijalistička narodna partija Crne Gore",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-ec",
+          "name": "Социјалистичка народна партија Црне Горе",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Socialist People's Party of Montenegro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Partito Popolare Socialista del Montenegro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Социјалистичка народна партија Црне Горе",
+          "note": "multilingual"
+        }
+      ]
     }
   ],
   "meta": {
