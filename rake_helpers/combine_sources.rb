@@ -351,6 +351,28 @@ namespace :merge_sources do
       end
     end
 
+    # Any local corrections in manual/corrections.csv
+    corrections_file = 'sources/manual/corrections.csv'
+    if File.exist? corrections_file
+      CSV.table(corrections_file, converters: nil).each do |correction|
+        rows = merged_rows.select { |r| r[:uuid] == correction[:uuid] } 
+        if rows.empty?
+          warn "Can't correct #{correction[:uuid]} — no such person"
+          next
+        end
+
+        field = correction[:field].to_sym
+        rows.each do |row|
+          unless row[field] == correction[:old]
+            warn "Can't correct #{correction[:uuid]}: #{field} is '#{row[field]} not '#{correction[:old]}'"
+            next
+          end
+          row[field] = correction[:new]
+        end
+      end
+    end
+
+
     legacy_id_file = 'sources/manual/legacy-ids.csv'
     if File.exist? legacy_id_file
       legacy = CSV.table(legacy_id_file, converters: nil).group_by { |r| r[:id] }
