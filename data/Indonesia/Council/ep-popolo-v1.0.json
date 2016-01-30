@@ -1679,6 +1679,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "nl",
+          "name": "Dede Yusuf",
+          "note": "multilingual"
+        },
+        {
           "lang": "su",
           "name": "Dede Yusuf",
           "note": "multilingual"
@@ -3417,6 +3422,11 @@
           "lang": "jv",
           "name": "Fadel Muhammad",
           "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Fadel Muhammad",
+          "note": "multilingual"
         }
       ],
       "sources": [
@@ -3708,6 +3718,21 @@
         }
       ],
       "name": "Dra. ELVIANA, M.Si",
+      "sources": [
+        {
+          "url": "http://dpr.go.id/en/anggota"
+        }
+      ]
+    },
+    {
+      "id": "60892394-006f-4fb0-a1da-d30a6b2aba96",
+      "image": "http://dpr.go.id/doksigota/photo/313_DRA._EVA_KUSUMA_SUNDARI_MA,_MDE.jpg",
+      "images": [
+        {
+          "url": "http://dpr.go.id/doksigota/photo/313_DRA._EVA_KUSUMA_SUNDARI_MA,_MDE.jpg"
+        }
+      ],
+      "name": "Dra. EVA KUSUMA SUNDARI MA, MDE",
       "sources": [
         {
           "url": "http://dpr.go.id/en/anggota"
@@ -17323,6 +17348,12 @@
     },
     {
       "birth_date": "1962-05-17",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "Zul_Hasan"
+        }
+      ],
       "gender": "male",
       "id": "5a6ee54b-e508-434a-8690-c55c954e49cd",
       "identifiers": [
@@ -17357,6 +17388,10 @@
         {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Зулкифли_Хасан"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/Zul_Hasan"
         },
         {
           "note": "website",
@@ -19385,6 +19420,14 @@
       "on_behalf_of_id": "party/democrat_party_faction",
       "organization_id": "legislature",
       "person_id": "60756983-5ec6-4326-b41c-45d1f4a8ee89",
+      "role": "member"
+    },
+    {
+      "area_id": "area/jawa_timur_vi",
+      "legislative_period_id": "term/18",
+      "on_behalf_of_id": "party/indonesian_democratic_party_of_struggle_faction",
+      "organization_id": "legislature",
+      "person_id": "60892394-006f-4fb0-a1da-d30a6b2aba96",
       "role": "member"
     },
     {
