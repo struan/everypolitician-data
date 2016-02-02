@@ -7509,11 +7509,19 @@
         "sources_directory": "data/Spain/Congress/sources",
         "popolo": "data/Spain/Congress/ep-popolo-v1.0.json",
         "names": "data/Spain/Congress/names.csv",
-        "lastmod": "1454155048",
-        "person_count": 397,
-        "sha": "ef810d6",
+        "lastmod": "1454358212",
+        "person_count": 621,
+        "sha": "88857af",
         "legislative_periods": [
           {
+            "id": "term/11",
+            "name": "XI Legislatura",
+            "start_date": "2016-01-13",
+            "slug": "11",
+            "csv": "data/Spain/Congress/term-11.csv"
+          },
+          {
+            "end_date": "2015-10-27",
             "id": "term/10",
             "name": "X Legislatura",
             "start_date": "2011-11-28",
