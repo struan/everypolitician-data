@@ -540,6 +540,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Vadim_Ivchenko"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Ivchenko_Vadym_Eugenovych"
         },
@@ -5993,6 +5997,10 @@
           "url": "https://uk.wikipedia.org/wiki/Гончаренко_Олексій_Олексійович"
         },
         {
+          "note": "Wikipedia (ukwikiquote)",
+          "url": "https://ukwikiquote.wikipedia.org/wiki/Гончаренко_Олексій_Олексійович"
+        },
+        {
           "note": "facebook",
           "url": "alexeygoncharenko"
         }
@@ -10288,6 +10296,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Pavlo_Kyshkar"
+        },
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Pavlo_Kyshkar"
@@ -33805,11 +33817,21 @@
     },
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
+      "end_date": "2016-02-02",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "c3fa0685-e602-48c7-8794-eeb6435ff9be",
       "role": "member"
+    },
+    {
+      "area_id": "area/Загальнодержавному_багатомандатному_округу",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/Позафракційні",
+      "organization_id": "legislature",
+      "person_id": "c3fa0685-e602-48c7-8794-eeb6435ff9be",
+      "role": "member",
+      "start_date": "2016-02-03"
     },
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
