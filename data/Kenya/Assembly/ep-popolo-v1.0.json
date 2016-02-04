@@ -4965,6 +4965,23 @@
       ]
     },
     {
+      "birth_date": "1973-03-12",
+      "email": "kajiadosouth@parliament.go.kemailto:kmetito49@gmail.com",
+      "id": "56a9d06f-f9ac-4efb-ac50-0e16c47f9717",
+      "image": "http://info.mzalendo.com/media_root/cache/3a/a5/3aa509e03411ad0d1f83b33b02c26cc8.jpg",
+      "images": [
+        {
+          "url": "http://info.mzalendo.com/media_root/cache/3a/a5/3aa509e03411ad0d1f83b33b02c26cc8.jpg"
+        }
+      ],
+      "name": "Judah ole Metito",
+      "sources": [
+        {
+          "url": "http://info.mzalendo.com/person/judah-ole-metito/"
+        }
+      ]
+    },
+    {
       "email": "njomojude@gmail.com",
       "gender": "male",
       "id": "3ca3315d-3c64-4e57-8828-e2b975d06d69",
@@ -8574,11 +8591,6 @@
     },
     {
       "classification": "party",
-      "id": "party/labour_party_of_kenya",
-      "name": "Labour Party Of Kenya"
-    },
-    {
-      "classification": "party",
       "id": "MDP",
       "name": "Maendeleo Democratic Party"
     },
@@ -9104,7 +9116,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/embu",
+      "area_id": "area/mbeere_south",
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
@@ -9642,6 +9654,14 @@
       "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
       "person_id": "56a8c333-bd25-498e-b6db-93634fd57bbd",
+      "role": "member"
+    },
+    {
+      "area_id": "area/kajiado_east",
+      "legislative_period_id": "term/11",
+      "on_behalf_of_id": "IND",
+      "organization_id": "legislature",
+      "person_id": "56a9d06f-f9ac-4efb-ac50-0e16c47f9717",
       "role": "member"
     },
     {
@@ -10819,7 +10839,7 @@
     {
       "area_id": "area/kajiado_south",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/labour_party_of_kenya",
+      "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
       "person_id": "c6b3dc13-7b5a-47ce-900e-98529966cea5",
       "role": "member"
@@ -11073,7 +11093,6 @@
       "role": "member"
     },
     {
-      "area_id": "area/bondo",
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
@@ -11439,7 +11458,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/kajiado_north",
+      "area_id": "area/kajiado_west",
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
@@ -11916,6 +11935,11 @@
     {
       "id": "area/kajiado_south",
       "name": "Kajiado South",
+      "type": "constituency"
+    },
+    {
+      "id": "area/kajiado_west",
+      "name": "Kajiado West",
       "type": "constituency"
     },
     {
@@ -12471,6 +12495,11 @@
     {
       "id": "area/mbeere_north",
       "name": "Mbeere North",
+      "type": "constituency"
+    },
+    {
+      "id": "area/mbeere_south",
+      "name": "Mbeere South",
       "type": "constituency"
     },
     {
