@@ -3857,6 +3857,7 @@
     },
     {
       "birth_date": "1979-05-16",
+      "gender": "female",
       "id": "a1e8cd1b-5b0d-492a-9a64-d1865034025c",
       "identifiers": [
         {
@@ -6838,6 +6839,10 @@
       "given_name": "Vladimir",
       "id": "9ef05dbb-0f4b-479e-a4d2-dcbe3676c421",
       "identifiers": [
+        {
+          "identifier": "1003897",
+          "scheme": "britannica"
+        },
         {
           "identifier": "104",
           "scheme": "everypolitician_legacy"
