@@ -3028,6 +3028,39 @@
       ]
     },
     {
+      "birth_date": "1973-07-08",
+      "email": "daniel_lipsic@nrsr.sk",
+      "family_name": "Lipšic",
+      "gender": "male",
+      "given_name": "Daniel",
+      "honorific_prefix": "JUDr.",
+      "id": "6c7c9de8-6fff-4d7b-af79-c49ec7cfa0e2",
+      "identifiers": [
+        {
+          "identifier": "28033233614144779524245101113612513339",
+          "scheme": "nrsr"
+        },
+        {
+          "identifier": "54d2a5a4273a394ad5dba0a4",
+          "scheme": "parldata"
+        }
+      ],
+      "image": "http://files.parldata.eu/sk/nrsr/people/54d2a5a4273a394ad5dba0a4/image.jpeg",
+      "images": [
+        {
+          "url": "http://files.parldata.eu/sk/nrsr/people/54d2a5a4273a394ad5dba0a4/image.jpeg"
+        }
+      ],
+      "name": "Daniel Lipšic",
+      "national_identity": "slovenská",
+      "sort_name": "Lipšic, Daniel",
+      "sources": [
+        {
+          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/poslanec&PoslanecID=280&CisObdobia=6"
+        }
+      ]
+    },
+    {
       "birth_date": "1955-08-20",
       "email": "darina_gabaniova@nrsr.sk",
       "family_name": "Gabániová",
@@ -21674,6 +21707,39 @@
       "gender": "male",
       "given_name": "Milan",
       "honorific_prefix": "Bc.",
+      "id": "5d22771e-c2a0-4ecf-a613-8a9e96599698",
+      "identifiers": [
+        {
+          "identifier": "8866118413773746",
+          "scheme": "nrsr"
+        },
+        {
+          "identifier": "54d2a809273a394ad5dbc3a2",
+          "scheme": "parldata"
+        }
+      ],
+      "image": "http://files.parldata.eu/sk/nrsr/people/54d2a809273a394ad5dbc3a2/image.jpeg",
+      "images": [
+        {
+          "url": "http://files.parldata.eu/sk/nrsr/people/54d2a809273a394ad5dbc3a2/image.jpeg"
+        }
+      ],
+      "name": "Milan Halúz",
+      "national_identity": "slovenská",
+      "sort_name": "Halúz, Milan",
+      "sources": [
+        {
+          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/poslanec&PoslanecID=886&CisObdobia=6"
+        }
+      ]
+    },
+    {
+      "birth_date": "1967-01-22",
+      "email": "milan_haluz@nrsr.sk",
+      "family_name": "Halúz",
+      "gender": "male",
+      "given_name": "Milan",
+      "honorific_prefix": "Bc.",
       "id": "607291f4-2691-46cb-ae61-8f5032a8386a",
       "identifiers": [
         {
@@ -27765,6 +27831,10 @@
           "url": "https://commons.wikipedia.org/wiki/Category:Radoslav_Procházka"
         },
         {
+          "note": "Wikipedia (cs)",
+          "url": "https://cs.wikipedia.org/wiki/Radoslav_Procházka"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Radoslav_Procházka"
         },
@@ -27998,10 +28068,10 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "http://files.parldata.eu/sk/nrsr/people/54d2a5d8273a394ad5dba100/image.jpeg",
+      "image": "http://files.parldata.eu/sk/nrsr/people/54d2a5d8273a394ad5dba100/image.2.jpeg",
       "images": [
         {
-          "url": "http://files.parldata.eu/sk/nrsr/people/54d2a5d8273a394ad5dba100/image.jpeg"
+          "url": "http://files.parldata.eu/sk/nrsr/people/54d2a5d8273a394ad5dba100/image.2.jpeg"
         }
       ],
       "links": [
@@ -39310,6 +39380,7 @@
       "start_date": "2010-07-08"
     },
     {
+      "end_date": "2016-01-29",
       "legislative_period_id": "term/6",
       "on_behalf_of_id": "41",
       "organization_id": "legislature",
@@ -39714,6 +39785,7 @@
       "start_date": "2010-07-08"
     },
     {
+      "end_date": "2015-12-31",
       "legislative_period_id": "term/6",
       "on_behalf_of_id": "41",
       "organization_id": "legislature",
@@ -41345,6 +41417,23 @@
       "start_date": "2004-09-14"
     },
     {
+      "end_date": "2016-01-14",
+      "legislative_period_id": "term/6",
+      "on_behalf_of_id": "41",
+      "organization_id": "legislature",
+      "person_id": "5d22771e-c2a0-4ecf-a613-8a9e96599698",
+      "role": "member",
+      "start_date": "2012-04-04"
+    },
+    {
+      "legislative_period_id": "term/6",
+      "on_behalf_of_id": "41",
+      "organization_id": "legislature",
+      "person_id": "5d22771e-c2a0-4ecf-a613-8a9e96599698",
+      "role": "member",
+      "start_date": "2016-01-14"
+    },
+    {
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "16",
       "organization_id": "legislature",
@@ -42355,6 +42444,47 @@
       "person_id": "6c13504c-dd14-4e7b-ae6d-a38756a6a2eb",
       "role": "member",
       "start_date": "2001-06-18"
+    },
+    {
+      "end_date": "2002-10-16",
+      "legislative_period_id": "term/3",
+      "on_behalf_of_id": "14",
+      "organization_id": "legislature",
+      "person_id": "6c7c9de8-6fff-4d7b-af79-c49ec7cfa0e2",
+      "role": "member",
+      "start_date": "2002-10-15"
+    },
+    {
+      "legislative_period_id": "term/3",
+      "on_behalf_of_id": "14",
+      "organization_id": "legislature",
+      "person_id": "6c7c9de8-6fff-4d7b-af79-c49ec7cfa0e2",
+      "role": "member",
+      "start_date": "2006-02-08"
+    },
+    {
+      "legislative_period_id": "term/4",
+      "on_behalf_of_id": "24",
+      "organization_id": "legislature",
+      "person_id": "6c7c9de8-6fff-4d7b-af79-c49ec7cfa0e2",
+      "role": "member",
+      "start_date": "2006-07-04"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "0",
+      "organization_id": "legislature",
+      "person_id": "6c7c9de8-6fff-4d7b-af79-c49ec7cfa0e2",
+      "role": "member",
+      "start_date": "2010-07-08"
+    },
+    {
+      "legislative_period_id": "term/6",
+      "on_behalf_of_id": "39",
+      "organization_id": "legislature",
+      "person_id": "6c7c9de8-6fff-4d7b-af79-c49ec7cfa0e2",
+      "role": "member",
+      "start_date": "2012-04-04"
     },
     {
       "legislative_period_id": "term/5",
