@@ -257,7 +257,7 @@
         },
         {
           "type": "twitter",
-          "value": "https://twitter.com/GlenbertCroes"
+          "value": "GlenbertCroes"
         }
       ],
       "email": "glenbert.croes@parlamento.aw",
@@ -278,6 +278,10 @@
         {
           "note": "facebook",
           "url": "https://www.facebook.com/#!/glenbert.croes?fref=ts"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/GlenbertCroes"
         }
       ],
       "name": "G. F. Croes",
@@ -516,7 +520,7 @@
         },
         {
           "type": "twitter",
-          "value": "https://twitter.com/grherde"
+          "value": "grherde"
         }
       ],
       "email": "rene.herde@parlamento.awmailto:herdegr@gmail.com",
@@ -531,6 +535,12 @@
       "images": [
         {
           "url": "http://www.parlamento.aw/plaat.php?fileid=6014&f=db5fc58a909f8b5e829f9982bfe33c2179fb318b465a3047e00c573e1d9bac4901372ea660b6a03ad685834274efefca970c2e6fa6d6604992582cfa4388996f"
+        }
+      ],
+      "links": [
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/grherde"
         }
       ],
       "name": "drs. G. R. Herdé",
@@ -774,7 +784,7 @@
         },
         {
           "type": "twitter",
-          "value": "https://twitter.com/search?q=%23EvelynMEP&src=typd"
+          "value": "EvelynMEP"
         }
       ],
       "email": "evelyna.croes@parlamento.aw",
@@ -789,6 +799,12 @@
       "images": [
         {
           "url": "http://www.parlamento.aw/plaat.php?fileid=4073&f=5da398e21cd71f21c59c8f328f48135752dff7e880fdb904e7d5bc2f840f78c92ca28be93eed8059757c9364c86ab122785a941e99c6b8bf18db9a6d1e644b10"
+        }
+      ],
+      "links": [
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/EvelynMEP"
         }
       ],
       "name": "mr. E. C. Wever-Croes",
@@ -893,7 +909,71 @@
     {
       "classification": "party",
       "id": "AVP",
-      "name": "Arubaanse Volkspartij Partij"
+      "identifiers": [
+        {
+          "identifier": "Q1288119",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.avp.aw/main/"
+        }
+      ],
+      "name": "Arubaanse Volkspartij Partij",
+      "other_names": [
+        {
+          "lang": "fr",
+          "name": "Parti populaire arubéen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Arupska narodna stranka",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Aruban People's Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido del Pueblo Arubano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Partit del Poble d'Aruba",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Arubaanse Volkspartij",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Arubaanse Volkspartij",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Народная партия Арубы",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Det arubanske folkepartiet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Det arubanske folkepartiet",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "legislature",
@@ -910,12 +990,84 @@
     {
       "classification": "party",
       "id": "MEP",
-      "name": "Movimiento Electoral di Pueblo"
+      "identifiers": [
+        {
+          "identifier": "Q1288512",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Movimiento Electoral di Pueblo",
+      "other_names": [
+        {
+          "lang": "fr",
+          "name": "Mouvement électoral du peuple",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Narodni izborni pokret",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "People's Electoral Movement",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Movimiento Electoral del Pueblo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Moviment Electoral del Poble",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Arubos liaudies rinkimų judėjimas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Movimiento Electoral di Pueblo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Movimiento Electoral di Pueblo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Movimiento Electoral di Pueblo",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "PDR",
-      "name": "Partido Democracia Real"
+      "identifiers": [
+        {
+          "identifier": "Q7300885",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.cambioawor.com/"
+        }
+      ],
+      "name": "Partido Democracia Real",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Real Democracy Party",
+          "note": "multilingual"
+        }
+      ]
     }
   ],
   "meta": {
