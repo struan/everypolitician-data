@@ -1055,12 +1055,53 @@
     {
       "classification": "party",
       "id": "FF",
-      "name": "Fiji First"
+      "identifiers": [
+        {
+          "identifier": "Q17069868",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Fiji First",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Fiji First Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Fidji d'abord",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "NFP",
-      "name": "National Federation Party"
+      "identifiers": [
+        {
+          "identifier": "Q6972579",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "National Federation Party",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "National Federation Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hif",
+          "name": "National Federation Party (Fiji)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti de la fédération nationale",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "legislature",
@@ -1077,7 +1118,25 @@
     {
       "classification": "party",
       "id": "SODELPA",
-      "name": "Social Democratic Liberal Party"
+      "identifiers": [
+        {
+          "identifier": "Q7550539",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Social Democratic Liberal Party",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Social Democratic Liberal Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti libéral social-démocrate",
+          "note": "multilingual"
+        }
+      ]
     }
   ],
   "meta": {
