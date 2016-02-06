@@ -20,8 +20,15 @@ class WikidataLookup
 
   private
 
+  def wikidata_ids
+    @_wikidata_ids ||= wikidata_id_lookup.keys.each do |qid|
+      abort "#{qid} is not a valid Wikidata id" unless qid.start_with? 'Q'
+    end
+  end
+
+
   def wikidata_results
-    @wikidata_results ||= Wikisnakker::Item.find(wikidata_id_lookup.keys)
+    @wikidata_results ||= Wikisnakker::Item.find(wikidata_ids)
   end
 
   def fields_for(result)
