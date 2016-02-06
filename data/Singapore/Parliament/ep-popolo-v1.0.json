@@ -3180,6 +3180,21 @@
       ]
     },
     {
+      "id": "592fd60e-bcef-4dee-be95-cbd40414e771",
+      "image": "http://www.parliament.gov.sg/sites/default/files/Daniel%20Goh_0.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.gov.sg/sites/default/files/Daniel%20Goh_0.jpg"
+        }
+      ],
+      "name": "Daniel Goh Pei Siong",
+      "sources": [
+        {
+          "url": "http://www.parliament.gov.sg/history/13th-parliament"
+        }
+      ]
+    },
+    {
       "birth_date": "1971",
       "gender": "male",
       "given_name": "Darryl",
@@ -3773,6 +3788,11 @@
         {
           "lang": "nan",
           "name": "Lí Bí-hoa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Lee Bee Wah",
           "note": "multilingual"
         },
         {
@@ -17652,6 +17672,11 @@
           "lang": "id",
           "name": "Yeo Cheow Tong",
           "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Yeo Cheow Tong",
+          "note": "multilingual"
         }
       ],
       "sources": [
@@ -21607,6 +21632,13 @@
       "on_behalf_of_id": "party/barisan_sosialis",
       "organization_id": "legislature",
       "person_id": "592f4c80-0606-48d5-ab4a-7fc0b8bad085",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "party/workers’_party",
+      "organization_id": "legislature",
+      "person_id": "592fd60e-bcef-4dee-be95-cbd40414e771",
       "role": "member"
     },
     {
