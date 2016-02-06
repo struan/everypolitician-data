@@ -51,6 +51,14 @@
         "type": "gender-balance",
         "source": "Finland/Eduskunta"
       }
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "create": {
+        "type": "group-wikidata",
+        "source": "manual/group_wikidata.csv"
+      }
     }
   ]
 }
