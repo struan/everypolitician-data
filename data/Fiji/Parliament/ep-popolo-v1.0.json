@@ -23,6 +23,21 @@
       ]
     },
     {
+      "id": "f2d162af-a39e-4859-99ed-a77b15810d96",
+      "image": "http://www.parliament.gov.fj/getattachment/Members/Parliamentery-Parties/MrAlexander-D-OConner-300x300.jpg.aspx",
+      "images": [
+        {
+          "url": "http://www.parliament.gov.fj/getattachment/Members/Parliamentery-Parties/MrAlexander-D-OConner-300x300.jpg.aspx"
+        }
+      ],
+      "name": "Alexander David O'Connor",
+      "sources": [
+        {
+          "url": "http://www.parliament.gov.fj/Members/Parliamentery-Parties.aspx"
+        }
+      ]
+    },
+    {
       "gender": "male",
       "id": "91adff78-a718-4d02-a3b4-bed750941b50",
       "identifiers": [
@@ -309,6 +324,21 @@
       ]
     },
     {
+      "id": "ff72b4a0-4b5e-42b9-b7a3-0f8863212ecc",
+      "image": "http://www.parliament.gov.fj/getattachment/Members/Parliamentery-Parties/JIJILIA-KUMAR.jpg.aspx",
+      "images": [
+        {
+          "url": "http://www.parliament.gov.fj/getattachment/Members/Parliamentery-Parties/JIJILIA-KUMAR.jpg.aspx"
+        }
+      ],
+      "name": "Jilila Kumar",
+      "sources": [
+        {
+          "url": "http://www.parliament.gov.fj/Members/Parliamentery-Parties.aspx"
+        }
+      ]
+    },
+    {
       "gender": "male",
       "id": "ddf7b397-6957-4bae-bd26-170856d70f69",
       "identifiers": [
@@ -478,6 +508,21 @@
         }
       ],
       "name": "Mereseini Vuniwaqa",
+      "sources": [
+        {
+          "url": "http://www.parliament.gov.fj/Members/Parliamentery-Parties.aspx"
+        }
+      ]
+    },
+    {
+      "id": "882fea2c-2284-4dd2-8aa2-37b89d72477f",
+      "image": "http://www.parliament.gov.fj/getattachment/Members/Parliamentery-Parties/Mikaele-Leawere.jpg.aspx",
+      "images": [
+        {
+          "url": "http://www.parliament.gov.fj/getattachment/Members/Parliamentery-Parties/Mikaele-Leawere.jpg.aspx"
+        }
+      ],
+      "name": "Mikaele Leawere",
       "sources": [
         {
           "url": "http://www.parliament.gov.fj/Members/Parliamentery-Parties.aspx"
@@ -1525,6 +1570,13 @@
       "legislative_period_id": "term/2014",
       "on_behalf_of_id": "SODELPA",
       "organization_id": "legislature",
+      "person_id": "882fea2c-2284-4dd2-8aa2-37b89d72477f",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "SODELPA",
+      "organization_id": "legislature",
       "person_id": "88a2f2ce-4691-4cff-bc74-49fef36c7eb6",
       "role": "member"
     },
@@ -1670,6 +1722,13 @@
     },
     {
       "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "FF",
+      "organization_id": "legislature",
+      "person_id": "f2d162af-a39e-4859-99ed-a77b15810d96",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
       "on_behalf_of_id": "SODELPA",
       "organization_id": "legislature",
       "person_id": "f4c75899-f085-4676-a754-8708a72655aa",
@@ -1687,6 +1746,13 @@
       "on_behalf_of_id": "FF",
       "organization_id": "legislature",
       "person_id": "f9d17b73-b422-4279-a0d9-1e3b7258e1a0",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "FF",
+      "organization_id": "legislature",
+      "person_id": "ff72b4a0-4b5e-42b9-b7a3-0f8863212ecc",
       "role": "member"
     }
   ],
