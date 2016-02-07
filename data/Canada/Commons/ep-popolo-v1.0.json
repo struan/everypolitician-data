@@ -7033,6 +7033,7 @@
         }
       ],
       "email": "Chandra.Arya@parl.gc.ca",
+      "gender": "male",
       "id": "0068ee69-6842-482c-9ffc-b7c67854ceef",
       "identifiers": [
         {
@@ -11623,6 +11624,11 @@
           "lang": "en",
           "name": "Denis Lemieux",
           "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Denis Lemieux",
+          "note": "multilingual"
         }
       ],
       "sources": [
@@ -12345,6 +12351,10 @@
         {
           "note": "twitter",
           "url": "https://twitter.com/DianneLWatts"
+        },
+        {
+          "note": "website",
+          "url": "http://diannewattsmp.ca"
         }
       ],
       "name": "Dianne Watts",
@@ -17200,6 +17210,10 @@
         {
           "note": "Wikipedia (ur)",
           "url": "https://ur.wikipedia.org/wiki/ہرجیت_سجن"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/石俊_(政治人物)"
         },
         {
           "note": "twitter",
@@ -44569,6 +44583,7 @@
       ]
     },
     {
+      "birth_date": "1969-05-27",
       "contact_details": [
         {
           "type": "twitter",
