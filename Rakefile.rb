@@ -64,6 +64,7 @@ task 'countries.json' do
         json_file = h + '/ep-popolo-v1.0.json'
         name_file = h + '/names.csv'
         popolo = json_from(json_file)
+        remote_source = 'https://cdn.rawgit.com/everypolitician/everypolitician-data/%s/%s'
 
         cmd = "git --no-pager log --format='%h|%at' -1 #{h}"
         (sha, lastmod) = `#{cmd}`.chomp.split('|')
@@ -74,11 +75,12 @@ task 'countries.json' do
           slug: lslug,
           sources_directory: "#{h}/sources",
           popolo: json_file,
+          popolo_url: remote_source % [sha, json_file],
           names: name_file,
           lastmod: lastmod,
           person_count: popolo[:persons].size,
           sha: sha,
-          legislative_periods: terms_from(popolo, h),
+          legislative_periods: terms_from(popolo, h).each { |t| t[:csv_url] = remote_source % [sha, t[:csv]] },
         }
       }
     }
