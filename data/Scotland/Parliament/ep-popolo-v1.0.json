@@ -19622,156 +19622,13 @@
     {
       "classification": "party",
       "id": "independent",
-      "name": "Independent"
-    },
-    {
-      "classification": "party",
-      "id": "labour",
-      "identifiers": [
-        {
-          "identifier": "Q3179541",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "website",
-          "url": "http://www.scottishlabour.org.uk/"
-        }
-      ],
-      "name": "Labour",
-      "other_names": [
-        {
-          "lang": "pl",
-          "name": "Szkocka Partia Pracy",
-          "note": "multilingual"
-        },
-        {
-          "lang": "gd",
-          "name": "Pàrtaidh Làbarach na h-Alba",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Parti travailliste écossais",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Scottish Labour Party",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ca",
-          "name": "Partit Laborista Escocès",
-          "note": "multilingual"
-        },
-        {
-          "lang": "de",
-          "name": "Schottische Arbeiterpartei",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nb",
-          "name": "Scottish Labour Party",
-          "note": "multilingual"
-        },
-        {
-          "lang": "zh",
-          "name": "苏格兰工党",
-          "note": "multilingual"
-        },
-        {
-          "lang": "cy",
-          "name": "Plaid Lafur yr Alban",
-          "note": "multilingual"
-        },
-        {
-          "lang": "da",
-          "name": "Scottish Labour Party",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ru",
-          "name": "шотландская лейбористская партия",
-          "note": "multilingual"
-        },
-        {
-          "lang": "es",
-          "name": "Partido Laborista Escocés",
-          "note": "multilingual"
-        },
-        {
-          "lang": "eo",
-          "name": "Skota Laborista Partio",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "classification": "party",
-      "id": "liberal-democrat",
-      "identifiers": [
-        {
-          "identifier": "Q3250438",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "website",
-          "url": "http://www.scotlibdems.org.uk/"
-        }
-      ],
-      "name": "Liberal Democrat",
-      "other_names": [
-        {
-          "lang": "gd",
-          "name": "Pàrtaidh Libearal Deamocratach na h-Alba",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Scottish Liberal Democrats",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ca",
-          "name": "Liberal Demòcrates Escocesos",
-          "note": "multilingual"
-        },
-        {
-          "lang": "pl",
-          "name": "Szkocka Partia Liberalnych Demokratów",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nb",
-          "name": "Scottish Liberal Democrats",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Libéraux-démocrates écossais",
-          "note": "multilingual"
-        },
-        {
-          "lang": "eo",
-          "name": "Skotaj Liberalaj Demokratoj",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "classification": "party",
-      "id": "none",
       "identifiers": [
         {
           "identifier": "Q327591",
           "scheme": "wikidata"
         }
       ],
-      "name": "None",
+      "name": "Independent",
       "other_names": [
         {
           "lang": "zh-hans",
@@ -20054,6 +19911,149 @@
           "note": "multilingual"
         }
       ]
+    },
+    {
+      "classification": "party",
+      "id": "labour",
+      "identifiers": [
+        {
+          "identifier": "Q3179541",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.scottishlabour.org.uk/"
+        }
+      ],
+      "name": "Labour",
+      "other_names": [
+        {
+          "lang": "pl",
+          "name": "Szkocka Partia Pracy",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Pàrtaidh Làbarach na h-Alba",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti travailliste écossais",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Scottish Labour Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Partit Laborista Escocès",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Schottische Arbeiterpartei",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Scottish Labour Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "苏格兰工党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Plaid Lafur yr Alban",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Scottish Labour Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "шотландская лейбористская партия",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Laborista Escocés",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Skota Laborista Partio",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "classification": "party",
+      "id": "liberal-democrat",
+      "identifiers": [
+        {
+          "identifier": "Q3250438",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.scotlibdems.org.uk/"
+        }
+      ],
+      "name": "Liberal Democrat",
+      "other_names": [
+        {
+          "lang": "gd",
+          "name": "Pàrtaidh Libearal Deamocratach na h-Alba",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Scottish Liberal Democrats",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Liberal Demòcrates Escocesos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Szkocka Partia Liberalnych Demokratów",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Scottish Liberal Democrats",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Libéraux-démocrates écossais",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Skotaj Liberalaj Demokratoj",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "classification": "party",
+      "id": "none",
+      "name": "None"
     },
     {
       "classification": "party",
