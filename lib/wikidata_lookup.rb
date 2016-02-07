@@ -61,11 +61,16 @@ class GroupLookup < WikidataLookup
     {
       links: links(result),
       image: logo(result),
+      srgb:  colour(result),
     }.reject { |k, v| v.nil? }
   end
 
   def logo(result)
     result.P154 || result.P41
+  end
+
+  def colour(result)
+    result.P465
   end
 
 
