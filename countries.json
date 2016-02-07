@@ -8133,11 +8133,19 @@
         "sources_directory": "data/Turkey/Assembly/sources",
         "popolo": "data/Turkey/Assembly/ep-popolo-v1.0.json",
         "names": "data/Turkey/Assembly/names.csv",
-        "lastmod": "1452707098",
-        "person_count": 6797,
-        "sha": "3b24ac3",
+        "lastmod": "1454847285",
+        "person_count": 6913,
+        "sha": "830ab32",
         "legislative_periods": [
           {
+            "id": "term/26",
+            "name": "26th Parliament",
+            "start_date": "2015-11-17",
+            "slug": "26",
+            "csv": "data/Turkey/Assembly/term-26.csv"
+          },
+          {
+            "end_date": "2015-11-01",
             "id": "term/25",
             "name": "25th Parliament",
             "start_date": "2015-06-23",

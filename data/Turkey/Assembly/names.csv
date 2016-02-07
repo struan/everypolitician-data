@@ -1,4 +1,5 @@
 name,id
+Aabraham,1fd458d4-0d68-41df-84f9-779c5aec63c1
 Abbas Ali Çetin,8fd85a9f-6407-46f1-ba77-35d24b41a12a
 Abbas Bozyel,d635a65e-a7be-4330-8759-da5b46b94306
 Abbas Gigin,d94c0fa1-053a-4fb4-b45a-9d630a699012
@@ -22,6 +23,7 @@ Abdulhalim Aras,0c907f9c-21fc-422c-b44b-598b319aeb23
 Abdulhaluk Mehmet Çay,dee96f81-1db7-4eb7-b266-d530db4d09d6
 Abdulhaluk Mutlu,d07f8d95-fcbb-4037-bb1d-0231b92c9d52
 Abdulhaluk Çay,dee96f81-1db7-4eb7-b266-d530db4d09d6
+Abdulhamit Gül,36685dad-c76f-4d72-806c-0dd22a92595f
 Abdulhamit Gül,f7c0b0af-3da2-438f-8eae-230396ec1565
 Abdulhamit Çintan,68d26e66-5ba1-4587-b1a2-a29ecb69eb8e
 Abdulilah Fırat,7d1f0aa1-bb00-4395-858d-72648dd8402a
@@ -31,6 +33,7 @@ Abdulkadir Baş,3a83b7ec-4747-4cc0-8810-93cebf64d73a
 Abdulkadir Emin Önen,dd4fe61f-874c-4dd9-8d62-22d77109ca47
 Abdulkadir Kadri Kürkcü,4af56159-0034-4ac6-80b5-4a334e632315
 Abdulkadir Kart,eb146ec7-da60-4967-9437-f7fe6cd47e20
+Abdulkadir Yüksel,65d64a9a-492d-47e5-88ce-3bb87f37a06a
 Abdulkadir Öncel,81bdea19-eecf-4bec-bece-f923e218ec73
 Abdulkerim Gök,2d4d9b48-3e7f-4de2-a7ae-9fdc457167af
 Abdulkerim Yılmaz Erdem,d6c5a2a6-9a51-4bfd-ae0b-5e68746b799f
@@ -45,6 +48,7 @@ Abdullah Aytemiz,a7f7636c-88a1-4f19-b1dd-fa178a9ec9cf
 Abdullah Azmi Torun,796bff85-f3b8-4562-8fc2-3a7b64f6e7c9
 Abdullah Ağralı,879c72a7-fd12-44d7-9df1-4488efada273
 Abdullah Bazancir,74225a88-42a1-40a2-af64-2a10b6fd1205
+Abdullah Başcı,89f84350-02c2-4600-901b-8872428c98da
 Abdullah Baştürk,a2760b6a-ce18-464d-9176-5c0e64771ad8
 Abdullah Cengiz Dağyar,c28586f5-1e8f-4d14-af23-e4e4d3e96efb
 Abdullah Cilli,72a3dbc9-5a60-4f14-ab21-20ff4bc4b8bc
@@ -86,15 +90,12 @@ Abdullah Zeydan,b3d1099d-e0e3-4c97-b347-0bcb6ac272cf
 Abdullah Çakırefe,95883e96-a63b-4e2c-b72f-c57cf1c11df4
 Abdullah Çalışkan,1b43a522-4522-4ed9-a893-b3adef805707
 Abdullah Çalışkan,21ab9b2b-209d-4eb4-95d6-c65a3e014cc5
-Abdullah Çalışkan (D. 1958),21ab9b2b-209d-4eb4-95d6-c65a3e014cc5
-Abdullah Çalışkan (b. 1958),21ab9b2b-209d-4eb4-95d6-c65a3e014cc5
-Abdullah Çalışkan (b. 1974),1b43a522-4522-4ed9-a893-b3adef805707
-Abdullah Çalışkan (d. 1974),1b43a522-4522-4ed9-a893-b3adef805707
 Abdullah Çetinkaya,b39452ae-c9b0-4d7e-a473-c228919229df
 Abdullah Öner Miski,111b6736-675c-46ec-823f-59a6c7cf77e4
 Abdullah Örnek,335a5bfa-6185-4a73-96ec-6f0f7491f54f
 Abdullah Özbey,74aeec8f-1a37-4a9a-bccf-723bd13ba9c1
 Abdullah Özer,6fe062f0-7b5d-44d6-b1a2-fbcc03c32f66
+Abdullah Öztürk,8f72fda8-19fe-4161-ac01-fb786688903c
 Abdullah İzmen,662d7ca9-0fd1-430f-848d-4c0489ff26e0
 Abdullahs Gils,51704345-f3a1-4eae-912a-85a06bd14622
 Abdullatif Şener,bfcfd01a-8d36-4851-b246-1f44af926a25
@@ -117,7 +118,6 @@ Abdurrahman Altuğ,b53c640c-23be-4302-81eb-c33fd70f9d65
 Abdurrahman Anık,0c9c91bc-e84f-46ab-85b0-8c627e843692
 Abdurrahman Arıcı,028b2f40-5609-48a9-839e-ea50fe55becf
 Abdurrahman Bayar,391a9ac4-401a-496b-a811-4ff2b093fa78
-Abdurrahman Başkan,4b7b7eef-d749-4709-ba63-c718b4881422
 Abdurrahman Boyacıgiller,228f917b-1da8-434d-8653-6c53cd5b521f
 Abdurrahman Bozkır,f273b4ca-aad6-49ec-9c54-894dd07e6f7e
 Abdurrahman Demirtaş,e9467984-a238-4706-a263-dc855032e186
@@ -206,11 +206,24 @@ Abidin Çakır,1c0b4cba-55a8-42b9-b92e-82447a1d158d
 Abidin Özmen,79c1ecf1-4470-45d0-b434-2fe96c36e7ea
 Abidin İnan Gaydalı,df5916d6-7ecf-4eab-8852-1b8e7d6c0f56
 Abit Kıvrak,afd93f38-a54e-47d0-a7d8-72fcaf9315d2
+Abraam,1fd458d4-0d68-41df-84f9-779c5aec63c1
+Abraham,1fd458d4-0d68-41df-84f9-779c5aec63c1
 Abraham Galante,14b811f1-5062-4acf-a91e-d50e3291812e
+Abrahama,1fd458d4-0d68-41df-84f9-779c5aec63c1
+Abrahami,1fd458d4-0d68-41df-84f9-779c5aec63c1
+Abrahamu,1fd458d4-0d68-41df-84f9-779c5aec63c1
+Abrahám,1fd458d4-0d68-41df-84f9-779c5aec63c1
+Abrahán,1fd458d4-0d68-41df-84f9-779c5aec63c1
+Abram,1fd458d4-0d68-41df-84f9-779c5aec63c1
+Abramo,1fd458d4-0d68-41df-84f9-779c5aec63c1
+Abraomas,1fd458d4-0d68-41df-84f9-779c5aec63c1
+Abrauoms,1fd458d4-0d68-41df-84f9-779c5aec63c1
+Abraão,1fd458d4-0d68-41df-84f9-779c5aec63c1
 Abuzer Tanrıverdi,caf7c7dc-42a0-4715-a50c-30452d132b0c
 Adanan Uçaş,511829b4-313e-4cb0-9744-1016df0281ea
 Adem Ali Sarıoğlu,4a802a09-b5b1-4f92-b6c2-c1c23f1ca4d2
 Adem Baştürk,bf1f8085-e71f-4557-912a-4947a7d05e79
+Adem Geveri,da0af448-b177-4db2-8072-3ba5f078fce6
 Adem Tatlı,9aea46ff-cbbb-425b-9b09-ee863d62e8bd
 Adem Yeşildal,bfb18c5d-5d4c-4803-9f98-494a74b8aade
 Adem Yıldız,8bbbdcce-7624-4301-b421-b6cd0e7ab9ff
@@ -219,8 +232,6 @@ Adil Ali Cinel,0f56fbbc-9d85-4ff3-9aeb-641f35da64f3
 Adil Altay,d4d96f42-7f62-4c7a-8d88-b84d204a32fe
 Adil Aydın,8b71effe-61d0-49d5-bbb8-d11434de0050
 Adil Aydın,e23366d1-182f-403d-80aa-f8fd81668dea
-Adil Aydın (Antalyalı),e23366d1-182f-403d-80aa-f8fd81668dea
-Adil Aydın (Kastamonulu),8b71effe-61d0-49d5-bbb8-d11434de0050
 Adil Aşırım,2a306490-8436-412a-9b1c-79bdb63a7628
 Adil Demir,c849d001-21b9-4d88-ab89-8185e6723fdf
 Adil Erdem Bayazıt,5535eee1-78bb-4c1d-a952-87036045f90e
@@ -248,7 +259,6 @@ Adnan Selekler,dc1719a4-39ba-44ca-8bb3-f75c813d1408
 Adnan Tüfekçioğlu,77f37476-d16f-444d-994d-d0f62089d357
 Adnan Yıldız,f478a30f-f752-425b-ae6c-7ba4b2a66ef5
 Adnan Yılmaz,41e8871b-1875-4852-85d3-ff3c1a5ebf53
-Adnan Yılmaz (milletvekili),41e8871b-1875-4852-85d3-ff3c1a5ebf53
 Adnan Çalıkoğlu,031427cd-bb78-4bff-9c5d-68314756ece3
 Adnan Şefik Çirkin,c4c51167-517f-4fad-aaa5-c092311003a1
 Adnan Şinasi Şenyurt,9b164b10-a26e-47e3-b9b3-61cfc3eaf9d5
@@ -274,13 +284,12 @@ Ahmet Akçeel,883512ca-f9a5-4fd0-8cdf-767e3c3cfbec
 Ahmet Akın,0bb2edb0-ecf1-4e5a-8de5-08163b355591
 Ahmet Ali Çınar,18707b42-4fbf-4911-baba-8fa6194d36e6
 Ahmet Alkan,72d99e3b-5d34-4144-b36f-649c2a1f58dd
-Ahmet Alkan (siyasetçi),72d99e3b-5d34-4144-b36f-649c2a1f58dd
 Ahmet Alpaslan,8d424171-fadb-4595-9a15-0901abbf60e9
 Ahmet Altun,7b477ac5-295a-4554-8973-91adf34e6bef
 Ahmet Altıntaş,d5222db3-3e77-4dcf-89a9-ba72642a1301
 Ahmet Arkan,b273d470-8c3c-4291-bbd5-03d643754789
 Ahmet Arslan,1d17c2e8-e91c-48b0-bda8-d6a708bfce1f
-Ahmet Arslan (milletvekili),1d17c2e8-e91c-48b0-bda8-d6a708bfce1f
+Ahmet Arslan,4c95313a-45f1-4369-920b-071334d78f2f
 Ahmet Arıkan,5fcd5668-2699-438f-acbb-fc239ce60c8a
 Ahmet Ata Aksu,8c7c0deb-fb0f-461a-8a84-d05ee4ea1f07
 Ahmet Atıf Hacıpaşaoğlu,4f188828-b526-4b3a-88ee-c6fc28a445dd
@@ -288,8 +297,6 @@ Ahmet Avcı,5aac43df-5095-4736-8664-a2d1967a27fa
 Ahmet Aydoğmuş,71db12fb-99ec-4d4b-aabb-0e6442e2cd59
 Ahmet Aydın,3b1a7554-6c7b-48c7-926b-d5d2a0eefd72
 Ahmet Aydın,7fd97ebb-29c2-4129-829f-be5d16e39590
-Ahmet Aydın (Adıyamanlı),3b1a7554-6c7b-48c7-926b-d5d2a0eefd72
-Ahmet Aydın (Samsunlu),7fd97ebb-29c2-4129-829f-be5d16e39590
 Ahmet Aydın Bolak,5a5b0ff5-83fd-4fa1-93c1-2ca4fb08d7ff
 Ahmet Ağaoğlu,2ce86e8c-fd38-4067-910b-bce5e59575db
 Ahmet Baha Öğütken,2c122939-1f7a-498a-b127-a99568c0d006
@@ -332,7 +339,6 @@ Ahmet Deniz Bölükbaşı,39df9bc3-a9f3-4685-9bf7-9e42739037ff
 Ahmet Derin,ea829c54-abc5-4e1b-8440-8fb18f65be28
 Ahmet Doğan,751a6140-d9c1-4287-bff8-5ba899c0a359
 Ahmet Doğan,f4fbbc7a-3925-4586-bedc-122a5a28f74c
-"Ahmet Doğan (siyasetçi, 1950)",f4fbbc7a-3925-4586-bedc-122a5a28f74c
 Ahmet Doğru,b28a958a-0e94-4484-99ef-2236eaf22475
 Ahmet Durakoğlu,f4370ecc-0dbb-42cd-b12f-734bb2efdf6c
 Ahmet Duran Bulut,efe6688a-5d06-482d-ae3c-c922c730fec0
@@ -390,6 +396,7 @@ Ahmet Hamdi Sezen,85c66056-062c-4c72-a96b-aa901993481a
 Ahmet Hamdi Tanpınar,8c144c75-1ac4-4c7f-b8ca-cf46f02cf8e0
 Ahmet Hamdi Topçu,701333d8-a154-4906-8c30-d3b9e7614706
 Ahmet Hamdi Yalman,bafa1d09-3239-4553-b38b-6f50eede6ed7
+Ahmet Hamdi Çamlı,9dbe9be3-5caf-4a60-9d62-35c1675dac6b
 Ahmet Hamdi Çelebi,adec066f-a50b-4ecd-97f7-82ef2ac9f145
 Ahmet Hamdi Ülkümen,806f9833-0698-40e2-9c83-54fed272074d
 Ahmet Hamdi Üçpınarlar,89f96507-7cd4-4442-8aa9-9f059775f8a4
@@ -445,6 +452,7 @@ Ahmet Mithat Kalabalık,c738f4cd-8443-4b26-a71d-a435c4be9eef
 Ahmet Mithat Kuseyrioğlu,75b461b5-0063-48f9-9faa-1e63a08c5f8c
 Ahmet Mithat Yenel,fc165982-366f-4261-bdb3-6e9e84b7024a
 Ahmet Morgil,9b959897-9a80-48a8-92b5-84b046889c39
+Ahmet Muammer,1c75915c-fe9e-4226-839f-56f6902242f5
 Ahmet Muhtar Acar,f0053837-2326-400f-8829-fd1101975b7e
 Ahmet Muhtar Berker,7d669510-e2e5-46ca-a8ae-f0385f49dd0f
 Ahmet Muhtar Cilli,415f6d9c-f4c6-4cbc-812c-fdc21f9f5378
@@ -504,6 +512,7 @@ Ahmet Saffet Ohkay,f74a1435-d7a1-4a94-a3d7-40dd4cf86655
 Ahmet Saki Derin,b1d14954-da1b-4038-b90d-cf92d3adeb91
 Ahmet Sakıp Hiçerimez,82c2f8e8-e53f-4be5-b56c-ef83aec5146f
 Ahmet Salih Dal,82d0a36e-b49a-4372-b3c4-ed4a83a21def
+Ahmet Sami Ceylan,1280223d-cc2f-4717-8727-c78f4aab3134
 Ahmet Sancar Sayın,ac342395-e79a-413f-b204-260fb2f2ff42
 Ahmet Sarp,4c9693ca-24f4-45e5-abd4-7b1572bec6f4
 Ahmet Savrun,8723cecc-5823-45ed-b542-3be3763e7bb1
@@ -511,9 +520,9 @@ Ahmet Sayın,bfcc1089-420b-478e-930c-020ebd0eb18f
 Ahmet Sebati Ataman,f7a5b373-77cc-4d2d-aa37-493ba2457edc
 Ahmet Selim Yurdakul,290739e3-49d4-4f75-aa68-36609fdb7ecf
 Ahmet Sezal Özbek,7489e524-95f8-41ec-8aa2-d975481cd86b
+Ahmet Sorgun,d53b0db5-131c-40dd-8cf6-8dde15427f93
 Ahmet Sungur,181faaf7-38d9-4bc8-a557-5b0830cfcb2a
 Ahmet Sungur,8ab30454-7f3e-4e85-9c3a-591e90686ed3
-Ahmet Sungur (milletvekili),181faaf7-38d9-4bc8-a557-5b0830cfcb2a
 Ahmet Sünnetçioğlu,d1bee377-9f58-42b0-a06b-f4dc34911248
 Ahmet Süreyya Örgeevren,bb9553fc-5bcd-4294-9761-d700cadd7ead
 Ahmet Süter,37c55c85-ead5-4645-a137-f53e43b6cc14
@@ -548,6 +557,7 @@ Ahmet Veziroğlu,663f4b6a-5787-4274-b907-ac8b3283f78c
 Ahmet Yazgan,6aa62b9d-a548-4561-9e87-0a23a6667665
 Ahmet Yaşar,4e97240e-5860-4b32-96c6-f87fb0b49a93
 Ahmet Yeni,2deb41ab-f275-4864-b15d-93e00a077dd3
+Ahmet Yildirim,7bb1fe3b-4b98-4c21-9766-bb4925a202d1
 Ahmet Yıldırım,7bb1fe3b-4b98-4c21-9766-bb4925a202d1
 Ahmet Yılmaz,2f98150d-583f-4188-88f7-6643cb9bbdd3
 Ahmet Yılmaz,8cc182a8-85e8-4685-b7d8-7ae7942ee454
@@ -561,7 +571,6 @@ Ahmet Ziya Aktaş,7d30af7a-036b-417d-b3f8-731a6f014fb6
 Ahmet Ziya Tonguç,a5f36f60-e22b-4e94-aea6-49c5f86a2f1d
 Ahmet Ziyaettin Tümtürk,e3f5c87b-5588-4d30-9d27-24a3168e324a
 Ahmet Çakar,59060bd3-350f-4278-9db4-0e5318457b7a
-Ahmet Çakar (milletvekili),59060bd3-350f-4278-9db4-0e5318457b7a
 Ahmet Çakmak,588af5b7-6069-47e7-838b-c0dca222b468
 Ahmet Çağlayan,d0c4b445-703c-4509-a445-346d7cbf8331
 Ahmet Çebi,311bbb4d-8e0c-4a89-8ead-8696aff20ba9
@@ -571,7 +580,6 @@ Ahmet Öksüzkaya,162d1ff2-d5dd-40bb-8971-51111b5ee086
 Ahmet Özal,5cd1cb86-96bc-4a63-9f57-cc1e7cc5d001
 Ahmet Özdemir,193d8650-1851-4d8a-a28a-894ffdb3eac3
 Ahmet Özdemir,34b64782-8001-4149-aa25-53ff23157e31
-Ahmet Özdemir (siyasetçi),193d8650-1851-4d8a-a28a-894ffdb3eac3
 Ahmet Özel,d893bf22-f970-4e86-8f44-3ae263037064
 Ahmet Özkan,888434d4-5dcc-4ffe-ba59-c1bcdec76698
 Ahmet Ünal,1eee8627-be25-44dd-929a-945fd188835d
@@ -659,7 +667,6 @@ Ali Akif Eyidoğan,d6cca78a-a3ff-4513-ac1a-7dab4a5f567d
 Ali Akyıldız,f3798d82-d481-498d-9cde-6d22158c8b4e
 Ali Arabacı,d367f811-c0eb-4554-a2d0-3f82b66de13e
 Ali Arslan,a3f17739-bbce-45bb-94bc-b97f6e008d0f
-Ali Arslan (milletvekili),a3f17739-bbce-45bb-94bc-b97f6e008d0f
 Ali Atalan,a316c6c3-7cf1-4807-937d-a87a0886e8a5
 Ali Avni Turanlı,969569d9-8011-450f-9859-275c18f04205
 Ali Ayağ,bd95f5df-196a-4c61-945c-5ad3c4e411b5
@@ -685,11 +692,11 @@ Ali Cenani,f6e38a77-3b31-4633-a6c4-0ff002e542dc
 Ali Cevdet Seçkin,0ea91963-bb32-489d-b0a7-2318181e2c75
 Ali Coşkun,94acfba5-e7b9-4da0-a860-c05d2f562f5c
 Ali Coşkun Kırca,08805097-2a18-46e1-9346-c010a26ac994
+Ali Cumhur Taşkın,8506960c-a89b-4636-8b53-a72a87d5c91c
 Ali Cumhur Yaka,6effaed7-d1ec-4ed5-ae81-771e518e7275
 Ali Dedekargınoğlu,efb4e0ad-b860-4781-abe1-cadab7b31963
 Ali Demirçalı,2f870d9a-8c96-40d8-8d8d-c01ba645bbeb
 Ali Dikmen,6ca42f2f-55c6-411a-ab0a-911cc8e05ed8
-"Ali Dikmen (siyasetçi, 1875)",6ca42f2f-55c6-411a-ab0a-911cc8e05ed8
 Ali Dikmenli,1eb59d45-3520-4714-a87d-5ff781617a88
 Ali Dinçer,51d3982b-52a5-4e33-b9d6-870a56d7ca6c
 Ali Dizdaroğlu,3a295200-9e5e-42f2-b370-661bea9ed16a
@@ -896,7 +903,6 @@ Ali Özdemir,150f8b48-fbc7-46ee-ae31-6734762c57a3
 Ali Özgündüz,0e4204ad-22c8-445e-99da-7728a1e977d8
 Ali Özkaya,9b96e013-1c20-4812-9846-a2e23aa55ea5
 Ali Öztürk,27ba56e6-286c-44dd-be7d-6f99a5b5d4b8
-Ali Öztürk (hukukçu),27ba56e6-286c-44dd-be7d-6f99a5b5d4b8
 Ali Öğüten,e56f082e-1b31-4995-b3e1-45cf67885e14
 Ali Ünlüsoy,4997ca00-fb2b-41c9-9270-7bbfd31b6376
 Ali İbiş,ae15001d-cdfa-410f-8643-6cf2a4751af9
@@ -919,8 +925,6 @@ Ali Şadi Çelik,21d68d53-7516-42ed-ba29-3b08bc629b83
 Ali Şahin,25b4475e-d30a-42d5-8b36-80ac6d983019
 Ali Şahin,32f6e733-f8d2-44f8-81ef-96330fd7ee42
 Ali Şahin,c65a088a-fe37-4870-8c9c-6440610f7ba6
-Ali Şahin (Gaziantepli),32f6e733-f8d2-44f8-81ef-96330fd7ee42
-Ali Şahin (Kahramanmaraşlı),c65a088a-fe37-4870-8c9c-6440610f7ba6
 Ali Şakir Ağanoğlu,50e95d31-095a-47dc-874a-1da1a735cb49
 Ali Şakir Ergin,1cd23972-29f3-4c45-81e6-24d570e77472
 Ali Şefik,5b330162-090b-4935-9af5-be625f5df230
@@ -1013,6 +1017,7 @@ Ata Topaloğlu,376163f8-44d6-4c25-b5e9-b58c2e03b548
 Atalay Akan,aad7e58e-2045-45ea-ba65-ec797ca7de74
 Atatürk,97c30e2d-aa11-4b98-9b19-7873a6e4b580
 Ataullah Hamidi,b13608d2-0ee8-479b-a33c-9534a4f556b8
+Atay Uslu,8325fdd8-c74a-4ec0-9229-4bfaa3cc9e57
 Ateş Amiklioğlu,d3377596-75a1-499d-b0af-026774142da3
 Atila Emek,af25d23c-c242-4dba-b58b-51f735427013
 Atila Kaya,f4f93782-6f36-469a-81f2-12d6e665ad42
@@ -1024,6 +1029,7 @@ Atilla Konuk,b42eff62-e109-4446-a326-ec2cd7b55600
 Atilla Koç,ed59fa42-4ad4-47fb-8d12-1dbc6a705fc8
 Atilla Mutman,c77a670b-44b2-4664-9cf7-9629aae3a754
 Atilla Sav,a45f2d28-b020-474c-a6d8-70b4a1138d87
+Atilla Sertel,dfa1b4e5-68bf-4883-8ea1-cf9421f78007
 Atilla Sın,c1e0ed90-81e2-4bbe-ab80-cef62dc43dcf
 Atilla İmamoğlu,e275d7a3-f28b-44ef-a596-cefadda105dc
 Atıf Akgüç,0ec297f1-61c7-4080-a37f-3d9ab604c071
@@ -1035,12 +1041,12 @@ Atıf Kamçıl,d0dd5251-5cf5-4c78-a2eb-a91b20b973bd
 Atıf Topaloğlu,81e4af13-376c-499c-a7ae-de7fde109c03
 Atıf Ödül,d0dbf560-014d-415c-a81d-25240192b16e
 Atıf İnan,7e30d5fd-582c-42c0-895d-fdb53e4cb49e
+Aubraham,1fd458d4-0d68-41df-84f9-779c5aec63c1
 Avni Akkan,8def1cd2-060b-4be1-8143-911ec8d38bb0
 Avni Akyol,8ea08de7-6d6f-4a0b-a0f8-9a6cc55b0479
 Avni Akşit,2fae9ec6-2bd9-4b5b-96ad-ad400359a743
 Avni Doğan,3c724c86-f1b6-4caf-b4e0-74875983468c
 Avni Doğan,9e737a65-fabf-47bf-ade4-5783d21adcdc
-"Avni Doğan (siyasetçi, 1951)",9e737a65-fabf-47bf-ade4-5783d21adcdc
 Avni Erdemir,ab2cc3e6-9a47-4d86-9023-d1b5f8c5239d
 Avni Gürsoy,1eb7973f-1e7f-4ef4-9b35-c01b966b87fb
 Avni Karaman,334b67a6-e70e-488b-abd1-2f6165736991
@@ -1050,6 +1056,8 @@ Avni Tan,7c34b45c-d195-462e-8418-3711437ff2cc
 Avni Ural,d327fb81-e5c0-4c52-98c6-fe1e8388c009
 Avni Yukaruç,5d0a855f-b5b5-47b5-bc92-3d91a50bd467
 Avni Yurdabayrak,45cf48aa-d0a2-4f73-828e-532ce8bc07f5
+Avraam,1fd458d4-0d68-41df-84f9-779c5aec63c1
+Avraam Avinu,1fd458d4-0d68-41df-84f9-779c5aec63c1
 Avram Galanti,14b811f1-5062-4acf-a91e-d50e3291812e
 Avram Galanti Bodrumlu,14b811f1-5062-4acf-a91e-d50e3291812e
 Axmed Dafutoglu,850865d9-a91f-4e2c-a329-4db339630fb7
@@ -1066,7 +1074,6 @@ Aydın Turgut Artuç,64b7a6d0-9c25-4cfc-ab4c-07d7e9d85a68
 Aydın Tümen,2c543c00-d4ee-43ad-831d-34531b4924cf
 Aydın Uslupehlivan,0ec48fc1-7763-43c8-856a-df7b14255acb
 Aydın Yalçın,89bb8db1-5ce2-4c76-a928-d8e22f1cbd8f
-Aydın Özcan,fa4659d7-e2b1-477c-9710-4eba005c388f
 Aydın Ünal,76b9a187-0da6-45b5-8e6e-82641d95ebf0
 Aydın Şengül,12285e89-7aa5-4ec1-8144-67b77d393f16
 Ayetullah Sayar,af5e8c5b-360b-4cd4-acf1-8710a0750c57
@@ -1075,6 +1082,7 @@ Ayhan Altuğ,aeb6eb31-3ef5-431f-b8d2-61db61307103
 Ayhan Arifağaoğlu,24eb200f-7e38-4907-a846-09bef5b24e9b
 Ayhan Bilgen,f3e49f03-d1b7-472f-a620-860ab6ced40f
 Ayhan Fırat,269c8686-25fe-4082-b91d-a9e488f0b8e5
+Ayhan Gider,ef212073-9082-4ca1-b654-74f4cdd7e68f
 Ayhan Gürel,99df6734-b799-491b-b92f-9c7caaa04933
 Ayhan Sakallıoğlu,41868a9a-6fb3-4919-8d80-be2207f5039f
 Ayhan Sefer Üstün,cea9e1b7-8673-434d-92c8-d6792833f2c9
@@ -1082,7 +1090,6 @@ Ayhan Uysal,8c1eeb61-01ef-4856-aec8-ee5b214ca833
 Ayhan Yılmaz,b243cc12-9179-42c3-a68a-204554003acd
 Ayhan Zeynep Tekin,af504fd3-dd73-4d43-b309-9ca2ea15b018
 Ayhan Çevik,4cf9015a-5ffb-42c2-a701-2a6167344296
-Ayhan Çevik (siyasetçi),4cf9015a-5ffb-42c2-a701-2a6167344296
 Aykan Erdemir,b3c699c5-6c9a-49c5-9489-96ebf3047f25
 Aykon Doğan,e0525c8b-bf28-4947-aa8a-5fb06a988554
 Aykon Doğan,f783e418-0afd-468a-bc43-9ed84ade6eb5
@@ -1117,6 +1124,7 @@ Ayşenur İslam,18253297-802d-4ef2-8dee-58a2e4c7be28
 Ayşenur İslam,b93ff0e7-1d86-4793-97a1-b4989acbaa33
 Azimet Köylüoğlu,337b4f87-65ea-4008-a571-b91178b1d62c
 Aziz Akgül,7bc3cfed-ee43-46f5-85db-718f94777912
+Aziz Babuşcu,6f7ad524-1090-4ed2-bbab-67fe284296de
 Aziz Babuşçu,e1472fe5-8ef3-4106-9e8d-6b0830362f1f
 Aziz Bülent Öncel,e119f33c-386b-436e-b054-284f0d632f73
 Aziz Duru,0678f81d-f48d-4320-b2b7-c5cf3753e47e
@@ -1131,6 +1139,7 @@ Aziz Zeytinoğlu,5459b5ba-4534-48de-a4e7-9ae364dd13bd
 Aziz Özbay,57cdbab7-053d-4c09-810b-7edc165596ab
 Azize Sibel Gönül,098915bd-288b-4f2b-af1e-b940c33febd3
 Azmi Ateş,8f2ea96e-3fa0-48ba-97bc-ebbb5c121990
+Azmi Ekinci,48d81c0a-7aca-4a5b-86a0-c20f4f6eccf1
 Azmi Yavuzalp,0fe71887-778f-4bc6-b9fc-a80617cf9f53
 Aşir Atlı,202e7cb6-16b7-4f85-b00c-6e2112e517ab
 Aşkın Asan,945ca91c-0c77-4a60-9368-411e188759b6
@@ -1148,8 +1157,6 @@ Bahaettin Erdem,18cb5388-089a-435f-9a20-a533425f7afc
 Bahattin Alagöz,5133917b-ab83-412c-bd0b-fc6b1831c015
 Bahattin Elçi,c30eca58-8be7-454c-ba16-749a0becff89
 Bahattin Karakoç,036564f0-d015-4b85-9dd3-f1cf7e1f4064
-Bahattin Karakoç (Diyarbakırlı),036564f0-d015-4b85-9dd3-f1cf7e1f4064
-Bahattin Karakoç (politikus),036564f0-d015-4b85-9dd3-f1cf7e1f4064
 Bahattin Taner,04111521-67f5-48af-97e0-7787f2c2dc85
 Bahattin Uzunoğlu,0c0b1db1-a9c6-4b82-b0e2-13d7333e762d
 Bahattin Yücel,6cf9204a-9e56-40ee-82d5-6f6d5368b299
@@ -1190,6 +1197,7 @@ Bayram Meral,ae77f0ca-443a-469c-a217-0dc083a59738
 Bayram Turan Çetin,3056f9b2-e361-4726-93ca-f548e1ee4b41
 Bayram Özçelik,f92c5bf9-e6c4-4be6-9b50-a8e7970e45ca
 Bayramali Meral,ae77f0ca-443a-469c-a217-0dc083a59738
+Bedia Özgökçe Ertan,d286a99b-6aa1-48df-9a45-9fc873d812c5
 Bedrettin Dalan,6eecae76-2619-45ad-bc0c-42aa30d3d1c8
 Bedrettin Doğancan Akyürek,432901db-c64b-497d-abec-43f0c8b588a2
 Bedrettin Karaerkek,ea191779-931c-415a-91ae-ef2541422fd0
@@ -1214,7 +1222,6 @@ Behçet Uz,386dc2ed-cca3-404e-9417-c699fd457857
 Behçet Yıldırım,9eb5e504-7e4c-4d29-ab0e-4c12cd46fd94
 Bekir Adıbelli,d2f2cc1f-bb25-4048-89bf-2bc6bf0e62bc
 Bekir Aksoy,a5a09a84-4bca-42c0-af5e-f95925c33dd0
-Bekir Aksoy (siyasetçi),a5a09a84-4bca-42c0-af5e-f95925c33dd0
 Bekir Bozdağ,90fcee66-dd4d-4d1f-a6b2-24360c96fb89
 Bekir Gündoğan,7fa7cbb2-0325-4db9-a48a-fe649d8b501f
 Bekir Kaleli,99bd7849-3575-4924-94df-a1f5911c080e
@@ -1249,6 +1256,7 @@ Berç Türker Keresteciyan,8f295ebd-d42d-4de1-a1fc-9b7f1dc3a1d1
 Besim Atalay,986af966-7743-44f8-a9ae-9bc4f91f551d
 Besim Besin,3a00196b-25f1-4653-aa6f-c397671be53f
 Besim Ömer Akalın,44f220cf-4b49-415e-957b-ba9e591ba958
+Besime Konca,d91d5d44-ad5e-49f4-a2ce-c64177e66b87
 Bestami Teke,11d7c03d-2032-41ab-ad4b-0ea873665d8f
 Besïm Atalaý,986af966-7743-44f8-a9ae-9bc4f91f551d
 Beyhan Aslan,050f9f56-1070-4a27-8c74-dd555249c1a4
@@ -1278,10 +1286,12 @@ Birol Ertem,09059c0d-30db-46d9-af6c-9390114de64f
 Birsel Sönmez,170b6d9c-43e1-48ce-b8ef-5285bad9b72e
 Bozan Bey,ecf64004-03db-4911-ba73-5676e8a8014d
 Bozkurt Yaşar Öztürk,010606ae-ced6-43e6-ae1f-29fe95521fa8
+Brahim,1fd458d4-0d68-41df-84f9-779c5aec63c1
 Budak Mursaloğlu,5d68f40e-1796-4099-92ce-54b3acba5bd7
 Bulent Ecevît,c25b1f9d-9104-455b-9bc0-d9492cb16111
 Burcan Emirbayer,4299f65c-b323-408b-a898-2acc09634e6a
 Burcu Kayıkcı,409ac21c-2fd8-4cab-9c53-dd6c99e6d98a
+Burcu Köksal,c8101b36-2712-4766-8a91-accf289553d6
 Burcu Çelik Özkan,2fccc55b-f91f-4e89-8d51-48f22e99ee69
 Burhan Akdağ,0dfdc5bd-5aed-4061-be2f-ba87587bb0f8
 Burhan Apaydın,02892b3f-0e60-44eb-90fd-30dd674c1c1e
@@ -1305,6 +1315,7 @@ Burhanettin Asutay,4593e170-961c-456d-99b0-fbcb0ed9a10d
 Burhanettin Binzet,78b04cfc-1ce3-4f41-b39d-247a18c40de6
 Burhanettin Denker,29635dd4-8cb8-4a75-86a1-dbe52f762afa
 Burhanettin Onat,7e0985f6-1d38-441d-a939-efd2c599a48a
+Burhanettin Uysal,71e679bd-d0f8-4939-945c-42220fc10a19
 Bülend Ulusu,8d1c2cfa-2fee-47ba-914f-05ba2efdf1ef
 Bülent Akarcalı,6a5cfa74-acfb-4123-a0ac-4caa18d366d5
 Bülent Arınç,741e71ba-8649-4fe6-bb14-b131e10aea6f
@@ -1353,6 +1364,7 @@ Cahit Tekelioğlu,6bc3b081-c706-49cb-b6ea-f041a1cd2a1c
 Cahit Tutum,cad458e8-5011-4821-90c9-154fe9ea6f0e
 Cahit Yılmaz,792af068-ebab-49be-9e84-f8d38630f33a
 Cahit Zamangil,dc9b2d7a-a148-48dc-9d74-81ee73c8d5d5
+Cahit Özkan,9e6679b2-849a-4272-919e-b0c0571ec928
 Cami Baykurt,b0581c40-cb53-47b8-b58d-62d17259f482
 Canan Aritman,e03365d7-5467-4f77-82df-a57a7a2fe538
 Canan Arıtman,3d4d5cad-d3d1-4a71-82d3-19f0038045da
@@ -1402,6 +1414,7 @@ Celal Öncel,760dd0d3-5b40-4545-930b-2e2c1834510e
 Celal Ünver,8916c88b-3549-4382-bb54-43a22ae67074
 Celalettin Arif,b792caaa-52d3-4b5d-98e3-8a30788a508d
 Celalettin Aykar,d0c6834f-8d23-4e47-8100-213d67827278
+Celalettin Güvenç,f6dd9424-2606-4a2a-8b29-4938e00fb7d8
 Celalettin Uzer,7d4662ba-a29e-4701-abdd-39e35d1f53f7
 Celil Göçer,4bfb8e6a-70e8-4dcb-92b8-4f09f7b1bce2
 Celâl Bayar,98dc21b4-167d-4069-b3f2-1ab5cda127e8
@@ -1445,6 +1458,7 @@ Cemal Yılmaz Demir,27d4f526-55db-4fb9-9365-0f23a4c39ff6
 Cemal Zühtü Aysan,017169d1-a3ba-459b-ba55-6f8b917dce13
 Cemal Özbilen,ae8ef3d1-6dbd-41c5-b3fa-6b08df54ad3d
 Cemal Özdemir,a308cd82-2dca-453b-8266-b864b553398c
+Cemal Öztürk,d608feb9-369c-45cc-a7bb-0720025cbcc8
 Cemal Şahin,5a2b29de-6309-4057-8ad6-659ea4759b47
 Cemaleddin Uslu,85766a81-9b82-4711-89af-0a8d916e3f21
 Cemalettin Gürbüz,c58a84d9-0eba-4b14-9341-11da766a72e0
@@ -1467,6 +1481,7 @@ Cemil Sait Barlas,da1e848e-1524-4c94-9c27-546ee783a88f
 Cemil Tüzemen,92c33171-2b92-4c22-8c69-a02d760abf54
 Cemil Uybadın,1ae81951-a3d0-4a7b-b181-5d7273271048
 Cemil Uybadın,d0d6895e-8404-4d1c-96b4-1ef5e18b1746
+Cemil Yaman,217c2104-7510-47c8-9182-d51b7a6d34aa
 Cemil Yavaş,ae49d2cc-4451-4b27-be3b-0df251c6effe
 Cemil Yıldırım Türk,aeb6840e-1248-479d-be1a-6ef72f9a7b13
 Cemil Çalgüner,47535ae7-6dca-46c8-97ae-357577975a30
@@ -1481,6 +1496,7 @@ Cemil Şener,3dad0821-27da-4037-b22e-649d1f104d84
 Cenap Aksu,73d3bbf1-03f4-4a8d-b05e-6a5741b6f399
 Cengiz Altınkaya,715bb755-4936-4b57-829c-b79587f39d1c
 Cengiz Aydoğan,092311f9-5c49-4a7a-b167-2cfca10a6140
+Cengiz Aydoğdu,42aad643-87de-45ca-9a68-636b670ed108
 Cengiz Bulut,5ff923d9-b35b-4a01-8f67-47c9b780bb6a
 Cengiz Ekinci,bb504261-4ac4-42aa-86ad-8a93f0598f92
 Cengiz Gökçek,c11cbea8-a526-46d3-86eb-0e832fef911e
@@ -1493,6 +1509,7 @@ Cengiz Özyalçın,2345f5c7-fe9e-4e46-9d2e-16e62102bf81
 Cengiz Üretmen,34ff561d-9c82-4ed2-87c6-e0ed68248ddd
 Cengiz Şenses,0e025d96-f3f4-4956-8673-f566e8212e4d
 Cengizhan Yorulmaz,ab07f147-486d-48c1-97fe-64364291c8ff
+Cesim Gökçe,4cc367b2-a561-4003-ad6e-e9989a59abae
 Cevat Abbas Gürer,cef6dbcf-01c2-4d0b-8973-a7e6db9c9227
 Cevat Ademoğlu,6aabee90-8d89-4cfd-9dc5-e91a5b92483d
 Cevat Atılgan,23b618eb-3933-4394-bfe4-c8bd969ebe07
@@ -1527,12 +1544,14 @@ Cevdet Topçu,7f4317f7-bf2a-4f29-af91-102fb553ec2c
 Cevdet Yılmaz,2e18c3e7-6cd8-435d-b3a1-6593e0615dcd
 Cevdet Özgirgin,1252dda9-cb62-4dd5-ac92-5f7ac6d10416
 Cevdet Öztürk,30949694-d001-4227-97a0-c1f5f4395113
+Ceyda Bölünmez Çankırı,0b677a0a-9247-48d1-909e-25afd7386eeb
 Ceyhun İrgil,170d4b55-4162-4952-8a4e-5b4a07c65d29
 Cezmi Erat,795a495a-b4e6-411d-b1e8-80000cb627d0
 Cezmi Erçin,0160d391-e46e-4978-8fae-a724e2491012
 Cezmi Polat,3e536587-d5b3-4ac2-ac50-ca1f6ef0edba
 Cezmi Türk,a31aff32-540e-4dc6-a979-42b36fadf60a
 Cihad Baban,b9c82a94-23ea-4f7d-ace4-e917e539da6a
+Cihan Pektaş,0f8fe444-dc1a-4d96-bea8-8f2b2d0bf0d1
 Cihat Baban,b9c82a94-23ea-4f7d-ace4-e917e539da6a
 Cihat Bilgehan,aea395ae-e52f-49a5-85ea-9969e8fb6a4e
 Cihat Turgut,3a5cfccd-3afc-42f3-b7c8-f11e64177044
@@ -1566,6 +1585,7 @@ Dengir Mir Mehmet Fırat,7b1c53f9-357a-4d61-9cc1-2e348b032154
 Dengir Mîr Mihemed,7b1c53f9-357a-4d61-9cc1-2e348b032154
 Deniz Baykal,64644586-aaec-42b2-8a12-ca82928feeda
 Deniz Bölükbaşı,39df9bc3-a9f3-4685-9bf7-9e42739037ff
+Deniz Depboylu,b2ca2009-b7da-4792-b1f1-30ddd987abce
 Derviş Günday,c0912586-f62a-4992-bdc6-d4a0c6002b31
 Derviş Sevünç,eec4abbf-92fa-4f7d-9f30-374420308253
 Derviş Ural,6c7ef0fa-110e-45d1-a4ae-57f760329e82
@@ -1615,6 +1635,7 @@ Dəniz Baykal,64644586-aaec-42b2-8a12-ca82928feeda
 Ebdilhemîd Hemdî,68d26e66-5ba1-4587-b1a2-a29ecb69eb8e
 Ebdulhaq Hamid Terxan,a7d524e4-8594-452d-ae56-ebdd6c8f187b
 Ebubekir Akay,9cea6cb3-06b8-4553-b82f-9aa0eae984ba
+Ebubekir Bal,7e22d1da-de6e-42a7-8a66-0c5f3ce97a94
 Ebubekir Develioğlu,dfa26e4c-6534-4fbb-bf92-b97f03f2ccf7
 Ebubekir Gizligider,18fbb26d-3176-40c7-bf2c-2308822e80e1
 Ebubekir Hâzım Tepeyran,da7a1891-05c4-42b6-9237-80b0c9ba3192
@@ -1638,6 +1659,7 @@ Efkan Ala,0727fe65-bd29-4a66-b5cb-3eef6bdce5ca
 Egemen Bagiş,c0a6638b-57e9-4820-b77e-2b1aa6880e3b
 Egemen Bağış,c0a6638b-57e9-4820-b77e-2b1aa6880e3b
 Ehmed Turk,816916d5-0c86-4a2d-90ba-83744b2d3c18
+Ejder Açıkkapı,2dcefa3e-960b-44ab-a280-310ed2a91549
 Ekin Dikmen,004c0bc1-234a-4d4d-a456-c5a9331e2141
 Ekmel Kavur,2f81d4ae-8593-4403-b453-7d782b0f61ea
 Ekmeleddin Ihsanoglu,308158bf-f96a-4142-8568-75cb295f9a77
@@ -1664,7 +1686,6 @@ Ekrem Rize,eaf81a09-59c1-4be9-8b16-e62953a6d316
 Ekrem Saatçi,2dd9a5e8-fa3c-4681-b903-2c791875975b
 Ekrem Torunlu,cb58830d-7c58-4f1d-890b-8fb90f4d52cc
 Ekrem Yıldız,0b5202c9-a28a-4dd6-b7cb-985afe5b4cd3
-Ekrem Yıldız (Bingöl doğumlu),0b5202c9-a28a-4dd6-b7cb-985afe5b4cd3
 Ekrem Çelebi,56070689-f363-48fb-9ce8-d83961240c97
 Ekrem Çetin,fa7f133a-2337-4d07-ad67-8be4bc5a3faa
 Ekrem Şadi Erdem,e1d8f82c-5fdc-4499-bb96-19d19224516b
@@ -1710,6 +1731,7 @@ Emin İnan,c181fcd6-85b3-494e-9010-140cb6278895
 Emin Şirin,eececf09-cef8-4757-ac68-2ba8688fa2c4
 Emine Ayna,596fab65-cde0-4c89-81f1-5317e74c10a1
 Emine Beyza Üstün,7e4c89b4-116f-47a4-9490-042cdd60721c
+Emine Nur Günay,ebd60d47-72f2-488a-8621-5044842467f8
 Emine Yavuz Gözgeç,2534bf0d-d9a9-41ff-8163-e56171dbc1bb
 Emine Ülker Tarhan,44111b5b-3b53-487d-a3a8-f3bf0d6ba570
 Eminittin Çeliköz,55b0c175-1cad-4d19-b654-29d42e94b78d
@@ -1780,9 +1802,11 @@ Ergun Özdemir,869bd4b3-be02-48ea-9261-ab332a12d61b
 Ergun Özkan,6320d14f-c77e-4174-a892-f5d504615ad5
 Ergün Aydoğan,411f47ad-1d49-4c1a-b14f-3f60cdb1dc9e
 Ergün Bayrak,300796e9-a4b6-4fcb-8978-0a90762de907
+Ergün Taşcı,c11424f5-343e-4493-934e-df44ab99029d
 Erhan Usta,0202dafa-2f49-42fd-8046-27c2cb3ff9d7
 Erkan Akçay,81c893b1-86cc-4061-8731-c2105fe19f3c
 Erkan Aydın,3e26663b-d7c3-4643-8b56-3c042eff3be8
+Erkan Haberal,bed85035-bda5-43b8-b16b-4ee9a910644c
 Erkan Kandemir,cd3cdae7-3fc4-41ab-a741-50dc2f5400d5
 Erkan Kemaloğlu,1cc20a3d-fad0-4dec-bd0c-3b5f78cb8d71
 Erkan Mumcu,e3d86790-ee61-4347-9ac6-5ad217a098f6
@@ -1796,15 +1820,12 @@ Erol Ağagil,a9befedf-e5dc-4e53-aa81-73a1fa7a52c4
 Erol Bülent Yalçınkaya,e6d73407-e999-4169-bf04-a27e6b2d2acf
 Erol Dora,167e6a53-be89-4493-a4f0-3059988ee195
 Erol Güngör,69ceed96-a34b-432a-8b96-6962d09e34f9
-Erol Güngör (siyasetçi),69ceed96-a34b-432a-8b96-6962d09e34f9
 Erol Karan,33eee505-dbc8-490d-94b7-6098f86d9fe2
 Erol Kaya,26798ca8-c7c2-4a76-9ce1-c6fb0173fb09
 Erol Köse,93c6a7e4-4a59-4d14-98fb-822109b57161
-Erol Köse (milletvekili),93c6a7e4-4a59-4d14-98fb-822109b57161
 Erol Saraçoğlu,600dd130-8872-41db-a138-99c70e2dba6e
 Erol Tuncer,194c7486-b608-4d31-8b83-c399c9ecbdcb
 Erol Tuncer,ee00b2da-10ed-4e98-81af-b5f4bccbf942
-Erol Tuncer (siyasetçi),ee00b2da-10ed-4e98-81af-b5f4bccbf942
 Erol Tınastepe,23c5aa73-4093-4453-892b-929a6b991789
 Erol Yılmaz Akçal,c4722130-8fde-4c9e-ad6a-11f196ca999d
 Erol Zeytinoğlu,a73735dc-4ffe-4a13-8521-c7d444623694
@@ -1941,10 +1962,9 @@ Faik Tunay,a839de0e-7d31-483b-92f7-c4b94148462f
 Faik Türün,d5362ca2-a6a2-4706-bece-cd6983b4a659
 Faik Yılmazipek,dee7fbbd-84a7-43d2-92af-492c10ccd729
 Faik Öztrak,00c9d101-f979-436a-aa1c-31259c65604b
+Faik Öztrak,0a48c470-8f8e-4a1d-85ca-057932f60010
 Faik Öztrak,4771725a-9e68-46a5-833b-1c7db4eb0a3a
 Faik Öztrak,81cf59d8-6294-4a3a-9ff2-1a8e41fa60ab
-Faik Öztrak (milletvekili 1939-1942),4771725a-9e68-46a5-833b-1c7db4eb0a3a
-Faik Öztrak (milletvekili),81cf59d8-6294-4a3a-9ff2-1a8e41fa60ab
 Faik Öztürk,63c01c2f-22ae-490e-91ee-15b34f364ac2
 Faik Üstün,96e22ef2-5bcf-40b4-a334-837bd68846e2
 Faiz Sarlar,056c3df7-2706-4fee-b724-e895e6647f2b
@@ -1982,13 +2002,14 @@ Fatih Atay,e533aac7-3289-4b6e-966e-9520a5e17d14
 Fatih Metin,59b02cce-9dd3-48d4-aee1-3e5e7bda6893
 Fatih Çiftci,5a210e5e-33d6-4a1e-9d7b-fd8e646e971b
 Fatih Öztürk,0df41789-9ee5-4eeb-bd59-14592377e59a
+Fatih Şahin,9215f218-8f06-4355-b744-eeb1437c93be
 Fatih Şahin,94fba3fd-1612-4539-b78f-0d110a336fd7
-Fatih Şahin (milletvekili),94fba3fd-1612-4539-b78f-0d110a336fd7
 Fatihhan Ünal,b53c3927-6928-462c-b1d1-f197742ad49e
 Fatin Dalaman,c8668fb6-e522-4c6d-961a-74a8f26453d7
 Fatin Gökmen,055aab22-dbff-43d7-97d8-239038ee0577
 Fatin Rüştü Zorlu,9cef50cc-e572-4d6c-bc2a-d88d8822b0f8
 Fatma Benli,301015a7-4fe3-43e3-b139-a7abc210e53a
+Fatma Betül Sayan Kaya,05a888c7-2afc-4149-af4d-6ef2091b16de
 Fatma Esma Nayman,133c8010-8a57-44b6-a5fb-4f1ffae2c4e2
 Fatma Gaye Güler,4083abb7-49a2-49fd-99ba-d188a113547e
 Fatma Güldemet Sarı,1ecbbb84-b2fc-4c38-b621-4ac03843e6d5
@@ -2035,6 +2056,7 @@ Fenni İslimyeli,c8496338-ca5d-49c1-bff4-547290a8b132
 Feramuz Üstün,00a5912f-496e-48b3-a405-8db81193b3b6
 Feramüz Şahin,1dfedbc8-bf18-4c27-b258-62114e7b41fb
 Ferhat Arslantaş,1256695a-80d7-487c-809d-0262ec5383f7
+Ferhat Encu,50360e56-9909-4a6e-9e80-c2eb1236bb23
 Ferhat Encü,063284fd-9255-4b3d-9d82-c299db11b818
 Ferhat Nuri Yıldırım,5b30d4a6-a9ad-453b-ac68-7846dcd39613
 Feridun Ayalp,b654aed6-504e-4d3e-a55b-1f403c3635d7
@@ -2179,8 +2201,6 @@ Galip Bahtiyar Göker,ed014e02-0080-4033-811c-0c345745eaf0
 Galip Demirel,a8291be1-00a3-49e1-ad1d-e2bc8555d1cb
 Galip Deniz,bff58f80-2d26-419c-a969-6f7c6fe11dc0
 Galip Deniz,f7ffe9cc-265c-43d1-bad4-c0fb841befb5
-Galip Deniz (Gaziantepli),f7ffe9cc-265c-43d1-bad4-c0fb841befb5
-Galip Deniz (Kastamonulu),bff58f80-2d26-419c-a969-6f7c6fe11dc0
 Galip Gültekin,27846851-c3f1-4af1-aa39-1a6f0a468d6f
 Galip Kahraman,3f35775d-e657-4677-9698-302c805b1f47
 Galip Kaya,dd7937e1-7fe9-458c-b6f2-dc515340d71f
@@ -2213,6 +2233,7 @@ Gönül Saray Alphan,97b8e4e4-cb63-4d5a-9ccb-5e87b0e07b1b
 Gülami Erdoğan,2d90e94a-08c9-4137-8799-57d50a337183
 Gülay Dalyan,3ec6a35e-730b-4b3d-8c3c-6ec5bff13d11
 Gülay Samancı,901672af-ec84-45c2-b7f6-32962a31d7a8
+Gülay Yedekci,ef3191e2-c6ac-4f9f-b39e-e334825e408e
 Gülay Yedekci Arslan,f907d572-4ebf-444a-8d9d-551d1ddf0919
 Güldal Akşit,a71f647d-c9b3-4416-8fbf-8f7a8c05ddf0
 Güldal Mumcu,0c7d9e74-901d-44dd-88ac-d499d1371388
@@ -2246,12 +2267,14 @@ Gürcan Erzin,6375c59d-6869-4e83-956a-e880e8f2af9e
 Gürkut Acar,6bc0b132-e373-4455-9254-3f3cc7f9cb49
 Gürol Ergin,230e7d89-6c31-4f96-99c1-4724f38e32ad
 Gürol Soylu,4b11c9b8-6ab0-44b5-86e4-5dce13f81354
+Gürsel Erol,bb72050c-174a-4dee-8b27-80e62ef89b9b
 Gürsel Tekin,75c51c1a-f157-4bce-9056-12647916d67e
 Gürsoy Erol,77fc1533-ce20-485d-8691-a26d5226483e
 Gıyasettin Duman,c4f55a20-d5c8-462d-b59a-79fb9cc36a74
 Gıyasettin Emre,d82d4582-d67a-4be8-bafd-08ec71acbaf8
 Gıyasettin Karaca,a56e6afb-6b50-4b0e-9d5b-df5f8369dd94
 Gıyasettin Karaca,fdd3342d-a40e-493d-b0e7-f87ac73fbc30
+Habip Soluk,e3c42975-d2bb-4b40-8375-bb410bf85b75
 Hacer Dicle,72cb63da-318d-46a1-b5e3-ff27dfbb3e23
 Haci Biner,e13cc99d-7948-4b05-bfd9-42fe5828bbce
 Hacim Muhittin Çarıklı,f37dd435-7336-4c91-9900-b837b38a575d
@@ -2278,11 +2301,13 @@ Hacı Mustafa,50a2b4d9-9f72-42d5-9f16-c2da06cee923
 Hacı Mustafa Beynamlı,a6337aa9-1b51-45d4-b496-15abe0a3d2ee
 Hacı Mustafa Efendi,ee4c157d-675b-4de5-91b2-99b1a1e0f82b
 Hacı Mustafa Sabri Baysan,37ba7ffa-c6c7-4d6d-9607-03f5b38280b2
+Hacı Osman Akgül,3f76f20a-9de4-43f2-b316-26f171277f26
 Hacı Süleyman Efendi,97f8df59-9c14-4262-890f-9c8623f1137c
 Hacı Tevfik Efendi,15d7df42-d907-4bfb-a89e-58c2f045977d
 Hacı Turan,48fba6dc-f4ea-4d96-b478-6e810bd460f2
 Hacı Turan Öztürk,e51ce896-f21f-4366-bdd7-dae3b63259d1
 Hacı Ömer Cevheri,620f7781-1543-43ad-96eb-6071f30805c7
+Hacı Özkan,102ec113-4f84-47d1-a81e-3f317e0621fc
 Hacı İbrahim Kabarık,2e83f2c3-b118-4f42-b9b9-b2ee1268025a
 Hacı Şükrü Aydındağ,e73dff7a-e86e-4cfd-8b17-f535296616ab
 Hadi Arıbaş,8d692fba-59ff-4cc6-8633-f8e7692e7ac2
@@ -2361,8 +2386,6 @@ Halil Hulki Aydın,2e825a8d-4b7b-40e7-8266-37b4eb8c6743
 Halil Hulki Ayrım,2e825a8d-4b7b-40e7-8266-37b4eb8c6743
 Halil Hulusi Efendi,4c66851a-c401-4671-9014-16f53257f940
 Halil Işık,db78d6a3-2803-4896-a438-a49d925eee3f
-Halil Işık (milletvekili),db78d6a3-2803-4896-a438-a49d925eee3f
-Halil Işık (politikus),db78d6a3-2803-4896-a438-a49d925eee3f
 Halil Karaatlı,ae391190-d632-4ae3-819c-3284a0685391
 Halil Kaya,56d429fd-600a-4d43-a53a-a5a165fdbf19
 Halil Menteşe,1df8d114-caed-4422-b594-c3c6e6e64a62
@@ -2388,8 +2411,6 @@ Halil Özyolcu,9e57a834-8dae-480e-9d92-1d67d54dc9e2
 Halil Ünlütepe,87110a19-66e1-4c02-bd67-0a0a997cdbba
 Halil Ürün,481c5c3f-86e1-4935-a3be-9ccb70b992aa
 Halil Ürün,91580128-36b8-4c58-a881-ecdd7923c515
-Halil Ürün (Afyonlu),481c5c3f-86e1-4935-a3be-9ccb70b992aa
-Halil Ürün (Konyalı),91580128-36b8-4c58-a881-ecdd7923c515
 Halil İbrahim Artvinli,ce92f17c-a419-45b1-8ccd-beb4a221608b
 Halil İbrahim Cop,919f3f95-f3ed-43db-b26e-b52a8c5c4a35
 Halil İbrahim Gürsoy,2317d81c-efef-450c-91ba-c53c869fb40a
@@ -2510,6 +2531,7 @@ Hanri Soriano,c33b892b-e0a6-43ab-abe4-ba66fcd0d902
 Harun Akın,3a1f99b0-0e76-4991-b322-0b72faf62d7d
 Harun Aytaç,de692e30-2537-4442-a3bf-0e5d1dcb28ae
 Harun Karaca,db27ece6-8758-483b-9077-7218e11d0463
+Harun Karacan,6aa0a86d-2ca5-4f8b-8f16-d31bff15f2f1
 Harun Tüfekci,1fa14a1c-300c-4167-a734-1a1a2ec392ba
 Harun Çakır,1531d621-8d32-4e71-b4bb-4c2d5d1eb96e
 Harun Öztürk,5ea4df11-20a4-448d-8dd4-e6769b5aa347
@@ -2519,7 +2541,6 @@ Hasan Akgöl,0c6f31b3-7632-41c6-a32b-60e3b2301aad
 Hasan Akgün,36099cfd-1b42-498d-9e68-698a6263324f
 Hasan Akkuş,83982aa0-58db-4941-b879-a57304a370e1
 Hasan Aksay,daa4b559-bb89-4f02-90b5-7e4d45dfe644
-Hasan Aksay (siyasetçi),daa4b559-bb89-4f02-90b5-7e4d45dfe644
 Hasan Akyol,18ff5fbe-b62d-4333-ade7-1f2bb6487640
 Hasan Akçalıoğlu,7a4f66c1-3eef-4aba-ac6e-c66b96c301b0
 Hasan Ali Dağlı,384b7aa5-bf63-4903-9a0b-0c84e076ec0f
@@ -2565,7 +2586,6 @@ Hasan Esat Işık,6bd318b3-6863-48f4-a266-627248583e8d
 Hasan Fahri Güler,38cb29fc-f1df-4a7f-98be-b5a4f39550ae
 Hasan Fecri Alpaslan,3d5507f4-58b7-4cbc-bf4a-c61dbeac8e82
 Hasan Fehmi,918576bb-d2b1-44ef-bb13-c988c087dd44
-Hasan Fehmi (Ataç),918576bb-d2b1-44ef-bb13-c988c087dd44
 Hasan Fehmi Ataç,918576bb-d2b1-44ef-bb13-c988c087dd44
 Hasan Fehmi Boztepe,c4e96f9a-8070-4423-b703-e21479a37e0c
 Hasan Fehmi Evliya,21b4780c-91e3-4b6d-859f-1b9374503a23
@@ -2655,6 +2675,7 @@ Hasan Tekin Enerem,a2b14f2c-58f9-4a3a-8801-01c30834446e
 Hasan Tez,62b425fb-82b1-4704-b9e1-c8c9402830c3
 Hasan Tokcan,ccabfab5-fe6b-4d14-b25f-364e52ad99cc
 Hasan Tosyalı,1cdf88be-1f09-4320-b63a-e87ff355eea0
+Hasan Turan,6512f7b7-7710-4c21-ac9c-22b2e83db3cd
 Hasan Türkay,f6ea8b33-354e-4446-a429-c4bff39696bb
 Hasan Ufuk Söylemez,1086b6e4-77db-4fc4-8939-2d088f0d8cba
 Hasan Vamık Tekin,64c0b424-1a3b-4299-9780-0de058744581
@@ -2687,6 +2708,7 @@ Hasip Ahmet Aytuna,1945a78d-86fc-4139-a5f2-5cf70db2044c
 Hasip Aksöyök,5f1998c6-9e7f-405c-8b3c-ed067e987446
 Hasip Kaplan,b4ffeb89-8bb8-4797-bb97-684925efb8ea
 Hatice Ayseli Göksoy,84260874-98c2-46d2-845c-221e2eedae28
+Hatice Dudu Özkal,a22dd5c9-b7c7-43ed-9498-9e0aec78ee31
 Hatice Seviptekin,afea9a56-bb46-4c06-a813-5c2712f3ba9d
 Hatice Özgener,c48965db-110d-4bf3-8a10-dfb7e4a46e7f
 Hatip Dicle,2b02499c-af34-4586-adca-e6a16e6c64b1
@@ -2698,7 +2720,6 @@ Hayati Savaşçı,16b27fcc-1895-4a69-bc58-5457981094dd
 Hayati Tekin,79b8faff-df48-4863-8cdc-9602a1062926
 Hayati Yazıcı,96d9d53f-83d2-4f65-a4ab-539a8c472273
 Haydar,4d73cd4b-6d7b-4a79-aeea-1da3a2007399
-Haydar (Serez doğumlu),4d73cd4b-6d7b-4a79-aeea-1da3a2007399
 Haydar Adil Müsteçaplıoğlu,b906ceee-3b4f-4bed-8710-e98f4ad17571
 Haydar Akar,7d1fe39e-428f-454a-b947-8659b83673e6
 Haydar Ali Yıldız,d3fe2a40-358b-4b27-a8d6-39d884a4865e
@@ -2811,11 +2832,14 @@ Hulusi Küçükler,b4431bc1-068c-4be0-b380-6b52cb285940
 Hulusi Oral,58b7ea30-9f56-4c5a-8851-e4458b6fa05c
 Hulusi Oruçoğlu,b2aaa42d-d685-4d00-9390-738ea0ea9573
 Hulusi Timur,1e36de96-53ba-4931-8727-dc9240d1d899
+Hulusi Şentürk,1c19fb21-ac5e-41ec-8619-77b787f0e177
 Huriye Öniz Baha,dd15ceb1-20dc-4298-82d5-e51a55b4c4fe
 Hurşit Güneş,52489079-da4a-4fdc-a2e4-8c01e5e6bc6c
+Hurşit Yıldırım,8368e849-16c1-476e-9608-f32e2562e5e6
 Huseyin Kenan Esengin,18b57b19-4e0e-4f80-8f8f-bd0016935e40
 Hüda Kaya,09837bcc-438f-480e-a795-28ade1a5c632
 Hülya Güven,a27731a9-7b86-4962-8b03-4b97e8b49438
+Hülya Nergis,9f89198c-c688-42e2-9fe2-ca6d6e29aa2b
 Hürrem Kubat,5d4189bf-66df-403a-ac17-fe28b79ddc2d
 Hürrem Müftügil,56e736f8-2e95-4f06-9691-6e08c932d5ff
 Hüsamettin Akmumcu,46fec61c-c781-44ff-a5cf-6ecc0737ba78
@@ -2840,7 +2864,6 @@ Hüseyin Abbas,edfc6e68-c595-469d-bf82-38f736cc8c4f
 Hüseyin Agun,8eef43f4-ee25-4f38-b56a-aacec49f6a46
 Hüseyin Akgül,ba7fa7bb-f26f-417d-a0c1-237bffaeed9a
 Hüseyin Aksoy,20bf7f76-47a0-4955-9aa5-b5a3f4b3a854
-Hüseyin Aksoy (siyasetçi),20bf7f76-47a0-4955-9aa5-b5a3f4b3a854
 Hüseyin Aksu,865c21f1-7078-4d1d-b7cd-27fc3cfa3b48
 Hüseyin Arabacı,9b035725-e9b1-4a8d-a984-46fdedb1f45b
 Hüseyin Arı,5cb48bae-abb4-47f0-8ca9-3c2e92bb8ed7
@@ -2955,8 +2978,6 @@ Hüseyin Çamak,4c5a0ea6-706f-4d6c-844b-193052c1799c
 Hüseyin Çelik,16335062-bc1a-4934-8bd4-2f61a6545d50
 Hüseyin Çelik,26e0bffc-efa9-4810-b47b-4e2168fc7cee
 Hüseyin Çelik,4b005354-1f1d-492f-8980-3576e6277eed
-Hüseyin Çelik (Kozanlı),4b005354-1f1d-492f-8980-3576e6277eed
-Hüseyin Çelik (Niğdeli),26e0bffc-efa9-4810-b47b-4e2168fc7cee
 Hüseyin Çelikbaş,f5ba38c8-456b-4ef4-9b53-f396d489efdb
 Hüseyin Çimen,ffe64262-cd10-468e-97d9-30710a6f7e84
 Hüseyin Çitil,08bcd643-3852-4243-8069-b6c25a7827d7
@@ -2970,6 +2991,7 @@ Hüseyin Ünsal,a8a6cc64-28f3-440a-917c-c94a61228f1d
 Hüseyin Üzülmez,2922ee78-7ad0-4400-bfeb-182623c21a31
 Hüseyin Şahin,1cde9283-fe8c-4255-bff2-dc0b481b5e71
 Hüseyin Şahin,4d92f161-f898-43e4-8658-98809f7e0006
+Hüseyin Şahin,726a96be-5f46-4635-a84c-ffcd5a9b073d
 Hüseyin Şen,b1842688-0f1c-4db9-8e21-fb4b49cdd8ad
 Hüseyin Şükrü Özsüt,66b66d05-40c6-4dd7-bfeb-a1f180197f5a
 Hüseyn Rauf Orbay,c897a10b-39ef-4ea8-a585-ddfe834a92a0
@@ -2990,6 +3012,7 @@ Hüsnü Yılmaz,8deb9962-728d-43d6-9b07-100e39b10503
 Hüsnü Çanakçı,667df839-73ba-46f3-b282-db7923b5fbd4
 Hüsnü Çöllü,fbd8a51b-c7b1-49aa-9833-d28a6ba391f8
 Hüsnü Özkan,87a4637d-dc67-4ec8-91d6-629a8a86bccd
+Hüsnüye Erdoğan,74f776b3-d8c6-49b5-a286-d53b3c8a9803
 Hüsrev Gerede,fd4fb680-3b52-4d9e-851d-737c6d7638ab
 Hüsrev Polat,f7572b78-4189-42b8-9882-8dba6aee254d
 Hüsrev Sami Kızıldoğan,d7d65767-330d-48c2-8a37-6f5b0054588b
@@ -3002,13 +3025,16 @@ Hızır Aydın,e00a1ae8-1bac-4d61-a03a-e8e04a520c46
 Həmdullah Sübhi Tanrıövər,e477a17a-9221-41f4-a14b-827b23a5181c
 Həsən Hayri Kanko,89af880a-d689-44e2-8acc-e2db1d02d3af
 Həsən Təhsin Banquoğlu,f1e694e1-fc69-4e6a-a2d1-c35d8c8a0096
+Ibrohim,1fd458d4-0d68-41df-84f9-779c5aec63c1
 Ilhan Kesici,e644bd17-0d1d-414a-b4d3-31191a057456
 Ismail Fazil Pasha,ca23788a-ed3d-4536-b6bf-569f13b824e2
+Ismail Fazıl Pasha,ca23788a-ed3d-4536-b6bf-569f13b824e2
 Ismet Inönü,0f6a5be4-39cb-404f-b94a-aecc5753fb56
 Ismets Ineni,0f6a5be4-39cb-404f-b94a-aecc5753fb56
 Işılay Saygın,a2f27230-91b1-41cc-b764-1fb11dbba6f2
 Işın Çelebi,a03063f2-3023-40a9-b132-7f87ce2a22d2
 Jülide Sarıeroğlu,5de79163-5745-4a29-9541-792a8a640943
+Kadim Durmaz,b2f78a8a-79b7-44c0-9ef5-9e2af4300ad1
 Kadir Bozkurt,dc1ab9d4-0360-4d90-bcd6-fd35335bcb0a
 Kadir Demir,a1108163-1a48-42a4-bc73-a28efffaca50
 Kadir Gökmen Öğüt,9c3312a1-a9a9-4c38-a0b7-b934314e39ab
@@ -3025,6 +3051,7 @@ Kadircan Kaflı,247cd7dd-fab5-473e-a570-228571f5576d
 Kadrettin Oğuzalıcı,ec2543b2-c812-4d88-9adb-acab0ca171dd
 Kadri Altay,e7fdafcb-a71b-4923-8f29-b6866749c0a8
 Kadri Bey,2a09e54b-e115-4ac3-88d7-a96d1b5ad614
+Kadri Enis Berberoğlu,0c00925a-62a0-41cf-ab06-907fa7cfab1d
 Kadri Enis Berberoğlu,a16644b5-a633-4b9e-97f8-3ecaf631a80b
 Kadri Eroğan,f3058d9f-aad1-4f3b-9549-f67e65ec5d5a
 Kadri Güçlü,503c4b3c-e722-4ae3-822f-74b4c1b6fe15
@@ -3069,6 +3096,7 @@ Kamran İnan,b9a2da8f-c106-4280-b461-8c3d2a3240da
 Kamuran Ural,86910d4c-2e52-47d7-9c0b-95c4fff29647
 Kara Vâsıf Bey,e8cd624e-f24f-4d08-89f4-d6a85ea791ae
 Karabey Kadri Karaoğlu,a6cd5829-2eb9-4358-92ea-ff9fc232e61c
+Kasım Bostan,fc0665b3-57fe-4d71-8208-62f24feec77e
 Kasım Emre,6d696c57-dccf-45e8-b8ce-583d9b562bfd
 Kasım Ener,8c1dba29-abf4-4531-acc1-ce49a26d92af
 Kasım Gülek,4f6202c4-d900-48f5-831c-109060bc99dd
@@ -3194,6 +3222,7 @@ Kemalettin Nalcı,9c3df1a4-6146-4109-856b-f50aab13d1d5
 Kemalettin Olpak,363bb9a2-ba18-4e07-ad72-d9fffdb2a711
 Kemalettin Sami Gökçen,43fd3c74-7cf5-4ae7-b1e6-e681b37ca68b
 Kemalettin Yılmaz,d3204f8d-45a9-46ed-9c3c-18ccfa206b04
+Kemalettin Yılmaztekin,52ee1e88-1f12-404f-979c-7cf63c4da8c4
 Kemali Bayazıt,d9c05e52-fe31-4bd1-a678-5c77c8da04e2
 Kenan Akman,4e9af0e0-2091-4270-870a-4cec9e749a9b
 Kenan Akmanlar,5c857bf0-a799-4281-b296-ba1d914b3329
@@ -3270,8 +3299,6 @@ Lütfi Aksoy,e59f5b61-6598-4a41-aac1-4e41ff3e484c
 Lütfi Ceylan,31f3bec0-e7d5-4861-994f-52ee45bf4616
 Lütfi Doğan,ba69a638-2746-41a5-9c69-8d62ea15a603
 Lütfi Doğan,e7a427f7-808e-4714-8f1c-8a06aea6de30
-"Lütfi Doğan (siyasetçi, 1927)",e7a427f7-808e-4714-8f1c-8a06aea6de30
-"Lütfi Doğan (siyasetçi, 1930)",ba69a638-2746-41a5-9c69-8d62ea15a603
 Lütfi Elvan,00110218-2555-47b2-a2b8-a4ae16c75ef2
 Lütfi Evliyaoğlu,51b3100f-de68-4fbf-9f9c-6751a6ea3977
 Lütfi Gören,da46a06b-003c-448e-a058-fe820670e554
@@ -3288,6 +3315,7 @@ Lütfi Çırakoğlu,b383888d-b697-46ca-964f-f8f9986eb825
 Lütfi Ülkümen,88660a6a-7882-4670-9361-678f8ee3586a
 Lütfi Şahin,06f5dd16-0fec-49bf-b2f5-0681528c7c86
 Lütfiye Selva Çam,4ac232fb-04cb-4cce-bbf4-000dc2620f35
+Lütfiye İlksen Ceritoğlu Kurt,649a271a-22bd-4e4a-851c-bbf88053cf21
 Lütfiye İlksen Ceritoğlu Murt,346ca1cd-9d9e-4ddb-be4a-df909f4ce6df
 Lütfullah Kayalar,3ac3d331-863c-46cc-968b-fe024e3ef500
 Lütfü Esengün,b8ba974d-85d1-4be3-a891-f299410d9f77
@@ -3306,10 +3334,12 @@ Mahmut Allıoğlu,b572e80d-3f53-413b-9100-afbad2064dc2
 Mahmut Altunakar,a9d32f96-7151-4e69-ad98-dc06e31f8b8a
 Mahmut Alınak,10512446-f947-4d92-b4d3-94b6927b42ad
 Mahmut Ataman,f84804e3-de21-460a-a222-b1758cb86dc8
+Mahmut Atilla Kaya,2a41e03c-7253-4242-ac63-ce289f432024
 Mahmut Bozdoğan,8119c7e0-ea4b-4fa3-ae28-7aadbc68b408
 Mahmut Bozkurt,8aac3341-f943-4c5e-bee5-4fc7a55719a2
 Mahmut Celadet Gaydalı,536f1274-4be7-4860-b1f8-0a34970ce806
 Mahmut Celal Bayar,98dc21b4-167d-4069-b3f2-1ab5cda127e8
+Mahmut Celalet Gaydalı,49c26a10-ad3b-4f37-87f5-7c996b8c5e0a
 Mahmut Dede,e6e23fa1-54b9-4de6-ad57-fbcc1275b6b3
 Mahmut Deniz,3e5bd263-ba6d-4fa1-942e-5bfc2d107adc
 Mahmut Durdu,3308427d-7ed2-4b58-8b2d-af864c1adc8b
@@ -3422,6 +3452,7 @@ Mehmet Ali Aytaş,9ae78d7c-6f4e-4571-9c47-865314ce6b86
 Mehmet Ali Ağakay,8c1cfd43-d347-435a-8440-31b03aa87926
 Mehmet Ali Bilici,39ec454a-27a0-4ce3-9351-5dfb88a13e21
 Mehmet Ali Bulut,f0fe173b-4767-4fba-8d1b-63913f86dc3a
+Mehmet Ali Cevheri,35dcb890-d5f1-4834-afe9-9db395be16a3
 Mehmet Ali Ceylan,e0d17012-7fdc-4c23-a304-8f8896b0760f
 Mehmet Ali Doğuşlu,a433ae65-b44b-464f-8133-733b05a458c2
 Mehmet Ali Ediboğlu,8598c938-45f0-4b7a-b043-79c67f9890c3
@@ -3439,8 +3470,6 @@ Mehmet Ali Pulcu,c30c93ca-e9b9-4a68-996c-d5a8cfffd994
 Mehmet Ali Sebük,74b83901-f2be-4237-aefe-eef2be329a4b
 Mehmet Ali Susam,7058b701-7390-4d28-875e-761370d360ab
 Mehmet Ali Yavuz,9e953f51-e0a6-441f-9b94-c2d932a47aad
-Mehmet Ali Yavuz (politikus),9e953f51-e0a6-441f-9b94-c2d932a47aad
-Mehmet Ali Yavuz (siyasetçi),9e953f51-e0a6-441f-9b94-c2d932a47aad
 Mehmet Ali Yörüker,dfe63544-60b6-4865-a4be-88a065d2551f
 Mehmet Ali Yılmaz,c750ea0c-a1b9-4532-ac1e-49990426c7c9
 Mehmet Ali Özpolat,7ae414f3-a5e4-4c85-86f2-453bea34e08d
@@ -3449,8 +3478,6 @@ Mehmet Ali Şahin,07db8d85-b95b-49a4-9db7-6c89481ca0b2
 Mehmet Alim Çınar,40557bc6-220b-469a-aaa4-e78c67dee6fa
 Mehmet Alp,2f9fa196-adea-495d-af40-4fc28975728f
 Mehmet Alp,d152982c-9713-4c42-87e1-a8e29bbbdf3e
-"Mehmet Alp (siyasetçi, 1945)",d152982c-9713-4c42-87e1-a8e29bbbdf3e
-"Mehmet Alp (siyasetçi, 1953)",2f9fa196-adea-495d-af40-4fc28975728f
 Mehmet Altan Karapaşaoğlu,64cce0ee-1ddb-4831-ab82-d27c621fe882
 Mehmet Altay,81a1e981-4e6b-4139-ba96-59d8b5cad623
 Mehmet Altmışyedioğlu,0f154d44-7d83-4d65-90a2-e46295145826
@@ -3458,7 +3485,6 @@ Mehmet Altınsoy,1379711d-53e2-42de-824e-98fd24ae328e
 Mehmet Alğan,2407a556-cba8-4faa-8727-cfca6be2e4a0
 Mehmet Arif Atalay,ec17bb64-f40a-4ad3-9fc7-eb65cc42ce7e
 Mehmet Arif Bey,a692e94f-ddd3-408c-96af-92442c254b1f
-Mehmet Arif Bey (Ayıcı Arif),a692e94f-ddd3-408c-96af-92442c254b1f
 Mehmet Arslan,f1ce9406-f280-477d-a288-ddb78dda5454
 Mehmet Arslantürk,019073c0-e90a-4eb0-b68b-739cbcf47c3e
 Mehmet Aslan,3695cee6-a9a7-4e66-afc7-21eb7bb84275
@@ -3475,7 +3501,6 @@ Mehmet Ay,35f470b3-3063-479f-a158-d8042c4ff1ec
 Mehmet Aydın,62ae678f-c9e3-4719-9c7f-8defb7aad392
 Mehmet Aydın,94960c7e-aa4f-4719-a549-54051f69dcdb
 Mehmet Aydın,c043eaa2-9492-422e-9ca1-deea7cc55e48
-"Mehmet Aydın (siyasetçi, 1928)",62ae678f-c9e3-4719-9c7f-8defb7aad392
 Mehmet Aykaç,838ba1dc-22a5-4914-82eb-ac25fd080c56
 Mehmet Aytuğ,be6a8e96-95ec-4904-929b-711aa7c5de33
 Mehmet Azizoğlu,c731e893-d632-4d70-81ea-7f52b0d96649
@@ -3513,13 +3538,13 @@ Mehmet Cengiz Güleç,c92df92c-2fbf-4645-ae15-d7d28021d4bc
 Mehmet Cevdet Selvi,f4283185-b9fc-40ba-92c9-a2321b2f29eb
 Mehmet Ceylan,5413a9b9-3d19-45e2-8f41-4f5f80a9c1ad
 Mehmet Ceylan,b5cb052b-b9f6-4459-8d38-b3e7d27407ff
-Mehmet Ceylan (siyasetçi),b5cb052b-b9f6-4459-8d38-b3e7d27407ff
 Mehmet Cihat Özönder,8d18a191-5296-4b6f-9030-afb28cf0d6d9
 Mehmet Daim Süalp,d34955c1-ef3c-4e02-9a31-a0bb90abb1e6
 Mehmet Daniş,b909d053-885b-449d-80cb-960298c4decc
 Mehmet Dedeoğlu,835be497-457c-447b-93dd-f4d53ba91df1
 Mehmet Deliceoğlu,60aa9168-cbc1-4c7b-ab1d-b60a64f2604c
 Mehmet Delikaya,b5b174a4-b7e8-4ff8-8f70-d4e63ca9cee7
+Mehmet Demir,c918f654-1788-4f4f-993b-d24445b4313c
 Mehmet Diler,ed549f5e-9203-4fc5-96eb-675e8cf589c9
 Mehmet Dinç,8ca90070-600f-48e9-8190-b9a8e736f4a4
 Mehmet Domaç,52f493cd-abe3-43cf-9006-2976526cd358
@@ -3530,7 +3555,6 @@ Mehmet Dönen,2697f0d3-53a0-4740-a994-3c2a311ab845
 Mehmet Dülger,479ef277-428a-4af1-93cf-12f2e7a6fdbb
 Mehmet Edip Ağaoğulları,31df9533-c934-4806-b93e-28e351356e4a
 Mehmet Ekici,c1025621-75ac-4115-bf3b-94133d08fef6
-Mehmet Ekici (siyasetçi),c1025621-75ac-4115-bf3b-94133d08fef6
 Mehmet Elkatmış,9d61c5c0-55e1-4062-b096-4bf9a8724dbb
 Mehmet Emekli,9d99f701-192a-411d-a1a0-388adc0c7e1c
 Mehmet Emin Adıyaman,5e624777-174c-44d8-b115-c645f8c54eae
@@ -3566,14 +3590,14 @@ Mehmet Eraslan,ddf3eecb-0297-4521-a612-75a29dbf58a1
 Mehmet Ercan Vuralhan,ac30230d-d2be-4785-9138-8d726b973be9
 Mehmet Erdal Durukan,2fba1a25-f08d-4dad-bdcd-d312fec8a654
 Mehmet Erdal Koyuncu,99607686-250b-41d3-b73d-c7f2ecf08553
+Mehmet Erdem,236dc123-f1de-4ab1-80db-c794cb783378
 Mehmet Erdem,4b2c3d73-4efd-4f91-aa1f-5a02971540e7
 Mehmet Erdem,4ee2ecbc-5ea2-4c91-9538-27e73ec4924a
 Mehmet Erdemir,4229fefd-0def-463a-bd4f-713e88e551b8
 Mehmet Erdoğan,b795221f-c03b-4405-b827-332b3a07a193
 Mehmet Erdoğan,d3f8004e-95ee-4875-b39e-2c4fc93118ec
 Mehmet Erdoğan,e11ea33d-3061-486b-851b-8368005d9ca7
-Mehmet Erdoğan (Adıyamanlı),e11ea33d-3061-486b-851b-8368005d9ca7
-Mehmet Erdoğan (Muğlalı),d3f8004e-95ee-4875-b39e-2c4fc93118ec
+Mehmet Erdoğan,f71c01c6-e869-4ef0-bcc6-6963ceb440fc
 Mehmet Ergül,200eccf0-4e1f-45b6-9d0b-6d0d8e97e61f
 Mehmet Ergün Dağcıoğlu,61bb0124-57d6-47ad-9bc4-64b4e3a0bab2
 Mehmet Erkazancı,337431dd-0b1d-4dea-909d-449d06018ff9
@@ -3655,8 +3679,6 @@ Mehmet Kadri Üçok,7e79813d-6fdc-454d-9ceb-4cac5fa38e9a
 Mehmet Kafkaslıgil,5c2e395f-5a0c-4ea6-95e1-63ee98a5d846
 Mehmet Kahraman,c6228eff-6456-4e39-988f-56cd55512934
 Mehmet Kahraman,d781e6e7-606b-4f7d-a6cd-60696065d3c5
-Mehmet Kahraman (Diyarbakırlı),c6228eff-6456-4e39-988f-56cd55512934
-Mehmet Kahraman (Erzurumlu),d781e6e7-606b-4f7d-a6cd-60696065d3c5
 Mehmet Kamil Boran,0e347e95-6f73-47af-a110-3d63a7f44106
 Mehmet Kamil Ocak,a344a182-c8b7-4233-b8bd-8fa85188e847
 Mehmet Kamil İrdelp,970ad0b8-2ed8-4fe8-beff-cfd942a4b4b7
@@ -3665,8 +3687,6 @@ Mehmet Kara,6e9c70af-206d-4b6b-a92c-62b9034b7f76
 Mehmet Karasan,29472789-117f-4fb4-9cf7-0cdeecf2f6bc
 Mehmet Kartal,4be2d3d8-f4ca-4db5-8e4b-738f1f8f5086
 Mehmet Kartal,64bf23c6-7a2a-4664-b1b5-a1546c6317b1
-Mehmet Kartal (Malatyalı),4be2d3d8-f4ca-4db5-8e4b-738f1f8f5086
-Mehmet Kartal (Vanlı),64bf23c6-7a2a-4664-b1b5-a1546c6317b1
 Mehmet Kasım Gülpınar,0989df97-0aa0-4546-b231-b3bd42b6c0f3
 Mehmet Kaya,5204897a-ca1d-4e7a-83f3-b7e9811e340c
 Mehmet Kazova,0440de8d-1a42-490d-a13d-81a78975fcd0
@@ -3733,6 +3753,7 @@ Mehmet Necati Memişoğlu,f08cc3c7-1dfd-42f3-a22d-3d5375dbd552
 Mehmet Necati Çetinkaya,65bcec5f-a411-4a78-8a6a-e8f7dcf1000e
 Mehmet Necati Çetinkaya,add873e6-fd60-4ee4-8b42-b4f1c5b14006
 Mehmet Necip Güven,57dfccf6-c2b6-49fd-b7e8-1757871bc255
+Mehmet Necmettin Ahrazoğlu,1a209741-8eb3-408c-9abc-95677434f3cc
 Mehmet Necmettin Kocataş,2c49670e-8268-4822-add0-1e61e59fa659
 Mehmet Nejat Çuhadar,113f2e1f-91b2-4ff5-9120-46bf21ee1469
 Mehmet Nevher Yılmaz,1c5505e7-5340-4c9e-8ba9-244675baafad
@@ -3832,8 +3853,6 @@ Mehmet Sami Arkan,acdfcd5a-a5ec-4978-a37b-096ab7e1fb90
 Mehmet Sanlı,a98caf4b-f5a6-4fd1-8ef5-831a6ca4932c
 Mehmet Sarı,72791094-761b-4dbb-b46b-88adeabf6ebc
 Mehmet Sarı,e7ed206f-3679-44cd-bc93-84f9644351ad
-Mehmet Sarı (Gaziantepli),72791094-761b-4dbb-b46b-88adeabf6ebc
-Mehmet Sarı (Osmaniyeli),e7ed206f-3679-44cd-bc93-84f9644351ad
 Mehmet Sayım Tekelioğlu,252c3541-58f1-4d93-9177-f3cc32fe0f99
 Mehmet Sağdıç,f0cdb999-67a8-4ff5-a41f-3e4c6961dc64
 Mehmet Sağlam,c8f11a41-0297-4d7c-a7fe-4c37cdf7f6fd
@@ -3886,7 +3905,6 @@ Mehmet Turan Bayazıt,1f55217a-97fa-4103-822b-de9f34d64954
 Mehmet Turan Bilgin,af9dc064-593c-4e48-97b0-b96456bdeeb2
 Mehmet Turan Şahin,9de35b9f-cafb-4480-919c-a34840da40dc
 Mehmet Turgut,c3e352a2-b09d-45ac-8110-e4e433f1e610
-Mehmet Turgut (siyasetçi),c3e352a2-b09d-45ac-8110-e4e433f1e610
 Mehmet Turhan Akyol,ee1f361a-6524-4db3-a11b-46ea33844733
 Mehmet Tüm,3aa89b45-dfd2-4ca9-97ab-6eb2ef9f3f3b
 Mehmet Türkmenoğlu,7630dd04-6f4a-48b6-ae67-eabe598f51c3
@@ -3951,7 +3969,6 @@ Mehmet Çebi,2493b64f-10bc-4b81-950f-fa586e1c52b5
 Mehmet Çelik,aa2e7b95-f9b6-4562-a3b1-9758c3eec642
 Mehmet Çerçi,d7e88d48-9ffc-40f8-9ddc-e675e958ac19
 Mehmet Çevik,8805d5b2-b97e-4493-ab0e-d88c7e8750ce
-Mehmet Çevik (siyasetçi),8805d5b2-b97e-4493-ab0e-d88c7e8750ce
 Mehmet Çiçek,50bc65fa-f944-44ff-8ea4-b8d0c8d351f1
 Mehmet Çobanoğlu,8f3f0a9c-85fd-48ca-bcb0-c4da3451b6d0
 Mehmet Çümen,7fde6d39-4eda-4d11-9a1a-d5b69e6400f8
@@ -4054,6 +4071,7 @@ Mesut Yilmaz,db08d710-842c-4e21-8b7a-5f388a147c70
 Mesut Yılmaz,db08d710-842c-4e21-8b7a-5f388a147c70
 Mete Bülgün,8faa6253-a0c4-430f-af59-c06b3ad55745
 Mete Tan,d1ccee57-b93e-42d8-b887-c92833433322
+Metin Akgün,5c6b6f9c-7a22-4229-a7d4-c208f7c52da5
 Metin Arifağaoğlu,958715fc-a7ea-44eb-ab73-7ca5e95461f3
 Metin Ataman,38d56a04-e779-4d49-b180-c2e5db4870d8
 Metin Balıbey,fa0a3bfd-2175-4c8c-bd65-33e53ffa4201
@@ -4062,6 +4080,7 @@ Metin Bulut,5e91b3db-45fe-4528-ac99-10768717bf8e
 Metin Emiroğlu,83ede58f-e2e1-4c7e-9436-73740c197501
 Metin Ergun,b3f6e6f8-f396-486f-b385-2febdda0cb4f
 Metin Ergün,4f6d04bf-e36d-4ffe-848e-39b7ff053068
+Metin Gündoğdu,72ae045f-3f3f-4a61-ad5f-723deacea6c9
 Metin Gürdere,f6e36681-0740-460d-ad70-4a87deb690c0
 Metin Işık,f61440bd-8ec4-417d-8116-e1a5faafa10d
 Metin Kaşıkoğlu,a8b96acc-c8ef-4cea-881e-0cfdc8f2cb99
@@ -4147,6 +4166,7 @@ Muhammet Bilal Macit,89205b13-38bb-487b-8ccc-2c991015316e
 Muhammet Emin Akbaşoğlu,6c453c55-7a0d-427d-ae99-6023872732b3
 Muhammet Kaymak,ed7f9fb4-510a-4ea1-b03a-d4aa80d32012
 Muhammet Kelleci,1d4cd537-8f5c-40dd-a0f1-68d369bf98cd
+Muhammet Müfit Aydın,2ff2641d-44fd-4171-a69d-3a8079da0eae
 Muhammet Polat,71c519b1-612f-4ad9-9708-473dbda3de3e
 Muhammet Rıza Yalçınkaya,9f26af5f-3578-4801-a9e6-838db7e69c76
 Muhammet Sadık Avundukluoğlu,7bd2cf93-f64f-4a58-96b9-cfa8da5e98ed
@@ -4207,14 +4227,15 @@ Muin Köprülü,da5031b0-ef51-4c8e-97dc-cf86bf86feb2
 Mukadder Başeğmez,ce859612-09f3-41aa-a7a6-9f65211ab7ae
 Mulla Ömer Kart,8e20a211-9542-455e-8989-04ddc8fc4b47
 Murat Akın,9b261587-79d5-4dc9-839c-b92979f46028
-Murat Akın (milletvekili),9b261587-79d5-4dc9-839c-b92979f46028
 Murat Ali Ülgen,45ca27a0-bd9a-49cd-9038-c6489c2d5358
 Murat Alparslan,c1158b1b-a0df-4718-b5fd-7b0022877b58
+Murat Bakan,7c39aa19-16c2-4316-926c-ef628946336b
 Murat Batur,6e21f725-6fed-4120-86d7-b0f651c82403
 Murat Baybatur,acf53a89-8633-4888-b7af-34a4016661c7
 Murat Bayrak,674d024a-35c3-43b5-99d7-0a6c08289082
 Murat Başesgioğlu,60901114-1e7b-4d8a-8c3e-4f87ac1e8099
 Murat Bozlak,b05b6874-cc9c-4ae3-94a4-a784cfd22da3
+Murat Demir,5cf4abf5-7663-4c0b-a4ed-31a6b8057c6b
 Murat Emir,fe1734e2-1260-48d0-a6eb-e88dc297abeb
 Murat Göktürk,16e2d664-aa7e-4948-aba6-a93c4f97ff4e
 Murat Kahyaoğlu,8af88ffc-d283-40bd-abaf-0b406a439964
@@ -4223,7 +4244,6 @@ Murat Koç,0852c34e-395b-4d9a-b690-3d9a50487268
 Murat Sökmenoğlu,64937202-2e65-454d-ae87-cd2ac2aaf9e0
 Murat Sökmenoğlu,a382535e-274a-4232-8773-83100cf741ff
 Murat Yıldırım,1486d4cc-7354-43aa-8f51-2ce1012e33d4
-Murat Yıldırım (siyasetçi),1486d4cc-7354-43aa-8f51-2ce1012e33d4
 Murat Yılmazer,d13dc4aa-89ec-416b-b9d7-b5f114cb8c14
 Murat Öner,60db0bc3-3d3c-495c-9221-fd4b6114c8b9
 Murat Özkan,caf6ccb3-827d-436c-a8fe-2f3e0b8b9294
@@ -4301,7 +4321,6 @@ Mustafa Demir,434a2a18-ab9c-4992-936e-933bfe38e3ba
 Mustafa Demir,aeb51bf1-89d1-4cea-8fd5-a1deebea0d7e
 Mustafa Dinek,28e39137-a3e6-46be-b36c-63691b235075
 Mustafa Doğan,e56411ee-2080-4120-b55c-58e4c8dd2f6f
-Mustafa Doğan (siyasetçi),e56411ee-2080-4120-b55c-58e4c8dd2f6f
 Mustafa Durak Sakarya,fb0fb07c-e45e-4989-b372-3b92be6e4f82
 Mustafa Dursun Yangın,58d91e85-83d2-427e-b338-228fcbc63f22
 Mustafa Duru,215b4613-3b74-4599-bfa3-e2e130d781c5
@@ -4350,6 +4369,7 @@ Mustafa Hayrullah Diker,fda5b9c0-7188-4e1d-9f55-e281685b6f06
 Mustafa Hazım Dağlı,bb41844f-488c-4c6e-9a63-3f9980b578b0
 Mustafa Hemiş,892b6955-b67a-4362-8afa-39e39949bff7
 Mustafa Hikmet Çelebi,f241fa1a-3360-4be3-a651-47b5b8fdc74a
+Mustafa Hilmi Dülger,99d6168b-7a7d-4d5e-b635-a6d4a72efd85
 Mustafa Hilmi Soydan,803d3181-f338-4895-9e9b-66e215986832
 Mustafa Hilmi Çayırlıoğlu,d2ba9c59-8b2f-4e4c-b2db-3300994d21e0
 Mustafa Hilmi Özen,fb35f6db-80fa-48e6-ba5c-8f2b02f7062f
@@ -4452,8 +4472,10 @@ Mustafa Sait Gönen,9144df3c-6ace-45d4-8642-a3935a7df593
 Mustafa Sait Yazıcıoğlu,e3a5d1e8-36d0-41c7-b3e8-6c6d7ac6c5ef
 Mustafa Saraç,379d1b04-d404-4feb-83e1-70ef2dce75b4
 Mustafa Sarıgül,6a111fc6-5a6f-493e-a4b8-97835318f3d7
+Mustafa Savaş,ed51ba77-42e5-49fb-9fff-010ad151804e
 Mustafa Sayar,4639a57e-99ca-49b2-958f-cee4484e0f4a
 Mustafa Serdaroğlu,fda900ad-bfb7-4437-8d70-2f391703de7c
+Mustafa Serdengeçti,d7abd75c-5968-4a8b-b563-51a38929d47b
 Mustafa Sezgin Tanrıkulu,36df5bbc-0c97-4ac0-92b9-3eff4b0a0106
 Mustafa Solmaz,2a4248ce-3651-4824-953a-fd193f947275
 Mustafa Soylu,692a6cf6-3556-4ee9-a493-c42ca8029b69
@@ -4476,7 +4498,6 @@ Mustafa Vehbi Bilgin,8440a3ce-2d6a-4769-abda-b040dc51592f
 Mustafa Verkaya,04021be6-20bb-4fa0-b5e4-2204d5dcf733
 Mustafa Vural,60384f61-cf79-43c3-8f18-f72df517939f
 Mustafa Yaman,5cf24c39-dca8-45b5-b418-2a338ef77c78
-Mustafa Yaman (1949 doğumlu siyasetçi),5cf24c39-dca8-45b5-b418-2a338ef77c78
 Mustafa Yel,95d8402e-61a5-4937-ac53-ba8e4f2eb319
 Mustafa Yeneroğlu,65beb0cc-469c-4ff7-a0ca-42184d3212c4
 Mustafa Yeşil,0e90ac01-fe69-4c1d-9fa5-1c45451a7e2f
@@ -4486,8 +4507,6 @@ Mustafa Yılankıran,0699ff05-9aed-4ca7-b03e-f8c363c0ff44
 Mustafa Yıldız,decf265a-f79b-4095-86b6-bac02b231924
 Mustafa Yılmaz,e866d2f9-b5fe-44b4-af77-7c490f7e950d
 Mustafa Yılmaz,f307a244-7664-4ff3-b7d4-3ba7c8470261
-Mustafa Yılmaz (Gaziantepli),f307a244-7664-4ff3-b7d4-3ba7c8470261
-Mustafa Yılmaz (Malatyalı),e866d2f9-b5fe-44b4-af77-7c490f7e950d
 Mustafa Zeki Saltık,4df80c4b-7799-4956-9f3f-cc747a8aaac6
 Mustafa Zeren,eee45d59-cf4c-4dec-860c-4a81fbb7e903
 Mustafa Zeydan,bf9b9b11-6528-4136-bffd-642118d66987
@@ -4511,23 +4530,18 @@ Mustafa Öztürk,744f3ba6-0bbb-4d18-a02c-82835ffe8fac
 Mustafa Öztürk,7510e2e1-0c00-43e1-8bb6-eda6118c1d60
 Mustafa Öztürk,8dded154-7366-41fd-91b5-c895db0b5548
 Mustafa Öztürk,ab3b381c-4233-4a37-aed6-59c8892d9fda
-Mustafa Öztürk (Afyonlu),2e851bb1-b387-4998-9cc6-83da78a4a03e
-Mustafa Öztürk (Bursalı),7510e2e1-0c00-43e1-8bb6-eda6118c1d60
-Mustafa Öztürk (Hataylı),744f3ba6-0bbb-4d18-a02c-82835ffe8fac
-Mustafa Öztürk (Sinoplu),ab3b381c-4233-4a37-aed6-59c8892d9fda
-Mustafa Öztürk (Tuncelili),8dded154-7366-41fd-91b5-c895db0b5548
 Mustafa Özyurt,a31c1a18-5150-4310-be48-830a01029bf4
 Mustafa Özyürek,848f04b0-9d6e-43be-94d9-e7d9ef59a5a0
 Mustafa Ünal,eac46dcc-cb10-4246-92fe-7c11c6371bde
 Mustafa Ünaldı,544ef326-a440-4b8f-ac9c-c3b6addffdb1
 Mustafa Üstündağ,dcec4cfe-973d-47c1-8764-988fdeb1ab50
-Mustafa Üstündağ (siyasetçi),dcec4cfe-973d-47c1-8764-988fdeb1ab50
 Mustafa İbrahim Turhan,d1c04c7e-1726-40ff-85e5-7fd7bc749f96
 Mustafa İlimen,a3442b83-91e1-4148-90c4-8fce98f1ae15
 Mustafa İmirzalıoğlu,e8237471-c9a3-4d33-957b-0c67aa3aca19
 Mustafa İsen,f6079dc8-c74e-49be-b17f-1b6789b041c4
 Mustafa İstemihan Talay,ed5ce3a4-00af-46bb-95b9-532a1af87538
 Mustafa İzci,9291258d-0071-4f07-a53e-e51ab8fd7eb8
+Mustafa Şahin,2767f33a-369b-448e-8dd3-dc1718295f0a
 Mustafa Şahin,8bd2a33a-50dc-4289-8131-01909f3b723c
 Mustafa Şahin,bc812f54-1419-404e-ab09-3c039431e742
 Mustafa Şentop,ec7c2bca-14d6-4b84-99a7-be069f12b0f5
@@ -4545,10 +4559,8 @@ Muzaffer Akdoğanlı,adcdd712-34f8-4860-b85d-63e8cc73119f
 Muzaffer Akpınar,821dbb9b-968b-47a9-a82e-3d6ced649b04
 Muzaffer Ali Mühto,1bdcdc20-058d-478e-912d-1d37c3867265
 Muzaffer Arslan,b96a9b99-8fbc-41c1-a265-4f0c8b0a1313
-Muzaffer Arslan (politikus),b96a9b99-8fbc-41c1-a265-4f0c8b0a1313
 Muzaffer Arıcı,1d1c63a2-2a16-488d-9fc7-bc100e7a716a
 Muzaffer Arıkan,d363485b-2940-4977-924e-5fc6aa417c8c
-Muzaffer Arıkan (siyasetçi),d363485b-2940-4977-924e-5fc6aa417c8c
 Muzaffer Aslan,e6ff4a50-a598-44b8-a5e2-bf1d01e7dbc6
 Muzaffer Atılgan,0c0050cb-ab1e-4a50-97e9-377baf2fb98d
 Muzaffer Balaban,e9dcca21-5d50-459e-8e40-c5c1af4d4908
@@ -4633,6 +4645,7 @@ Münir Soykam,c64c87e4-f57d-402c-a7af-88f34068379b
 Mürsel Bakû,947e8b14-db6a-487a-ac95-c45c6092f843
 Mürsel Bakü,947e8b14-db6a-487a-ac95-c45c6092f843
 Mürsəl Bakı,947e8b14-db6a-487a-ac95-c45c6092f843
+Mürteza Zengin,b46ccc21-bf30-4628-9248-8989ddf3d2ec
 Müslim Sarı,55c0e815-5014-43fd-8832-3af84b262a73
 Müslüm Doğan,5902f039-1fd8-4406-86de-2d1a1d433669
 Mütevellizade Hamdi,932c46a7-1039-4c9a-9cb1-35343fff63e5
@@ -4648,6 +4661,7 @@ Məmduh Şövkət Esendal,45967855-639e-42d6-ba6d-fb9682171ddc
 Məsud Yılmaz,db08d710-842c-4e21-8b7a-5f388a147c70
 Nabi Avcı,a18d5e39-4f1d-42a6-9fcf-cb405bac46af
 Nabi Avçı,a18d5e39-4f1d-42a6-9fcf-cb405bac46af
+Nabi Ibraahiim C.S.,1fd458d4-0d68-41df-84f9-779c5aec63c1
 Nabi Poyraz,06324fe4-704c-4ef6-a41b-9978fb3a345b
 Nabi Rıza Yıldırımtekin,3d9ccdd4-6bc2-4682-aec2-4fc3fb471349
 Nabi Sabuncu,c8c8587c-7f00-443d-a281-12b760833cba
@@ -4673,6 +4687,7 @@ Nadir Nadi Abalıoğlu,6f1684c6-870b-4ddd-b81f-cd634010157d
 Nadir Pazarbaşı,ecaa8673-9a2b-4e15-a0c0-e8d049653629
 Nadir Saraç,df2f267d-881a-4e0d-8272-335db7456984
 Nadir Yavuzkan,2936bfc5-59e2-4f95-a095-9492d23965e9
+Nadir Yıldırım,b864182b-b487-4fb9-a49a-de3f34e468ed
 Nafi Atuf Kansu,c589fe5e-b215-4dbe-bea4-62d3a0a05d71
 Nafiz Aktın,7aa44374-2059-413b-9ebf-7c0eb604da0d
 Nafiz Giray,1941843e-8388-481b-9a92-cc561e23714c
@@ -4741,6 +4756,7 @@ Nazım Batur,58293cfc-a104-4cbd-88d3-5d8644f30738
 Nazım Bayıllıoğlu,001e31c9-b499-4066-8074-86cfe1d43d62
 Nazım Baş,0aec88fa-8a71-4405-96ca-0099ac50c716
 Nazım Ekren,d7a7cd46-88b6-4f2b-b82b-6f625346a7ef
+Nazım Maviş,d801a1e9-bde0-4963-bae9-7ba0003addce
 Nazım Poroy,c9171f7b-acd9-42d5-8246-cac33c1f34de
 Nazım Resmor,058b303d-b3bb-4897-9ab7-e4d386d0e81c
 Nazım Tanıl,35a62c06-7237-4d63-95f6-b235122162f9
@@ -4775,7 +4791,6 @@ Necati Yöndar,75b8349e-9973-4201-870b-f94bf86363dc
 Necati Yılmaz,a2dcf23f-f227-49eb-bc7d-d1aef8c2a04b
 Necati Çakıroğlu,22a579d7-d96b-44a6-a238-c8aaafaed4ce
 Necati Çelik,3e7d9839-6d2d-4edd-b1b4-f587647c901f
-Necati Çelik (siyasetçi),3e7d9839-6d2d-4edd-b1b4-f587647c901f
 Necati Çelim,119b8253-ef07-4648-aa8e-d13b834e9de6
 Necati Çetinkaya,65bcec5f-a411-4a78-8a6a-e8f7dcf1000e
 Necati Özensoy,2b216327-6483-4eb1-9ec3-83464ad075aa
@@ -4800,6 +4815,7 @@ Necdet İncekara,31565dd2-eddc-41bd-956a-5fae19f737b2
 Necip Ali Küçüka,da8ab36a-6f9b-46bd-ae95-1655f283954f
 Necip Asım Yazıksız,2dfff97e-b657-4240-b87f-066e4e61f9e9
 Necip Buldanlıoğlu,2a0c103f-31ce-4a82-901b-9fe875a1fcd1
+Necip Kalkan,814cc07e-7443-4936-bc98-b7aa4394bff3
 Necip Mirkelamoğlu,86f8778f-4ab7-4468-9046-08bfb41496aa
 Necip Oğuzhan Artukoğlu,7fd9c745-844b-4670-ac50-550510e5be76
 Necip Soydan,1f7872a1-5bd3-4cdb-9c0f-0a0373194414
@@ -4852,6 +4868,7 @@ Nesrin Ulema,aab0e323-f5dc-436d-b4ae-bf498333e45c
 Nesrin Ünal,fccbd5cb-e98c-4310-8a3c-d55d1f75b192
 Nevfel Şahin,3bd28da0-5c38-4fa4-8bf4-c5f8bc74ffd1
 Nevin Gaye Erbatur,e489ddcd-2891-4879-98fc-cdffa988b32f
+Nevin Gaye Usluer,ac835f57-2cba-4f10-940c-d72518ca963a
 Nevzad Ayas,05b88234-cef6-45c1-83db-35a5e5540123
 Nevzat Aksu,c3873770-0e88-4157-a136-f16605d1fc51
 Nevzat Arman,adea44f2-f1d2-4209-9226-cc2703db0c7b
@@ -4915,6 +4932,7 @@ Nihat Yeşil,13b80bd2-e5fe-4637-92a1-af1260dd6aab
 Nihat Zeybekci,85cc767f-947c-40d0-8f45-aef15adc0799
 Nihat Zeybekci,e3a732c8-489f-4df8-8339-a9062ee7f06a
 Nihat Zeybekçi,85cc767f-947c-40d0-8f45-aef15adc0799
+Nihat Öztürk,d07ac8bc-0312-4373-8ad7-2c4d4acf3dde
 Nihat İyriboz,9ce2c648-4c7c-4c01-9264-4d24be9a61cf
 Nikola Fakaçelli,36639d7e-cb47-427e-be82-51489e21d9cb
 Nikola Taptas,59f98d04-431a-49d6-b833-c936226f2935
@@ -4967,6 +4985,7 @@ Nureddin İbrahim Konyar,70672dee-818c-49a5-84f1-227b49753518
 Nurettin Akman,1edb16e4-be07-439d-b365-fa859913da23
 Nurettin Aktaş,8e1d36a6-4623-4162-9a13-aac7f7a26256
 Nurettin Akyurt,3359be03-8cd6-4176-802d-ea00360e4421
+Nurettin Araa,b0f93ef0-ea2c-4e81-ac5a-9c82c0399ca2
 Nurettin Ardıçoğlu,50e25215-6212-47b3-a886-01db0ac4a1f5
 Nurettin Atik,48294e2b-167a-41ca-8649-38ad510ab01b
 Nurettin Bulak,10f17f1d-2454-4eda-96be-9520b339a9a6
@@ -4988,6 +5007,7 @@ Nurettin Özdemir,53f73b51-2449-498b-8ebb-ffbf8f4cc1dd
 Nurettin Ünen,0cc03855-768e-47b1-9c03-f56826043856
 Nurhan Tekinel,1ca74f45-a1b8-4098-b5d0-c5cc85c0114b
 Nurhayat Altaca Kayıoğlu,955e98f9-767a-44a2-9f6b-b6963593d04d
+Nurhayat Altaca Kayışoğlu,628c5992-7566-4f15-8361-ef47370c2da3
 Nuri Ahıskalıoğlu,6a121b05-7db1-4f6a-bc47-33606b782ad1
 Nuri Aksu,1cc6b56a-51c2-4300-a5f1-97658f98b0c9
 Nuri Bayam,89f82661-8ceb-436d-ac14-9b8414de7196
@@ -5020,6 +5040,7 @@ Nuri Özsan,aff7e1cd-157c-4d35-b8aa-7439d33f4b5d
 Nuriye Pınar,4e16d602-1566-44aa-a10f-f96de43c9727
 Nursel Aydoğan,2cdd6bc2-9bb1-480d-9379-d0b5e5b9cc96
 Nursel Reyhanlıoğlu,0f12f2d5-9226-4811-99ef-d038b262f5db
+Nursel Reyhanoğlu,e5769ed0-3f66-4334-a029-aac5a4da67ff
 Nurullah Esat Sümer,e6466a00-6266-4a6b-ae6d-9ec734b498cf
 Nurullah İhsan Tolon,bb0c5405-9710-4f4a-ac2d-34350c4e2ce2
 Nusret Bayraktar,27c03766-22c6-43b7-92cd-11385b35545b
@@ -5058,13 +5079,13 @@ Orhan Atalay,2e7f1292-b6c7-4d5c-8afd-273f5a99d2ee
 Orhan Birgit,202515bf-4cd0-44c6-a8a1-3a2493f72241
 Orhan Bıçakçıoğlu,784b9e5f-bfaf-4b74-bf1b-ff875c567538
 Orhan Cemal Fersoy,3c3c781d-6ef6-47a4-9929-b825ff3bcfc4
+Orhan Deligöz,5d165806-b774-44a5-84d7-402ab4bc4284
 Orhan Demir Sorguç,2f91aed3-f443-4831-b571-a8cba2caa5f1
 Orhan Demirtaş,6ff06a75-0bcf-4656-9c3e-f919a4a90012
 Orhan Dengiz,76c4b20d-ed35-4ab1-8093-1f881ec8ec27
 Orhan Dogan,a712cb2b-2081-4e36-84a3-aa6682d411b1
 Orhan Doğan,a712cb2b-2081-4e36-84a3-aa6682d411b1
 Orhan Düzgün,50075a88-7922-42fe-85fc-0ab752594134
-Orhan Düzgün (doktor),50075a88-7922-42fe-85fc-0ab752594134
 Orhan Eraslan,16c81498-06f3-4876-99da-fe99e9d3b16d
 Orhan Erdem,8c7ca376-2d39-4684-a596-132a223e7580
 Orhan Eren,682bee47-032b-4afb-a943-865dfb4cec74
@@ -5081,6 +5102,7 @@ Orhan Karasayar,4b042883-f3d0-48bd-83ba-cc49377059b4
 Orhan Kavuncu,966597de-7f96-4b7f-96c7-16424fcb4292
 Orhan Kilercioğlu,799c2096-6781-46f7-be38-370aeab751d7
 Orhan Kökten,56c18289-1bd2-4a6d-a91a-18397623d29f
+Orhan Kırcalı,bb072387-7645-4ee4-adf9-789be1a0fe78
 Orhan Miroğlu,d8482b83-713a-46ae-9ec7-24907394ca1b
 Orhan Naim Hazinedar,22d2ef99-b49b-4dd9-bd1b-cc51592e3ea1
 Orhan Ocak,a288fd5b-3e72-478a-bda7-af0beab8901d
@@ -5088,7 +5110,6 @@ Orhan Ocakoğlu,69a241f4-57e9-4078-8b44-8533d0a7b656
 Orhan Okay,c0f52745-9097-47b6-806a-2470923bb252
 Orhan Otağ,8cc8b71f-b5af-4144-92ab-f0c6cc56d5ec
 Orhan Oğuz,e5d3b2f9-fb9a-4e45-b80f-b5d2fbb821c3
-Orhan Oğuz (siyasetçi),e5d3b2f9-fb9a-4e45-b80f-b5d2fbb821c3
 Orhan Sarıbal,d784344d-cde7-49e5-ab79-02b63046a0b8
 Orhan Sefa Kilercioğlu,799c2096-6781-46f7-be38-370aeab751d7
 Orhan Seyfi Orhon,7808b408-7710-4163-bbbd-2bdd35e4b004
@@ -5114,7 +5135,6 @@ Osman Alişiroğlu,b1bd75b3-9c7a-4189-8a3e-981392522dcd
 Osman Aslan,88b381b1-9b1f-4af2-8c19-da8118c84577
 Osman Attilâ,85ac68dd-1556-4c81-a096-8a508756eb2b
 Osman Aydın,48c5c1a5-7dc8-4870-8e55-877417f49025
-Osman Aydın (milletvekili),48c5c1a5-7dc8-4870-8e55-877417f49025
 Osman Aykul,14939ede-4b2b-4ae7-acb4-47f17fedccca
 Osman Ağan,3d1eaed8-6b12-4c0a-ab22-b6dbea2d5a9b
 Osman Aşkın Bak,665beb65-e554-44d9-b1d2-53250976a10f
@@ -5163,6 +5183,7 @@ Osman Kaya,3dfe4867-561f-47cf-969a-8e70bdbb192f
 Osman Korutürk,23e9a0fb-98a2-4ec4-b267-a8f7fc241cf8
 Osman Kılıç,9a2bb49c-91a9-4183-9864-d327f493db0e
 Osman Kılıç,f525c32a-e689-4144-a474-3e73be320f4a
+Osman Mesten,f4ea02b0-10fb-49a8-97f3-b8b0cec4120d
 Osman Müderrisoğlu,f62318ca-78ae-407f-bc48-7767cee485e6
 Osman Niyazi Burcu,5df23d5e-981d-4225-9766-2bdeb4f38df9
 Osman Nuri Akyol,6e0d9730-7c2d-4884-bbc2-bf5b24593baf
@@ -5232,6 +5253,7 @@ Oğuz Tezmen,9ba33067-d659-4746-a335-f5f2a5fc7853
 Oğuz Yazıcıoğlu,55afb60a-2266-4036-a653-4bfd25c06695
 Oğuzdemir Tüzün,05265440-b68f-4412-a711-a6896f992d95
 Oğuzhan Asiltürk,faa4bb12-d625-4f59-a8f7-b5a5b08fafdf
+Patriarken Abraham,1fd458d4-0d68-41df-84f9-779c5aec63c1
 Paşa Sarıoğlu,92a37840-6aa0-4e50-8c3c-041d79290f1f
 Pelin Gündeş Bakır,666ca1b4-5403-45c7-965d-4df005063edf
 Perihan Arıburun,4372fd27-0283-4d85-b7a7-a11f0495aafb
@@ -5243,9 +5265,11 @@ Pertev Sanaç,b170d041-2b54-46fd-b7ce-4f826cb826d0
 Pervin Buldan,09582ef1-18fb-4567-b3ab-ddd47f5b1bf5
 Piraye Levent,f1a15d67-da99-47e9-ad03-dd0ebeee4ce7
 Polat Türkmen,802e156b-8305-4e50-8ef2-7f4b8dfd9f61
+Qemal Këllëçdaroglu,86bb007b-cd15-418a-94d2-9324ce7ad822
 Qorqud Özal,e2e0a2e4-6aa0-4e56-813e-5039c3fa951c
 Radiye Sezer Katırcıoğlu,b2fc1c56-bea2-4e3a-a75e-df7148ba956e
 Rafet Eker,2db2c470-6baf-41df-8c9b-d8b1614d5097
+Rafet Sezen,5ca5ec6c-30d7-491d-a3bf-a9c5c1484b13
 Rafet İbrahimoğlu,72db73f5-68b8-4429-b179-358301b799a1
 Ragıp Gümüşpala,3a944bfa-7475-4e12-b068-9a44a9461e1a
 Ragıp Karaosmanoğlu,86156567-225a-4510-97f5-4ab950be20fb
@@ -5491,6 +5515,7 @@ Rıza Şimşek,9600baf1-816c-4909-a50a-df95d40238d0
 Rəcəb Tayyib Ərdoğan,8eb878de-9491-47b1-b5a0-a01675095109
 Rəşad Nuri Güntəkin,3ef93178-40b3-448f-bc64-2e3e079f7d1e
 Saada Emin Kaatçılar,ca237a9b-deb5-42f8-afbb-9f098267118e
+Saadet Becerekli,7949fb5f-196f-4c19-b069-163a25219a6b
 Saadet Becerikli,04ab2a1b-21ba-4dc2-b236-c7d08e6feda7
 Saadet Evren Kaçar,4fb08ca4-347c-40c7-95a0-f8edb6607fea
 Saadettin Aydın,1a03b8e3-09a5-4db6-9073-cbe40241704a
@@ -5540,6 +5565,7 @@ Sabri Yavuz,d4e9ccfa-ee2b-4e09-93ba-356e9f4818a0
 Sabri Çelikkol,65659b34-f6a3-4309-826f-51d07f1a00e7
 Sabri Çonkar,40f0c889-46fe-40a6-a229-19a77c6956b6
 Sabri Özcan San,7814cf68-7c2e-450e-bb43-7c3294320bcf
+Sabri Öztürk,1b4e6b60-3b1d-49d6-afe2-278ec2a8befd
 Sabri Öztürk,262048bb-cf8c-4774-abe4-dace54438176
 Sabri Öztürk,6eaa975a-7665-4fb3-8a6b-1a35e0bddefe
 Sabri İnce,8b13029b-afed-4792-9f1f-c03d61cb247e
@@ -5643,6 +5669,7 @@ Salih Avgın,d7455e45-73e7-4f5e-84d7-326f33445346
 Salih Aygün,6cd502d2-e7f3-42b3-8686-6f46e89ca6a9
 Salih Başotaç,f7d32b12-34d2-4b36-96d8-09732341cc8f
 Salih Bozok,8868c010-fb05-4abc-9f8c-c88ddfe51fd8
+Salih Cora,44b3994b-0e1c-47dc-8c4e-40bd8b4cf98b
 Salih Dayıoğlu,f84ce204-6c7f-4e06-a805-8bdfa7d34d17
 Salih Efendi,e3a2616d-b872-49a3-a927-b723969a312a
 Salih Ekmel Çetiner,ff969757-0858-4642-97b3-dd66e3a489f5
@@ -5684,6 +5711,7 @@ Samet Güldoğan,0ec12604-969b-469d-a56c-d1cd632e4e70
 Samet Kuzucu,144dd0e2-36cf-4e90-a886-5a9fcce6f5e6
 Sami Arslan,3be8e819-a4d2-49be-bbb8-19134e887e1e
 Sami Binicioğlu,1f9a252e-9aa4-4a73-a94f-40d42a55c160
+Sami Dedeoğlu,3052cdfc-fc56-4bd0-acee-010561106596
 Sami Erkman,4e84ca31-2f6f-4f4b-8449-55fa83d61b79
 Sami Gökmen,6fb26c30-37ca-4923-9940-eb3b554e9a24
 Sami Göknar,53623e59-f242-445d-8122-d94e8d9e9809
@@ -5693,6 +5721,7 @@ Sami Küçükbaşkan,6ba8ebf2-10c4-43e7-a02d-3388edbb193f
 Sami Orberk,821dfc23-1174-4bbe-94b2-838ce47e1cfb
 Sami Soylu,4faac8a9-6cfc-4538-bb95-33230d15a174
 Sami Sözat,78e8f7ee-4643-4536-a0f1-e9d88483cf0f
+Sami Çakır,f12acc7f-249f-4dee-b6ff-c66c9e57a180
 Sami Çölgeçen,c33ffca7-9ab0-4e35-a9a8-a44d240f4ca7
 Sami Öztürk,fab76acd-23da-44ef-916c-4ac717dd0e53
 Sami İlhan,c1dbaec0-1c4e-421f-baee-025ae3bebce7
@@ -5755,6 +5784,7 @@ Selahattin Karademir,4718b67b-1ee1-4646-abe2-8f9f7e88e63a
 Selahattin Karayavuz,e29c06bc-8224-474a-b5cb-1ce7946176c8
 Selahattin Kutman,f8b648d2-da7d-4476-b7a1-662d3234de17
 Selahattin Kılıç,e4e679c1-011c-4a46-a10b-b1c2f72006b2
+Selahattin Minsolmaz,a4779eea-1510-44f6-8be8-bf3210d0e270
 Selahattin Mumcuoğlu,f2f12aa8-645f-4ff4-87a6-d0e9dba04b1f
 Selahattin Oran,b88729c2-8ce5-493d-862e-5940cc55921e
 Selahattin Orhon,48d96c28-838d-4656-9093-517a05ca5bd8
@@ -5801,6 +5831,7 @@ Selçuk İmamoğlu,5d4c42d8-6ca5-43f0-812f-93b18348dec9
 Selîm Sadak,d12b5773-25e2-49b1-a3f9-5cb71a71fc98
 Sema Kırcı,a855f969-c951-4f16-9e6e-af8be0308487
 Sema Pişkinsüt,933b02c0-2d6f-42a7-bd12-db562cc25426
+Sema Ramazanoğlu,04851ba2-c147-4952-aabf-d964bdc3d9d3
 Semiha Öyüş,2b44bcdc-4055-46cd-af42-317fb013aa96
 Sena Kaleli,4c8ee931-ce6a-4aa1-bdca-21b769343d5b
 Sena Nur Çelik,3e8648f0-2f12-4466-992e-c68bb82e1e1e
@@ -5810,8 +5841,11 @@ Senih Bey,3436c6b6-a5ca-4a2d-9997-28a532abe010
 Seniha Hızal,9b43d86e-bdac-4a56-957a-77dd84aa53b8
 Senihi Yürüten,78542099-18ae-4280-8a3d-dc8becc52304
 Seracettin Karayağız,a0d61934-62dc-44a0-bc07-7d9f9e937483
+Serap Yaşar,f83e4248-44fe-43f1-a4c1-671a4c5fed41
+Serdal Kuyucuoğlu,75774015-ed19-48ef-94fd-59940dbbbade
 Serdar Soydan,fd3d1c67-a758-4cf5-bd68-62efa978b7b0
 Serdar Tanrısever,cfb5dfe4-c8c5-40a3-b6d0-9fab9c4b1187
+Serkan Bayram,70443378-ea75-48b2-a635-36de3270068e
 Serkan Topal,10d321a2-371c-4dd2-a2d9-7f1c6bf82fbd
 Sermet Durmuşoğlu,97e54dd5-9ab2-4f54-8f64-fe9771be7f49
 Sermin Balık,4c21a9a9-cd4d-40c4-bc05-34e9fb574d6b
@@ -5867,6 +5901,7 @@ Sezgin Tanrıkulu,36df5bbc-0c97-4ac0-92b9-3eff4b0a0106
 Seçkin Fırat,48c73b72-28ab-4c5d-a8d3-f7adc5eb45c5
 Sibel Gönül,5050a9dc-7998-4983-ab52-63cc8bb1ca46
 Sibel Yiğitalp,d4723419-4f88-4d22-917f-9d2f7c328ad7
+Sibel Özdemir,565b53eb-dc72-4ef5-a730-61ff6452226a
 Sinan Aygün,a060195b-5d17-4136-828f-3353eb5d443b
 Sinan Bosna,a285b605-327a-40f6-bf80-8d934047d689
 Sinan Demir,331a30ad-187b-496d-9853-0bdb77f9df1b
@@ -5959,8 +5994,6 @@ Süleyman Çağlar,bb854388-a1ad-4035-add6-9ca8d4fec3dc
 Süleyman Çağlar,c7c980c6-2625-4943-9960-4c69f3c1fc13
 Süleyman Çelebi,78d335b5-de60-44e5-93fb-2d0eb1c8acc3
 Süleyman Çelebi,954d9ef8-36c9-47bf-95fe-9c567a682e08
-Süleyman Çelebi (sendikacı),954d9ef8-36c9-47bf-95fe-9c567a682e08
-Süleyman Çelebi (siyasetçi),78d335b5-de60-44e5-93fb-2d0eb1c8acc3
 Süleyman Çiloğlu,5d885350-b839-4f54-a9ef-bceb7bbe8739
 Süleyman Özsever,bdff9d16-8197-4882-a3f9-5b2bb727bec2
 Süleyman Ünlü,0cb841a5-9277-4398-858d-0f3ef5e343b3
@@ -6054,6 +6087,7 @@ Talat İçöz,a92b5fcf-2ca1-4cee-a11f-48071ec33978
 Talha Erol Durmaz,138f8ff7-2d19-424d-9d6e-659ab87748c5
 Talip Kaban,8e0a46aa-5441-4116-aca8-b436be5cac5b
 Talip Küçükcan,b9588b2c-3e2c-45a3-9c83-38804e782f95
+Tamer Dağlı,314458df-b9a3-453c-a9e2-b1575db8fdd3
 Tamer Kanber,33d6fdde-6ee0-4a75-b298-d6402bf9600f
 Taner Yıldız,66e27ae1-66c5-433b-bc63-edbda2e00051
 Tanju Özcan,f1ef876c-72d2-4c56-9320-9c579680aa00
@@ -6144,7 +6178,7 @@ Tunca Toskay,3c8f7ef9-4e27-416e-937a-df953c9d458f
 Tuncay Ercenk,8638edb8-1135-440a-a99f-0a2460d19c16
 Tuncay Karaytuğ,9955eb9c-de3c-44e2-874c-2b1985fa6623
 Tuncay Mataracı,1a48746f-c64b-4dff-be3e-cb5049c41947
-Tuncay Özkan,61f10d69-18cc-47f5-b675-3d833a887cdc
+Tuncay Özkan,4feab6a2-5bb3-4e89-87e7-423d86569c04
 Tuncay Şekercioğlu,d6e9756d-aebb-4268-a27e-36d9dd170ba7
 Tunç Bilget,c0d3b892-1127-4b1e-b5b5-688494bc2583
 Tur Yıldız Biçer,7e6f0d69-698c-461a-8c8e-dfb049cb0af8
@@ -6196,6 +6230,7 @@ Turhan Özgüner,62e76e0f-45de-464f-8c12-7e899fb5c41f
 Turqut Özal,dbf83637-216e-4791-9039-9c5596865224
 Turğıt Ozal,dbf83637-216e-4791-9039-9c5596865224
 Tuğba Hezer,a52e1355-f3c9-4a69-9e29-02faac9a9b79
+Tuğba Hezer Öztürk,9bb2ccd0-a64a-4898-88af-3545bf74503a
 Tuğrul Türkeş,c6b87b15-4c3a-43af-ab04-8ff0633e7f5e
 Tuğrul Yemişçi,ded4a80b-9d97-47ad-8319-2b237089310b
 Tülay Babuşçu,85ca5294-4efc-4007-af8c-8a62a4b88d3c
@@ -6214,10 +6249,10 @@ Türkan Örs Baştuğ,e0a15f90-000a-4458-9f03-8d82d7b35aa8
 Türkân Akyol,ac582dea-3664-4264-9318-b8962a6e10a4
 Türkân Örs Baştuğ,e0a15f90-000a-4458-9f03-8d82d7b35aa8
 Tınaz Titiz,7bbbd2b7-7932-4e3c-8fbf-177c07c6f557
+UAbram,1fd458d4-0d68-41df-84f9-779c5aec63c1
 Ufuk Söylemez,02570212-609c-48eb-8051-26d209813579
 Ufuk Uras,d8d7f6e0-5832-4f7d-801e-bf29c4f6de16
 Ufuk Özkan,e2be5351-680a-4fde-98d2-decd44cf4a6a
-Ufuk Özkan (siyasetçi),e2be5351-680a-4fde-98d2-decd44cf4a6a
 Uluç Gürkan,ea2a2bd4-8568-4a21-a64a-66690784e4fd
 Umran Nazif Yiğiter,9cd288cf-8aaa-46d2-bd08-127378fdcf1a
 Umut Oran,ac1a953e-615a-4b02-8614-b6af74f080b7
@@ -6326,6 +6361,7 @@ Yahya Sezai Uzay,15fcc123-9cd9-48c0-8c3e-bc3e84bf1bbd
 Yahya Uslu,4affea3c-2c38-48ac-918a-1c24a308907d
 Yahya Çevik,73afda83-0a77-4ca9-97d8-442d0fa68c53
 Yahya Şimşek,1075a17a-9f22-4498-b378-207c63de33fa
+Yakup Akkaya,3035584a-ad15-4418-b04f-52f4df408f0b
 Yakup Bozdağ,41c9f1ea-1d69-4122-9aa6-9d35af1feede
 Yakup Budak,93edd4e2-62e1-4e78-aa5d-e5a55e0f6054
 Yakup Gürsel,3408c9b4-73ba-4c27-a037-2d7787b11592
@@ -6400,8 +6436,10 @@ Yusuf Bacanlı,f31560b4-efe3-49ee-936d-75b652ee3fec
 Yusuf Bahadır,5a30507b-5f4f-4ee9-8dbd-ca14179778d8
 Yusuf Bahri Tatlıoğlu,a9c9a963-a89e-45d5-8ecd-f0ce5b44f3b3
 Yusuf Başer,2d5fa110-ae73-4ea9-8574-2f5a4d4b7735
+Yusuf Başer,46b7ea8a-3791-427b-9406-53c78ee26c74
 Yusuf Başkaya,f9d793a6-3dcb-4bf2-9b64-a9066d19932c
 Yusuf Behçet Gücer,2f098157-0467-4e1a-a0f7-86092436f995
+Yusuf Beyazıt,f68947c0-549c-4a59-ac7a-6ff24b8cb8c2
 Yusuf Bozkurt Özal,97d01042-e571-4e66-83eb-75ec2d05cc2e
 Yusuf Cemal Özkan,2f67530a-d962-4036-94a0-6ee1aef852c2
 Yusuf Coşkun,bdbebfa7-632c-46f3-b607-1fe5ff423c44
@@ -6432,7 +6470,6 @@ Yusuf Ulusoy,084061a9-224a-41b2-a81b-da85f3571ede
 Yusuf Ulusoy,32cb7246-1db6-4494-8655-02efe9d03768
 Yusuf Uysal,4e49cdb2-e8a5-4b92-9d58-0f306dc4356b
 Yusuf Ziya,f7be8f0d-7887-40de-8f64-d5ba7dca2f74
-Yusuf Ziya (Koçzade),f7be8f0d-7887-40de-8f64-d5ba7dca2f74
 Yusuf Ziya Bahadınlı,f66b8d73-1fff-4d4f-b8ff-5f1f59ce8387
 Yusuf Ziya Başara,c79d78b5-e33f-4496-82fe-1d9c8178ef59
 Yusuf Ziya Bey,f7be8f0d-7887-40de-8f64-d5ba7dca2f74
@@ -6465,7 +6502,6 @@ Yücel Dirik,1f8eb5d5-9161-4fe0-b652-4a7fcc027cae
 Yücel Erdener,563df044-8156-4ded-8395-0dbf322ef978
 Yücel Seçkiner,aca591b6-2a9a-4593-b2ea-99cbf4fdc99f
 Yüksel Aksu,ea437397-9efe-4be8-93da-518282626482
-Yüksel Aksu (siyasetçi),ea437397-9efe-4be8-93da-518282626482
 Yüksel Coşkunyürek,aec327a0-fd21-42a2-9dee-bb23e954e435
 Yüksel Menderes,7ecca67f-6502-4e36-9c35-658b846c349b
 Yüksel Yalova,abda1065-20e2-4b87-8d57-c794b22824fc
@@ -6485,6 +6521,7 @@ Yıldırım Mehmet Ramazanoğlu,e3176904-ed03-4818-a812-e0c5a064d6f8
 Yıldırım Tuğrul Türkeş,9d0d8eda-9b01-4a59-821f-bd24959b774e
 Yıldırım Tuğrul Türkeş,c6b87b15-4c3a-43af-ab04-8ff0633e7f5e
 Yıldırım Ulupınar,cebcbcc2-1306-4ef7-9a63-aef21c5516cc
+Yıldız Seferinoğlu,87405519-a92f-468f-b1c6-bd1cf7081b70
 Yılmaz Ali,f8685a9f-ba73-4fd0-96ac-32bac1c39a1d
 Yılmaz Alpaslan,547d616d-06af-4609-972a-30052773e19f
 Yılmaz Altuğ,91d104cb-8519-4105-a3ff-14b20a994623
@@ -6518,6 +6555,7 @@ Zarife Koçak,39c41589-e1a4-4e60-b850-f0e24cc2f4c8
 Zehni Betil,98876081-a6f4-4867-832e-33c374601c02
 Zehra Budunç,c4d247a8-6503-465b-83f5-8f5ecc0bbfba
 Zehra Taşkeneslioğlu,a140ec12-72dd-41f5-b113-da31ef108c56
+Zehra Taşkesenlioğlu,493d6815-1c59-40a9-9110-6379ddc8bbbf
 Zekai Altınay,70d5ba88-db78-42b7-aea7-10e417dbe8dc
 Zekai Apaydın,0db0193f-c123-40b5-a6d9-188e4a3a62eb
 Zekai Yaylalı,b732aaf9-05cd-4912-81e5-c32a5dfdc00e
@@ -6634,6 +6672,9 @@ Zülfü Livaneli,66c29288-d499-44a8-8bb5-e66ed24f4716
 Zülfükar İzol,70f4c419-a09f-4e3a-ac06-b10151032c1f
 derin DE RIN,b1d14954-da1b-4038-b90d-cf92d3adeb91
 ismail qemal vlora,4e7f14c4-1192-4331-a56c-468cbc82cdc3
+Ábraham,1fd458d4-0d68-41df-84f9-779c5aec63c1
+Ábrahám,1fd458d4-0d68-41df-84f9-779c5aec63c1
+Çağla Aktemur,f1c836e2-8827-4100-906f-ce195282cdda
 Çağla Aktemur Özyavuz,f1c836e2-8827-4100-906f-ce195282cdda
 Çağlar Demirel,14b5c944-cbcc-4882-adb7-e37250c73946
 Çağlayan Ege,a20f1861-8d34-4421-b6fe-2833c3da38b3
@@ -6647,10 +6688,12 @@ ismail qemal vlora,4e7f14c4-1192-4331-a56c-468cbc82cdc3
 Çetin Yılmaz,1a65d438-5a34-4e4a-8cf9-12064b0937f5
 Çilem Küçükkeleş Öz,b76652e0-171a-4161-b766-ec3bfd4dce28
 Çilzade Fahreddin,15a0abc2-fe87-460d-8dab-3858f559ad12
+Çiğdem Karaarslan,0f5a2443-2353-47b7-84c2-0054d8541e93
 Çiğdem Karaaslan,73caf7fb-6979-41f3-bc1b-d5dd6adc2bbe
 Çiğdem Münevver Ökten,0a4c3fd4-fc58-4c24-a659-87f5d784c576
 Çölemerikli Ömer Efendi,363f4c78-90bf-424e-9d4c-81b907cfd31e
 Ékmeleddïn Ïxsanoğlı,308158bf-f96a-4142-8568-75cb295f9a77
+Îbrahîm,1fd458d4-0d68-41df-84f9-779c5aec63c1
 Ökkeş Şendiller,57dba6bb-fa3e-4e32-bd06-43a8f1111d52
 Ömer Abuşoğlu,406f3423-d33b-4118-86af-08f7228e9333
 Ömer Asım Aksoy,8d1365d5-f7ef-401e-bb60-72926d7b236d
@@ -6677,6 +6720,7 @@ ismail qemal vlora,4e7f14c4-1192-4331-a56c-468cbc82cdc3
 Ömer Faruk Öz,52cedca8-7d2b-49b6-9d15-f8eab4f85cbe
 Ömer Fehmi Noylan,b5547a07-b7a2-4ba3-809a-365d2616b509
 Ömer Ferruh İlter,8cf41781-0d61-42d0-9b42-c4a716203f32
+Ömer Fethi Gürer,a4dcd278-5e67-41b5-a7b3-500d01590178
 Ömer Fevzi Reşa,98fb1e0e-7639-4e97-8f59-8e5097f674fa
 Ömer Günbulut,a97040be-d3dc-46eb-84db-3384c2a51f5d
 Ömer Güriş,c9aaca85-bf8f-428e-8a45-1f4b081b40c4
@@ -6697,6 +6741,7 @@ ismail qemal vlora,4e7f14c4-1192-4331-a56c-468cbc82cdc3
 Ömer Okan Çağlar,0e685c7c-981b-4497-bf72-e5c7d98fc6d8
 Ömer Rıza Doğrul,420fb160-5ddc-4e32-b38c-7bca1ce03452
 Ömer Selvi,a532fc0d-bb60-4238-ba8d-523208e8d821
+Ömer Serdar,987fb22a-3278-4e86-a38e-20919f0f1ae2
 Ömer Sunar,39097587-ec9d-4a58-85d9-445dcec019c9
 Ömer Süha Aldan,3ce2b54c-5111-44e4-b4a7-9e1d3493fe3b
 Ömer Tarım,170d49e6-4d1f-41a1-b309-e68dd8b41d68
@@ -6714,6 +6759,7 @@ ismail qemal vlora,4e7f14c4-1192-4331-a56c-468cbc82cdc3
 Ömer Özdek,ad46acfa-29d5-4755-9a49-5d5dd8889180
 Ömer Özen,324fccdb-b808-41a1-b934-0f0d9d1a333f
 Ömer Özyılmaz,c537b387-e41f-4072-8db1-8324464928a5
+Ömer Ünal,3737f975-274c-45d3-8316-c9fc69902885
 Ömer Ünlü,834f3daf-c739-4188-b660-bbed8a76c581
 Ömer Üstünkol,38c331ca-c40a-4574-a162-84ae96b43c5c
 Ömer İhsan Paköz,73eb7059-86dd-4bbb-9e57-511c6b204943
@@ -6748,6 +6794,7 @@ ismail qemal vlora,4e7f14c4-1192-4331-a56c-468cbc82cdc3
 Özlem Zengin,e38880f9-0364-4c3c-814f-129f19450de3
 Özlem Çerçioğlu,db9702d1-5eaf-4780-b146-094f646bc185
 Öznur Çalık,ab65442e-07a2-4bef-95a3-2e5f294576c7
+Öztürk Yılmaz,72e4e0e0-c8ff-4d12-bd3c-3a16523397c4
 Übeyde Elli,645c5e37-8b8f-46c1-96ec-9b12d4a524da
 Übeydullah Seven,c1667747-9df0-4f2f-97c6-dc98b5104d57
 Ülker Can,9e2a1f72-a97c-45e3-9f34-cc70ee321751
@@ -6767,6 +6814,8 @@ ismail qemal vlora,4e7f14c4-1192-4331-a56c-468cbc82cdc3
 Ünal Kacır,39c7e080-ee21-45d7-adde-40ce7b029dcd
 Ünal Yaşar,0b360289-247f-4190-87ca-6e9333e141a9
 Ünat Demir,aa32187f-2b56-465a-8422-0ee91666825a
+Ā-báik-lăk-hāng,1fd458d4-0d68-41df-84f9-779c5aec63c1
+Ābrams,1fd458d4-0d68-41df-84f9-779c5aec63c1
 İbrahim,1fd458d4-0d68-41df-84f9-779c5aec63c1
 İbrahim Abak,50aa7ab3-dc56-48ea-8c77-df5bbf67aaf1
 İbrahim Akdoğan,76560bde-9c86-4e65-a983-d21a00c53def
@@ -6777,6 +6826,7 @@ ismail qemal vlora,4e7f14c4-1192-4331-a56c-468cbc82cdc3
 İbrahim Aydemir,13ce3765-d1e5-44db-8da6-2bfed2e95ec7
 İbrahim Aydoğan,4d2b00a2-9ff9-4bb0-8739-362bef9460dd
 İbrahim Aydın,108cc2a1-51a5-4d1b-81a5-7c77000eda60
+İbrahim Aydın,f94b8329-ca17-482d-9e85-f4fb63bcf925
 İbrahim Ayhan,ef756904-1e92-42e1-be10-04bb201a13ea
 İbrahim Aysoy,56fc5d27-1d7a-4558-8a7c-c272eab3db43
 İbrahim Aytaç,afbc59be-b0d8-4957-9e61-859f83fd7228
@@ -6822,6 +6872,7 @@ ismail qemal vlora,4e7f14c4-1192-4331-a56c-468cbc82cdc3
 İbrahim Halil Mazıcıoğlu,bc967b78-2fc1-4b78-bf46-79415b8e3780
 İbrahim Halil Oral,105f3a62-0c26-4a1f-9d5c-3000055ddf86
 İbrahim Halil Ural,d36b69cb-35df-4e70-a8b0-4c8841622a20
+İbrahim Halil Yıldız,7a5f9a1f-7b9d-41e2-96e2-bfd336706ba2
 İbrahim Halil Çelik,dc981566-b7fb-45e5-95c8-3ffbaef3fcf3
 İbrahim Hasgür,0d1d93d2-ea82-4956-8919-c9f8b555d2ce
 İbrahim Hortoğlu,9e2f1bb3-29c2-4389-8ba9-7548b7c2fe98
@@ -6838,6 +6889,7 @@ ismail qemal vlora,4e7f14c4-1192-4331-a56c-468cbc82cdc3
 İbrahim Kürşat Tuna,65e6222c-7790-4fb5-8589-b26b13fff79e
 İbrahim Mete,92a4a133-d629-468a-9db8-e91cb8cacfbe
 İbrahim Mete Doğruer,50cdd929-afbc-46f6-a3ca-4f2cd84250f2
+İbrahim Mustafa Turhan,0cb7aedc-ef26-4412-ad74-9fdb95d32426
 İbrahim Nami Çağan,5647f7d4-688e-4a0c-a90d-067299330465
 İbrahim Nami Çağan,d8c94f59-fd91-4df8-bb3a-5a2d248ecbae
 İbrahim Necmi Dilmen,88958625-acf0-4232-ae93-88fac3fa0e81
@@ -6848,7 +6900,6 @@ ismail qemal vlora,4e7f14c4-1192-4331-a56c-468cbc82cdc3
 İbrahim Saffet Omay,e665b720-a9dd-4d1d-a6d1-c67635b29779
 İbrahim Sevel,834b0243-a06a-4702-9544-4dc9e0c7b854
 İbrahim Subaşı,e5682a39-c701-4bcc-8b87-b6b14d34242a
-İbrahim Subaşı (Antalyalı),e5682a39-c701-4bcc-8b87-b6b14d34242a
 İbrahim Süreyya Yiğit,e9baac67-ea0c-44f1-8760-5d6ae28caef1
 İbrahim Sıtkı Hatipoğlu,334ef6e6-247f-498e-9dc0-abe1127d9fd0
 İbrahim Sıtkı Yırcalı,45a176a8-1e24-40af-8eeb-8e2d4b13266e
@@ -6868,7 +6919,6 @@ ismail qemal vlora,4e7f14c4-1192-4331-a56c-468cbc82cdc3
 İbrahim Vecdi Aksakal,39809bba-814d-437c-86ae-e23c7510706e
 İbrahim Yavuz Bildik,a04a04ab-bde8-4d31-a282-8c78d8f9aaab
 İbrahim Yazıcı,a0c38d8a-c6ee-4a0d-ad95-1506d71ff6c1
-İbrahim Yazıcı (siyasetçi),a0c38d8a-c6ee-4a0d-ad95-1506d71ff6c1
 İbrahim Yaşar Dedelek,f73269e5-9f49-4a09-ad58-475f141d0262
 İbrahim Yiğit,2c2925e2-edca-4ac1-9372-ab36b46cf34d
 İbrahim Yılmaz,9e813e85-e99d-41b7-8ba4-6329de8a5c97
@@ -6876,7 +6926,6 @@ ismail qemal vlora,4e7f14c4-1192-4331-a56c-468cbc82cdc3
 İbrahim Çebi,4c4403b8-7de4-4176-aa16-604669457fea
 İbrahim Çirkin,abbb8cd7-b89a-4db3-9939-8f18dd99adc2
 İbrahim Çolak,1a1fda8f-b597-4b7c-8b7a-864da7d11346
-İbrahim Çolak,2d299924-f560-4205-b3da-338f78a84bb7
 İbrahim Öktem,003a330a-cda8-4bd6-9b84-5edbd4bb0a9a
 İbrahim Öktem,5abfe84a-d540-4329-ac31-5ef38d88f6c0
 İbrahim Özbıyık,cffccc7b-7654-4b4d-8f78-a2f9b7c48537
@@ -6886,8 +6935,6 @@ ismail qemal vlora,4e7f14c4-1192-4331-a56c-468cbc82cdc3
 İbrahim Özel,9d3243a5-6956-4651-8edf-5fe01c153c37
 İbrahim Öztürk,3e05839a-a59a-4671-92bb-43e35162283c
 İbrahim Öztürk,e5899389-a5a9-4336-8dd6-cf61c8779b14
-İbrahim Öztürk (milletvekili),e5899389-a5a9-4336-8dd6-cf61c8779b14
-İbrahim Öztürk (vali),3e05839a-a59a-4671-92bb-43e35162283c
 İbrahim İmirzalıoğlu,5851bcab-397b-4e04-989e-48406773ff75
 İbrahim Şevki Tüzün,18356b6f-52e5-4ebc-8136-8bf28a8d58ad
 İdris Arıkan,3c645b45-ca22-47e3-abe2-0346f9092ce3
@@ -6973,6 +7020,7 @@ ismail qemal vlora,4e7f14c4-1192-4331-a56c-468cbc82cdc3
 İlker Genlik,7f30949e-4727-44cb-b43c-f9d3934ea81c
 İlker Tuncay,8a103e9e-1561-49e2-9ca7-ff04397beef6
 İlknur Denizli,20d0f814-e32f-4f76-8b8a-6f297894880b
+İlknur İncegöz,93469541-3aaf-4b57-9322-1717c0100735
 İlknur İnceöz,3baac732-b004-4639-b965-41dec7ccd4c6
 İlter Çubukçu,b97defba-cbdc-4c10-bb3e-6d35d2e819ec
 İlyas Aktaş,ef49ea54-826e-4820-bcd9-173f080d2a6f
@@ -6988,6 +7036,7 @@ ismail qemal vlora,4e7f14c4-1192-4331-a56c-468cbc82cdc3
 İmam Hüseyin İncioğlu,d364d22b-b2f5-4063-9a0d-c1342f7a85ad
 İmam Taşçıer,9d85f9ed-7f4a-4b30-a7b1-23e8235121ed
 İmdat Sütlüoğlu,0ebbba94-e65c-4dd3-b0af-76e12d420253
+İmran Kılıç,eacc097c-7e51-449d-b9d1-5019a915554e
 İmren Aykut,dffd7c1c-f8b7-4316-99f3-fbcc6aec427d
 İnal Batu,0daa30e1-02db-4178-ab38-5e38137b241c
 İnayet Mursaloğlu,3f1ee123-200d-4ebf-8ce3-e3bc24ae68ab
@@ -7022,12 +7071,12 @@ ismail qemal vlora,4e7f14c4-1192-4331-a56c-468cbc82cdc3
 İsmail Amasyalı,36d3eb30-2aba-4bad-8041-9d744f255e09
 İsmail Aydın,56651cd2-009a-41ca-b516-96a51d9040c2
 İsmail Aydın,ab75bb62-7913-49e2-a70d-8fae0de119ca
-İsmail Aydın (milletvekili),56651cd2-009a-41ca-b516-96a51d9040c2
+İsmail Aydın,b455bf14-b97e-4fa0-beae-806905b587fe
 İsmail Aydınlı,a8eba752-82f3-44dc-b5d4-00532f5fd044
 İsmail Aşkın,c60d1837-afd5-4ec2-b72c-e63a8b805477
 İsmail Besim Ardakut,cb6e4ea4-141b-4045-b213-2b4eddfe4b2a
+İsmail Bilen,0ea9cdce-2bb3-43d8-aac9-913980a647c8
 İsmail Bilen,6681683e-da78-4350-b711-7623e4033dd1
-İsmail Bilen (milletvekili),6681683e-da78-4350-b711-7623e4033dd1
 İsmail Bozdağ,bcbb31d9-494f-4b6c-bf2e-7bebd490c3ff
 İsmail Canbulat,2f138b29-b5c9-4ad2-8ae8-828ef661e3a4
 İsmail Cem,07d1070f-9bd2-44a2-add9-01c6f365788b
@@ -7038,6 +7087,7 @@ ismail qemal vlora,4e7f14c4-1192-4331-a56c-468cbc82cdc3
 İsmail Dayı,c1ae1a62-df7c-4831-bbc0-4fa431a54b6b
 İsmail Değerli,aad2aeec-76f6-4b33-a0da-6c8e53bc6b51
 İsmail Durak Ünlü,92742449-002a-490b-b235-4a86c1a7f29d
+İsmail Emrah Karayel,850f52c5-361a-4f34-ae68-e5de9ed3749f
 İsmail Ergener,40473761-82fe-4166-9d2c-29743a913df6
 İsmail Ericekli,855632e9-4494-430e-8837-b41620eb1567
 İsmail Ertem,fa7a1660-fc9b-4491-abe3-90860448c5e3
@@ -7090,6 +7140,7 @@ ismail qemal vlora,4e7f14c4-1192-4331-a56c-468cbc82cdc3
 İsmail Haqqı Uzunçarşılı,bb6ed503-75dc-4c08-abea-5b95b9d45ffc
 İsmail Hilmi Dura,08745386-5c65-429c-bb54-73167d05b5c0
 İsmail Işın,a8a8165c-ac3d-43f4-a94e-58a56346db46
+İsmail Kahraman,96e3a636-f765-4837-be87-acd2727c0b6d
 İsmail Kahraman,bd86a204-f5b8-4c7b-b0d9-3ae327d1581f
 İsmail Kalkandelen,7e2b5da4-f351-4c6e-abf9-efbbee778b68
 İsmail Karakuyu,735fd909-135f-4199-af65-92cbbc9ac3aa
@@ -7199,10 +7250,12 @@ ismail qemal vlora,4e7f14c4-1192-4331-a56c-468cbc82cdc3
 Şafak Özanli,d04d9acd-7c58-40e1-b7f7-1e07f9ec0b0c
 Şahabettin Bilgisu,92f70a91-2448-49df-a68c-cb30065cf161
 Şahabettin Orhon,18b7adf7-da29-4fd1-aade-40ac33e0e814
+Şahap Kavcıoğlu,5c2de04b-db2a-4491-985d-645fd70e3217
 Şahap Kitapçı,a7497908-40f2-49f5-b053-84f7013078d2
 Şahap Tol,cfe1edc2-69bd-4707-94fd-6b7f35280843
 Şahin Laçin,383f5690-f1ad-41a1-8868-d08dcf85c3c1
 Şahin Mengü,bf397a95-3b0b-4927-8067-6e0ad948470a
+Şahin Tin,667610ad-ef05-4e58-b975-376830ca92dd
 Şahin Ulusoy,d8f77316-c567-48fc-852f-3368a398d79a
 Şakir Baran,e12d00c7-028b-4a49-9ae1-7f24ae593428
 Şakir Kesebir,bafe2913-97a4-446c-ad10-2f18b922fb75
@@ -7358,6 +7411,8 @@ ismail qemal vlora,4e7f14c4-1192-4331-a56c-468cbc82cdc3
 Əli Fuad Paşa,7da075c8-1f09-40b1-a9f4-957caa15a55e
 Əli Sahib Ursavaş,d6f0c26c-1117-4257-a4f8-3b92b206a18c
 Ərkan Mumcu,e3d86790-ee61-4347-9ac6-5ad217a098f6
+Əziz Duru,0678f81d-f48d-4320-b2b7-c5cf3753e47e
+Αβραάμ,1fd458d4-0d68-41df-84f9-779c5aec63c1
 Αλί Μπαμπατζάν,1f627461-0944-41d3-a886-a2395424d062
 Αμπντουλάχ Γκιούλ,51704345-f3a1-4eae-912a-85a06bd14622
 Αντνάν Μεντερές,53fb1443-3f41-414c-b1bb-007c533633c7
@@ -7404,6 +7459,12 @@ ismail qemal vlora,4e7f14c4-1192-4331-a56c-468cbc82cdc3
 Абдуллах Гюл,51704345-f3a1-4eae-912a-85a06bd14622
 Абдуллаһ Гүл,51704345-f3a1-4eae-912a-85a06bd14622
 Абдулхақ Хамид Тархан,a7d524e4-8594-452d-ae56-ebdd6c8f187b
+Абрагам,1fd458d4-0d68-41df-84f9-779c5aec63c1
+Абрам,1fd458d4-0d68-41df-84f9-779c5aec63c1
+Абрахам,1fd458d4-0d68-41df-84f9-779c5aec63c1
+Абыраам,1fd458d4-0d68-41df-84f9-779c5aec63c1
+Авраам,1fd458d4-0d68-41df-84f9-779c5aec63c1
+Аврам,1fd458d4-0d68-41df-84f9-779c5aec63c1
 Аднан Мендерес,53fb1443-3f41-414c-b1bb-007c533633c7
 Айдын Мендерес,2c5ccb5e-2451-4a21-93ff-32c4259a3e54
 Акиф Ердемгил,e3c6b751-908c-4cd5-a4ff-fe36a4a39bc3
@@ -7433,6 +7494,7 @@ ismail qemal vlora,4e7f14c4-1192-4331-a56c-468cbc82cdc3
 Ахмет Давутаглу,850865d9-a91f-4e2c-a329-4db339630fb7
 Ахмет Давутоглу,850865d9-a91f-4e2c-a329-4db339630fb7
 Ахмет Хамди Танпынар,8c144c75-1ac4-4c7f-b8ca-cf46f02cf8e0
+Аўрам,1fd458d4-0d68-41df-84f9-779c5aec63c1
 "Байюлкен, Халук",a3af99f6-c299-4674-95df-8ebfc8f6829c
 "Бахчели, Девлет",e0c3d800-3dc6-477f-8b78-18d8a8760bf6
 "Баюр, Юсуф Хикмет",388e0ed1-d63b-4e42-9141-c7a7faeb0ae2
@@ -7482,12 +7544,17 @@ ismail qemal vlora,4e7f14c4-1192-4331-a56c-468cbc82cdc3
 Зия ГӨКАЛП,cd79d45b-a944-4666-9df4-68a0d43901f4
 Зия Гөкалп,cd79d45b-a944-4666-9df4-68a0d43901f4
 Зюлфю Ливанели,66c29288-d499-44a8-8bb5-e66ed24f4716
+Ибрагьим авараг,1fd458d4-0d68-41df-84f9-779c5aec63c1
+Ибрагьим идавс,1fd458d4-0d68-41df-84f9-779c5aec63c1
 Ибрахим Рефет Беле,364075d5-ba05-4694-8fd4-0b5496f00435
 Ибрахим Чолак,1a1fda8f-b597-4b7c-8b7a-864da7d11346
+ИбраьхӀим,1fd458d4-0d68-41df-84f9-779c5aec63c1
+Ибраһим,1fd458d4-0d68-41df-84f9-779c5aec63c1
+Ибраһим пәйгамбәр,1fd458d4-0d68-41df-84f9-779c5aec63c1
 Инёню,0f6a5be4-39cb-404f-b94a-aecc5753fb56
 "Инёню, Исмет",0f6a5be4-39cb-404f-b94a-aecc5753fb56
 Инӧнӱ,0f6a5be4-39cb-404f-b94a-aecc5753fb56
-Исмаил Беркок (Жерештиев),c30a51bd-a04a-41da-9a35-734721b12320
+Исмаил Беркок,c30a51bd-a04a-41da-9a35-734721b12320
 Исмет Иньоню,0f6a5be4-39cb-404f-b94a-aecc5753fb56
 Исмет Йылмаз,9948b890-51de-448a-9707-a36f83f0f802
 "Ихсаноглу, Экмеледдин",308158bf-f96a-4142-8568-75cb295f9a77
@@ -7520,7 +7587,9 @@ ismail qemal vlora,4e7f14c4-1192-4331-a56c-468cbc82cdc3
 Месут Јилмаз,db08d710-842c-4e21-8b7a-5f388a147c70
 Месут Йилмаз,db08d710-842c-4e21-8b7a-5f388a147c70
 Мехмед Тефик Билге бей,b820846d-eab2-4918-a9bf-8ee12bf62ccc
+Мехмед Фуад Көпрүлү,402dda26-7adf-4019-9211-f1c86178da48
 Мехмет Акиф Ерсој,f246a75f-6b2d-4d1d-be44-4d91faa339c8
+Мехмет Акіф Ерсой,f246a75f-6b2d-4d1d-be44-4d91faa339c8
 Мехмет Али Шахин,07db8d85-b95b-49a4-9db7-6c89481ca0b2
 Мехмет Шимшек,f2c90f9f-1701-447a-b849-4a4640af1017
 Мехмет Эмин Юрдaкул,d9f6798e-d69e-4adb-9fa9-e90d5389e9be
@@ -7600,6 +7669,7 @@ ismail qemal vlora,4e7f14c4-1192-4331-a56c-468cbc82cdc3
 Хайдар бей,4d73cd4b-6d7b-4a79-aeea-1da3a2007399
 Хакан Шукур,421981d8-d67f-4cfe-a2e8-f307e86ddb04
 Хакан Шюкюр,421981d8-d67f-4cfe-a2e8-f307e86ddb04
+Халиде Едип,8b82db12-9646-461e-8706-89fd5038f1cf
 Халиде Эдиб Адывар,8b82db12-9646-461e-8706-89fd5038f1cf
 Халіде Едіб Адивар,8b82db12-9646-461e-8706-89fd5038f1cf
 Хасан Тахсин Узер,4a46c581-530b-406c-9f50-8304984d5472
@@ -7618,6 +7688,7 @@ ismail qemal vlora,4e7f14c4-1192-4331-a56c-468cbc82cdc3
 Экмеледдин Ихсаноғлы,308158bf-f96a-4142-8568-75cb295f9a77
 "Эрбакан, Неджметтин",1969c424-ef8c-4348-ade8-67e3b3979c96
 Эрдем Бaйaзыт,5535eee1-78bb-4c1d-a952-87036045f90e
+Эрдем Бейазит,5535eee1-78bb-4c1d-a952-87036045f90e
 Эрдоган,8eb878de-9491-47b1-b5a0-a01675095109
 "Эрдоган, Реджеп Тайип",8eb878de-9491-47b1-b5a0-a01675095109
 "Эрдогъан, Ражаб ТIайип",8eb878de-9491-47b1-b5a0-a01675095109
@@ -7634,6 +7705,7 @@ ismail qemal vlora,4e7f14c4-1192-4331-a56c-468cbc82cdc3
 Үмит Өздaг,17e86598-5e48-4bfa-9a51-bbf6e456e322
 Ӧзал,dbf83637-216e-4791-9039-9c5596865224
 Աբդուլա Գյուլ,51704345-f3a1-4eae-912a-85a06bd14622
+Աբրահամ,1fd458d4-0d68-41df-84f9-779c5aec63c1
 Ադնան Մենդերես,53fb1443-3f41-414c-b1bb-007c533633c7
 Ալի Ֆուատ Ջեբեսոյ,7da075c8-1f09-40b1-a9f4-957caa15a55e
 Ալփարսլան Թյուրքեշ,db85d160-ae11-4a45-b806-8558aeb63c07
@@ -7655,6 +7727,8 @@ ismail qemal vlora,4e7f14c4-1192-4331-a56c-468cbc82cdc3
 Սուլեյման Դեմիրել,3c495593-df52-4b97-bdb1-87e7c32f38b8
 Տուրգուտ Օզալ,dbf83637-216e-4791-9039-9c5596865224
 Քյազըմ Կարաբեքիր,2f9ee92c-9cb1-4eae-b244-6f98353a7648
+אברהם,1fd458d4-0d68-41df-84f9-779c5aec63c1
+אברהם אבינו,1fd458d4-0d68-41df-84f9-779c5aec63c1
 אברהם גלנטי,14b811f1-5062-4acf-a91e-d50e3291812e
 אדנאן מנדרס,53fb1443-3f41-414c-b1bb-007c533633c7
 אהמט דבוטואולו,850865d9-a91f-4e2c-a329-4db339630fb7
@@ -7705,6 +7779,7 @@ ismail qemal vlora,4e7f14c4-1192-4331-a56c-468cbc82cdc3
 أوغوز كاغان كوكسال,a8f2168f-dd31-48b4-b6d2-7586c68584fb
 أونال قاجر,39c7e080-ee21-45d7-adde-40ce7b029dcd
 أوندر ماطلي,d84123a2-decb-4d22-b332-b283189fdfd0
+إبراهيم,1fd458d4-0d68-41df-84f9-779c5aec63c1
 إبراهيم خليل مازجي أوغلو,bc967b78-2fc1-4b78-bf46-79415b8e3780
 إحسان شنر,3420e965-a2e6-49af-adfa-c4ed866e879f
 إدريس بال,4f1d65d5-eebf-4273-bf90-5b50ff16784b
@@ -7712,6 +7787,7 @@ ismail qemal vlora,4e7f14c4-1192-4331-a56c-468cbc82cdc3
 إدريس غولوج,f1b2202d-f53f-4bd8-91e2-0bf2389751e1
 إسرافيل كشلا,27a9de0a-9cb5-4424-854d-00225fbeb413
 إسماعيل آيدين,56651cd2-009a-41ca-b516-96a51d9040c2
+إسماعيل كهرمان,96e3a636-f765-4837-be87-acd2727c0b6d
 ئابدۇللاھ گۈل,51704345-f3a1-4eae-912a-85a06bd14622
 ئادنان مەندەرەس,53fb1443-3f41-414c-b1bb-007c533633c7
 ئال چەتنکایا,d9b61790-b699-46c5-b23c-35ffabd1b133
@@ -7726,12 +7802,16 @@ ismail qemal vlora,4e7f14c4-1192-4331-a56c-468cbc82cdc3
 ئۆرهان دۆگان,a712cb2b-2081-4e36-84a3-aa6682d411b1
 ئۆرهان مرۆğلو,d8482b83-713a-46ae-9ec7-24907394ca1b
 ئۆسمان بایدەمر,00851ff7-21e3-4848-9d36-a80c5e635a16
+ئیبراھیم,1fd458d4-0d68-41df-84f9-779c5aec63c1
 ئەحمەد تورک,816916d5-0c86-4a2d-90ba-83744b2d3c18
 ئەحمەد داودئۆغڵو,850865d9-a91f-4e2c-a329-4db339630fb7
 ئەرتوغرول کورکچو,f7106039-0e0d-4afd-b485-bad843711301
 ئەكمەلىتتىن ئىھسان ئوغلۇ,308158bf-f96a-4142-8568-75cb295f9a77
 ئەمینەئا ینا,596fab65-cde0-4c89-81f1-5317e74c10a1
 ئەھمەد داۋۇد ئوغلۇ,850865d9-a91f-4e2c-a329-4db339630fb7
+ابراهيم,1fd458d4-0d68-41df-84f9-779c5aec63c1
+ابراهیم,1fd458d4-0d68-41df-84f9-779c5aec63c1
+ابراہیم علیہ السلام,1fd458d4-0d68-41df-84f9-779c5aec63c1
 احمد آغااوغلو,2ce86e8c-fd38-4067-910b-bce5e59575db
 احمد اوزل,5cd1cb86-96bc-4a63-9f57-cc1e7cc5d001
 احمد ترک,816916d5-0c86-4a2d-90ba-83744b2d3c18
@@ -7852,6 +7932,7 @@ ismail qemal vlora,4e7f14c4-1192-4331-a56c-468cbc82cdc3
 سليمان ديميريل,3c495593-df52-4b97-bdb1-87e7c32f38b8
 سلیمان دمیرل,3c495593-df52-4b97-bdb1-87e7c32f38b8
 سلیمان دیمیرل,3c495593-df52-4b97-bdb1-87e7c32f38b8
+سلینا اوزون دوغان,408bbd88-f4d3-4057-a011-db349c38a588
 سميحة أويش,2b44bcdc-4055-46cd-af42-317fb013aa96
 سنان اوغان,ba622e2a-385d-4743-907f-a31469e5b849
 سودة بايزيد قاتشار,4ec3dcf6-8d20-4e1a-9718-a2363dc0b268
@@ -7904,6 +7985,7 @@ ismail qemal vlora,4e7f14c4-1192-4331-a56c-468cbc82cdc3
 عدنان مندرس,53fb1443-3f41-414c-b1bb-007c533633c7
 عدنان مندريس,53fb1443-3f41-414c-b1bb-007c533633c7
 عدنان میندریس,53fb1443-3f41-414c-b1bb-007c533633c7
+عدنان يلماز,41e8871b-1875-4852-85d3-ff3c1a5ebf53
 عصمت إينونو,0f6a5be4-39cb-404f-b94a-aecc5753fb56
 عصمت انونو,0f6a5be4-39cb-404f-b94a-aecc5753fb56
 عصمت اینونو,0f6a5be4-39cb-404f-b94a-aecc5753fb56
@@ -7918,6 +8000,7 @@ ismail qemal vlora,4e7f14c4-1192-4331-a56c-468cbc82cdc3
 علي غلتكين كلنتش,c6f8ce61-d58b-46d8-86e3-49144dcde928
 علي فؤاد باشا,7da075c8-1f09-40b1-a9f4-957caa15a55e
 علي فتحي أوكيار,3f1e9f3d-12ef-4e7e-aaf8-03ea11d47c44
+علي كايا,428bbd28-e1fb-42a4-b6c4-b0709babdaab
 علی بوزر,bcbdbf23-dc85-4128-af22-9c0110a12a82
 علی فتحی اوکیار,3f1e9f3d-12ef-4e7e-aaf8-03ea11d47c44
 علی فواد,7da075c8-1f09-40b1-a9f4-957caa15a55e
@@ -7975,10 +8058,12 @@ ismail qemal vlora,4e7f14c4-1192-4331-a56c-468cbc82cdc3
 محمد يكسل,76430ff2-6f7c-4153-a2b5-c8c886e90fa7
 محمود جلال بايار,98dc21b4-167d-4069-b3f2-1ab5cda127e8
 محەممەد عاکیف ئرسوی,f246a75f-6b2d-4d1d-be44-4d91faa339c8
+مراد يلدرم,1486d4cc-7354-43aa-8f51-2ce1012e33d4
 مسعود ییلماز,db08d710-842c-4e21-8b7a-5f388a147c70
 مصطفا کمال اتاترک,97c30e2d-aa11-4b98-9b19-7873a6e4b580
 مصطفى أوزترك,7510e2e1-0c00-43e1-8bb6-eda6118c1d60
 مصطفى بال أوغلو,20c58174-86ac-4143-89cc-ed68cb2419a8
+مصطفى شاهين,2767f33a-369b-448e-8dd3-dc1718295f0a
 مصطفى شنطوب,ec7c2bca-14d6-4b84-99a7-be069f12b0f5
 مصطفى غوكهان غلشن,6d237311-cf11-46c1-832a-c68b88edf84c
 مصطفى كمال أتاتورك,97c30e2d-aa11-4b98-9b19-7873a6e4b580
@@ -8048,10 +8133,13 @@ ismail qemal vlora,4e7f14c4-1192-4331-a56c-468cbc82cdc3
 یحیی کمال بیاتلی,fdd92963-1e3a-4a88-aac6-5ebf8cd3d453
 یحییٰ کمال بیاتلی,fdd92963-1e3a-4a88-aac6-5ebf8cd3d453
 یعقوب قدری قراعثمان اوغلو,95f285e7-32e4-4fb0-bbc2-0e8497dffb82
+یوسف آقچورا,c999f612-40a2-4233-91c4-1e64472f8ac2
 ییلدیریم آک‌بولوت,ca255c61-008b-42f9-bdd1-adb3697e786e
 ەكمەلەددىين ىيحسانوعلى,308158bf-f96a-4142-8568-75cb295f9a77
+ܐܒܪܗܡ,1fd458d4-0d68-41df-84f9-779c5aec63c1
 ܡܘܨܛܦܐ ܟܡܐܠ ܐܛܐܛܘܪܩ,97c30e2d-aa11-4b98-9b19-7873a6e4b580
 अब्दुल्लाह ग्युल,51704345-f3a1-4eae-912a-85a06bd14622
+अब्राहम,1fd458d4-0d68-41df-84f9-779c5aec63c1
 कमाल अतातुर्क,97c30e2d-aa11-4b98-9b19-7873a6e4b580
 केमेल अतातुर्क,97c30e2d-aa11-4b98-9b19-7873a6e4b580
 तान्सु सिलर,e263b3b5-38d1-4d48-b098-35927318f8d2
@@ -8061,18 +8149,25 @@ ismail qemal vlora,4e7f14c4-1192-4331-a56c-468cbc82cdc3
 मुस्ताफ़ा केमल्,97c30e2d-aa11-4b98-9b19-7873a6e4b580
 रेसेप तईप ईरदोगन,8eb878de-9491-47b1-b5a0-a01675095109
 रेसेप तय्यिप एर्दोगान,8eb878de-9491-47b1-b5a0-a01675095109
+আব্রাহাম,1fd458d4-0d68-41df-84f9-779c5aec63c1
 কামাল আতাতুর্ক,97c30e2d-aa11-4b98-9b19-7873a6e4b580
 নাজিমদ্দিন এরবাকান,1969c424-ef8c-4348-ade8-67e3b3979c96
 মুহিদ্দিন আকুজ,66e5ef11-70ad-403e-9330-9e2cf69fd35f
 রিসেপ তায়িপ এরদোয়ান,8eb878de-9491-47b1-b5a0-a01675095109
 হাকান শুকুর,421981d8-d67f-4cfe-a2e8-f307e86ddb04
+ਅਬਰਾਹਮ,1fd458d4-0d68-41df-84f9-779c5aec63c1
 ਮੁਸਤਫ਼ਾ ਕਮਾਲ ਅਤਾਤੁਰਕ,97c30e2d-aa11-4b98-9b19-7873a6e4b580
+ઇબ્રાહિમ,1fd458d4-0d68-41df-84f9-779c5aec63c1
 કમાલ મુસ્તફા અતાતુર્ક,97c30e2d-aa11-4b98-9b19-7873a6e4b580
 அப்துல்லா குல்,51704345-f3a1-4eae-912a-85a06bd14622
+ஆபிரகாம்,1fd458d4-0d68-41df-84f9-779c5aec63c1
 முஸ்தாபா கெமால் அத்தாதுர்க்,97c30e2d-aa11-4b98-9b19-7873a6e4b580
+ரசிப் தைய்யிப் எர்டோகன்,8eb878de-9491-47b1-b5a0-a01675095109
 ముస్తఫా కమాల్ అతాతుర్క్,97c30e2d-aa11-4b98-9b19-7873a6e4b580
+ಅಬ್ರಹಮ್,1fd458d4-0d68-41df-84f9-779c5aec63c1
 ಮುಸ್ತಫಾ ಕೆಮಾಲ್ ಅಟಟುರಕ್,97c30e2d-aa11-4b98-9b19-7873a6e4b580
 അബ്ദുള്ള ഗുൽ,51704345-f3a1-4eae-912a-85a06bd14622
+അബ്രഹാം,1fd458d4-0d68-41df-84f9-779c5aec63c1
 താൻസു ചില്ലർ,e263b3b5-38d1-4d48-b098-35927318f8d2
 തുർഗുത് ഓസൽ,dbf83637-216e-4791-9039-9c5596865224
 നെജ്മത്തിൻ എർബകാൻ,1969c424-ef8c-4348-ade8-67e3b3979c96
@@ -8081,21 +8176,27 @@ ismail qemal vlora,4e7f14c4-1192-4331-a56c-468cbc82cdc3
 റെജപ് തയ്യിപ്‌ എർദ്വാൻ,8eb878de-9491-47b1-b5a0-a01675095109
 സുലെയ്മാൻ ദെമിറേൽ,3c495593-df52-4b97-bdb1-87e7c32f38b8
 มุสตาฟา เคมาล อตาเติร์ก,97c30e2d-aa11-4b98-9b19-7873a6e4b580
+อับราฮัม,1fd458d4-0d68-41df-84f9-779c5aec63c1
 ฮาคาน ชูเคอร์,421981d8-d67f-4cfe-a2e8-f307e86ddb04
 เรเจป ไตยิป แอร์โดอัน,8eb878de-9491-47b1-b5a0-a01675095109
 ເລເຈບ ໄຕຢິບ ແອໂດກັນ,8eb878de-9491-47b1-b5a0-a01675095109
+ཨབ་ར་ཧམ།,1fd458d4-0d68-41df-84f9-779c5aec63c1
 ကီးမား အာတာတပ်,97c30e2d-aa11-4b98-9b19-7873a6e4b580
 აბდულა გიული,51704345-f3a1-4eae-912a-85a06bd14622
+აბრაამი,1fd458d4-0d68-41df-84f9-779c5aec63c1
 აქა გუნდუზი,c8eab67a-fe54-44b3-8792-bccb4c6dc468
+აჰმეთ დავუთოღლუ,850865d9-a91f-4e2c-a329-4db339630fb7
 ბიულენთ ეჯევითი,c25b1f9d-9104-455b-9bc0-d9492cb16111
 ედიფ ადივარ ჰალიდე,8b82db12-9646-461e-8706-89fd5038f1cf
 ზიულფიუ ლივანელი,66c29288-d499-44a8-8bb5-e66ed24f4716
 თანსუ ჩილერი,e263b3b5-38d1-4d48-b098-35927318f8d2
 თურგუთ ოზალი,dbf83637-216e-4791-9039-9c5596865224
+ილჰამი სანჯარი,76ccda6b-2c78-409f-9064-b873dbb2622f
 ისმეთ ინენიუ,0f6a5be4-39cb-404f-b94a-aecc5753fb56
 ლეილა ზანა,d7da69f3-5fcd-430f-b0ab-114499477061
 მელიჰ გიოქჩექი,5eefc3f4-b14a-464c-9096-940cb4703403
 მუსტაფა ქემალ ათათურქი,97c30e2d-aa11-4b98-9b19-7873a6e4b580
+რეჯეპ ფექერი,aea8e1ed-3593-4016-b804-ace53d3321d0
 რეჯეფ თაიფ ერდოღანი,8eb878de-9491-47b1-b5a0-a01675095109
 სერვერ-ბეგ ათაბაგი,f5756189-5a6a-40bc-bd38-c6ce3ea9f2b2
 სულეიმან დემირელი,3c495593-df52-4b97-bdb1-87e7c32f38b8
@@ -8104,11 +8205,13 @@ ismail qemal vlora,4e7f14c4-1192-4331-a56c-468cbc82cdc3
 ჰაქან შუქური,421981d8-d67f-4cfe-a2e8-f307e86ddb04
 ჰუსეინ რაჰმი გურფინარი,dc88f973-6086-4bf3-a31e-43475bd6505b
 ሙስታፋ ኬማል አታቱርክ,97c30e2d-aa11-4b98-9b19-7873a6e4b580
+አብርሃም,1fd458d4-0d68-41df-84f9-779c5aec63c1
 アドナン・メンデレス,53fb1443-3f41-414c-b1bb-007c533633c7
 アフメット・ハムディ・タンプナル,8c144c75-1ac4-4c7f-b8ca-cf46f02cf8e0
 アフメト・ダウトオール,850865d9-a91f-4e2c-a329-4db339630fb7
 アブデュルハリク・レンダ,81747339-ad31-49a1-8c9d-7ee9997fa5f2
 アブドゥラー・ギュル,51704345-f3a1-4eae-912a-85a06bd14622
+アブラハム,1fd458d4-0d68-41df-84f9-779c5aec63c1
 アリ・カヤ,428bbd28-e1fb-42a4-b6c4-b0709babdaab
 アリ・フアト・ジェベソイ,7da075c8-1f09-40b1-a9f4-957caa15a55e
 イスマイル・ジェム,07d1070f-9bd2-44a2-add9-01c6f365788b
@@ -8132,6 +8235,7 @@ ismail qemal vlora,4e7f14c4-1192-4331-a56c-468cbc82cdc3
 ネジメッティン・エルバカン,1969c424-ef8c-4348-ade8-67e3b3979c96
 ハカン・シュキュル,421981d8-d67f-4cfe-a2e8-f307e86ddb04
 ハサン・サカ,3faa93f5-e7e2-4af8-97d3-8a62a5da9a27
+ハトゥ・チュルパン,2f39499d-e034-4d61-b3d4-b10f9978a2d7
 ハリデ・エディプ・アドゥヴァル,8b82db12-9646-461e-8706-89fd5038f1cf
 ハリト・アクマンスュ,e367cd7b-91f8-453d-9a22-9001be05ad9f
 ビュレント・ウルス,8d1c2cfa-2fee-47ba-914f-05ba2efdf1ef
@@ -8151,6 +8255,8 @@ ismail qemal vlora,4e7f14c4-1192-4331-a56c-468cbc82cdc3
 レジェプ・ペケル,aea8e1ed-3593-4016-b804-ace53d3321d0
 レフィク・コルアルタン,d493f63d-29fd-47ea-86be-cfb81239c06c
 レフィク・サイダム,f669c61b-05bf-4ebb-bc4d-c496e21c5bab
+亞伯拉罕,1fd458d4-0d68-41df-84f9-779c5aec63c1
+亞巴郎,1fd458d4-0d68-41df-84f9-779c5aec63c1
 伊斯麥特·伊諾努,0f6a5be4-39cb-404f-b94a-aecc5753fb56
 伊斯麦特·伊诺努,0f6a5be4-39cb-404f-b94a-aecc5753fb56
 傑拉勒·拜亞爾,98dc21b4-167d-4069-b3f2-1ab5cda127e8
@@ -8186,6 +8292,7 @@ ismail qemal vlora,4e7f14c4-1192-4331-a56c-468cbc82cdc3
 費夫齊·恰克馬克,34526313-174b-4586-bcd1-4e7eda014629
 费夫齐·恰克马克,34526313-174b-4586-bcd1-4e7eda014629
 费里特·梅伦,f699685c-9328-4e9d-a4a9-ac051adde14f
+阿卜拿咸,1fd458d4-0d68-41df-84f9-779c5aec63c1
 阿卜杜拉·居尔,51704345-f3a1-4eae-912a-85a06bd14622
 阿德南·曼德列斯,53fb1443-3f41-414c-b1bb-007c533633c7
 阿爾普阿爾斯蘭·圖爾克斯,db85d160-ae11-4a45-b806-8558aeb63c07
@@ -8211,6 +8318,7 @@ ismail qemal vlora,4e7f14c4-1192-4331-a56c-468cbc82cdc3
 쉬크뤼 사라졸루,1f1bd5fa-b3fc-43bf-9d00-328db7c85c80
 쉴레이만 데미렐,3c495593-df52-4b97-bdb1-87e7c32f38b8
 아드난 멘데레스,53fb1443-3f41-414c-b1bb-007c533633c7
+아브라함,1fd458d4-0d68-41df-84f9-779c5aec63c1
 아흐메트 다부토글루,850865d9-a91f-4e2c-a329-4db339630fb7
 압둘라 귈,51704345-f3a1-4eae-912a-85a06bd14622
 얄츤 아크도안,0f45a96e-b114-446f-a2aa-cd62ba3636ac
