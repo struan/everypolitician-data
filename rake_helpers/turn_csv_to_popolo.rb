@@ -35,9 +35,10 @@ namespace :whittle do
   #---------------------------------------------------------------------
   task :write => :no_orphaned_memberships
   task :no_orphaned_memberships => :load do
+    @json_orgs ||= Set.new @json[:organizations].map { |o| o[:id] }
+    @json_persons ||= Set.new @json[:persons].map { |p| p[:id] }
     @json[:memberships].keep_if { |m|
-      @json[:organizations].find { |o| o[:id] == m[:organization_id] } and
-      @json[:persons].find { |p| p[:id] == m[:person_id] } 
+      @json_orgs.include?(m[:organization_id]) and @json_persons.include?(m[:person_id])
     }
   end  
 end
