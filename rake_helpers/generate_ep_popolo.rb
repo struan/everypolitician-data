@@ -90,14 +90,14 @@ namespace :transform do
   end
 
   #---------------------------------------------------------------------
-  # Remove all other memberships.
   # Don't duplicate start/end dates into memberships needlessly
   #   and ensure they're within the term
   #---------------------------------------------------------------------
   task :write => :tidy_memberships
   task :tidy_memberships => :ensure_term do
-    @json[:memberships].keep_if { |m| m[:role] == 'member' and m[:organization_id] == @legislature[:id] }.each do |m|
-      e = @json[:events].find { |e| e[:id] == m[:legislative_period_id] } or raise "#{m[:legislative_period_id]} is not a term"
+    @json[:memberships].each do |m|
+      e = @json[:events].find { |e| e[:id] == m[:legislative_period_id] } or abort "#{m[:legislative_period_id]} is not a term"
+
       m.delete :start_date if m[:start_date].to_s.empty? || (!e[:start_date].to_s.empty? && m[:start_date].to_s <= e[:start_date].to_s)
       m.delete :end_date   if m[:end_date].to_s.empty?   || (!e[:end_date].to_s.empty?   && m[:end_date].to_s   >= e[:end_date].to_s)
     end
