@@ -724,6 +724,7 @@
       ]
     },
     {
+      "birth_date": "1970",
       "gender": "male",
       "given_name": "Anders",
       "id": "9df85afa-9e22-4ab1-a4fe-72f10338d243",
@@ -731,6 +732,10 @@
         {
           "identifier": "1306",
           "scheme": "eduskunta"
+        },
+        {
+          "identifier": "500255836",
+          "scheme": "ulan"
         },
         {
           "identifier": "Q20251257",
@@ -41878,6 +41883,18 @@
         {
           "note": "Wikipedia (fi)",
           "url": "https://fi.wikipedia.org/wiki/Susanna_Koski"
+        },
+        {
+          "note": "Wikipedia (fiwikiquote)",
+          "url": "https://fiwikiquote.wikipedia.org/wiki/Susanna_Koski"
+        },
+        {
+          "note": "facebook",
+          "url": "koskensusanna"
+        },
+        {
+          "note": "website",
+          "url": "http://susannakoski.fi/"
         }
       ],
       "name": "Susanna Koski",
