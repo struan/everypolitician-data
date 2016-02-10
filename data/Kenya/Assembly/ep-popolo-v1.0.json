@@ -4615,6 +4615,23 @@
       ]
     },
     {
+      "birth_date": "1947-01-08",
+      "email": "zjopore@yahoo.com",
+      "id": "2c156fe7-0f71-4e91-a86c-07a799c9b702",
+      "image": "http://info.mzalendo.com/media_root/cache/4c/3e/4c3ece306fb247bbd27a6aeedf9fad95.jpg",
+      "images": [
+        {
+          "url": "http://info.mzalendo.com/media_root/cache/4c/3e/4c3ece306fb247bbd27a6aeedf9fad95.jpg"
+        }
+      ],
+      "name": "John Zebedeo Opore",
+      "sources": [
+        {
+          "url": "http://info.mzalendo.com/person/john-opore/"
+        }
+      ]
+    },
+    {
       "birth_date": "1985",
       "email": "jsakaja@gmail.com",
       "gender": "male",
@@ -10097,6 +10114,14 @@
       "role": "member"
     },
     {
+      "area_id": "area/bonchari",
+      "legislative_period_id": "term/11",
+      "on_behalf_of_id": "party/ford_people",
+      "organization_id": "legislature",
+      "person_id": "2c156fe7-0f71-4e91-a86c-07a799c9b702",
+      "role": "member"
+    },
+    {
       "area_id": "area/runyenjes",
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "TNA",
@@ -10575,9 +10600,9 @@
       "role": "member"
     },
     {
-      "area_id": "area/kajiado_east",
+      "area_id": "area/kajiado_south",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "IND",
+      "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
       "person_id": "56a9d06f-f9ac-4efb-ac50-0e16c47f9717",
       "role": "member"
