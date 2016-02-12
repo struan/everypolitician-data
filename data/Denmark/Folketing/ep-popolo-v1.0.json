@@ -13205,6 +13205,12 @@
     },
     {
       "birth_date": "1962-11-30",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "maybrittkattrup"
+        }
+      ],
       "email": "may-britt.kattrup@ft.dk",
       "family_name": "Kattrup",
       "gender": "female",
@@ -13232,6 +13238,14 @@
           "url": "https://da.wikipedia.org/wiki/May-Britt_Buch-Kattrup"
         },
         {
+          "note": "facebook",
+          "url": "maybritt.kattrup"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/maybrittkattrup"
+        },
+        {
           "note": "website",
           "url": "http://kattrup.dk/"
         }
@@ -13239,12 +13253,8 @@
       "name": "May-Britt Kattrup",
       "other_names": [
         {
-          "name": "May-Britt Buch-Kattrup",
-          "note": "alternate"
-        },
-        {
           "lang": "da",
-          "name": "May-Britt Buch-Kattrup",
+          "name": "May-Britt Kattrup",
           "note": "multilingual"
         },
         {
@@ -14683,6 +14693,11 @@
         {
           "lang": "kl",
           "name": "Mogens Lykketoft",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "모겐스 리케토프트",
           "note": "multilingual"
         },
         {
