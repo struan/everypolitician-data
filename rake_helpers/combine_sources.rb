@@ -76,7 +76,7 @@ namespace :merge_sources do
           area_wikidata = WikidataLookup.new(mapping)
           File.write(i[:file], JSON.pretty_generate(area_wikidata.to_hash))
         elsif c[:type] == 'gender-balance'
-          api_url = "http://gender-balance.org/export/#{c[:source]}"
+          api_url = "http://www.gender-balance.org/export/#{c[:source]}"
           IO.copy_stream(open(api_url), i[:file])
         else
           raise "Don't know how to fetch #{i[:file]}" unless c[:type] == 'morph'
