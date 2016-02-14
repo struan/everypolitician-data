@@ -6158,6 +6158,7 @@
       "birth_date": "1967-09-15",
       "email": "Svetlana.Stepanov@parlament.md",
       "gender": "female",
+      "given_name": "Violeta",
       "id": "3c4aebe3-ea35-4ac2-a15e-f589ca98fb51",
       "identifiers": [
         {
@@ -6177,12 +6178,21 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Violeta_Ivanov"
+        },
+        {
           "note": "Wikipedia (ro)",
           "url": "https://ro.wikipedia.org/wiki/Violeta_Ivanov"
         }
       ],
       "name": "Violeta Ivanov",
       "other_names": [
+        {
+          "lang": "en",
+          "name": "Violeta Ivanov",
+          "note": "multilingual"
+        },
         {
           "lang": "ro",
           "name": "Violeta Ivanov",
