@@ -4946,6 +4946,10 @@
         {
           "note": "twitter",
           "url": "https://twitter.com/BobSaroya"
+        },
+        {
+          "note": "website",
+          "url": "http://bobsaroya.ca"
         }
       ],
       "name": "Bob Saroya",
@@ -8063,7 +8067,7 @@
         },
         {
           "note": "website",
-          "url": "http://christinemoore.npd.ca/accueil"
+          "url": "http://christinemoore.ndp.ca"
         }
       ],
       "name": "Christine Moore",
@@ -13579,6 +13583,10 @@
         {
           "note": "twitter",
           "url": "https://twitter.com/EmmanuelDubourg"
+        },
+        {
+          "note": "website",
+          "url": "http://emmanueldubourg.ca/en"
         }
       ],
       "name": "Emmanuel Dubourg",
@@ -14008,6 +14016,7 @@
         }
       ],
       "email": "Filomena.Tassi@parl.gc.ca",
+      "gender": "female",
       "id": "4956f50a-66ca-4d88-b10b-b27a74ef8134",
       "identifiers": [
         {
@@ -14017,6 +14026,10 @@
         {
           "identifier": "88784",
           "scheme": "represent"
+        },
+        {
+          "identifier": "Q22770985",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/TassiFilomena_Lib.jpg",
@@ -14027,11 +14040,22 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Filomena_Tassi"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/votetassi"
         }
       ],
       "name": "Filomena Tassi",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Filomena Tassi",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_House_members_of_the_42nd_Parliament_of_Canada"
@@ -25493,6 +25517,10 @@
         {
           "note": "twitter",
           "url": "https://twitter.com/karenmccrimmon"
+        },
+        {
+          "note": "website",
+          "url": "http://kmccrimmon.liberal.ca"
         }
       ],
       "name": "Karen McCrimmon",
@@ -26822,6 +26850,8 @@
         }
       ],
       "email": "Kevin.Waugh@parl.gc.ca",
+      "gender": "male",
+      "given_name": "Kevin",
       "id": "07fbe77a-3215-436b-b974-b0d4fd3d9e42",
       "identifiers": [
         {
@@ -26831,6 +26861,10 @@
         {
           "identifier": "89084",
           "scheme": "represent"
+        },
+        {
+          "identifier": "Q22770989",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/WaughKevin_CPC.jpg",
@@ -26841,11 +26875,26 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Kevin_Waugh"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/KevinWaugh_CPC"
+        },
+        {
+          "note": "website",
+          "url": "http://kevinwaugh.ca"
         }
       ],
       "name": "Kevin Waugh",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Kevin Waugh",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_House_members_of_the_42nd_Parliament_of_Canada"
@@ -30294,6 +30343,10 @@
         {
           "note": "twitter",
           "url": "https://twitter.com/marcomendicino"
+        },
+        {
+          "note": "website",
+          "url": "http://marcomendicinomp.ca"
         }
       ],
       "name": "Marco Mendicino",
@@ -31453,6 +31506,7 @@
       ]
     },
     {
+      "birth_date": "1948",
       "contact_details": [
         {
           "type": "twitter",
@@ -31460,6 +31514,8 @@
         }
       ],
       "email": "Martin.Shields@parl.gc.ca",
+      "gender": "male",
+      "given_name": "Martin",
       "id": "940fe124-01a4-4bde-bcb1-2480271e3fce",
       "identifiers": [
         {
@@ -31469,6 +31525,10 @@
         {
           "identifier": "89109",
           "scheme": "represent"
+        },
+        {
+          "identifier": "Q22770987",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/ShieldsMartin_CPC.jpg",
@@ -31479,11 +31539,22 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Martin_Shields"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/MartinBowRiver"
         }
       ],
       "name": "Martin Shields",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Martin Shields",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_House_members_of_the_42nd_Parliament_of_Canada"
@@ -31999,6 +32070,10 @@
         {
           "note": "twitter",
           "url": "https://twitter.com/jeneroux"
+        },
+        {
+          "note": "website",
+          "url": "http://mattjeneroux.ca"
         }
       ],
       "name": "Matt Jeneroux",
@@ -33050,7 +33125,6 @@
       ]
     },
     {
-      "birth_date": "1959-09-06",
       "contact_details": [
         {
           "type": "twitter",
@@ -33058,8 +33132,6 @@
         }
       ],
       "email": "Michael.McLeod@parl.gc.ca",
-      "gender": "male",
-      "given_name": "Michael",
       "id": "65a4ef51-dd6e-4edb-b576-8bad6767a859",
       "identifiers": [
         {
@@ -33069,10 +33141,6 @@
         {
           "identifier": "89374",
           "scheme": "represent"
-        },
-        {
-          "identifier": "Q6832752",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/McLeodMichael_Lib.jpg",
@@ -33083,62 +33151,11 @@
       ],
       "links": [
         {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Michael_McLeod"
-        },
-        {
           "note": "twitter",
           "url": "https://twitter.com/MMcLeodNWT"
         }
       ],
       "name": "Michael McLeod",
-      "other_names": [
-        {
-          "lang": "da",
-          "name": "Michael McLeod",
-          "note": "multilingual"
-        },
-        {
-          "lang": "de",
-          "name": "Michael McLeod",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Michael McLeod",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Michael McLeod",
-          "note": "multilingual"
-        },
-        {
-          "lang": "it",
-          "name": "Michael McLeod",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nb",
-          "name": "Michael McLeod",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Michael McLeod",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nn",
-          "name": "Michael McLeod",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sv",
-          "name": "Michael McLeod",
-          "note": "multilingual"
-        }
-      ],
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_House_members_of_the_42nd_Parliament_of_Canada"
@@ -44854,6 +44871,7 @@
         }
       ],
       "email": "Sonia.Sidhu@parl.gc.ca",
+      "gender": "female",
       "id": "c9a9abcc-66cd-4509-96e6-ed4863b06172",
       "identifiers": [
         {
@@ -44863,6 +44881,10 @@
         {
           "identifier": "88703",
           "scheme": "represent"
+        },
+        {
+          "identifier": "Q22770988",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/SidhuSonia_Lib.jpg",
@@ -44873,11 +44895,22 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Sonia_Sidhu"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/SoniaLiberal"
         }
       ],
       "name": "Sonia Sidhu",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Sonia Sidhu",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_House_members_of_the_42nd_Parliament_of_Canada"
@@ -45017,6 +45050,10 @@
         {
           "note": "twitter",
           "url": "https://twitter.com/StephenFuhr"
+        },
+        {
+          "note": "website",
+          "url": "http://sfuhr.liberal.ca"
         }
       ],
       "name": "Stephen Fuhr",
