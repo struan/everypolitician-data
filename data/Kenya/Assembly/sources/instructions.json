@@ -11,6 +11,21 @@
       "type": "membership"
     },
     {
+      "file": "morph/official.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/kenya-national-assembly",
+        "query": "SELECT * FROM data ORDER BY id"
+      },
+      "source": "http://www.parliament.go.ke/",
+      "type": "person",
+      "merge": {
+        "incoming_field": "name",
+        "existing_field": "name",
+        "reconciliation_file": "reconciliation/official.csv"
+      }
+    },
+    {
       "file": "morph/wikidata.csv",
       "create": {
         "type": "morph",
