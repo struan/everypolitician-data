@@ -8224,7 +8224,81 @@
     {
       "classification": "party",
       "id": "party/pfp",
-      "name": "PFP"
+      "identifiers": [
+        {
+          "identifier": "Q1442482",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.pfp.org.tw/"
+        }
+      ],
+      "name": "PFP",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Qinmindang",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "People First Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Qinmindang",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Partai Pertama Rakyat",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "親民党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "친민당",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Partia Najpierw Naród",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Первая Народная партия",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Folkets första parti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "親民黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "親民黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nan",
+          "name": "Chhin Bîn Tóng",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
