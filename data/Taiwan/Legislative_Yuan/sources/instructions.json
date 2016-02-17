@@ -2,13 +2,23 @@
   "sources": [
     {
       "file": "morph/data.csv",
+      "source": "http://www.ly.gov.tw/",
+      "type": "membership"
+    },
+    {
+      "file": "morph/official9.csv",
       "create": {
         "type": "morph",
         "scraper": "tmtmtmtm/taiwan-legislative-yuan",
         "query": "SELECT * FROM data"
       },
       "source": "http://www.ly.gov.tw/",
-      "type": "membership"
+      "type": "membership",
+      "merge": {
+        "incoming_field": "name__zh",
+        "existing_field": "name__zh",
+        "reconciliation_file": "reconciliation/official9.csv"
+      }
     },
     {
       "file": "morph/wikidata.csv",
