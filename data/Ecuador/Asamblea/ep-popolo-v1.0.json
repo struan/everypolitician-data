@@ -35,6 +35,7 @@
       ]
     },
     {
+      "birth_date": "1974-12-23",
       "contact_details": [
         {
           "type": "twitter",
@@ -42,11 +43,24 @@
         }
       ],
       "gender": "male",
+      "given_name": "Agustín",
       "id": "a56ca02e-6b27-4933-b4a4-4c8f942646e4",
       "identifiers": [
         {
           "identifier": "129",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "155011",
+          "scheme": "fifa"
+        },
+        {
+          "identifier": "/m/07bn60",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q313147",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.asambleanacional.gob.ec/sites/default/files/styles/asambleista/public/pictures/picture-129-1394568756.png?itok=VctU6QiJ",
@@ -57,11 +71,277 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/أغوستين_ديلغادو"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Agustín_Delgado"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Agustín_Delgado"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Agustín_Delgado_Chalá"
+        },
+        {
+          "note": "Wikipedia (et)",
+          "url": "https://et.wikipedia.org/wiki/Agustín_Delgado"
+        },
+        {
+          "note": "Wikipedia (fa)",
+          "url": "https://fa.wikipedia.org/wiki/آگوستین_دلگادو"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Agustín_Delgado"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Agustín_Delgado"
+        },
+        {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/Agustín_Delgado"
+        },
+        {
+          "note": "Wikipedia (id)",
+          "url": "https://id.wikipedia.org/wiki/Agustín_Delgado"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Agustín_Delgado"
+        },
+        {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/アグスティン・デルガド"
+        },
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/아구스틴_델가도"
+        },
+        {
+          "note": "Wikipedia (lt)",
+          "url": "https://lt.wikipedia.org/wiki/Agustín_Delgado"
+        },
+        {
+          "note": "Wikipedia (mg)",
+          "url": "https://mg.wikipedia.org/wiki/Agustín_Delgado"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Agustín_Delgado"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Agustín_Delgado"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Agustín_Delgado"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Agustín_Delgado"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Дельгадо,_Агустин"
+        },
+        {
+          "note": "Wikipedia (simple)",
+          "url": "https://simple.wikipedia.org/wiki/Agustín_Delgado"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Agustín_Delgado"
+        },
+        {
+          "note": "Wikipedia (tr)",
+          "url": "https://tr.wikipedia.org/wiki/Agustín_Delgado"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/阿古斯丁·德尔加多"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/TinDelgado35"
+        },
+        {
+          "note": "website",
+          "url": "http://www.tindelgado.com"
         }
       ],
       "name": "Agustín Javier Delgado Chala",
+      "other_names": [
+        {
+          "name": "Agustín Delgado",
+          "note": "alternate"
+        },
+        {
+          "lang": "ar",
+          "name": "أوغستين ديلغادو",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Agustín Delgado",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Agustín Delgado",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Agustín Delgado",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Agustín Delgado",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Agustín Delgado",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "آگوستین دلگادو",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Agustín Delgado",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Agustín Delgado",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hif",
+          "name": "Agustín Delgado",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Agustín Delgado",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Agustín Delgado",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Agustín Delgado",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "アグスティン・デルガド",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "아구스틴 델가도",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Agustín Delgado",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mg",
+          "name": "Agustín Delgado",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Agustín Delgado",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Agustín Delgado",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Agustín Delgado",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Agustín Delgado",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Agustín Delgado",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Дельгадо, Агустин",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Agustín Delgado",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Agustín Delgado",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "阿古斯丁·德尔加多",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "阿古斯丁·德尔加多",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hans",
+          "name": "阿古斯丁·德尔加多",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "阿古斯丁·德爾加多",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "阿古斯丁·迪加度",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-sg",
+          "name": "阿古斯丁·德尔加多",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-tw",
+          "name": "阿古斯丁·德爾加多",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.asambleanacional.gob.ec/es/blogs/agustindelgado"
@@ -195,6 +475,7 @@
       ]
     },
     {
+      "birth_date": "1966-05-28",
       "contact_details": [
         {
           "type": "twitter",
@@ -202,11 +483,16 @@
         }
       ],
       "gender": "male",
+      "given_name": "Andrés",
       "id": "dcbc9658-e38c-4b06-b387-25639516af4e",
       "identifiers": [
         {
           "identifier": "135",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q20899865",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.asambleanacional.gob.ec/sites/default/files/styles/asambleista/public/pictures/picture-135-1394571336.png?itok=QIj2lYzO",
@@ -217,6 +503,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Andrés_Páez"
+        },
+        {
           "note": "facebook",
           "url": "https://www.facebook.com/andres.paez.3114?fref=ts"
         },
@@ -226,6 +516,32 @@
         }
       ],
       "name": "Andrés Tarquino Páez Benalcázar",
+      "other_names": [
+        {
+          "name": "Andrés Páez",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Andrés Páez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Andrés Páez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Andrés Páez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Andrés Páez",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.asambleanacional.gob.ec/es/blogs/andrespaez"
@@ -689,6 +1005,7 @@
       ]
     },
     {
+      "birth_date": "1981-08-26",
       "contact_details": [
         {
           "type": "twitter",
@@ -696,11 +1013,16 @@
         }
       ],
       "gender": "female",
+      "given_name": "Cristina",
       "id": "3e726e00-bae5-478d-9f23-c144c832303f",
       "identifiers": [
         {
           "identifier": "152",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q16302329",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.asambleanacional.gob.ec/sites/default/files/styles/asambleista/public/pictures/picture-152-1394804773.png?itok=BhZIC5IG",
@@ -711,6 +1033,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Cristina_Reyes"
+        },
+        {
           "note": "facebook",
           "url": "https://www.facebook.com/cristinareyesec"
         },
@@ -720,6 +1046,17 @@
         }
       ],
       "name": "Cristina Eugenia Reyes Hidalgo",
+      "other_names": [
+        {
+          "name": "Cristina Reyes",
+          "note": "alternate"
+        },
+        {
+          "lang": "es",
+          "name": "Cristina Reyes",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.asambleanacional.gob.ec/es/blogs/cristinareyes"
@@ -727,6 +1064,7 @@
       ]
     },
     {
+      "birth_date": "1965-11-19",
       "contact_details": [
         {
           "type": "twitter",
@@ -734,11 +1072,16 @@
         }
       ],
       "gender": "female",
+      "given_name": "Cynthia",
       "id": "335da555-c1c5-4309-b2c8-b88ebf1085d6",
       "identifiers": [
         {
           "identifier": "153",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q3008822",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.asambleanacional.gob.ec/sites/default/files/styles/asambleista/public/pictures/picture-153-1394804835.png?itok=V3qM-slb",
@@ -749,6 +1092,18 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Cynthia_Viteri"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Cynthia_Viteri"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Cynthia_Viteri"
+        },
+        {
           "note": "facebook",
           "url": "https://www.facebook.com/cynthiafernanda.viterijimenez?fref=ts"
         },
@@ -758,6 +1113,37 @@
         }
       ],
       "name": "Cynthia Fernanda Viteri Jiménez",
+      "other_names": [
+        {
+          "name": "Cynthia Viteri",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Cynthia Viteri",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Cynthia Viteri",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Cynthia Viteri",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Cynthia Viteri",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Cynthia Viteri",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.asambleanacional.gob.ec/es/blogs/cynthiaviteri"
@@ -1214,11 +1600,16 @@
         }
       ],
       "gender": "male",
+      "given_name": "Gilmar",
       "id": "ab4d5cd2-489d-4830-ad67-c74b4891815c",
       "identifiers": [
         {
           "identifier": "173",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q3106635",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.asambleanacional.gob.ec/es/system/files/styles/asambleista/private/pictures/picture-173-1394661156.png?itok=srCsHmM6",
@@ -1229,6 +1620,14 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Gilmar_Gutiérrez"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Gilmar_Gutiérrez"
+        },
+        {
           "note": "facebook",
           "url": "https://www.facebook.com/GilmarGutierrezB?fref=ts"
         },
@@ -1238,6 +1637,22 @@
         }
       ],
       "name": "Fausto Gilmar Gutiérrez Borbua",
+      "other_names": [
+        {
+          "name": "Gilmar Gutiérrez",
+          "note": "alternate"
+        },
+        {
+          "lang": "es",
+          "name": "Gilmar Gutiérrez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Gilmar Gutiérrez",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.asambleanacional.gob.ec/es/blogs/gilmargutierrez"
@@ -1359,6 +1774,7 @@
       ]
     },
     {
+      "birth_date": "1951-08-25",
       "contact_details": [
         {
           "type": "twitter",
@@ -1366,11 +1782,16 @@
         }
       ],
       "gender": "male",
+      "given_name": "Franco",
       "id": "f3926d56-293f-42a4-bf67-103c08e3d0d1",
       "identifiers": [
         {
           "identifier": "176",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q16302297",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.asambleanacional.gob.ec/sites/default/files/styles/asambleista/public/pictures/picture-176-1394804801.png?itok=eiYm9LkB",
@@ -1381,6 +1802,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Franco_Romero_Loayza"
+        },
+        {
           "note": "facebook",
           "url": "https://www.facebook.com/francoromeroec"
         },
@@ -1390,6 +1815,17 @@
         }
       ],
       "name": "Franco Segundo Romero Loayza",
+      "other_names": [
+        {
+          "name": "Franco Romero",
+          "note": "alternate"
+        },
+        {
+          "lang": "es",
+          "name": "Franco Romero",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.asambleanacional.gob.ec/es/blogs/francoromero"
@@ -1435,17 +1871,28 @@
       ]
     },
     {
+      "birth_date": "1983-07-25",
       "contact_details": [
         {
           "type": "twitter",
           "value": "gabrielaespais"
         }
       ],
+      "gender": "female",
+      "given_name": "Gabriela",
       "id": "a9897c74-77c4-407d-94c5-5c7475a0d8ff",
       "identifiers": [
         {
           "identifier": "177",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/0w1f5f5",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q13484890",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.asambleanacional.gob.ec/sites/default/files/styles/asambleista/public/pictures/picture-177-1395099993.png?itok=gTnAexyX",
@@ -1456,15 +1903,80 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Gabriela_Rivadeneira"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Gabriela_Rivadeneira"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Gabriela_Rivadeneira"
+        },
+        {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/Gabriela_Rivadeneira"
+        },
+        {
+          "note": "Wikipedia (ka)",
+          "url": "https://ka.wikipedia.org/wiki/გაბრიელა_რივადენეირა"
+        },
+        {
           "note": "facebook",
           "url": "https://www.facebook.com/GabrielaRivadeneiraBurbano?fref=ts"
         },
         {
           "note": "twitter",
           "url": "https://twitter.com/gabrielaespais"
+        },
+        {
+          "note": "website",
+          "url": "http://www.gabrielarivadeneira.com"
         }
       ],
       "name": "Gabriela Alejandra Rivadeneira Burbano",
+      "other_names": [
+        {
+          "name": "Gabriela Rivadeneira",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Gabriela Rivadeneira",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Gabriela Rivadeneira",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Gabriela Rivadeneira",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Gabriela Rivadeneira",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Gabriela Rivadeneira",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "გაბრიელა რივადენეირა",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Gabriela Rivadeneira",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.asambleanacional.gob.ec/es/blogs/gabrielarivadeneira"
@@ -1548,6 +2060,7 @@
       ]
     },
     {
+      "birth_date": "1962-04-26",
       "contact_details": [
         {
           "type": "twitter",
@@ -1555,11 +2068,16 @@
         }
       ],
       "gender": "female",
+      "given_name": "Gina",
       "id": "49088bde-1d88-44be-ab6a-2ff408b75d3d",
       "identifiers": [
         {
           "identifier": "180",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q16571637",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.asambleanacional.gob.ec/es/system/files/styles/asambleista/private/pictures/picture-180-1446051999.png?itok=ItiTifPK",
@@ -1570,6 +2088,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Gina_Godoy"
+        },
+        {
           "note": "facebook",
           "url": "https://www.facebook.com/gina.godoy?fref=ts"
         },
@@ -1579,6 +2101,17 @@
         }
       ],
       "name": "Gina Jakeline Godoy Andrade",
+      "other_names": [
+        {
+          "name": "Gina Godoy",
+          "note": "alternate"
+        },
+        {
+          "lang": "es",
+          "name": "Gina Godoy",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.asambleanacional.gob.ec/es/blogs/ginagodoy"
@@ -1766,6 +2299,7 @@
       ]
     },
     {
+      "birth_date": "1974-02-08",
       "contact_details": [
         {
           "type": "twitter",
@@ -1773,11 +2307,24 @@
         }
       ],
       "gender": "male",
+      "given_name": "Ulises",
       "id": "02691ee7-5858-4c7b-987d-d52975d4100b",
       "identifiers": [
         {
           "identifier": "186",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "155010",
+          "scheme": "fifa"
+        },
+        {
+          "identifier": "/m/04sq2x",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q353013",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.asambleanacional.gob.ec/sites/default/files/styles/asambleista/public/pictures/picture-186-1394989099.png?itok=3EiORgzL",
@@ -1788,6 +2335,94 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/أوليسس_دي_لا_كروز"
+        },
+        {
+          "note": "Wikipedia (az)",
+          "url": "https://az.wikipedia.org/wiki/Ulises_de_la_Kruz"
+        },
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Улисес_де_ла_Крус"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Ulises_de_la_Cruz"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ulises_de_la_Cruz"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Ulises_de_la_Cruz"
+        },
+        {
+          "note": "Wikipedia (fa)",
+          "url": "https://fa.wikipedia.org/wiki/اولیسز_دا_لا_کروز"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Ulises_de_la_Cruz"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Ulises_de_la_Cruz"
+        },
+        {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/Ulises_de_la_Cruz"
+        },
+        {
+          "note": "Wikipedia (id)",
+          "url": "https://id.wikipedia.org/wiki/Ulises_de_la_Cruz"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Ulises_de_la_Cruz"
+        },
+        {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/ウリセス・デ・ラ・クルス"
+        },
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/울리세스_데_라_크루스"
+        },
+        {
+          "note": "Wikipedia (lt)",
+          "url": "https://lt.wikipedia.org/wiki/Ulises_de_la_Cruz"
+        },
+        {
+          "note": "Wikipedia (mg)",
+          "url": "https://mg.wikipedia.org/wiki/Ulises_de_la_Cruz"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Ulises_de_la_Cruz"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Ulises_de_la_Cruz"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Ulises_de_la_Cruz"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Де_ла_Крус,_Улисес"
+        },
+        {
+          "note": "Wikipedia (simple)",
+          "url": "https://simple.wikipedia.org/wiki/Ulises_de_la_Cruz"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Ulises_de_la_Cruz"
+        },
+        {
           "note": "facebook",
           "url": "https://www.facebook.com/ulises.delacruz.9678?fref=ts9"
         },
@@ -1797,6 +2432,117 @@
         }
       ],
       "name": "Herman Ulises De La Cruz Bernardo",
+      "other_names": [
+        {
+          "name": "Ulises de la Cruz",
+          "note": "alternate"
+        },
+        {
+          "lang": "ar",
+          "name": "أوليسس دي لا كروز",
+          "note": "multilingual"
+        },
+        {
+          "lang": "az",
+          "name": "Ulises De La Kruz",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Улисес де ла Крус",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Ulises de la Cruz",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Ulises de la Cruz",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Ulises de la Cruz",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "اولیسز دا لا کروز",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Ulises de la Cruz",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Ulises de la Cruz",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Ulises de la Cruz",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Ulises de la Cruz",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Ulises de la Cruz",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ウリセス・デ・ラ・クルス",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "울리세스 데 라 크루스",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Ulises de la Cruz",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mg",
+          "name": "Ulises de la Cruz",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Ulises de la Cruz",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Ulises de la Cruz",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Ulises de la Cruz",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Де ла Крус, Улисес",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Ulises de la Cruz",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.asambleanacional.gob.ec/es/blogs/ulisesdelacruz"
@@ -2036,6 +2782,7 @@
       ]
     },
     {
+      "birth_date": "1963-08-04",
       "contact_details": [
         {
           "type": "twitter",
@@ -2043,11 +2790,16 @@
         }
       ],
       "gender": "male",
+      "given_name": "Juan",
       "id": "cb824fa1-0afc-45ba-9cff-6977459e5960",
       "identifiers": [
         {
           "identifier": "195",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q5948239",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.asambleanacional.gob.ec/sites/default/files/styles/asambleista/public/pictures/picture-195-1394802907.png?itok=Cd6AmdVi",
@@ -2058,6 +2810,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Juan_Carlos_Cassinelli"
+        },
+        {
           "note": "facebook",
           "url": "https://www.facebook.com/pages/Juan-Carlos-Cassinelli/511646565544789?fref=ts"
         },
@@ -2067,6 +2823,17 @@
         }
       ],
       "name": "Juan Carlos Cassinelli Cali",
+      "other_names": [
+        {
+          "name": "Juan Carlos Cassinelli",
+          "note": "alternate"
+        },
+        {
+          "lang": "es",
+          "name": "Juan Carlos Cassinelli",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.asambleanacional.gob.ec/es/blogs/juancassinelli"
@@ -2332,6 +3099,7 @@
       ]
     },
     {
+      "birth_date": "1969-10-15",
       "contact_details": [
         {
           "type": "twitter",
@@ -2344,6 +3112,10 @@
         {
           "identifier": "203",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q16302212",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.asambleanacional.gob.ec/es/system/files/styles/asambleista/private/pictures/picture-203-1445976520.png?itok=hkUZxaAk",
@@ -2354,6 +3126,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Lourdes_Tibán"
+        },
+        {
           "note": "facebook",
           "url": "https://www.facebook.com/lourdes.tibancita?fref=ts"
         },
@@ -2363,6 +3139,17 @@
         }
       ],
       "name": "Lourdes Licenia Tibán Gualan",
+      "other_names": [
+        {
+          "name": "Lourdes Tibán",
+          "note": "alternate"
+        },
+        {
+          "lang": "es",
+          "name": "Lourdes Tibán",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.asambleanacional.gob.ec/es/blogs/lourdestiban"
@@ -2543,6 +3330,7 @@
       ]
     },
     {
+      "birth_date": "1953-04-07",
       "contact_details": [
         {
           "type": "twitter",
@@ -2555,6 +3343,10 @@
         {
           "identifier": "208",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q5989499",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.asambleanacional.gob.ec/sites/default/files/styles/asambleista/public/pictures/picture-208-1394804481.png?itok=qvQUIbLL",
@@ -2565,6 +3357,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Mae_Montaño"
+        },
+        {
           "note": "facebook",
           "url": "https://www.facebook.com/mae.montano.5?ref=ts&fref=ts"
         },
@@ -2574,6 +3370,17 @@
         }
       ],
       "name": "Mae Montaño Valencia",
+      "other_names": [
+        {
+          "name": "Mae Montaño",
+          "note": "alternate"
+        },
+        {
+          "lang": "es",
+          "name": "Mae Montaño",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.asambleanacional.gob.ec/es/blogs/maemontano"
@@ -2653,17 +3460,24 @@
       ]
     },
     {
+      "birth_date": "1973-04-25",
       "contact_details": [
         {
           "type": "twitter",
           "value": "marcelaguinaga"
         }
       ],
+      "gender": "female",
+      "given_name": "Marcela",
       "id": "86ce6a30-d0d1-46c4-8336-2985d9fb8682",
       "identifiers": [
         {
           "identifier": "210",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q9028537",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.asambleanacional.gob.ec/es/system/files/styles/asambleista/private/pictures/picture-210-1394717283.png?itok=Td0yTfjD",
@@ -2674,6 +3488,14 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Marcela_Aguiñaga"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Marcela_Aguiñaga"
+        },
+        {
           "note": "facebook",
           "url": "https://www.facebook.com/pages/Marcela-Agui%C3%B1aga-V/481405811909687?fref=ts"
         },
@@ -2683,6 +3505,37 @@
         }
       ],
       "name": "Marcela Paola Aguiñaga Vallejo",
+      "other_names": [
+        {
+          "name": "Marcela Aguiñaga",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Marcela Aguiñaga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Marcela Aguiñaga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Marcela Aguiñaga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Marcela Aguiñaga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Marcela Aguiñaga",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.asambleanacional.gob.ec/es/blogs/marcelaaguinaga"
@@ -2880,6 +3733,7 @@
       ]
     },
     {
+      "birth_date": "1979-01-22",
       "contact_details": [
         {
           "type": "twitter",
@@ -2887,11 +3741,16 @@
         }
       ],
       "gender": "female",
+      "given_name": "Alexandra",
       "id": "20abc6c1-5b6d-4a3f-a8be-5349b50697bb",
       "identifiers": [
         {
           "identifier": "221",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q16301572",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.asambleanacional.gob.ec/sites/default/files/styles/asambleista/public/pictures/picture-221-1394719836.png?itok=cjIf-cV3",
@@ -2902,6 +3761,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Alexandra_Ocles"
+        },
+        {
           "note": "facebook",
           "url": "https://www.facebook.com/niaocles?ref=ts&fref=ts"
         },
@@ -2911,6 +3774,27 @@
         }
       ],
       "name": "María Alexandra Ocles Padilla",
+      "other_names": [
+        {
+          "name": "Alexandra Ocles",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Alexandra Ocles",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Alexandra Ocles",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Alexandra Ocles",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.asambleanacional.gob.ec/es/blogs/alexandraocles"
@@ -2925,11 +3809,16 @@
         }
       ],
       "gender": "female",
+      "given_name": "María",
       "id": "16db001f-b418-4695-b9cc-cf2e1815d383",
       "identifiers": [
         {
           "identifier": "213",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q16298046",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.asambleanacional.gob.ec/sites/default/files/styles/asambleista/public/pictures/picture-213-1394717755.png?itok=HAk-ANop",
@@ -2940,6 +3829,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/María_Augusta_Calle"
+        },
+        {
           "note": "facebook",
           "url": "https://www.facebook.com/MaAugustaCalle"
         },
@@ -2949,6 +3842,37 @@
         }
       ],
       "name": "María Augusta Calle Andrade",
+      "other_names": [
+        {
+          "name": "María Augusta Calle",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "María Augusta Calle",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "María Augusta Calle",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "María Augusta Calle",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "María Augusta Calle",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "María Augusta Calle",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.asambleanacional.gob.ec/es/blogs/mariacalle"
@@ -2956,6 +3880,7 @@
       ]
     },
     {
+      "birth_date": "1985-11-22",
       "contact_details": [
         {
           "type": "twitter",
@@ -2963,11 +3888,16 @@
         }
       ],
       "gender": "female",
+      "given_name": "María",
       "id": "9a84454e-e356-440e-b9ca-143ccb77bcc0",
       "identifiers": [
         {
           "identifier": "214",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q16601305",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.asambleanacional.gob.ec/sites/default/files/styles/asambleista/public/pictures/picture-214-1394719707.png?itok=brguX5bY",
@@ -2978,6 +3908,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/María_Cristina_Kronfle"
+        },
+        {
           "note": "facebook",
           "url": "https://www.facebook.com/pages/MAR%C3%8DA-Cristina-Kronfle-G%C3%93MEZ/600354993324347?fref=ts"
         },
@@ -2987,6 +3921,17 @@
         }
       ],
       "name": "María Cristina Kronfle Gómez",
+      "other_names": [
+        {
+          "name": "María Cristina Kronfle",
+          "note": "alternate"
+        },
+        {
+          "lang": "es",
+          "name": "María Cristina Kronfle",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.asambleanacional.gob.ec/es/blogs/mariacristinakronfle"
@@ -3039,11 +3984,16 @@
         }
       ],
       "gender": "female",
+      "given_name": "Esperanza",
       "id": "3946c20a-45f0-4a93-a13a-bdb28819dcab",
       "identifiers": [
         {
           "identifier": "215",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q19973679",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.asambleanacional.gob.ec/es/system/files/styles/asambleista/private/pictures/picture-215-1425503056.jpg?itok=n4ztsLKy",
@@ -3054,11 +4004,31 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Esperanza_Galván"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/paquigalvan"
         }
       ],
       "name": "María Esperanza Galván Gracia",
+      "other_names": [
+        {
+          "name": "Esperanza Galván",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Esperanza Galván",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Esperanza Galván",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.asambleanacional.gob.ec/es/blogs/mariagalvan"
@@ -3149,11 +4119,16 @@
         }
       ],
       "gender": "female",
+      "given_name": "Soledad",
       "id": "644270c3-bda9-4127-b2cc-66551510031b",
       "identifiers": [
         {
           "identifier": "258",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q16635434",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.asambleanacional.gob.ec/sites/default/files/styles/asambleista/public/pictures/picture-258-1394803924.png?itok=hWPFiTjC",
@@ -3164,11 +4139,41 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Soledad_Buendía"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/solbuendia"
         }
       ],
       "name": "María Soledad Buendía Herdoiza",
+      "other_names": [
+        {
+          "name": "Soledad Buendía",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Soledad Buendía",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Soledad Buendía",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Soledad Buendía",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Soledad Buendía",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.asambleanacional.gob.ec/es/blogs/soledadbuendia"
@@ -4060,6 +5065,7 @@
       ]
     },
     {
+      "birth_date": "1952-08-03",
       "contact_details": [
         {
           "type": "twitter",
@@ -4067,11 +5073,16 @@
         }
       ],
       "gender": "male",
+      "given_name": "Raúl",
       "id": "1120d510-a094-4811-95ff-4823ab56cf20",
       "identifiers": [
         {
           "identifier": "250",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q16301893",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.asambleanacional.gob.ec/sites/default/files/styles/asambleista/public/pictures/picture-250-1394803355.png?itok=l5CXpocp",
@@ -4082,6 +5093,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Raúl_Patiño"
+        },
+        {
           "note": "facebook",
           "url": "https://www.facebook.com/RaulPatinoAroca"
         },
@@ -4091,6 +5106,27 @@
         }
       ],
       "name": "Raúl Leonardo Patiño Aroca",
+      "other_names": [
+        {
+          "name": "Raúl Patiño",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Raúl Patiño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Raúl Patiño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Raúl Patiño",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.asambleanacional.gob.ec/es/blogs/raulpatino"
@@ -4386,17 +5422,24 @@
       ]
     },
     {
+      "birth_date": "1977",
       "contact_details": [
         {
           "type": "twitter",
           "value": "alvaradorosana"
         }
       ],
+      "gender": "female",
+      "given_name": "Rosana",
       "id": "616ec3aa-4d1d-4c48-af04-6060421903b0",
       "identifiers": [
         {
           "identifier": "257",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q16297354",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.asambleanacional.gob.ec/es/system/files/styles/asambleista/private/pictures/picture-257-1397746752.jpg?itok=t19Fr3Od",
@@ -4407,6 +5450,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Rosana_Alvarado"
+        },
+        {
           "note": "facebook",
           "url": "https://www.facebook.com/alvaradorosana?fref=ts"
         },
@@ -4416,6 +5463,32 @@
         }
       ],
       "name": "Rosana Alvarado Carrión",
+      "other_names": [
+        {
+          "name": "Rosana Alvarado",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Rosana Alvarado",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Rosana Alvarado",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Rosana Alvarado",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Rosana Alvarado",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.asambleanacional.gob.ec/es/blogs/rosanaalvarado"
@@ -5734,7 +6807,8 @@
   ],
   "meta": {
     "sources": [
-      "http://www.asambleanacional.gob.ec/es/pleno-asambleistas"
+      "http://www.asambleanacional.gob.ec/es/pleno-asambleistas",
+      "http://wikidata.org/"
     ]
   },
   "memberships": [
