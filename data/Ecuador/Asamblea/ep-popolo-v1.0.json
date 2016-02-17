@@ -1259,10 +1259,10 @@
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "http://www.asambleanacional.gob.ec/es/system/files/styles/asambleista/private/pictures/picture-161-1394659311.png?itok=HE61xiJG",
+      "image": "http://www.asambleanacional.gob.ec/es/system/files/styles/asambleista/private/pictures/picture-161-1452808661.jpg?itok=pQd9YDzI",
       "images": [
         {
-          "url": "http://www.asambleanacional.gob.ec/es/system/files/styles/asambleista/private/pictures/picture-161-1394659311.png?itok=HE61xiJG"
+          "url": "http://www.asambleanacional.gob.ec/es/system/files/styles/asambleista/private/pictures/picture-161-1452808661.jpg?itok=pQd9YDzI"
         }
       ],
       "links": [
@@ -2436,7 +2436,6 @@
           "value": "lftorrest"
         }
       ],
-      "gender": "male",
       "id": "9f252b05-eac9-4b9d-9f03-4bd6f43b50ec",
       "identifiers": [
         {
@@ -4325,10 +4324,10 @@
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "http://www.asambleanacional.gob.ec/sites/default/files/styles/asambleista/public/pictures/picture-254-1394114364.png?itok=8zaW0bZi",
+      "image": "http://www.asambleanacional.gob.ec/es/system/files/styles/asambleista/private/pictures/picture-254-1452297796.jpg?itok=vUuKbOz5",
       "images": [
         {
-          "url": "http://www.asambleanacional.gob.ec/sites/default/files/styles/asambleista/public/pictures/picture-254-1394114364.png?itok=8zaW0bZi"
+          "url": "http://www.asambleanacional.gob.ec/es/system/files/styles/asambleista/private/pictures/picture-254-1452297796.jpg?itok=vUuKbOz5"
         }
       ],
       "links": [
@@ -5029,6 +5028,11 @@
     }
   ],
   "organizations": [
+    {
+      "classification": "party",
+      "id": "party/alianza_creo_-_tiempo_de_cambio_-_psc",
+      "name": "Alianza CREO - Tiempo de Cambio - PSC"
+    },
     {
       "classification": "party",
       "id": "party/alianza_pais",
@@ -6401,7 +6405,7 @@
     {
       "area_id": "area/tungurahua",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "party/movimiento_creo",
+      "on_behalf_of_id": "party/alianza_creo_-_tiempo_de_cambio_-_psc",
       "organization_id": "legislature",
       "person_id": "9f252b05-eac9-4b9d-9f03-4bd6f43b50ec",
       "role": "member"
@@ -6505,7 +6509,7 @@
     {
       "area_id": "area/pichincha",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "party/alianza_pais",
+      "on_behalf_of_id": "party/independientes",
       "organization_id": "legislature",
       "person_id": "b5a1b644-85c1-46da-a871-906bc2642f4a",
       "role": "member"
