@@ -623,14 +623,30 @@
     {
       "gender": "male",
       "id": "83f9624c-1e27-4cb2-a2b6-762b601d786a",
+      "identifiers": [
+        {
+          "identifier": "Q22774355",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90080.jpg",
       "images": [
         {
           "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90080.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/楊鎮浯"
+        }
+      ],
       "name": "Cheng-Wu Yang",
       "other_names": [
+        {
+          "name": "楊鎮浯",
+          "note": "alternate"
+        },
         {
           "lang": "zh",
           "name": "楊鎮浯",
@@ -647,14 +663,30 @@
     {
       "gender": "male",
       "id": "a2e002c0-031c-429a-9eeb-275b7fcdb428",
+      "identifiers": [
+        {
+          "identifier": "Q22100240",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90085.jpg",
       "images": [
         {
           "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90085.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/趙正宇"
+        }
+      ],
       "name": "Cheng-Yu Chao",
       "other_names": [
+        {
+          "name": "趙正宇",
+          "note": "alternate"
+        },
         {
           "lang": "zh",
           "name": "趙正宇",
@@ -913,16 +945,33 @@
       ]
     },
     {
+      "birth_date": "1969-01-27",
       "gender": "male",
       "id": "7113d736-ec58-4b7c-ae89-c05248eaffc9",
+      "identifiers": [
+        {
+          "identifier": "Q19849414",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90017.jpg",
       "images": [
         {
           "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90017.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/吳琪銘"
+        }
+      ],
       "name": "Chi-Ming Wu",
       "other_names": [
+        {
+          "name": "吳琪銘",
+          "note": "alternate"
+        },
         {
           "lang": "zh",
           "name": "吳琪銘",
@@ -1027,16 +1076,33 @@
       ]
     },
     {
+      "birth_date": "1965",
       "gender": "male",
       "id": "1f19498d-5db7-4310-9b3d-2c34e07df452",
+      "identifiers": [
+        {
+          "identifier": "Q8351814",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90104.jpg",
       "images": [
         {
           "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90104.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/鍾佳濱"
+        }
+      ],
       "name": "Chia-Pin Chung",
       "other_names": [
+        {
+          "name": "鍾佳濱",
+          "note": "alternate"
+        },
         {
           "lang": "zh",
           "name": "鍾佳濱",
@@ -1051,18 +1117,73 @@
       ]
     },
     {
+      "birth_date": "1976-04-05",
       "gender": "female",
       "id": "0fc9b8e9-99a0-44e0-915c-3f14b1f06c05",
+      "identifiers": [
+        {
+          "identifier": "Q19825781",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90109.jpg",
       "images": [
         {
           "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90109.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Su_Chiao-hui"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/蘇巧慧"
+        },
+        {
+          "note": "Wikipedia (zh_min_nan)",
+          "url": "https://zh_min_nan.wikipedia.org/wiki/So͘_Kháu-hōe"
+        }
+      ],
       "name": "Chiao-Hui Su",
       "other_names": [
         {
+          "name": "蘇巧慧",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Su Chiao-hui",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Su Chiao-hui",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Su Chiao-hui",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nan",
+          "name": "So͘ Kháu-hōe",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Su Chiao-hui",
+          "note": "multilingual"
+        },
+        {
           "lang": "zh",
+          "name": "蘇巧慧",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
           "name": "蘇巧慧",
           "note": "multilingual"
         }
@@ -1256,16 +1377,43 @@
       ]
     },
     {
+      "birth_date": "1964-11-17",
+      "family_name": "Luo",
       "gender": "male",
       "id": "dc008f0d-92a6-49f1-b4a1-d53df6305f4f",
+      "identifiers": [
+        {
+          "identifier": "Q8349613",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90108.jpg",
       "images": [
         {
           "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90108.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/羅致政"
+        },
+        {
+          "note": "Wikipedia (zh_min_nan)",
+          "url": "https://zh_min_nan.wikipedia.org/wiki/Lô_Tì-chèng"
+        }
+      ],
       "name": "Chih-Cheng Lo",
       "other_names": [
+        {
+          "name": "羅致政",
+          "note": "alternate"
+        },
+        {
+          "lang": "nan",
+          "name": "Lô Tì-chèng",
+          "note": "multilingual"
+        },
         {
           "lang": "zh",
           "name": "羅致政",
@@ -1369,16 +1517,61 @@
       ]
     },
     {
+      "birth_date": "1953-07-10",
       "gender": "female",
       "id": "41eb0dc4-3e66-49a8-b2bb-ea0a4d9444a1",
+      "identifiers": [
+        {
+          "identifier": "Q8350160",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90110.jpg",
       "images": [
         {
           "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90110.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Su_Chih-fen"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/蘇治芬"
+        },
+        {
+          "note": "Wikipedia (zh_min_nan)",
+          "url": "https://zh_min_nan.wikipedia.org/wiki/So͘_Tī-hun"
+        }
+      ],
       "name": "Chih-Feng Su",
       "other_names": [
+        {
+          "name": "蘇治芬",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Su Chih-fen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Su Chih-fen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nan",
+          "name": "So͘ Tī-hun",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Su Chih-fen",
+          "note": "multilingual"
+        },
         {
           "lang": "zh",
           "name": "蘇治芬",
@@ -1534,12 +1727,18 @@
       ]
     },
     {
+      "birth_date": "1955-07-31",
+      "family_name": "Xu",
       "gender": "male",
       "id": "5faeeb87-6e13-4459-8b05-c47a21db8b59",
       "identifiers": [
         {
           "identifier": "00119",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q19825322",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/81119.jpg",
@@ -1548,8 +1747,18 @@
           "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/81119.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/徐志榮"
+        }
+      ],
       "name": "Chih-Jung Hsu",
       "other_names": [
+        {
+          "name": "徐志榮",
+          "note": "alternate"
+        },
         {
           "lang": "zh",
           "name": "徐志榮",
@@ -1837,14 +2046,30 @@
     {
       "gender": "female",
       "id": "9c72387b-efbc-4908-9388-03db3abe413c",
+      "identifiers": [
+        {
+          "identifier": "Q22774129",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90034.jpg",
       "images": [
         {
           "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90034.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/林靜儀"
+        }
+      ],
       "name": "Ching-Yi Lin",
       "other_names": [
+        {
+          "name": "林靜儀",
+          "note": "alternate"
+        },
         {
           "lang": "zh",
           "name": "林靜儀",
@@ -2063,16 +2288,42 @@
       ]
     },
     {
+      "birth_date": "1965-03-07",
       "gender": "male",
       "id": "17c4a039-12c8-41cc-8db2-062961182679",
+      "identifiers": [
+        {
+          "identifier": "Q19825673",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90029.jpg",
       "images": [
         {
           "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90029.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/林俊憲"
+        },
+        {
+          "note": "Wikipedia (zh_min_nan)",
+          "url": "https://zh_min_nan.wikipedia.org/wiki/Lîm_Chùn-hiàn"
+        }
+      ],
       "name": "Chun-Hsien Lin",
       "other_names": [
+        {
+          "name": "林俊憲",
+          "note": "alternate"
+        },
+        {
+          "lang": "nan",
+          "name": "Lîm Chùn-hiàn",
+          "note": "multilingual"
+        },
         {
           "lang": "zh",
           "name": "林俊憲",
@@ -2089,14 +2340,30 @@
     {
       "gender": "female",
       "id": "c65ba856-1602-46ca-b9f9-30667771e51d",
+      "identifiers": [
+        {
+          "identifier": "Q22774121",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90026.jpg",
       "images": [
         {
           "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90026.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/周春米"
+        }
+      ],
       "name": "Chun-Mi Chou",
       "other_names": [
+        {
+          "name": "周春米",
+          "note": "alternate"
+        },
         {
           "lang": "zh",
           "name": "周春米",
@@ -2111,16 +2378,42 @@
       ]
     },
     {
+      "birth_date": "1969-01-27",
       "gender": "male",
       "id": "6f862895-b073-4298-b9ad-00ce471554ef",
+      "identifiers": [
+        {
+          "identifier": "Q19849340",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90042.jpg",
       "images": [
         {
           "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90042.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/洪宗熠"
+        },
+        {
+          "note": "Wikipedia (zh_min_nan)",
+          "url": "https://zh_min_nan.wikipedia.org/wiki/Âng_Chong-iap"
+        }
+      ],
       "name": "Chun-Yi Hung",
       "other_names": [
+        {
+          "name": "洪宗熠",
+          "note": "alternate"
+        },
+        {
+          "lang": "nan",
+          "name": "Âng Chong-iap",
+          "note": "multilingual"
+        },
         {
           "lang": "zh",
           "name": "洪宗熠",
@@ -2431,16 +2724,43 @@
       ]
     },
     {
+      "birth_date": "1971-11-10",
+      "family_name": "Huang",
       "gender": "female",
       "id": "127803f9-3c95-4465-9343-1db2fd03f801",
+      "identifiers": [
+        {
+          "identifier": "Q8349282",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90074.jpg",
       "images": [
         {
           "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90074.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/黃秀芳"
+        },
+        {
+          "note": "Wikipedia (zh_min_nan)",
+          "url": "https://zh_min_nan.wikipedia.org/wiki/N̂g_Siù-hong"
+        }
+      ],
       "name": "Hsiou-Fang Huang",
       "other_names": [
+        {
+          "name": "黃秀芳",
+          "note": "alternate"
+        },
+        {
+          "lang": "nan",
+          "name": "N̂g Siù-hong",
+          "note": "multilingual"
+        },
         {
           "lang": "zh",
           "name": "黃秀芳",
@@ -3015,16 +3335,37 @@
       ]
     },
     {
+      "birth_date": "1972-01-10",
       "gender": "male",
       "id": "a66666a6-3465-44de-974a-30a50e6fa65b",
+      "identifiers": [
+        {
+          "identifier": "Q8350806",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90052.jpg",
       "images": [
         {
           "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90052.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Hung-Lue_Chang"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/張宏陸"
+        }
+      ],
       "name": "Hung-Lu Chang",
       "other_names": [
+        {
+          "name": "張宏陸",
+          "note": "alternate"
+        },
         {
           "lang": "zh",
           "name": "張宏陸",
@@ -3039,18 +3380,113 @@
       ]
     },
     {
+      "birth_date": "1956-10-22",
       "gender": "male",
       "id": "281621ef-24ea-44ee-9fda-ff3ebaf34524",
+      "identifiers": [
+        {
+          "identifier": "315952214",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q700774",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90111.jpg",
       "images": [
         {
           "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90111.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Su_Chia-chyuan"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Su_Jia-chyuan"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Su_Chia-chyuan"
+        },
+        {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/蘇嘉全"
+        },
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/쑤자취안"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/蘇嘉全"
+        },
+        {
+          "note": "Wikipedia (zh_min_nan)",
+          "url": "https://zh_min_nan.wikipedia.org/wiki/So͘_Ka-choân"
+        }
+      ],
       "name": "Jia-chyuan Su",
       "other_names": [
         {
+          "name": "蘇嘉全",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Su Jia-chyuan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Su Chia-chyuan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Su Chia-chyuan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Su Chia-chyuan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "蘇嘉全",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "쑤자취안",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nan",
+          "name": "So͘ Ka-choân",
+          "note": "multilingual"
+        },
+        {
           "lang": "zh",
+          "name": "蘇嘉全",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hans",
+          "name": "苏嘉全",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "蘇嘉全",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
           "name": "蘇嘉全",
           "note": "multilingual"
         }
@@ -3227,16 +3663,53 @@
       ]
     },
     {
+      "birth_date": "1969",
       "gender": "male",
+      "given_name": "John",
       "id": "2ac24104-58a6-49d1-a218-27a16433d6d2",
+      "identifiers": [
+        {
+          "identifier": "Q8277261",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90013.jpg",
       "images": [
         {
           "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90013.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/John_Wu_(politician)"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/吳志揚_(政治人物)"
+        }
+      ],
       "name": "John Chih-Yang Wu",
       "other_names": [
+        {
+          "name": "吳志揚",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "John Wu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "John Wu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "John Wu",
+          "note": "multilingual"
+        },
         {
           "lang": "zh",
           "name": "吳志揚",
@@ -3251,12 +3724,17 @@
       ]
     },
     {
+      "birth_date": "1963-04-20",
       "gender": "male",
       "id": "ba25c1a9-7050-4709-aa55-46735ff7fda6",
       "identifiers": [
         {
           "identifier": "00120",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q8351019",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/81120.jpg",
@@ -3265,8 +3743,27 @@
           "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/81120.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/莊瑞雄"
+        },
+        {
+          "note": "Wikipedia (zh_min_nan)",
+          "url": "https://zh_min_nan.wikipedia.org/wiki/Chng_Sūi-hiông"
+        }
+      ],
       "name": "Jui-Hsiung Chuang",
       "other_names": [
+        {
+          "name": "莊瑞雄",
+          "note": "alternate"
+        },
+        {
+          "lang": "nan",
+          "name": "Chng Sūi-hiông",
+          "note": "multilingual"
+        },
         {
           "lang": "zh",
           "name": "莊瑞雄",
@@ -3281,16 +3778,33 @@
       ]
     },
     {
+      "birth_date": "1973-11-15",
       "gender": "male",
       "id": "50327bed-8d55-4084-be26-ee7ed51515d0",
+      "identifiers": [
+        {
+          "identifier": "Q19825797",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90102.jpg",
       "images": [
         {
           "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90102.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/賴瑞隆"
+        }
+      ],
       "name": "Jui-Lung Lai",
       "other_names": [
+        {
+          "name": "賴瑞隆",
+          "note": "alternate"
+        },
         {
           "lang": "zh",
           "name": "賴瑞隆",
@@ -3307,14 +3821,35 @@
     {
       "gender": "male",
       "id": "0e320250-67ab-4d20-ae01-221214cde37a",
+      "identifiers": [
+        {
+          "identifier": "Q8350543",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90005.jpg",
       "images": [
         {
           "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90005.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/王榮璋"
+        }
+      ],
       "name": "Jung-Chang Wang",
       "other_names": [
+        {
+          "name": "王榮璋",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Wang Rongzhang",
+          "note": "multilingual"
+        },
         {
           "lang": "zh",
           "name": "王榮璋",
@@ -3512,12 +4047,17 @@
       ]
     },
     {
+      "birth_date": "1977-09-14",
       "gender": "male",
       "id": "5e422cb9-aa62-489d-b0f9-f22410733cf6",
       "identifiers": [
         {
           "identifier": "00114",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q8278820",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/81114.jpg",
@@ -3526,8 +4066,27 @@
           "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/81114.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/顏寬恒"
+        },
+        {
+          "note": "Wikipedia (zh_min_nan)",
+          "url": "https://zh_min_nan.wikipedia.org/wiki/Gân_Khoan-hông"
+        }
+      ],
       "name": "Kuan-Heng Yen",
       "other_names": [
+        {
+          "name": "顏寬恒",
+          "note": "alternate"
+        },
+        {
+          "lang": "nan",
+          "name": "Gân Khoan-hông",
+          "note": "multilingual"
+        },
         {
           "lang": "zh",
           "name": "顏寬恒",
@@ -3542,16 +4101,33 @@
       ]
     },
     {
+      "birth_date": "1959",
       "gender": "male",
       "id": "3451b7cb-a4d2-4c5b-abdf-32a1372ce0a5",
+      "identifiers": [
+        {
+          "identifier": "Q18415702",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90016.jpg",
       "images": [
         {
           "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90016.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/吳焜裕"
+        }
+      ],
       "name": "Kuen-Yuh Wu",
       "other_names": [
+        {
+          "name": "吳焜裕",
+          "note": "alternate"
+        },
         {
           "lang": "zh",
           "name": "吳焜裕",
@@ -3623,14 +4199,30 @@
     {
       "gender": "male",
       "id": "58471e85-582b-4697-87d1-45bebfb2e3a4",
+      "identifiers": [
+        {
+          "identifier": "Q22774142",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90103.jpg",
       "images": [
         {
           "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90103.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/鍾孔炤"
+        }
+      ],
       "name": "Kung-Chao Chung",
       "other_names": [
+        {
+          "name": "鍾孔炤",
+          "note": "alternate"
+        },
         {
           "lang": "zh",
           "name": "鍾孔炤",
@@ -3645,16 +4237,89 @@
       ]
     },
     {
+      "birth_date": "1973-08-19",
       "gender": "male",
       "id": "cc62be07-ae52-4db3-95b3-01e4a0e2cf21",
+      "identifiers": [
+        {
+          "identifier": "0000 0000 8074 9388",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "n2010039329",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "18104501X",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "122363370",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q15899237",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90077.jpg",
       "images": [
         {
           "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90077.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Huang_Kuo-chang"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Huang_Kuo-chang"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Huang_Kuo-chang"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Huang_Kuo-chang"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/黃國昌"
+        },
+        {
+          "note": "Wikipedia (zh_min_nan)",
+          "url": "https://zh_min_nan.wikipedia.org/wiki/N̂g_Kok-chhiong"
+        }
+      ],
       "name": "Kuo-Chang Huang",
       "other_names": [
+        {
+          "name": "黃國昌",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Huang Kuo-chang",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Huang Kuo-chang",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Huang Kuo-chang",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nan",
+          "name": "N̂g Kok-chhiong",
+          "note": "multilingual"
+        },
         {
           "lang": "zh",
           "name": "黃國昌",
@@ -3774,12 +4439,17 @@
       ]
     },
     {
+      "birth_date": "1964-01-03",
       "gender": "male",
       "id": "431e3d74-4cf5-4f3b-8b70-c408b78d8681",
       "identifiers": [
         {
           "identifier": "00123",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q19058548",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/81123.jpg",
@@ -3788,8 +4458,27 @@
           "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/81123.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Huang_Kuo-shu"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/黃國書_(臺中市政治人物)"
+        }
+      ],
       "name": "Kuo-Shu Huang",
       "other_names": [
+        {
+          "name": "黃國書",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Huang Kuo-shu",
+          "note": "multilingual"
+        },
         {
           "lang": "zh",
           "name": "黃國書",
@@ -3849,16 +4538,43 @@
       ]
     },
     {
+      "birth_date": "1958-06-07",
+      "family_name": "Xu",
       "gender": "male",
       "id": "626ea5ca-c9a0-4f07-b8fe-cbc2c1d28ec2",
+      "identifiers": [
+        {
+          "identifier": "Q8348841",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90046.jpg",
       "images": [
         {
           "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90046.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/徐國勇"
+        },
+        {
+          "note": "Wikipedia (zh_min_nan)",
+          "url": "https://zh_min_nan.wikipedia.org/wiki/Chhî_Kok-ióng"
+        }
+      ],
       "name": "Kuo-Yung Hsu",
       "other_names": [
+        {
+          "name": "徐國勇",
+          "note": "alternate"
+        },
+        {
+          "lang": "nan",
+          "name": "Chhî Kok-ióng",
+          "note": "multilingual"
+        },
         {
           "lang": "zh",
           "name": "徐國勇",
@@ -3875,14 +4591,52 @@
     {
       "gender": "female",
       "id": "3f647e93-cf10-4de4-9b8c-bf5590797af9",
+      "identifiers": [
+        {
+          "identifier": "Q22093639",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90035.jpg",
       "images": [
         {
           "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90035.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Lin_Li-chan"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Lin_Li-chan"
+        },
+        {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/林麗蝉"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/林麗蟬"
+        }
+      ],
       "name": "Li-Chan Lin",
       "other_names": [
+        {
+          "name": "林麗蟬",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Lin Li-chan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "林麗蝉",
+          "note": "multilingual"
+        },
         {
           "lang": "zh",
           "name": "林麗蟬",
@@ -3955,16 +4709,46 @@
       ]
     },
     {
+      "birth_date": "1958-10-31",
       "gender": "male",
       "id": "579c5c94-4923-44c6-ac38-38945c9420cf",
+      "identifiers": [
+        {
+          "identifier": "Q15909081",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90113.jpg",
       "images": [
         {
           "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90113.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Wellington_Koo_(Taiwan)"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/顧立雄"
+        },
+        {
+          "note": "Wikipedia (zh_min_nan)",
+          "url": "https://zh_min_nan.wikipedia.org/wiki/Kò͘_Li̍p-hiông"
+        }
+      ],
       "name": "Li-Hsiung Koo",
       "other_names": [
+        {
+          "name": "顧立雄",
+          "note": "alternate"
+        },
+        {
+          "lang": "nan",
+          "name": "Kò͘ Li̍p-hiông",
+          "note": "multilingual"
+        },
         {
           "lang": "zh",
           "name": "顧立雄",
@@ -4025,16 +4809,34 @@
       ]
     },
     {
+      "birth_date": "1964-01-01",
+      "family_name": "Zhang",
       "gender": "female",
       "id": "9e970919-ff94-4d78-993a-59e8f06f7512",
+      "identifiers": [
+        {
+          "identifier": "Q8273132",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90054.jpg",
       "images": [
         {
           "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90054.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/張麗善"
+        }
+      ],
       "name": "Li-Shan Chang",
       "other_names": [
+        {
+          "name": "張麗善",
+          "note": "alternate"
+        },
         {
           "lang": "zh",
           "name": "張麗善",
@@ -4166,14 +4968,30 @@
     {
       "gender": "female",
       "id": "bbac7a74-532f-4419-8994-71deda6dde00",
+      "identifiers": [
+        {
+          "identifier": "Q22774153",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90065.jpg",
       "images": [
         {
           "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90065.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/陳曼麗"
+        }
+      ],
       "name": "Man-Li Chen",
       "other_names": [
+        {
+          "name": "陳曼麗",
+          "note": "alternate"
+        },
         {
           "lang": "zh",
           "name": "陳曼麗",
@@ -4536,16 +5354,33 @@
       ]
     },
     {
+      "birth_date": "1955-01-10",
       "gender": "male",
       "id": "6e5f45ea-1db3-4f1a-b619-9206a6f35fd4",
+      "identifiers": [
+        {
+          "identifier": "Q8349451",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90098.jpg",
       "images": [
         {
           "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90098.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/鄭寶清"
+        }
+      ],
       "name": "Pao-Ching Cheng",
       "other_names": [
+        {
+          "name": "鄭寶清",
+          "note": "alternate"
+        },
         {
           "lang": "zh",
           "name": "鄭寶清",
@@ -4560,16 +5395,34 @@
       ]
     },
     {
+      "birth_date": "1971",
+      "family_name": "Cai",
       "gender": "female",
       "id": "5b389b28-1dac-4a86-9124-a33695bdbd11",
+      "identifiers": [
+        {
+          "identifier": "Q15901623",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90091.jpg",
       "images": [
         {
           "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90091.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/蔡培慧"
+        }
+      ],
       "name": "Pei-Hui Tsai",
       "other_names": [
+        {
+          "name": "蔡培慧",
+          "note": "alternate"
+        },
         {
           "lang": "zh",
           "name": "蔡培慧",
@@ -4795,16 +5648,53 @@
       ]
     },
     {
+      "birth_date": "1959",
+      "family_name": "Liu",
       "gender": "female",
       "id": "2c66b753-ebe8-4bb5-b0c5-1320ab95a622",
+      "identifiers": [
+        {
+          "identifier": "Q6653712",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90086.jpg",
       "images": [
         {
           "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90086.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Liu_Shih-fang"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/劉世芳"
+        }
+      ],
       "name": "Shih-Fang Liu",
       "other_names": [
+        {
+          "name": "劉世芳",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Liu Shih-fang",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Liu Shih-fang",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Liu Shih-fang",
+          "note": "multilingual"
+        },
         {
           "lang": "zh",
           "name": "劉世芳",
@@ -4819,16 +5709,33 @@
       ]
     },
     {
+      "birth_date": "1973-06-14",
       "gender": "male",
       "id": "bef639e6-b0ed-45c8-8fee-cca4f1249176",
+      "identifiers": [
+        {
+          "identifier": "Q8347638",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90092.jpg",
       "images": [
         {
           "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90092.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/蔡適應"
+        }
+      ],
       "name": "Shih-Ying Tsai",
       "other_names": [
+        {
+          "name": "蔡適應",
+          "note": "alternate"
+        },
         {
           "lang": "zh",
           "name": "蔡適應",
@@ -5021,12 +5928,17 @@
       ]
     },
     {
+      "birth_date": "1975-10-15",
       "gender": "female",
       "id": "07196c98-4c82-4bc8-9356-01d4db468f5c",
       "identifiers": [
         {
           "identifier": "00121",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q18659220",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/81121.jpg",
@@ -5035,8 +5947,18 @@
           "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/81121.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/許淑華_(南投縣)"
+        }
+      ],
       "name": "Shu-Hua Hsu",
       "other_names": [
+        {
+          "name": "許淑華",
+          "note": "alternate"
+        },
         {
           "lang": "zh",
           "name": "許淑華",
@@ -5251,16 +6173,33 @@
       ]
     },
     {
+      "birth_date": "1964-01-10",
       "gender": "female",
       "id": "7bff10fe-3554-4d4f-a690-f67be217daf1",
+      "identifiers": [
+        {
+          "identifier": "Q19825208",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90071.jpg",
       "images": [
         {
           "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90071.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/陳賴素美"
+        }
+      ],
       "name": "Su-Mei Chen Lai",
       "other_names": [
+        {
+          "name": "陳賴素美",
+          "note": "alternate"
+        },
         {
           "lang": "zh",
           "name": "陳賴素美",
@@ -5275,12 +6214,41 @@
       ]
     },
     {
+      "birth_date": "1965-09-21",
       "gender": "female",
       "id": "93fbd53c-a89c-44f5-b7fd-b37dd5372caf",
       "identifiers": [
         {
+          "identifier": "14164308p",
+          "scheme": "bnf"
+        },
+        {
           "identifier": "00052",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/02qlb8f",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "nm0157771",
+          "scheme": "imdb"
+        },
+        {
+          "identifier": "0000 0001 1444 2617",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "093322615",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "53699516",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q697862",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80052.jpg",
@@ -5289,10 +6257,116 @@
           "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80052.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Kao_Chin_Su-mei"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/May_Chin"
+        },
+        {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/高金素梅"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/高金素梅"
+        },
+        {
+          "note": "Wikipedia (zh_min_nan)",
+          "url": "https://zh_min_nan.wikipedia.org/wiki/Ko_Kim_Sò͘-mûi"
+        }
+      ],
       "name": "Su-Mei Kao Chin",
       "other_names": [
         {
+          "name": "高金素梅",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "May Chin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "May Chin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "May Chin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "May Chin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "May Chin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "May Chin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "高金素梅",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "가오진수메이",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nan",
+          "name": "Ko Kim Sò͘-mûi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nds",
+          "name": "May Chin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "May Chin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Мэй Чин",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "May Chin",
+          "note": "multilingual"
+        },
+        {
           "lang": "zh",
+          "name": "高金素梅",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hans",
+          "name": "高金素梅",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "高金素梅",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
           "name": "高金素梅",
           "note": "multilingual"
         }
@@ -5305,12 +6379,17 @@
       ]
     },
     {
+      "birth_date": "1966-01-18",
       "gender": "female",
       "id": "df8f8589-8ac4-4531-8eac-f7d2074734eb",
       "identifiers": [
         {
           "identifier": "00122",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q19653988",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/81122.jpg",
@@ -5319,8 +6398,27 @@
           "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/81122.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/陳素月"
+        },
+        {
+          "note": "Wikipedia (zh_min_nan)",
+          "url": "https://zh_min_nan.wikipedia.org/wiki/Tân_Sò͘-goa̍t"
+        }
+      ],
       "name": "Su-Yueh Chen",
       "other_names": [
+        {
+          "name": "陳素月",
+          "note": "alternate"
+        },
+        {
+          "lang": "nan",
+          "name": "Tân Sò͘-goa̍t",
+          "note": "multilingual"
+        },
         {
           "lang": "zh",
           "name": "陳素月",
@@ -5359,16 +6457,42 @@
       ]
     },
     {
+      "birth_date": "1974-05-28",
       "gender": "female",
       "id": "e74b6be7-4338-4b89-bddb-e66ca9f9b2bd",
+      "identifiers": [
+        {
+          "identifier": "Q8350455",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90015.jpg",
       "images": [
         {
           "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90015.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/吳思瑤"
+        },
+        {
+          "note": "Wikipedia (zh_min_nan)",
+          "url": "https://zh_min_nan.wikipedia.org/wiki/Ngô͘_Su-iâu"
+        }
+      ],
       "name": "Szu-Yao Wu",
       "other_names": [
+        {
+          "name": "吳思瑤",
+          "note": "alternate"
+        },
+        {
+          "lang": "nan",
+          "name": "Ngô͘ Su-iâu",
+          "note": "multilingual"
+        },
         {
           "lang": "zh",
           "name": "吳思瑤",
@@ -5963,18 +7087,102 @@
       ]
     },
     {
+      "birth_date": "1969-03-05",
+      "family_name": "Wang",
       "gender": "male",
       "id": "e0b66db6-acdd-43f8-b49c-037ed43c5e8c",
+      "identifiers": [
+        {
+          "identifier": "Q709508",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90003.jpg",
       "images": [
         {
           "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90003.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (gan)",
+          "url": "https://gan.wikipedia.org/wiki/王定宇"
+        },
+        {
+          "note": "Wikipedia (wuu)",
+          "url": "https://wuu.wikipedia.org/wiki/王定宇"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/王定宇"
+        },
+        {
+          "note": "Wikipedia (zh_min_nan)",
+          "url": "https://zh_min_nan.wikipedia.org/wiki/Ông_Tēng-ú"
+        },
+        {
+          "note": "Wikipedia (zh_yue)",
+          "url": "https://zh_yue.wikipedia.org/wiki/王定宇"
+        }
+      ],
       "name": "Ting-Yu Wang",
       "other_names": [
         {
+          "name": "王定宇",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Wang Ding-yu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gan",
+          "name": "王定宇",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gan-hans",
+          "name": "王定宇",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gan-hant",
+          "name": "王定宇",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nan",
+          "name": "Ông Tēng-ú",
+          "note": "multilingual"
+        },
+        {
+          "lang": "wuu",
+          "name": "王定宇",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yue",
+          "name": "王定宇",
+          "note": "multilingual"
+        },
+        {
           "lang": "zh",
+          "name": "王定宇",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hans",
+          "name": "王定宇",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "王定宇",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
           "name": "王定宇",
           "note": "multilingual"
         }
@@ -6037,16 +7245,121 @@
       ]
     },
     {
+      "birth_date": "1976-02-01",
+      "family_name": "Lin",
       "gender": "male",
+      "given_name": "Freddy",
       "id": "71f5ff97-4749-4d6b-a4c7-e389d7977b2d",
+      "identifiers": [
+        {
+          "identifier": "78144782696411088107",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q9292454",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90030.jpg",
       "images": [
         {
           "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90030.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Freddy_Lim"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Freddy_Lim"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Freddy_Lim"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Freddy_Lim"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Freddy_Lim"
+        },
+        {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/フレディ・リム"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Freddy_Lim"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/林昶佐"
+        },
+        {
+          "note": "Wikipedia (zh_min_nan)",
+          "url": "https://zh_min_nan.wikipedia.org/wiki/Lîm_Chhióng-chò"
+        }
+      ],
       "name": "Tshiong-Tso Lim",
       "other_names": [
+        {
+          "name": "林昶佐",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Freddy Lim",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Freddy Lim",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Freddy Lim",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Freddy Lim",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Freddy Lim",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "フレディ・リム",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nan",
+          "name": "Lîm Chhióng-chò",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Freddy Lim",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Freddy Lim",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Freddy Lim",
+          "note": "multilingual"
+        },
         {
           "lang": "zh",
           "name": "林昶佐",
@@ -6141,18 +7454,62 @@
       ]
     },
     {
+      "birth_date": "1982-12-20",
       "gender": "female",
       "id": "fbf1fb88-acce-4621-bda4-44f92f09c4ea",
+      "identifiers": [
+        {
+          "identifier": "Q19849402",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90043.jpg",
       "images": [
         {
           "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90043.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Hung_Tzu-yung"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Hung_Tzu-yung"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/洪慈庸"
+        },
+        {
+          "note": "Wikipedia (zh_min_nan)",
+          "url": "https://zh_min_nan.wikipedia.org/wiki/Âng_Chû-iông"
+        }
+      ],
       "name": "Tzu-Yung Hung",
       "other_names": [
         {
+          "name": "洪慈庸",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Hung Tzu-yung",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nan",
+          "name": "Âng Chû-iông",
+          "note": "multilingual"
+        },
+        {
           "lang": "zh",
+          "name": "洪慈庸",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
           "name": "洪慈庸",
           "note": "multilingual"
         }
@@ -6165,16 +7522,61 @@
       ]
     },
     {
+      "birth_date": "1978-12-26",
+      "family_name": "Jiang",
       "gender": "male",
       "id": "3a4754da-a2db-4746-8ef4-8c3da0f39111",
+      "identifiers": [
+        {
+          "identifier": "Q15920021",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90094.jpg",
       "images": [
         {
           "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90094.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Wan-An_Jiang"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Chiang_Wan-an"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/蔣萬安"
+        },
+        {
+          "note": "Wikipedia (zh_min_nan)",
+          "url": "https://zh_min_nan.wikipedia.org/wiki/Chiúⁿ_Bān-an"
+        }
+      ],
       "name": "Wan-An Chiang",
       "other_names": [
+        {
+          "name": "蔣萬安",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Chiang Wan-an",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nan",
+          "name": "Chiúⁿ Bān-an",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Chiang Wan-an",
+          "note": "multilingual"
+        },
         {
           "lang": "zh",
           "name": "蔣萬安",
@@ -6189,16 +7591,33 @@
       ]
     },
     {
+      "birth_date": "1965-02-09",
       "gender": "male",
       "id": "48a7712c-eefc-41f1-91d4-ebf1447ee7ee",
+      "identifiers": [
+        {
+          "identifier": "Q8347319",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90053.jpg",
       "images": [
         {
           "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90053.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/張廖萬堅"
+        }
+      ],
       "name": "Wan-Chien Chang Liao",
       "other_names": [
+        {
+          "name": "張廖萬堅",
+          "note": "alternate"
+        },
         {
           "lang": "zh",
           "name": "張廖萬堅",
@@ -6215,14 +7634,30 @@
     {
       "gender": "female",
       "id": "ee9d6197-78e8-41fe-b7a1-52aca13a9785",
+      "identifiers": [
+        {
+          "identifier": "Q22773998",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90011.jpg",
       "images": [
         {
           "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90011.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/余宛如"
+        }
+      ],
       "name": "Wan-Ju Yu",
       "other_names": [
+        {
+          "name": "余宛如",
+          "note": "alternate"
+        },
         {
           "lang": "zh",
           "name": "余宛如",
@@ -6286,16 +7721,33 @@
       ]
     },
     {
+      "birth_date": "1961-07-25",
       "gender": "male",
       "id": "8f6a83d5-ecf0-4533-9f31-1fe1065ecccd",
+      "identifiers": [
+        {
+          "identifier": "Q8351569",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90031.jpg",
       "images": [
         {
           "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90031.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/林為洲"
+        }
+      ],
       "name": "Wei-Chou Lin",
       "other_names": [
+        {
+          "name": "林為洲",
+          "note": "alternate"
+        },
         {
           "lang": "zh",
           "name": "林為洲",
@@ -6685,16 +8137,34 @@
       ]
     },
     {
+      "birth_date": "1971-12-18",
+      "family_name": "Li",
       "gender": "female",
       "id": "2c635442-2bab-45d0-b904-7c2d3ed37057",
+      "identifiers": [
+        {
+          "identifier": "Q20063502",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90022.jpg",
       "images": [
         {
           "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90022.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/李彥秀"
+        }
+      ],
       "name": "Yen-Hsiu Lee",
       "other_names": [
+        {
+          "name": "李彥秀",
+          "note": "alternate"
+        },
         {
           "lang": "zh",
           "name": "李彥秀",
@@ -6932,16 +8402,34 @@
       ]
     },
     {
+      "birth_date": "1981-03-14",
+      "family_name": "Cai",
       "gender": "male",
       "id": "fd16a73f-32c7-4187-9357-dcd541c0693c",
+      "identifiers": [
+        {
+          "identifier": "Q8350388",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90090.jpg",
       "images": [
         {
           "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90090.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/蔡易餘"
+        }
+      ],
       "name": "Yi-Yu Tsai",
       "other_names": [
+        {
+          "name": "蔡易餘",
+          "note": "alternate"
+        },
         {
           "lang": "zh",
           "name": "蔡易餘",
@@ -7165,14 +8653,30 @@
     {
       "gender": "female",
       "id": "818aaf3a-aabf-465f-8112-b6c784580773",
+      "identifiers": [
+        {
+          "identifier": "Q22774114",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90012.jpg",
       "images": [
         {
           "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90012.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/吳玉琴"
+        }
+      ],
       "name": "Yu-Chin Wu",
       "other_names": [
+        {
+          "name": "吳玉琴",
+          "note": "alternate"
+        },
         {
           "lang": "zh",
           "name": "吳玉琴",
@@ -7561,16 +9065,42 @@
       ]
     },
     {
+      "birth_date": "1973-06-02",
       "gender": "male",
       "id": "494d2f30-fe1b-4d48-93c7-a1e26b3e2275",
+      "identifiers": [
+        {
+          "identifier": "Q8357125",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90096.jpg",
       "images": [
         {
           "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90096.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/鄭運鵬"
+        },
+        {
+          "note": "Wikipedia (zh_min_nan)",
+          "url": "https://zh_min_nan.wikipedia.org/wiki/Tēⁿ_Ūn-pêng"
+        }
+      ],
       "name": "Yun-Peng Cheng",
       "other_names": [
+        {
+          "name": "鄭運鵬",
+          "note": "alternate"
+        },
+        {
+          "lang": "nan",
+          "name": "Tēⁿ Ūn-pêng",
+          "note": "multilingual"
+        },
         {
           "lang": "zh",
           "name": "鄭運鵬",
@@ -7585,16 +9115,33 @@
       ]
     },
     {
+      "birth_date": "1969-10-22",
       "gender": "male",
       "id": "6995cc4f-3c8f-4c14-94dd-3224be5779b4",
+      "identifiers": [
+        {
+          "identifier": "Q8350960",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90008.jpg",
       "images": [
         {
           "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90008.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/江永昌"
+        }
+      ],
       "name": "Yung-Chang Chiang",
       "other_names": [
+        {
+          "name": "江永昌",
+          "note": "alternate"
+        },
         {
           "lang": "zh",
           "name": "江永昌",
@@ -7609,16 +9156,38 @@
       ]
     },
     {
+      "birth_date": "1966",
+      "family_name": "Xu",
       "gender": "male",
       "id": "c3bffd29-f41d-46c7-920f-8a2c8bf4beb6",
+      "identifiers": [
+        {
+          "identifier": "Q8967661",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90044.jpg",
       "images": [
         {
           "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90044.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Hsu_Yung-ming"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/徐永明"
+        }
+      ],
       "name": "Yung-Ming Hsu",
       "other_names": [
+        {
+          "name": "徐永明",
+          "note": "alternate"
+        },
         {
           "lang": "zh",
           "name": "徐永明",
