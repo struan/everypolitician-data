@@ -1351,6 +1351,7 @@
       ]
     },
     {
+      "birth_date": "1957-12",
       "email": "Andrew.Leslie@parl.gc.ca",
       "family_name": "Leslie",
       "gender": "male",
@@ -4736,6 +4737,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "363287",
+          "scheme": "fast"
+        },
+        {
           "identifier": "/m/01lcl9",
           "scheme": "freebase"
         },
@@ -4897,7 +4902,7 @@
         },
         {
           "lang": "zh",
-          "name": "李博 (政治人物)",
+          "name": "李博",
           "note": "multilingual"
         }
       ],
@@ -5537,21 +5542,6 @@
       ]
     },
     {
-      "id": "7e4fb40a-203f-4542-a3c2-3519f1c57c8b",
-      "identifiers": [
-        {
-          "identifier": "bradley-trost",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Bradley Trost",
-      "sources": [
-        {
-          "url": "https://en.wikipedia.org/wiki/List_of_House_members_of_the_41st_Parliament_of_Canada"
-        }
-      ]
-    },
-    {
       "contact_details": [
         {
           "type": "twitter",
@@ -5598,12 +5588,8 @@
       "name": "Brenda Shanahan",
       "other_names": [
         {
-          "name": "Brenda Shanahan (politician)",
-          "note": "alternate"
-        },
-        {
           "lang": "en",
-          "name": "Brenda Shanahan (politician)",
+          "name": "Brenda Shanahan",
           "note": "multilingual"
         },
         {
@@ -5613,7 +5599,7 @@
         },
         {
           "lang": "nl",
-          "name": "Brenda Shanahan (politician)",
+          "name": "Brenda Shanahan",
           "note": "multilingual"
         }
       ],
@@ -7608,7 +7594,7 @@
         },
         {
           "lang": "fr",
-          "name": "Chris Alexander (homme politique)",
+          "name": "Chris Alexander",
           "note": "multilingual"
         },
         {
@@ -9133,7 +9119,7 @@
         },
         {
           "lang": "nl",
-          "name": "Craig Scott (politician)",
+          "name": "Craig Scott",
           "note": "multilingual"
         },
         {
@@ -13307,6 +13293,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "130587",
+          "scheme": "fast"
+        },
+        {
           "identifier": "/m/098pc8",
           "scheme": "freebase"
         },
@@ -15113,6 +15103,11 @@
           "lang": "fr",
           "name": "Gabriel Ste-Marie",
           "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Gabriel Ste-Marie",
+          "note": "multilingual"
         }
       ],
       "sources": [
@@ -15682,6 +15677,7 @@
       ]
     },
     {
+      "birth_date": "1963-12",
       "contact_details": [
         {
           "type": "twitter",
@@ -18514,7 +18510,7 @@
         },
         {
           "lang": "fr",
-          "name": "Jack Harris (homme politique)",
+          "name": "Jack Harris",
           "note": "multilingual"
         },
         {
@@ -18565,6 +18561,10 @@
         {
           "identifier": "jack-laytoni",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "1772849",
+          "scheme": "fast"
         },
         {
           "identifier": "/m/017kgm",
@@ -19241,7 +19241,7 @@
         },
         {
           "lang": "nl",
-          "name": "James Maloney (lawyer)",
+          "name": "James Maloney",
           "note": "multilingual"
         }
       ],
@@ -22362,7 +22362,7 @@
         },
         {
           "lang": "uk",
-          "name": "Джон Берд (міністр)",
+          "name": "Джон Берд",
           "note": "multilingual"
         }
       ],
@@ -22437,7 +22437,7 @@
         },
         {
           "lang": "nl",
-          "name": "John Barlow (Canadian politician)",
+          "name": "John Barlow",
           "note": "multilingual"
         }
       ],
@@ -23131,7 +23131,7 @@
         },
         {
           "lang": "nl",
-          "name": "John Rafferty (Canadian politician)",
+          "name": "John Rafferty",
           "note": "multilingual"
         },
         {
@@ -23221,7 +23221,7 @@
         },
         {
           "lang": "nl",
-          "name": "John Weston (politician)",
+          "name": "John Weston",
           "note": "multilingual"
         },
         {
@@ -25769,6 +25769,7 @@
         }
       ],
       "email": "Kate.Young@parl.gc.ca",
+      "given_name": "Kate",
       "id": "6b8077a3-e6be-48d5-90c0-5ac5f51d9cd7",
       "identifiers": [
         {
@@ -25778,6 +25779,10 @@
         {
           "identifier": "88832",
           "scheme": "represent"
+        },
+        {
+          "identifier": "Q22811363",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/YoungKate_Lib.jpg",
@@ -25788,11 +25793,22 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Kate_Young_(politician)"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/KateYoungMP"
         }
       ],
       "name": "Kate Young",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Kate Young",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_House_members_of_the_42nd_Parliament_of_Canada"
@@ -26194,6 +26210,7 @@
       ]
     },
     {
+      "birth_date": "1959-06",
       "contact_details": [
         {
           "type": "twitter",
@@ -26249,7 +26266,7 @@
         },
         {
           "lang": "nl",
-          "name": "Ken McDonald (politician)",
+          "name": "Ken McDonald",
           "note": "multilingual"
         },
         {
@@ -33125,6 +33142,7 @@
       ]
     },
     {
+      "birth_date": "1959-09-06",
       "contact_details": [
         {
           "type": "twitter",
@@ -33132,6 +33150,8 @@
         }
       ],
       "email": "Michael.McLeod@parl.gc.ca",
+      "gender": "male",
+      "given_name": "Michael",
       "id": "65a4ef51-dd6e-4edb-b576-8bad6767a859",
       "identifiers": [
         {
@@ -33141,6 +33161,10 @@
         {
           "identifier": "89374",
           "scheme": "represent"
+        },
+        {
+          "identifier": "Q6832752",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/McLeodMichael_Lib.jpg",
@@ -33151,11 +33175,62 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Michael_McLeod_(politician)"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/MMcLeodNWT"
         }
       ],
       "name": "Michael McLeod",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Michael McLeod",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Michael McLeod",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Michael McLeod",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Michael McLeod",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Michael McLeod",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Michael McLeod",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Michael McLeod",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Michael McLeod",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Michael McLeod",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_House_members_of_the_42nd_Parliament_of_Canada"
@@ -33276,12 +33351,8 @@
       "name": "Michel Picard",
       "other_names": [
         {
-          "name": "Michel Picard (politician)",
-          "note": "alternate"
-        },
-        {
           "lang": "en",
-          "name": "Michel Picard (politician)",
+          "name": "Michel Picard",
           "note": "multilingual"
         },
         {
@@ -33666,7 +33737,7 @@
         },
         {
           "lang": "nl",
-          "name": "Mike Lake (politician)",
+          "name": "Mike Lake",
           "note": "multilingual"
         },
         {
@@ -33756,7 +33827,7 @@
         },
         {
           "lang": "nl",
-          "name": "Mike Sullivan (Canadian politician)",
+          "name": "Mike Sullivan",
           "note": "multilingual"
         },
         {
@@ -33869,7 +33940,7 @@
         },
         {
           "lang": "nl",
-          "name": "Mike Wallace (politician)",
+          "name": "Mike Wallace",
           "note": "multilingual"
         },
         {
@@ -45098,6 +45169,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "1624032",
+          "scheme": "fast"
+        },
+        {
           "identifier": "/m/01k165",
           "scheme": "freebase"
         },
@@ -46092,7 +46167,7 @@
         },
         {
           "lang": "nl",
-          "name": "Stephen Woodworth (politician)",
+          "name": "Stephen Woodworth",
           "note": "multilingual"
         },
         {
@@ -46451,6 +46526,10 @@
         {
           "identifier": "stéphane-dion",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "1487460",
+          "scheme": "fast"
         },
         {
           "identifier": "/m/033829",
@@ -47839,7 +47918,7 @@
         },
         {
           "lang": "nl",
-          "name": "Terence Young (politician)",
+          "name": "Terence Young",
           "note": "multilingual"
         },
         {
@@ -49485,6 +49564,8 @@
         }
       ],
       "email": "Wayne.Stetski@parl.gc.ca",
+      "gender": "male",
+      "given_name": "Wayne",
       "id": "65f76152-78d9-49e8-bfb0-21be8926317b",
       "identifiers": [
         {
@@ -49494,6 +49575,10 @@
         {
           "identifier": "89281",
           "scheme": "represent"
+        },
+        {
+          "identifier": "Q22811360",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/StetskiWayne_NDP.jpg",
@@ -49504,6 +49589,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Wayne_Stetski"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/WayneStetski"
         },
@@ -49513,6 +49602,13 @@
         }
       ],
       "name": "Wayne Stetski",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Wayne Stetski",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_House_members_of_the_42nd_Parliament_of_Canada"
@@ -52907,22 +53003,6 @@
     },
     {
       "area_id": "area/ontario_(algoma—manitoulin—kapuskasing)",
-      "legislative_period_id": "term/41",
-      "on_behalf_of_id": "ndp",
-      "organization_id": "legislature",
-      "person_id": "48c57b21-9167-43a9-a07b-55126c1b1957",
-      "role": "member"
-    },
-    {
-      "area_id": "area/ontario_(algoma—manitoulin—kapuskasing)",
-      "legislative_period_id": "term/42",
-      "on_behalf_of_id": "ndp",
-      "organization_id": "legislature",
-      "person_id": "48c57b21-9167-43a9-a07b-55126c1b1957",
-      "role": "member"
-    },
-    {
-      "area_id": "area/ontario_(algoma—manitoulin—kapuskasing)",
       "legislative_period_id": "term/42",
       "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
@@ -54062,14 +54142,6 @@
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "7e433cca-40ab-4f84-9ea6-bf1c7a4ecd60",
-      "role": "member"
-    },
-    {
-      "area_id": "area/saskatchewan_(saskatoon—humboldt)",
-      "legislative_period_id": "term/41",
-      "on_behalf_of_id": "conservative",
-      "organization_id": "legislature",
-      "person_id": "7e4fb40a-203f-4542-a3c2-3519f1c57c8b",
       "role": "member"
     },
     {
@@ -55582,6 +55654,14 @@
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "d026b523-77a8-40c1-bc46-0d0ed5dbb1de",
+      "role": "member"
+    },
+    {
+      "area_id": "area/saskatchewan_(saskatoon—humboldt)",
+      "legislative_period_id": "term/41",
+      "on_behalf_of_id": "conservative",
+      "organization_id": "legislature",
+      "person_id": "d16b71c6-c860-474e-ae23-23cb8eca44f6",
       "role": "member"
     },
     {
