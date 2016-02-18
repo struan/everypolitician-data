@@ -10968,6 +10968,34 @@
       "contact_details": [
         {
           "type": "phone",
+          "value": "(61) 3215-5811 - 3215-2811"
+        }
+      ],
+      "email": "dep.marcelocastro@camara.leg.br",
+      "id": "d0411b0a-7aeb-4470-8ecd-25e12d1becaa",
+      "identifiers": [
+        {
+          "identifier": "5830659",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.camara.gov.br/internet/deputado/bandep/74460.jpg",
+      "images": [
+        {
+          "url": "http://www.camara.gov.br/internet/deputado/bandep/74460.jpg"
+        }
+      ],
+      "name": "MARCELO CASTRO",
+      "sources": [
+        {
+          "url": "http://www.camara.gov.br/internet/deputado/Dep_Detalhe.asp?id=5830659"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "phone",
           "value": "(61) 3215-5579 - 3215-2579"
         }
       ],
@@ -20952,6 +20980,14 @@
       "on_behalf_of_id": "PTB",
       "organization_id": "legislature",
       "person_id": "cf7c343c-914a-43d4-a2f7-95e08dcfe356",
+      "role": "member"
+    },
+    {
+      "area_id": "area/pi",
+      "legislative_period_id": "term/55",
+      "on_behalf_of_id": "PMDB",
+      "organization_id": "legislature",
+      "person_id": "d0411b0a-7aeb-4470-8ecd-25e12d1becaa",
       "role": "member"
     },
     {
