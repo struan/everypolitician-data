@@ -23464,7 +23464,31 @@
     {
       "classification": "party",
       "id": "party/국민의당",
-      "name": "국민의당"
+      "identifiers": [
+        {
+          "identifier": "Q22262466",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://people21.kr"
+        }
+      ],
+      "name": "국민의당",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "People's Party (South Korea)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "국민의당",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
