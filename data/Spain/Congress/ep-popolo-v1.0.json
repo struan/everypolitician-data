@@ -14569,6 +14569,12 @@
       "gender": "female",
       "given_name": "Irene María",
       "id": "dba2c7e0-acc2-4569-ac19-539c1b106bbc",
+      "identifiers": [
+        {
+          "identifier": "Q21706297",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.congreso.es/wc/htdocs/web/img/diputados/154_11.jpg",
       "images": [
         {
@@ -14577,11 +14583,41 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Irene_Montero"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/Irene_Montero_"
         }
       ],
       "name": "Irene María Montero Gil",
+      "other_names": [
+        {
+          "name": "Irene Montero",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Irene Montero",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Irene Montero",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Irene Montero",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Irene Montero",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Montero Gil, Irene María",
       "sources": [
         {
@@ -30290,6 +30326,12 @@
       "gender": "female",
       "given_name": "Melisa",
       "id": "3e4c00cd-2462-49a8-a5d5-805f312a66d1",
+      "identifiers": [
+        {
+          "identifier": "Q19950547",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.congreso.es/wc/htdocs/web/img/diputados/229_11.jpg",
       "images": [
         {
@@ -30297,6 +30339,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Melisa_Rodríguez_Hernández"
+        },
         {
           "note": "facebook",
           "url": "https://www.facebook.com/mrhciudadanos"
@@ -30307,6 +30353,13 @@
         }
       ],
       "name": "Melisa Rodríguez Hernández",
+      "other_names": [
+        {
+          "lang": "es",
+          "name": "Melisa Rodríguez Hernández",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Rodríguez Hernández, Melisa",
       "sources": [
         {
@@ -31841,6 +31894,12 @@
       "gender": "female",
       "given_name": "Mónica",
       "id": "bf699d21-dee9-4062-ac56-d920ff2aae5d",
+      "identifiers": [
+        {
+          "identifier": "Q20876190",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.congreso.es/wc/htdocs/web/img/diputados/216_11.jpg",
       "images": [
         {
@@ -31848,6 +31907,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Mònica_Lafuente_de_la_Torre"
+        },
         {
           "note": "facebook",
           "url": "https://www.facebook.com/monica.lafuente.14"
@@ -31858,6 +31921,22 @@
         }
       ],
       "name": "Mónica Lafuente de la Torre",
+      "other_names": [
+        {
+          "name": "Mònica Lafuente de la Torre",
+          "note": "alternate"
+        },
+        {
+          "lang": "ca",
+          "name": "Mònica Lafuente de la Torre",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Mònica Lafuente de la Torre",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Lafuente de la Torre, Mónica",
       "sources": [
         {
@@ -33631,6 +33710,10 @@
         {
           "identifier": "16",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q21995428",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.congreso.es/wc/htdocs/web/img/diputados/7_11.jpg",
@@ -33639,7 +33722,39 @@
           "url": "http://www.congreso.es/wc/htdocs/web/img/diputados/7_11.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Pedro_Gómez_de_la_Serna_y_Villacieros"
+        }
+      ],
       "name": "Pedro Ramón Gómez",
+      "other_names": [
+        {
+          "name": "Pedro Gómez de la Serna y Villacieros",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Pedro Gómez de la Serna y Villacieros",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Pedro Gómez de la Serna y Villacieros",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Pedro Gómez de la Serna y Villacieros",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Pedro Gómez de la Serna y Villacieros",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Gómez de la Serna y Villacieros, Pedro Ramón",
       "sources": [
         {
