@@ -5404,6 +5404,12 @@
     },
     {
       "birth_date": "1974-08-20",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "h_abumeri"
+        }
+      ],
       "email": "Hosams.Abu.Meri@saeima.lv",
       "family_name": "Abu Meri",
       "gender": "male",
@@ -5437,6 +5443,10 @@
         {
           "note": "Wikipedia (plwikiquote)",
           "url": "https://plwikiquote.wikipedia.org/wiki/Hosams_Abu_Meri"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/h_abumeri"
         },
         {
           "note": "website",
@@ -8471,6 +8481,12 @@
     },
     {
       "birth_date": "1964-11-21",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "SudrabaInguna"
+        }
+      ],
       "email": "Inguna.Sudraba@saeima.lv",
       "family_name": "Sudraba",
       "gender": "female",
@@ -8524,6 +8540,10 @@
         {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Судраба,_Ингуна"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/SudrabaInguna"
         }
       ],
       "name": "Inguna Sudraba",
@@ -12839,6 +12859,23 @@
       ]
     },
     {
+      "family_name": "Straujuma",
+      "given_name": "Laimdota",
+      "id": "5a2e59f6-1932-46f4-9e3e-c3b224dad54c",
+      "image": "http://titania.saeima.lv/personal/deputati/saeima12_depweb_public.nsf/0/c03a0df2f6e1b309c2257d7b0032d88a/Foto/0.84?OpenElement&FieldElemFormat=jpg",
+      "images": [
+        {
+          "url": "http://titania.saeima.lv/personal/deputati/saeima12_depweb_public.nsf/0/c03a0df2f6e1b309c2257d7b0032d88a/Foto/0.84?OpenElement&FieldElemFormat=jpg"
+        }
+      ],
+      "name": "Laimdota Straujuma",
+      "sources": [
+        {
+          "url": "http://titania.saeima.lv/personal/deputati/saeima12_depweb_public.nsf/depArchive.html?ReadForm&unid=C03A0DF2F6E1B309C2257D7B0032D88A&url=./0/C03A0DF2F6E1B309C2257D7B0032D88A?OpenDocument&lang=EN"
+        }
+      ]
+    },
+    {
       "birth_date": "1973-08-18",
       "contact_details": [
         {
@@ -15705,6 +15742,7 @@
       ]
     },
     {
+      "birth_date": "1984-12-16",
       "contact_details": [
         {
           "type": "twitter",
@@ -17663,6 +17701,24 @@
       "sources": [
         {
           "url": "http://titania.saeima.lv/personal/deputati/saeima12_depweb_public.nsf/depArchive.html?ReadForm&unid=7C4AE909B1FEC401C2257D7B0032D8CA&url=./0/7C4AE909B1FEC401C2257D7B0032D8CA?OpenDocument&lang=EN"
+        }
+      ]
+    },
+    {
+      "email": "Valdis.Kalnozols@saeima.lv",
+      "family_name": "Kalnozols",
+      "given_name": "Valdis",
+      "id": "aef605a7-592e-4327-8ae8-c8d06b7921a7",
+      "image": "http://titania.saeima.lv/personal/deputati/saeima12_depweb_public.nsf/nophoto.gif",
+      "images": [
+        {
+          "url": "http://titania.saeima.lv/personal/deputati/saeima12_depweb_public.nsf/nophoto.gif"
+        }
+      ],
+      "name": "Valdis Kalnozols",
+      "sources": [
+        {
+          "url": "http://titania.saeima.lv/personal/deputati/saeima12_depweb_public.nsf/depArchive.html?ReadForm&unid=5FCF77E8B8E7F97BC2257D7B0032D8DD&url=./0/5FCF77E8B8E7F97BC2257D7B0032D8DD?OpenDocument&lang=EN"
         }
       ]
     },
@@ -20098,12 +20154,21 @@
       "start_date": "2014-11-05"
     },
     {
+      "end_date": "2016-02-18",
       "legislative_period_id": "term/12",
       "on_behalf_of_id": "party/unity",
       "organization_id": "legislature",
       "person_id": "1f637957-49f1-4548-b57d-2cfaefcbbc18",
       "role": "member",
       "start_date": "2014-11-06"
+    },
+    {
+      "legislative_period_id": "term/12",
+      "on_behalf_of_id": "party/unity",
+      "organization_id": "legislature",
+      "person_id": "1f637957-49f1-4548-b57d-2cfaefcbbc18",
+      "role": "member",
+      "start_date": "2016-02-18"
     },
     {
       "legislative_period_id": "term/12",
@@ -20121,12 +20186,21 @@
       "role": "member"
     },
     {
+      "end_date": "2016-02-11",
       "legislative_period_id": "term/12",
       "on_behalf_of_id": "party/unity",
       "organization_id": "legislature",
       "person_id": "231d4d25-53b1-4481-94ed-6650f9abe7d0",
       "role": "member",
       "start_date": "2014-11-06"
+    },
+    {
+      "legislative_period_id": "term/12",
+      "on_behalf_of_id": "party/unity",
+      "organization_id": "legislature",
+      "person_id": "231d4d25-53b1-4481-94ed-6650f9abe7d0",
+      "role": "member",
+      "start_date": "2016-02-11"
     },
     {
       "legislative_period_id": "term/12",
@@ -20396,6 +20470,22 @@
       "role": "member"
     },
     {
+      "end_date": "2014-11-05",
+      "legislative_period_id": "term/12",
+      "on_behalf_of_id": "party/unity",
+      "organization_id": "legislature",
+      "person_id": "5a2e59f6-1932-46f4-9e3e-c3b224dad54c",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/12",
+      "on_behalf_of_id": "party/unity",
+      "organization_id": "legislature",
+      "person_id": "5a2e59f6-1932-46f4-9e3e-c3b224dad54c",
+      "role": "member",
+      "start_date": "2016-02-18"
+    },
+    {
       "legislative_period_id": "term/12",
       "on_behalf_of_id": "party/concord",
       "organization_id": "legislature",
@@ -20648,6 +20738,14 @@
     },
     {
       "legislative_period_id": "term/12",
+      "on_behalf_of_id": "party/union_of_greens_and_farmers",
+      "organization_id": "legislature",
+      "person_id": "aef605a7-592e-4327-8ae8-c8d06b7921a7",
+      "role": "member",
+      "start_date": "2016-02-18"
+    },
+    {
+      "legislative_period_id": "term/12",
       "on_behalf_of_id": "party/national_alliance_\"all_for_latvia!\"_–_\"for_fatherland_and_freedom/lnnk\"",
       "organization_id": "legislature",
       "person_id": "b2b992cd-1723-4cd6-9279-36ed29ab7aa9",
@@ -20661,11 +20759,20 @@
       "role": "member"
     },
     {
+      "end_date": "2016-02-11",
       "legislative_period_id": "term/12",
       "on_behalf_of_id": "party/unity",
       "organization_id": "legislature",
       "person_id": "bf335734-e569-4be0-89a9-8a787425d3da",
       "role": "member"
+    },
+    {
+      "legislative_period_id": "term/12",
+      "on_behalf_of_id": "party/unity",
+      "organization_id": "legislature",
+      "person_id": "bf335734-e569-4be0-89a9-8a787425d3da",
+      "role": "member",
+      "start_date": "2016-02-11"
     },
     {
       "legislative_period_id": "term/12",
