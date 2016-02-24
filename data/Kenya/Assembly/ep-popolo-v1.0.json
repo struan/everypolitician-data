@@ -9409,6 +9409,11 @@
     },
     {
       "classification": "party",
+      "id": "party/independent",
+      "name": "Independent"
+    },
+    {
+      "classification": "party",
       "id": "party/independent_aspirant",
       "name": "Independent Aspirant"
     },
@@ -10633,7 +10638,7 @@
     {
       "area_id": "area/buuri",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/independent_aspirant",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "32bbb6b5-3cca-4ebf-9775-7572028b154f",
       "role": "member"
@@ -11573,7 +11578,7 @@
     {
       "area_id": "area/cherangany",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/independent_aspirant",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "8411c68d-6894-4e7d-b477-84fd35596c0e",
       "role": "member"
