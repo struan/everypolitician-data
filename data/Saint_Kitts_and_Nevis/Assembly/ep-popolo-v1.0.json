@@ -803,17 +803,159 @@
     {
       "classification": "party",
       "id": "party/ccm",
-      "name": "CCM"
+      "identifiers": [
+        {
+          "identifier": "Q4115484",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://myccmparty.com/"
+        }
+      ],
+      "name": "CCM",
+      "other_names": [
+        {
+          "lang": "pt",
+          "name": "Movimento dos Cidadãos Responsáveis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "सम्बन्ध राख् नागरिकहरूको अंदोलन",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Concerned Citizens' Movement",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "حركة المواطنين المهتمين",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/lp",
-      "name": "LP"
+      "identifiers": [
+        {
+          "identifier": "Q250738",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.sknlabourparty.com"
+        }
+      ],
+      "name": "LP",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "St Kitts and Nevis Labour Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "حزب عمال سانت كيتس ونيفيس",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Saint Kitts and Nevis Labour Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Laborista de San Cristóbal y Nieves",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti travailliste de Saint-Christophe-et-Niévès",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Partido Laborista de Saint Kitts e Nevis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "सेंट किट्स र नेविस मजदुर पार्टी",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Partia Pracy Saint Kitts i Nevis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Partido Trabalhista de São Cristóvão e Nevis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Лейбористская партия",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Laburistička stranka Svetog Kristofora i Nevisa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "圣基茨和尼维斯工党",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/nrp",
-      "name": "NRP"
+      "identifiers": [
+        {
+          "identifier": "Q4115493",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://nrpnevis.com/"
+        }
+      ],
+      "name": "NRP",
+      "other_names": [
+        {
+          "lang": "pt",
+          "name": "Partido Reformista de Nevis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "नेविस सुधार पार्टी",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Nevis Reformation Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "حزب الاصلاح نيفيس",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "legislature",
@@ -830,12 +972,58 @@
     {
       "classification": "party",
       "id": "party/pam",
-      "name": "PAM"
+      "identifiers": [
+        {
+          "identifier": "Q3102757",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "PAM",
+      "other_names": [
+        {
+          "lang": "pt",
+          "name": "Movimento de Ação Popular",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "जन कार्यबाही अंदोलन",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Mouvement d'action populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "People's Action Movement",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "حركة العمل الشعبية",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/pelp",
-      "name": "PELP"
+      "identifiers": [
+        {
+          "identifier": "Q22080592",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "PELP",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "People's Labour Party",
+          "note": "multilingual"
+        }
+      ]
     }
   ],
   "meta": {
