@@ -47,6 +47,14 @@
         "type": "gender-balance",
         "source": "Saint-Kitts-and-Nevis/Assembly"
       }
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "create": {
+        "type": "group-wikidata",
+        "source": "manual/group_wikidata.csv"
+      }
     }
   ]
 }
