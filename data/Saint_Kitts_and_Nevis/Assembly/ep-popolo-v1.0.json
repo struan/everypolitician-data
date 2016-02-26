@@ -399,6 +399,14 @@
       ]
     },
     {
+      "id": "5eb5698e-d595-4a32-ae5a-c91d645d5eb6",
+      "name": "Dr. Asim Martin"
+    },
+    {
+      "id": "821d0c7d-1fa0-45de-b1b4-13b3f492a182",
+      "name": "Glen Fitzroy Phillip"
+    },
+    {
       "birth_date": "1964-11-01",
       "gender": "male",
       "given_name": "Lindsay",
@@ -797,6 +805,10 @@
           "note": "multilingual"
         }
       ]
+    },
+    {
+      "id": "bdbe50f5-d487-48b2-8a85-920602fbed98",
+      "name": "Sam Terrence Condor"
     }
   ],
   "organizations": [
@@ -1035,11 +1047,27 @@
   },
   "memberships": [
     {
+      "area_id": "2010-5",
+      "legislative_period_id": "term/2010",
+      "on_behalf_of_id": "party/pam",
+      "organization_id": "legislature",
+      "person_id": "089e7090-25fb-4b1d-8717-566b05d4cd83",
+      "role": "member"
+    },
+    {
       "area_id": "2015-5",
       "legislative_period_id": "term/2015",
       "on_behalf_of_id": "party/pam",
       "organization_id": "legislature",
       "person_id": "089e7090-25fb-4b1d-8717-566b05d4cd83",
+      "role": "member"
+    },
+    {
+      "area_id": "2010-11",
+      "legislative_period_id": "term/2010",
+      "on_behalf_of_id": "party/nrp",
+      "organization_id": "legislature",
+      "person_id": "0bafe581-3be5-4a6e-ba8d-af27af59d52c",
       "role": "member"
     },
     {
@@ -1051,11 +1079,35 @@
       "role": "member"
     },
     {
+      "area_id": "2010-6",
+      "legislative_period_id": "term/2010",
+      "on_behalf_of_id": "party/lp",
+      "organization_id": "legislature",
+      "person_id": "43e8c0fb-0bc0-4c92-8c1e-9e75dd96defe",
+      "role": "member"
+    },
+    {
       "area_id": "2015-6",
       "legislative_period_id": "term/2015",
       "on_behalf_of_id": "party/lp",
       "organization_id": "legislature",
       "person_id": "43e8c0fb-0bc0-4c92-8c1e-9e75dd96defe",
+      "role": "member"
+    },
+    {
+      "area_id": "2010-1",
+      "legislative_period_id": "term/2010",
+      "on_behalf_of_id": "party/lp",
+      "organization_id": "legislature",
+      "person_id": "5eb5698e-d595-4a32-ae5a-c91d645d5eb6",
+      "role": "member"
+    },
+    {
+      "area_id": "2010-10",
+      "legislative_period_id": "term/2010",
+      "on_behalf_of_id": "party/ccm",
+      "organization_id": "legislature",
+      "person_id": "6241ddf8-a0d7-4680-8022-ffd4cbe35acc",
       "role": "member"
     },
     {
@@ -1075,6 +1127,22 @@
       "role": "member"
     },
     {
+      "area_id": "2010-4",
+      "legislative_period_id": "term/2010",
+      "on_behalf_of_id": "party/lp",
+      "organization_id": "legislature",
+      "person_id": "821d0c7d-1fa0-45de-b1b4-13b3f492a182",
+      "role": "member"
+    },
+    {
+      "area_id": "2010-9",
+      "legislative_period_id": "term/2010",
+      "on_behalf_of_id": "party/ccm",
+      "organization_id": "legislature",
+      "person_id": "886e92df-972a-49eb-8d0c-90dcfcd6f3bc",
+      "role": "member"
+    },
+    {
       "area_id": "2015-9",
       "legislative_period_id": "term/2015",
       "on_behalf_of_id": "party/ccm",
@@ -1091,11 +1159,27 @@
       "role": "member"
     },
     {
+      "area_id": "2010-8",
+      "legislative_period_id": "term/2010",
+      "on_behalf_of_id": "party/pam",
+      "organization_id": "legislature",
+      "person_id": "8fae7645-96ce-46b0-a1d1-6b757ab6a0e7",
+      "role": "member"
+    },
+    {
       "area_id": "2015-8",
       "legislative_period_id": "term/2015",
       "on_behalf_of_id": "party/pam",
       "organization_id": "legislature",
       "person_id": "8fae7645-96ce-46b0-a1d1-6b757ab6a0e7",
+      "role": "member"
+    },
+    {
+      "area_id": "2010-2",
+      "legislative_period_id": "term/2010",
+      "on_behalf_of_id": "party/lp",
+      "organization_id": "legislature",
+      "person_id": "a6386cf6-a19d-4a05-9a40-e87dd6eea17b",
       "role": "member"
     },
     {
@@ -1107,11 +1191,27 @@
       "role": "member"
     },
     {
+      "area_id": "2010-7",
+      "legislative_period_id": "term/2010",
+      "on_behalf_of_id": "party/lp",
+      "organization_id": "legislature",
+      "person_id": "aa563b45-3b13-4f78-97e4-0815f7834a78",
+      "role": "member"
+    },
+    {
       "area_id": "2015-7",
       "legislative_period_id": "term/2015",
       "on_behalf_of_id": "party/pelp",
       "organization_id": "legislature",
       "person_id": "aa563b45-3b13-4f78-97e4-0815f7834a78",
+      "role": "member"
+    },
+    {
+      "area_id": "2010-3",
+      "legislative_period_id": "term/2010",
+      "on_behalf_of_id": "party/lp",
+      "organization_id": "legislature",
+      "person_id": "bdbe50f5-d487-48b2-8a85-920602fbed98",
       "role": "member"
     },
     {
@@ -1126,6 +1226,14 @@
   "events": [
     {
       "classification": "legislative period",
+      "end_date": "2015",
+      "id": "term/2010",
+      "name": "7th National Assembly",
+      "organization_id": "legislature",
+      "start_date": "2010"
+    },
+    {
+      "classification": "legislative period",
       "id": "term/2015",
       "name": "8th National Assembly",
       "organization_id": "legislature",
@@ -1133,6 +1241,61 @@
     }
   ],
   "areas": [
+    {
+      "id": "2010-1",
+      "name": "Basseterre East",
+      "type": "constituency"
+    },
+    {
+      "id": "2010-10",
+      "name": "St. George's",
+      "type": "constituency"
+    },
+    {
+      "id": "2010-11",
+      "name": "St. Thomas's and St. James's",
+      "type": "constituency"
+    },
+    {
+      "id": "2010-2",
+      "name": "Basseterre Central",
+      "type": "constituency"
+    },
+    {
+      "id": "2010-3",
+      "name": "Basseterre West",
+      "type": "constituency"
+    },
+    {
+      "id": "2010-4",
+      "name": "Half Way Tree",
+      "type": "constituency"
+    },
+    {
+      "id": "2010-5",
+      "name": "St. Anne Parish",
+      "type": "constituency"
+    },
+    {
+      "id": "2010-6",
+      "name": "Newton Ground-Harris",
+      "type": "constituency"
+    },
+    {
+      "id": "2010-7",
+      "name": "Belle Vue-Ottley's",
+      "type": "constituency"
+    },
+    {
+      "id": "2010-8",
+      "name": "Ottley's-St. Peter's",
+      "type": "constituency"
+    },
+    {
+      "id": "2010-9",
+      "name": "St. John's and St. Paul's",
+      "type": "constituency"
+    },
     {
       "id": "2015-1",
       "name": "Basseterre East",
