@@ -101,6 +101,21 @@
       "type": "membership"
     },
     {
+      "file": "morph/electionpassport-1984.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/saint-kitts-and-nevis-electionpassort",
+        "query": "SELECT *, election AS term FROM data WHERE election = '1984' ORDER BY id"
+      },
+      "merge": {
+        "incoming_field": "name",
+        "existing_field": "name",
+        "reconciliation_file": "reconciliation/electionpassport-1984.csv"
+      },
+      "source": "http://www.electionpassport.com/",
+      "type": "membership"
+    },
+    {
       "file": "morph/wikipedia.csv",
       "create": {
         "type": "morph",
