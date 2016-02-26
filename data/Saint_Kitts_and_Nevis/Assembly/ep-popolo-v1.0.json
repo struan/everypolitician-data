@@ -147,6 +147,10 @@
       "name": "Denzil Douglas",
       "other_names": [
         {
+          "name": "Douglas, Dr. Denzil",
+          "note": "alternate"
+        },
+        {
           "lang": "ar",
           "name": "دنزل دوغلاس",
           "note": "multilingual"
@@ -327,6 +331,10 @@
       "name": "Eugene Hamilton",
       "other_names": [
         {
+          "name": "Hamilton, Eugene",
+          "note": "alternate"
+        },
+        {
           "lang": "en",
           "name": "Eugene Hamilton",
           "note": "multilingual"
@@ -341,7 +349,13 @@
           "scheme": "everypolitician_legacy"
         }
       ],
-      "name": "Ian Liburd"
+      "name": "Ian Liburd",
+      "other_names": [
+        {
+          "name": "Liburd, Ian",
+          "note": "alternate"
+        }
+      ]
     },
     {
       "birth_date": "1983-07-08",
@@ -365,6 +379,10 @@
       ],
       "name": "Konris Maynard",
       "other_names": [
+        {
+          "name": "Maynard, Konris",
+          "note": "alternate"
+        },
         {
           "lang": "de",
           "name": "Konris Maynard",
@@ -414,6 +432,10 @@
       "name": "Lindsay Grant",
       "other_names": [
         {
+          "name": "Grant, Lindsay",
+          "note": "alternate"
+        },
+        {
           "lang": "de",
           "name": "Lindsay Grant",
           "note": "multilingual"
@@ -448,7 +470,13 @@
           "scheme": "everypolitician_legacy"
         }
       ],
-      "name": "Marcella Liburd"
+      "name": "Marcella Liburd",
+      "other_names": [
+        {
+          "name": "Liburd, Marcella",
+          "note": "alternate"
+        }
+      ]
     },
     {
       "id": "886e92df-972a-49eb-8d0c-90dcfcd6f3bc",
@@ -458,7 +486,13 @@
           "scheme": "everypolitician_legacy"
         }
       ],
-      "name": "Mark Brantley"
+      "name": "Mark Brantley",
+      "other_names": [
+        {
+          "name": "Brantly, Mark AG",
+          "note": "alternate"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -482,6 +516,10 @@
       ],
       "name": "Patrice Nisbett",
       "other_names": [
+        {
+          "name": "Nisbett, Patrice",
+          "note": "alternate"
+        },
         {
           "lang": "de",
           "name": "Patrice Nisbett",
@@ -528,6 +566,10 @@
       ],
       "name": "Shawn Richards",
       "other_names": [
+        {
+          "name": "Richards, Shawn",
+          "note": "alternate"
+        },
         {
           "lang": "de",
           "name": "Shawn Richards",
@@ -607,6 +649,10 @@
       "name": "Timothy Harris",
       "other_names": [
         {
+          "name": "Harris, Dr. Timothy",
+          "note": "alternate"
+        },
+        {
           "lang": "de",
           "name": "Timothy Harris",
           "note": "multilingual"
@@ -685,6 +731,10 @@
       "name": "Vance Amory",
       "other_names": [
         {
+          "name": "Amory, Vance",
+          "note": "alternate"
+        },
+        {
           "lang": "de",
           "name": "Vance Amory",
           "note": "multilingual"
@@ -759,12 +809,13 @@
   "meta": {
     "sources": [
       "https://en.wikipedia.org/wiki/Saint_Kitts_and_Nevis_general_election,_2015",
+      "http://www.electionpassport.com/",
       "http://wikidata.org/"
     ]
   },
   "memberships": [
     {
-      "area_id": "area/st_christopher_#5",
+      "area_id": "2015-5",
       "legislative_period_id": "term/2015",
       "on_behalf_of_id": "party/people's_action_movement",
       "organization_id": "legislature",
@@ -772,7 +823,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/nevis_#11",
+      "area_id": "2015-11",
       "legislative_period_id": "term/2015",
       "on_behalf_of_id": "party/nevis_reformation_party",
       "organization_id": "legislature",
@@ -780,7 +831,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/st_christopher_#6",
+      "area_id": "2015-6",
       "legislative_period_id": "term/2015",
       "on_behalf_of_id": "party/saint_kitts_and_nevis_labour_party",
       "organization_id": "legislature",
@@ -788,7 +839,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/nevis_#10",
+      "area_id": "2015-10",
       "legislative_period_id": "term/2015",
       "on_behalf_of_id": "party/concerned_citizens'_movement",
       "organization_id": "legislature",
@@ -796,7 +847,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/st_christopher_#3",
+      "area_id": "2015-3",
       "legislative_period_id": "term/2015",
       "on_behalf_of_id": "party/saint_kitts_and_nevis_labour_party",
       "organization_id": "legislature",
@@ -804,7 +855,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/nevis_#9",
+      "area_id": "2015-9",
       "legislative_period_id": "term/2015",
       "on_behalf_of_id": "party/concerned_citizens'_movement",
       "organization_id": "legislature",
@@ -812,7 +863,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/st_christopher_#1",
+      "area_id": "2015-1",
       "legislative_period_id": "term/2015",
       "on_behalf_of_id": "party/people's_action_movement",
       "organization_id": "legislature",
@@ -820,7 +871,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/st_christopher_#8",
+      "area_id": "2015-8",
       "legislative_period_id": "term/2015",
       "on_behalf_of_id": "party/people's_action_movement",
       "organization_id": "legislature",
@@ -828,7 +879,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/st_christopher_#2",
+      "area_id": "2015-2",
       "legislative_period_id": "term/2015",
       "on_behalf_of_id": "party/saint_kitts_and_nevis_labour_party",
       "organization_id": "legislature",
@@ -836,7 +887,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/st_christopher_#7",
+      "area_id": "2015-7",
       "legislative_period_id": "term/2015",
       "on_behalf_of_id": "party/people's_labour_party",
       "organization_id": "legislature",
@@ -844,7 +895,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/st_christopher_#4",
+      "area_id": "2015-4",
       "legislative_period_id": "term/2015",
       "on_behalf_of_id": "party/people's_action_movement",
       "organization_id": "legislature",
@@ -863,58 +914,58 @@
   ],
   "areas": [
     {
-      "id": "area/nevis_#10",
-      "name": "Nevis #10",
-      "type": "constituency"
-    },
-    {
-      "id": "area/nevis_#11",
-      "name": "Nevis #11",
-      "type": "constituency"
-    },
-    {
-      "id": "area/nevis_#9",
-      "name": "Nevis #9",
-      "type": "constituency"
-    },
-    {
-      "id": "area/st_christopher_#1",
+      "id": "2015-1",
       "name": "St Christopher #1",
       "type": "constituency"
     },
     {
-      "id": "area/st_christopher_#2",
+      "id": "2015-10",
+      "name": "Nevis #10",
+      "type": "constituency"
+    },
+    {
+      "id": "2015-11",
+      "name": "Nevis #11",
+      "type": "constituency"
+    },
+    {
+      "id": "2015-2",
       "name": "St Christopher #2",
       "type": "constituency"
     },
     {
-      "id": "area/st_christopher_#3",
+      "id": "2015-3",
       "name": "St Christopher #3",
       "type": "constituency"
     },
     {
-      "id": "area/st_christopher_#4",
+      "id": "2015-4",
       "name": "St Christopher #4",
       "type": "constituency"
     },
     {
-      "id": "area/st_christopher_#5",
+      "id": "2015-5",
       "name": "St Christopher #5",
       "type": "constituency"
     },
     {
-      "id": "area/st_christopher_#6",
+      "id": "2015-6",
       "name": "St Christopher #6",
       "type": "constituency"
     },
     {
-      "id": "area/st_christopher_#7",
+      "id": "2015-7",
       "name": "St Christopher #7",
       "type": "constituency"
     },
     {
-      "id": "area/st_christopher_#8",
+      "id": "2015-8",
       "name": "St Christopher #8",
+      "type": "constituency"
+    },
+    {
+      "id": "2015-9",
+      "name": "Nevis #9",
       "type": "constituency"
     }
   ]
