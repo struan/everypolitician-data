@@ -88,6 +88,18 @@
       ]
     },
     {
+      "id": "baf7a92d-3fc6-47db-895e-0ab26bdf47d4",
+      "name": "Cedric Liburd"
+    },
+    {
+      "id": "9404de04-e3e1-42b1-a1a8-e380295a6572",
+      "name": "Charles E. Mills"
+    },
+    {
+      "id": "7025c742-93a0-4d99-97c6-67e175891aa1",
+      "name": "Constance Mitcham"
+    },
+    {
       "birth_date": "1953-01-14",
       "family_name": "Douglas",
       "gender": "male",
@@ -399,6 +411,18 @@
       ]
     },
     {
+      "id": "5eb5698e-d595-4a32-ae5a-c91d645d5eb6",
+      "name": "Dr. Asim Martin"
+    },
+    {
+      "id": "7aec0bd4-627c-4914-be87-add230113ac5",
+      "name": "Dwyer Astaphan"
+    },
+    {
+      "id": "821d0c7d-1fa0-45de-b1b4-13b3f492a182",
+      "name": "Glen Fitzroy Phillip"
+    },
+    {
       "birth_date": "1964-11-01",
       "gender": "male",
       "given_name": "Lindsay",
@@ -619,6 +643,30 @@
       ]
     },
     {
+      "id": "ad63167a-858c-405b-851a-227e6433ecb0",
+      "name": "Hugh Heyliger"
+    },
+    {
+      "id": "afbebfd9-04d4-4a7e-b0d2-372605ac4213",
+      "name": "Ivor Stevens"
+    },
+    {
+      "id": "78fb1999-93b8-438b-9818-428d75b60eb9",
+      "name": "Jacinth Henry-Martin"
+    },
+    {
+      "id": "33bfa029-f484-465e-bdaa-43f127414787",
+      "name": "Joseph N. France"
+    },
+    {
+      "id": "99f87c01-256e-469c-8975-e21eb55bb96b",
+      "name": "Joseph W. Parry"
+    },
+    {
+      "id": "bce1dd07-e602-4c95-9118-5babd8e09233",
+      "name": "Kennedy Alphonso Simmonds"
+    },
+    {
       "id": "8bc42a88-b304-4997-88e9-768629516c75",
       "identifiers": [
         {
@@ -649,6 +697,10 @@
           "note": "alternate"
         }
       ]
+    },
+    {
+      "id": "093d16f7-925b-4064-9cdc-e417aca27c6d",
+      "name": "Malcolm Guishard"
     },
     {
       "birth_date": "1983-07-08",
@@ -696,6 +748,10 @@
           "note": "multilingual"
         }
       ]
+    },
+    {
+      "id": "595d85a2-3d99-4287-8b42-ccba5e6d16fb",
+      "name": "Michael Oliver Powell"
     },
     {
       "gender": "male",
@@ -797,6 +853,26 @@
           "note": "multilingual"
         }
       ]
+    },
+    {
+      "id": "3fc657af-63c0-45d6-b3e3-842fb9172c9a",
+      "name": "Roy Jones"
+    },
+    {
+      "id": "46370bf7-57e1-4947-b643-c1025e9be3cf",
+      "name": "Rupert Herbert"
+    },
+    {
+      "id": "bdbe50f5-d487-48b2-8a85-920602fbed98",
+      "name": "Sam Terrence Condor"
+    },
+    {
+      "id": "4ab15b51-f7b4-4589-ba9e-9011231e4c84",
+      "name": "Simeon Daniel"
+    },
+    {
+      "id": "889201a3-95c6-4633-8b35-56680e20d543",
+      "name": "Sydney Morris"
     }
   ],
   "organizations": [
@@ -1035,11 +1111,83 @@
   },
   "memberships": [
     {
+      "area_id": "2004-5",
+      "legislative_period_id": "term/2004",
+      "on_behalf_of_id": "party/pam",
+      "organization_id": "legislature",
+      "person_id": "089e7090-25fb-4b1d-8717-566b05d4cd83",
+      "role": "member"
+    },
+    {
+      "area_id": "2010-5",
+      "legislative_period_id": "term/2010",
+      "on_behalf_of_id": "party/pam",
+      "organization_id": "legislature",
+      "person_id": "089e7090-25fb-4b1d-8717-566b05d4cd83",
+      "role": "member"
+    },
+    {
       "area_id": "2015-5",
       "legislative_period_id": "term/2015",
       "on_behalf_of_id": "party/pam",
       "organization_id": "legislature",
       "person_id": "089e7090-25fb-4b1d-8717-566b05d4cd83",
+      "role": "member"
+    },
+    {
+      "area_id": "1993-9",
+      "legislative_period_id": "term/1993",
+      "on_behalf_of_id": "party/ccm",
+      "organization_id": "legislature",
+      "person_id": "093d16f7-925b-4064-9cdc-e417aca27c6d",
+      "role": "member"
+    },
+    {
+      "area_id": "1995-9",
+      "legislative_period_id": "term/1995",
+      "on_behalf_of_id": "party/ccm",
+      "organization_id": "legislature",
+      "person_id": "093d16f7-925b-4064-9cdc-e417aca27c6d",
+      "role": "member"
+    },
+    {
+      "area_id": "2000-9",
+      "legislative_period_id": "term/2000",
+      "on_behalf_of_id": "party/ccm",
+      "organization_id": "legislature",
+      "person_id": "093d16f7-925b-4064-9cdc-e417aca27c6d",
+      "role": "member"
+    },
+    {
+      "area_id": "2004-9",
+      "legislative_period_id": "term/2004",
+      "on_behalf_of_id": "party/ccm",
+      "organization_id": "legislature",
+      "person_id": "093d16f7-925b-4064-9cdc-e417aca27c6d",
+      "role": "member"
+    },
+    {
+      "area_id": "2000-11",
+      "legislative_period_id": "term/2000",
+      "on_behalf_of_id": "party/nrp",
+      "organization_id": "legislature",
+      "person_id": "0bafe581-3be5-4a6e-ba8d-af27af59d52c",
+      "role": "member"
+    },
+    {
+      "area_id": "2004-11",
+      "legislative_period_id": "term/2004",
+      "on_behalf_of_id": "party/nrp",
+      "organization_id": "legislature",
+      "person_id": "0bafe581-3be5-4a6e-ba8d-af27af59d52c",
+      "role": "member"
+    },
+    {
+      "area_id": "2010-11",
+      "legislative_period_id": "term/2010",
+      "on_behalf_of_id": "party/nrp",
+      "organization_id": "legislature",
+      "person_id": "0bafe581-3be5-4a6e-ba8d-af27af59d52c",
       "role": "member"
     },
     {
@@ -1051,11 +1199,227 @@
       "role": "member"
     },
     {
+      "area_id": "1984-3",
+      "legislative_period_id": "term/1984",
+      "on_behalf_of_id": "party/lp",
+      "organization_id": "legislature",
+      "person_id": "33bfa029-f484-465e-bdaa-43f127414787",
+      "role": "member"
+    },
+    {
+      "area_id": "1984-7",
+      "legislative_period_id": "term/1984",
+      "on_behalf_of_id": "party/pam",
+      "organization_id": "legislature",
+      "person_id": "3fc657af-63c0-45d6-b3e3-842fb9172c9a",
+      "role": "member"
+    },
+    {
+      "area_id": "1989-7",
+      "legislative_period_id": "term/1989",
+      "on_behalf_of_id": "party/pam",
+      "organization_id": "legislature",
+      "person_id": "3fc657af-63c0-45d6-b3e3-842fb9172c9a",
+      "role": "member"
+    },
+    {
+      "area_id": "1989-6",
+      "legislative_period_id": "term/1989",
+      "on_behalf_of_id": "party/lp",
+      "organization_id": "legislature",
+      "person_id": "43e8c0fb-0bc0-4c92-8c1e-9e75dd96defe",
+      "role": "member"
+    },
+    {
+      "area_id": "1993-6",
+      "legislative_period_id": "term/1993",
+      "on_behalf_of_id": "party/lp",
+      "organization_id": "legislature",
+      "person_id": "43e8c0fb-0bc0-4c92-8c1e-9e75dd96defe",
+      "role": "member"
+    },
+    {
+      "area_id": "1995-6",
+      "legislative_period_id": "term/1995",
+      "on_behalf_of_id": "party/lp",
+      "organization_id": "legislature",
+      "person_id": "43e8c0fb-0bc0-4c92-8c1e-9e75dd96defe",
+      "role": "member"
+    },
+    {
+      "area_id": "2000-6",
+      "legislative_period_id": "term/2000",
+      "on_behalf_of_id": "party/lp",
+      "organization_id": "legislature",
+      "person_id": "43e8c0fb-0bc0-4c92-8c1e-9e75dd96defe",
+      "role": "member"
+    },
+    {
+      "area_id": "2004-6",
+      "legislative_period_id": "term/2004",
+      "on_behalf_of_id": "party/lp",
+      "organization_id": "legislature",
+      "person_id": "43e8c0fb-0bc0-4c92-8c1e-9e75dd96defe",
+      "role": "member"
+    },
+    {
+      "area_id": "2010-6",
+      "legislative_period_id": "term/2010",
+      "on_behalf_of_id": "party/lp",
+      "organization_id": "legislature",
+      "person_id": "43e8c0fb-0bc0-4c92-8c1e-9e75dd96defe",
+      "role": "member"
+    },
+    {
       "area_id": "2015-6",
       "legislative_period_id": "term/2015",
       "on_behalf_of_id": "party/lp",
       "organization_id": "legislature",
       "person_id": "43e8c0fb-0bc0-4c92-8c1e-9e75dd96defe",
+      "role": "member"
+    },
+    {
+      "area_id": "1995-4",
+      "legislative_period_id": "term/1995",
+      "on_behalf_of_id": "party/lp",
+      "organization_id": "legislature",
+      "person_id": "46370bf7-57e1-4947-b643-c1025e9be3cf",
+      "role": "member"
+    },
+    {
+      "area_id": "2000-4",
+      "legislative_period_id": "term/2000",
+      "on_behalf_of_id": "party/lp",
+      "organization_id": "legislature",
+      "person_id": "46370bf7-57e1-4947-b643-c1025e9be3cf",
+      "role": "member"
+    },
+    {
+      "area_id": "2004-4",
+      "legislative_period_id": "term/2004",
+      "on_behalf_of_id": "party/lp",
+      "organization_id": "legislature",
+      "person_id": "46370bf7-57e1-4947-b643-c1025e9be3cf",
+      "role": "member"
+    },
+    {
+      "area_id": "1984-11",
+      "legislative_period_id": "term/1984",
+      "on_behalf_of_id": "party/nrp",
+      "organization_id": "legislature",
+      "person_id": "4ab15b51-f7b4-4589-ba9e-9011231e4c84",
+      "role": "member"
+    },
+    {
+      "area_id": "1989-9",
+      "legislative_period_id": "term/1989",
+      "on_behalf_of_id": "party/nrp",
+      "organization_id": "legislature",
+      "person_id": "4ab15b51-f7b4-4589-ba9e-9011231e4c84",
+      "role": "member"
+    },
+    {
+      "area_id": "1984-1",
+      "legislative_period_id": "term/1984",
+      "on_behalf_of_id": "party/pam",
+      "organization_id": "legislature",
+      "person_id": "595d85a2-3d99-4287-8b42-ccba5e6d16fb",
+      "role": "member"
+    },
+    {
+      "area_id": "1989-1",
+      "legislative_period_id": "term/1989",
+      "on_behalf_of_id": "party/pam",
+      "organization_id": "legislature",
+      "person_id": "595d85a2-3d99-4287-8b42-ccba5e6d16fb",
+      "role": "member"
+    },
+    {
+      "area_id": "1993-1",
+      "legislative_period_id": "term/1993",
+      "on_behalf_of_id": "party/lp",
+      "organization_id": "legislature",
+      "person_id": "5eb5698e-d595-4a32-ae5a-c91d645d5eb6",
+      "role": "member"
+    },
+    {
+      "area_id": "1995-1",
+      "legislative_period_id": "term/1995",
+      "on_behalf_of_id": "party/lp",
+      "organization_id": "legislature",
+      "person_id": "5eb5698e-d595-4a32-ae5a-c91d645d5eb6",
+      "role": "member"
+    },
+    {
+      "area_id": "2000-1",
+      "legislative_period_id": "term/2000",
+      "on_behalf_of_id": "party/lp",
+      "organization_id": "legislature",
+      "person_id": "5eb5698e-d595-4a32-ae5a-c91d645d5eb6",
+      "role": "member"
+    },
+    {
+      "area_id": "2004-1",
+      "legislative_period_id": "term/2004",
+      "on_behalf_of_id": "party/lp",
+      "organization_id": "legislature",
+      "person_id": "5eb5698e-d595-4a32-ae5a-c91d645d5eb6",
+      "role": "member"
+    },
+    {
+      "area_id": "2010-1",
+      "legislative_period_id": "term/2010",
+      "on_behalf_of_id": "party/lp",
+      "organization_id": "legislature",
+      "person_id": "5eb5698e-d595-4a32-ae5a-c91d645d5eb6",
+      "role": "member"
+    },
+    {
+      "area_id": "1989-10",
+      "legislative_period_id": "term/1989",
+      "on_behalf_of_id": "party/ccm",
+      "organization_id": "legislature",
+      "person_id": "6241ddf8-a0d7-4680-8022-ffd4cbe35acc",
+      "role": "member"
+    },
+    {
+      "area_id": "1993-10",
+      "legislative_period_id": "term/1993",
+      "on_behalf_of_id": "party/ccm",
+      "organization_id": "legislature",
+      "person_id": "6241ddf8-a0d7-4680-8022-ffd4cbe35acc",
+      "role": "member"
+    },
+    {
+      "area_id": "1995-10",
+      "legislative_period_id": "term/1995",
+      "on_behalf_of_id": "party/ccm",
+      "organization_id": "legislature",
+      "person_id": "6241ddf8-a0d7-4680-8022-ffd4cbe35acc",
+      "role": "member"
+    },
+    {
+      "area_id": "2000-10",
+      "legislative_period_id": "term/2000",
+      "on_behalf_of_id": "party/ccm",
+      "organization_id": "legislature",
+      "person_id": "6241ddf8-a0d7-4680-8022-ffd4cbe35acc",
+      "role": "member"
+    },
+    {
+      "area_id": "2004-10",
+      "legislative_period_id": "term/2004",
+      "on_behalf_of_id": "party/ccm",
+      "organization_id": "legislature",
+      "person_id": "6241ddf8-a0d7-4680-8022-ffd4cbe35acc",
+      "role": "member"
+    },
+    {
+      "area_id": "2010-10",
+      "legislative_period_id": "term/2010",
+      "on_behalf_of_id": "party/ccm",
+      "organization_id": "legislature",
+      "person_id": "6241ddf8-a0d7-4680-8022-ffd4cbe35acc",
       "role": "member"
     },
     {
@@ -1075,11 +1439,107 @@
       "role": "member"
     },
     {
+      "area_id": "1984-4",
+      "legislative_period_id": "term/1984",
+      "on_behalf_of_id": "party/pam",
+      "organization_id": "legislature",
+      "person_id": "7025c742-93a0-4d99-97c6-67e175891aa1",
+      "role": "member"
+    },
+    {
+      "area_id": "1989-4",
+      "legislative_period_id": "term/1989",
+      "on_behalf_of_id": "party/pam",
+      "organization_id": "legislature",
+      "person_id": "7025c742-93a0-4d99-97c6-67e175891aa1",
+      "role": "member"
+    },
+    {
+      "area_id": "1993-4",
+      "legislative_period_id": "term/1993",
+      "on_behalf_of_id": "party/pam",
+      "organization_id": "legislature",
+      "person_id": "7025c742-93a0-4d99-97c6-67e175891aa1",
+      "role": "member"
+    },
+    {
+      "area_id": "2000-5",
+      "legislative_period_id": "term/2000",
+      "on_behalf_of_id": "party/lp",
+      "organization_id": "legislature",
+      "person_id": "78fb1999-93b8-438b-9818-428d75b60eb9",
+      "role": "member"
+    },
+    {
+      "area_id": "1995-2",
+      "legislative_period_id": "term/1995",
+      "on_behalf_of_id": "party/lp",
+      "organization_id": "legislature",
+      "person_id": "7aec0bd4-627c-4914-be87-add230113ac5",
+      "role": "member"
+    },
+    {
+      "area_id": "2000-2",
+      "legislative_period_id": "term/2000",
+      "on_behalf_of_id": "party/lp",
+      "organization_id": "legislature",
+      "person_id": "7aec0bd4-627c-4914-be87-add230113ac5",
+      "role": "member"
+    },
+    {
+      "area_id": "2004-2",
+      "legislative_period_id": "term/2004",
+      "on_behalf_of_id": "party/lp",
+      "organization_id": "legislature",
+      "person_id": "7aec0bd4-627c-4914-be87-add230113ac5",
+      "role": "member"
+    },
+    {
+      "area_id": "2010-4",
+      "legislative_period_id": "term/2010",
+      "on_behalf_of_id": "party/lp",
+      "organization_id": "legislature",
+      "person_id": "821d0c7d-1fa0-45de-b1b4-13b3f492a182",
+      "role": "member"
+    },
+    {
+      "area_id": "2010-9",
+      "legislative_period_id": "term/2010",
+      "on_behalf_of_id": "party/ccm",
+      "organization_id": "legislature",
+      "person_id": "886e92df-972a-49eb-8d0c-90dcfcd6f3bc",
+      "role": "member"
+    },
+    {
       "area_id": "2015-9",
       "legislative_period_id": "term/2015",
       "on_behalf_of_id": "party/ccm",
       "organization_id": "legislature",
       "person_id": "886e92df-972a-49eb-8d0c-90dcfcd6f3bc",
+      "role": "member"
+    },
+    {
+      "area_id": "1984-8",
+      "legislative_period_id": "term/1984",
+      "on_behalf_of_id": "party/pam",
+      "organization_id": "legislature",
+      "person_id": "889201a3-95c6-4633-8b35-56680e20d543",
+      "role": "member"
+    },
+    {
+      "area_id": "1989-8",
+      "legislative_period_id": "term/1989",
+      "on_behalf_of_id": "party/pam",
+      "organization_id": "legislature",
+      "person_id": "889201a3-95c6-4633-8b35-56680e20d543",
+      "role": "member"
+    },
+    {
+      "area_id": "1993-8",
+      "legislative_period_id": "term/1993",
+      "on_behalf_of_id": "party/pam",
+      "organization_id": "legislature",
+      "person_id": "889201a3-95c6-4633-8b35-56680e20d543",
       "role": "member"
     },
     {
@@ -1091,11 +1551,59 @@
       "role": "member"
     },
     {
+      "area_id": "2010-8",
+      "legislative_period_id": "term/2010",
+      "on_behalf_of_id": "party/pam",
+      "organization_id": "legislature",
+      "person_id": "8fae7645-96ce-46b0-a1d1-6b757ab6a0e7",
+      "role": "member"
+    },
+    {
       "area_id": "2015-8",
       "legislative_period_id": "term/2015",
       "on_behalf_of_id": "party/pam",
       "organization_id": "legislature",
       "person_id": "8fae7645-96ce-46b0-a1d1-6b757ab6a0e7",
+      "role": "member"
+    },
+    {
+      "area_id": "1984-6",
+      "legislative_period_id": "term/1984",
+      "on_behalf_of_id": "party/lp",
+      "organization_id": "legislature",
+      "person_id": "9404de04-e3e1-42b1-a1a8-e380295a6572",
+      "role": "member"
+    },
+    {
+      "area_id": "1989-11",
+      "legislative_period_id": "term/1989",
+      "on_behalf_of_id": "party/nrp",
+      "organization_id": "legislature",
+      "person_id": "99f87c01-256e-469c-8975-e21eb55bb96b",
+      "role": "member"
+    },
+    {
+      "area_id": "1993-11",
+      "legislative_period_id": "term/1993",
+      "on_behalf_of_id": "party/nrp",
+      "organization_id": "legislature",
+      "person_id": "99f87c01-256e-469c-8975-e21eb55bb96b",
+      "role": "member"
+    },
+    {
+      "area_id": "1995-11",
+      "legislative_period_id": "term/1995",
+      "on_behalf_of_id": "party/nrp",
+      "organization_id": "legislature",
+      "person_id": "99f87c01-256e-469c-8975-e21eb55bb96b",
+      "role": "member"
+    },
+    {
+      "area_id": "2010-2",
+      "legislative_period_id": "term/2010",
+      "on_behalf_of_id": "party/lp",
+      "organization_id": "legislature",
+      "person_id": "a6386cf6-a19d-4a05-9a40-e87dd6eea17b",
       "role": "member"
     },
     {
@@ -1107,11 +1615,187 @@
       "role": "member"
     },
     {
+      "area_id": "1993-7",
+      "legislative_period_id": "term/1993",
+      "on_behalf_of_id": "party/lp",
+      "organization_id": "legislature",
+      "person_id": "aa563b45-3b13-4f78-97e4-0815f7834a78",
+      "role": "member"
+    },
+    {
+      "area_id": "1995-7",
+      "legislative_period_id": "term/1995",
+      "on_behalf_of_id": "party/lp",
+      "organization_id": "legislature",
+      "person_id": "aa563b45-3b13-4f78-97e4-0815f7834a78",
+      "role": "member"
+    },
+    {
+      "area_id": "2000-7",
+      "legislative_period_id": "term/2000",
+      "on_behalf_of_id": "party/lp",
+      "organization_id": "legislature",
+      "person_id": "aa563b45-3b13-4f78-97e4-0815f7834a78",
+      "role": "member"
+    },
+    {
+      "area_id": "2004-7",
+      "legislative_period_id": "term/2004",
+      "on_behalf_of_id": "party/lp",
+      "organization_id": "legislature",
+      "person_id": "aa563b45-3b13-4f78-97e4-0815f7834a78",
+      "role": "member"
+    },
+    {
+      "area_id": "2010-7",
+      "legislative_period_id": "term/2010",
+      "on_behalf_of_id": "party/lp",
+      "organization_id": "legislature",
+      "person_id": "aa563b45-3b13-4f78-97e4-0815f7834a78",
+      "role": "member"
+    },
+    {
       "area_id": "2015-7",
       "legislative_period_id": "term/2015",
       "on_behalf_of_id": "party/pelp",
       "organization_id": "legislature",
       "person_id": "aa563b45-3b13-4f78-97e4-0815f7834a78",
+      "role": "member"
+    },
+    {
+      "area_id": "1984-5",
+      "legislative_period_id": "term/1984",
+      "on_behalf_of_id": "party/pam",
+      "organization_id": "legislature",
+      "person_id": "ad63167a-858c-405b-851a-227e6433ecb0",
+      "role": "member"
+    },
+    {
+      "area_id": "1989-5",
+      "legislative_period_id": "term/1989",
+      "on_behalf_of_id": "party/pam",
+      "organization_id": "legislature",
+      "person_id": "ad63167a-858c-405b-851a-227e6433ecb0",
+      "role": "member"
+    },
+    {
+      "area_id": "1993-5",
+      "legislative_period_id": "term/1993",
+      "on_behalf_of_id": "party/pam",
+      "organization_id": "legislature",
+      "person_id": "ad63167a-858c-405b-851a-227e6433ecb0",
+      "role": "member"
+    },
+    {
+      "area_id": "1995-5",
+      "legislative_period_id": "term/1995",
+      "on_behalf_of_id": "party/pam",
+      "organization_id": "legislature",
+      "person_id": "ad63167a-858c-405b-851a-227e6433ecb0",
+      "role": "member"
+    },
+    {
+      "area_id": "1984-9",
+      "legislative_period_id": "term/1984",
+      "on_behalf_of_id": "party/nrp",
+      "organization_id": "legislature",
+      "person_id": "afbebfd9-04d4-4a7e-b0d2-372605ac4213",
+      "role": "member"
+    },
+    {
+      "area_id": "1995-8",
+      "legislative_period_id": "term/1995",
+      "on_behalf_of_id": "party/lp",
+      "organization_id": "legislature",
+      "person_id": "baf7a92d-3fc6-47db-895e-0ab26bdf47d4",
+      "role": "member"
+    },
+    {
+      "area_id": "2000-8",
+      "legislative_period_id": "term/2000",
+      "on_behalf_of_id": "party/lp",
+      "organization_id": "legislature",
+      "person_id": "baf7a92d-3fc6-47db-895e-0ab26bdf47d4",
+      "role": "member"
+    },
+    {
+      "area_id": "2004-8",
+      "legislative_period_id": "term/2004",
+      "on_behalf_of_id": "party/lp",
+      "organization_id": "legislature",
+      "person_id": "baf7a92d-3fc6-47db-895e-0ab26bdf47d4",
+      "role": "member"
+    },
+    {
+      "area_id": "1984-2",
+      "legislative_period_id": "term/1984",
+      "on_behalf_of_id": "party/pam",
+      "organization_id": "legislature",
+      "person_id": "bce1dd07-e602-4c95-9118-5babd8e09233",
+      "role": "member"
+    },
+    {
+      "area_id": "1989-2",
+      "legislative_period_id": "term/1989",
+      "on_behalf_of_id": "party/pam",
+      "organization_id": "legislature",
+      "person_id": "bce1dd07-e602-4c95-9118-5babd8e09233",
+      "role": "member"
+    },
+    {
+      "area_id": "1993-2",
+      "legislative_period_id": "term/1993",
+      "on_behalf_of_id": "party/pam",
+      "organization_id": "legislature",
+      "person_id": "bce1dd07-e602-4c95-9118-5babd8e09233",
+      "role": "member"
+    },
+    {
+      "area_id": "1989-3",
+      "legislative_period_id": "term/1989",
+      "on_behalf_of_id": "party/lp",
+      "organization_id": "legislature",
+      "person_id": "bdbe50f5-d487-48b2-8a85-920602fbed98",
+      "role": "member"
+    },
+    {
+      "area_id": "1993-3",
+      "legislative_period_id": "term/1993",
+      "on_behalf_of_id": "party/lp",
+      "organization_id": "legislature",
+      "person_id": "bdbe50f5-d487-48b2-8a85-920602fbed98",
+      "role": "member"
+    },
+    {
+      "area_id": "1995-3",
+      "legislative_period_id": "term/1995",
+      "on_behalf_of_id": "party/lp",
+      "organization_id": "legislature",
+      "person_id": "bdbe50f5-d487-48b2-8a85-920602fbed98",
+      "role": "member"
+    },
+    {
+      "area_id": "2000-3",
+      "legislative_period_id": "term/2000",
+      "on_behalf_of_id": "party/lp",
+      "organization_id": "legislature",
+      "person_id": "bdbe50f5-d487-48b2-8a85-920602fbed98",
+      "role": "member"
+    },
+    {
+      "area_id": "2004-3",
+      "legislative_period_id": "term/2004",
+      "on_behalf_of_id": "party/lp",
+      "organization_id": "legislature",
+      "person_id": "bdbe50f5-d487-48b2-8a85-920602fbed98",
+      "role": "member"
+    },
+    {
+      "area_id": "2010-3",
+      "legislative_period_id": "term/2010",
+      "on_behalf_of_id": "party/lp",
+      "organization_id": "legislature",
+      "person_id": "bdbe50f5-d487-48b2-8a85-920602fbed98",
       "role": "member"
     },
     {
@@ -1126,6 +1810,62 @@
   "events": [
     {
       "classification": "legislative period",
+      "end_date": "1989",
+      "id": "term/1984",
+      "name": "1st National Assembly",
+      "organization_id": "legislature",
+      "start_date": "1984"
+    },
+    {
+      "classification": "legislative period",
+      "end_date": "1993",
+      "id": "term/1989",
+      "name": "2nd National Assembly",
+      "organization_id": "legislature",
+      "start_date": "1989"
+    },
+    {
+      "classification": "legislative period",
+      "end_date": "1995",
+      "id": "term/1993",
+      "name": "3rd National Assembly",
+      "organization_id": "legislature",
+      "start_date": "1993"
+    },
+    {
+      "classification": "legislative period",
+      "end_date": "2000",
+      "id": "term/1995",
+      "name": "4th National Assembly",
+      "organization_id": "legislature",
+      "start_date": "1995"
+    },
+    {
+      "classification": "legislative period",
+      "end_date": "2004",
+      "id": "term/2000",
+      "name": "5th National Assembly",
+      "organization_id": "legislature",
+      "start_date": "2000"
+    },
+    {
+      "classification": "legislative period",
+      "end_date": "2010",
+      "id": "term/2004",
+      "name": "6th National Assembly",
+      "organization_id": "legislature",
+      "start_date": "2004"
+    },
+    {
+      "classification": "legislative period",
+      "end_date": "2015",
+      "id": "term/2010",
+      "name": "7th National Assembly",
+      "organization_id": "legislature",
+      "start_date": "2010"
+    },
+    {
+      "classification": "legislative period",
       "id": "term/2015",
       "name": "8th National Assembly",
       "organization_id": "legislature",
@@ -1133,6 +1873,386 @@
     }
   ],
   "areas": [
+    {
+      "id": "1984-1",
+      "name": "Basseterre East",
+      "type": "constituency"
+    },
+    {
+      "id": "1984-11",
+      "name": "St. Thomas's and St. James's",
+      "type": "constituency"
+    },
+    {
+      "id": "1984-2",
+      "name": "Basseterre Central",
+      "type": "constituency"
+    },
+    {
+      "id": "1984-3",
+      "name": "Basseterre West",
+      "type": "constituency"
+    },
+    {
+      "id": "1984-4",
+      "name": "Half Way Tree",
+      "type": "constituency"
+    },
+    {
+      "id": "1984-5",
+      "name": "St. Anne Parish",
+      "type": "constituency"
+    },
+    {
+      "id": "1984-6",
+      "name": "Newton Ground-Harris",
+      "type": "constituency"
+    },
+    {
+      "id": "1984-7",
+      "name": "Belle Vue-Ottley's",
+      "type": "constituency"
+    },
+    {
+      "id": "1984-8",
+      "name": "Ottley's-St. Peter's",
+      "type": "constituency"
+    },
+    {
+      "id": "1984-9",
+      "name": "St. John's and St. Paul's",
+      "type": "constituency"
+    },
+    {
+      "id": "1989-1",
+      "name": "Basseterre East",
+      "type": "constituency"
+    },
+    {
+      "id": "1989-10",
+      "name": "St. George's",
+      "type": "constituency"
+    },
+    {
+      "id": "1989-11",
+      "name": "St. Thomas's and St. James's",
+      "type": "constituency"
+    },
+    {
+      "id": "1989-2",
+      "name": "Basseterre Central",
+      "type": "constituency"
+    },
+    {
+      "id": "1989-3",
+      "name": "Basseterre West",
+      "type": "constituency"
+    },
+    {
+      "id": "1989-4",
+      "name": "Half Way Tree",
+      "type": "constituency"
+    },
+    {
+      "id": "1989-5",
+      "name": "St. Anne Parish",
+      "type": "constituency"
+    },
+    {
+      "id": "1989-6",
+      "name": "Newton Ground-Harris",
+      "type": "constituency"
+    },
+    {
+      "id": "1989-7",
+      "name": "Belle Vue-Ottley's",
+      "type": "constituency"
+    },
+    {
+      "id": "1989-8",
+      "name": "Ottley's-St. Peter's",
+      "type": "constituency"
+    },
+    {
+      "id": "1989-9",
+      "name": "St. John's and St. Paul's",
+      "type": "constituency"
+    },
+    {
+      "id": "1993-1",
+      "name": "Basseterre East",
+      "type": "constituency"
+    },
+    {
+      "id": "1993-10",
+      "name": "St. George's",
+      "type": "constituency"
+    },
+    {
+      "id": "1993-11",
+      "name": "St. Thomas's and St. James's",
+      "type": "constituency"
+    },
+    {
+      "id": "1993-2",
+      "name": "Basseterre Central",
+      "type": "constituency"
+    },
+    {
+      "id": "1993-3",
+      "name": "Basseterre West",
+      "type": "constituency"
+    },
+    {
+      "id": "1993-4",
+      "name": "Half Way Tree",
+      "type": "constituency"
+    },
+    {
+      "id": "1993-5",
+      "name": "St. Anne Parish",
+      "type": "constituency"
+    },
+    {
+      "id": "1993-6",
+      "name": "Newton Ground-Harris",
+      "type": "constituency"
+    },
+    {
+      "id": "1993-7",
+      "name": "Belle Vue-Ottley's",
+      "type": "constituency"
+    },
+    {
+      "id": "1993-8",
+      "name": "Ottley's-St. Peter's",
+      "type": "constituency"
+    },
+    {
+      "id": "1993-9",
+      "name": "St. John's and St. Paul's",
+      "type": "constituency"
+    },
+    {
+      "id": "1995-1",
+      "name": "Basseterre East",
+      "type": "constituency"
+    },
+    {
+      "id": "1995-10",
+      "name": "St. George's",
+      "type": "constituency"
+    },
+    {
+      "id": "1995-11",
+      "name": "St. Thomas's and St. James's",
+      "type": "constituency"
+    },
+    {
+      "id": "1995-2",
+      "name": "Basseterre Central",
+      "type": "constituency"
+    },
+    {
+      "id": "1995-3",
+      "name": "Basseterre West",
+      "type": "constituency"
+    },
+    {
+      "id": "1995-4",
+      "name": "Half Way Tree",
+      "type": "constituency"
+    },
+    {
+      "id": "1995-5",
+      "name": "St. Anne Parish",
+      "type": "constituency"
+    },
+    {
+      "id": "1995-6",
+      "name": "Newton Ground-Harris",
+      "type": "constituency"
+    },
+    {
+      "id": "1995-7",
+      "name": "Belle Vue-Ottley's",
+      "type": "constituency"
+    },
+    {
+      "id": "1995-8",
+      "name": "Ottley's-St. Peter's",
+      "type": "constituency"
+    },
+    {
+      "id": "1995-9",
+      "name": "St. John's and St. Paul's",
+      "type": "constituency"
+    },
+    {
+      "id": "2000-1",
+      "name": "Basseterre East",
+      "type": "constituency"
+    },
+    {
+      "id": "2000-10",
+      "name": "St. George's",
+      "type": "constituency"
+    },
+    {
+      "id": "2000-11",
+      "name": "St. Thomas's and St. James's",
+      "type": "constituency"
+    },
+    {
+      "id": "2000-2",
+      "name": "Basseterre Central",
+      "type": "constituency"
+    },
+    {
+      "id": "2000-3",
+      "name": "Basseterre West",
+      "type": "constituency"
+    },
+    {
+      "id": "2000-4",
+      "name": "Half Way Tree",
+      "type": "constituency"
+    },
+    {
+      "id": "2000-5",
+      "name": "St. Anne Parish",
+      "type": "constituency"
+    },
+    {
+      "id": "2000-6",
+      "name": "Newton Ground-Harris",
+      "type": "constituency"
+    },
+    {
+      "id": "2000-7",
+      "name": "Belle Vue-Ottley's",
+      "type": "constituency"
+    },
+    {
+      "id": "2000-8",
+      "name": "Ottley's-St. Peter's",
+      "type": "constituency"
+    },
+    {
+      "id": "2000-9",
+      "name": "St. John's and St. Paul's",
+      "type": "constituency"
+    },
+    {
+      "id": "2004-1",
+      "name": "Basseterre East",
+      "type": "constituency"
+    },
+    {
+      "id": "2004-10",
+      "name": "St. George's",
+      "type": "constituency"
+    },
+    {
+      "id": "2004-11",
+      "name": "St. Thomas's and St. James's",
+      "type": "constituency"
+    },
+    {
+      "id": "2004-2",
+      "name": "Basseterre Central",
+      "type": "constituency"
+    },
+    {
+      "id": "2004-3",
+      "name": "Basseterre West",
+      "type": "constituency"
+    },
+    {
+      "id": "2004-4",
+      "name": "Half Way Tree",
+      "type": "constituency"
+    },
+    {
+      "id": "2004-5",
+      "name": "St. Anne Parish",
+      "type": "constituency"
+    },
+    {
+      "id": "2004-6",
+      "name": "Newton Ground-Harris",
+      "type": "constituency"
+    },
+    {
+      "id": "2004-7",
+      "name": "Belle Vue-Ottley's",
+      "type": "constituency"
+    },
+    {
+      "id": "2004-8",
+      "name": "Ottley's-St. Peter's",
+      "type": "constituency"
+    },
+    {
+      "id": "2004-9",
+      "name": "St. John's and St. Paul's",
+      "type": "constituency"
+    },
+    {
+      "id": "2010-1",
+      "name": "Basseterre East",
+      "type": "constituency"
+    },
+    {
+      "id": "2010-10",
+      "name": "St. George's",
+      "type": "constituency"
+    },
+    {
+      "id": "2010-11",
+      "name": "St. Thomas's and St. James's",
+      "type": "constituency"
+    },
+    {
+      "id": "2010-2",
+      "name": "Basseterre Central",
+      "type": "constituency"
+    },
+    {
+      "id": "2010-3",
+      "name": "Basseterre West",
+      "type": "constituency"
+    },
+    {
+      "id": "2010-4",
+      "name": "Half Way Tree",
+      "type": "constituency"
+    },
+    {
+      "id": "2010-5",
+      "name": "St. Anne Parish",
+      "type": "constituency"
+    },
+    {
+      "id": "2010-6",
+      "name": "Newton Ground-Harris",
+      "type": "constituency"
+    },
+    {
+      "id": "2010-7",
+      "name": "Belle Vue-Ottley's",
+      "type": "constituency"
+    },
+    {
+      "id": "2010-8",
+      "name": "Ottley's-St. Peter's",
+      "type": "constituency"
+    },
+    {
+      "id": "2010-9",
+      "name": "St. John's and St. Paul's",
+      "type": "constituency"
+    },
     {
       "id": "2015-1",
       "name": "Basseterre East",
