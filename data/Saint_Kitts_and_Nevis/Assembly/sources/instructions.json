@@ -11,6 +11,21 @@
       "type": "membership"
     },
     {
+      "file": "morph/electionpassport.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/saint-kitts-and-nevis-electionpassort",
+        "query": "SELECT * FROM data WHERE election = '2015' ORDER BY id"
+      },
+      "source": "http://www.electionpassport.com/",
+      "type": "person",
+      "merge": {
+        "incoming_field": "name",
+        "existing_field": "name",
+        "reconciliation_file": "reconciliation/electionpassport.csv"
+      }
+    },
+    {
       "file": "morph/wikidata.csv",
       "create": {
         "type": "morph",
