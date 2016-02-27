@@ -25,6 +25,11 @@ namespace :transform do
   #---------------------------------------------------------------------
   task :write => :ensure_legislature
   task :ensure_legislature => :load do
+
+    # Clean out legislative memberships
+    @json[:memberships].delete_if { |m| m[:organization_id] == 'executive' }
+    @json[:organizations].delete_if { |h| h[:classification] == 'executive' }
+
     legis = @json[:organizations].find_all { |h| h[:classification] == 'legislature' }
     raise "Legislature count = #{legis.count}" unless legis.count == 1
     @legislature = legis.first
