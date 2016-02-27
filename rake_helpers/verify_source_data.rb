@@ -26,8 +26,8 @@ namespace :verify do
       r.to_hash.keys.select { |k| k.to_s.include? '_date' }.each do |d|
         next if r[d].nil? || r[d].empty?
         if r[d].match(/^\d{4}$/) or r[d].match(/^\d{4}-\d{2}$/)
-          warn_once.("Short #{d} in #{r}", [d, r[:uuid]])
-          #TODO: don't allow short dates?
+          # TODO make this warning configurable
+          # warn_once.("Short #{d} in #{r}", [d, r[:uuid]])
           next
         end
         abort "Badly formatted #{d} in #{r}" unless r[d].match /^\d{4}-\d{2}-\d{2}$/
