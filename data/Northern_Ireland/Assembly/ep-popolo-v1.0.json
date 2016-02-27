@@ -226,8 +226,30 @@
       ]
     },
     {
+      "birth_date": "1972-12-14",
+      "gender": "male",
+      "given_name": "Alistair",
       "id": "5cc69e53-fc55-4d21-8451-e56ad2020a00",
-      "name": "Alastair Patterson"
+      "identifiers": [
+        {
+          "identifier": "Q22956582",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Alastair_Patterson"
+        }
+      ],
+      "name": "Alastair Patterson",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Alastair Patterson",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1981-03-04",
