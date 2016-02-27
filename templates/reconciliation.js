@@ -232,7 +232,7 @@ jQuery(function($) {
         h1_name: incomingPerson[window.incomingField],
         comparison: null,
         fields: commonFields,
-        names: _.map(_.filter(incomingPersonFields, function(f) { return f.includes('name__') }), function(f) { return incomingPerson[f] })
+        names: _.uniq(_.map(_.filter(incomingPersonFields, function(f) { return f.includes('name__') }), function(f) { return incomingPerson[f] })).sort()
       })
     });
     $('.pairings').append(html);
