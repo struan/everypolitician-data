@@ -2,6 +2,7 @@ require 'sass'
 require_relative '../lib/wikidata_lookup'
 require_relative '../lib/matcher'
 require_relative '../lib/reconciliation'
+require_relative '../lib/fetcher'
 
 class String
   def tidy
@@ -25,14 +26,6 @@ namespace :merge_sources do
 
   CLEAN.include 'sources/merged.csv'
 
-  def morph_select(src, qs)
-    morph_api_key = ENV['MORPH_API_KEY'] or fail 'Need a Morph API key'
-    key = ERB::Util.url_encode(morph_api_key)
-    query = ERB::Util.url_encode(qs.gsub(/\s+/, ' ').strip)
-    url = "https://api.morph.io/#{src}/data.csv?key=#{key}&query=#{query}"
-    open(url).read
-  end
-
   def _should_refetch(file)
     return true unless File.exist?(file)
     return false unless ENV['REBUILD_SOURCE']
@@ -43,41 +36,20 @@ namespace :merge_sources do
     @recreatable.each do |i|
       if _should_refetch(i[:file])
         c = i[:create]
-        FileUtils.mkpath File.dirname i[:file]
-        warn "Regenerating #{i[:file]}"
         if c.key? :url
-          IO.copy_stream(open(c[:url]), i[:file])
+          Fetcher::URL.regenerate(i)
         elsif c[:type] == 'morph'
-          data = morph_select(c[:scraper], c[:query])
-          File.write(i[:file], data)
+          Fetcher::Morph.regenerate(i)
         elsif c[:type] == 'parlparse'
-          instructions = json_load("sources/#{c[:instructions]}")
-
-          gh_url = 'https://raw.githubusercontent.com/everypolitician/everypolitician-data/master/data/'
-          term_file_url = gh_url + '%s/sources/manual/terms.csv'
-          instructions_url = gh_url + '%s/sources/parlparse/instructions.json'
-          cwd = pwd.split("/").last(2).join("/")
-
-          args = {
-            terms_csv: term_file_url % cwd,
-            instructions_json: instructions_url % cwd,
-          }
-          remote = 'https://parlparse-to-csv.herokuapp.com/?' + URI.encode_www_form(args)
-          IO.copy_stream(open(remote), i[:file])
+          Fetcher::Parlparse.regenerate(i)
         elsif c[:type] == 'ocd'
-          remote = 'https://raw.githubusercontent.com/opencivicdata/ocd-division-ids/master/identifiers/' + c[:source]
-          IO.copy_stream(open(remote), i[:file])
+          Fetcher::OCD.regenerate(i)
         elsif c[:type] == 'group-wikidata'
-          mapping = csv_table("sources/#{c[:source]}")
-          group_wikidata = GroupLookup.new(mapping)
-          File.write(i[:file], JSON.pretty_generate(group_wikidata.to_hash))
+          Fetcher::Wikidata::Group.regenerate(i)
         elsif c[:type] == 'area-wikidata'
-          mapping = csv_table("sources/#{c[:source]}")
-          area_wikidata = WikidataLookup.new(mapping)
-          File.write(i[:file], JSON.pretty_generate(area_wikidata.to_hash))
+          Fetcher::Wikidata::Area.regenerate(i)
         elsif c[:type] == 'gender-balance'
-          api_url = "http://www.gender-balance.org/export/#{c[:source]}"
-          IO.copy_stream(open(api_url), i[:file])
+          Fetcher::GenderBalance.regenerate(i)
         else
           raise "Don't know how to fetch #{i[:file]}" unless c[:type] == 'morph'
         end
