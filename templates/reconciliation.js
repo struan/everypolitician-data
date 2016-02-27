@@ -231,7 +231,8 @@ jQuery(function($) {
         person: incomingPerson,
         h1_name: incomingPerson[window.incomingField],
         comparison: null,
-        fields: commonFields
+        fields: commonFields,
+        names: _.map(_.filter(incomingPersonFields, function(f) { return f.includes('name__') }), function(f) { return incomingPerson[f] })
       })
     });
     $('.pairings').append(html);
