@@ -15045,6 +15045,10 @@
         {
           "identifier": "131382",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q22919490",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.duma.gov.ru/upload/iblock/9a3/9a3cfc23fdfee5043180b9950a78170a.jpg",
@@ -15053,7 +15057,24 @@
           "url": "http://www.duma.gov.ru/upload/iblock/9a3/9a3cfc23fdfee5043180b9950a78170a.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Мархаев,_Вячеслав_Михайлович"
+        }
+      ],
       "name": "Мархаев Вячеслав Михайлович",
+      "other_names": [
+        {
+          "name": "Мархаев, Вячеслав Михайлович",
+          "note": "alternate"
+        },
+        {
+          "lang": "ru",
+          "name": "Мархаев, Вячеслав Михайлович",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.duma.gov.ru/structure/deputies/131382/"
@@ -19570,11 +19591,20 @@
       ]
     },
     {
+      "gender": "male",
       "id": "61ca3b3f-258d-49d0-ba46-83858382233d",
       "identifiers": [
         {
+          "identifier": "599",
+          "scheme": "declarator"
+        },
+        {
           "identifier": "131166",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q16691842",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.duma.gov.ru/upload/iblock/520/520b02a09ef7d2d52a6ef416d72f0ce4.jpg",
@@ -19583,7 +19613,33 @@
           "url": "http://www.duma.gov.ru/upload/iblock/520/520b02a09ef7d2d52a6ef416d72f0ce4.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Ремезков,_Александр_Александрович"
+        },
+        {
+          "note": "Wikipedia (ukwikiquote)",
+          "url": "https://ukwikiquote.wikipedia.org/wiki/Ремезков_Олександр_Олександрович"
+        }
+      ],
       "name": "Ремезков Александр Александрович",
+      "other_names": [
+        {
+          "name": "Ремезков, Александр Александрович",
+          "note": "alternate"
+        },
+        {
+          "lang": "ru",
+          "name": "Ремезков, Александр Александрович",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Ремезков Олександр Олександрович",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.duma.gov.ru/structure/deputies/131166/"
@@ -20346,11 +20402,23 @@
       ]
     },
     {
+      "birth_date": "1952-10-15",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "al_romanovich"
+        }
+      ],
+      "gender": "male",
       "id": "8fb6293c-82e6-42b9-861f-77fdea817d4f",
       "identifiers": [
         {
           "identifier": "131268",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q22246961",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.duma.gov.ru/upload/iblock/6be/6be889e0e8ee6fe562cb896a6c2f3b39.jpg",
@@ -20359,7 +20427,28 @@
           "url": "http://www.duma.gov.ru/upload/iblock/6be/6be889e0e8ee6fe562cb896a6c2f3b39.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Романович,_Александр_Леонидович"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/al_romanovich"
+        }
+      ],
       "name": "Романович Александр Леонидович",
+      "other_names": [
+        {
+          "name": "Романович, Александр Леонидович",
+          "note": "alternate"
+        },
+        {
+          "lang": "ru",
+          "name": "Романович, Александр Леонидович",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.duma.gov.ru/structure/deputies/131268/"
