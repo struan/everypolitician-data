@@ -2,6 +2,7 @@
   "persons": [
     {
       "gender": "male",
+      "given_name": "Abel",
       "id": "f925cefe-0809-4141-a14e-24708c51529b",
       "identifiers": [
         {
@@ -58,7 +59,7 @@
       ]
     },
     {
-      "birth_date": "1969-01-01",
+      "birth_date": "1969",
       "gender": "male",
       "id": "f45ecbb0-0038-451c-b390-1fe03270c4e4",
       "identifiers": [
@@ -117,6 +118,10 @@
         {
           "note": "Wikipedia (azwikiquote)",
           "url": "https://azwikiquote.wikipedia.org/wiki/Aqil_Abbas"
+        },
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Aqil_Abbas"
         },
         {
           "note": "Wikipedia (en)",
@@ -211,6 +216,12 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Arif_Alishanov_comm.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Arif_Alishanov_comm.jpg"
+        }
+      ],
       "links": [
         {
           "note": "Wikipedia (az)",
@@ -302,6 +313,7 @@
       ]
     },
     {
+      "birth_date": "1953",
       "gender": "male",
       "id": "adc38be9-f3d6-40d9-b9f2-ed10de511c5b",
       "identifiers": [
@@ -312,6 +324,12 @@
         {
           "identifier": "Q4300474",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Asim_Mollazadə_Polşa_Senatında.JPG",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Asim_Mollazadə_Polşa_Senatında.JPG"
         }
       ],
       "links": [
@@ -380,6 +398,7 @@
       ]
     },
     {
+      "birth_date": "1947",
       "id": "81f91fcc-91ad-4379-8dc7-3d31c2f61718",
       "identifiers": [
         {
@@ -533,6 +552,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "nl",
+          "name": "Aydin Abbasov",
+          "note": "multilingual"
+        },
+        {
           "lang": "ru",
           "name": "Аббасов, Айдын Аббас оглы",
           "note": "multilingual"
@@ -639,6 +663,7 @@
       ]
     },
     {
+      "birth_date": "1968",
       "id": "31ae9889-9ed1-4289-83f2-629010d40f79",
       "identifiers": [
         {
@@ -793,6 +818,12 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Ağacan_Abiyev_Polşa_Senatında.JPG",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Ağacan_Abiyev_Polşa_Senatında.JPG"
+        }
+      ],
       "links": [
         {
           "note": "Wikipedia (az)",
@@ -822,6 +853,7 @@
       ]
     },
     {
+      "birth_date": "1957-07-23",
       "id": "54af0021-26fb-4bf2-b6e1-ef454d9de494",
       "identifiers": [
         {
@@ -869,6 +901,10 @@
         {
           "note": "Wikipedia (az)",
           "url": "https://az.wikipedia.org/wiki/Bahar_Muradova"
+        },
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Bahar_Muradova"
         }
       ],
       "name": "Bahar Muradova",
@@ -987,6 +1023,7 @@
       ]
     },
     {
+      "birth_date": "1953",
       "id": "6f8fb2c7-95b0-4521-a175-bcdad7d125f3",
       "identifiers": [
         {
@@ -1089,7 +1126,9 @@
     },
     {
       "birth_date": "1928-06-30",
+      "death_date": "2016-01-31",
       "gender": "male",
+      "given_name": "Q4159754",
       "id": "31977145-9d24-4d6c-83d3-2a0b7d0f6189",
       "identifiers": [
         {
@@ -1097,8 +1136,20 @@
           "scheme": "everypolitician_legacy"
         },
         {
-          "identifier": "21098354",
-          "scheme": "viaf"
+          "identifier": "0000 0001 1468 8967",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "n84237076",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "000123940",
+          "scheme": "lnb"
+        },
+        {
+          "identifier": "n2005003918",
+          "scheme": "nukat"
         },
         {
           "identifier": "Q4062290",
@@ -1111,6 +1162,14 @@
           "url": "https://az.wikipedia.org/wiki/Cəlal_Əliyev"
         },
         {
+          "note": "Wikipedia (azwikibooks)",
+          "url": "https://azwikibooks.wikipedia.org/wiki/Cəlal_Əliyev/Biblioqrafiya"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Jalal_Aliyev"
+        },
+        {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Алиев,_Джалал_Алирза_оглы"
         }
@@ -1120,6 +1179,11 @@
         {
           "lang": "az",
           "name": "Cəlal Əliyev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Jalal Aliyev",
           "note": "multilingual"
         },
         {
@@ -1135,6 +1199,7 @@
       ]
     },
     {
+      "birth_date": "1951",
       "gender": "male",
       "id": "f6055ca3-0ea0-4560-a56a-f1253555e73c",
       "identifiers": [
@@ -1249,6 +1314,11 @@
           "lang": "it",
           "name": "Elman Məmmədov",
           "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Elman Mammadov",
+          "note": "multilingual"
         }
       ],
       "sources": [
@@ -1323,6 +1393,7 @@
       ]
     },
     {
+      "birth_date": "1940",
       "id": "3a019f50-5b18-4097-9d0b-376d2d45d143",
       "identifiers": [
         {
@@ -1387,6 +1458,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "d7956b7e-7019-4ac8-b42b-ccf4db4bd76d",
       "identifiers": [
         {
@@ -1424,6 +1496,7 @@
       ]
     },
     {
+      "birth_date": "1947",
       "gender": "female",
       "given_name": "Flora",
       "id": "1a0f1e55-cdd1-4680-aa47-815cd5d0ac0e",
@@ -1460,6 +1533,7 @@
     {
       "birth_date": "1979-07-22",
       "gender": "male",
+      "given_name": "Fuad",
       "id": "69a6633a-3afc-4313-b308-c362d5da1dd4",
       "identifiers": [
         {
@@ -1521,6 +1595,7 @@
       ]
     },
     {
+      "birth_date": "1952",
       "id": "607c7d40-f8d2-41eb-9d0d-5ce680e6f694",
       "identifiers": [
         {
@@ -1660,6 +1735,7 @@
       ]
     },
     {
+      "birth_date": "1951",
       "id": "76d5eec1-e453-4f40-9f50-45d8175505ab",
       "identifiers": [
         {
@@ -1724,6 +1800,7 @@
       ]
     },
     {
+      "birth_date": "1953-04-24",
       "id": "da3d7407-b2c8-483a-ba7d-37bbaa58be33",
       "identifiers": [
         {
@@ -1845,6 +1922,12 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/HaciSalayev.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/HaciSalayev.jpg"
+        }
+      ],
       "links": [
         {
           "note": "Wikipedia (az)",
@@ -1884,6 +1967,12 @@
         {
           "identifier": "Q12840198",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Hadi_Recebli.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Hadi_Recebli.jpg"
         }
       ],
       "links": [
@@ -1941,6 +2030,7 @@
       ]
     },
     {
+      "birth_date": "1945-06-25",
       "id": "a52329a1-3b7a-4c0e-ae6f-fb43903a6588",
       "identifiers": [
         {
@@ -1973,6 +2063,7 @@
       ]
     },
     {
+      "birth_date": "1966",
       "id": "27c19d9f-309d-4cf6-949d-8e3527cc9912",
       "identifiers": [
         {
@@ -1988,6 +2079,10 @@
         {
           "note": "Wikipedia (az)",
           "url": "https://az.wikipedia.org/wiki/Jalə_Əliyeva"
+        },
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Jalə_Əliyeva"
         }
       ],
       "name": "Jalə Əliyeva",
@@ -2257,7 +2352,7 @@
         },
         {
           "note": "Wikipedia (sv)",
-          "url": "https://sv.wikipedia.org/wiki/Mehriban_Alijeva"
+          "url": "https://sv.wikipedia.org/wiki/Mehriban_Əliyeva"
         },
         {
           "note": "Wikipedia (tr)",
@@ -2404,6 +2499,7 @@
       ]
     },
     {
+      "birth_date": "1946",
       "id": "6ad51d0b-85a4-4b9b-9fcb-d4cb94df46ca",
       "identifiers": [
         {
@@ -2452,6 +2548,10 @@
         {
           "note": "Wikipedia (az)",
           "url": "https://az.wikipedia.org/wiki/Musa_Qasımlı"
+        },
+        {
+          "note": "Wikipedia (azwikibooks)",
+          "url": "https://azwikibooks.wikipedia.org/wiki/Musa_Qasımlı/Biblioqrafiya"
         },
         {
           "note": "Wikipedia (commons)",
@@ -2514,6 +2614,7 @@
       ]
     },
     {
+      "birth_date": "1967",
       "id": "425e95cb-ed13-4526-ae8d-84b79e62e50f",
       "identifiers": [
         {
@@ -2581,7 +2682,7 @@
         },
         {
           "note": "Wikipedia (ru)",
-          "url": "https://ru.wikipedia.org/wiki/Мубариз_Гурбанлы"
+          "url": "https://ru.wikipedia.org/wiki/Гурбанлы,_Мубариз"
         }
       ],
       "name": "Mübariz Qurbanlı",
@@ -2651,6 +2752,9 @@
       ]
     },
     {
+      "birth_date": "1960",
+      "gender": "male",
+      "given_name": "Nazim",
       "id": "55607c40-e12a-4be2-b672-dda720cba9d6",
       "identifiers": [
         {
@@ -2673,6 +2777,11 @@
         {
           "lang": "az",
           "name": "Nazim Fərəcov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Nazim Faracov",
           "note": "multilingual"
         }
       ],
@@ -2929,6 +3038,7 @@
       ]
     },
     {
+      "birth_date": "1965-12-09",
       "id": "b4f0b9c5-c841-4866-8a38-c101d322d4c4",
       "identifiers": [
         {
@@ -3146,6 +3256,7 @@
       ]
     },
     {
+      "birth_date": "1945-09-26",
       "id": "e494400f-decf-4108-aea1-8cc501dbf626",
       "identifiers": [
         {
@@ -3230,6 +3341,11 @@
         },
         {
           "lang": "fr",
+          "name": "Rasim Musabayov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Rasim Musabayov",
           "note": "multilingual"
         },
@@ -3319,6 +3435,10 @@
         {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Абдуллаев,_Ровнаг_Ибрагим_оглы"
+        },
+        {
+          "note": "Wikipedia (tr)",
+          "url": "https://tr.wikipedia.org/wiki/Rövnag_Abdullayev"
         }
       ],
       "name": "Rövnəq Abdullayev",
@@ -3371,6 +3491,11 @@
         {
           "lang": "ru",
           "name": "Абдуллаев, Ровнаг Ибрагим оглы",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Rövnag Abdullayev",
           "note": "multilingual"
         }
       ],
@@ -3468,6 +3593,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "nl",
+          "name": "Rüfət Quliyev",
+          "note": "multilingual"
+        },
+        {
           "lang": "ru",
           "name": "Гулиев, Руфат Атакиши оглу",
           "note": "multilingual"
@@ -3523,6 +3653,12 @@
         {
           "identifier": "Q4071351",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Rabiyyat_Aslanova.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Rabiyyat_Aslanova.jpg"
         }
       ],
       "links": [
@@ -3601,6 +3737,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "237174",
+          "scheme": "fast"
+        },
+        {
           "identifier": "21261716",
           "scheme": "viaf"
         },
@@ -3648,6 +3788,11 @@
         },
         {
           "lang": "fr",
+          "name": "Sabir Rustamkhanli",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Sabir Rustamkhanli",
           "note": "multilingual"
         }
@@ -3900,6 +4045,7 @@
       ]
     },
     {
+      "birth_date": "1955",
       "id": "5dd49409-9a95-4c6d-9282-bbe58d857a53",
       "identifiers": [
         {
@@ -4236,6 +4382,7 @@
       ]
     },
     {
+      "birth_date": "1972-01-15",
       "id": "d2b513d5-3a51-4469-b806-0f8b608495a3",
       "identifiers": [
         {
@@ -4436,6 +4583,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "fr",
+          "name": "Zahid Oruc",
+          "note": "multilingual"
+        },
+        {
           "lang": "it",
           "name": "Zahid Oruc",
           "note": "multilingual"
@@ -4529,6 +4681,11 @@
         {
           "lang": "hy",
           "name": "Զեյնաբ Խանլարովա",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Zeynab Khanlarova",
           "note": "multilingual"
         },
         {
@@ -4663,6 +4820,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "af4e72c4-b41c-4798-b5d5-33263aea1e32",
       "identifiers": [
         {
@@ -4695,6 +4853,7 @@
       ]
     },
     {
+      "birth_date": "1960",
       "id": "1a5076ec-2e1a-414c-8394-eef4f994bcc1",
       "identifiers": [
         {
@@ -4919,6 +5078,7 @@
       ]
     },
     {
+      "birth_date": "1965",
       "id": "ddc9150d-d77b-45cd-9f8e-77198d25fba2",
       "identifiers": [
         {
@@ -5248,6 +5408,7 @@
       ]
     },
     {
+      "birth_date": "1968",
       "gender": "male",
       "id": "920786b3-5da7-42c8-a87c-32ba5098d0de",
       "identifiers": [
@@ -5406,7 +5567,7 @@
       ]
     },
     {
-      "birth_date": "1946-01-01",
+      "birth_date": "1946",
       "gender": "male",
       "id": "2235ce96-92cd-48eb-a015-ceb4b058c719",
       "identifiers": [
