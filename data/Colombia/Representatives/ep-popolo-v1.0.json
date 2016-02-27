@@ -119,11 +119,17 @@
         }
       ],
       "email": "alfredo.cuello@camara.gov.co",
+      "gender": "male",
+      "given_name": "Alfredo",
       "id": "4a1a06f1-04fb-4979-bb90-90af52e52544",
       "identifiers": [
         {
           "identifier": "272",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q20012993",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.co/portal2011/images/stories/representantes/Resized/CUELLO%20BAUTE%20ALFREDO%20APE_26x35.gif",
@@ -132,7 +138,34 @@
           "url": "http://www.camara.gov.co/portal2011/images/stories/representantes/Resized/CUELLO%20BAUTE%20ALFREDO%20APE_26x35.gif"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Alfredo_Cuello_Baute"
+        }
+      ],
       "name": "ALFREDO APE CUELLO BAUTE",
+      "other_names": [
+        {
+          "name": "Alfredo Ape Cuello",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Alfredo Ape Cuello",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Alfredo Ape Cuello",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Alfredo Ape Cuello",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.camara.gov.co/portal2011/representantes/honorables-representantes?option=com_representantes&view=representante&idrpr=272"
@@ -147,7 +180,7 @@
         },
         {
           "type": "twitter",
-          "value": "https://twitter.com/Unidosconmolina"
+          "value": "Unidosconmolina"
         }
       ],
       "email": "alfredo.molina@camara.gov.co",
@@ -168,6 +201,10 @@
         {
           "note": "facebook",
           "url": "https://www.facebook.com/molina101"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/Unidosconmolina"
         }
       ],
       "name": "ALFREDO GUILLERMO MOLINA TRIANA",
@@ -206,6 +243,7 @@
       ]
     },
     {
+      "birth_date": "1960-11-28",
       "contact_details": [
         {
           "type": "phone",
@@ -213,11 +251,16 @@
         }
       ],
       "email": "alirio.uribe.representante@gmail.com",
+      "gender": "male",
       "id": "0b33e711-dd18-40c2-a710-32c63b077ce7",
       "identifiers": [
         {
           "identifier": "215",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q20013005",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.co/portal2011/images/stories/representantes/",
@@ -226,7 +269,24 @@
           "url": "http://www.camara.gov.co/portal2011/images/stories/representantes/"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Alirio_Uribe_Muñoz"
+        }
+      ],
       "name": "ALIRIO URIBE MUÑOZ",
+      "other_names": [
+        {
+          "name": "Alirio Uribe Muñoz",
+          "note": "alternate"
+        },
+        {
+          "lang": "es",
+          "name": "Alirio Uribe Muñoz",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.camara.gov.co/portal2011/representantes/honorables-representantes?option=com_representantes&view=representante&idrpr=215"
@@ -346,6 +406,7 @@
       ]
     },
     {
+      "birth_date": "1983-05-08",
       "contact_details": [
         {
           "type": "phone",
@@ -353,11 +414,17 @@
         }
       ],
       "email": "ana.agudelo@camara.gov.co",
+      "gender": "female",
+      "given_name": "Ana",
       "id": "3015daa5-7a15-43cb-b02a-a2821c31c50f",
       "identifiers": [
         {
           "identifier": "216",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q17620958",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.co/portal2011/images/stories/representantes/Resized/AGUDELO%20GARCIA%20ANA%20PAOLA_26x35.gif",
@@ -366,7 +433,48 @@
           "url": "http://www.camara.gov.co/portal2011/images/stories/representantes/Resized/AGUDELO%20GARCIA%20ANA%20PAOLA_26x35.gif"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ana_Paola_Agudelo_García"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Ana_Paola_Agudelo"
+        }
+      ],
       "name": "ANA PAOLA AGUDELO GARCÍA",
+      "other_names": [
+        {
+          "name": "Ana Paola Agudelo",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Ana Paola Agudelo García",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Ana Paola Agudelo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Ana Paola Agudelo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Ana Paola Agudelo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Ana Paola Agudelo García",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.camara.gov.co/portal2011/representantes/honorables-representantes?option=com_representantes&view=representante&idrpr=216"
@@ -374,6 +482,7 @@
       ]
     },
     {
+      "birth_date": "1975-05-07",
       "contact_details": [
         {
           "type": "phone",
@@ -381,15 +490,21 @@
         },
         {
           "type": "twitter",
-          "value": "https://twitter.com/angelicalozanoc"
+          "value": "angelicalozanoc"
         }
       ],
       "email": "angelica.lozano@camara.gov.co",
+      "gender": "female",
+      "given_name": "Angélica",
       "id": "f354c673-3414-4e3a-8e04-3256d1ff1168",
       "identifiers": [
         {
           "identifier": "203",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q4764313",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.co/portal2011/images/stories/representantes/Resized/LOZANO%20CORREA%20ANGELICA%20LISBETH_26x35.gif",
@@ -400,11 +515,49 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Angélica_Lozano_Correa"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Angélica_Lozano_Correa"
+        },
+        {
           "note": "facebook",
           "url": "https://www.facebook.com/angelicalozanocorrea"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/angelicalozanoc"
         }
       ],
       "name": "ANGÉLICA LISBETH LOZANO CORREA",
+      "other_names": [
+        {
+          "name": "Angélica Lozano Correa",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Angélica Lozano Correa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Angélica Lozano Correa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Angélica Lozano Correa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Angélica Lozano Correa",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.camara.gov.co/portal2011/representantes/honorables-representantes?option=com_representantes&view=representante&idrpr=203"
@@ -531,11 +684,17 @@
         }
       ],
       "email": "arturo.yepes@camara.gov.co",
+      "gender": "male",
+      "given_name": "Arturo",
       "id": "d1f87404-459b-462e-bc73-319f9d7a73ac",
       "identifiers": [
         {
           "identifier": "240",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q20013201",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.co/portal2011/images/stories/representantes/",
@@ -544,7 +703,24 @@
           "url": "http://www.camara.gov.co/portal2011/images/stories/representantes/"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Arturo_Yepes"
+        }
+      ],
       "name": "ARTURO YÉPES ÁLZATE",
+      "other_names": [
+        {
+          "name": "Arturo Yepes",
+          "note": "alternate"
+        },
+        {
+          "lang": "es",
+          "name": "Arturo Yepes",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.camara.gov.co/portal2011/representantes/honorables-representantes?option=com_representantes&view=representante&idrpr=240"
@@ -626,6 +802,10 @@
         {
           "identifier": "33",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q20013453",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.co/portal2011/images/stories/representantes/ZAMBRANO%20ERAZO%20BERNER%20LEON.jpg",
@@ -634,7 +814,24 @@
           "url": "http://www.camara.gov.co/portal2011/images/stories/representantes/ZAMBRANO%20ERAZO%20BERNER%20LEON.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Berner_Zambrano"
+        }
+      ],
       "name": "BERNER LEÓN ZAMBRANO ERAZO",
+      "other_names": [
+        {
+          "name": "Berner Zambrano",
+          "note": "alternate"
+        },
+        {
+          "lang": "es",
+          "name": "Berner Zambrano",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.camara.gov.co/portal2011/representantes/honorables-representantes?option=com_representantes&view=representante&idrpr=33"
@@ -761,7 +958,7 @@
         },
         {
           "type": "twitter",
-          "value": "http://twitter.com/carlosacorream"
+          "value": "carlosacorream"
         }
       ],
       "email": "carlos.correa@camara.gov.co",
@@ -782,6 +979,10 @@
         {
           "note": "facebook",
           "url": "http://www.facebook.com/carlosacorrea"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/carlosacorream"
         }
       ],
       "name": "CARLOS ARTURO CORREA MOJICA",
@@ -792,6 +993,7 @@
       ]
     },
     {
+      "birth_date": "1977-01-29",
       "contact_details": [
         {
           "type": "phone",
@@ -799,11 +1001,17 @@
         }
       ],
       "email": "carlos.guevara@camara.gov.co",
+      "gender": "male",
+      "given_name": "Carlos",
       "id": "f1fb3d72-b478-423b-b70a-07ea24df4aea",
       "identifiers": [
         {
           "identifier": "285",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q17478067",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.co/portal2011/images/stories/representantes/",
@@ -812,7 +1020,43 @@
           "url": "http://www.camara.gov.co/portal2011/images/stories/representantes/"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Carlos_Eduardo_Guevara_Villabón"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Carlos_Eduardo_Guevara"
+        }
+      ],
       "name": "CARLOS EDUARDO GUEVARA VILLABON",
+      "other_names": [
+        {
+          "name": "Carlos Eduardo Guevara",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Carlos Eduardo Guevara Villabón",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Carlos Eduardo Guevara",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Carlos Eduardo Guevara",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Carlos Eduardo Guevara",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.camara.gov.co/portal2011/representantes/honorables-representantes?option=com_representantes&view=representante&idrpr=285"
@@ -820,6 +1064,7 @@
       ]
     },
     {
+      "birth_date": "1974-09",
       "contact_details": [
         {
           "type": "phone",
@@ -827,11 +1072,17 @@
         }
       ],
       "email": "carlos.osorio@camara.gov.co",
+      "gender": "male",
+      "given_name": "Carlos",
       "id": "3dd907b9-a4f6-43f6-91d0-b3542810f5c9",
       "identifiers": [
         {
           "identifier": "131",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q20013810",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.co/portal2011/images/stories/representantes/OSORIO%20AGUIAR%20CARLOS%20EDWARD.jpg",
@@ -840,7 +1091,30 @@
           "url": "http://www.camara.gov.co/portal2011/images/stories/representantes/OSORIO%20AGUIAR%20CARLOS%20EDWARD.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Carlos_Edward_Osorio_Aguiar"
+        }
+      ],
       "name": "CARLOS EDWARD OSORIO AGUIAR",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Carlos Edward Osorio Aguiar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Carlos Edward Osorio Aguiar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Carlos Edward Osorio Aguiar",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.camara.gov.co/portal2011/representantes/honorables-representantes?option=com_representantes&view=representante&idrpr=131"
@@ -855,11 +1129,17 @@
         }
       ],
       "email": "carlos.navas@camara.gov.co",
+      "gender": "male",
+      "given_name": "Germán",
       "id": "65ecab1c-9a09-4163-bf7d-61031a0aadaf",
       "identifiers": [
         {
           "identifier": "22",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q5878763",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.co/portal2011/images/stories/representantes/Resized/NAVAS%20TALERO%20CARLOS%20GERMAN.1_26x35.gif",
@@ -868,7 +1148,24 @@
           "url": "http://www.camara.gov.co/portal2011/images/stories/representantes/Resized/NAVAS%20TALERO%20CARLOS%20GERMAN.1_26x35.gif"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Germán_Navas_Talero"
+        }
+      ],
       "name": "CARLOS GERMAN NAVAS TALERO",
+      "other_names": [
+        {
+          "name": "Germán Navas Talero",
+          "note": "alternate"
+        },
+        {
+          "lang": "es",
+          "name": "Germán Navas Talero",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.camara.gov.co/portal2011/representantes/honorables-representantes?option=com_representantes&view=representante&idrpr=22"
@@ -1016,6 +1313,7 @@
       ]
     },
     {
+      "birth_date": "1964-12-20",
       "contact_details": [
         {
           "type": "phone",
@@ -1023,11 +1321,53 @@
         }
       ],
       "email": "clara.rojas@camara.gov.co",
+      "gender": "female",
+      "given_name": "Clara",
       "id": "bd2d6cd5-7b86-41b8-ae1b-c3210f651dec",
       "identifiers": [
         {
+          "identifier": "161430539",
+          "scheme": "bnf"
+        },
+        {
           "identifier": "172",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "1791351",
+          "scheme": "fast"
+        },
+        {
+          "identifier": "/m/03h1xq8",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "138092516",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "0000 0001 0922 7429",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "n2009032683",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "320746801",
+          "scheme": "nta"
+        },
+        {
+          "identifier": "138474656",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "88412840",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q257434",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.co/portal2011/images/stories/representantes/",
@@ -1036,7 +1376,167 @@
           "url": "http://www.camara.gov.co/portal2011/images/stories/representantes/"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Clara_Rojas"
+        },
+        {
+          "note": "Wikipedia (da)",
+          "url": "https://da.wikipedia.org/wiki/Clara_Rojas"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Clara_Rojas"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Clara_Rojas"
+        },
+        {
+          "note": "Wikipedia (eo)",
+          "url": "https://eo.wikipedia.org/wiki/Clara_Rojas"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Clara_Rojas"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Clara_Rojas"
+        },
+        {
+          "note": "Wikipedia (he)",
+          "url": "https://he.wikipedia.org/wiki/קלרה_רוחאס"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Clara_Rojas"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Clara_Rojas"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Clara_Rojas"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Clara_Rojas"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/克拉拉·罗哈斯"
+        }
+      ],
       "name": "CLARA LETICIA ROJAS GONZÁLEZ",
+      "other_names": [
+        {
+          "name": "Clara Rojas",
+          "note": "alternate"
+        },
+        {
+          "lang": "da",
+          "name": "Clara Rojas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Clara Rojas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Clara Rojas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Clara Rojas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Clara Rojas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Clara Rojas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "קלרה רוחאס",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Clara Rojas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Clara Rojas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Clara Rojas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Clara Rojas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Clara Rojas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Clara Rojas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "克拉拉·罗哈斯",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "克拉拉·罗哈斯",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hans",
+          "name": "克拉拉·罗哈斯",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "克拉拉·羅哈斯",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "克拉拉·羅哈斯",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-sg",
+          "name": "克拉拉·罗哈斯",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-tw",
+          "name": "克拉拉·羅哈斯",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.camara.gov.co/portal2011/representantes/honorables-representantes?option=com_representantes&view=representante&idrpr=172"
@@ -1100,6 +1600,7 @@
       ]
     },
     {
+      "birth_date": "1981-06-23",
       "contact_details": [
         {
           "type": "phone",
@@ -1107,11 +1608,17 @@
         }
       ],
       "email": "david.barguil@camara.gov.co",
+      "gender": "male",
+      "given_name": "David",
       "id": "b4eda83f-9919-4288-8499-8d2726a4833a",
       "identifiers": [
         {
           "identifier": "10",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q20014406",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.co/portal2011/images/stories/representantes/Resized/BARGUIL%20ASSIS%20DAVID%20ALEJANDRO_26x35.gif",
@@ -1120,7 +1627,29 @@
           "url": "http://www.camara.gov.co/portal2011/images/stories/representantes/Resized/BARGUIL%20ASSIS%20DAVID%20ALEJANDRO_26x35.gif"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/David_Barguil"
+        }
+      ],
       "name": "DAVID ALEJANDRO BARGUIL ASSIS",
+      "other_names": [
+        {
+          "name": "David Barguil",
+          "note": "alternate"
+        },
+        {
+          "lang": "es",
+          "name": "David Barguil",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "David Barguil",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.camara.gov.co/portal2011/representantes/honorables-representantes?option=com_representantes&view=representante&idrpr=10"
@@ -1135,11 +1664,16 @@
         }
       ],
       "email": "didier.burgos@camara.gov.co",
+      "gender": "male",
       "id": "2b6bd804-d2ec-4571-af32-c7e13b730070",
       "identifiers": [
         {
           "identifier": "79",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q20014566",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.co/portal2011/images/stories/representantes/Resized/Burgos%20Ramirez%20Didier_26x35.gif",
@@ -1148,7 +1682,24 @@
           "url": "http://www.camara.gov.co/portal2011/images/stories/representantes/Resized/Burgos%20Ramirez%20Didier_26x35.gif"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Didier_Burgos"
+        }
+      ],
       "name": "DIDIER BURGOS RAMÍREZ",
+      "other_names": [
+        {
+          "name": "Didier Burgos",
+          "note": "alternate"
+        },
+        {
+          "lang": "es",
+          "name": "Didier Burgos",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.camara.gov.co/portal2011/representantes/honorables-representantes?option=com_representantes&view=representante&idrpr=79"
@@ -1247,11 +1798,17 @@
         }
       ],
       "email": "edgar.gomez@camara.gov.co",
+      "gender": "male",
+      "given_name": "Édgar",
       "id": "0cadd277-2a74-49c8-90cf-d81d4d82702d",
       "identifiers": [
         {
           "identifier": "286",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q6174191",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.co/portal2011/images/stories/representantes/",
@@ -1260,7 +1817,24 @@
           "url": "http://www.camara.gov.co/portal2011/images/stories/representantes/"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Édgar_Gómez_Román"
+        }
+      ],
       "name": "EDGAR ALFONSO GÓMEZ ROMÁN",
+      "other_names": [
+        {
+          "name": "Édgar Gómez Román",
+          "note": "alternate"
+        },
+        {
+          "lang": "es",
+          "name": "Édgar Gómez Román",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.camara.gov.co/portal2011/representantes/honorables-representantes?option=com_representantes&view=representante&idrpr=286"
@@ -1324,6 +1898,7 @@
       ]
     },
     {
+      "birth_date": "1966-07-23",
       "contact_details": [
         {
           "type": "phone",
@@ -1331,11 +1906,17 @@
         }
       ],
       "email": "eduardo.crissien@camara.gov.co",
+      "gender": "male",
+      "given_name": "Eduardo",
       "id": "0d996291-7fa9-4fcf-9738-d1a04822b127",
       "identifiers": [
         {
           "identifier": "39",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q18590519",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.co/portal2011/images/stories/representantes/Resized/CRISSIEN%20BORRERO%20EDUARDO_26x35.gif",
@@ -1344,7 +1925,35 @@
           "url": "http://www.camara.gov.co/portal2011/images/stories/representantes/Resized/CRISSIEN%20BORRERO%20EDUARDO_26x35.gif"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Eduardo_Crissien_Borrero"
+        }
+      ],
       "name": "EDUARDO CRISSIEN BORRERO",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Eduardo Crissien Borrero",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Eduardo Crissien Borrero",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Eduardo Crissien Borrero",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Eduardo Crissien Borrero",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.camara.gov.co/portal2011/representantes/honorables-representantes?option=com_representantes&view=representante&idrpr=39"
@@ -1492,6 +2101,7 @@
       ]
     },
     {
+      "birth_date": "1953-09-23",
       "contact_details": [
         {
           "type": "phone",
@@ -1499,11 +2109,17 @@
         }
       ],
       "email": "eloy.quintero@camara.gov.co",
+      "gender": "male",
+      "given_name": "Eloy",
       "id": "e42564c0-8b8b-48b8-8e29-1747ab9a0892",
       "identifiers": [
         {
           "identifier": "269",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q20994977",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.co/portal2011/images/stories/representantes/",
@@ -1512,7 +2128,34 @@
           "url": "http://www.camara.gov.co/portal2011/images/stories/representantes/"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Eloy_Quintero_Romero"
+        }
+      ],
       "name": "ELOY CHICHI QUINTERO ROMERO",
+      "other_names": [
+        {
+          "name": "Eloy Quintero Romero",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Eloy Quintero Romero",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Eloy Quintero Romero",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Eloy Quintero Romero",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.camara.gov.co/portal2011/representantes/honorables-representantes?option=com_representantes&view=representante&idrpr=269"
@@ -1520,6 +2163,7 @@
       ]
     },
     {
+      "birth_date": "1952-08-29",
       "contact_details": [
         {
           "type": "phone",
@@ -1527,11 +2171,17 @@
         }
       ],
       "email": "maria.pinzon@camara.gov.co",
+      "gender": "female",
+      "given_name": "Esperanza",
       "id": "f612cb00-50fd-4f84-a2c1-91eb0c3781c8",
       "identifiers": [
         {
           "identifier": "295",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q19646922",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.co/portal2011/images/stories/representantes/",
@@ -1540,7 +2190,29 @@
           "url": "http://www.camara.gov.co/portal2011/images/stories/representantes/"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Esperanza_Pinzón"
+        }
+      ],
       "name": "ESPERANZA MARÍA DE LOS ÁNGELES PINZÓN DE JIMÉNEZ",
+      "other_names": [
+        {
+          "name": "Esperanza Pinzón",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Esperanza Pinzón",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Esperanza Pinzón",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.camara.gov.co/portal2011/representantes/honorables-representantes?option=com_representantes&view=representante&idrpr=295"
@@ -1576,6 +2248,7 @@
       ]
     },
     {
+      "birth_date": "1976",
       "contact_details": [
         {
           "type": "phone",
@@ -1583,11 +2256,17 @@
         }
       ],
       "email": "fabio.amin@camara.gov.co",
+      "gender": "male",
+      "given_name": "Fabio",
       "id": "7088079d-5911-40e1-93c6-245880dbd6c7",
       "identifiers": [
         {
           "identifier": "5",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q5854162",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.co/portal2011/images/stories/representantes/Resized/AMIN%20SALEME%20FABIO%20RAUL_26x35.gif",
@@ -1596,7 +2275,24 @@
           "url": "http://www.camara.gov.co/portal2011/images/stories/representantes/Resized/AMIN%20SALEME%20FABIO%20RAUL_26x35.gif"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Fabio_Amín"
+        }
+      ],
       "name": "FABIO RAÚL AMÍN SALEME",
+      "other_names": [
+        {
+          "name": "Fabio Amín",
+          "note": "alternate"
+        },
+        {
+          "lang": "es",
+          "name": "Fabio Amín",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.camara.gov.co/portal2011/representantes/honorables-representantes?option=com_representantes&view=representante&idrpr=5"
@@ -1639,11 +2335,17 @@
         }
       ],
       "email": "federico.hoyos@camara.gov.co",
+      "gender": "male",
+      "given_name": "Federico",
       "id": "13e728a3-9105-4a41-b163-e88de0d80c7f",
       "identifiers": [
         {
           "identifier": "212",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q17632145",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.co/portal2011/images/stories/representantes/",
@@ -1652,7 +2354,24 @@
           "url": "http://www.camara.gov.co/portal2011/images/stories/representantes/"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Federico_Hoyos"
+        }
+      ],
       "name": "FEDERICO EDUARDO HOYOS SALAZAR",
+      "other_names": [
+        {
+          "name": "Federico Hoyos",
+          "note": "alternate"
+        },
+        {
+          "lang": "es",
+          "name": "Federico Hoyos",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.camara.gov.co/portal2011/representantes/honorables-representantes?option=com_representantes&view=representante&idrpr=212"
@@ -1660,6 +2379,7 @@
       ]
     },
     {
+      "birth_date": "1956-04-19",
       "contact_details": [
         {
           "type": "phone",
@@ -1667,11 +2387,17 @@
         }
       ],
       "email": "fernando.delapena@camara.gov.co",
+      "gender": "male",
+      "given_name": "Fernando",
       "id": "767a406a-4383-49e2-b09e-19e05753761c",
       "identifiers": [
         {
           "identifier": "69",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q20994831",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.co/portal2011/images/stories/representantes/Resized/DE%20LA%20PENA%20MARQUEZ%20FERNANDO_26x35.gif",
@@ -1680,7 +2406,24 @@
           "url": "http://www.camara.gov.co/portal2011/images/stories/representantes/Resized/DE%20LA%20PENA%20MARQUEZ%20FERNANDO_26x35.gif"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Fernando_De_la_Peña"
+        }
+      ],
       "name": "FERNANDO DE LA PEÑA MARQUEZ",
+      "other_names": [
+        {
+          "name": "Fernando De la Peña",
+          "note": "alternate"
+        },
+        {
+          "lang": "es",
+          "name": "Fernando De la Peña",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.camara.gov.co/portal2011/representantes/honorables-representantes?option=com_representantes&view=representante&idrpr=69"
@@ -1806,11 +2549,16 @@
         }
       ],
       "email": "german.blanco@camara.gov.co",
+      "gender": "male",
       "id": "c744d989-08dd-49f3-ba51-81afbae25fa6",
       "identifiers": [
         {
           "identifier": "32",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q20015241",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.co/portal2011/images/stories/representantes/Resized/BLANCO%20ALVAREZ%20GERMAN%20ALCIDES_26x35.gif",
@@ -1819,7 +2567,24 @@
           "url": "http://www.camara.gov.co/portal2011/images/stories/representantes/Resized/BLANCO%20ALVAREZ%20GERMAN%20ALCIDES_26x35.gif"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Germán_Blanco_Álvarez"
+        }
+      ],
       "name": "GERMÁN ALCIDES BLANCO ALVAREZ",
+      "other_names": [
+        {
+          "name": "Germán Blanco Álvarez",
+          "note": "alternate"
+        },
+        {
+          "lang": "es",
+          "name": "Germán Blanco Álvarez",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.camara.gov.co/portal2011/representantes/honorables-representantes?option=com_representantes&view=representante&idrpr=32"
@@ -1834,11 +2599,17 @@
         }
       ],
       "email": "german.carlosama@camara.gov.co",
+      "gender": "male",
+      "given_name": "Germán",
       "id": "e5346df3-f990-4e7e-9dc8-82b895323d8a",
       "identifiers": [
         {
           "identifier": "300",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q5878635",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.co/portal2011/images/stories/representantes/Resized/CARLOSAMA%20LOPEZ%20GERMAN_26x35.gif",
@@ -1847,7 +2618,24 @@
           "url": "http://www.camara.gov.co/portal2011/images/stories/representantes/Resized/CARLOSAMA%20LOPEZ%20GERMAN_26x35.gif"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Germán_Carlosama"
+        }
+      ],
       "name": "GERMÁN BERNARDO CARLOSAMA LOPEZ",
+      "other_names": [
+        {
+          "name": "Germán Carlosama",
+          "note": "alternate"
+        },
+        {
+          "lang": "es",
+          "name": "Germán Carlosama",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.camara.gov.co/portal2011/representantes/honorables-representantes?option=com_representantes&view=representante&idrpr=300"
@@ -1882,6 +2670,7 @@
       ]
     },
     {
+      "birth_date": "1949-07-27",
       "contact_details": [
         {
           "type": "phone",
@@ -1889,11 +2678,16 @@
         }
       ],
       "email": "guillermina.bravo@camara.gov.co",
+      "gender": "female",
       "id": "1dcdb09f-c80c-452b-8d0e-043744840d1d",
       "identifiers": [
         {
           "identifier": "301",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q20015337",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.co/portal2011/images/stories/representantes/Resized/BRAVO%20MONTANO%20GUILLERMINA_26x35.gif",
@@ -1902,7 +2696,38 @@
           "url": "http://www.camara.gov.co/portal2011/images/stories/representantes/Resized/BRAVO%20MONTANO%20GUILLERMINA_26x35.gif"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Guillermina_Bravo_Montaño"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Guillermina_Bravo_Montaño"
+        }
+      ],
       "name": "GUILLERMINA BRAVO MONTAÑO",
+      "other_names": [
+        {
+          "name": "Guillermina Bravo Montaño",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Guillermina Bravo Montaño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Guillermina Bravo Montaño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Guillermina Bravo Montaño",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.camara.gov.co/portal2011/representantes/honorables-representantes?option=com_representantes&view=representante&idrpr=301"
@@ -1917,7 +2742,7 @@
         },
         {
           "type": "twitter",
-          "value": "https://twitter.com/HarryGonzalez"
+          "value": "HarryGonzalez"
         }
       ],
       "email": "harry.gonzalez@camara.gov.co",
@@ -1938,6 +2763,10 @@
         {
           "note": "facebook",
           "url": "https://es-la.facebook.com/harrycaqueta"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/HarryGonzalez"
         }
       ],
       "name": "HARRY GIOVANNY GONZÁLEZ GARCÍA",
@@ -2011,11 +2840,17 @@
         }
       ],
       "email": "hernan.penagos@camara.gov.co",
+      "gender": "male",
+      "given_name": "Hernán",
       "id": "20abf8c9-9c3d-4825-97dc-e03a90aa7fa7",
       "identifiers": [
         {
           "identifier": "105",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q20015401",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.co/portal2011/images/stories/representantes/Resized/PENAGOS%20GIRALDO%20HERNAN_26x35.gif",
@@ -2024,7 +2859,39 @@
           "url": "http://www.camara.gov.co/portal2011/images/stories/representantes/Resized/PENAGOS%20GIRALDO%20HERNAN_26x35.gif"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Hernán_Penagos"
+        }
+      ],
       "name": "HERNÁN PENAGOS GIRALDO",
+      "other_names": [
+        {
+          "name": "Hernán Penagos",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Hernán Penagos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Hernán Penagos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Hernán Penagos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Hernán Penagos",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.camara.gov.co/portal2011/representantes/honorables-representantes?option=com_representantes&view=representante&idrpr=105"
@@ -2116,6 +2983,7 @@
       ]
     },
     {
+      "birth_date": "1981-10-09",
       "contact_details": [
         {
           "type": "phone",
@@ -2123,11 +2991,16 @@
         }
       ],
       "email": "inti.asprilla@camara.gov.co",
+      "gender": "female",
       "id": "663b66b2-ad56-458d-8a95-63c42b302b59",
       "identifiers": [
         {
           "identifier": "246",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q20016901",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.co/portal2011/images/stories/representantes/Resized/ASPRILLA%20REYES%20INTI%20RAUL_26x35.gif",
@@ -2136,7 +3009,24 @@
           "url": "http://www.camara.gov.co/portal2011/images/stories/representantes/Resized/ASPRILLA%20REYES%20INTI%20RAUL_26x35.gif"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Inti_Asprilla"
+        }
+      ],
       "name": "INTI RAÚL ASPRILLA REYES",
+      "other_names": [
+        {
+          "name": "Inti Asprilla",
+          "note": "alternate"
+        },
+        {
+          "lang": "es",
+          "name": "Inti Asprilla",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.camara.gov.co/portal2011/representantes/honorables-representantes?option=com_representantes&view=representante&idrpr=246"
@@ -2179,11 +3069,17 @@
         }
       ],
       "email": "ivan.agudelo@camara.gov.co",
+      "gender": "male",
+      "given_name": "Iván",
       "id": "f69da670-d811-4a4f-aaf2-2f85f2e4ff6e",
       "identifiers": [
         {
           "identifier": "96",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q20016914",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.co/portal2011/images/stories/representantes/Resized/AGUDELO%20ZAPATA%20IVAN%20DARIO_26x35.gif",
@@ -2194,11 +3090,26 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Iván_Darío_Agudelo"
+        },
+        {
           "note": "facebook",
           "url": "http://www.facebook.com/people/Ivan-Dario-Agudelo-Zapata/629874673"
         }
       ],
       "name": "IVÁN DARIO AGUDELO ZAPATA",
+      "other_names": [
+        {
+          "name": "Iván Darío Agudelo",
+          "note": "alternate"
+        },
+        {
+          "lang": "es",
+          "name": "Iván Darío Agudelo",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.camara.gov.co/portal2011/representantes/honorables-representantes?option=com_representantes&view=representante&idrpr=96"
@@ -2269,11 +3180,17 @@
         }
       ],
       "email": "jaime.buenahora@camara.gov.co",
+      "gender": "male",
+      "given_name": "Jaime",
       "id": "ff65498e-abdb-4134-9231-d7caac975a3a",
       "identifiers": [
         {
           "identifier": "152",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q20016923",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.co/portal2011/images/stories/representantes/Resized/BUENAHORA%20FEBRES%20JAIME_26x35.gif",
@@ -2282,7 +3199,24 @@
           "url": "http://www.camara.gov.co/portal2011/images/stories/representantes/Resized/BUENAHORA%20FEBRES%20JAIME_26x35.gif"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Jaime_Buenahora"
+        }
+      ],
       "name": "JAIME BUENAHORA FEBRES",
+      "other_names": [
+        {
+          "name": "Jaime Buenahora",
+          "note": "alternate"
+        },
+        {
+          "lang": "es",
+          "name": "Jaime Buenahora",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.camara.gov.co/portal2011/representantes/honorables-representantes?option=com_representantes&view=representante&idrpr=152"
@@ -2464,11 +3398,17 @@
         }
       ],
       "email": "john.roldan@camara.gov.co",
+      "gender": "male",
+      "given_name": "John",
       "id": "341f5179-ba64-40b4-8e07-f75871b4f4c7",
       "identifiers": [
         {
           "identifier": "68",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q20016949",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.co/portal2011/images/stories/representantes/Resized/ROLDAN%20AVENDANO%20JOHN%20JAIRO.1_26x35.gif",
@@ -2477,7 +3417,24 @@
           "url": "http://www.camara.gov.co/portal2011/images/stories/representantes/Resized/ROLDAN%20AVENDANO%20JOHN%20JAIRO.1_26x35.gif"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Jhon_Jairo_Roldán"
+        }
+      ],
       "name": "JOHN JAIRO ROLDAN AVENDAÑO",
+      "other_names": [
+        {
+          "name": "John Jairo Roldán",
+          "note": "alternate"
+        },
+        {
+          "lang": "es",
+          "name": "John Jairo Roldán",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.camara.gov.co/portal2011/representantes/honorables-representantes?option=com_representantes&view=representante&idrpr=68"
@@ -2687,11 +3644,17 @@
         }
       ],
       "email": "jose.mesa@camara.gov.co",
+      "gender": "male",
+      "given_name": "José",
       "id": "9ba227c9-5790-4b8c-9981-a5d83165f2bc",
       "identifiers": [
         {
           "identifier": "137",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q20016971",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.co/portal2011/images/stories/representantes/Resized/MESA%20BETANCUR%20JOSE%20IGNACIO_26x35.gif",
@@ -2700,7 +3663,24 @@
           "url": "http://www.camara.gov.co/portal2011/images/stories/representantes/Resized/MESA%20BETANCUR%20JOSE%20IGNACIO_26x35.gif"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/José_Ignacio_Mesa"
+        }
+      ],
       "name": "JOSÉ IGNACIO MESA BETANCUR",
+      "other_names": [
+        {
+          "name": "José Ignacio Mesa",
+          "note": "alternate"
+        },
+        {
+          "lang": "es",
+          "name": "José Ignacio Mesa",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.camara.gov.co/portal2011/representantes/honorables-representantes?option=com_representantes&view=representante&idrpr=137"
@@ -2855,11 +3835,17 @@
         }
       ],
       "email": "juan.lemos@camara.gov.co",
+      "gender": "male",
+      "given_name": "Juan",
       "id": "d29aac40-760c-490f-819e-58167b434b17",
       "identifiers": [
         {
           "identifier": "99",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q20016994",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.co/portal2011/images/stories/representantes/Resized/LEMOS%20URIBE%20JUAN%20FELIPE_26x35.gif",
@@ -2868,7 +3854,24 @@
           "url": "http://www.camara.gov.co/portal2011/images/stories/representantes/Resized/LEMOS%20URIBE%20JUAN%20FELIPE_26x35.gif"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Juan_Felipe_Lemos"
+        }
+      ],
       "name": "JUAN FELIPE LEMOS URIBE",
+      "other_names": [
+        {
+          "name": "Juan Felipe Lemos",
+          "note": "alternate"
+        },
+        {
+          "lang": "es",
+          "name": "Juan Felipe Lemos",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.camara.gov.co/portal2011/representantes/honorables-representantes?option=com_representantes&view=representante&idrpr=99"
@@ -2911,11 +3914,17 @@
         }
       ],
       "email": "julian.bedoya@camara.gov.co",
+      "gender": "male",
+      "given_name": "Julián",
       "id": "678959ce-2e3c-4469-80bb-7e3f3bdea1a4",
       "identifiers": [
         {
           "identifier": "192",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q20017013",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.co/portal2011/images/stories/representantes/Resized/BEDOYA%20PULGARIN%20JULIAN_26x35.gif",
@@ -2924,7 +3933,24 @@
           "url": "http://www.camara.gov.co/portal2011/images/stories/representantes/Resized/BEDOYA%20PULGARIN%20JULIAN_26x35.gif"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Julián_Bedoya"
+        }
+      ],
       "name": "JULIÁN BEDOYA PULGARIN",
+      "other_names": [
+        {
+          "name": "Julián Bedoya",
+          "note": "alternate"
+        },
+        {
+          "lang": "es",
+          "name": "Julián Bedoya",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.camara.gov.co/portal2011/representantes/honorables-representantes?option=com_representantes&view=representante&idrpr=192"
@@ -3023,11 +4049,16 @@
         }
       ],
       "email": "leondario.ramirez@camara.gov.co",
+      "gender": "male",
       "id": "b75e6915-a16f-4209-98b8-dd717567a0b1",
       "identifiers": [
         {
           "identifier": "80",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q20017105",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.co/portal2011/images/stories/representantes/Resized/RAMIREZ%20VALENCIA%20LEON%20DARIO.1_26x35.gif",
@@ -3036,7 +4067,24 @@
           "url": "http://www.camara.gov.co/portal2011/images/stories/representantes/Resized/RAMIREZ%20VALENCIA%20LEON%20DARIO.1_26x35.gif"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/León_Darío_Ramírez"
+        }
+      ],
       "name": "LEÓN DARÍO RAMÍREZ VALENCIA",
+      "other_names": [
+        {
+          "name": "León Darío Ramírez",
+          "note": "alternate"
+        },
+        {
+          "lang": "es",
+          "name": "León Darío Ramírez",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.camara.gov.co/portal2011/representantes/honorables-representantes?option=com_representantes&view=representante&idrpr=80"
@@ -3051,11 +4099,17 @@
         }
       ],
       "email": "lina.barrera@camara.gov.co",
+      "gender": "female",
+      "given_name": "Lina",
       "id": "a2d432aa-3a26-42a6-aaa6-d7a24df41066",
       "identifiers": [
         {
           "identifier": "52",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q20017110",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.co/portal2011/images/stories/representantes/Resized/BARRERA%20RUEDA%20LINA%20MARIA_26x35.gif",
@@ -3064,7 +4118,29 @@
           "url": "http://www.camara.gov.co/portal2011/images/stories/representantes/Resized/BARRERA%20RUEDA%20LINA%20MARIA_26x35.gif"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Lina_Barrera_Rueda"
+        }
+      ],
       "name": "LINA MARÍA BARRERA RUEDA",
+      "other_names": [
+        {
+          "name": "Lina Barrera Rueda",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Lina Barrera Rueda",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Lina Barrera Rueda",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.camara.gov.co/portal2011/representantes/honorables-representantes?option=com_representantes&view=representante&idrpr=52"
@@ -3156,6 +4232,7 @@
       ]
     },
     {
+      "birth_date": "1969-11-06",
       "contact_details": [
         {
           "type": "phone",
@@ -3163,11 +4240,17 @@
         }
       ],
       "email": "luis.gallon@camara.gov.co",
+      "gender": "male",
+      "given_name": "Horacio",
       "id": "4553a5c6-406a-4409-bf2b-12a47abd8758",
       "identifiers": [
         {
           "identifier": "261",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q17478041",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.co/portal2011/images/stories/representantes/",
@@ -3176,7 +4259,24 @@
           "url": "http://www.camara.gov.co/portal2011/images/stories/representantes/"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Horacio_Gallón_Arango"
+        }
+      ],
       "name": "LUIS HORACIO GALLON ARANGO",
+      "other_names": [
+        {
+          "name": "Horacio Gallón Arango",
+          "note": "alternate"
+        },
+        {
+          "lang": "es",
+          "name": "Horacio Gallón Arango",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.camara.gov.co/portal2011/representantes/honorables-representantes?option=com_representantes&view=representante&idrpr=261"
@@ -3247,11 +4347,17 @@
         }
       ],
       "email": "margarita.restrepo@camara.gov.co",
+      "gender": "female",
+      "given_name": "Margarita",
       "id": "a7d45be5-5a8d-43e2-ab93-4e3d59086994",
       "identifiers": [
         {
           "identifier": "297",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q20017173",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.co/portal2011/images/stories/representantes/",
@@ -3260,7 +4366,29 @@
           "url": "http://www.camara.gov.co/portal2011/images/stories/representantes/"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Margarita_Restrepo"
+        }
+      ],
       "name": "MARGARITA MARÍA RESTREPO ARANGO",
+      "other_names": [
+        {
+          "name": "Margarita Restrepo",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Margarita Restrepo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Margarita Restrepo",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.camara.gov.co/portal2011/representantes/honorables-representantes?option=com_representantes&view=representante&idrpr=297"
@@ -3324,6 +4452,7 @@
       ]
     },
     {
+      "birth_date": "1966-12-05",
       "contact_details": [
         {
           "type": "phone",
@@ -3331,11 +4460,17 @@
         }
       ],
       "email": "martha.villalba@camara.gov.co",
+      "gender": "female",
+      "given_name": "Martha",
       "id": "f1fcf298-e0cf-4f47-961f-0ba2837dc910",
       "identifiers": [
         {
           "identifier": "271",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q18224207",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.co/portal2011/images/stories/representantes/",
@@ -3344,7 +4479,34 @@
           "url": "http://www.camara.gov.co/portal2011/images/stories/representantes/"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Martha_Villalba_Hodwalker"
+        }
+      ],
       "name": "MARTHA PATRICIA VILLALBA HOLWALKER",
+      "other_names": [
+        {
+          "name": "Martha Villalba Hodwalker",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Martha Villalba Hodwalker",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Martha Villalba Hodwalker",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Martha Villalba Hodwalker",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.camara.gov.co/portal2011/representantes/honorables-representantes?option=com_representantes&view=representante&idrpr=271"
@@ -3380,6 +4542,7 @@
       ]
     },
     {
+      "birth_date": "1964",
       "contact_details": [
         {
           "type": "phone",
@@ -3387,11 +4550,17 @@
         }
       ],
       "email": "maria.cabal@camara.gov.co",
+      "gender": "female",
+      "given_name": "María",
       "id": "aa13a5d7-2ad0-40dc-b6a4-de1721a30214",
       "identifiers": [
         {
           "identifier": "197",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q17477937",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.co/portal2011/images/stories/representantes/Resized/CABAL%20MOLINA%20MARIA%20FERNANDA_26x35.gif",
@@ -3400,7 +4569,34 @@
           "url": "http://www.camara.gov.co/portal2011/images/stories/representantes/Resized/CABAL%20MOLINA%20MARIA%20FERNANDA_26x35.gif"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/María_Fernanda_Cabal"
+        }
+      ],
       "name": "MARÍA FERNANDA CABAL MOLINA",
+      "other_names": [
+        {
+          "name": "María Fernanda Cabal",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "María Fernanda Cabal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "María Fernanda Cabal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "María Fernanda Cabal",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.camara.gov.co/portal2011/representantes/honorables-representantes?option=com_representantes&view=representante&idrpr=197"
@@ -3415,11 +4611,16 @@
         }
       ],
       "email": "maria.zuluaga@camara.gov.co",
+      "gender": "female",
       "id": "85139be9-be18-4fd0-9802-b73592c4b47e",
       "identifiers": [
         {
           "identifier": "265",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q20018258",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.co/portal2011/images/stories/representantes/",
@@ -3428,7 +4629,24 @@
           "url": "http://www.camara.gov.co/portal2011/images/stories/representantes/"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Regina_Zuluaga"
+        }
+      ],
       "name": "MARÍA REGINA ZULUAGA HENAO",
+      "other_names": [
+        {
+          "name": "Regina Zuluaga",
+          "note": "alternate"
+        },
+        {
+          "lang": "es",
+          "name": "Regina Zuluaga",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.camara.gov.co/portal2011/representantes/honorables-representantes?option=com_representantes&view=representante&idrpr=265"
@@ -3471,11 +4689,17 @@
         }
       ],
       "email": "mauricio.salazar@camara.gov.co",
+      "gender": "male",
+      "given_name": "Mauricio",
       "id": "299f0185-c852-4ea7-8947-c6bf88039e3b",
       "identifiers": [
         {
           "identifier": "293",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q20017210",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.co/portal2011/images/stories/representantes/",
@@ -3484,7 +4708,24 @@
           "url": "http://www.camara.gov.co/portal2011/images/stories/representantes/"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Mauricio_Salazar_Peláez"
+        }
+      ],
       "name": "MAURICIO SALAZAR PELÁEZ",
+      "other_names": [
+        {
+          "name": "Mauricio Salazar Peláez",
+          "note": "alternate"
+        },
+        {
+          "lang": "es",
+          "name": "Mauricio Salazar Peláez",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.camara.gov.co/portal2011/representantes/honorables-representantes?option=com_representantes&view=representante&idrpr=293"
@@ -3576,11 +4817,17 @@
         }
       ],
       "email": "nancy.castillo@camara.gov.co",
+      "gender": "female",
+      "given_name": "Nancy",
       "id": "c45eb0cc-2560-4696-97d5-021d59131620",
       "identifiers": [
         {
           "identifier": "45",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q6037689",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.co/portal2011/images/stories/representantes/Resized/CASTILLO%20GARCIA%20NANCY%20DENISE_26x35.gif",
@@ -3589,7 +4836,24 @@
           "url": "http://www.camara.gov.co/portal2011/images/stories/representantes/Resized/CASTILLO%20GARCIA%20NANCY%20DENISE_26x35.gif"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Nancy_Castillo"
+        }
+      ],
       "name": "NANCY DENISE CASTILLO GARCÍA",
+      "other_names": [
+        {
+          "name": "Nancy Denise Castillo García",
+          "note": "alternate"
+        },
+        {
+          "lang": "es",
+          "name": "Nancy Denise Castillo García",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.camara.gov.co/portal2011/representantes/honorables-representantes?option=com_representantes&view=representante&idrpr=45"
@@ -3660,11 +4924,17 @@
         }
       ],
       "email": "nicolas.echeverry@camara.gov.co",
+      "gender": "male",
+      "given_name": "Nicolás",
       "id": "7802ec07-82ec-4cf9-a49e-b091122fc6aa",
       "identifiers": [
         {
           "identifier": "241",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q20017285",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.co/portal2011/images/stories/representantes/",
@@ -3673,7 +4943,24 @@
           "url": "http://www.camara.gov.co/portal2011/images/stories/representantes/"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Nicolás_Echeverry"
+        }
+      ],
       "name": "NICOLAS ALBEIRO ECHEVERRY ALVARAN",
+      "other_names": [
+        {
+          "name": "Nicolás Echeverry",
+          "note": "alternate"
+        },
+        {
+          "lang": "es",
+          "name": "Nicolás Echeverry",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.camara.gov.co/portal2011/representantes/honorables-representantes?option=com_representantes&view=representante&idrpr=241"
@@ -3856,11 +5143,17 @@
         }
       ],
       "email": "oscardario.perez@camara.gov.co",
+      "gender": "male",
+      "given_name": "Oscar",
       "id": "8f359b52-e35d-4d10-8a8b-746ef45016e6",
       "identifiers": [
         {
           "identifier": "227",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q6053824",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.co/portal2011/images/stories/representantes/",
@@ -3869,7 +5162,39 @@
           "url": "http://www.camara.gov.co/portal2011/images/stories/representantes/"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Oscar_Darío_Pérez"
+        }
+      ],
       "name": "OSCAR DARÍO PÉREZ PINEDA",
+      "other_names": [
+        {
+          "name": "Oscar Darío Pérez",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Oscar Darío Pérez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Oscar Darío Pérez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Oscar Darío Pérez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Oscar Darío Pérez",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.camara.gov.co/portal2011/representantes/honorables-representantes?option=com_representantes&view=representante&idrpr=227"
@@ -3884,11 +5209,17 @@
         }
       ],
       "email": "oscar.hurtadoperez@camara.gov.co",
+      "gender": "male",
+      "given_name": "Óscar",
       "id": "4d3b9b48-0bed-4751-8470-0c4f21b99167",
       "identifiers": [
         {
           "identifier": "288",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q20022297",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.co/portal2011/images/stories/representantes/",
@@ -3897,7 +5228,24 @@
           "url": "http://www.camara.gov.co/portal2011/images/stories/representantes/"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Óscar_de_Jesús_Hurtado"
+        }
+      ],
       "name": "OSCAR DE HURTADO PÉREZ",
+      "other_names": [
+        {
+          "name": "Óscar de Jesús Hurtado",
+          "note": "alternate"
+        },
+        {
+          "lang": "es",
+          "name": "Óscar de Jesús Hurtado",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.camara.gov.co/portal2011/representantes/honorables-representantes?option=com_representantes&view=representante&idrpr=288"
@@ -4052,11 +5400,17 @@
         }
       ],
       "email": "pierre.garcia@camara.gov.co",
+      "gender": "male",
+      "given_name": "Pierre",
       "id": "73b040e6-8080-4b5e-b125-9c9372a4a1ea",
       "identifiers": [
         {
           "identifier": "224",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q17625094",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.co/portal2011/images/stories/representantes/Resized/GARCIA%20JACQUIER%20PIERRE%20EUGENIO_26x35.gif",
@@ -4065,7 +5419,39 @@
           "url": "http://www.camara.gov.co/portal2011/images/stories/representantes/Resized/GARCIA%20JACQUIER%20PIERRE%20EUGENIO_26x35.gif"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Pierre_García"
+        }
+      ],
       "name": "PIERRE EUGENIO GARCÍA JACQUIER",
+      "other_names": [
+        {
+          "name": "Pierre García",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Pierre García",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Pierre García",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Pierre García",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Pierre García",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.camara.gov.co/portal2011/representantes/honorables-representantes?option=com_representantes&view=representante&idrpr=224"
@@ -4191,6 +5577,7 @@
       ]
     },
     {
+      "birth_date": "1975-05-12",
       "contact_details": [
         {
           "type": "phone",
@@ -4198,11 +5585,17 @@
         }
       ],
       "email": "rodrigo.lara@camara.gov.co",
+      "gender": "male",
+      "given_name": "Rodrigo",
       "id": "fccfce15-d390-43b8-8c2b-caa6cc35f296",
       "identifiers": [
         {
           "identifier": "202",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q6110723",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.co/portal2011/images/stories/representantes/",
@@ -4211,7 +5604,40 @@
           "url": "http://www.camara.gov.co/portal2011/images/stories/representantes/"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Rodrigo_Lara_Restrepo"
+        }
+      ],
       "name": "RODRIGO LARA RESTREPO",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Rodrigo Lara Restrepo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Rodrigo Lara Restrepo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Rodrigo Lara Restrepo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Rodrigo Lara Restrepo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Rodrigo Lara Restrepo",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.camara.gov.co/portal2011/representantes/honorables-representantes?option=com_representantes&view=representante&idrpr=202"
@@ -4254,11 +5680,17 @@
         }
       ],
       "email": "samuel.hoyos@camara.gov.co",
+      "gender": "male",
+      "given_name": "Samuel",
       "id": "74f0ca7a-87e8-4b2f-8dc3-fdc636902e77",
       "identifiers": [
         {
           "identifier": "201",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q19646794",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.co/portal2011/images/stories/representantes/",
@@ -4267,7 +5699,29 @@
           "url": "http://www.camara.gov.co/portal2011/images/stories/representantes/"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Samuel_Hoyos"
+        }
+      ],
       "name": "SAMUEL ALEJANDRO HOYOS MEJÍA",
+      "other_names": [
+        {
+          "name": "Samuel Hoyos",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Samuel Hoyos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Samuel Hoyos",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.camara.gov.co/portal2011/representantes/honorables-representantes?option=com_representantes&view=representante&idrpr=201"
@@ -4287,6 +5741,10 @@
         {
           "identifier": "184",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q20018304",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.co/portal2011/images/stories/representantes/Resized/ORTIZ%20NOVA%20SANDRA%20LILIANA_26x35.gif",
@@ -4295,7 +5753,24 @@
           "url": "http://www.camara.gov.co/portal2011/images/stories/representantes/Resized/ORTIZ%20NOVA%20SANDRA%20LILIANA_26x35.gif"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Sandra_Ortiz"
+        }
+      ],
       "name": "SANDRA LILIANA ORTIZ NOVA",
+      "other_names": [
+        {
+          "name": "Sandra Ortiz",
+          "note": "alternate"
+        },
+        {
+          "lang": "es",
+          "name": "Sandra Ortiz",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.camara.gov.co/portal2011/representantes/honorables-representantes?option=com_representantes&view=representante&idrpr=184"
@@ -4310,11 +5785,17 @@
         }
       ],
       "email": "santiago.valencia@camara.gov.co",
+      "gender": "male",
+      "given_name": "Santiago",
       "id": "658f971d-9b10-465f-b482-b65ea7b97400",
       "identifiers": [
         {
           "identifier": "195",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q20018306",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.co/portal2011/images/stories/representantes/",
@@ -4323,7 +5804,24 @@
           "url": "http://www.camara.gov.co/portal2011/images/stories/representantes/"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Santiago_Valencia"
+        }
+      ],
       "name": "SANTIAGO VALENCIA GONZÁLEZ",
+      "other_names": [
+        {
+          "name": "Santiago Valencia",
+          "note": "alternate"
+        },
+        {
+          "lang": "es",
+          "name": "Santiago Valencia",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.camara.gov.co/portal2011/representantes/honorables-representantes?option=com_representantes&view=representante&idrpr=195"
@@ -4338,11 +5836,17 @@
         }
       ],
       "email": "sara.piedrahita@camara.gov.co",
+      "gender": "female",
+      "given_name": "Sara",
       "id": "683b82f1-7da2-478f-98ac-7badac553b17",
       "identifiers": [
         {
           "identifier": "221",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q20018309",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.co/portal2011/images/stories/representantes/",
@@ -4351,7 +5855,29 @@
           "url": "http://www.camara.gov.co/portal2011/images/stories/representantes/"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Sara_Piedrahita_Lyons"
+        }
+      ],
       "name": "SARA ELENA PIEDRAHITA LYONS",
+      "other_names": [
+        {
+          "name": "Sara Piedrahita Lyons",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Sara Piedrahita Lyons",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Sara Piedrahita Lyons",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.camara.gov.co/portal2011/representantes/honorables-representantes?option=com_representantes&view=representante&idrpr=221"
@@ -4387,6 +5913,7 @@
       ]
     },
     {
+      "birth_date": "1977-05-05",
       "contact_details": [
         {
           "type": "phone",
@@ -4394,11 +5921,17 @@
         }
       ],
       "email": "tatiana.cabello@camara.gov.co",
+      "gender": "female",
+      "given_name": "Tatiana",
       "id": "bbec1170-2ab3-49f5-9f27-6c36e7857019",
       "identifiers": [
         {
           "identifier": "211",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q17631051",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.co/portal2011/images/stories/representantes/Resized/CABELLO%20FLOREZ%20TATIANA_26x35.gif",
@@ -4407,7 +5940,24 @@
           "url": "http://www.camara.gov.co/portal2011/images/stories/representantes/Resized/CABELLO%20FLOREZ%20TATIANA_26x35.gif"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Tatiana_Cabello_Flórez"
+        }
+      ],
       "name": "TATIANA CABELLO FLORÉZ",
+      "other_names": [
+        {
+          "name": "Tatiana Cabello Flórez",
+          "note": "alternate"
+        },
+        {
+          "lang": "es",
+          "name": "Tatiana Cabello Flórez",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.camara.gov.co/portal2011/representantes/honorables-representantes?option=com_representantes&view=representante&idrpr=211"
@@ -4422,11 +5972,16 @@
         }
       ],
       "email": "telesforo.pedraza@camara.gov.co",
+      "gender": "male",
       "id": "6103d8dc-fc09-45ba-97d0-1b95c4eaf9d0",
       "identifiers": [
         {
           "identifier": "123",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q20022289",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.co/portal2011/images/stories/representantes/Resized/PEDRAZA%20ORTEGA%20TELESFORO.1_26x35.gif",
@@ -4435,7 +5990,24 @@
           "url": "http://www.camara.gov.co/portal2011/images/stories/representantes/Resized/PEDRAZA%20ORTEGA%20TELESFORO.1_26x35.gif"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Telésforo_Pedraza"
+        }
+      ],
       "name": "TELESFORO PEDRAZA ORTEGA",
+      "other_names": [
+        {
+          "name": "Telésforo Pedraza",
+          "note": "alternate"
+        },
+        {
+          "lang": "es",
+          "name": "Telésforo Pedraza",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.camara.gov.co/portal2011/representantes/honorables-representantes?option=com_representantes&view=representante&idrpr=123"
@@ -4443,6 +6015,7 @@
       ]
     },
     {
+      "birth_date": "1986-03-14",
       "contact_details": [
         {
           "type": "phone",
@@ -4450,11 +6023,17 @@
         }
       ],
       "email": "victor.correa@camara.gov.co",
+      "gender": "male",
+      "given_name": "Víctor",
       "id": "9e2fff2c-10fc-4115-96de-7907ecfc5949",
       "identifiers": [
         {
           "identifier": "283",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q17462474",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.co/portal2011/images/stories/representantes/Resized/CORREA%20VELEZ%20VICTOR%20JAVIER_26x35.gif",
@@ -4463,7 +6042,24 @@
           "url": "http://www.camara.gov.co/portal2011/images/stories/representantes/Resized/CORREA%20VELEZ%20VICTOR%20JAVIER_26x35.gif"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Víctor_Correa_Vélez"
+        }
+      ],
       "name": "VICTOR JAVIER CORREA VÉLEZ",
+      "other_names": [
+        {
+          "name": "Víctor Correa Vélez",
+          "note": "alternate"
+        },
+        {
+          "lang": "es",
+          "name": "Víctor Correa Vélez",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.camara.gov.co/portal2011/representantes/honorables-representantes?option=com_representantes&view=representante&idrpr=283"
@@ -4506,11 +6102,17 @@
         }
       ],
       "email": "wilson.cordoba@camara.gov.co",
+      "gender": "male",
+      "given_name": "Wilson",
       "id": "6d78aa1c-4360-4024-9b3a-113c531f1c7f",
       "identifiers": [
         {
           "identifier": "294",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q20022294",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.co/portal2011/images/stories/representantes/Resized/CORDOBA%20MENA%20WILSON_26x35.gif",
@@ -4519,7 +6121,24 @@
           "url": "http://www.camara.gov.co/portal2011/images/stories/representantes/Resized/CORDOBA%20MENA%20WILSON_26x35.gif"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Wilson_Córdoba"
+        }
+      ],
       "name": "WILSON CORDOBA MENA",
+      "other_names": [
+        {
+          "name": "Wilson Córdoba",
+          "note": "alternate"
+        },
+        {
+          "lang": "es",
+          "name": "Wilson Córdoba",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.camara.gov.co/portal2011/representantes/honorables-representantes?option=com_representantes&view=representante&idrpr=294"
@@ -4554,6 +6173,7 @@
       ]
     },
     {
+      "birth_date": "1972-06-04",
       "contact_details": [
         {
           "type": "phone",
@@ -4561,11 +6181,17 @@
         }
       ],
       "email": "alvaro.prada@camara.gov.co",
+      "gender": "male",
+      "given_name": "Alvaro",
       "id": "8774ea38-d298-4fff-b1ff-7ece7aa2f37b",
       "identifiers": [
         {
           "identifier": "199",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q18633893",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.co/portal2011/images/stories/representantes/",
@@ -4574,7 +6200,29 @@
           "url": "http://www.camara.gov.co/portal2011/images/stories/representantes/"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Álvaro_Hernán_Prada"
+        }
+      ],
       "name": "ÁLVARO HERNÁN PRADA ARTUNDUAGA",
+      "other_names": [
+        {
+          "name": "Alvaro Hernán Prada",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Alvaro Hernán Prada",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Alvaro Hernán Prada",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.camara.gov.co/portal2011/representantes/honorables-representantes?option=com_representantes&view=representante&idrpr=199"
@@ -4617,15 +6265,21 @@
         },
         {
           "type": "twitter",
-          "value": "http://www.twitter.com/test2nueva"
+          "value": "test2nueva"
         }
       ],
       "email": "angela.robledo@camara.gov.co",
+      "gender": "female",
+      "given_name": "Ángela",
       "id": "3277d538-c20d-4e47-9f7e-c86d05afe912",
       "identifiers": [
         {
           "identifier": "2",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q6173648",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.co/portal2011/images/stories/representantes/Resized/ROBLEDO%20GOMEZ%20ANGELA%20MARIA_26x35.gif",
@@ -4636,11 +6290,45 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Ángela_Robledo"
+        },
+        {
           "note": "facebook",
           "url": "http://www.facebook.com/urlnueva"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/test2nueva"
         }
       ],
       "name": "ÁNGELA MARÍA ROBLEDO GÓMEZ",
+      "other_names": [
+        {
+          "name": "Ángela María Robledo",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Ángela María Robledo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Ángela María Robledo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Ángela María Robledo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Ángela María Robledo",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.camara.gov.co/portal2011/representantes/honorables-representantes?option=com_representantes&view=representante&idrpr=2"
@@ -4762,7 +6450,8 @@
   ],
   "meta": {
     "sources": [
-      "http://www.camara.gov.co/"
+      "http://www.camara.gov.co/",
+      "http://wikidata.org/"
     ]
   },
   "memberships": [
