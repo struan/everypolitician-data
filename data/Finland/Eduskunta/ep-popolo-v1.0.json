@@ -19496,10 +19496,6 @@
       ]
     },
     {
-      "id": "87e1a60a-ee49-4961-8616-a495ed51190c",
-      "name": "Kike Elomaa"
-    },
-    {
       "birth_date": "1951-06-13",
       "family_name": "Kiljunen",
       "gender": "male",
@@ -33545,46 +33541,26 @@
       ]
     },
     {
-      "birth_date": "1929-01-11",
-      "death_date": "1996-09-20",
       "gender": "male",
-      "given_name": "Pentti",
+      "given_name": "Pertti",
       "id": "ddc9c790-f7e8-4ec4-9bfa-0e24ff5efa71",
       "identifiers": [
         {
-          "identifier": "211",
-          "scheme": "eduskunta"
-        },
-        {
-          "identifier": "Q11887369",
+          "identifier": "Q20251571",
           "scheme": "wikidata"
         }
       ],
       "links": [
         {
           "note": "Wikipedia (fi)",
-          "url": "https://fi.wikipedia.org/wiki/Pentti_Mäki-Hakola"
+          "url": "https://fi.wikipedia.org/wiki/Pertti_Hakanen"
         }
       ],
       "name": "Pertti Hakanen",
       "other_names": [
         {
-          "name": "Pentti Mäki-Hakola",
-          "note": "alternate"
-        },
-        {
-          "lang": "en",
-          "name": "Pentti Mäki-Hakola",
-          "note": "multilingual"
-        },
-        {
           "lang": "fi",
-          "name": "Pentti Mäki-Hakola",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Pentti Mäki-Hakola",
+          "name": "Pertti Hakanen",
           "note": "multilingual"
         }
       ]
@@ -33672,6 +33648,7 @@
     },
     {
       "birth_date": "1951-07-11",
+      "death_date": "1996-09-20",
       "family_name": "Mäki-Hakola",
       "gender": "male",
       "given_name": "Pertti Eerik",
@@ -33690,7 +33667,7 @@
           "scheme": "kansanmuisti"
         },
         {
-          "identifier": "Q16999975",
+          "identifier": "Q11887369",
           "scheme": "wikidata"
         }
       ],
@@ -33703,24 +33680,28 @@
       "links": [
         {
           "note": "Wikipedia (fi)",
-          "url": "https://fi.wikipedia.org/wiki/Pertti_Mäki-Hakola"
+          "url": "https://fi.wikipedia.org/wiki/Pentti_Mäki-Hakola"
         }
       ],
       "name": "Pertti Mäki-Hakola",
       "other_names": [
         {
+          "name": "Pentti Mäki-Hakola",
+          "note": "alternate"
+        },
+        {
           "lang": "en",
-          "name": "Pertti Mäki-Hakola",
+          "name": "Pentti Mäki-Hakola",
           "note": "multilingual"
         },
         {
           "lang": "fi",
-          "name": "Pertti Mäki-Hakola",
+          "name": "Pentti Mäki-Hakola",
           "note": "multilingual"
         },
         {
           "lang": "fr",
-          "name": "Pertti Mäki-Hakola",
+          "name": "Pentti Mäki-Hakola",
           "note": "multilingual"
         }
       ],
@@ -56402,14 +56383,6 @@
       "role": "member"
     },
     {
-      "area_id": "area/varsinais-suomen_vaalipiiri",
-      "legislative_period_id": "term/37",
-      "on_behalf_of_id": "ps",
-      "organization_id": "legislature",
-      "person_id": "87e1a60a-ee49-4961-8616-a495ed51190c",
-      "role": "member"
-    },
-    {
       "area_id": "area/vaasan",
       "legislative_period_id": "term/31",
       "on_behalf_of_id": "kd",
@@ -60899,6 +60872,14 @@
     {
       "area_id": "area/varsinais-suomen",
       "legislative_period_id": "term/36",
+      "on_behalf_of_id": "ps",
+      "organization_id": "legislature",
+      "person_id": "f510a0c5-aeee-4df0-ad14-d536d85fc099",
+      "role": "member"
+    },
+    {
+      "area_id": "area/varsinais-suomen_vaalipiiri",
+      "legislative_period_id": "term/37",
       "on_behalf_of_id": "ps",
       "organization_id": "legislature",
       "person_id": "f510a0c5-aeee-4df0-ad14-d536d85fc099",
