@@ -75,7 +75,6 @@ class Fetcher::Parlparse < Fetcher
       instructions_json: instructions_url % cwd,
     }
     remote = 'https://parlparse-to-csv.herokuapp.com/?' + URI.encode_www_form(args)
-    warn "Loading from #{remote}"
     copy_url(remote)
   end
 end
