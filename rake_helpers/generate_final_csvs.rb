@@ -1,7 +1,7 @@
 require 'everypolitician/popolo'
 
 desc "Build the term-table CSVs"
-task :csvs => ['term_csvs:term_tables', 'term_csvs:name_list', 'term_csvs:reports']
+task :csvs => ['term_csvs:term_tables', 'term_csvs:name_list', 'term_csvs:positions', 'term_csvs:reports']
 
 CLEAN.include('term-*.csv', 'names.csv')
 
@@ -78,4 +78,47 @@ namespace :term_csvs do
     wikidata_parties.last.each { |p| warn "  Missing: #{p[:name]} (#{p[:id]})" } if wikidata_parties.first.count > 0 && wikidata_parties.last.count <= 5
   end
 
+  desc 'Build the Positions file'
+  task :positions => ['sources/wikidata/positions.json', 'ep-popolo-v1.0.json'] do
+
+    filter_file   = 'sources/manual/position-filter.json'
+    position_file = "unstable/positions.csv"
+    warn "Creating #{position_file}"
+
+    positions = JSON.parse(File.read('sources/wikidata/positions.json'), symbolize_names: true) 
+    filter    = File.exist?(filter_file) ? JSON.parse(File.read(filter_file), symbolize_names: true).each do |s, fs|
+      fs.each { |f| f.delete :count }
+    end : { exclude: [], include: [] }
+    to_include = filter[:include].map { |e| e[:id] }.to_set
+    to_exclude = filter[:exclude].map { |e| e[:id] }.to_set
+
+    want, unknown = @json[:persons].map { |p| 
+      (p[:identifiers] || []).find_all { |i| i[:scheme] == 'wikidata' }.map { |id|
+        positions[id[:identifier].to_sym].to_a.map { |posn| 
+          {
+            id: p[:id],
+            name: p[:name],
+            position_id: posn[:id],
+            position: posn[:label],
+            start_date: (posn[:qualifiers] || {})[:P580],
+            end_date: (posn[:qualifiers] || {})[:P582],
+          }
+        }
+      }
+    }.flatten(2).reject { |r| to_exclude.include? r[:position_id] }.partition { |r| to_include.include? r[:position_id] }
+
+    filter[:unknown] = unknown.
+      group_by { |u| u[:position_id] }.
+      sort_by { |u, us| us.count }.reverse.
+      map { |id, us| { id: id, name: us.first[:position], count: us.count } }.each do |u|
+        warn "  Unknown position (x#{u[:count]}): #{u[:name]} (#{u[:id]})"
+      end
+
+    csv_columns = %w(id name position start_date end_date)
+    csv    = [csv_columns.to_csv, want.map { |p| csv_columns.map { |c| p[c.to_sym] }.to_csv }].compact.join
+
+    FileUtils.mkpath(File.dirname position_file)
+    File.write(position_file, csv)
+    File.write(filter_file, JSON.pretty_generate(filter))
+  end
 end
