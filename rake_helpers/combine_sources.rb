@@ -48,6 +48,8 @@ namespace :merge_sources do
           Fetcher::Wikidata::Group.regenerate(i)
         elsif c[:type] == 'area-wikidata'
           Fetcher::Wikidata::Area.regenerate(i)
+        elsif c[:type] == 'wikidata-raw'
+          Fetcher::Wikidata::Raw.regenerate(i)
         elsif c[:type] == 'gender-balance'
           Fetcher::GenderBalance.regenerate(i)
         else

@@ -121,3 +121,17 @@ class Fetcher::Wikidata::Group < Fetcher::Wikidata
   end
 end
 
+class Fetcher::Wikidata::Raw < Fetcher::Wikidata
+  def lookup_class
+    P39sLookup
+  end
+
+  def map_data
+    super.each { |h| h[:wikidata] = h[:id] }
+  end
+
+  def processed_wikidata
+    raw_wikidata.to_hash.each_with_object({}) { |(k, v), h| h[k] = v[:p39s] }.reject { |_, v| v.nil? }
+  end
+end
+
