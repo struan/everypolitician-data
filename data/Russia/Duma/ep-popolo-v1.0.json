@@ -6324,9 +6324,13 @@
     {
       "birth_date": "1956-05-08",
       "gender": "male",
-      "given_name": "Nicholas",
+      "given_name": "Nikolaj",
       "id": "2fbe252b-edb1-4d27-9c67-0298c4382c0e",
       "identifiers": [
+        {
+          "identifier": "18",
+          "scheme": "declarator"
+        },
         {
           "identifier": "131359",
           "scheme": "everypolitician_legacy"
@@ -6351,7 +6355,7 @@
       "name": "Езерский Николай Николаевич",
       "other_names": [
         {
-          "name": "Езерский, Николай Николаевич",
+          "name": "Николай Езерский",
           "note": "alternate"
         },
         {
@@ -6361,7 +6365,7 @@
         },
         {
           "lang": "ru",
-          "name": "Езерский, Николай Николаевич",
+          "name": "Николай Езерский",
           "note": "multilingual"
         }
       ],
