@@ -96,6 +96,7 @@
     {
       "birth_date": "1948",
       "gender": "male",
+      "given_name": "Abdul Majid",
       "id": "69f4db0d-6752-4225-a371-4740da5e78d0",
       "identifiers": [
         {
@@ -6448,6 +6449,12 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Salim_Bey_Karam.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Salim_Bey_Karam.jpg"
+        }
+      ],
       "links": [
         {
           "note": "Wikipedia (en)",
@@ -6456,6 +6463,10 @@
         {
           "note": "Wikipedia (pl)",
           "url": "https://pl.wikipedia.org/wiki/Salim_Karam"
+        },
+        {
+          "note": "facebook",
+          "url": "salimbeykaram"
         }
       ],
       "name": "Salim Karam",
@@ -6463,6 +6474,11 @@
         {
           "name": "Salim Bey Karam",
           "note": "alternate"
+        },
+        {
+          "lang": "ar",
+          "name": "سليم بك يوسف بك كرم",
+          "note": "multilingual"
         },
         {
           "lang": "de",
