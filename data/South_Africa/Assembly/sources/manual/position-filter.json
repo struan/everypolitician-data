@@ -1,0 +1,72 @@
+{
+  "exclude": {
+    "self": [
+      {
+        "id": "Q16744266",
+        "name": "member of the National Assembly of South Africa"
+      }
+    ],
+    "other": [
+      {
+        "id": "Q5453163",
+        "name": "First Lady of South Africa"
+      }
+    ]
+  },
+  "include": {
+    "self": [
+      {
+        "id": "Q3643395",
+        "name": "Speaker of the National Assembly of South Africa"
+      }
+    ],
+    "other_legislatures": [
+
+    ],
+    "executive": [
+      {
+        "id": "Q2128581",
+        "name": "Minister of Finance"
+      },
+      {
+        "id": "Q3251789",
+        "name": "Minister of Education"
+      },
+      {
+        "id": "Q2640095",
+        "name": "Minister of Home Affairs"
+      },
+      {
+        "id": "Q2363110",
+        "name": "Deputy President of South Africa"
+      },
+      {
+        "id": "Q3273722",
+        "name": "health minister"
+      }
+    ],
+    "party": [
+
+    ],
+    "other": [
+      {
+        "id": "Q6797727",
+        "name": "Mayor of Johannesburg"
+      }
+    ]
+  },
+  "unknown": {
+    "unknown": [
+      {
+        "id": "Q7722662",
+        "name": "Q7722662",
+        "count": 1
+      },
+      {
+        "id": "Q6566914",
+        "name": "List of Chief Ministers of KwaZulu",
+        "count": 1
+      }
+    ]
+  }
+}
