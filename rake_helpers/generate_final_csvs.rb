@@ -86,9 +86,13 @@ namespace :term_csvs do
     warn "Creating #{position_file}"
 
     positions = JSON.parse(File.read('sources/wikidata/positions.json'), symbolize_names: true) 
-    filter    = File.exist?(filter_file) ? JSON.parse(File.read(filter_file), symbolize_names: true).each do |s, fs|
-      fs.each { |f| f.delete :count }
-    end : { exclude: [], include: [] }
+    filter    = if File.exist?(filter_file) 
+      JSON.parse(File.read(filter_file), symbolize_names: true).each do |s, fs|
+        fs.each { |f| f.delete :count }
+      end
+    else 
+      { exclude: [], include: [] }
+    end
     to_include = filter[:include].map { |e| e[:id] }.to_set
     to_exclude = filter[:exclude].map { |e| e[:id] }.to_set
 
