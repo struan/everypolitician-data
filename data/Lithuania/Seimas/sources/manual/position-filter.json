@@ -1,0 +1,45 @@
+{
+  "exclude": {
+    "self": [
+      {
+        "id": "Q18507240",
+        "name": "Member of the Seimas"
+      }
+    ],
+    "other": [
+
+    ]
+  },
+  "include": {
+    "self": [
+
+    ],
+    "other_legislatures": [
+      {
+        "id": "Q27169",
+        "name": "member of the European Parliament"
+      }
+    ],
+    "executive": [
+      {
+        "id": "Q845439",
+        "name": "Prime Minister of Lithuania"
+      }
+    ],
+    "party": [
+
+    ],
+    "other": [
+
+    ]
+  },
+  "unknown": {
+    "unknown": [
+      {
+        "id": "Q6597975",
+        "name": "List of Speakers of the Seimas",
+        "count": 1
+      }
+    ]
+  }
+}
