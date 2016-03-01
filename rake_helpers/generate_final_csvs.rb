@@ -91,13 +91,13 @@ namespace :term_csvs do
     positions = JSON.parse(File.read(positions_raw), symbolize_names: true) 
     filter    = if File.exist?(filter_file) 
       JSON.parse(File.read(filter_file), symbolize_names: true).each do |s, fs|
-        fs.each { |f| f.delete :count }
+        fs.each { |_,fs| fs.each { |f| f.delete :count } }
       end
     else 
-      { exclude: [], include: [] }
+      { exclude: { self: [], other: [] }, include: { self: [], other_legislatures: [], executive: [], other: [] } }
     end
-    to_include = filter[:include].map { |e| e[:id] }.to_set
-    to_exclude = filter[:exclude].map { |e| e[:id] }.to_set
+    to_include = filter[:include].map { |_, fs| fs.map { |f| f[:id] } }.flatten.to_set
+    to_exclude = filter[:exclude].map { |_, fs| fs.map { |f| f[:id] } }.flatten.to_set
 
     want, unknown = @json[:persons].map { |p| 
       (p[:identifiers] || []).find_all { |i| i[:scheme] == 'wikidata' }.map { |id|
