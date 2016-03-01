@@ -1,0 +1,44 @@
+{
+  "exclude": {
+    "self": [
+
+    ],
+    "other": [
+
+    ]
+  },
+  "include": {
+    "self": [
+
+    ],
+    "other_legislatures": [
+
+    ],
+    "executive": [
+      {
+        "id": "Q4261844",
+        "name": "Vice President of Zimbabwe"
+      }
+    ],
+    "party": [
+
+    ],
+    "other": [
+
+    ]
+  },
+  "unknown": {
+    "unknown": [
+      {
+        "id": "Q6867369",
+        "name": "Ministry of Media, Information and Publicity",
+        "count": 1
+      },
+      {
+        "id": "Q83307",
+        "name": "minister",
+        "count": 1
+      }
+    ]
+  }
+}
