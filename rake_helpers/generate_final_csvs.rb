@@ -79,13 +79,16 @@ namespace :term_csvs do
   end
 
   desc 'Build the Positions file'
-  task :positions => ['sources/wikidata/positions.json', 'ep-popolo-v1.0.json'] do
+  task :positions => ['ep-popolo-v1.0.json'] do
+
+    positions_raw = 'sources/wikidata/positions.json'
+    next unless File.exists? positions_raw
 
     filter_file   = 'sources/manual/position-filter.json'
     position_file = "unstable/positions.csv"
     warn "Creating #{position_file}"
 
-    positions = JSON.parse(File.read('sources/wikidata/positions.json'), symbolize_names: true) 
+    positions = JSON.parse(File.read(positions_raw), symbolize_names: true) 
     filter    = if File.exist?(filter_file) 
       JSON.parse(File.read(filter_file), symbolize_names: true).each do |s, fs|
         fs.each { |f| f.delete :count }
@@ -116,7 +119,7 @@ namespace :term_csvs do
       group_by { |u| u[:position_id] }.
       sort_by { |u, us| us.count }.reverse.
       map { |id, us| { id: id, name: us.first[:position], count: us.count, example: us.first[:wikidata] } }.each do |u|
-        warn "  Unknown position (x#{u[:count]}): #{u[:id]} #{u[:name]} — e.g. #{u[:example]}"
+        warn "  Unknown position (x#{u[:count]}): #{u[:id]} #{u[:name]} — e.g. #{u.delete :example}"
       end
 
     csv_columns = %w(id name position start_date end_date)
