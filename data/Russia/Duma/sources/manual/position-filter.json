@@ -1,0 +1,51 @@
+{
+  "exclude": {
+    "self": [
+      {
+        "id": "Q17276321",
+        "name": "member of the State Duma"
+      }
+    ],
+    "other": [
+
+    ]
+  },
+  "include": {
+    "self": [
+      {
+        "id": "Q4376663",
+        "name": "Chairman of the State Duma"
+      }
+    ],
+    "other_legislatures": [
+      {
+        "id": "Q19399742",
+        "name": "member of the Federation Council of Russia"
+      }
+    ],
+    "executive": [
+      {
+        "id": "Q14805701",
+        "name": "Deputy Chairman of the Government of the Russian Federation"
+      },
+      {
+        "id": "Q1965788",
+        "name": "First Deputy Chairman of the Government of the Russian Federation"
+      }
+    ],
+    "party": [
+
+    ],
+    "other": [
+      {
+        "id": "Q4488944",
+        "name": "Kremlin Chief of Staff"
+      }
+    ]
+  },
+  "unknown": {
+    "unknown": [
+
+    ]
+  }
+}
