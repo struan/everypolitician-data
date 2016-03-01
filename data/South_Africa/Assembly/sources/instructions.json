@@ -50,6 +50,14 @@
         "type": "gender-balance",
         "source": "South-Africa/Assembly"
       }
+    },
+    {
+      "file": "wikidata/positions.json",
+      "type": "wikidata-positions",
+      "create": {
+        "type": "wikidata-raw",
+        "source": "reconciliation/wikidata.csv"
+      }
     }
   ]
 }
