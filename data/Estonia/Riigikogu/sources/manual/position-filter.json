@@ -1,0 +1,64 @@
+{
+  "exclude": {
+    "self": [
+      {
+        "id": "Q21100241",
+        "name": "member of the Estonian Riigikogu"
+      }
+    ],
+    "other": [
+
+    ]
+  },
+  "include": {
+    "other_legislatures": [
+      {
+        "id": "Q27169",
+        "name": "member of the European Parliament"
+      }
+    ],
+    "executive": [
+      {
+        "id": "Q737115",
+        "name": "Prime Minister of Estonia"
+      },
+      {
+        "id": "Q21121665",
+        "name": "Minister of Economic Affairs and Communications"
+      },
+      {
+        "id": "Q6866110",
+        "name": "Minister of Education and Research"
+      },
+      {
+        "id": "Q6866431",
+        "name": "Minister of the Interior"
+      },
+      {
+        "id": "Q21103025",
+        "name": "Minister of Finance"
+      },
+      {
+        "id": "Q3741249",
+        "name": "Minister of Defence"
+      }
+    ],
+    "other": [
+      {
+        "id": "Q3740505",
+        "name": "Mayor of Tallinn"
+      },
+      {
+        "id": "Q948558",
+        "name": "European Commissioner for Digital Agenda"
+      },
+      {
+        "id": "Q6627739",
+        "name": "Mayor of Tartu"
+      }
+    ]
+  },
+  "unknown": [
+
+  ]
+}
