@@ -3071,6 +3071,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "nl",
+          "name": "Anne-Lise Dufour-Tonini",
+          "note": "multilingual"
+        },
+        {
           "lang": "nn",
           "name": "Anne-Lise Dufour-Tonini",
           "note": "multilingual"
@@ -3161,6 +3166,11 @@
         },
         {
           "lang": "nb",
+          "name": "Anne-Yvonne Le Dain",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Anne-Yvonne Le Dain",
           "note": "multilingual"
         },
@@ -4676,6 +4686,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "nl",
+          "name": "Audrey Linkenheld",
+          "note": "multilingual"
+        },
+        {
           "lang": "nn",
           "name": "Audrey Linkenheld",
           "note": "multilingual"
@@ -6139,6 +6154,11 @@
         },
         {
           "lang": "nb",
+          "name": "Bernadette Laclais",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Bernadette Laclais",
           "note": "multilingual"
         },
@@ -7949,6 +7969,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "nl",
+          "name": "Brigitte Allain",
+          "note": "multilingual"
+        },
+        {
           "lang": "nn",
           "name": "Brigitte Allain",
           "note": "multilingual"
@@ -8038,6 +8063,11 @@
         },
         {
           "lang": "nb",
+          "name": "Brigitte Bourguignon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Brigitte Bourguignon",
           "note": "multilingual"
         },
@@ -8548,6 +8578,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "nl",
+          "name": "Béatrice Santais",
+          "note": "multilingual"
+        },
+        {
           "lang": "nn",
           "name": "Béatrice Santais",
           "note": "multilingual"
@@ -9043,6 +9078,11 @@
         },
         {
           "lang": "nb",
+          "name": "Catherine Beaubatie",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Catherine Beaubatie",
           "note": "multilingual"
         },
@@ -9561,6 +9601,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "nl",
+          "name": "Catherine Troallic",
+          "note": "multilingual"
+        },
+        {
           "lang": "nn",
           "name": "Catherine Troallic",
           "note": "multilingual"
@@ -9929,6 +9974,11 @@
         },
         {
           "lang": "nb",
+          "name": "Chantal Guittet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Chantal Guittet",
           "note": "multilingual"
         },
@@ -11675,6 +11725,11 @@
         },
         {
           "lang": "nb",
+          "name": "Christine Pirès-Beaune",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Christine Pirès-Beaune",
           "note": "multilingual"
         },
@@ -13906,6 +13961,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "nl",
+          "name": "Colette Capdevielle",
+          "note": "multilingual"
+        },
+        {
           "lang": "nn",
           "name": "Colette Capdevielle",
           "note": "multilingual"
@@ -14748,6 +14808,11 @@
         },
         {
           "lang": "nb",
+          "name": "Cécile Untermaier",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Cécile Untermaier",
           "note": "multilingual"
         },
@@ -17922,6 +17987,11 @@
         },
         {
           "lang": "nb",
+          "name": "Dominique Chauvel",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Dominique Chauvel",
           "note": "multilingual"
         },
@@ -52366,6 +52436,37 @@
       ]
     },
     {
+      "birth_date": "1953-05-07",
+      "family_name": "Le Roy",
+      "gender": "female",
+      "given_name": "Marie-Thérèse",
+      "id": "43c35841-1ee3-4264-810b-dd21760f9ff5",
+      "identifiers": [
+        {
+          "identifier": "642736",
+          "scheme": "assemblee_nationale"
+        }
+      ],
+      "image": "http://www2.assemblee-nationale.fr/static/tribun/14/photos/642736.jpg",
+      "images": [
+        {
+          "url": "http://www2.assemblee-nationale.fr/static/tribun/14/photos/642736.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA642736"
+        }
+      ],
+      "name": "Marie-Thérèse Le Roy",
+      "sources": [
+        {
+          "url": "http://www.nosdeputes.fr/marie-therese-le-roy/json"
+        }
+      ]
+    },
+    {
       "birth_date": "1964-12-18",
       "contact_details": [
         {
@@ -81761,6 +81862,15 @@
       "role": "member"
     },
     {
+      "area_id": "area/finistère",
+      "legislative_period_id": "term/14",
+      "on_behalf_of_id": "party/ni",
+      "organization_id": "legislature",
+      "person_id": "43c35841-1ee3-4264-810b-dd21760f9ff5",
+      "role": "member",
+      "start_date": "2016-02-28"
+    },
+    {
       "area_id": "area/bouches-du-rhône",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/ni",
@@ -84545,6 +84655,7 @@
     },
     {
       "area_id": "area/finistère",
+      "end_date": "2016-02-27",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
