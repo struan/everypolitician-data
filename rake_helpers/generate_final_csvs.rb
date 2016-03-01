@@ -79,13 +79,16 @@ namespace :term_csvs do
   end
 
   desc 'Build the Positions file'
-  task :positions => ['sources/wikidata/positions.json', 'ep-popolo-v1.0.json'] do
+  task :positions => ['ep-popolo-v1.0.json'] do
+
+    positions_raw = 'sources/wikidata/positions.json'
+    next unless File.exists? positions_raw
 
     filter_file   = 'sources/manual/position-filter.json'
     position_file = "unstable/positions.csv"
     warn "Creating #{position_file}"
 
-    positions = JSON.parse(File.read('sources/wikidata/positions.json'), symbolize_names: true) 
+    positions = JSON.parse(File.read(positions_raw), symbolize_names: true) 
     filter    = if File.exist?(filter_file) 
       JSON.parse(File.read(filter_file), symbolize_names: true).each do |s, fs|
         fs.each { |f| f.delete :count }
