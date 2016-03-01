@@ -94,7 +94,7 @@ namespace :term_csvs do
         fs.each { |_,fs| fs.each { |f| f.delete :count } }
       end
     else 
-      { exclude: { self: [], other: [] }, include: { self: [], other_legislatures: [], executive: [], other: [] } }
+      { exclude: { self: [], other: [] }, include: { self: [], other_legislatures: [], executive: [], party: [], other: [] } }
     end
     to_include = filter[:include].map { |_, fs| fs.map { |f| f[:id] } }.flatten.to_set
     to_exclude = filter[:exclude].map { |_, fs| fs.map { |f| f[:id] } }.flatten.to_set
