@@ -1,0 +1,51 @@
+{
+  "exclude": {
+    "self": [
+
+    ],
+    "other": [
+
+    ]
+  },
+  "include": {
+    "self": [
+
+    ],
+    "other_legislatures": [
+
+    ],
+    "executive": [
+
+    ],
+    "party": [
+
+    ],
+    "other": [
+
+    ]
+  },
+  "unknown": {
+    "unknown": [
+      {
+        "id": "Q21191589",
+        "name": "deputy of Saeima",
+        "count": 77
+      },
+      {
+        "id": "Q27169",
+        "name": "member of the European Parliament",
+        "count": 3
+      },
+      {
+        "id": "Q369500",
+        "name": "Prime Minister of Latvia",
+        "count": 2
+      },
+      {
+        "id": "Q16361623",
+        "name": "Minister of Agriculture",
+        "count": 1
+      }
+    ]
+  }
+}
