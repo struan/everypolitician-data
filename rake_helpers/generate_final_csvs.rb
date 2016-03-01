@@ -94,7 +94,7 @@ namespace :term_csvs do
         fs.each { |_,fs| fs.each { |f| f.delete :count } }
       end
     else 
-      { exclude: { self: [], other: [] }, include: { self: [], other_legislatures: [], executive: [], other: [] } }
+      { exclude: { self: [], other: [] }, include: { self: [], other_legislatures: [], executive: [], party: [], other: [] } }
     end
     to_include = filter[:include].map { |_, fs| fs.map { |f| f[:id] } }.flatten.to_set
     to_exclude = filter[:exclude].map { |_, fs| fs.map { |f| f[:id] } }.flatten.to_set
@@ -115,7 +115,7 @@ namespace :term_csvs do
       }
     }.flatten(2).reject { |r| to_exclude.include? r[:position_id] }.partition { |r| to_include.include? r[:position_id] }
 
-    filter[:unknown] = unknown.
+    (filter[:unknown] ||= {})[:unknown] = unknown.
       group_by { |u| u[:position_id] }.
       sort_by { |u, us| us.count }.reverse.
       map { |id, us| { id: id, name: us.first[:position], count: us.count, example: us.first[:wikidata] } }.each do |u|
