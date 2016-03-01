@@ -90,10 +90,24 @@ class Fetcher::Wikidata < Fetcher
     WikidataLookup
   end
 
+  def csv_data
+    CSV.table("sources/#{source}", converters: nil)
+  end
+
+  def map_data
+    csv_data.map { |r| r.to_hash }
+  end
+
+  def raw_wikidata
+    lookup_class.new(map_data)
+  end
+  
+  def processed_wikidata
+    raw_wikidata.to_hash
+  end
+
   def write
-    mapping = CSV.table("sources/#{source}", converters: nil)
-    wikidata = lookup_class.new(mapping)
-    File.write(i(:file), JSON.pretty_generate(wikidata.to_hash))
+    File.write(i(:file), JSON.pretty_generate(processed_wikidata))
   end
 end
 
@@ -103,6 +117,20 @@ end
 class Fetcher::Wikidata::Group < Fetcher::Wikidata
   def lookup_class
     GroupLookup
+  end
+end
+
+class Fetcher::Wikidata::Raw < Fetcher::Wikidata
+  def lookup_class
+    P39sLookup
+  end
+
+  def map_data
+    super.each { |h| h[:wikidata] = h[:id] }
+  end
+
+  def processed_wikidata
+    raw_wikidata.to_hash.each_with_object({}) { |(k, v), h| h[k] = v[:p39s] }.reject { |_, v| v.nil? }
   end
 end
 

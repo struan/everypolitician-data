@@ -141,6 +141,26 @@ task :build_parties do
   File.write(@INSTRUCTIONS_FILE, JSON.pretty_generate(instr))
 end
 
+desc "Add a wikidata P39 file"
+task :build_p39s do
+  instr = clean_instructions_file
+  sources = instr[:sources]
+  abort "Already have position instructions" if sources.find { |s| s[:type] == 'wikidata-positions' }
+
+  wikidata = sources.find { |s| s[:type] == 'wikidata' } or abort "No wikidata section"
+  reconciliation = [wikidata[:merge]].flatten(1).find { |s| s.key? :reconciliation_file } or abort "No wikidata reconciliation file"
+
+  sources << { 
+    file: "wikidata/positions.json",
+    type: "wikidata-positions",
+    create: {
+      type: "wikidata-raw",
+      source: reconciliation[:reconciliation_file],
+    },
+  } 
+  File.write(@INSTRUCTIONS_FILE, JSON.pretty_generate(instr))
+end
+
 def instructions(key)
   @instructions ||= load_instructions_file
   @instructions[key]
