@@ -1,0 +1,42 @@
+{
+  "exclude": {
+    "self": [
+
+    ],
+    "other": [
+
+    ]
+  },
+  "include": {
+    "self": [
+
+    ],
+    "other_legislatures": [
+      {
+        "id": "Q27169",
+        "name": "member of the European Parliament"
+      }
+    ],
+    "executive": [
+
+    ],
+    "party": [
+
+    ],
+    "other": [
+      {
+        "id": "Q30185",
+        "name": "mayor"
+      },
+      {
+        "id": "Q708492",
+        "name": "councillor"
+      }
+    ]
+  },
+  "unknown": {
+    "unknown": [
+
+    ]
+  }
+}
