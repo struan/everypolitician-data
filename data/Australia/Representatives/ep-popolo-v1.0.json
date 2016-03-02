@@ -42115,6 +42115,44 @@
       ]
     },
     {
+      "family_name": "Zimmerman",
+      "given_name": "Trent",
+      "id": "2a5d1d08-2ddf-4185-b4dc-6a43f7cbacbf",
+      "identifiers": [
+        {
+          "identifier": "203092",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "10844",
+          "scheme": "openaustralia"
+        }
+      ],
+      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/203092/upload_ref_binary/203092.jpg",
+      "images": [
+        {
+          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/203092/upload_ref_binary/203092.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/TrentZimmerman"
+        },
+        {
+          "note": "website",
+          "url": "http://trentzimmerman.com.au/"
+        }
+      ],
+      "name": "Trent Zimmerman",
+      "sort_name": "Zimmerman, Trent",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/representatives.xml"
+        }
+      ]
+    },
+    {
       "birth_date": "1959-04-02",
       "family_name": "Draper",
       "gender": "female",
@@ -46731,6 +46769,15 @@
       "role": "member"
     },
     {
+      "area_id": "ocd-division/country:au/state:nsw/federal_electorate:north_sydney",
+      "legislative_period_id": "term/44",
+      "on_behalf_of_id": "party/liberal_party",
+      "organization_id": "legislature",
+      "person_id": "2a5d1d08-2ddf-4185-b4dc-6a43f7cbacbf",
+      "role": "member",
+      "start_date": "2015-12-05"
+    },
+    {
       "area_id": "ocd-division/country:au/state:nsw/federal_electorate:hunter",
       "legislative_period_id": "term/38",
       "on_behalf_of_id": "party/australian_labor_party",
@@ -49815,6 +49862,7 @@
     },
     {
       "area_id": "ocd-division/country:au/state:nsw/federal_electorate:north_sydney",
+      "end_date": "2015-10-23",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "party/liberal_party",
       "organization_id": "legislature",
