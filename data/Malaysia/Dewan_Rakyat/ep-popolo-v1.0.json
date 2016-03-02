@@ -10135,6 +10135,10 @@
           "url": "https://sv.wikipedia.org/wiki/C.V._Devan_Nair"
         },
         {
+          "note": "Wikipedia (ta)",
+          "url": "https://ta.wikipedia.org/wiki/தேவன்_நாயர்"
+        },
+        {
           "note": "Wikipedia (th)",
           "url": "https://th.wikipedia.org/wiki/เทวัน_นายัร"
         },
@@ -25177,6 +25181,10 @@
           "url": "https://ms.wikipedia.org/wiki/Mohamed_Azmin_Ali"
         },
         {
+          "note": "Wikipedia (ta)",
+          "url": "https://ta.wikipedia.org/wiki/அஸ்மின்_அலி"
+        },
+        {
           "note": "Wikipedia (zh)",
           "url": "https://zh.wikipedia.org/wiki/阿兹敏阿里"
         },
@@ -30371,6 +30379,16 @@
           "scheme": "everypolitician_legacy"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ng_Wei_Aik"
+        },
+        {
+          "note": "wikipedia",
+          "url": "http://en.wikipedia.org/wiki/Ng_Wei_Aik"
+        }
+      ],
       "name": "Ng Wei Aik"
     },
     {
@@ -33902,6 +33920,10 @@
         {
           "note": "Wikipedia (ms)",
           "url": "https://ms.wikipedia.org/wiki/Rafizi_Ramli"
+        },
+        {
+          "note": "Wikipedia (ta)",
+          "url": "https://ta.wikipedia.org/wiki/ராபிஸி_ராம்லி"
         },
         {
           "note": "wikipedia",
@@ -40721,9 +40743,34 @@
         {
           "identifier": "tan_kee_kwong",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q12710997",
+          "scheme": "wikidata"
         }
       ],
-      "name": "Tan Kee Kwong"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Tan_Kee_Kwong"
+        },
+        {
+          "note": "Wikipedia (ms)",
+          "url": "https://ms.wikipedia.org/wiki/Tan_Kee_Kwong"
+        },
+        {
+          "note": "wikipedia",
+          "url": "http://en.wikipedia.org/wiki/Tan_Kee_Kwong"
+        }
+      ],
+      "name": "Tan Kee Kwong",
+      "other_names": [
+        {
+          "lang": "ms",
+          "name": "Tan Kee Kwong",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "fc239093-6816-44d7-8902-2ad6d68940a8",
@@ -40766,6 +40813,10 @@
         {
           "note": "Wikipedia (ms)",
           "url": "https://ms.wikipedia.org/wiki/Tan_Kok_Wai"
+        },
+        {
+          "note": "Wikipedia (ta)",
+          "url": "https://ta.wikipedia.org/wiki/டான்_கோக்_வேய்"
         },
         {
           "note": "Wikipedia (zh)",
