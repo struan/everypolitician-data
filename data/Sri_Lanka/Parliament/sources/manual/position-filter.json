@@ -1,0 +1,60 @@
+{
+  "exclude": {
+    "self": [
+      {
+        "id": "Q18964938",
+        "name": "Member of the Parliament of Sri Lanka"
+      }
+    ],
+    "other": [
+
+    ]
+  },
+  "include": {
+    "self": [
+      {
+        "id": "Q4377233",
+        "name": "Leader of the Opposition"
+      }
+    ],
+    "other_legislatures": [
+
+    ],
+    "executive": [
+      {
+        "id": "Q2914380",
+        "name": "President of Sri Lanka"
+      },
+      {
+        "id": "Q1758894",
+        "name": "Prime Minister of Sri Lanka"
+      },
+      {
+        "id": "Q12339722",
+        "name": "transport minister"
+      },
+      {
+        "id": "Q16056689",
+        "name": "Minister of Defence"
+      }
+    ],
+    "party": [
+
+    ],
+    "other": [
+      {
+        "id": "Q5153709",
+        "name": "Commonwealth Chairperson-in-Office"
+      }
+    ]
+  },
+  "unknown": {
+    "unknown": [
+      {
+        "id": "Q486839",
+        "name": "member of parliament",
+        "count": 1
+      }
+    ]
+  }
+}
