@@ -1,0 +1,49 @@
+{
+  "exclude": {
+    "self": [
+      {
+        "id": "Q17593571",
+        "name": "member of the National Assembly of Vietnam"
+      }
+    ],
+    "other": [
+
+    ]
+  },
+  "include": {
+    "self": [
+      {
+        "id": "Q428110",
+        "name": "Chairman of the National Assembly of Vietnam"
+      }
+    ],
+    "other_legislatures": [
+
+    ],
+    "executive": [
+      {
+        "id": "Q5261077",
+        "name": "Deputy Prime Minister of Vietnam"
+      },
+      {
+        "id": "Q866680",
+        "name": "President of Vietnam"
+      }
+    ],
+    "party": [
+
+    ],
+    "other": [
+
+    ]
+  },
+  "unknown": {
+    "unknown": [
+      {
+        "id": "Q427325",
+        "name": "Communist Party of Vietnam",
+        "count": 1
+      }
+    ]
+  }
+}
