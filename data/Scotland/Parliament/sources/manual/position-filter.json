@@ -1,0 +1,201 @@
+{
+  "exclude": {
+    "self": [
+      {
+        "id": "Q1711695",
+        "name": "Member of the Scottish Parliament"
+      }
+    ],
+    "other": [
+
+    ]
+  },
+  "include": {
+    "self": [
+      {
+        "id": "Q3567536",
+        "name": "Presiding Officer of the Scottish Parliament"
+      }
+    ],
+    "other_legislatures": [
+      {
+        "id": "Q16707842",
+        "name": "Member of Parliament in the United Kingdom"
+      },
+      {
+        "id": "Q27169",
+        "name": "member of the European Parliament"
+      }
+    ],
+    "executive": [
+      {
+        "id": "Q1362216",
+        "name": "First Minister of Scotland"
+      },
+      {
+        "id": "Q5261035",
+        "name": "Deputy First Minister of Scotland"
+      },
+      {
+        "id": "Q5015475",
+        "name": "Cabinet Secretary for Education and Lifelong Learning"
+      },
+      {
+        "id": "Q6865814",
+        "name": "Minister for Enterprise and Lifelong Learning"
+      },
+      {
+        "id": "Q6865870",
+        "name": "Minister for Housing and Welfare"
+      },
+      {
+        "id": "Q14957218",
+        "name": "Shadow Secretary of State for Scotland"
+      },
+      {
+        "id": "Q5015480",
+        "name": "Cabinet Secretary for Justice"
+      },
+      {
+        "id": "Q16933965",
+        "name": "Minister for Parliamentary Business"
+      },
+      {
+        "id": "Q5015474",
+        "name": "Cabinet Secretary for Finance, Employment and Sustainable Growth"
+      },
+      {
+        "id": "Q16148216",
+        "name": "Cabinet Secretary for Health and Wellbeing"
+      },
+      {
+        "id": "Q6865763",
+        "name": "Cabinet Secretary for Social Justice, Communities and Pensioners' Rights"
+      },
+      {
+        "id": "Q5015477",
+        "name": "Cabinet Secretary for Culture and External Affairs"
+      },
+      {
+        "id": "Q6865773",
+        "name": "Minister for Community Safety and Legal Affairs"
+      },
+      {
+        "id": "Q6865992",
+        "name": "Cabinet Secretary for Fair Work, Skills and Training"
+      },
+      {
+        "id": "Q6865911",
+        "name": "Minister for Learning, Science and Scotland's Languages"
+      },
+      {
+        "id": "Q18952564",
+        "name": "Member of the House of Lords"
+      },
+      {
+        "id": "Q6865944",
+        "name": "Minister for Public Health"
+      },
+      {
+        "id": "Q111784",
+        "name": "Secretary of State for Scotland"
+      },
+      {
+        "id": "Q6865818",
+        "name": "Minister for Environment, Climate Change and Land Reform"
+      },
+      {
+        "id": "Q7883048",
+        "name": "Under-Secretary of State for Scotland"
+      },
+      {
+        "id": "Q1173947",
+        "name": "Cabinet Secretary for Rural Affairs and the Environment"
+      },
+      {
+        "id": "Q6865983",
+        "name": "Minister for Transport and Veterans"
+      },
+      {
+        "id": "Q6865758",
+        "name": "Minister for Children and Young People"
+      },
+      {
+        "id": "Q20042662",
+        "name": "Minister for Youth and Women's Employment"
+      },
+      {
+        "id": "Q5333410",
+        "name": "Economic Secretary to the Treasury"
+      },
+      {
+        "id": "Q6865811",
+        "name": "Minister for Business, Energy and Tourism"
+      },
+      {
+        "id": "Q2928362",
+        "name": "Advocate General for Scotland"
+      },
+      {
+        "id": "Q18761516",
+        "name": "Minister for Environment, Climate Change and Land Reform"
+      },
+      {
+        "id": "Q5015479",
+        "name": "Cabinet Secretary for Infrastructure, Investment and Cities"
+      },
+      {
+        "id": "Q16321336",
+        "name": "Shadow Secretary of State for Work and Pensions"
+      }
+    ],
+    "party": [
+      {
+        "id": "Q6625186",
+        "name": "Leader of the Liberal Democrats"
+      },
+      {
+        "id": "Q3615330",
+        "name": "leader of the Liberal Party"
+      },
+      {
+        "id": "Q1307072",
+        "name": "Chief Whip"
+      },
+      {
+        "id": "Q6467390",
+        "name": "Labour Chief Whip"
+      }
+    ],
+    "other": [
+      {
+        "id": "Q2012061",
+        "name": "Leader of the House of Lords"
+      }
+    ]
+  },
+  "unknown": {
+    "unknown": [
+      {
+        "id": "Q3179541",
+        "name": "Scottish Labour Party",
+        "count": 5
+      },
+      {
+        "id": "Q3250438",
+        "name": "Scottish Liberal Democrats",
+        "count": 3
+      },
+      {
+        "id": "Q3243587",
+        "name": "Scottish Conservative Party",
+        "count": 3
+      },
+      {
+        "id": "Q10658",
+        "name": "Scottish National Party",
+        "count": 2
+      }
+    ]
+  }
+}
