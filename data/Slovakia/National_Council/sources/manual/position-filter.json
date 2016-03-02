@@ -1,0 +1,70 @@
+{
+  "exclude": {
+    "self": [
+      {
+        "id": "Q19967563",
+        "name": "Member of the National Council of Slovakia"
+      }
+    ],
+    "other": [
+
+    ]
+  },
+  "include": {
+    "self": [
+
+    ],
+    "other_legislatures": [
+      {
+        "id": "Q27169",
+        "name": "member of the European Parliament"
+      },
+      {
+        "id": "Q17320547",
+        "name": "member of the Federal Assembly of Czechoslovakia"
+      }
+    ],
+    "executive": [
+      {
+        "id": "Q6468838",
+        "name": "President of Slovakia"
+      },
+      {
+        "id": "Q45369",
+        "name": "Prime Minister of Slovakia"
+      },
+      {
+        "id": "Q2501411",
+        "name": "Minister of Foreign Affairs"
+      }
+    ],
+    "party": [
+
+    ],
+    "other": [
+      {
+        "id": "Q5190728",
+        "name": "European Commissioner for Education, Culture, Multilingualism and Youth"
+      }
+    ]
+  },
+  "unknown": {
+    "unknown": [
+      {
+        "id": "Q486839",
+        "name": "member of parliament",
+        "count": 2
+      },
+      {
+        "id": "Q1055894",
+        "name": "deputy",
+        "count": 1
+      },
+      {
+        "id": "Q121998",
+        "name": "ambassador",
+        "count": 1
+      }
+    ]
+  }
+}
