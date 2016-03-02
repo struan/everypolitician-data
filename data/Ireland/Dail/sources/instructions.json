@@ -1,14 +1,24 @@
 {
   "sources": [
     {
-      "file": "morph/data.csv",
+      "file": "morph/kildare31.csv",
+      "source": "https://morph.io/tmtmtmtm/ireland-kildarestreet",
+      "type": "membership"
+    },
+    {
+      "file": "morph/kildare32.csv",
       "create": {
         "type": "morph",
         "scraper": "tmtmtmtm/ireland-kildarestreet",
         "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "https://morph.io/tmtmtmtm/ireland-kildarestreet",
-      "type": "membership"
+      "type": "membership",
+      "merge": {
+        "incoming_field": "name",
+        "existing_field": "name",
+        "reconciliation_file": "reconciliation/kildare32.csv"
+      }
     },
     {
       "file": "morph/wikidata.csv",
