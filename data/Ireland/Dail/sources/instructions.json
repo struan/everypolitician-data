@@ -1,12 +1,7 @@
 {
   "sources": [
     {
-      "file": "morph/data.csv",
-      "create": {
-        "type": "morph",
-        "scraper": "tmtmtmtm/ireland-kildarestreet",
-        "query": "SELECT * FROM data ORDER BY id"
-      },
+      "file": "morph/kildare31.csv",
       "source": "https://morph.io/tmtmtmtm/ireland-kildarestreet",
       "type": "membership"
     },
