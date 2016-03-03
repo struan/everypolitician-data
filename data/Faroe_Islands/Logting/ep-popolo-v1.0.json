@@ -1462,6 +1462,10 @@
       "name": "Bárður Nielsen",
       "other_names": [
         {
+          "name": "Bárður Nielsen",
+          "note": "alternate"
+        },
+        {
           "lang": "da",
           "name": "Bárður Nielsen",
           "note": "multilingual"
@@ -1510,21 +1514,6 @@
       "sources": [
         {
           "url": "https://fo.wikipedia.org/wiki/L%C3%B8gtingslimir_%C3%AD_F%C3%B8royum_2002-2004"
-        }
-      ]
-    },
-    {
-      "id": "c0f8a9e9-8fa7-4829-93d9-e773773e2b2c",
-      "identifiers": [
-        {
-          "identifier": "Bárður á Steig Nielsen",
-          "scheme": "wikipedia_fo"
-        }
-      ],
-      "name": "Bárður á Steig Nielsen",
-      "sources": [
-        {
-          "url": "https://fo.wikipedia.org/wiki/L%C3%B8gtingslimir_%C3%AD_F%C3%B8royum_2011%E2%80%932015"
         }
       ]
     },
@@ -8165,6 +8154,14 @@
     },
     {
       "area_id": "area/norðurstreymoy",
+      "legislative_period_id": "term/2011",
+      "on_behalf_of_id": "party/sambandsflokkurin",
+      "organization_id": "legislature",
+      "person_id": "09a27ec3-c737-40cc-b6a0-e376f35d9822",
+      "role": "member"
+    },
+    {
+      "area_id": "area/norðurstreymoy",
       "legislative_period_id": "term/2015",
       "on_behalf_of_id": "party/sambandsflokkurin",
       "organization_id": "legislature",
@@ -9617,14 +9614,6 @@
       "on_behalf_of_id": "party/sambandsflokkurin",
       "organization_id": "legislature",
       "person_id": "bf077d3a-a9da-4cac-a3d4-8d0ec02bb0d6",
-      "role": "member"
-    },
-    {
-      "area_id": "area/norðurstreymoy",
-      "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "party/sambandsflokkurin",
-      "organization_id": "legislature",
-      "person_id": "c0f8a9e9-8fa7-4829-93d9-e773773e2b2c",
       "role": "member"
     },
     {
