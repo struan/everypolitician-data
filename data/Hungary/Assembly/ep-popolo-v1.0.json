@@ -5629,7 +5629,10 @@
       ]
     },
     {
+      "birth_date": "1964-03-12",
       "email": "gabor.zombor@parlament.hu",
+      "gender": "male",
+      "given_name": "Gábor",
       "id": "b6976a68-8f38-4447-b419-2d38628106d1",
       "identifiers": [
         {
@@ -5637,7 +5640,7 @@
           "scheme": "everypolitician_legacy"
         },
         {
-          "identifier": "Q20888522",
+          "identifier": "Q16195884",
           "scheme": "wikidata"
         }
       ],
@@ -5649,6 +5652,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Gábor_Zombor"
+        },
+        {
           "note": "Wikipedia (hu)",
           "url": "https://hu.wikipedia.org/wiki/Zombor_Gábor"
         }
@@ -5658,6 +5665,16 @@
         {
           "name": "Zombor Gábor",
           "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Gábor Zombor",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Gábor Zombor",
+          "note": "multilingual"
         },
         {
           "lang": "hu",
@@ -9416,19 +9433,22 @@
       ]
     },
     {
-      "birth_date": "1918-10-30",
-      "death_date": "2008-10-03",
+      "birth_date": "1955",
       "email": "Jeno.Manninger@parlament.hu",
       "gender": "male",
       "given_name": "Jenő",
       "id": "b8ae6795-0323-418a-a81d-58ebcac51143",
       "identifiers": [
         {
+          "identifier": "23817",
+          "scheme": "europarlmep"
+        },
+        {
           "identifier": "m014",
           "scheme": "everypolitician_legacy"
         },
         {
-          "identifier": "Q1164694",
+          "identifier": "Q16186780",
           "scheme": "wikidata"
         }
       ],
@@ -9440,22 +9460,18 @@
       ],
       "links": [
         {
-          "note": "Wikipedia (eo)",
-          "url": "https://eo.wikipedia.org/wiki/Jenő_Manninger"
-        },
-        {
-          "note": "Wikipedia (hu)",
-          "url": "https://hu.wikipedia.org/wiki/Manninger_Jenő"
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Jenő_Manninger"
         }
       ],
       "name": "Manninger, Jenő",
       "other_names": [
         {
-          "name": "Manninger Jenő",
+          "name": "Jenő Manninger",
           "note": "alternate"
         },
         {
-          "lang": "cy",
+          "lang": "de",
           "name": "Jenő Manninger",
           "note": "multilingual"
         },
@@ -9465,13 +9481,13 @@
           "note": "multilingual"
         },
         {
-          "lang": "eo",
+          "lang": "fr",
           "name": "Jenő Manninger",
           "note": "multilingual"
         },
         {
-          "lang": "hu",
-          "name": "Manninger Jenő",
+          "lang": "nl",
+          "name": "Jenő Manninger",
           "note": "multilingual"
         }
       ],
@@ -13088,7 +13104,7 @@
       ]
     },
     {
-      "birth_date": "1950-02-06",
+      "birth_date": "1961-11-03",
       "email": "laszlo.vigh@parlament.hu",
       "gender": "male",
       "given_name": "László",
@@ -13099,7 +13115,7 @@
           "scheme": "everypolitician_legacy"
         },
         {
-          "identifier": "Q19326861",
+          "identifier": "Q16194381",
           "scheme": "wikidata"
         }
       ],
@@ -13111,12 +13127,8 @@
       ],
       "links": [
         {
-          "note": "Wikipedia (eo)",
-          "url": "https://eo.wikipedia.org/wiki/László_Vígh"
-        },
-        {
-          "note": "Wikipedia (hu)",
-          "url": "https://hu.wikipedia.org/wiki/Vigh_László"
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/László_Vigh"
         }
       ],
       "name": "Vigh, László",
@@ -13126,23 +13138,18 @@
           "note": "alternate"
         },
         {
+          "lang": "de",
+          "name": "László Vigh",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "László Vigh",
           "note": "multilingual"
         },
         {
-          "lang": "eo",
-          "name": "László Vígh",
-          "note": "multilingual"
-        },
-        {
           "lang": "hu",
           "name": "Vigh László",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "László Vigh",
           "note": "multilingual"
         }
       ],
