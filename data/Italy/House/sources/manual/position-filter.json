@@ -1,0 +1,159 @@
+{
+  "exclude": {
+    "self": [
+      {
+        "id": "Q18558478",
+        "name": "member of the Chamber of Deputies of the Italian Republic"
+      }
+    ],
+    "other": [
+
+    ]
+  },
+  "include": {
+    "self": [
+      {
+        "id": "Q6360077",
+        "name": "President of the Chamber of Deputies of Italy"
+      }
+    ],
+    "other_legislatures": [
+      {
+        "id": "Q27169",
+        "name": "member of the European Parliament"
+      },
+      {
+        "id": "Q13653224",
+        "name": "member of the Italian Senate"
+      }
+    ],
+    "executive": [
+      {
+        "id": "Q11805434",
+        "name": "Italian Minister of Economic Development"
+      },
+      {
+        "id": "Q796897",
+        "name": "Prime Minister of Italy"
+      },
+      {
+        "id": "Q1321872",
+        "name": "Minister of Foreign Affairs"
+      },
+      {
+        "id": "Q6092845",
+        "name": "Italian Minister of Transports"
+      },
+      {
+        "id": "Q15355639",
+        "name": "President of Emilia-Romagna"
+      },
+      {
+        "id": "Q4011164",
+        "name": "Vice President of the Council of Ministers of Italy"
+      },
+      {
+        "id": "Q1540253",
+        "name": "Italian Minister of Justice"
+      },
+      {
+        "id": "Q1541071",
+        "name": "Italian Minister of the Interior"
+      }
+    ],
+    "party": [
+      {
+        "id": "Q15309742",
+        "name": "Secretary of the Democratic Party"
+      }
+    ],
+    "other": [
+      {
+        "id": "Q7241299",
+        "name": "President of Veneto"
+      },
+      {
+        "id": "Q15355884",
+        "name": "General Secretary of the CGIL"
+      },
+      {
+        "id": "Q3911095",
+        "name": "Governor of Trentino"
+      },
+      {
+        "id": "Q3965289",
+        "name": "Undersecretary to the Presidency of the Council"
+      },
+      {
+        "id": "Q634291",
+        "name": "High Representative of the Union for Foreign Affairs and Security Policy"
+      },
+      {
+        "id": "Q18683546",
+        "name": "president of Sardinia"
+      },
+      {
+        "id": "Q6501749",
+        "name": "General Secretary"
+      },
+      {
+        "id": "Q7241276",
+        "name": "President of Lombardy"
+      }
+    ]
+  },
+  "unknown": {
+    "unknown": [
+      {
+        "id": "Q30185",
+        "name": "mayor",
+        "count": 12
+      },
+      {
+        "id": "Q782620",
+        "name": "Ministry of Agricultural, Food and Forestry Policies",
+        "count": 6
+      },
+      {
+        "id": "Q1055894",
+        "name": "deputy",
+        "count": 2
+      },
+      {
+        "id": "Q1255921",
+        "name": "president",
+        "count": 1
+      },
+      {
+        "id": "Q3961597",
+        "name": "Mayors of Trento",
+        "count": 1
+      },
+      {
+        "id": "Q3708847",
+        "name": "Q3708847",
+        "count": 1
+      },
+      {
+        "id": "Q1347047",
+        "name": "Ministry of Cultural Heritage and Activities and Tourism",
+        "count": 1
+      },
+      {
+        "id": "Q7330070",
+        "name": "foreign minister",
+        "count": 1
+      },
+      {
+        "id": "Q1553195",
+        "name": "party leader",
+        "count": 1
+      },
+      {
+        "id": "Q3858501",
+        "name": "Italian minister",
+        "count": 1
+      }
+    ]
+  }
+}
