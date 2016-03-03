@@ -1,0 +1,44 @@
+{
+  "exclude": {
+    "self": [
+      {
+        "id": "Q19367406",
+        "name": "Member of the House of Representatives of Malta"
+      }
+    ],
+    "other": [
+
+    ]
+  },
+  "include": {
+    "self": [
+      {
+        "id": "Q6508543",
+        "name": "Leader of the Opposition"
+      }
+    ],
+    "other_legislatures": [
+      {
+        "id": "Q27169",
+        "name": "member of the European Parliament"
+      }
+    ],
+    "executive": [
+      {
+        "id": "Q5261066",
+        "name": "Deputy Prime Minister of Malta"
+      }
+    ],
+    "party": [
+
+    ],
+    "other": [
+
+    ]
+  },
+  "unknown": {
+    "unknown": [
+
+    ]
+  }
+}
