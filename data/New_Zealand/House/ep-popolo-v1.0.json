@@ -592,10 +592,10 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "http://www.parliament.nz//resource/en-NZ/51MP2211/d2c41f4d1480669619034545607aba765b53e1ee",
+      "image": "http://www.parliament.nz//resource/en-NZ/51MP2211/866b5e23ef457f2fbc2a5e4c2946a96cdc1eff92",
       "images": [
         {
-          "url": "http://www.parliament.nz//resource/en-NZ/51MP2211/d2c41f4d1480669619034545607aba765b53e1ee"
+          "url": "http://www.parliament.nz//resource/en-NZ/51MP2211/866b5e23ef457f2fbc2a5e4c2946a96cdc1eff92"
         }
       ],
       "links": [
@@ -1181,7 +1181,7 @@
           "value": "ClareCurranMP"
         }
       ],
-      "email": "clare.curren@parliament.govt.nz",
+      "email": "clare.curran@parliament.govt.nz",
       "gender": "female",
       "given_name": "Clare",
       "id": "b1e964e8-6698-4a48-bc87-45fc6e70fb90",
@@ -2874,10 +2874,10 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "http://www.parliament.nz//resource/en-NZ/51MP141/c96f0c33ed5cb2b310b9e793f4bab9ee1928fb7c",
+      "image": "http://www.parliament.nz//resource/en-NZ/51MP141/f1cd4b9bcc2aea7b73fddacec05289e4214c111c",
       "images": [
         {
-          "url": "http://www.parliament.nz//resource/en-NZ/51MP141/c96f0c33ed5cb2b310b9e793f4bab9ee1928fb7c"
+          "url": "http://www.parliament.nz//resource/en-NZ/51MP141/f1cd4b9bcc2aea7b73fddacec05289e4214c111c"
         }
       ],
       "links": [
@@ -3076,10 +3076,10 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "http://www.parliament.nz//resource/en-NZ/51MP2941/667b2fd68d3901f718307a4d73afe4e866710d1e",
+      "image": "http://www.parliament.nz//resource/en-NZ/51MP2941/20070ef1e5d879c602306064b5df0cb3e6c4906a",
       "images": [
         {
-          "url": "http://www.parliament.nz//resource/en-NZ/51MP2941/667b2fd68d3901f718307a4d73afe4e866710d1e"
+          "url": "http://www.parliament.nz//resource/en-NZ/51MP2941/20070ef1e5d879c602306064b5df0cb3e6c4906a"
         }
       ],
       "links": [
@@ -3222,6 +3222,12 @@
     },
     {
       "birth_date": "1957-06-20",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "ChesterBorrows"
+        }
+      ],
       "email": "chester.borrows@parliament.govt.nz",
       "gender": "male",
       "given_name": "Chester",
@@ -3254,6 +3260,14 @@
         {
           "note": "Wikipedia (sco)",
           "url": "https://sco.wikipedia.org/wiki/Chester_Borrows"
+        },
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/chesterborrows"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/ChesterBorrows"
         }
       ],
       "name": "Hon Chester Borrows",
@@ -6588,6 +6602,39 @@
       "contact_details": [
         {
           "type": "twitter",
+          "value": "MaramaDavidson"
+        }
+      ],
+      "email": "Marama.Davidson@parliament.govt.nz",
+      "id": "ed1ce5e7-6931-45bd-b38f-e138fb5fbac1",
+      "image": "http://www.parliament.nz//resource/en-NZ/51MPDavidsonMarama1/2e4bafb799095a3b394c35f265f01489a963f53c",
+      "images": [
+        {
+          "url": "http://www.parliament.nz//resource/en-NZ/51MPDavidsonMarama1/2e4bafb799095a3b394c35f265f01489a963f53c"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/marama.davidson"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/MaramaDavidson"
+        }
+      ],
+      "name": "Marama Davidson",
+      "sort_name": "Davidson, Marama",
+      "sources": [
+        {
+          "url": "http://www.parliament.nz/en-nz/?document=51MPDavidsonMarama1"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "twitter",
           "value": "FoxMarama"
         }
       ],
@@ -6768,6 +6815,39 @@
       "sources": [
         {
           "url": "http://www.parliament.nz/en-nz/?document=51MP3611"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "mpformp"
+        }
+      ],
+      "email": "maureen.pugh@parliament.govt.nz",
+      "id": "801b541a-a9c1-479b-a4ee-c2e1a9152020",
+      "image": "http://www.parliament.nz//resource/en-NZ/51MPPughMaureen1/e1fdd2ea8be3e63b0c7fe080de95de5f69e42276",
+      "images": [
+        {
+          "url": "http://www.parliament.nz//resource/en-NZ/51MPPughMaureen1/e1fdd2ea8be3e63b0c7fe080de95de5f69e42276"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/wct.maureenpugh"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/mpformp"
+        }
+      ],
+      "name": "Maureen Pugh",
+      "sort_name": "Pugh, Maureen",
+      "sources": [
+        {
+          "url": "http://www.parliament.nz/en-nz/?document=51MPPughMaureen1"
         }
       ]
     },
@@ -8012,10 +8092,10 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "http://www.parliament.nz//resource/en-NZ/51MP3621/fe1cdb502bdd9f38027b1473dd595ff311018dcd",
+      "image": "http://www.parliament.nz//resource/en-NZ/51MP3621/0e3fbf77e05d17b44400755b5775fdd9c4241124",
       "images": [
         {
-          "url": "http://www.parliament.nz//resource/en-NZ/51MP3621/fe1cdb502bdd9f38027b1473dd595ff311018dcd"
+          "url": "http://www.parliament.nz//resource/en-NZ/51MP3621/0e3fbf77e05d17b44400755b5775fdd9c4241124"
         }
       ],
       "links": [
@@ -9038,6 +9118,12 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "RiaBondMP"
+        }
+      ],
       "email": "Ria.Bond@parliament.govt.nz",
       "gender": "female",
       "id": "67b99f79-886e-49f5-89c4-4e6ea0efaabe",
@@ -9051,10 +9137,20 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "http://www.parliament.nz//resource/en-NZ/51MP3681/7fc771163882effb45f9953bc3d37f7094fc0e98",
+      "images": [
+        {
+          "url": "http://www.parliament.nz//resource/en-NZ/51MP3681/7fc771163882effb45f9953bc3d37f7094fc0e98"
+        }
+      ],
       "links": [
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Ria_Bond"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/RiaBondMP"
         }
       ],
       "name": "Ria Bond",
@@ -10267,10 +10363,10 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "http://www.parliament.nz//resource/en-NZ/51MP2481/02b2561702d471e6e282bf1f199319a648537331",
+      "image": "http://www.parliament.nz//resource/en-NZ/51MP2481/5273b1b06015e07a72d83bbe41acba23a1468f4a",
       "images": [
         {
-          "url": "http://www.parliament.nz//resource/en-NZ/51MP2481/02b2561702d471e6e282bf1f199319a648537331"
+          "url": "http://www.parliament.nz//resource/en-NZ/51MP2481/5273b1b06015e07a72d83bbe41acba23a1468f4a"
         }
       ],
       "links": [
@@ -11055,10 +11151,10 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "http://www.parliament.nz//resource/en-NZ/51MP861/827a503a026acd1e5700fcbd2a1e8dc4079755b5",
+      "image": "http://www.parliament.nz//resource/en-NZ/51MP861/4b85cc5675dd00bb7bc04cc253d6afe4022b5b93",
       "images": [
         {
-          "url": "http://www.parliament.nz//resource/en-NZ/51MP861/827a503a026acd1e5700fcbd2a1e8dc4079755b5"
+          "url": "http://www.parliament.nz//resource/en-NZ/51MP861/4b85cc5675dd00bb7bc04cc253d6afe4022b5b93"
         }
       ],
       "links": [
@@ -12428,6 +12524,14 @@
       "legislative_period_id": "term/51",
       "on_behalf_of_id": "party/national_party",
       "organization_id": "legislature",
+      "person_id": "801b541a-a9c1-479b-a4ee-c2e1a9152020",
+      "role": "member"
+    },
+    {
+      "area_id": "area/list",
+      "legislative_period_id": "term/51",
+      "on_behalf_of_id": "party/national_party",
+      "organization_id": "legislature",
       "person_id": "8229de1c-2dd0-4b28-9792-fa4eb980db63",
       "role": "member"
     },
@@ -12837,6 +12941,14 @@
       "on_behalf_of_id": "party/national_party",
       "organization_id": "legislature",
       "person_id": "ebd6bf2a-4ea1-4bd5-a1fd-b64692267d85",
+      "role": "member"
+    },
+    {
+      "area_id": "area/list",
+      "legislative_period_id": "term/51",
+      "on_behalf_of_id": "party/green_party",
+      "organization_id": "legislature",
+      "person_id": "ed1ce5e7-6931-45bd-b38f-e138fb5fbac1",
       "role": "member"
     },
     {
