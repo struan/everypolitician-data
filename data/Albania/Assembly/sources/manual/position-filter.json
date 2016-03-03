@@ -1,0 +1,55 @@
+{
+  "exclude": {
+    "self": [
+      {
+        "id": "Q20177772",
+        "name": "Member of the Parliament of Albania"
+      }
+    ],
+    "other": [
+
+    ]
+  },
+  "include": {
+    "self": [
+
+    ],
+    "other_legislatures": [
+
+    ],
+    "executive": [
+      {
+        "id": "Q1625960",
+        "name": "President of Albania"
+      },
+      {
+        "id": "Q16009376",
+        "name": "Prime Minister of Albania"
+      },
+      {
+        "id": "Q3304204",
+        "name": "Minister of Foreign Affairs"
+      }
+    ],
+    "party": [
+
+    ],
+    "other": [
+
+    ]
+  },
+  "unknown": {
+    "unknown": [
+      {
+        "id": "Q188094",
+        "name": "economist",
+        "count": 1
+      },
+      {
+        "id": "Q82955",
+        "name": "politician",
+        "count": 1
+      }
+    ]
+  }
+}
