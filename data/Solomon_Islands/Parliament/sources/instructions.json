@@ -56,6 +56,14 @@
         "type": "gender-balance",
         "source": "Solomon-Islands/Parliament"
       }
+    },
+    {
+      "file": "wikidata/positions.json",
+      "type": "wikidata-positions",
+      "create": {
+        "type": "wikidata-raw",
+        "source": "reconciliation/wikidata.csv"
+      }
     }
   ]
 }
