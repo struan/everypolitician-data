@@ -55,6 +55,14 @@
         "type": "gender-balance",
         "source": "Falkland-Islands/Assembly"
       }
+    },
+    {
+      "file": "wikidata/positions.json",
+      "type": "wikidata-positions",
+      "create": {
+        "type": "wikidata-raw",
+        "source": "reconciliation/wikidata.csv"
+      }
     }
   ]
 }
