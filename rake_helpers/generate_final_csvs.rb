@@ -1,4 +1,5 @@
 require 'everypolitician/popolo'
+require 'json5'
 
 desc "Build the term-table CSVs"
 task :csvs => ['term_csvs:term_tables', 'term_csvs:name_list', 'term_csvs:positions', 'term_csvs:reports']
@@ -90,7 +91,9 @@ namespace :term_csvs do
 
     positions = JSON.parse(File.read(positions_raw), symbolize_names: true) 
     filter    = if File.exist?(filter_file) 
-      JSON.parse(File.read(filter_file), symbolize_names: true).each do |s, fs|
+      # read with JSON5 to be more liberal about trailing commas. 
+      # But it doesn't have a 'symbolize_names' so rountrip through JSON
+      JSON.parse(JSON5.parse(File.read(filter_file)).to_json, symbolize_names: true).each do |s, fs|
         fs.each { |_,fs| fs.each { |f| f.delete :count } }
       end
     else 

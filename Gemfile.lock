@@ -32,6 +32,7 @@ GEM
     hashdiff (0.2.3)
     iso_country_codes (0.7.2)
     json (1.8.3)
+    json5 (0.0.1)
     method_source (0.8.2)
     mini_portile2 (2.0.0)
     minitest (5.8.3)
@@ -66,6 +67,7 @@ DEPENDENCIES
   fuzzy_match
   iso_country_codes
   json
+  json5
   minitest
   minitest-around
   nokogiri

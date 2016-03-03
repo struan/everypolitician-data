@@ -15,6 +15,7 @@ gem 'sass'
 gem 'unicode_utils'
 gem 'wikisnakker', git: 'https://github.com/everypolitician/wikisnakker', branch: 'master'
 gem 'everypolitician-popolo', git: 'https://github.com/everypolitician/everypolitician-popolo', branch: 'master'
+gem 'json5'
 
 group :test do
   gem 'minitest'
