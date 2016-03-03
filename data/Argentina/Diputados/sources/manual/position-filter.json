@@ -1,0 +1,67 @@
+{
+  "exclude": {
+    "self": [
+      {
+        "id": "Q18229570",
+        "name": "Member of the Argentine Chamber of Deputies"
+      }
+    ],
+    "other": [
+
+    ]
+  },
+  "include": {
+    "self": [
+
+    ],
+    "other_legislatures": [
+      {
+        "id": "Q18711738",
+        "name": "Member of the Argentine Chamber of Senators"
+      }
+    ],
+    "executive": [
+
+    ],
+    "party": [
+
+    ],
+    "other": [
+      {
+        "id": "Q3249940",
+        "name": "Governor of Córdoba"
+      },
+      {
+        "id": "Q5589713",
+        "name": "Governor of Santa Fe"
+      },
+      {
+        "id": "Q1425955",
+        "name": "Governor of Buenos Aires Province"
+      },
+      {
+        "id": "Q5589678",
+        "name": "Governor of Mendoza"
+      }
+    ]
+  },
+  "unknown": {
+    "unknown": [
+      {
+        "id": "Q30185",
+        "name": "mayor",
+        "count": 2
+      },
+      {
+        "id": "Q2914766",
+        "name": "List of Vice Presidents of Argentina",
+        "count": 1
+      },
+      {
+        "id": "Q11027134",
+        "name": "List of Governors of Chubut",
+        "count": 1
+      }
+    ]
+  }
+}
