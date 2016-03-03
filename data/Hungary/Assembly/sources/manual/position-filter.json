@@ -1,0 +1,66 @@
+{
+  "exclude": {
+    "self": [
+      {
+        "id": "Q17590876",
+        "name": "member of the National Assembly of Hungary"
+      }
+    ],
+    "other": [
+
+    ]
+  },
+  "include": {
+    "self": [
+
+    ],
+    "other_legislatures": [
+      {
+        "id": "Q27169",
+        "name": "member of the European Parliament"
+      }
+    ],
+    "executive": [
+      {
+        "id": "Q520765",
+        "name": "President of Hungary"
+      },
+      {
+        "id": "Q3315094",
+        "name": "Prime Minister of Hungary"
+      },
+      {
+        "id": "Q736559",
+        "name": "Secretary of State"
+      },
+      {
+        "id": "Q18325108",
+        "name": "Minister of Defence"
+      },
+      {
+        "id": "Q17278782",
+        "name": "Minister of Youth Affairs and Sports"
+      }
+    ],
+    "party": [
+
+    ],
+    "other": [
+
+    ]
+  },
+  "unknown": {
+    "unknown": [
+      {
+        "id": "Q30185",
+        "name": "mayor",
+        "count": 3
+      },
+      {
+        "id": "Q83307",
+        "name": "minister",
+        "count": 2
+      }
+    ]
+  }
+}
