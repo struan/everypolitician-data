@@ -1,0 +1,41 @@
+{
+  "exclude": {
+    "self": [
+      {
+        "id": "Q18643511",
+        "name": "representative in the Croatian Parliament"
+      }
+    ],
+    "other": [
+
+    ]
+  },
+  "include": {
+    "self": [
+
+    ],
+    "other_legislatures": [
+      {
+        "id": "Q27169",
+        "name": "member of the European Parliament"
+      }
+    ],
+    "executive": [
+      {
+        "id": "Q1195270",
+        "name": "Prime Minister of Croatia"
+      }
+    ],
+    "party": [
+
+    ],
+    "other": [
+
+    ]
+  },
+  "unknown": {
+    "unknown": [
+
+    ]
+  }
+}
