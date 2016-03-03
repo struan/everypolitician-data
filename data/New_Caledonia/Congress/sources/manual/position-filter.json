@@ -1,0 +1,44 @@
+{
+  "exclude": {
+    "self": [
+
+    ],
+    "other": [
+
+    ]
+  },
+  "include": {
+    "self": [
+
+    ],
+    "other_legislatures": [
+      {
+        "id": "Q3044918",
+        "name": "member of parliament in France"
+      }
+    ],
+    "executive": [
+
+    ],
+    "party": [
+
+    ],
+    "other": [
+
+    ]
+  },
+  "unknown": {
+    "unknown": [
+      {
+        "id": "Q382617",
+        "name": "maire",
+        "count": 5
+      },
+      {
+        "id": "Q1055894",
+        "name": "deputy",
+        "count": 1
+      }
+    ]
+  }
+}
