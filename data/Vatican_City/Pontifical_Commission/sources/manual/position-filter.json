@@ -1,0 +1,63 @@
+{
+  "exclude": {
+    "self": [
+
+    ],
+    "other": [
+
+    ]
+  },
+  "include": {
+    "self": [
+
+    ],
+    "other_legislatures": [
+
+    ],
+    "executive": [
+
+    ],
+    "party": [
+
+    ],
+    "other": [
+      {
+        "id": "Q2387238",
+        "name": "President of the Pontifical Commission for Vatican City State"
+      },
+      {
+        "id": "Q49476",
+        "name": "archbishop"
+      },
+      {
+        "id": "Q29182",
+        "name": "bishop"
+      },
+      {
+        "id": "Q45722",
+        "name": "cardinal"
+      },
+      {
+        "id": "Q157037",
+        "name": "nuncio"
+      },
+      {
+        "id": "Q339477",
+        "name": "Camerlengo of the Holy Roman Church"
+      },
+      {
+        "id": "Q19823475",
+        "name": "prefect of the Vatican Library"
+      }
+    ]
+  },
+  "unknown": {
+    "unknown": [
+      {
+        "id": "Q731830",
+        "name": "Congregation for Bishops",
+        "count": 1
+      }
+    ]
+  }
+}
