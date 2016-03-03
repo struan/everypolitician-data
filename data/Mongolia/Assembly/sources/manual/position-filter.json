@@ -1,0 +1,46 @@
+{
+  "exclude": {
+    "self": [
+
+    ],
+    "other": [
+
+    ]
+  },
+  "include": {
+    "self": [
+
+    ],
+    "other_legislatures": [
+
+    ],
+    "executive": [
+      {
+        "id": "Q903751",
+        "name": "Prime Minister of Mongolia"
+      },
+      {
+        "id": "Q756265",
+        "name": "President of Mongolia"
+      }
+    ],
+    "party": [
+      {
+        "id": "Q5532176",
+        "name": "General Secretary of the Central Committee of the Mongolian People's Party"
+      }
+    ],
+    "other": [
+
+    ]
+  },
+  "unknown": {
+    "unknown": [
+      {
+        "id": "Q486839",
+        "name": "member of parliament",
+        "count": 1
+      }
+    ]
+  }
+}
