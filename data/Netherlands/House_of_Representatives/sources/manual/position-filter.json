@@ -3,36 +3,28 @@
     "self": [
       {
         "id": "Q18887908",
-        "name": "member of the House of Representatives of the Netherlands",
-        "count": 155
-      },
-
+        "name": "member of the House of Representatives of the Netherlands"
+      }
     ],
     "other": [
       {
         "id": "Q19305384",
-        "name": "member of the Senate of the Netherlands",
-        "count": 4
-      },
-
+        "name": "member of the Senate of the Netherlands"
+      }
     ]
   },
   "include": {
     "self": [
       {
         "id": "Q2588268",
-        "name": "Speaker of the House of Representatives (Netherlands)",
-        "count": 2
-      },
-
+        "name": "Speaker of the House of Representatives (Netherlands)"
+      }
     ],
     "other_legislatures": [
       {
         "id": "Q27169",
-        "name": "member of the European Parliament",
-        "count": 2
-      },
-
+        "name": "member of the European Parliament"
+      }
     ],
     "executive": [
 
@@ -43,24 +35,40 @@
     "other": [
       {
         "id": "Q20872336",
-        "name": "municipal councillor of Woerden",
-        "count": 2
+        "name": "municipal councillor of Woerden"
       },
       {
         "id": "Q21384866",
-        "name": "municipal executive of Rotterdam",
-        "count": 2
+        "name": "municipal executive of Rotterdam"
       },
       {
         "id": "Q20872339",
-        "name": "municipal executive of Woerden",
-        "count": 1
-      },
-
+        "name": "municipal executive of Woerden"
+      }
     ]
   },
   "unknown": {
     "unknown": [
+      {
+        "id": "Q20748648",
+        "name": "municipal councillor",
+        "count": 1
+      },
+      {
+        "id": "Q486839",
+        "name": "member of parliament",
+        "count": 1
+      },
+      {
+        "id": "Q18966090",
+        "name": "Boxmeer municipal council",
+        "count": 1
+      },
+      {
+        "id": "Q928764",
+        "name": "parliamentary group leader",
+        "count": 1
+      }
     ]
   }
 }
