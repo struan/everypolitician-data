@@ -555,12 +555,18 @@
       ]
     },
     {
+      "birth_date": "1941-12-23",
       "gender": "female",
+      "given_name": "Josy",
       "id": "df2d6c43-cdbd-4727-885d-5699ff1a711f",
       "identifiers": [
         {
           "identifier": "178",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q1708859",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://landtaglive.gmgnet.li/files/attachments/josy_biedermann.jpg",
@@ -569,7 +575,54 @@
           "url": "http://landtaglive.gmgnet.li/files/attachments/josy_biedermann.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Josy_Biedermann"
+        }
+      ],
       "name": "Biedermann Josy",
+      "other_names": [
+        {
+          "name": "Josy Biedermann",
+          "note": "alternate"
+        },
+        {
+          "lang": "da",
+          "name": "Josy Biedermann",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Josy Biedermann",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Josy Biedermann",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Josy Biedermann",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Josy Biedermann",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Josy Biedermann",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Josy Biedermann",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.landtag.li/personen.aspx?nid=4158&auswahl=4158&lang=de&jahr=2005&sitzordnung=0"
@@ -746,12 +799,18 @@
       ]
     },
     {
+      "birth_date": "1953-01-14",
       "gender": "male",
+      "given_name": "Markus",
       "id": "ba2f80f7-e77b-4b84-9686-7f9c7dca0ad1",
       "identifiers": [
         {
           "identifier": "182",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q1673425",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://landtaglive.gmgnet.li/files/attachments/markus_buechel.jpg",
@@ -760,7 +819,34 @@
           "url": "http://landtaglive.gmgnet.li/files/attachments/markus_buechel.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Markus_Büchel_(Landtagsabgeordneter)"
+        }
+      ],
       "name": "Büchel Markus",
+      "other_names": [
+        {
+          "name": "Markus Büchel",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Markus Büchel",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Markus Büchel",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Markus Büchel",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.landtag.li/personen.aspx?nid=4158&auswahl=4158&lang=de&jahr=2005&sitzordnung=0"
@@ -824,12 +910,18 @@
       ]
     },
     {
+      "birth_date": "1967-06-26",
       "gender": "male",
+      "given_name": "Henrik",
       "id": "52b01605-9d16-44a1-8f88-b64dd477a9f6",
       "identifiers": [
         {
           "identifier": "188",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q1606239",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://landtaglive.gmgnet.li/files/attachments/henrik_caduff.jpg",
@@ -838,7 +930,34 @@
           "url": "http://landtaglive.gmgnet.li/files/attachments/henrik_caduff.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Henrik_Caduff"
+        }
+      ],
       "name": "Caduff Henrik",
+      "other_names": [
+        {
+          "name": "Henrik Caduff",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Henrik Caduff",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Henrik Caduff",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Henrik Caduff",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.landtag.li/personen.aspx?nid=4158&auswahl=4158&lang=de&jahr=2005&sitzordnung=0"
@@ -1282,12 +1401,30 @@
       ]
     },
     {
+      "birth_date": "1948-06-18",
       "gender": "male",
+      "given_name": "Franz",
       "id": "0bc84e36-5931-45b6-9b05-43ca16475140",
       "identifiers": [
         {
           "identifier": "183",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "120392771",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "n99014823",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "20510841",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q1412079",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://landtaglive.gmgnet.li/files/attachments/franz_heeb.jpg",
@@ -1296,7 +1433,64 @@
           "url": "http://landtaglive.gmgnet.li/files/attachments/franz_heeb.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Franz_J._Heeb"
+        }
+      ],
       "name": "Heeb Franz J.",
+      "other_names": [
+        {
+          "name": "Franz J. Heeb",
+          "note": "alternate"
+        },
+        {
+          "lang": "da",
+          "name": "Franz J. Heeb",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Franz J. Heeb",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Franz Josef Heeb",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Franz Josef Heeb",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Franz Josef Heeb",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Franz J. Heeb",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Franz Josef Heeb",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Franz J. Heeb",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Franz J. Heeb",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.landtag.li/personen.aspx?nid=4158&auswahl=4158&lang=de&jahr=2005&sitzordnung=0"
@@ -1579,12 +1773,18 @@
       ]
     },
     {
+      "birth_date": "1961-04-30",
       "gender": "male",
+      "given_name": "Ivo",
       "id": "f50dec7e-0115-4dd7-bccd-43a19c24cf7a",
       "identifiers": [
         {
           "identifier": "185",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q1675777",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://landtaglive.gmgnet.li/files/attachments/ivo_klein.jpg",
@@ -1593,7 +1793,34 @@
           "url": "http://landtaglive.gmgnet.li/files/attachments/ivo_klein.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Ivo_Klein"
+        }
+      ],
       "name": "Klein Ivo",
+      "other_names": [
+        {
+          "name": "Ivo Klein",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Ivo Klein",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Ivo Klein",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Ivo Klein",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.landtag.li/personen.aspx?nid=4158&auswahl=4158&lang=de&jahr=2005&sitzordnung=0"
@@ -1975,12 +2202,18 @@
       ]
     },
     {
+      "birth_date": "1956-05-06",
       "gender": "male",
+      "given_name": "Rudolf",
       "id": "2817e046-1dc6-4b32-9c96-75f81fe83cae",
       "identifiers": [
         {
           "identifier": "184",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q2173284",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://landtaglive.gmgnet.li/files/attachments/rudolf_lampert.jpg",
@@ -1989,7 +2222,39 @@
           "url": "http://landtaglive.gmgnet.li/files/attachments/rudolf_lampert.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Rudolf_Lampert"
+        }
+      ],
       "name": "Lampert Rudolf",
+      "other_names": [
+        {
+          "name": "Rudolf Lampert",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Rudolf Lampert",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Rudolf Lampert",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Rudolf Lampert",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Rudolf Lampert",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.landtag.li/personen.aspx?nid=4158&auswahl=4158&lang=de&jahr=2005&sitzordnung=0"
@@ -2195,12 +2460,18 @@
       ]
     },
     {
+      "birth_date": "1961-04-29",
       "gender": "female",
+      "given_name": "Andrea",
       "id": "0cc3c134-1899-4236-bffe-a446d57b4494",
       "identifiers": [
         {
           "identifier": "200",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q494420",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://landtaglive.gmgnet.li/files/attachments/andrea_matt.jpg",
@@ -2209,7 +2480,39 @@
           "url": "http://landtaglive.gmgnet.li/files/attachments/andrea_matt.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Andrea_Matt"
+        }
+      ],
       "name": "Matt Andrea",
+      "other_names": [
+        {
+          "name": "Andrea Matt",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Andrea Matt",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Andrea Matt",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Andrea Matt",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Andrea Matt",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.landtag.li/personen.aspx?nid=4158&auswahl=4158&lang=de&jahr=2005&sitzordnung=0"
@@ -2574,12 +2877,18 @@
       ]
     },
     {
+      "birth_date": "1968-04-06",
       "gender": "male",
+      "given_name": "Heinz",
       "id": "482b1119-efee-4663-8f4b-338e25aff5c1",
       "identifiers": [
         {
           "identifier": "180",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q1536817",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://landtaglive.gmgnet.li/files/attachments/heinz_vogt.jpg",
@@ -2588,7 +2897,59 @@
           "url": "http://landtaglive.gmgnet.li/files/attachments/heinz_vogt.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Heinz_Vogt"
+        }
+      ],
       "name": "Vogt Heinz",
+      "other_names": [
+        {
+          "name": "Heinz Vogt",
+          "note": "alternate"
+        },
+        {
+          "lang": "da",
+          "name": "Heinz Vogt",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Heinz Vogt",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Heinz Vogt",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Heinz Vogt",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Heinz Vogt",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Heinz Vogt",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Heinz Vogt",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Heinz Vogt",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.landtag.li/personen.aspx?nid=4158&auswahl=4158&lang=de&jahr=2005&sitzordnung=0"
@@ -2596,12 +2957,22 @@
       ]
     },
     {
+      "birth_date": "1952-04-05",
       "gender": "male",
+      "given_name": "Paul",
       "id": "e24b6d7a-e034-474b-ba73-d9a10a394ed9",
       "identifiers": [
         {
           "identifier": "181",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "51188344",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q1502089",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://landtaglive.gmgnet.li/files/attachments/paul_vogt.jpg",
@@ -2610,7 +2981,59 @@
           "url": "http://landtaglive.gmgnet.li/files/attachments/paul_vogt.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Paul_Vogt_(Politiker)"
+        }
+      ],
       "name": "Vogt Paul",
+      "other_names": [
+        {
+          "name": "Paul Vogt",
+          "note": "alternate"
+        },
+        {
+          "lang": "da",
+          "name": "Paul Vogt",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Paul Vogt",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Paul Vogt",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Paul Vogt",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Paul Vogt",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Paul Vogt",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Пол Вогт",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Paul Vogt",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.landtag.li/personen.aspx?nid=4158&auswahl=4158&lang=de&jahr=2005&sitzordnung=0"
@@ -2674,12 +3097,22 @@
       ]
     },
     {
+      "birth_date": "1941-02-24",
       "gender": "male",
+      "given_name": "Klaus",
       "id": "cdd3d8a8-0dfd-40d1-be5b-73c1ff7551b6",
       "identifiers": [
         {
           "identifier": "177",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/0d26rp",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q364154",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://landtaglive.gmgnet.li/files/attachments/klaus_wanger.jpg",
@@ -2688,7 +3121,95 @@
           "url": "http://landtaglive.gmgnet.li/files/attachments/klaus_wanger.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Klaus_Wanger"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Klaus_Wanger"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Вангер,_Клаус"
+        },
+        {
+          "note": "Wikipedia (sh)",
+          "url": "https://sh.wikipedia.org/wiki/Klaus_Wanger"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Клаус_Вангер"
+        }
+      ],
       "name": "Wanger Klaus",
+      "other_names": [
+        {
+          "name": "Klaus Wanger",
+          "note": "alternate"
+        },
+        {
+          "lang": "da",
+          "name": "Klaus Wanger",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Klaus Wanger",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Klaus Wanger",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Klaus Wanger",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Klaus Wanger",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Klaus Wanger",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Klaus Wanger",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Klaus Wanger",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Клаус Вангер",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Klaus Wanger",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Klaus Wanger",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Клаус Вангер",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.landtag.li/personen.aspx?nid=4158&auswahl=4158&lang=de&jahr=2005&sitzordnung=0"
