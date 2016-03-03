@@ -1,0 +1,47 @@
+{
+  "exclude": {
+    "self": [
+
+    ],
+    "other": [
+
+    ]
+  },
+  "include": {
+    "self": [
+
+    ],
+    "other_legislatures": [
+      {
+        "id": "Q17592486",
+        "name": "member of the Parliament of Finland"
+      }
+    ],
+    "executive": [
+      {
+        "id": "Q20167466",
+        "name": "Premier of the Åland Islands"
+      }
+    ],
+    "party": [
+
+    ],
+    "other": [
+
+    ]
+  },
+  "unknown": {
+    "unknown": [
+      {
+        "id": "Q5689",
+        "name": "Åland Islands",
+        "count": 2
+      },
+      {
+        "id": "Q1091494",
+        "name": "Parliament of Åland",
+        "count": 1
+      }
+    ]
+  }
+}
