@@ -1,0 +1,55 @@
+{
+  "exclude": {
+    "self": [
+      {
+        "id": "Q19953703",
+        "name": "Member of the Assembly of the Republic"
+      }
+    ],
+    "other": [
+
+    ]
+  },
+  "include": {
+    "self": [
+
+    ],
+    "other_legislatures": [
+      {
+        "id": "Q27169",
+        "name": "member of the European Parliament"
+      }
+    ],
+    "executive": [
+      {
+        "id": "Q3315134",
+        "name": "Minister for Women and Equalities"
+      }
+    ],
+    "party": [
+
+    ],
+    "other": [
+
+    ]
+  },
+  "unknown": {
+    "unknown": [
+      {
+        "id": "Q3273722",
+        "name": "health minister",
+        "count": 1
+      },
+      {
+        "id": "Q1837874",
+        "name": "List of mayors of Lisbon",
+        "count": 1
+      },
+      {
+        "id": "Q769829",
+        "name": "Portuguese Communist Party",
+        "count": 1
+      }
+    ]
+  }
+}
