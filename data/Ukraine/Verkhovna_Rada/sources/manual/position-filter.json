@@ -1,0 +1,68 @@
+{
+  "exclude": {
+    "self": [
+      {
+        "id": "Q12132454",
+        "name": "People's Deputy of Ukraine"
+      }
+    ],
+    "other": [
+
+    ]
+  },
+  "include": {
+    "self": [
+      {
+        "id": "Q679817",
+        "name": "Chairman of the Verkhovna Rada"
+      }
+    ],
+    "other_legislatures": [
+
+    ],
+    "executive": [
+      {
+        "id": "Q579677",
+        "name": "President of Ukraine"
+      },
+      {
+        "id": "Q1145714",
+        "name": "Prime Minister of Ukraine"
+      },
+      {
+        "id": "Q3099723",
+        "name": "Minister-President"
+      }
+    ],
+    "party": [
+
+    ],
+    "other": [
+
+    ]
+  },
+  "unknown": {
+    "unknown": [
+      {
+        "id": "Q4294403",
+        "name": "Ministry of Foreign Affairs of Ukraine",
+        "count": 3
+      },
+      {
+        "id": "Q6867070",
+        "name": "Ministry of Fuel and Energy",
+        "count": 1
+      },
+      {
+        "id": "Q2445140",
+        "name": "Ministry of Internal Affairs",
+        "count": 1
+      },
+      {
+        "id": "Q30185",
+        "name": "mayor",
+        "count": 1
+      }
+    ]
+  }
+}
