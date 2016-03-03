@@ -54,6 +54,14 @@
         "type": "gender-balance",
         "source": "Taiwan/Legislative-Yuan"
       }
+    },
+    {
+      "file": "wikidata/positions.json",
+      "type": "wikidata-positions",
+      "create": {
+        "type": "wikidata-raw",
+        "source": "reconciliation/wikidata.csv"
+      }
     }
   ]
 }
