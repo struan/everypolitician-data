@@ -1,0 +1,63 @@
+{
+  "exclude": {
+    "self": [
+      {
+        "id": "Q17535155",
+        "name": "Member of the National Council of Austria"
+      }
+    ],
+    "other": [
+
+    ]
+  },
+  "include": {
+    "self": [
+      {
+        "id": "Q1321109",
+        "name": "President of the National Council of Austria"
+      }
+    ],
+    "other_legislatures": [
+      {
+        "id": "Q19360771",
+        "name": "member of the Austrian federal council"
+      },
+      {
+        "id": "Q18821575",
+        "name": "Member of the Landtag of Lower Austria"
+      },
+      {
+        "id": "Q1343573",
+        "name": "Member of state parliament"
+      }
+    ],
+    "executive": [
+
+    ],
+    "party": [
+
+    ],
+    "other": [
+
+    ]
+  },
+  "unknown": {
+    "unknown": [
+      {
+        "id": "Q486839",
+        "name": "member of parliament",
+        "count": 1
+      },
+      {
+        "id": "Q22328268",
+        "name": "Q22328268",
+        "count": 1
+      },
+      {
+        "id": "Q19666653",
+        "name": "Landesrat",
+        "count": 1
+      }
+    ]
+  }
+}

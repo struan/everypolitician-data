@@ -31,6 +31,14 @@
         "type": "gender-balance",
         "source": "Austria/Nationalrat"
       }
+    },
+    {
+      "file": "wikidata/positions.json",
+      "type": "wikidata-positions",
+      "create": {
+        "type": "wikidata-raw",
+        "source": "reconciliation/wikidata.csv"
+      }
     }
   ]
 }
