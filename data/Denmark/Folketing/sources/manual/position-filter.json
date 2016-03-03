@@ -1,0 +1,141 @@
+{
+  "exclude": {
+    "self": [
+      {
+        "id": "Q12311817",
+        "name": "member of the Folketing"
+      }
+    ],
+    "other": [
+
+    ]
+  },
+  "include": {
+    "self": [
+
+    ],
+    "other_legislatures": [
+      {
+        "id": "Q27169",
+        "name": "member of the European Parliament"
+      }
+    ],
+    "executive": [
+      {
+        "id": "Q795477",
+        "name": "Prime Minister of Denmark"
+      },
+      {
+        "id": "Q5449541",
+        "name": "Finance Minister of Denmark"
+      },
+      {
+        "id": "Q20069142",
+        "name": "Danish Minister of Transport"
+      },
+      {
+        "id": "Q1311756",
+        "name": "Minister for the Environment"
+      },
+      {
+        "id": "Q12310252",
+        "name": "Danish commerce minister"
+      },
+      {
+        "id": "Q1030099",
+        "name": "Culture Minister of Denmark"
+      },
+      {
+        "id": "Q6317024",
+        "name": "Justice Minister of Denmark"
+      },
+      {
+        "id": "Q6866144",
+        "name": "Minister of Foreign Affairs"
+      },
+      {
+        "id": "Q18913269",
+        "name": "Minister of the Interior"
+      },
+      {
+        "id": "Q18913275",
+        "name": "Minister of Health"
+      },
+      {
+        "id": "Q11991832",
+        "name": "Minister for Nordic Co-operation"
+      },
+      {
+        "id": "Q1815344",
+        "name": "Defence Minister of Denmark"
+      }
+    ],
+    "party": [
+
+    ],
+    "other": [
+      {
+        "id": "Q19185575",
+        "name": "President of the Nordic Council"
+      },
+      {
+        "id": "Q1161813",
+        "name": "President of the United Nations General Assembly"
+      }
+    ]
+  },
+  "unknown": {
+    "unknown": [
+      {
+        "id": "Q83307",
+        "name": "minister",
+        "count": 4
+      },
+      {
+        "id": "Q2518691",
+        "name": "defence minister",
+        "count": 3
+      },
+      {
+        "id": "Q18913281",
+        "name": "Q18913281",
+        "count": 1
+      },
+      {
+        "id": "Q18913290",
+        "name": "Q18913290",
+        "count": 1
+      },
+      {
+        "id": "Q3544677",
+        "name": "List of Ministers for Food, Agriculture and Fisheries of Denmark",
+        "count": 1
+      },
+      {
+        "id": "Q12336940",
+        "name": "Q12336940",
+        "count": 1
+      },
+      {
+        "id": "Q12312037",
+        "name": "Q12312037",
+        "count": 1
+      },
+      {
+        "id": "Q30185",
+        "name": "mayor",
+        "count": 1
+      },
+      {
+        "id": "Q4018482",
+        "name": "education minister",
+        "count": 1
+      },
+      {
+        "id": "Q679997",
+        "name": "List of Prime Ministers of Greenland",
+        "count": 1
+      }
+    ]
+  }
+}
