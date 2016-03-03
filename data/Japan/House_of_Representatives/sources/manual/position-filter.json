@@ -1,0 +1,80 @@
+{
+  "exclude": {
+    "self": [
+      {
+        "id": "Q17506823",
+        "name": "member of the House of Representatives of Japan"
+      }
+    ],
+    "other": [
+
+    ]
+  },
+  "include": {
+    "self": [
+
+    ],
+    "other_legislatures": [
+      {
+        "id": "Q14552828",
+        "name": "member of the House of Councillors"
+      }
+    ],
+    "executive": [
+      {
+        "id": "Q274948",
+        "name": "Prime Minister of Japan"
+      },
+      {
+        "id": "Q6500849",
+        "name": "Minister of Finance"
+      },
+      {
+        "id": "Q1767791",
+        "name": "Deputy Prime Minister of Japan"
+      },
+      {
+        "id": "Q1355043",
+        "name": "Minister for Foreign Affairs"
+      },
+      {
+        "id": "Q6500838",
+        "name": "Minister of Defense"
+      },
+      {
+        "id": "Q842012",
+        "name": "Minister of Land, Infrastructure, Transport and Tourism"
+      },
+      {
+        "id": "Q11634582",
+        "name": "Senior Vice Minister of Finance"
+      },
+      {
+        "id": "Q1078482",
+        "name": "Chief Cabinet Secretary"
+      },
+      {
+        "id": "Q841904",
+        "name": "Minister of Justice"
+      }
+    ],
+    "party": [
+      {
+        "id": "Q11547841",
+        "name": "President of the Democratic Party"
+      }
+    ],
+    "other": [
+
+    ]
+  },
+  "unknown": {
+    "unknown": [
+      {
+        "id": "Q954350",
+        "name": "Ministry of Home Affairs",
+        "count": 1
+      }
+    ]
+  }
+}
