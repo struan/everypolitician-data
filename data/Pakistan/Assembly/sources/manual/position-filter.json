@@ -1,0 +1,76 @@
+{
+  "exclude": {
+    "self": [
+      {
+        "id": "Q20760546",
+        "name": "Member of the National Assembly of Pakistan"
+      }
+    ],
+    "other": [
+
+    ]
+  },
+  "include": {
+    "self": [
+      {
+        "id": "Q6508554",
+        "name": "Leader of the Opposition"
+      }
+    ],
+    "other_legislatures": [
+
+    ],
+    "executive": [
+      {
+        "id": "Q735575",
+        "name": "Prime Minister of Pakistan"
+      },
+      {
+        "id": "Q5261070",
+        "name": "Deputy Prime Minister of Pakistan"
+      },
+      {
+        "id": "Q6866210",
+        "name": "Minister of Information and Broadcasting"
+      }
+    ],
+    "party": [
+
+    ],
+    "other": [
+      {
+        "id": "Q3695530",
+        "name": "Chief Minister of Balochistan"
+      }
+    ]
+  },
+  "unknown": {
+    "unknown": [
+      {
+        "id": "Q2665089",
+        "name": "Parliament of Pakistan",
+        "count": 1
+      },
+      {
+        "id": "Q6867378",
+        "name": "Ministry of Minorities",
+        "count": 1
+      },
+      {
+        "id": "Q6867501",
+        "name": "Ministry of Religious Affairs",
+        "count": 1
+      },
+      {
+        "id": "Q6593306",
+        "name": "List of Pakistan National Assembly Seats",
+        "count": 1
+      },
+      {
+        "id": "Q484876",
+        "name": "chief executive officer",
+        "count": 1
+      }
+    ]
+  }
+}
