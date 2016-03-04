@@ -1737,7 +1737,11 @@
   "Q4569595": [
     {
       "id": "Q9045502",
-      "label": "member of the Parliament of Norway"
+      "label": "member of the Parliament of Norway",
+      "qualifiers": {
+        "P580": "2009",
+        "P768": "Oslo"
+      }
     }
   ],
   "Q3433165": [
@@ -4245,10 +4249,6 @@
     {
       "id": "Q9045502",
       "label": "member of the Parliament of Norway"
-    },
-    {
-      "id": "Q6514745",
-      "label": "Minister of Transport and Communications"
     },
     {
       "id": "Q6514745",
