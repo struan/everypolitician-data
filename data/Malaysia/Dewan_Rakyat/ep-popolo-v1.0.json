@@ -10103,6 +10103,10 @@
           "url": "https://it.wikipedia.org/wiki/Devan_Nair"
         },
         {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/デヴァン・ナイール"
+        },
+        {
           "note": "Wikipedia (ka)",
           "url": "https://ka.wikipedia.org/wiki/დევან_ნაირი"
         },
@@ -39023,14 +39027,49 @@
       ]
     },
     {
+      "gender": "male",
       "id": "66be10db-125a-48c7-a522-57cde036f172",
       "identifiers": [
         {
           "identifier": "su_keong_siong",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q12709711",
+          "scheme": "wikidata"
         }
       ],
-      "name": "Su Keong Siong"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Su_Keong_Siong"
+        },
+        {
+          "note": "Wikipedia (ms)",
+          "url": "https://ms.wikipedia.org/wiki/Su_Keong_Siong"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/苏建祥"
+        },
+        {
+          "note": "wikipedia",
+          "url": "http://en.wikipedia.org/wiki/Su_Keong_Siong"
+        }
+      ],
+      "name": "Su Keong Siong",
+      "other_names": [
+        {
+          "lang": "ms",
+          "name": "Su Keong Siong",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "苏建祥",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "6548a312-45ce-438d-bd27-343efbbb113c",
