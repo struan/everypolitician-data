@@ -13384,6 +13384,24 @@
       ]
     },
     {
+      "family_name": "Burke",
+      "given_name": "Peter",
+      "id": "2b14df82-17f5-4f28-a916-ce7e080dca40",
+      "image": "https://www.kildarestreet.com/images/mpsL/454.jpg",
+      "images": [
+        {
+          "url": "https://www.kildarestreet.com/images/mpsL/454.jpg"
+        }
+      ],
+      "name": "Peter Burke",
+      "sort_name": "Burke, Peter",
+      "sources": [
+        {
+          "url": "http://www.kildarestreet.com/td/peter_burke/longford-westmeath"
+        }
+      ]
+    },
+    {
       "birth_date": "1962-05",
       "family_name": "Fitzpatrick",
       "gender": "male",
@@ -16839,6 +16857,24 @@
       ]
     },
     {
+      "family_name": "Penrose",
+      "given_name": "Willie",
+      "id": "e9672867-67b8-48b5-812a-f4d0b5dc5704",
+      "image": "https://www.kildarestreet.com/images/mpsL/239.jpg",
+      "images": [
+        {
+          "url": "https://www.kildarestreet.com/images/mpsL/239.jpg"
+        }
+      ],
+      "name": "Willie Penrose",
+      "sort_name": "Penrose, Willie",
+      "sources": [
+        {
+          "url": "http://www.kildarestreet.com/td/willie_penrose/longford-westmeath"
+        }
+      ]
+    },
+    {
       "birth_date": "1969-09-01",
       "family_name": "Collins",
       "gender": "female",
@@ -17615,6 +17651,11 @@
         {
           "lang": "zh",
           "name": "爱尔兰工党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "מפלגת הלייבור",
           "note": "multilingual"
         }
       ]
@@ -18519,6 +18560,14 @@
       "on_behalf_of_id": "LAB",
       "organization_id": "legislature",
       "person_id": "29e99fd4-ac40-4c4a-8154-7f01ef8e4dad",
+      "role": "member"
+    },
+    {
+      "area_id": "area/longford-westmeath",
+      "legislative_period_id": "term/32",
+      "on_behalf_of_id": "FG",
+      "organization_id": "legislature",
+      "person_id": "2b14df82-17f5-4f28-a916-ce7e080dca40",
       "role": "member"
     },
     {
@@ -20551,6 +20600,14 @@
       "on_behalf_of_id": "SF",
       "organization_id": "legislature",
       "person_id": "e79ad280-e8c6-497e-9e4d-d17f71c03121",
+      "role": "member"
+    },
+    {
+      "area_id": "area/longford-westmeath",
+      "legislative_period_id": "term/32",
+      "on_behalf_of_id": "LAB",
+      "organization_id": "legislature",
+      "person_id": "e9672867-67b8-48b5-812a-f4d0b5dc5704",
       "role": "member"
     },
     {
