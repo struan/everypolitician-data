@@ -7,7 +7,7 @@
         "scraper": "tmtmtmtm/chile-opendata",
         "query": "SELECT *, CASE district WHEN '0' THEN '' ELSE district END AS area FROM data"
       },
-      "source": "https://morph.io/tmtmtmtm/chile-opendata",
+      "source": "http://opendata.congreso.cl",
       "type": "membership"
     },
     {
