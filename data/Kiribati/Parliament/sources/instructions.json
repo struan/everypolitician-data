@@ -15,7 +15,7 @@
       "create": {
         "type": "morph",
         "scraper": "tmtmtmtm/kiribati-parliament-wikipedia",
-        "query": "SELECT * FROM data ORDER BY name"
+        "query": "SELECT *, 9 AS term FROM data ORDER BY name"
       },
       "source": "https://en.wikipedia.org/wiki/9th_Parliament_of_Kiribati",
       "type": "membership",
