@@ -7,7 +7,7 @@
         "scraper": "tmtmtmtm/czech-chamber-of-deputies",
         "query": "SELECT * FROM data"
       },
-      "source": "https://morph.io/tmtmtmtm/czech-chamber-of-deputies",
+      "source": "http://api.parldata.eu/cz",
       "type": "membership"
     },
     {
