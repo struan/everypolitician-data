@@ -3269,6 +3269,7 @@
       ]
     },
     {
+      "birth_date": "1950-07-15",
       "family_name": "Smith",
       "gender": "male",
       "given_name": "Anthony",
@@ -3281,9 +3282,50 @@
         {
           "identifier": "10591",
           "scheme": "openaustralia"
+        },
+        {
+          "identifier": "Q7823441",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Tony_Smith_(Queensland_politician)"
         }
       ],
       "name": "Anthony Smith",
+      "other_names": [
+        {
+          "name": "Tony Smith",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Tony Smith",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Tony Smith",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Tony Smith",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Tony Smith",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Tony Smith",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Smith, Anthony",
       "sources": [
         {
@@ -42439,11 +42481,6 @@
         },
         {
           "lang": "en",
-          "name": "Tony Smith",
-          "note": "multilingual"
-        },
-        {
-          "lang": "es",
           "name": "Tony Smith",
           "note": "multilingual"
         },
