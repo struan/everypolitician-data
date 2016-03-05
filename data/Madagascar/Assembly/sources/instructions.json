@@ -7,7 +7,7 @@
         "scraper": "duncanparkes/madagascar",
         "query": "SELECT *, term_id AS term, null AS term_id FROM data"
       },
-      "source": "https://morph.io/duncanparkes/madagascar",
+      "source": "http://www.assemblee-nationale.mg/",
       "type": "membership"
     },
     {
