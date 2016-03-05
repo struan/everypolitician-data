@@ -12,7 +12,7 @@
     },
     {
       "file": "morph/data-41.csv",
-      "source": "https://morph.io/tmtmtmtm/represent-ca",
+      "source": "https://scrapers.herokuapp.com/represent/ca",
       "type": "person",
       "merge": {
         "incoming_field": "name",
@@ -27,7 +27,7 @@
         "scraper": "tmtmtmtm/represent-ca",
         "query": "SELECT *, id AS identifier__represent FROM data ORDER BY id"
       },
-      "source": "https://morph.io/tmtmtmtm/represent-ca",
+      "source": "https://scrapers.herokuapp.com/represent/ca",
       "type": "person",
       "merge": [
         {
