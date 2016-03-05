@@ -29,11 +29,17 @@
       ]
     },
     {
+      "birth_date": "1970-05-19",
+      "gender": "male",
       "id": "2d515221-39e2-42f5-b219-de0d79c8fcf6",
       "identifiers": [
         {
           "identifier": "2322",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q21665520",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.kenesh.kg/MyFiles/image/clip_image002.jpg",
@@ -42,8 +48,18 @@
           "url": "http://www.kenesh.kg/MyFiles/image/clip_image002.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Абдыкеримов,_Шаршенбек_Шайлообекович"
+        }
+      ],
       "name": "ABDYKERIMOV SHarshenbek SHajloobekovich",
       "other_names": [
+        {
+          "name": "Абдыкеримов, Шаршенбек Шайлообекович",
+          "note": "alternate"
+        },
         {
           "lang": "ru",
           "name": "АБДЫКЕРИМОВ Шаршенбек Шайлообекович",
@@ -4082,7 +4098,7 @@
   ],
   "meta": {
     "sources": [
-      "https://morph.io/tmtmtmtm/kyrgyzstan-deputies",
+      "http://www.kenesh.kg",
       "http://wikidata.org/"
     ]
   },
