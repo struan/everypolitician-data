@@ -120,7 +120,7 @@ namespace :term_csvs do
 
     (filter[:unknown] ||= {})[:unknown] = unknown.
       group_by { |u| u[:position_id] }.
-      sort_by { |u, us| us.count }.reverse.
+      sort_by { |u, us| [us.count, u] }.reverse.
       map { |id, us| { id: id, name: us.first[:position], count: us.count, example: us.first[:wikidata] } }.each do |u|
         warn "  Unknown position (x#{u[:count]}): #{u[:id]} #{u[:name]} — e.g. #{u.delete :example}"
       end
