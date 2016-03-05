@@ -82,16 +82,10 @@ namespace :transform do
   end
 
   task :ensure_term => :ensure_legislature do
-    @json[:events] ||= []
-
-    terms_from_csv.each do |t| 
-      if event = @json[:events].find { |e| e[:id] == t[:id] }
-        event.merge! t
-      else 
-        warn "Unused event: #{t}"
-      end
+    @json[:events].each do |e|
+      csv_term = terms_from_csv.find { |t| t[:id] == e[:id] } or abort "No term information for #{e[:id]}"
+      e.merge! csv_term
     end
-
   end
 
   #---------------------------------------------------------------------
