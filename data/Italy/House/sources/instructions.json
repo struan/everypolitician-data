@@ -17,7 +17,7 @@
         "scraper": "tmtmtmtm/openpolis-scraper",
         "query": "SELECT * FROM data WHERE house = 'Chamber of Deputies' ORDER BY id"
       },
-      "source": "https://morph.io/tmtmtmtm/openpolis-scraper",
+      "source": "http://politici.openpolis.it",
       "type": "person",
       "merge": {
         "incoming_field": "name",
