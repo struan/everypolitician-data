@@ -7,7 +7,7 @@
         "scraper": "tmtmtmtm/kyrgyzstan-deputies",
         "query": "SELECT id, name, name_ru AS name__ru, party, party_ru AS party__ru, image, 5 AS term, source FROM data"
       },
-      "source": "https://morph.io/tmtmtmtm/kyrgyzstan-deputies",
+      "source": "http://www.kenesh.kg",
       "type": "membership"
     },
     {
