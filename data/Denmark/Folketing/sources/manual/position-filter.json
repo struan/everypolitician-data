@@ -12,7 +12,10 @@
   },
   "include": {
     "self": [
-
+      {
+        "id": "Q18913290",
+        "name": "Speaker of the Folketing"
+      }
     ],
     "other_legislatures": [
       {
@@ -23,11 +26,11 @@
     "executive": [
       {
         "id": "Q795477",
-        "name": "Prime Minister of Denmark"
+        "name": "Prime Minister"
       },
       {
         "id": "Q5449541",
-        "name": "Finance Minister of Denmark"
+        "name": "Finance Minister"
       },
       {
         "id": "Q20069142",
@@ -43,11 +46,11 @@
       },
       {
         "id": "Q1030099",
-        "name": "Culture Minister of Denmark"
+        "name": "Culture Minister"
       },
       {
         "id": "Q6317024",
-        "name": "Justice Minister of Denmark"
+        "name": "Justice Minister"
       },
       {
         "id": "Q6866144",
@@ -62,12 +65,20 @@
         "name": "Minister of Health"
       },
       {
+        "id": "Q5340905",
+        "name": "Education Minister"
+      },
+      {
         "id": "Q11991832",
         "name": "Minister for Nordic Co-operation"
       },
       {
+        "id": "Q12312037",
+        "name": "Education and Research Minister"
+      },
+      {
         "id": "Q1815344",
-        "name": "Defence Minister of Denmark"
+        "name": "Defence Minister"
       }
     ],
     "party": [
@@ -77,6 +88,10 @@
       {
         "id": "Q19185575",
         "name": "President of the Nordic Council"
+      },
+      {
+        "id": "Q679997",
+        "name": "Prime Minister of Greenland"
       },
       {
         "id": "Q1161813",
@@ -97,11 +112,6 @@
         "count": 3
       },
       {
-        "id": "Q679997",
-        "name": "Prime Minister of Greenland",
-        "count": 1
-      },
-      {
         "id": "Q4018482",
         "name": "education minister",
         "count": 1
@@ -117,11 +127,6 @@
         "count": 1
       },
       {
-        "id": "Q18913290",
-        "name": "Q18913290",
-        "count": 1
-      },
-      {
         "id": "Q18913281",
         "name": "Q18913281",
         "count": 1
@@ -129,11 +134,6 @@
       {
         "id": "Q12336940",
         "name": "Q12336940",
-        "count": 1
-      },
-      {
-        "id": "Q12312037",
-        "name": "Q12312037",
         "count": 1
       }
     ]
