@@ -7,7 +7,7 @@
         "scraper": "tmtmtmtm/jersey-assembly",
         "query": "SELECT *, parish AS area, 6 as term FROM data"
       },
-      "source": "https://morph.io/tmtmtmtm/jersey-assembly",
+      "source": "http://www.statesassembly.gov.je",
       "type": "membership"
     },
     {
