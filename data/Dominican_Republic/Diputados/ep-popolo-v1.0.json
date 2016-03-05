@@ -1,12 +1,18 @@
 {
   "persons": [
     {
+      "birth_date": "1972-04-21",
       "gender": "male",
+      "given_name": "Abel",
       "id": "a6440520-af31-4808-b8c7-13de4ecda1ad",
       "identifiers": [
         {
           "identifier": "785",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q5654916",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camaradediputados.gob.do/serve/renderimage.aspx?x=80&y=90&cz=5&m=0&i=785&f=lists_images",
@@ -15,7 +21,39 @@
           "url": "http://www.camaradediputados.gob.do/serve/renderimage.aspx?x=80&y=90&cz=5&m=0&i=785&f=lists_images"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Abel_Martínez_Durán"
+        }
+      ],
       "name": "Abel Atahualpa Martínez Durán",
+      "other_names": [
+        {
+          "name": "Abel Martínez Durán",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Abel Martínez Durán",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Abel Martínez Durán",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Abel Martínez Durán",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Abel Martínez Durán",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.camaradediputados.gob.do/app/app_2011/cd_diputados_new.aspx?gen=Masculino"
@@ -1364,6 +1402,10 @@
         {
           "identifier": "2044",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q18203162",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camaradediputados.gob.do/serve/renderimage.aspx?x=80&y=90&cz=5&m=0&i=2044&f=lists_images",
@@ -1372,7 +1414,20 @@
           "url": "http://www.camaradediputados.gob.do/serve/renderimage.aspx?x=80&y=90&cz=5&m=0&i=2044&f=lists_images"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Hamlet_Amado_Sánchez_Melo"
+        }
+      ],
       "name": "Hamlet Amado Sánchez Melo",
+      "other_names": [
+        {
+          "lang": "es",
+          "name": "Hamlet Amado Sánchez Melo",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.camaradediputados.gob.do/app/app_2011/cd_diputados_new.aspx?gen=Masculino"
@@ -1449,13 +1504,19 @@
       ]
     },
     {
+      "birth_date": "1930-08-28",
       "email": "mailto:h.tolentino@camaradediputados.gob.do",
       "gender": "male",
+      "given_name": "Hugo",
       "id": "a3693a44-7e5d-49c5-86b6-b39980b8206d",
       "identifiers": [
         {
           "identifier": "2083",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q16576566",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camaradediputados.gob.do/serve/renderimage.aspx?x=80&y=90&cz=5&m=0&i=2083&f=lists_images",
@@ -1464,7 +1525,39 @@
           "url": "http://www.camaradediputados.gob.do/serve/renderimage.aspx?x=80&y=90&cz=5&m=0&i=2083&f=lists_images"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Hugo_Tolentino_Dipp"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Hugo_Tolentino_Dipp"
+        }
+      ],
       "name": "Hugo Tolentino Dipp",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Hugo Tolentino Dipp",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Hugo Tolentino Dipp",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Hugo Tolentino Dipp",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Hugo Tolentino Dipp",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.camaradediputados.gob.do/app/app_2011/cd_diputados_new.aspx?gen=Masculino"
