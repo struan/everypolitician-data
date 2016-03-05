@@ -7,7 +7,7 @@
         "scraper": "tmtmtmtm/tunisia-marsad",
         "query": "SELECT *, '1' as term FROM data WHERE term = '2014'"
       },
-      "source": "https://morph.io/tmtmtmtm/tunisia-marsad",
+      "source": "http://majles.marsad.tn",
       "type": "membership"
     },
     {
