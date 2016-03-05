@@ -7,7 +7,7 @@
         "scraper": "tmtmtmtm/ghana-parliament",
         "query": "SELECT *, REPLACE(name, 'Hon. ', '') AS name FROM data"
       },
-      "source": "https://morph.io/tmtmtmtm/ghana-parliament",
+      "source": "http://www.parliament.gh",
       "type": "membership"
     },
     {
