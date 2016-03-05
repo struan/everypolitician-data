@@ -7,7 +7,7 @@
         "scraper": "tmtmtmtm/kosovo-parldata",
         "query": "SELECT * FROM data"
       },
-      "source": "https://morph.io/tmtmtmtm/kosovo-parldata",
+      "source": "http://api.parldata.eu/kv",
       "type": "membership"
     },
     {
