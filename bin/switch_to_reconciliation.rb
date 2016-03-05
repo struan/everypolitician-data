@@ -15,6 +15,7 @@ end
 POPOLO_FILE = 'ep-popolo-v1.0.json'
 INSTRUCTIONS = 'sources/instructions.json'
 RECONCILIATION = 'sources/reconciliation/wikidata.csv'
+FileUtils.mkpath(File.dirname RECONCILIATION)
 
 abort "#{POPOLO_FILE} missing" unless File.exist? POPOLO_FILE
 abort "#{INSTRUCTIONS} missing" unless File.exist? INSTRUCTIONS
