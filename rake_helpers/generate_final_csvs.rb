@@ -120,11 +120,14 @@ namespace :term_csvs do
 
     (filter[:unknown] ||= {})[:unknown] = unknown.
       group_by { |u| u[:position_id] }.
-      sort_by { |u, us| [us.count, u.to_s] }.reverse.
+      sort_by { |u, us| us.first[:position].downcase }.
       map { |id, us| { id: id, name: us.first[:position], count: us.count, example: us.first[:wikidata] } }.each do |u|
         warn "  Unknown position (x#{u[:count]}): #{u[:id]} #{u[:name]} — e.g. #{u.delete :example}"
       end
 
+    filter.each do |_, section|
+      section.each { |k, vs| vs.sort_by! { |e| e[:name] } }
+    end
     csv_columns = %w(id name position start_date end_date)
     csv    = [csv_columns.to_csv, want.map { |p| csv_columns.map { |c| p[c.to_sym] }.to_csv }].compact.join
 

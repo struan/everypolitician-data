@@ -34,16 +34,11 @@
       },
       "source": "http://wikidata.org/",
       "type": "wikidata",
-      "merge": [
-        {
-          "incoming_field": "identifier__uscongress",
-          "existing_field": "identifier__bioguide"
-        },
-        {
-          "incoming_field": "wikipedia__en",
-          "existing_field": "identifier__wikipedia"
-        }
-      ]
+      "merge": {
+        "incoming_field": "name",
+        "existing_field": "name",
+        "reconciliation_file": "reconciliation/wikidata.csv"
+      }
     },
     {
       "file": "wikidata/parties.json",
@@ -72,6 +67,14 @@
       "create": {
         "type": "gender-balance",
         "source": "United-States-of-America/House"
+      }
+    },
+    {
+      "file": "wikidata/positions.json",
+      "type": "wikidata-positions",
+      "create": {
+        "type": "wikidata-raw",
+        "source": "reconciliation/wikidata.csv"
       }
     }
   ]
