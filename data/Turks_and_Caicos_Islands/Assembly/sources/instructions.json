@@ -20,7 +20,7 @@
       "merge": {
         "incoming_field": "name",
         "existing_field": "name",
-        "reconciliation_file": "reconciliation/wikidata.csv"
+        "reconciliation_file": "reconciliation/wikipedia.csv"
       },
       "source": "https://en.wikipedia.org/wiki/Turks_and_Caicos_Islands_general_election,_2012",
       "type": "person"
@@ -35,8 +35,9 @@
       "source": "http://wikidata.org/",
       "type": "wikidata",
       "merge": {
-        "incoming_field": "wikipedia__en",
-        "existing_field": "wikiname"
+        "incoming_field": "name",
+        "existing_field": "name",
+        "reconciliation_file": "reconciliation/wikidata.csv"
       }
     },
     {
@@ -45,6 +46,14 @@
       "create": {
         "type": "gender-balance",
         "source": "Turks-and-Caicos-Islands/Assembly"
+      }
+    },
+    {
+      "file": "wikidata/positions.json",
+      "type": "wikidata-positions",
+      "create": {
+        "type": "wikidata-raw",
+        "source": "reconciliation/wikidata.csv"
       }
     }
   ]
