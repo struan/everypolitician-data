@@ -1,0 +1,65 @@
+{
+  "exclude": {
+    "self": [
+      {
+        "id": "Q21272959",
+        "name": "Member of the Althing"
+      }
+    ],
+    "other": [
+
+    ]
+  },
+  "include": {
+    "self": [
+
+    ],
+    "other_legislatures": [
+
+    ],
+    "executive": [
+      {
+        "id": "Q19190022",
+        "name": "Prime Minister of Iceland"
+      },
+      {
+        "id": "Q17278719",
+        "name": "Minister of Finance"
+      },
+      {
+        "id": "Q6866420",
+        "name": "Minister of Welfare"
+      },
+      {
+        "id": "Q17278723",
+        "name": "Minister of Fisheries and Agriculture"
+      },
+      {
+        "id": "Q17278720",
+        "name": "Minister of Industry and Commerce"
+      }
+    ],
+    "party": [
+
+    ],
+    "other": [
+      {
+        "id": "Q19185575",
+        "name": "President of the Nordic Council"
+      },
+      {
+        "id": "Q19186617",
+        "name": "Secretary General of the Nordic Council of Ministers"
+      },
+      {
+        "id": "Q15966528",
+        "name": "Mayor of Reykjavík"
+      }
+    ]
+  },
+  "unknown": {
+    "unknown": [
+
+    ]
+  }
+}
