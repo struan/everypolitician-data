@@ -16,12 +16,12 @@
     ],
     "executive": [
       {
-        "id": "Q14915225",
-        "name": "Prime Minister of Lebanon"
-      },
-      {
         "id": "Q22001564",
         "name": "President of Lebanon"
+      },
+      {
+        "id": "Q14915225",
+        "name": "Prime Minister of Lebanon"
       }
     ],
     "party": [
@@ -37,11 +37,6 @@
   "unknown": {
     "unknown": [
       {
-        "id": "Q1422275",
-        "name": "Parliament of Lebanon",
-        "count": 2
-      },
-      {
         "id": "Q2985709",
         "name": "Commanders of the Lebanese Armed Forces",
         "count": 1
@@ -50,6 +45,11 @@
         "id": "Q1892248",
         "name": "Marada Movement",
         "count": 1
+      },
+      {
+        "id": "Q1422275",
+        "name": "Parliament of Lebanon",
+        "count": 2
       }
     ]
   }
