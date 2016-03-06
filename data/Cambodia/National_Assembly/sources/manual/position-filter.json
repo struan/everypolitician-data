@@ -1,0 +1,59 @@
+{
+  "exclude": {
+    "self": [
+
+    ],
+    "other": [
+
+    ]
+  },
+  "include": {
+    "self": [
+
+    ],
+    "other_legislatures": [
+
+    ],
+    "executive": [
+      {
+        "id": "Q1999325",
+        "name": "Prime Minister of Cambodia"
+      }
+    ],
+    "party": [
+
+    ],
+    "other": [
+
+    ]
+  },
+  "unknown": {
+    "unknown": [
+      {
+        "id": "Q769308",
+        "name": "Cambodian People's Party",
+        "count": 1
+      },
+      {
+        "id": "Q6501749",
+        "name": "General Secretary",
+        "count": 1
+      },
+      {
+        "id": "Q3055339",
+        "name": "Senate of Cambodia",
+        "count": 1
+      },
+      {
+        "id": "Q1234896",
+        "name": "National Assembly",
+        "count": 1
+      },
+      {
+        "id": "Q1055894",
+        "name": "deputy",
+        "count": 1
+      }
+    ]
+  }
+}
