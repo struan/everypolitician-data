@@ -1492,11 +1492,18 @@
       ]
     },
     {
+      "birth_date": "1975-12-02",
+      "gender": "female",
+      "given_name": "Gabriela",
       "id": "7de3946c-93e6-41e7-8d52-8661f049961b",
       "identifiers": [
         {
           "identifier": "montanio.vl",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q19545830",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/montanio.vl.jpg",
@@ -1505,7 +1512,39 @@
           "url": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/montanio.vl.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Gabriela_Montaño"
+        }
+      ],
       "name": "Lilly Gabriela Montaño Viaña",
+      "other_names": [
+        {
+          "name": "Gabriela Montaño",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Gabriela Montaño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Gabriela Montaño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Gabriela Montaño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Gabriela Montaño",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.diputados.bo/script/dip-index.php"
@@ -2868,7 +2907,8 @@
   ],
   "meta": {
     "sources": [
-      "http://www.diputados.bo/"
+      "http://www.diputados.bo/",
+      "http://wikidata.org/"
     ]
   },
   "memberships": [
