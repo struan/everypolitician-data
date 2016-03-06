@@ -51,8 +51,9 @@
       "source": "http://wikidata.org/",
       "type": "wikidata",
       "merge": {
-        "incoming_field": "original_wikiname",
-        "existing_field": "wikiname"
+        "incoming_field": "name",
+        "existing_field": "name",
+        "reconciliation_file": "reconciliation/wikidata.csv"
       }
     },
     {
@@ -81,6 +82,14 @@
       "create": {
         "type": "gender-balance",
         "source": "Canada/Commons"
+      }
+    },
+    {
+      "file": "wikidata/positions.json",
+      "type": "wikidata-positions",
+      "create": {
+        "type": "wikidata-raw",
+        "source": "reconciliation/wikidata.csv"
       }
     }
   ]
