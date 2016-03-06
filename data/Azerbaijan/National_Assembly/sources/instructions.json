@@ -15,13 +15,14 @@
       "create": {
         "type": "morph",
         "scraper": "tmtmtmtm/azerbaijan-national-assembly-wikidata",
-        "query": "SELECT *, id AS identifier__wikidata, NULL as id FROM data"
+        "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "http://wikidata.org/",
       "type": "wikidata",
       "merge": {
-        "incoming_field": "original_wikiname",
-        "existing_field": "wikiname"
+        "incoming_field": "name",
+        "existing_field": "name",
+        "reconciliation_file": "reconciliation/wikidata.csv"
       }
     },
     {
@@ -42,6 +43,14 @@
       "create": {
         "type": "group-wikidata",
         "source": "manual/group_wikidata.csv"
+      }
+    },
+    {
+      "file": "wikidata/positions.json",
+      "type": "wikidata-positions",
+      "create": {
+        "type": "wikidata-raw",
+        "source": "reconciliation/wikidata.csv"
       }
     }
   ]
