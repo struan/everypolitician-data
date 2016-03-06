@@ -19,12 +19,12 @@ FileUtils.mkpath(File.dirname RECONCILIATION)
 
 abort "#{POPOLO_FILE} missing" unless File.exist? POPOLO_FILE
 abort "#{INSTRUCTIONS} missing" unless File.exist? INSTRUCTIONS
-abort "#{RECONCILIATION} already exists" if File.exist? RECONCILIATION
+# abort "#{RECONCILIATION} already exists" if File.exist? RECONCILIATION
 
 instructions = json_load(INSTRUCTIONS)
 wd = instructions[:sources].find { |i| i[:type] == 'wikidata' } or
   abort "No wikidata instructions in #{INSTRUCTIONS}"
-abort "Already reconciling" if wd[:merge].key? 'reconciliation_file'
+# abort "Already reconciling" if wd[:merge].key? 'reconciliation_file'
 
 popolo = Everypolitician::Popolo.read(POPOLO_FILE)
 mapped = popolo.persons.select { |p| p.wikidata }.sort_by { |p| p.id }.map { |p| "#{p.wikidata},#{p.id}" }
