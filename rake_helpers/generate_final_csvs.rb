@@ -1,3 +1,4 @@
+require_relative '../lib/position_filterer'
 require 'everypolitician/popolo'
 require 'json5'
 
@@ -134,5 +135,13 @@ namespace :term_csvs do
     FileUtils.mkpath(File.dirname position_file)
     File.write(position_file, csv)
     File.write(filter_file, JSON.pretty_generate(filter))
+
+    if filter[:unknown][:unknown].any? && ENV['GENERATE_POSITION_INTERFACE'] 
+      html = Position::Filterer.new(filter).html
+      File.write('sources/manual/.position-filter.html', html)
+      FileUtils.copy('../../../templates/position-filter.js', 'sources/manual/.position-filter.js')
+      puts "open sources/manual/.position-filter.html".yellow
+      puts "pbpaste | bundle exec ruby ../../../bin/learn_position.rb sources/manual/position-filter.json".yellow
+    end
   end
 end
