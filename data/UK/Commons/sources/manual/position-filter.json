@@ -1,0 +1,747 @@
+{
+  "exclude": {
+    "self": [
+      {
+        "id": "Q16707842",
+        "name": "Member of Parliament in the United Kingdom"
+      }
+    ],
+    "other": [
+
+    ]
+  },
+  "include": {
+    "self": [
+      {
+        "id": "Q2636053",
+        "name": "Leader of the House of Commons"
+      },
+      {
+        "id": "Q22979245",
+        "name": "Leader of the Ulster Unionist Party"
+      },
+      {
+        "id": "Q464103",
+        "name": "Speaker of the House of Commons"
+      }
+    ],
+    "other_legislatures": [
+      {
+        "id": "Q18952564",
+        "name": "Member of the House of Lords"
+      },
+      {
+        "id": "Q3272410",
+        "name": "Member of the Legislative Assembly of Northern Ireland"
+      },
+      {
+        "id": "Q3406079",
+        "name": "Member of the National Assembly for Wales"
+      },
+      {
+        "id": "Q19462434",
+        "name": "Member of the Parliament of Northern Ireland"
+      },
+      {
+        "id": "Q1711695",
+        "name": "Member of the Scottish Parliament"
+      },
+      {
+        "id": "Q27169",
+        "name": "member of the European Parliament"
+      }
+    ],
+    "executive": [
+      {
+        "id": "Q531471",
+        "name": "Chancellor of the Exchequer"
+      },
+      {
+        "id": "Q1507619",
+        "name": "Deputy Prime Minister of the United Kingdom"
+      },
+      {
+        "id": "Q3068024",
+        "name": "First Secretary of State"
+      },
+      {
+        "id": "Q470446",
+        "name": "High Representative for Bosnia and Herzegovina"
+      },
+      {
+        "id": "Q217217",
+        "name": "Lord Chancellor"
+      },
+      {
+        "id": "Q6865755",
+        "name": "Minister for Children"
+      },
+      {
+        "id": "Q6865776",
+        "name": "Minister for Culture, Communications and Creative Industries"
+      },
+      {
+        "id": "Q6865782",
+        "name": "Minister for Defence Equipment, Support and Technology"
+      },
+      {
+        "id": "Q11812555",
+        "name": "Minister for International Security Strategy"
+      },
+      {
+        "id": "Q6865920",
+        "name": "Minister for London"
+      },
+      {
+        "id": "Q6865933",
+        "name": "Minister for Policing"
+      },
+      {
+        "id": "Q16997588",
+        "name": "Minister for Portsmouth"
+      },
+      {
+        "id": "Q6865949",
+        "name": "Minister for Security"
+      },
+      {
+        "id": "Q6865953",
+        "name": "Minister for Social Exclusion"
+      },
+      {
+        "id": "Q6865965",
+        "name": "Minister for Sport and the Olympics"
+      },
+      {
+        "id": "Q3315134",
+        "name": "Minister for Women and Equalities"
+      },
+      {
+        "id": "Q6865995",
+        "name": "Minister for the Cabinet Office"
+      },
+      {
+        "id": "Q3315116",
+        "name": "Minister for the Civil Service"
+      },
+      {
+        "id": "Q6866025",
+        "name": "Minister of Agriculture, Fisheries and Food"
+      },
+      {
+        "id": "Q22979268",
+        "name": "Minister of Enterprise, Trade and Investment"
+      },
+      {
+        "id": "Q6866346",
+        "name": "Minister of State for Communities and Local Government"
+      },
+      {
+        "id": "Q6866348",
+        "name": "Minister of State for Competitiveness"
+      },
+      {
+        "id": "Q6865827",
+        "name": "Minister of State for Europe"
+      },
+      {
+        "id": "Q4146869",
+        "name": "Minister of State for Foreign Affairs"
+      },
+      {
+        "id": "Q6866360",
+        "name": "Minister of State for Immigration"
+      },
+      {
+        "id": "Q6866372",
+        "name": "Minister of State for Trade"
+      },
+      {
+        "id": "Q15109454",
+        "name": "Minister of State for Transport"
+      },
+      {
+        "id": "Q6866379",
+        "name": "Minister of State for the Armed Forces"
+      },
+      {
+        "id": "Q14211",
+        "name": "Prime Minister of the United Kingdom"
+      },
+      {
+        "id": "Q3858507",
+        "name": "Secretary of State for Business, Innovation and Skills"
+      },
+      {
+        "id": "Q7444335",
+        "name": "Secretary of State for Children, Schools and Families"
+      },
+      {
+        "id": "Q11781526",
+        "name": "Secretary of State for Communities and Local Government"
+      },
+      {
+        "id": "Q3297079",
+        "name": "Secretary of State for Culture, Media and Sport"
+      },
+      {
+        "id": "Q2747647",
+        "name": "Secretary of State for Defence"
+      },
+      {
+        "id": "Q3477306",
+        "name": "Secretary of State for Education"
+      },
+      {
+        "id": "Q7444342",
+        "name": "Secretary of State for Employment"
+      },
+      {
+        "id": "Q7444345",
+        "name": "Secretary of State for Energy and Climate Change"
+      },
+      {
+        "id": "Q14984399",
+        "name": "Secretary of State for Environment, Food and Rural Affairs"
+      },
+      {
+        "id": "Q1371091",
+        "name": "Secretary of State for Foreign and Commonwealth Affairs"
+      },
+      {
+        "id": "Q3397406",
+        "name": "Secretary of State for Health"
+      },
+      {
+        "id": "Q7444352",
+        "name": "Secretary of State for International Development"
+      },
+      {
+        "id": "Q3477307",
+        "name": "Secretary of State for Justice"
+      },
+      {
+        "id": "Q1369302",
+        "name": "Secretary of State for Northern Ireland"
+      },
+      {
+        "id": "Q111784",
+        "name": "Secretary of State for Scotland"
+      },
+      {
+        "id": "Q4122328",
+        "name": "Secretary of State for Social Services"
+      },
+      {
+        "id": "Q3246797",
+        "name": "Secretary of State for Transport"
+      },
+      {
+        "id": "Q1846384",
+        "name": "Secretary of State for Wales"
+      },
+      {
+        "id": "Q7444357",
+        "name": "Secretary of State for Work and Pensions"
+      },
+      {
+        "id": "Q4122313",
+        "name": "Secretary of State for the Environment"
+      },
+      {
+        "id": "Q16974879",
+        "name": "Secretary of State for the Environment, Transport and the Regions"
+      },
+      {
+        "id": "Q2484309",
+        "name": "Secretary of State for the Home Department"
+      },
+      {
+        "id": "Q7883047",
+        "name": "Under-Secretary of State for Foreign Affairs"
+      },
+      {
+        "id": "Q7883048",
+        "name": "Under-Secretary of State for Scotland"
+      },
+      {
+        "id": "Q7883053",
+        "name": "Under-Secretary of State for the Home Department"
+      },
+      {
+        "id": "Q1937160",
+        "name": "minister without portfolio"
+      }
+    ],
+    "party": [
+      {
+        "id": "Q19962688",
+        "name": "Chair of the Labour Party"
+      },
+      {
+        "id": "Q4122316",
+        "name": "Chairman of the Conservative Party"
+      },
+      {
+        "id": "Q1307072",
+        "name": "Chief Whip"
+      },
+      {
+        "id": "Q5261043",
+        "name": "Deputy Leader of the Labour Party"
+      },
+      {
+        "id": "Q6467390",
+        "name": "Labour Chief Whip"
+      },
+      {
+        "id": "Q6467494",
+        "name": "Labour Party Chair"
+      },
+      {
+        "id": "Q3303456",
+        "name": "Leader of the Conservative Party"
+      },
+      {
+        "id": "Q3615378",
+        "name": "Leader of the Labour Party"
+      },
+      {
+        "id": "Q6625186",
+        "name": "Leader of the Liberal Democrats"
+      },
+      {
+        "id": "Q17088878",
+        "name": "Liberal Democrats Chief Whip"
+      },
+      {
+        "id": "Q11013932",
+        "name": "Shadow Chancellor of the Exchequer"
+      },
+      {
+        "id": "Q16324556",
+        "name": "Shadow Chief Secretary to the Treasury"
+      },
+      {
+        "id": "Q7460514",
+        "name": "Shadow Foreign Secretary"
+      },
+      {
+        "id": "Q4976591",
+        "name": "Shadow Home Secretary"
+      },
+      {
+        "id": "Q7460544",
+        "name": "Shadow Leader of the House of Commons"
+      },
+      {
+        "id": "Q7460545",
+        "name": "Shadow Lord Chancellor"
+      },
+      {
+        "id": "Q7460553",
+        "name": "Shadow Minister for Women and Equalities"
+      },
+      {
+        "id": "Q20819509",
+        "name": "Shadow Minister for the Olympics"
+      },
+      {
+        "id": "Q15039982",
+        "name": "Shadow Secretary of State for Business, Innovation and Skills"
+      },
+      {
+        "id": "Q7460591",
+        "name": "Shadow Secretary of State for Culture, Media and Sport"
+      },
+      {
+        "id": "Q13625987",
+        "name": "Shadow Secretary of State for Defence"
+      },
+      {
+        "id": "Q7460592",
+        "name": "Shadow Secretary of State for Education"
+      },
+      {
+        "id": "Q7460593",
+        "name": "Shadow Secretary of State for Energy and Climate Change"
+      },
+      {
+        "id": "Q15038174",
+        "name": "Shadow Secretary of State for Environment, Food and Rural Affairs"
+      },
+      {
+        "id": "Q7460596",
+        "name": "Shadow Secretary of State for Health"
+      },
+      {
+        "id": "Q7460597",
+        "name": "Shadow Secretary of State for International Development"
+      },
+      {
+        "id": "Q7460598",
+        "name": "Shadow Secretary of State for Justice"
+      },
+      {
+        "id": "Q7460599",
+        "name": "Shadow Secretary of State for Northern Ireland"
+      },
+      {
+        "id": "Q14957218",
+        "name": "Shadow Secretary of State for Scotland"
+      },
+      {
+        "id": "Q7460600",
+        "name": "Shadow Secretary of State for Transport"
+      },
+      {
+        "id": "Q16323054",
+        "name": "Shadow Secretary of State for Wales"
+      },
+      {
+        "id": "Q16321336",
+        "name": "Shadow Secretary of State for Work and Pensions"
+      },
+      {
+        "id": "Q7460602",
+        "name": "Shadow Secretary of State for the Family"
+      },
+      {
+        "id": "Q22981805",
+        "name": "Vice-President of Sinn Féin"
+      }
+    ],
+    "other": [
+      {
+        "id": "Q4686883",
+        "name": "Advocate General for Northern Ireland"
+      },
+      {
+        "id": "Q2928362",
+        "name": "Advocate General for Scotland"
+      },
+      {
+        "id": "Q2631987",
+        "name": "Attorney General for England and Wales"
+      },
+      {
+        "id": "Q5068087",
+        "name": "Chairman of Ways and Means"
+      },
+      {
+        "id": "Q162754",
+        "name": "Chancellor of the Duchy of Lancaster"
+      },
+      {
+        "id": "Q5070806",
+        "name": "Chancellor of the University of St Andrews"
+      },
+      {
+        "id": "Q5096927",
+        "name": "Chief Secretary to the Treasury"
+      },
+      {
+        "id": "Q4577691",
+        "name": "Comptroller of the Household"
+      },
+      {
+        "id": "Q5333410",
+        "name": "Economic Secretary to the Treasury"
+      },
+      {
+        "id": "Q1780211",
+        "name": "European Commissioner for Trade"
+      },
+      {
+        "id": "Q5419615",
+        "name": "Exchequer Secretary to the Treasury"
+      },
+      {
+        "id": "Q5449647",
+        "name": "Financial Secretary to the Treasury"
+      },
+      {
+        "id": "Q609884",
+        "name": "First Lord of the Treasury"
+      },
+      {
+        "id": "Q22979263",
+        "name": "First Minister of Northern Ireland"
+      },
+      {
+        "id": "Q943379",
+        "name": "Lord President of the Council"
+      },
+      {
+        "id": "Q3259412",
+        "name": "Lord of the Treasury"
+      },
+      {
+        "id": "Q38931",
+        "name": "Mayor of London"
+      },
+      {
+        "id": "Q16707840",
+        "name": "Member of Parliament for Pudsey"
+      },
+      {
+        "id": "Q3477321",
+        "name": "Parliamentary Private Secretary"
+      },
+      {
+        "id": "Q15109453",
+        "name": "Parliamentary Private Secretary to the Prime Minister"
+      },
+      {
+        "id": "Q3477319",
+        "name": "Parliamentary Secretary"
+      },
+      {
+        "id": "Q7139041",
+        "name": "Parliamentary Secretary to the Treasury"
+      },
+      {
+        "id": "Q15715714",
+        "name": "Parliamentary Under Secretary for Constitutional and Political Reform"
+      },
+      {
+        "id": "Q3492070",
+        "name": "Parliamentary Under-Secretary of State"
+      },
+      {
+        "id": "Q1060844",
+        "name": "Paymaster General"
+      },
+      {
+        "id": "Q167662",
+        "name": "Secretary General of NATO"
+      },
+      {
+        "id": "Q583809",
+        "name": "Solicitor General for England and Wales"
+      },
+      {
+        "id": "Q7836765",
+        "name": "Treasurer of the Household"
+      },
+      {
+        "id": "Q426461",
+        "name": "Vice-Chamberlain of the Household"
+      }
+    ]
+  },
+  "unknown": {
+    "unknown": [
+      {
+        "id": "Q4839559",
+        "name": "Backbench Business Committee",
+        "count": 1
+      },
+      {
+        "id": "Q5995",
+        "name": "Cabinet Office",
+        "count": 4
+      },
+      {
+        "id": "Q1094524",
+        "name": "Church Commissioners",
+        "count": 1
+      },
+      {
+        "id": "Q211931",
+        "name": "Co-operative Party",
+        "count": 1
+      },
+      {
+        "id": "Q9626",
+        "name": "Conservative Party",
+        "count": 1
+      },
+      {
+        "id": "Q2612027",
+        "name": "Department for Business, Innovation and Skills",
+        "count": 6
+      },
+      {
+        "id": "Q601819",
+        "name": "Department for Communities and Local Government",
+        "count": 4
+      },
+      {
+        "id": "Q910019",
+        "name": "Department for Culture, Media and Sport",
+        "count": 1
+      },
+      {
+        "id": "Q2612019",
+        "name": "Department for Education",
+        "count": 2
+      },
+      {
+        "id": "Q3044721",
+        "name": "Department for Environment, Food and Rural Affairs",
+        "count": 3
+      },
+      {
+        "id": "Q5260119",
+        "name": "Department for Innovation, Universities and Skills",
+        "count": 1
+      },
+      {
+        "id": "Q2982287",
+        "name": "Department for Transport",
+        "count": 3
+      },
+      {
+        "id": "Q1191394",
+        "name": "Department for Work and Pensions",
+        "count": 4
+      },
+      {
+        "id": "Q3044733",
+        "name": "Department of Energy and Climate Change",
+        "count": 2
+      },
+      {
+        "id": "Q5260487",
+        "name": "Department of Social Security",
+        "count": 1
+      },
+      {
+        "id": "Q18574418",
+        "name": "First Deputy Chairman of Ways and Means",
+        "count": 2
+      },
+      {
+        "id": "Q358834",
+        "name": "Foreign and Commonwealth Office",
+        "count": 3
+      },
+      {
+        "id": "Q9669",
+        "name": "Green Party of England and Wales",
+        "count": 1
+      },
+      {
+        "id": "Q578269",
+        "name": "HM Treasury",
+        "count": 1
+      },
+      {
+        "id": "Q763388",
+        "name": "Home Office",
+        "count": 1
+      },
+      {
+        "id": "Q2741536",
+        "name": "Leader of the Opposition",
+        "count": 7
+      },
+      {
+        "id": "Q6540616",
+        "name": "Liberal Democrat Frontbench Team",
+        "count": 2
+      },
+      {
+        "id": "Q7450071",
+        "name": "List of Senators of the College of Justice",
+        "count": 1
+      },
+      {
+        "id": "Q6865753",
+        "name": "Minister for Children",
+        "count": 1
+      },
+      {
+        "id": "Q1143261",
+        "name": "Ministry of Defence",
+        "count": 2
+      },
+      {
+        "id": "Q2983190",
+        "name": "Ministry of Justice",
+        "count": 1
+      },
+      {
+        "id": "Q2665914",
+        "name": "Northern Ireland Executive",
+        "count": 2
+      },
+      {
+        "id": "Q218886",
+        "name": "Northern Ireland Office",
+        "count": 1
+      },
+      {
+        "id": "Q2579210",
+        "name": "Official Opposition Shadow Cabinet",
+        "count": 1
+      },
+      {
+        "id": "Q7079552",
+        "name": "Official Opposition frontbench",
+        "count": 1
+      },
+      {
+        "id": "Q14472169",
+        "name": "Parliamentary Labour Party",
+        "count": 4
+      },
+      {
+        "id": "Q7257298",
+        "name": "Public Accounts Committee",
+        "count": 1
+      },
+      {
+        "id": "Q3250438",
+        "name": "Scottish Liberal Democrats",
+        "count": 1
+      },
+      {
+        "id": "Q303329",
+        "name": "Shadow Cabinet",
+        "count": 1
+      },
+      {
+        "id": "Q7460474",
+        "name": "Shadow Cabinet of Michael Howard",
+        "count": 1
+      },
+      {
+        "id": "Q175443",
+        "name": "Social Democratic and Labour Party",
+        "count": 1
+      },
+      {
+        "id": "Q7574785",
+        "name": "Special advisers",
+        "count": 1
+      },
+      {
+        "id": "Q7834897",
+        "name": "Transport Select Committee",
+        "count": 1
+      },
+      {
+        "id": "Q708492",
+        "name": "councillor",
+        "count": 3
+      },
+      {
+        "id": "Q1055894",
+        "name": "deputy",
+        "count": 1
+      },
+      {
+        "id": "Q1413677",
+        "name": "justice ministry",
+        "count": 1
+      },
+      {
+        "id": "Q83307",
+        "name": "minister",
+        "count": 1
+      }
+    ]
+  }
+}
