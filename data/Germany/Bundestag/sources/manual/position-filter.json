@@ -1,0 +1,623 @@
+{
+  "exclude": {
+    "self": [
+      {
+        "id": "Q1939555",
+        "name": "member of the German Bundestag"
+      }
+    ],
+    "other": [
+
+    ]
+  },
+  "include": {
+    "self": [
+      {
+        "id": "Q56024",
+        "name": "President of the Bundestag"
+      },
+      {
+        "id": "Q20966659",
+        "name": "Vice President of the Bundestag"
+      }
+    ],
+    "other_legislatures": [
+      {
+        "id": "Q27169",
+        "name": "member of the European Parliament"
+      },
+      {
+        "id": "Q18557729",
+        "name": "member of the Volkskammer"
+      },
+      {
+        "id": "Q17781726",
+        "name": "member of the Landtag of North Rhine-Westphalia"
+      },
+      {
+        "id": "Q18327335",
+        "name": "Member of the Abgeordnetenhaus of Berlin"
+      },
+      {
+        "id": "Q17586301",
+        "name": "Member of the Landtag of Bavaria"
+      },
+      {
+        "id": "Q17521638",
+        "name": "Member of the Landtag of Lower Saxony"
+      },
+      {
+        "id": "Q18618563",
+        "name": "Member of Landtag of Rhineland-Palatinate"
+      },
+      {
+        "id": "Q17519166",
+        "name": "Member of the Hessian Parliament"
+      },
+      {
+        "id": "Q19360355",
+        "name": "Member of the Hamburg Parliament"
+      },
+      {
+        "id": "Q17481175",
+        "name": "Member of the Landtag of Baden-Württemberg"
+      },
+      {
+        "id": "Q18130496",
+        "name": "Member of the Landtag of Schleswig-Holstein"
+      },
+      {
+        "id": "Q17850767",
+        "name": "member of the Reichstag of the Weimar Republic"
+      },
+      {
+        "id": "Q18130478",
+        "name": "Member of the Landtag of Saarland"
+      },
+      {
+        "id": "Q363637",
+        "name": "President of the Bundesrat of Germany"
+      },
+      {
+        "id": "Q17441472",
+        "name": "member of the Bürgerschaft of Bremen"
+      },
+      {
+        "id": "Q17334379",
+        "name": "Member of the Landtag of Saxony"
+      },
+      {
+        "id": "Q18556824",
+        "name": "member of the Landtag of Brandenburg"
+      },
+      {
+        "id": "Q17344251",
+        "name": "Member of the Landtag of Thuringia"
+      },
+      {
+        "id": "Q18627832",
+        "name": "Member of Landtag of Prussia"
+      },
+      {
+        "id": "Q18327349",
+        "name": "Member of the Landtag of Mecklenburg-Vorpommern"
+      },
+      {
+        "id": "Q18220550",
+        "name": "Member of the Bavarian Senate"
+      },
+      {
+        "id": "Q18559580",
+        "name": "member of Landtag of Saxony-Anhalt"
+      },
+      {
+        "id": "Q19362169",
+        "name": "Member of the 21st Hamburg Parliament"
+      },
+      {
+        "id": "Q18627576",
+        "name": "Member of the Prussian House of Lords"
+      },
+      {
+        "id": "Q17856046",
+        "name": "member of the Reichstag of Nazi Germany"
+      }
+    ],
+    "executive": [
+      {
+        "id": "Q25223",
+        "name": "President of Germany"
+      },
+      {
+        "id": "Q56022",
+        "name": "Chancellor of Germany"
+      },
+      {
+        "id": "Q3099723",
+        "name": "Minister-President"
+      },
+      {
+        "id": "Q22575628",
+        "name": "Federal Minister of the Interior"
+      },
+      {
+        "id": "Q4970706",
+        "name": "Federal Chancellor of Germany"
+      },
+      {
+        "id": "Q504272",
+        "name": "Vice-Chancellor of Germany"
+      },
+      {
+        "id": "Q2006176",
+        "name": "Minister for Foreign Affairs"
+      },
+      {
+        "id": "Q896829",
+        "name": "Parliamentary Commissioner for the Armed Forces"
+      },
+      {
+        "id": "Q518564",
+        "name": "Federal Minister for Special Affairs of Germany"
+      },
+      {
+        "id": "Q22575092",
+        "name": "Federal Minister of Finance"
+      },
+      {
+        "id": "Q1692885",
+        "name": "Minister of Federal Affairs, Europe and Media of North Rhine-Westphalia"
+      }
+    ],
+    "party": [
+      {
+        "id": "Q1307072",
+        "name": "Chief Whip"
+      }
+    ],
+    "other": [
+      {
+        "id": "Q22704680",
+        "name": "Ambassador of Germany to Brazil"
+      },
+      {
+        "id": "Q22667776",
+        "name": "Ambassador of Germany to Israel"
+      },
+      {
+        "id": "Q22583457",
+        "name": "Ambassador of Germany to Austria"
+      },
+      {
+        "id": "Q470446",
+        "name": "High Representative for Bosnia and Herzegovina"
+      },
+      {
+        "id": "Q22704789",
+        "name": "Ambassador of Germany to the Dominican Republic"
+      },
+      {
+        "id": "Q22668324",
+        "name": "Ambassador of Germany to India"
+      },
+      {
+        "id": "Q22338946",
+        "name": "Ambassador of Germany to Chile"
+      },
+      {
+        "id": "Q22329367",
+        "name": "Ambassador of Germany to the United Kingdom"
+      },
+      {
+        "id": "Q22291576",
+        "name": "Ambassador of Germany to Portugal"
+      },
+      {
+        "id": "Q22247648",
+        "name": "Ambassador of Germany to the Netherlands"
+      },
+      {
+        "id": "Q22231015",
+        "name": "Ambassador of Germany to Greece"
+      },
+      {
+        "id": "Q22230846",
+        "name": "Ambassador of Germany to Switzerland"
+      },
+      {
+        "id": "Q22227054",
+        "name": "Ambassador of Germany to Spain"
+      },
+      {
+        "id": "Q22136276",
+        "name": "Ambassador of Germany to Turkey"
+      },
+      {
+        "id": "Q641159",
+        "name": "Governing Mayor of Berlin"
+      },
+      {
+        "id": "Q15303555",
+        "name": "Ministers-President of Bavaria"
+      },
+      {
+        "id": "Q8882",
+        "name": "President of the European Commission"
+      },
+      {
+        "id": "Q824624",
+        "name": "Prime Minister of Lower Saxony"
+      },
+      {
+        "id": "Q740126",
+        "name": "President of the European Parliament"
+      },
+      {
+        "id": "Q645769",
+        "name": "Mayor of Essen"
+      },
+      {
+        "id": "Q19901432",
+        "name": "Permanent Representative of Germany to the United Nations"
+      },
+      {
+        "id": "Q1780221",
+        "name": "European Commissioner for Industry and Entrepreneurship"
+      },
+      {
+        "id": "Q167662",
+        "name": "Secretary General of NATO"
+      },
+      {
+        "id": "Q15303400",
+        "name": "President of the Landtag of Bavaria"
+      },
+      {
+        "id": "Q1478101",
+        "name": "European Commissioner for Enlargement and European Neighbourhood Policy"
+      },
+      {
+        "id": "Q1362118",
+        "name": "First Mayor of Hamburg"
+      },
+      {
+        "id": "Q1005821",
+        "name": "Federal Commissioner for Data Protection and Freedom of Information"
+      }
+    ]
+  },
+  "unknown": {
+    "unknown": [
+      {
+        "id": "Q30185",
+        "name": "mayor",
+        "count": 346
+      },
+      {
+        "id": "Q19731005",
+        "name": "Parliamentary Secretary in Germany",
+        "count": 228
+      },
+      {
+        "id": "Q514725",
+        "name": "Landrat",
+        "count": 70
+      },
+      {
+        "id": "Q248352",
+        "name": "Bundesminister",
+        "count": 64
+      },
+      {
+        "id": "Q736559",
+        "name": "Secretary of State",
+        "count": 13
+      },
+      {
+        "id": "Q854201",
+        "name": "district mayor",
+        "count": 7
+      },
+      {
+        "id": "Q813389",
+        "name": "Q813389",
+        "count": 6
+      },
+      {
+        "id": "Q813387",
+        "name": "Q813387",
+        "count": 6
+      },
+      {
+        "id": "Q813390",
+        "name": "Q813390",
+        "count": 5
+      },
+      {
+        "id": "Q813384",
+        "name": "Q813384",
+        "count": 5
+      },
+      {
+        "id": "Q22662439",
+        "name": "Q22662439",
+        "count": 5
+      },
+      {
+        "id": "Q15720142",
+        "name": "Q15720142",
+        "count": 5
+      },
+      {
+        "id": "Q83307",
+        "name": "minister",
+        "count": 4
+      },
+      {
+        "id": "Q15966511",
+        "name": "Q15966511",
+        "count": 4
+      },
+      {
+        "id": "Q11902879",
+        "name": "Lord Mayor",
+        "count": 4
+      },
+      {
+        "id": "Q928764",
+        "name": "parliamentary group leader",
+        "count": 3
+      },
+      {
+        "id": "Q813391",
+        "name": "Q813391",
+        "count": 3
+      },
+      {
+        "id": "Q684357",
+        "name": "Ministry for Economic Cooperation and Development of Germany",
+        "count": 3
+      },
+      {
+        "id": "Q525316",
+        "name": "Ministry for Intra-German Relations",
+        "count": 3
+      },
+      {
+        "id": "Q2661677",
+        "name": "European Commissioner",
+        "count": 3
+      },
+      {
+        "id": "Q14212",
+        "name": "prime minister",
+        "count": 3
+      },
+      {
+        "id": "Q813386",
+        "name": "Federal Government Commissioner for Culture and Media",
+        "count": 2
+      },
+      {
+        "id": "Q6501749",
+        "name": "General Secretary",
+        "count": 2
+      },
+      {
+        "id": "Q639860",
+        "name": "Stasi Records Agency",
+        "count": 2
+      },
+      {
+        "id": "Q493353",
+        "name": "Ministry of Defence of Germany",
+        "count": 2
+      },
+      {
+        "id": "Q491637",
+        "name": "Federal Ministry of Transport and Digital Infrastructure",
+        "count": 2
+      },
+      {
+        "id": "Q316598",
+        "name": "Bundesministerium für Post und Telekommunikation (FRG)",
+        "count": 2
+      },
+      {
+        "id": "Q314340",
+        "name": "list of mayors of Bremen",
+        "count": 2
+      },
+      {
+        "id": "Q2325058",
+        "name": "German Minister of State",
+        "count": 2
+      },
+      {
+        "id": "Q212238",
+        "name": "civil servant",
+        "count": 2
+      },
+      {
+        "id": "Q1939559",
+        "name": "Member of Landtag",
+        "count": 2
+      },
+      {
+        "id": "Q1663929",
+        "name": "Q1663929",
+        "count": 2
+      },
+      {
+        "id": "Q1553195",
+        "name": "party leader",
+        "count": 2
+      },
+      {
+        "id": "Q1539426",
+        "name": "burgomaster",
+        "count": 2
+      },
+      {
+        "id": "Q140686",
+        "name": "chairperson",
+        "count": 2
+      },
+      {
+        "id": "Q11699092",
+        "name": "Funkcjonariusz",
+        "count": 2
+      },
+      {
+        "id": "Q897395",
+        "name": "Vorstand",
+        "count": 1
+      },
+      {
+        "id": "Q877944",
+        "name": "lay judge",
+        "count": 1
+      },
+      {
+        "id": "Q7330070",
+        "name": "foreign minister",
+        "count": 1
+      },
+      {
+        "id": "Q709293",
+        "name": "leadership of East Germany",
+        "count": 1
+      },
+      {
+        "id": "Q708492",
+        "name": "councillor",
+        "count": 1
+      },
+      {
+        "id": "Q699656",
+        "name": "Ministry of Food, Agriculture and Consumer Protection of Germany",
+        "count": 1
+      },
+      {
+        "id": "Q684380",
+        "name": "List of Ministers-President of Bavaria",
+        "count": 1
+      },
+      {
+        "id": "Q6589202",
+        "name": "interior ministry",
+        "count": 1
+      },
+      {
+        "id": "Q6571850",
+        "name": "List of German postal ministers",
+        "count": 1
+      },
+      {
+        "id": "Q636296",
+        "name": "List of German defence ministers",
+        "count": 1
+      },
+      {
+        "id": "Q566335",
+        "name": "Federal Ministry for Displaced Persons, Refugees and War Victims",
+        "count": 1
+      },
+      {
+        "id": "Q544178",
+        "name": "Attaché",
+        "count": 1
+      },
+      {
+        "id": "Q499118",
+        "name": "Federal Ministry of Finance",
+        "count": 1
+      },
+      {
+        "id": "Q498251",
+        "name": "Federal Ministry of Justice",
+        "count": 1
+      },
+      {
+        "id": "Q492234",
+        "name": "Ministry of Education and Research of Germany",
+        "count": 1
+      },
+      {
+        "id": "Q486839",
+        "name": "member of parliament",
+        "count": 1
+      },
+      {
+        "id": "Q4657217",
+        "name": "municipal executive",
+        "count": 1
+      },
+      {
+        "id": "Q315917",
+        "name": "List of Ministers-President of North Rhine-Westphalia",
+        "count": 1
+      },
+      {
+        "id": "Q3154693",
+        "name": "city council",
+        "count": 1
+      },
+      {
+        "id": "Q22639232",
+        "name": "Q22639232",
+        "count": 1
+      },
+      {
+        "id": "Q20080811",
+        "name": "Q20080811",
+        "count": 1
+      },
+      {
+        "id": "Q1937085",
+        "name": "Q1937085",
+        "count": 1
+      },
+      {
+        "id": "Q166020",
+        "name": "Federal Ministry of Family Affairs, Senior Citizens, Women and Youth",
+        "count": 1
+      },
+      {
+        "id": "Q1622272",
+        "name": "university professor",
+        "count": 1
+      },
+      {
+        "id": "Q1615976",
+        "name": "Q1615976",
+        "count": 1
+      },
+      {
+        "id": "Q15848763",
+        "name": "Staatsrat",
+        "count": 1
+      },
+      {
+        "id": "Q1538432",
+        "name": "Q1538432",
+        "count": 1
+      },
+      {
+        "id": "Q15303678",
+        "name": "President by age",
+        "count": 1
+      },
+      {
+        "id": "Q1413677",
+        "name": "justice ministry",
+        "count": 1
+      },
+      {
+        "id": "Q12339722",
+        "name": "transport minister",
+        "count": 1
+      }
+    ]
+  }
+}
