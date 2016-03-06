@@ -1,0 +1,48 @@
+{
+  "exclude": {
+    "self": [
+      {
+        "id": "Q18510612",
+        "name": "Member of the Swiss National Council"
+      }
+    ],
+    "other": [
+
+    ]
+  },
+  "include": {
+    "self": [
+      {
+        "id": "Q2337229",
+        "name": "President of the Swiss National Council"
+      }
+    ],
+    "other_legislatures": [
+      {
+        "id": "Q18510613",
+        "name": "Member of the Swiss Council of States"
+      },
+      {
+        "id": "Q11811941",
+        "name": "Member of the Swiss Federal Council"
+      }
+    ],
+    "executive": [
+      {
+        "id": "Q688230",
+        "name": "President of the Swiss Confederation"
+      }
+    ],
+    "party": [
+
+    ],
+    "other": [
+
+    ]
+  },
+  "unknown": {
+    "unknown": [
+
+    ]
+  }
+}
