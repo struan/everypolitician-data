@@ -421,14 +421,49 @@
       ]
     },
     {
+      "birth_date": "1954",
+      "gender": "male",
+      "given_name": "Atef",
       "id": "bca54c0a-60c2-4896-9234-016a84363321",
       "identifiers": [
         {
           "identifier": "atef_tarawneh",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q16186517",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Atef_Tarawneh"
         }
       ],
       "name": "Atef Tarawneh",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Atef Tarawneh",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Atef Tarawneh",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Atef Tarawneh",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Atef Tarawneh",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/Jordanian_parliamentary_election_results,_2013"
