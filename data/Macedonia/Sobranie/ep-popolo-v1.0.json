@@ -302,10 +302,10 @@
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Cedomir-Sazdovski.jpg",
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/cedomir-sazdovski---grom.jpg",
       "images": [
         {
-          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Cedomir-Sazdovski.jpg"
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/cedomir-sazdovski---grom.jpg"
         }
       ],
       "name": "Chedomir Sazdovski",
@@ -1295,6 +1295,21 @@
       ]
     },
     {
+      "id": "71a34911-01f3-4073-a0d9-e64244e8e979",
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/mirjana%20hadzievska.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/mirjana%20hadzievska.jpg"
+        }
+      ],
+      "name": "Mirjana Hadzievska",
+      "sources": [
+        {
+          "url": "http://sobranie.mk/current-structure-2014-2018-ns_article-mirjana-hadzievska-15-en.nspx"
+        }
+      ]
+    },
+    {
       "id": "9b86e4cd-c98f-4da9-a747-467309d61b7f",
       "identifiers": [
         {
@@ -2144,9 +2159,10 @@
           "scheme": "everypolitician_legacy"
         }
       ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Vasil-Pisev.jpg",
       "images": [
         {
-          "url": ""
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Vasil-Pisev.jpg"
         }
       ],
       "name": "Vasil Pisev",
@@ -3475,6 +3491,13 @@
       "legislative_period_id": "term/2014",
       "on_behalf_of_id": "party/vmro-dpmne",
       "organization_id": "legislature",
+      "person_id": "71a34911-01f3-4073-a0d9-e64244e8e979",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/vmro-dpmne",
+      "organization_id": "legislature",
       "person_id": "71f1ba5e-6f9d-42bf-a7ca-4e289b3abc6f",
       "role": "member"
     },
@@ -3676,7 +3699,7 @@
     },
     {
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/democratic_union_for_integration",
+      "on_behalf_of_id": "party/independent_members",
       "organization_id": "legislature",
       "person_id": "ca823796-7651-4e64-b61f-c2326763e530",
       "role": "member"
