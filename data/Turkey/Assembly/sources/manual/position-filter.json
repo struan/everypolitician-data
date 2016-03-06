@@ -1,0 +1,95 @@
+{
+  "exclude": {
+    "self": [
+      {
+        "id": "Q21030356",
+        "name": "Member of the Grand National Assembly of Turkey"
+      }
+    ],
+    "other": [
+
+    ]
+  },
+  "include": {
+    "self": [
+      {
+        "id": "Q6020671",
+        "name": "Speaker of the Grand National Assembly of Turkey"
+      }
+    ],
+    "other_legislatures": [
+      {
+        "id": "Q27169",
+        "name": "member of the European Parliament"
+      },
+      {
+        "id": "Q17781726",
+        "name": "member of the Landtag of North Rhine-Westphalia"
+      }
+    ],
+    "executive": [
+      {
+        "id": "Q2430415",
+        "name": "Prime Minister of Turkey"
+      },
+      {
+        "id": "Q5261074",
+        "name": "Deputy Prime Minister of Turkey"
+      },
+      {
+        "id": "Q1922067",
+        "name": "President of Turkey"
+      }
+    ],
+    "party": [
+
+    ],
+    "other": [
+
+    ]
+  },
+  "unknown": {
+    "unknown": [
+      {
+        "id": "Q1663916",
+        "name": "Ministry of the Interior",
+        "count": 2
+      },
+      {
+        "id": "Q7258042",
+        "name": "Public works minister",
+        "count": 1
+      },
+      {
+        "id": "Q6627414",
+        "name": "List of mayors of Ankara",
+        "count": 1
+      },
+      {
+        "id": "Q47543",
+        "name": "Organisation of Islamic Cooperation",
+        "count": 1
+      },
+      {
+        "id": "Q4294877",
+        "name": "Ministry of Justice",
+        "count": 1
+      },
+      {
+        "id": "Q2632935",
+        "name": "Minister of State",
+        "count": 1
+      },
+      {
+        "id": "Q2621182",
+        "name": "culture minister",
+        "count": 1
+      },
+      {
+        "id": "Q1055894",
+        "name": "deputy",
+        "count": 1
+      }
+    ]
+  }
+}
