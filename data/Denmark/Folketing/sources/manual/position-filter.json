@@ -25,60 +25,60 @@
     ],
     "executive": [
       {
-        "id": "Q795477",
-        "name": "Prime Minister"
-      },
-      {
-        "id": "Q5449541",
-        "name": "Finance Minister"
+        "id": "Q1030099",
+        "name": "Culture Minister"
       },
       {
         "id": "Q20069142",
         "name": "Danish Minister of Transport"
       },
       {
-        "id": "Q1311756",
-        "name": "Minister for the Environment"
-      },
-      {
         "id": "Q12310252",
         "name": "Danish commerce minister"
       },
       {
-        "id": "Q1030099",
-        "name": "Culture Minister"
-      },
-      {
-        "id": "Q6317024",
-        "name": "Justice Minister"
-      },
-      {
-        "id": "Q6866144",
-        "name": "Minister of Foreign Affairs"
-      },
-      {
-        "id": "Q18913269",
-        "name": "Minister of the Interior"
-      },
-      {
-        "id": "Q18913275",
-        "name": "Minister of Health"
+        "id": "Q1815344",
+        "name": "Defence Minister"
       },
       {
         "id": "Q5340905",
         "name": "Education Minister"
       },
       {
-        "id": "Q11991832",
-        "name": "Minister for Nordic Co-operation"
-      },
-      {
         "id": "Q12312037",
         "name": "Education and Research Minister"
       },
       {
-        "id": "Q1815344",
-        "name": "Defence Minister"
+        "id": "Q5449541",
+        "name": "Finance Minister"
+      },
+      {
+        "id": "Q6317024",
+        "name": "Justice Minister"
+      },
+      {
+        "id": "Q11991832",
+        "name": "Minister for Nordic Co-operation"
+      },
+      {
+        "id": "Q1311756",
+        "name": "Minister for the Environment"
+      },
+      {
+        "id": "Q6866144",
+        "name": "Minister of Foreign Affairs"
+      },
+      {
+        "id": "Q18913275",
+        "name": "Minister of Health"
+      },
+      {
+        "id": "Q18913269",
+        "name": "Minister of the Interior"
+      },
+      {
+        "id": "Q795477",
+        "name": "Prime Minister"
       }
     ],
     "party": [
@@ -90,40 +90,25 @@
         "name": "President of the Nordic Council"
       },
       {
-        "id": "Q679997",
-        "name": "Prime Minister of Greenland"
-      },
-      {
         "id": "Q1161813",
         "name": "President of the United Nations General Assembly"
+      },
+      {
+        "id": "Q679997",
+        "name": "Prime Minister of Greenland"
       }
     ]
   },
   "unknown": {
     "unknown": [
       {
-        "id": "Q83307",
-        "name": "minister",
-        "count": 4
-      },
-      {
-        "id": "Q2518691",
-        "name": "defence minister",
-        "count": 3
-      },
-      {
-        "id": "Q4018482",
-        "name": "education minister",
-        "count": 1
-      },
-      {
         "id": "Q3544677",
         "name": "List of Ministers for Food, Agriculture and Fisheries of Denmark",
         "count": 1
       },
       {
-        "id": "Q30185",
-        "name": "mayor",
+        "id": "Q12336940",
+        "name": "Q12336940",
         "count": 1
       },
       {
@@ -132,9 +117,19 @@
         "count": 1
       },
       {
-        "id": "Q12336940",
-        "name": "Q12336940",
+        "id": "Q2518691",
+        "name": "defence minister",
+        "count": 2
+      },
+      {
+        "id": "Q30185",
+        "name": "mayor",
         "count": 1
+      },
+      {
+        "id": "Q83307",
+        "name": "minister",
+        "count": 4
       }
     ]
   }
