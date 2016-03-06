@@ -33,17 +33,11 @@
       },
       "source": "http://wikidata.org/",
       "type": "wikidata",
-      "merge": [
-        {
-          "incoming_field": "wikipedia__en",
-          "existing_field": "wikipedia_name"
-        },
-        {
-          "incoming_field": "name",
-          "existing_field": "name",
-          "reconciliation_file": "reconciliation/wikidata.csv"
-        }
-      ]
+      "merge": {
+        "incoming_field": "name",
+        "existing_field": "name",
+        "reconciliation_file": "reconciliation/wikidata.csv"
+      }
     },
     {
       "file": "manual/emails.csv",
