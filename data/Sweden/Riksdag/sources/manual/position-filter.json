@@ -1,0 +1,97 @@
+{
+  "exclude": {
+    "self": [
+      {
+        "id": "Q10655178",
+        "name": "Member of the Riksdag"
+      }
+    ],
+    "other": [
+
+    ]
+  },
+  "include": {
+    "self": [
+      {
+        "id": "Q1850749",
+        "name": "Speaker of the Parliament of Sweden"
+      },
+      {
+        "id": "Q6508565",
+        "name": "Leader of the Opposition"
+      }
+    ],
+    "other_legislatures": [
+      {
+        "id": "Q27169",
+        "name": "member of the European Parliament"
+      }
+    ],
+    "executive": [
+      {
+        "id": "Q920108",
+        "name": "Minister for Defence"
+      },
+      {
+        "id": "Q6865819",
+        "name": "Minister for EU Affairs"
+      },
+      {
+        "id": "Q3315958",
+        "name": "Minister for Justice"
+      },
+      {
+        "id": "Q10686038",
+        "name": "Minister for International Development Cooperation"
+      }
+    ],
+    "party": [
+
+    ],
+    "other": [
+      {
+        "id": "Q19185575",
+        "name": "President of the Nordic Council"
+      }
+    ]
+  },
+  "unknown": {
+    "unknown": [
+      {
+        "id": "Q776570",
+        "name": "Ministry for Foreign Affairs Sweden",
+        "count": 1
+      },
+      {
+        "id": "Q3288496",
+        "name": "Ministry for Rural Affairs",
+        "count": 1
+      },
+      {
+        "id": "Q2612011",
+        "name": "Ministry of Justice",
+        "count": 1
+      },
+      {
+        "id": "Q2611987",
+        "name": "Ministry of Health and Social Affairs",
+        "count": 1
+      },
+      {
+        "id": "Q1780908",
+        "name": "Ministry of Employment",
+        "count": 1
+      },
+      {
+        "id": "Q14325783",
+        "name": "Q14325783",
+        "count": 1
+      },
+      {
+        "id": "Q14325736",
+        "name": "Q14325736",
+        "count": 1
+      }
+    ]
+  }
+}
