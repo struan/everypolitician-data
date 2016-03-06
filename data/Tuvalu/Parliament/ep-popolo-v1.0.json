@@ -979,14 +979,41 @@
       ]
     },
     {
+      "gender": "male",
       "id": "c83132e5-10ec-4d61-81b7-b4c4840d64a7",
       "identifiers": [
         {
           "identifier": "leneuoti_maatusi",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q17048835",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Leneuoti_Matusi"
         }
       ],
       "name": "Leneuoti Maatusi",
+      "other_names": [
+        {
+          "name": "Leneuoti Matusi",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Leneuoti Matusi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Leneuoti Matusi",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_by-elections_in_Tuvalu"
@@ -1288,14 +1315,46 @@
       ]
     },
     {
+      "gender": "male",
       "id": "16953e62-28ec-4353-a162-406abed14c6b",
       "identifiers": [
         {
           "identifier": "monise_lafai",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q6900427",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Monise_Laafai"
         }
       ],
       "name": "Monise Lafai",
+      "other_names": [
+        {
+          "name": "Monise Laafai",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Monise Laafai",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Monise Laafai",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Monise Laafai",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/Tuvaluan_general_election,_2015"
