@@ -18343,11 +18343,17 @@
       ]
     },
     {
+      "birth_date": "1948-03-17",
+      "gender": "male",
       "id": "b1ba775b-5a1e-47ea-b572-f3286895e601",
       "identifiers": [
         {
           "identifier": "zainul-abidin-rasheed-9",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q7463428",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.sg/sites/default/files/Prof-Zainul.gif",
@@ -18356,7 +18362,43 @@
           "url": "http://www.parliament.gov.sg/sites/default/files/Prof-Zainul.gif"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Zainul_Abidin_(politician)"
+        },
+        {
+          "note": "Wikipedia (ms)",
+          "url": "https://ms.wikipedia.org/wiki/Zainul_Abidin_Rasheed"
+        }
+      ],
       "name": "Zainul Abidin Rasheed",
+      "other_names": [
+        {
+          "name": "Zainul Abidin",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Zainul Abidin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Zainul Abidin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "Zainul Abidin Rasheed",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Zainul Abidin",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.parliament.gov.sg/history/9th-parliament"
