@@ -41,16 +41,11 @@
       },
       "source": "http://wikidata.org/",
       "type": "wikidata",
-      "merge": [
-        {
-          "incoming_field": "parlid",
-          "existing_field": "identifier__datadotparl"
-        },
-        {
-          "incoming_field": "wikipedia__en",
-          "existing_field": "wikiname"
-        }
-      ]
+      "merge": {
+        "incoming_field": "name",
+        "existing_field": "name",
+        "reconciliation_file": "reconciliation/wikidata.csv"
+      }
     },
     {
       "file": "manual/emails.csv",
@@ -74,6 +69,14 @@
       "create": {
         "type": "gender-balance",
         "source": "UK/Commons"
+      }
+    },
+    {
+      "file": "wikidata/positions.json",
+      "type": "wikidata-positions",
+      "create": {
+        "type": "wikidata-raw",
+        "source": "reconciliation/wikidata.csv"
       }
     }
   ]
