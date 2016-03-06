@@ -1,0 +1,47 @@
+{
+  "exclude": {
+    "self": [
+
+    ],
+    "other": [
+
+    ]
+  },
+  "include": {
+    "self": [
+
+    ],
+    "other_legislatures": [
+
+    ],
+    "executive": [
+      {
+        "id": "Q585760",
+        "name": "Chief Minister of Gibraltar"
+      }
+    ],
+    "party": [
+
+    ],
+    "other": [
+      {
+        "id": "Q12061526",
+        "name": "Mayor of Gibraltar"
+      }
+    ]
+  },
+  "unknown": {
+    "unknown": [
+      {
+        "id": "Q128986",
+        "name": "Government of Gibraltar",
+        "count": 2
+      },
+      {
+        "id": "Q1413677",
+        "name": "justice ministry",
+        "count": 1
+      }
+    ]
+  }
+}
