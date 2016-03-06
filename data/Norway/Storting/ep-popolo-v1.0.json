@@ -25188,6 +25188,10 @@
           "url": "https://fr.wikipedia.org/wiki/Gro_Harlem_Brundtland"
         },
         {
+          "note": "Wikipedia (frwikiquote)",
+          "url": "https://frwikiquote.wikipedia.org/wiki/Gro_Harlem_Brundtland"
+        },
+        {
           "note": "Wikipedia (gl)",
           "url": "https://gl.wikipedia.org/wiki/Gro_Harlem_Brundtland"
         },
@@ -36143,6 +36147,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Inge_Lønning"
+        },
         {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Inge_Lønning"
@@ -68862,6 +68870,7 @@
     },
     {
       "birth_date": "1918-04-16",
+      "death_date": "1996-09-14",
       "family_name": "Hansen",
       "gender": "male",
       "given_name": "Odin",
@@ -68870,9 +68879,40 @@
         {
           "identifier": "ODHN",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q21774049",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Odin_Hansen"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Odin_Hansen"
         }
       ],
       "name": "Odin Hansen",
+      "other_names": [
+        {
+          "lang": "nb",
+          "name": "Odin Hansen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Odin Hansen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "no",
+          "name": "Odin Hansen",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Hansen, Odin",
       "sources": [
         {
@@ -87461,6 +87501,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Sverre_Bernhard_Nybø"
+        },
+        {
           "note": "Wikipedia (no)",
           "url": "https://no.wikipedia.org/wiki/Sverre_Nybø"
         }
@@ -87482,8 +87526,18 @@
           "note": "multilingual"
         },
         {
+          "lang": "fr",
+          "name": "Sverre Bernhard Nybø",
+          "note": "multilingual"
+        },
+        {
           "lang": "nb",
           "name": "Sverre Nybø",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Sverre Bernhard Nybø",
           "note": "multilingual"
         }
       ],
@@ -99410,9 +99464,50 @@
         {
           "identifier": "WATJ",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q7965390",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Walter_Kåre_Tjønndal"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Walter_Tjønndal"
         }
       ],
       "name": "Walter Kåre Tjønndal",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Walter Kåre Tjønndal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Walter Kåre Tjønndal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Walter Tjønndal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Walter Tjønndal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Walter Kåre Tjønndal",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Tjønndal, Walter Kåre",
       "sources": [
         {
