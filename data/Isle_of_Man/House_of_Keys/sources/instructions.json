@@ -35,8 +35,9 @@
       "source": "http://wikidata.org/",
       "type": "wikidata",
       "merge": {
-        "incoming_field": "wikipedia__en",
-        "existing_field": "wikipedia__en"
+        "incoming_field": "name",
+        "existing_field": "name",
+        "reconciliation_file": "reconciliation/wikidata.csv"
       }
     },
     {
@@ -45,6 +46,14 @@
       "create": {
         "type": "gender-balance",
         "source": "Isle-of-Man/House-of-Keys"
+      }
+    },
+    {
+      "file": "wikidata/positions.json",
+      "type": "wikidata-positions",
+      "create": {
+        "type": "wikidata-raw",
+        "source": "reconciliation/wikidata.csv"
       }
     }
   ]
