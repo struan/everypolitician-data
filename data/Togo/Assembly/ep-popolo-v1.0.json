@@ -1314,6 +1314,16 @@
     },
     {
       "gender": "male",
+      "id": "51dc5fb9-0bd2-423d-aff6-640669111f80",
+      "name": "M.BOURAIMA-DIABACTE K. Hamadou Brim",
+      "sources": [
+        {
+          "url": "http://www.assemblee-nationale.tg/index.php?option=com_content&view=article&id=174&Itemid=1246"
+        }
+      ]
+    },
+    {
+      "gender": "male",
       "id": "bb67e2c1-97e2-40b2-9efb-8cb5456a11ba",
       "identifiers": [
         {
@@ -1430,6 +1440,16 @@
         }
       ],
       "name": "Mme AMENYO Afi Ntifa",
+      "sources": [
+        {
+          "url": "http://www.assemblee-nationale.tg/index.php?option=com_content&view=article&id=174&Itemid=1246"
+        }
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "0ad8a456-ee30-415b-87e1-8c2d6ca441a2",
+      "name": "Mme AMOUZOU DJAKE Kossiwa",
       "sources": [
         {
           "url": "http://www.assemblee-nationale.tg/index.php?option=com_content&view=article&id=174&Itemid=1246"
@@ -1726,6 +1746,14 @@
       "role": "member"
     },
     {
+      "area_id": "area/haho",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "party/unir",
+      "organization_id": "legislature",
+      "person_id": "0ad8a456-ee30-415b-87e1-8c2d6ca441a2",
+      "role": "member"
+    },
+    {
       "area_id": "area/agou",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/unir",
@@ -1896,7 +1924,7 @@
     {
       "area_id": "area/grand_lome",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "party/unir",
+      "on_behalf_of_id": "party/anc",
       "organization_id": "legislature",
       "person_id": "47cf2337-79e2-4e20-982e-12d91e75bd05",
       "role": "member"
@@ -1931,6 +1959,14 @@
       "on_behalf_of_id": "party/unir",
       "organization_id": "legislature",
       "person_id": "50d12269-0fc1-46d4-8569-067596b72610",
+      "role": "member"
+    },
+    {
+      "area_id": "area/oti",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "party/ufc",
+      "organization_id": "legislature",
+      "person_id": "51dc5fb9-0bd2-423d-aff6-640669111f80",
       "role": "member"
     },
     {
@@ -2240,7 +2276,7 @@
     {
       "area_id": "area/dankpen",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "party/arc-en-ciel",
+      "on_behalf_of_id": "party/anc",
       "organization_id": "legislature",
       "person_id": "c76781cb-b418-40e9-9632-3952fa6532ab",
       "role": "member"
