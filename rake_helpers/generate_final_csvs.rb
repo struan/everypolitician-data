@@ -105,7 +105,7 @@ namespace :term_csvs do
 
     want, unknown = @json[:persons].map { |p| 
       (p[:identifiers] || []).find_all { |i| i[:scheme] == 'wikidata' }.map { |id|
-        positions[id[:identifier].to_sym].to_a.map { |posn| 
+        positions[id[:identifier].to_sym].to_a.reject { |p| p[:id].nil? }.map { |posn| 
           {
             id: p[:id],
             wikidata: id[:identifier],
