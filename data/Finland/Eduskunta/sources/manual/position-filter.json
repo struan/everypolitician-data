@@ -25,20 +25,44 @@
     ],
     "executive": [
       {
-        "id": "Q738695",
-        "name": "Prime Minister of Finland"
+        "id": "Q3278079",
+        "name": "Deputy Prime Minister of Finland"
       },
       {
-        "id": "Q2367542",
-        "name": "Minister of Finance"
+        "id": "Q2472167",
+        "name": "High Commissioner on National Minorities"
+      },
+      {
+        "id": "Q11895142",
+        "name": "Minister for European Affairs and Foreign Trade"
       },
       {
         "id": "Q2386529",
         "name": "Minister for Foreign Affairs of Finland"
       },
       {
-        "id": "Q3278079",
-        "name": "Deputy Prime Minister of Finland"
+        "id": "Q17118521",
+        "name": "Minister for International Development"
+      },
+      {
+        "id": "Q188393",
+        "name": "Minister of Defence"
+      },
+      {
+        "id": "Q11895091",
+        "name": "Minister of Education and Culture of Finland"
+      },
+      {
+        "id": "Q2367542",
+        "name": "Minister of Finance"
+      },
+      {
+        "id": "Q6866175",
+        "name": "Minister of Health and Social Services"
+      },
+      {
+        "id": "Q18694348",
+        "name": "Minister of Health and Social Services"
       },
       {
         "id": "Q1294631",
@@ -49,65 +73,37 @@
         "name": "Minister of Transport and Communications"
       },
       {
+        "id": "Q1425432",
+        "name": "Minister of the Environment"
+      },
+      {
         "id": "Q1445938",
         "name": "Minister of the Interior"
-      },
-      {
-        "id": "Q11895142",
-        "name": "Minister for European Affairs and Foreign Trade"
-      },
-      {
-        "id": "Q188393",
-        "name": "Minister of Defence"
-      },
-      {
-        "id": "Q17118521",
-        "name": "Minister for International Development"
       },
       {
         "id": "Q29558",
         "name": "President of Finland"
       },
       {
-        "id": "Q2472167",
-        "name": "High Commissioner on National Minorities"
-      },
-      {
-        "id": "Q6866175",
-        "name": "Minister of Health and Social Services"
-      },
-      {
-        "id": "Q11895091",
-        "name": "Minister of Education and Culture of Finland"
+        "id": "Q738695",
+        "name": "Prime Minister of Finland"
       },
       {
         "id": "Q2621182",
         "name": "culture minister"
-      },
-      {
-        "id": "Q18694348",
-        "name": "Minister of Health and Social Services"
-      },
-      {
-        "id": "Q1425432",
-        "name": "Minister of the Environment"
       }
     ],
     "party": [
       {
-        "id": "Q22981850",
-        "name": "Leader of the Centre Party"
-      },
-      {
         "id": "Q22981837",
         "name": "Chairperson of the National Coalition Party"
+      },
+      {
+        "id": "Q22981850",
+        "name": "Leader of the Centre Party"
       }
     ],
     "other": [
-      {
-        "id": "Q19185575",
-        "name": "President of the Nordic Council"
-      },
       {
         "id": "Q1780230",
         "name": "European Commissioner for Economic and Monetary Affairs and the Euro"
@@ -117,25 +113,29 @@
         "name": "European Commissioner for Enlargement and European Neighbourhood Policy"
       },
       {
-        "id": "Q7925068",
-        "name": "Vice President of the European Parliament"
-      },
-      {
         "id": "Q20167466",
         "name": "Premier of the Åland Islands"
+      },
+      {
+        "id": "Q19185575",
+        "name": "President of the Nordic Council"
+      },
+      {
+        "id": "Q7925068",
+        "name": "Vice President of the European Parliament"
       }
     ]
   },
   "unknown": {
     "unknown": [
       {
-        "id": "Q140686",
-        "name": "chairperson",
+        "id": "Q121998",
+        "name": "ambassador",
         "count": 1
       },
       {
-        "id": "Q121998",
-        "name": "ambassador",
+        "id": "Q140686",
+        "name": "chairperson",
         "count": 1
       }
     ]
