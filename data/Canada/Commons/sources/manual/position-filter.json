@@ -13,10 +13,6 @@
   "include": {
     "self": [
       {
-        "id": "Q2506685",
-        "name": "Speaker of the House of Commons"
-      },
-      {
         "id": "Q5246678",
         "name": "Dean of the House"
       },
@@ -31,6 +27,10 @@
       {
         "id": "Q6508576",
         "name": "Leader of the Opposition in the House of Commons"
+      },
+      {
+        "id": "Q2506685",
+        "name": "Speaker of the House of Commons"
       }
     ],
     "other_legislatures": [
@@ -39,38 +39,42 @@
         "name": "Member of Ontario Provincial Parliament"
       },
       {
-        "id": "Q15964815",
-        "name": "member of Alberta Legislative Assembly"
+        "id": "Q18675661",
+        "name": "Member of the Legislative Assembly of Saskatchewan"
       },
       {
         "id": "Q3305338",
         "name": "Member of the National Assembly of Quebec"
       },
       {
-        "id": "Q19007867",
-        "name": "member of the Legislative Assembly of Manitoba"
+        "id": "Q15964815",
+        "name": "member of Alberta Legislative Assembly"
       },
       {
-        "id": "Q18675661",
-        "name": "Member of the Legislative Assembly of Saskatchewan"
+        "id": "Q19007867",
+        "name": "member of the Legislative Assembly of Manitoba"
       }
     ],
     "executive": [
       {
-        "id": "Q839078",
-        "name": "Prime Minister of Canada"
-      },
-      {
-        "id": "Q541355",
-        "name": "Minister of Foreign Affairs of Canada"
-      },
-      {
-        "id": "Q3315114",
-        "name": "Minister of National Defence"
-      },
-      {
         "id": "Q3315120",
         "name": "Canadian Minister of Justice"
+      },
+      {
+        "id": "Q6866016",
+        "name": "Minister for the purposes of the Atlantic Canada Opportunities Agency Act"
+      },
+      {
+        "id": "Q1195049",
+        "name": "Minister of Aboriginal Affairs and Northern Development"
+      },
+      {
+        "id": "Q3251793",
+        "name": "Minister of Citizenship and Immigration"
+      },
+      {
+        "id": "Q16931775",
+        "name": "Minister of Employment, Workforce, and Labour"
       },
       {
         "id": "Q3251818",
@@ -81,114 +85,98 @@
         "name": "Minister of Fisheries and Oceans"
       },
       {
+        "id": "Q541355",
+        "name": "Minister of Foreign Affairs of Canada"
+      },
+      {
         "id": "Q3251800",
         "name": "Minister of Health"
-      },
-      {
-        "id": "Q3251775",
-        "name": "Minister of the Environment"
-      },
-      {
-        "id": "Q16847971",
-        "name": "Minister of Intergovernmental Affairs"
-      },
-      {
-        "id": "Q6866422",
-        "name": "Minister of Western Economic Diversification"
-      },
-      {
-        "id": "Q6866327",
-        "name": "Minister of State"
-      },
-      {
-        "id": "Q6866295",
-        "name": "Minister of Public Services and Procurement"
-      },
-      {
-        "id": "Q6866264",
-        "name": "Minister of National Revenue"
       },
       {
         "id": "Q6866194",
         "name": "Minister of Human Resources and Skills Development"
       },
       {
-        "id": "Q6866016",
-        "name": "Minister for the purposes of the Atlantic Canada Opportunities Agency Act"
+        "id": "Q3251779",
+        "name": "Minister of Industry"
       },
       {
-        "id": "Q3251821",
-        "name": "Minister of Transport"
-      },
-      {
-        "id": "Q16933914",
-        "name": "Minister of Public Safety and Emergency Preparedness"
+        "id": "Q16847971",
+        "name": "Minister of Intergovernmental Affairs"
       },
       {
         "id": "Q748607",
         "name": "Minister of International Trade"
       },
       {
-        "id": "Q7444351",
-        "name": "Secretary of State for Latin America and Africa"
-      },
-      {
-        "id": "Q6866468",
-        "name": "Minister responsible for the Status of Women"
-      },
-      {
-        "id": "Q6866462",
-        "name": "Minister responsible for the Francophonie"
-      },
-      {
         "id": "Q6866255",
         "name": "Minister of Multiculturalism and Citizenship"
+      },
+      {
+        "id": "Q3315114",
+        "name": "Minister of National Defence"
+      },
+      {
+        "id": "Q6866264",
+        "name": "Minister of National Revenue"
       },
       {
         "id": "Q3251824",
         "name": "Minister of Natural Resources"
       },
       {
+        "id": "Q16933914",
+        "name": "Minister of Public Safety and Emergency Preparedness"
+      },
+      {
+        "id": "Q6866295",
+        "name": "Minister of Public Services and Procurement"
+      },
+      {
+        "id": "Q6866327",
+        "name": "Minister of State"
+      },
+      {
+        "id": "Q3251821",
+        "name": "Minister of Transport"
+      },
+      {
         "id": "Q3251807",
         "name": "Minister of Veterans Affairs"
       },
       {
-        "id": "Q3251793",
-        "name": "Minister of Citizenship and Immigration"
+        "id": "Q6866422",
+        "name": "Minister of Western Economic Diversification"
       },
       {
-        "id": "Q3251779",
-        "name": "Minister of Industry"
-      },
-      {
-        "id": "Q16931775",
-        "name": "Minister of Employment, Workforce, and Labour"
+        "id": "Q3251775",
+        "name": "Minister of the Environment"
       },
       {
         "id": "Q16836466",
         "name": "Minister responsible for the Federal Economic Development Initiative for Northern Ontario"
       },
       {
-        "id": "Q1195049",
-        "name": "Minister of Aboriginal Affairs and Northern Development"
+        "id": "Q6866462",
+        "name": "Minister responsible for the Francophonie"
+      },
+      {
+        "id": "Q6866468",
+        "name": "Minister responsible for the Status of Women"
+      },
+      {
+        "id": "Q839078",
+        "name": "Prime Minister of Canada"
+      },
+      {
+        "id": "Q7444351",
+        "name": "Secretary of State for Latin America and Africa"
       }
     ],
     "party": [
 
     ],
     "other": [
-      {
-        "id": "Q3253693",
-        "name": "President of the Queen's Privy Council for Canada"
-      },
-      {
-        "id": "Q3253692",
-        "name": "President of the Treasury Board"
-      },
-      {
-        "id": "Q18846372",
-        "name": "Member of the Executive Council of Manitoba"
-      },
       {
         "id": "Q5152846",
         "name": "Commissioner of the Ontario Provincial Police"
@@ -198,50 +186,37 @@
         "name": "Leader of the Opposition of Alberta"
       },
       {
+        "id": "Q177645",
+        "name": "Mayor of Montreal"
+      },
+      {
+        "id": "Q18846372",
+        "name": "Member of the Executive Council of Manitoba"
+      },
+      {
         "id": "Q2560704",
         "name": "Premier of Ontario"
       },
       {
-        "id": "Q177645",
-        "name": "Mayor of Montreal"
+        "id": "Q3253693",
+        "name": "President of the Queen's Privy Council for Canada"
+      },
+      {
+        "id": "Q3253692",
+        "name": "President of the Treasury Board"
       }
     ]
   },
   "unknown": {
     "unknown": [
       {
-        "id": "Q1553195",
-        "name": "party leader",
-        "count": 2
-      },
-      {
-        "id": "Q83307",
-        "name": "minister",
+        "id": "Q2816776",
+        "name": "41st Canadian Parliament",
         "count": 1
       },
       {
-        "id": "Q6867585",
-        "name": "Ministry of Tourism and Culture",
-        "count": 1
-      },
-      {
-        "id": "Q6867335",
-        "name": "Ministry of Labour",
-        "count": 1
-      },
-      {
-        "id": "Q5261098",
-        "name": "deputy leader",
-        "count": 1
-      },
-      {
-        "id": "Q3477319",
-        "name": "Parliamentary Secretary",
-        "count": 1
-      },
-      {
-        "id": "Q30185",
-        "name": "mayor",
+        "id": "Q1018894",
+        "name": "Bâtonnier",
         "count": 1
       },
       {
@@ -250,8 +225,23 @@
         "count": 1
       },
       {
-        "id": "Q2816776",
-        "name": "41st Canadian Parliament",
+        "id": "Q138345",
+        "name": "Liberal Party of Canada",
+        "count": 1
+      },
+      {
+        "id": "Q6867335",
+        "name": "Ministry of Labour",
+        "count": 1
+      },
+      {
+        "id": "Q6867585",
+        "name": "Ministry of Tourism and Culture",
+        "count": 1
+      },
+      {
+        "id": "Q3477319",
+        "name": "Parliamentary Secretary",
         "count": 1
       },
       {
@@ -260,14 +250,24 @@
         "count": 1
       },
       {
-        "id": "Q138345",
-        "name": "Liberal Party of Canada",
+        "id": "Q5261098",
+        "name": "deputy leader",
         "count": 1
       },
       {
-        "id": "Q1018894",
-        "name": "Bâtonnier",
+        "id": "Q30185",
+        "name": "mayor",
         "count": 1
+      },
+      {
+        "id": "Q83307",
+        "name": "minister",
+        "count": 1
+      },
+      {
+        "id": "Q1553195",
+        "name": "party leader",
+        "count": 2
       }
     ]
   }
