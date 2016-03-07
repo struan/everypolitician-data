@@ -2,12 +2,12 @@
   "exclude": {
     "self": [
       {
-        "id": "Q9045502",
-        "name": "member of the Parliament of Norway"
-      },
-      {
         "id": "Q18713976",
         "name": "deputy member of the Parliament of Norway"
+      },
+      {
+        "id": "Q9045502",
+        "name": "member of the Parliament of Norway"
       }
     ],
     "other": [
@@ -26,12 +26,8 @@
     ],
     "executive": [
       {
-        "id": "Q16147743",
-        "name": "State Secretary"
-      },
-      {
-        "id": "Q2334076",
-        "name": "Prime Minister of Norway"
+        "id": "Q3436588",
+        "name": "Deputy to the Prime Minister of Norway"
       },
       {
         "id": "Q18018541",
@@ -42,68 +38,72 @@
         "name": "Government Director of Personnel"
       },
       {
-        "id": "Q3437006",
-        "name": "Minister of Local Government and Regional Development"
-      },
-      {
         "id": "Q11992117",
         "name": "Minister of Agriculture and Food (Norway)"
-      },
-      {
-        "id": "Q6866276",
-        "name": "Minister of Petroleum and Energy"
-      },
-      {
-        "id": "Q6866238",
-        "name": "Minister of Labour and Social Inclusion"
-      },
-      {
-        "id": "Q3734685",
-        "name": "Minister of Finance of Norway"
-      },
-      {
-        "id": "Q6514745",
-        "name": "Minister of Transport and Communications"
-      },
-      {
-        "id": "Q1769706",
-        "name": "Minister of Justice and Public Security"
       },
       {
         "id": "Q14436783",
         "name": "Minister of Children, Equality and Social Inclusion"
       },
       {
-        "id": "Q6866085",
-        "name": "Minister of Culture"
-      },
-      {
-        "id": "Q1769407",
-        "name": "Ministry of Trade and Industry"
-      },
-      {
         "id": "Q3356730",
         "name": "Minister of Climate and the Environment"
       },
       {
-        "id": "Q6866170",
-        "name": "Minister of Health and Care Services"
-      },
-      {
-        "id": "Q3436588",
-        "name": "Deputy to the Prime Minister of Norway"
-      },
-      {
-        "id": "Q4574171",
-        "name": "Minister of International Development"
+        "id": "Q6866085",
+        "name": "Minister of Culture"
       },
       {
         "id": "Q22981866",
         "name": "Minister of Education and Research"
       },
       {
+        "id": "Q3734685",
+        "name": "Minister of Finance of Norway"
+      },
+      {
+        "id": "Q6866170",
+        "name": "Minister of Health and Care Services"
+      },
+      {
+        "id": "Q4574171",
+        "name": "Minister of International Development"
+      },
+      {
         "id": "Q17763739",
         "name": "Minister of Justice"
+      },
+      {
+        "id": "Q1769706",
+        "name": "Minister of Justice and Public Security"
+      },
+      {
+        "id": "Q6866238",
+        "name": "Minister of Labour and Social Inclusion"
+      },
+      {
+        "id": "Q3437006",
+        "name": "Minister of Local Government and Regional Development"
+      },
+      {
+        "id": "Q6866276",
+        "name": "Minister of Petroleum and Energy"
+      },
+      {
+        "id": "Q6514745",
+        "name": "Minister of Transport and Communications"
+      },
+      {
+        "id": "Q1769407",
+        "name": "Ministry of Trade and Industry"
+      },
+      {
+        "id": "Q2334076",
+        "name": "Prime Minister of Norway"
+      },
+      {
+        "id": "Q16147743",
+        "name": "State Secretary"
       }
     ],
     "party": [
@@ -111,28 +111,28 @@
     ],
     "other": [
       {
-        "id": "Q19185575",
-        "name": "President of the Nordic Council"
-      },
-      {
-        "id": "Q19186617",
-        "name": "Secretary General of the Nordic Council of Ministers"
-      },
-      {
-        "id": "Q167662",
-        "name": "Secretary General of NATO"
+        "id": "Q1686380",
+        "name": "Lensmann"
       },
       {
         "id": "Q1225156",
         "name": "Minister of Defence"
       },
       {
+        "id": "Q19185575",
+        "name": "President of the Nordic Council"
+      },
+      {
+        "id": "Q167662",
+        "name": "Secretary General of NATO"
+      },
+      {
         "id": "Q2942251",
         "name": "Secretary General of the Council of Europe"
       },
       {
-        "id": "Q1686380",
-        "name": "Lensmann"
+        "id": "Q19186617",
+        "name": "Secretary General of the Nordic Council of Ministers"
       },
       {
         "id": "Q81066",
@@ -143,13 +143,13 @@
   "unknown": {
     "unknown": [
       {
-        "id": "Q30185",
-        "name": "mayor",
-        "count": 4
+        "id": "Q1769636",
+        "name": "Ministry of Government Administration, Reform and Church Affairs",
+        "count": 1
       },
       {
-        "id": "Q83307",
-        "name": "minister",
+        "id": "Q12330400",
+        "name": "Q12330400",
         "count": 1
       },
       {
@@ -158,13 +158,13 @@
         "count": 1
       },
       {
-        "id": "Q1769636",
-        "name": "Ministry of Government Administration, Reform and Church Affairs",
-        "count": 1
+        "id": "Q30185",
+        "name": "mayor",
+        "count": 4
       },
       {
-        "id": "Q12330400",
-        "name": "Q12330400",
+        "id": "Q83307",
+        "name": "minister",
         "count": 1
       }
     ]
