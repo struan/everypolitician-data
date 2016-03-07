@@ -1,6 +1,16 @@
 {
   "persons": [
     {
+      "id": "0f7df4a8-4438-43c9-8a04-69e1322867f5",
+      "image": "http://www.fsmcongress.fm/Official%20Pix/19CFSM%20FOTOS/ALIK.jpg",
+      "images": [
+        {
+          "url": "http://www.fsmcongress.fm/Official%20Pix/19CFSM%20FOTOS/ALIK.jpg"
+        }
+      ],
+      "name": "Alik L. Alik"
+    },
+    {
       "id": "9e66ff7a-bec1-4fbf-aa71-d8fb118660ae",
       "identifiers": [
         {
@@ -56,10 +66,10 @@
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "http://www.fsmcongress.fm/Official%20Pix/19CFSM%20FOTOS/PANUELO.jpg",
+      "image": "http://www.fsmcongress.fm/Official%20Pix/19CFSM%20FOTOS/PANUELO%20REDO1.jpg",
       "images": [
         {
-          "url": "http://www.fsmcongress.fm/Official%20Pix/19CFSM%20FOTOS/PANUELO.jpg"
+          "url": "http://www.fsmcongress.fm/Official%20Pix/19CFSM%20FOTOS/PANUELO%20REDO1.jpg"
         }
       ],
       "name": "David W. Panuelo"
@@ -79,6 +89,16 @@
         }
       ],
       "name": "Dohsis Halbert"
+    },
+    {
+      "id": "4c95d85f-75b0-4336-8ef7-9b060d72d72e",
+      "image": "http://www.fsmcongress.fm/Official%20Pix/19CFSM%20FOTOS/MOSES.jpg",
+      "images": [
+        {
+          "url": "http://www.fsmcongress.fm/Official%20Pix/19CFSM%20FOTOS/MOSES.jpg"
+        }
+      ],
+      "name": "Esmond B. Moses"
     },
     {
       "id": "4557e685-bd2d-46fd-bdef-8fcd9f1d10f2",
@@ -207,6 +227,16 @@
         }
       ],
       "name": "Roger S. Mori"
+    },
+    {
+      "id": "9cc3f28a-6e0f-40ff-ac39-c57b4ce9da8a",
+      "image": "http://www.fsmcongress.fm/Official%20Pix/19CFSM%20FOTOS/ROMOLOW.jpg",
+      "images": [
+        {
+          "url": "http://www.fsmcongress.fm/Official%20Pix/19CFSM%20FOTOS/ROMOLOW.jpg"
+        }
+      ],
+      "name": "Senator Robson U. Romolow"
     },
     {
       "id": "f1a771ac-774c-4b21-b15b-30d2a479706b",
@@ -379,6 +409,14 @@
       "role": "member"
     },
     {
+      "area_id": "area/kosrae",
+      "legislative_period_id": "term/19",
+      "on_behalf_of_id": "party/none",
+      "organization_id": "legislature",
+      "person_id": "0f7df4a8-4438-43c9-8a04-69e1322867f5",
+      "role": "member"
+    },
+    {
       "area_id": "area/chuuk",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/none",
@@ -483,6 +521,14 @@
       "role": "member"
     },
     {
+      "area_id": "area/pohnpei",
+      "legislative_period_id": "term/19",
+      "on_behalf_of_id": "party/none",
+      "organization_id": "legislature",
+      "person_id": "4c95d85f-75b0-4336-8ef7-9b060d72d72e",
+      "role": "member"
+    },
+    {
       "area_id": "area/kosrae",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/none",
@@ -552,6 +598,14 @@
       "on_behalf_of_id": "party/none",
       "organization_id": "legislature",
       "person_id": "98284053-7a5c-4f42-b1e4-b968461af240",
+      "role": "member"
+    },
+    {
+      "area_id": "area/n/a",
+      "legislative_period_id": "term/19",
+      "on_behalf_of_id": "party/none",
+      "organization_id": "legislature",
+      "person_id": "9cc3f28a-6e0f-40ff-ac39-c57b4ce9da8a",
       "role": "member"
     },
     {
