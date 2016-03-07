@@ -243,7 +243,7 @@
       ]
     },
     {
-      "birth_date": "1968-03-23",
+      "birth_date": "1968-03-29",
       "family_name": "Belluzzi",
       "gender": "male",
       "given_name": "Andrea",
@@ -4006,7 +4006,7 @@
       ]
     },
     {
-      "birth_date": "1793-06-16",
+      "birth_date": "1973-06-16",
       "family_name": "Zavoli",
       "given_name": "Roger",
       "id": "930aa419-f8d7-495f-b28e-0bd176968495",
@@ -4364,6 +4364,11 @@
     },
     {
       "classification": "party",
+      "id": "party/independent",
+      "name": "Independent"
+    },
+    {
+      "classification": "party",
       "id": "party/lista_pdcs_ns",
       "name": "Lista PDCS NS"
     },
@@ -4371,6 +4376,11 @@
       "classification": "party",
       "id": "party/movimento_civico_r.e.t.e.",
       "name": "Movimento Civico R.E.T.E."
+    },
+    {
+      "classification": "party",
+      "id": "party/noi_sammarinesi",
+      "name": "Noi Sammarinesi"
     },
     {
       "classification": "party",
@@ -4391,11 +4401,6 @@
       "classification": "party",
       "id": "party/unione_per_la_repubblica",
       "name": "Unione per la Repubblica"
-    },
-    {
-      "classification": "party",
-      "id": "party/unknown",
-      "name": "unknown"
     }
   ],
   "meta": {
@@ -4428,7 +4433,7 @@
     },
     {
       "legislative_period_id": "term/2012",
-      "on_behalf_of_id": "party/unione_per_la_repubblica",
+      "on_behalf_of_id": "party/lista_pdcs_ns",
       "organization_id": "legislature",
       "person_id": "0a3c7369-13a4-4d71-a173-1425699a7c86",
       "role": "member"
@@ -4498,7 +4503,7 @@
     },
     {
       "legislative_period_id": "term/2012",
-      "on_behalf_of_id": "party/partito_socialista",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "329cd93c-0713-430f-8ea2-37f9dfc1ea69",
       "role": "member"
@@ -4526,7 +4531,7 @@
     },
     {
       "legislative_period_id": "term/2012",
-      "on_behalf_of_id": "party/lista_pdcs_ns",
+      "on_behalf_of_id": "party/noi_sammarinesi",
       "organization_id": "legislature",
       "person_id": "51117fe3-c436-4f62-ae89-6ba098bb8d38",
       "role": "member"
@@ -4554,7 +4559,7 @@
     },
     {
       "legislative_period_id": "term/2012",
-      "on_behalf_of_id": "party/lista_pdcs_ns",
+      "on_behalf_of_id": "party/noi_sammarinesi",
       "organization_id": "legislature",
       "person_id": "6fb8ddce-f531-49ad-960e-85748d345990",
       "role": "member"
@@ -4624,7 +4629,7 @@
     },
     {
       "legislative_period_id": "term/2012",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/alleanza_popolare",
       "organization_id": "legislature",
       "person_id": "986057dc-fd11-411f-8c8a-193f35435d43",
       "role": "member"
@@ -4694,7 +4699,7 @@
     },
     {
       "legislative_period_id": "term/2012",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "bb5aee12-5350-499b-9a29-ef1674bfae66",
       "role": "member"
@@ -4708,7 +4713,7 @@
     },
     {
       "legislative_period_id": "term/2012",
-      "on_behalf_of_id": "party/unione_per_la_repubblica",
+      "on_behalf_of_id": "party/lista_pdcs_ns",
       "organization_id": "legislature",
       "person_id": "bfe8bf5a-b326-47c5-b04e-495f0155f5fd",
       "role": "member"
@@ -4771,7 +4776,7 @@
     },
     {
       "legislative_period_id": "term/2012",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "e6940f0d-56e4-4211-abb6-85dab353f37e",
       "role": "member"
@@ -4806,7 +4811,7 @@
     },
     {
       "legislative_period_id": "term/2012",
-      "on_behalf_of_id": "party/lista_pdcs_ns",
+      "on_behalf_of_id": "party/noi_sammarinesi",
       "organization_id": "legislature",
       "person_id": "f58595da-c921-4da9-b91a-8e86bc803cfb",
       "role": "member"
@@ -4830,7 +4835,7 @@
     {
       "classification": "legislative period",
       "id": "term/2012",
-      "name": "Assembly 2012–",
+      "name": "Council 2012–",
       "organization_id": "legislature",
       "start_date": "2012-12-26"
     }
