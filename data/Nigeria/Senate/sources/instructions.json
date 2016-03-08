@@ -1,0 +1,16 @@
+{
+  "sources": [
+    {
+      "file": "morph/shineyoureye.csv",
+      "create": {
+        "url": "https://raw.githubusercontent.com/theyworkforyou/shineyoureye_data/master/senate_legislative_memberships.csv"
+      },
+      "source": "http://www.shineyoureye.org/",
+      "type": "membership"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term"
+    }
+  ]
+}
