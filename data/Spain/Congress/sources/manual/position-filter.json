@@ -19,12 +19,8 @@
     ],
     "other_legislatures": [
       {
-        "id": "Q19323171",
-        "name": "Member of the Senate of Spain"
-      },
-      {
-        "id": "Q27169",
-        "name": "member of the European Parliament"
+        "id": "Q20188454",
+        "name": "Member of the Aragonese Corts"
       },
       {
         "id": "Q18714088",
@@ -35,19 +31,19 @@
         "name": "Member of the Parliament of Andalusia"
       },
       {
+        "id": "Q19323171",
+        "name": "Member of the Senate of Spain"
+      },
+      {
         "id": "Q21609684",
         "name": "member of the Corts Valencianes"
       },
       {
-        "id": "Q20188454",
-        "name": "Member of the Aragonese Corts"
+        "id": "Q27169",
+        "name": "member of the European Parliament"
       }
     ],
     "executive": [
-      {
-        "id": "Q844587",
-        "name": "Prime Minister of Spain"
-      },
       {
         "id": "Q3113035",
         "name": "Deputy Prime Minister of Spain"
@@ -55,6 +51,10 @@
       {
         "id": "Q2339304",
         "name": "Ministry of Foreign Affairs and Cooperation of Spain"
+      },
+      {
+        "id": "Q844587",
+        "name": "Prime Minister of Spain"
       }
     ],
     "party": [
@@ -62,76 +62,41 @@
     ],
     "other": [
       {
-        "id": "Q21620329",
-        "name": "Minister of the Government of Catalonia"
-      },
-      {
-        "id": "Q2748453",
-        "name": "President of the Junta of Andalusia"
-      },
-      {
-        "id": "Q15971570",
-        "name": "President of the Generalitat Valenciana"
+        "id": "Q2986316",
+        "name": "European Commissioner for Climate Action"
       },
       {
         "id": "Q1747028",
         "name": "European Commissioner for Energy"
       },
       {
-        "id": "Q2986316",
-        "name": "European Commissioner for Climate Action"
-      },
-      {
         "id": "Q17078548",
         "name": "Mayor of Madrid"
       },
       {
+        "id": "Q21620329",
+        "name": "Minister of the Government of Catalonia"
+      },
+      {
         "id": "Q3133837",
         "name": "President of Madrid"
+      },
+      {
+        "id": "Q15971570",
+        "name": "President of the Generalitat Valenciana"
+      },
+      {
+        "id": "Q2748453",
+        "name": "President of the Junta of Andalusia"
       }
     ]
   },
   "unknown": {
     "unknown": [
       {
-        "id": "Q30185",
-        "name": "mayor",
-        "count": 22
-      },
-      {
-        "id": "Q708492",
-        "name": "councillor",
-        "count": 16
-      },
-      {
-        "id": "Q22998436",
-        "name": "member of the Assembly of Madrid",
-        "count": 10
-      },
-      {
-        "id": "Q15411298",
-        "name": "Q15411298",
-        "count": 6
-      },
-      {
-        "id": "Q6501749",
-        "name": "General Secretary",
-        "count": 5
-      },
-      {
-        "id": "Q22998723",
-        "name": "Q22998723",
-        "count": 5
-      },
-      {
-        "id": "Q22978391",
-        "name": "Q22978391",
-        "count": 4
-      },
-      {
-        "id": "Q22998960",
-        "name": "Q22998960",
-        "count": 3
+        "id": "Q3058576",
+        "name": "Cabinet of Spain",
+        "count": 1
       },
       {
         "id": "Q5551744",
@@ -139,53 +104,13 @@
         "count": 2
       },
       {
-        "id": "Q22999968",
-        "name": "Q22999968",
-        "count": 2
-      },
-      {
-        "id": "Q1055894",
-        "name": "deputy",
-        "count": 2
-      },
-      {
-        "id": "Q7443629",
-        "name": "Second Vice President",
-        "count": 1
+        "id": "Q6501749",
+        "name": "General Secretary",
+        "count": 5
       },
       {
         "id": "Q3798091",
         "name": "List MP",
-        "count": 1
-      },
-      {
-        "id": "Q3272746",
-        "name": "President of Castile-La Mancha",
-        "count": 1
-      },
-      {
-        "id": "Q3181035",
-        "name": "Ministry of Justice",
-        "count": 1
-      },
-      {
-        "id": "Q3058576",
-        "name": "Cabinet of Spain",
-        "count": 1
-      },
-      {
-        "id": "Q30461",
-        "name": "president",
-        "count": 1
-      },
-      {
-        "id": "Q21402692",
-        "name": "Q21402692",
-        "count": 1
-      },
-      {
-        "id": "Q185088",
-        "name": "People's Party",
         "count": 1
       },
       {
@@ -194,8 +119,78 @@
         "count": 1
       },
       {
-        "id": null,
-        "name": null,
+        "id": "Q3181035",
+        "name": "Ministry of Justice",
+        "count": 1
+      },
+      {
+        "id": "Q185088",
+        "name": "People's Party",
+        "count": 1
+      },
+      {
+        "id": "Q3272746",
+        "name": "President of Castile-La Mancha",
+        "count": 1
+      },
+      {
+        "id": "Q15411298",
+        "name": "Q15411298",
+        "count": 6
+      },
+      {
+        "id": "Q21402692",
+        "name": "Q21402692",
+        "count": 1
+      },
+      {
+        "id": "Q22978391",
+        "name": "Q22978391",
+        "count": 4
+      },
+      {
+        "id": "Q22998723",
+        "name": "Q22998723",
+        "count": 5
+      },
+      {
+        "id": "Q22998960",
+        "name": "Q22998960",
+        "count": 3
+      },
+      {
+        "id": "Q22999968",
+        "name": "Q22999968",
+        "count": 2
+      },
+      {
+        "id": "Q7443629",
+        "name": "Second Vice President",
+        "count": 1
+      },
+      {
+        "id": "Q708492",
+        "name": "councillor",
+        "count": 16
+      },
+      {
+        "id": "Q1055894",
+        "name": "deputy",
+        "count": 2
+      },
+      {
+        "id": "Q30185",
+        "name": "mayor",
+        "count": 22
+      },
+      {
+        "id": "Q22998436",
+        "name": "member of the Assembly of Madrid",
+        "count": 10
+      },
+      {
+        "id": "Q30461",
+        "name": "president",
         "count": 1
       }
     ]
