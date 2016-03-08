@@ -336,6 +336,28 @@
       ]
     },
     {
+      "gender": "male",
+      "id": "2e062152-3c11-4af3-be84-c9282d29bbed",
+      "identifiers": [
+        {
+          "identifier": "clive-r.-jagan",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://parliament.gov.gy/images/member_photos/4030/dr._clive_r._jagan,_m.p..jpg",
+      "images": [
+        {
+          "url": "http://parliament.gov.gy/images/member_photos/4030/dr._clive_r._jagan,_m.p..jpg"
+        }
+      ],
+      "name": "Clive R. Jagan",
+      "sources": [
+        {
+          "url": "http://parliament.gov.gy/about-parliament/parliamentarian/clive-r.-jagan/"
+        }
+      ]
+    },
+    {
       "id": "516316a2-d035-4e76-bd27-75480056b91c",
       "identifiers": [
         {
@@ -1299,6 +1321,14 @@
       "on_behalf_of_id": "PPP-Civic",
       "organization_id": "legislature",
       "person_id": "253800d3-de4e-43ac-9947-2aff8e9002a3",
+      "role": "member"
+    },
+    {
+      "end_date": "2016-11-02",
+      "legislative_period_id": "term/11",
+      "on_behalf_of_id": "PPP-Civic",
+      "organization_id": "legislature",
+      "person_id": "2e062152-3c11-4af3-be84-c9282d29bbed",
       "role": "member"
     },
     {
