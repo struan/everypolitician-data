@@ -1249,7 +1249,12 @@
     },
     {
       "id": "Q18912794",
-      "label": "Member of the Australian House of Representatives"
+      "label": "Member of the Australian House of Representatives",
+      "qualifiers": {
+        "P580": "1998-10-03",
+        "P1365": "Michael Wooldridge",
+        "P768": "Chisholm"
+      }
     }
   ],
   "Q4932666": [
@@ -1257,7 +1262,7 @@
       "id": "Q18912794",
       "label": "Member of the Australian House of Representatives",
       "qualifiers": {
-        "P768": "Division of Casey",
+        "P768": "Casey",
         "P580": "1984-12-01",
         "P582": "1998-08-31",
         "P1365": "Peter Steedman",
@@ -4349,6 +4354,17 @@
         "P1365": "Harry Jenkins",
         "P1366": "Anna Burke"
       }
+    },
+    {
+      "id": "Q18912794",
+      "label": "Member of the Australian House of Representatives",
+      "qualifiers": {
+        "P580": "1984-12-01",
+        "P582": "1987-07-11",
+        "P1365": "Evan Adermann",
+        "P1366": "Michael Lavarch",
+        "P768": "Fisher"
+      }
     }
   ],
   "Q6848451": [
@@ -4741,7 +4757,7 @@
       "id": "Q18912794",
       "label": "Member of the Australian House of Representatives",
       "qualifiers": {
-        "P768": "Division of Casey",
+        "P768": "Casey",
         "P580": "2015-08-10"
       }
     },
