@@ -1,6 +1,37 @@
 {
   "persons": [
     {
+      "birth_date": "1954-02-19",
+      "family_name": "Ballay",
+      "gender": "male",
+      "given_name": "Alain",
+      "id": "3675287e-b143-43f2-a5cc-559131b16acf",
+      "identifiers": [
+        {
+          "identifier": "642699",
+          "scheme": "assemblee_nationale"
+        }
+      ],
+      "image": "http://www2.assemblee-nationale.fr/static/tribun/14/photos/642699.jpg",
+      "images": [
+        {
+          "url": "http://www2.assemblee-nationale.fr/static/tribun/14/photos/642699.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA642699"
+        }
+      ],
+      "name": "Alain Ballay",
+      "sources": [
+        {
+          "url": "http://www.nosdeputes.fr/alain-ballay/json"
+        }
+      ]
+    },
+    {
       "birth_date": "1946-05-06",
       "family_name": "Bocquet",
       "gender": "male",
@@ -46383,6 +46414,11 @@
           "lang": "fr",
           "name": "Laurence Arribagé",
           "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Laurence Arribagé",
+          "note": "multilingual"
         }
       ],
       "sources": [
@@ -48932,6 +48968,11 @@
         },
         {
           "lang": "it",
+          "name": "Maina Sage",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Maina Sage",
           "note": "multilingual"
         }
@@ -58219,6 +58260,10 @@
         {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Nathalie_Kosciusko-Morizet"
+        },
+        {
+          "note": "Wikipedia (frwikinews)",
+          "url": "https://frwikinews.wikipedia.org/wiki/Catégorie:Nathalie_Kosciusko-Morizet"
         },
         {
           "note": "Wikipedia (frwikiquote)",
@@ -70775,6 +70820,10 @@
           "url": "https://simple.wikipedia.org/wiki/Sophie_Dessus"
         },
         {
+          "note": "Wikipedia (tr)",
+          "url": "https://tr.wikipedia.org/wiki/Sophie_Dessus"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/SophieDessus"
         },
@@ -81984,6 +82033,15 @@
       "role": "member"
     },
     {
+      "area_id": "area/corrèze",
+      "legislative_period_id": "term/14",
+      "on_behalf_of_id": "party/src",
+      "organization_id": "legislature",
+      "person_id": "3675287e-b143-43f2-a5cc-559131b16acf",
+      "role": "member",
+      "start_date": "2016-03-04"
+    },
+    {
       "area_id": "area/bouches-du-rhône",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
@@ -84975,7 +85033,7 @@
     {
       "area_id": "area/français_établis_hors_de_france",
       "legislative_period_id": "term/14",
-      "on_behalf_of_id": "party/src",
+      "on_behalf_of_id": "party/ni",
       "organization_id": "legislature",
       "person_id": "d2db7942-71b4-4998-9e90-3ecbdaceb036",
       "role": "member"
