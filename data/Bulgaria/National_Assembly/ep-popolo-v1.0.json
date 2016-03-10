@@ -17010,6 +17010,7 @@
     {
       "birth_date": "1964-01-11",
       "email": "emil.dimitrov@parliament.bg",
+      "gender": "male",
       "id": "05e6b025-aea6-4e8c-84bd-a6068191a5e3",
       "identifiers": [
         {
@@ -17019,6 +17020,10 @@
         {
           "identifier": "1034",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q12279819",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/1034.png",
@@ -17027,8 +17032,18 @@
           "url": "http://www.parliament.bg/images/Assembly/1034.png"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Емил_Димитров_(политик)"
+        }
+      ],
       "name": "ЕМИЛ ДЕЛЧЕВ ДИМИТРОВ",
       "other_names": [
+        {
+          "name": "Емил Димитров",
+          "note": "alternate"
+        },
         {
           "lang": "bg",
           "name": "ЕМИЛ ДЕЛЧЕВ ДИМИТРОВ",
@@ -28424,6 +28439,7 @@
     },
     {
       "birth_date": "1968-09-10",
+      "gender": "female",
       "id": "6038361a-d5a0-4c7b-bb1b-7f1f8b008a6f",
       "identifiers": [
         {
@@ -28433,6 +28449,10 @@
         {
           "identifier": "599",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q12286732",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/599.png",
@@ -28441,8 +28461,18 @@
           "url": "http://www.parliament.bg/images/Assembly/599.png"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Милена_Милотинова"
+        }
+      ],
       "name": "МИЛЕНА ИВАНОВА МИЛОТИНОВА-КОЛЕВА",
       "other_names": [
+        {
+          "name": "Милена Милотинова",
+          "note": "alternate"
+        },
         {
           "lang": "bg",
           "name": "МИЛЕНА ИВАНОВА МИЛОТИНОВА-КОЛЕВА",
@@ -32461,7 +32491,7 @@
     {
       "birth_date": "1954-10-20",
       "email": "nonkamatova@hotmail.com",
-      "gender": "male",
+      "gender": "female",
       "id": "0e35570a-9f0a-49e7-bfe6-f5498485a1c5",
       "identifiers": [
         {
@@ -32473,7 +32503,7 @@
           "scheme": "parliament_bg"
         },
         {
-          "identifier": "Q19205604",
+          "identifier": "Q3878246",
           "scheme": "wikidata"
         }
       ],
@@ -32487,6 +32517,18 @@
         {
           "note": "Wikipedia (bg)",
           "url": "https://bg.wikipedia.org/wiki/Нонка_Матова"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Nonka_Matova"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Nonka_Matova"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Nonka_Matova"
         }
       ],
       "name": "НОНКА ДЕЧЕВА МАТОВА",
@@ -32503,6 +32545,26 @@
         {
           "lang": "en",
           "name": "NONKA DECHEVA MATOVA",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Nonka Matova",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Nonka Matova",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Nonka Matova",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Nonka Matova",
           "note": "multilingual"
         }
       ],
