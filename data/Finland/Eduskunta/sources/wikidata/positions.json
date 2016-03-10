@@ -514,7 +514,22 @@
   "Q52611": [
     {
       "id": "Q17592486",
-      "label": "member of the Parliament of Finland"
+      "label": "member of the Parliament of Finland",
+      "qualifiers": {
+        "P580": "1999-03-24",
+        "P582": "2007-03-20",
+        "P768": "Uusimaa"
+      }
+    },
+    {
+      "id": "Q17592486",
+      "label": "member of the Parliament of Finland",
+      "qualifiers": {
+        "P580": "2010-10-19",
+        "P582": "2011-04-19",
+        "P768": "Uusimaa",
+        "P1365": "Jukka Mäkelä"
+      }
     }
   ],
   "Q11887221": [
@@ -1161,7 +1176,22 @@
   "Q6305504": [
     {
       "id": "Q17592486",
-      "label": "member of the Parliament of Finland"
+      "label": "member of the Parliament of Finland",
+      "qualifiers": {
+        "P580": "2007-03-21",
+        "P582": "2010-10-18",
+        "P768": "Uusimaa",
+        "P1366": "Lasse Virén"
+      }
+    },
+    {
+      "id": "Q496728",
+      "label": "municipal manager",
+      "qualifiers": {
+        "P642": "Espoo",
+        "P580": "2011-01-01",
+        "P1365": "Marketta Kokkonen"
+      }
     }
   ],
   "Q1038599": [
