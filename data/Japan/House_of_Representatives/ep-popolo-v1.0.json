@@ -11937,12 +11937,25 @@
       ]
     },
     {
+      "birth_date": "1978-02-27",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "KanekoMegu"
+        }
+      ],
+      "family_name": "Kaneko",
       "gender": "female",
+      "given_name": "Megumi",
       "id": "22e8acb8-8336-42c6-a707-a1ce0d04576b",
       "identifiers": [
         {
           "identifier": "kaneko_megumi",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q11646784",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.shugiin.go.jp/internet/itdb_giinprof.nsf/html/profile/132.jpg/$File/132.jpg",
@@ -11951,7 +11964,37 @@
           "url": "http://www.shugiin.go.jp/internet/itdb_giinprof.nsf/html/profile/132.jpg/$File/132.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Megumi_Kaneko"
+        },
+        {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/金子恵美_(1978年生の政治家)"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/KanekoMegu"
+        }
+      ],
       "name": "KANEKO Megumi",
+      "other_names": [
+        {
+          "name": "Megumi Kaneko",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Megumi Kaneko",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "金子恵美",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.shugiin.go.jp/internet/itdb_english.nsf/html/statics/member/mem_k.htm"
@@ -17925,12 +17968,19 @@
       ]
     },
     {
+      "birth_date": "1981-01-17",
+      "family_name": "Miyazaki",
       "gender": "male",
+      "given_name": "Kensuke",
       "id": "2ade20c0-6f9d-440a-a4c8-205d9b322a85",
       "identifiers": [
         {
           "identifier": "miyazaki_kensuke",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q11454603",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.shugiin.go.jp/internet/itdb_giinprof.nsf/html/profile/420.jpg/$File/420.jpg",
@@ -17939,7 +17989,52 @@
           "url": "http://www.shugiin.go.jp/internet/itdb_giinprof.nsf/html/profile/420.jpg/$File/420.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Kensuke_Miyazaki"
+        },
+        {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/宮崎謙介"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/宮崎謙介"
+        }
+      ],
       "name": "MIYAZAKI Kensuke",
+      "other_names": [
+        {
+          "name": "Kensuke Miyazaki",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Kensuke Miyazaki",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "宮崎謙介",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Kensuke Miyazaki",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Миядзаки, Кэнсукэ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "宮崎謙介",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.shugiin.go.jp/internet/itdb_english.nsf/html/statics/member/mem_m.htm"
