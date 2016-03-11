@@ -435,6 +435,16 @@
       "label": "member of the Parliament of Finland"
     }
   ],
+  "Q3735621": [
+    {
+      "id": "Q17592486",
+      "label": "member of the Parliament of Finland",
+      "qualifiers": {
+        "P580": "2007-03-21",
+        "P768": "Helsinki"
+      }
+    }
+  ],
   "Q2366466": [
     {
       "id": "Q1425432",
@@ -661,7 +671,14 @@
   "Q560930": [
     {
       "id": "Q3278079",
-      "label": "Deputy Prime Minister of Finland"
+      "label": "Deputy Prime Minister of Finland",
+      "qualifiers": {
+        "P580": "1983-05-06",
+        "P582": "1987-04-29",
+        "P361": "Kalevi Sorsa's fourth cabinet",
+        "P1365": "Ahti Pekkala",
+        "P1366": "Kalevi Sorsa"
+      }
     },
     {
       "id": "Q2386529",
@@ -669,15 +686,76 @@
     },
     {
       "id": "Q27169",
-      "label": "member of the European Parliament"
+      "label": "member of the European Parliament",
+      "qualifiers": {
+        "P580": "1995-01-01",
+        "P582": "2007-04-18"
+      }
     },
     {
       "id": "Q17592486",
-      "label": "member of the Parliament of Finland"
+      "label": "member of the Parliament of Finland",
+      "qualifiers": {
+        "P580": "1970-03-23",
+        "P582": "1991-03-21",
+        "P768": "Lapland"
+      }
     },
     {
       "id": "Q22981850",
-      "label": "Leader of the Centre Party"
+      "label": "Leader of the Centre Party",
+      "qualifiers": {
+        "P580": "1980",
+        "P582": "1990",
+        "P1365": "Johannes Virolainen",
+        "P1366": "Esko Aho"
+      }
+    },
+    {
+      "id": "Q17592486",
+      "label": "member of the Parliament of Finland",
+      "qualifiers": {
+        "P580": "1991-03-22",
+        "P582": "1995-04-03",
+        "P768": "Uusimaa",
+        "P1366": "Tero Mölsä"
+      }
+    },
+    {
+      "id": "Q17592486",
+      "label": "member of the Parliament of Finland",
+      "qualifiers": {
+        "P580": "1999-03-24",
+        "P582": "1999-03-30",
+        "P768": "Uusimaa",
+        "P1366": "Tero Mölsä"
+      }
+    },
+    {
+      "id": "Q17592486",
+      "label": "member of the Parliament of Finland",
+      "qualifiers": {
+        "P580": "2007-03-21",
+        "P582": "2011-04-19",
+        "P768": "Lapland"
+      }
+    },
+    {
+      "id": "Q17592486",
+      "label": "member of the Parliament of Finland",
+      "qualifiers": {
+        "P580": "2015-04-22",
+        "P582": "2015-04-29",
+        "P768": "Lapland",
+        "P1366": "Mikko Kärnä"
+      }
+    },
+    {
+      "id": "Q27169",
+      "label": "member of the European Parliament",
+      "qualifiers": {
+        "P580": "2014-07-01"
+      }
     }
   ],
   "Q11869312": [
