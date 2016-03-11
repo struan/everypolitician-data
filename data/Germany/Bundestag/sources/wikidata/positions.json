@@ -4957,6 +4957,10 @@
     {
       "id": "Q18618563",
       "label": "Member of Landtag of Rhineland-Palatinate"
+    },
+    {
+      "id": "Q23016036",
+      "label": "Minister of Defence"
     }
   ],
   "Q16433": [
@@ -5941,7 +5945,11 @@
   "Q569717": [
     {
       "id": "Q1939555",
-      "label": "member of the German Bundestag"
+      "label": "member of the German Bundestag",
+      "qualifiers": {
+        "P580": "2013-10-22",
+        "P768": "Q1008320"
+      }
     }
   ],
   "Q1627202": [
@@ -6626,8 +6634,8 @@
   ],
   "Q62202": [
     {
-      "id": "Q636296",
-      "label": "List of German defence ministers",
+      "id": "Q23016036",
+      "label": "Minister of Defence",
       "qualifiers": {
         "P580": "2002-07-19",
         "P582": "2005-11-22",
@@ -17046,14 +17054,6 @@
       }
     },
     {
-      "id": "Q7330070",
-      "label": "foreign minister"
-    },
-    {
-      "id": "Q1622272",
-      "label": "university professor"
-    },
-    {
       "id": "Q17519166",
       "label": "Member of the Hessian Parliament"
     },
@@ -20131,7 +20131,7 @@
       "id": "Q486839",
       "label": "member of parliament",
       "qualifiers": {
-        "P642": "Q821774",
+        "P642": "Berlin City Council",
         "P580": "1990-05",
         "P582": "1990-12"
       }
@@ -23257,6 +23257,10 @@
     {
       "id": "Q17519166",
       "label": "Member of the Hessian Parliament"
+    },
+    {
+      "id": "Q23016036",
+      "label": "Minister of Defence"
     }
   ],
   "Q2547633": [
@@ -31372,11 +31376,62 @@
   "Q87642": [
     {
       "id": "Q1939555",
-      "label": "member of the German Bundestag"
+      "label": "member of the German Bundestag",
+      "qualifiers": {
+        "P580": "2013-10-22"
+      }
     },
     {
       "id": "Q19731005",
       "label": "Parliamentary Secretary in Germany"
+    },
+    {
+      "id": "Q1939555",
+      "label": "member of the German Bundestag",
+      "qualifiers": {
+        "P580": "2009-10-27",
+        "P582": "2013-10-22"
+      }
+    },
+    {
+      "id": "Q1939555",
+      "label": "member of the German Bundestag",
+      "qualifiers": {
+        "P580": "2005-10-18",
+        "P582": "2009-10-27"
+      }
+    },
+    {
+      "id": "Q1939555",
+      "label": "member of the German Bundestag",
+      "qualifiers": {
+        "P580": "2002-10-17",
+        "P582": "2005-10-18"
+      }
+    },
+    {
+      "id": "Q1939555",
+      "label": "member of the German Bundestag",
+      "qualifiers": {
+        "P580": "1998-10-26",
+        "P582": "2002-10-17"
+      }
+    },
+    {
+      "id": "Q1939555",
+      "label": "member of the German Bundestag",
+      "qualifiers": {
+        "P580": "1994-11-10",
+        "P582": "1998-10-26"
+      }
+    },
+    {
+      "id": "Q1939555",
+      "label": "member of the German Bundestag",
+      "qualifiers": {
+        "P580": "1990-12-20",
+        "P582": "1994-11-10"
+      }
     }
   ],
   "Q2138747": [
@@ -32170,7 +32225,35 @@
   "Q1490366": [
     {
       "id": "Q1939555",
-      "label": "member of the German Bundestag"
+      "label": "member of the German Bundestag",
+      "qualifiers": {
+        "P580": "2013-10-22",
+        "P768": "Q1008372"
+      }
+    },
+    {
+      "id": "Q1939555",
+      "label": "member of the German Bundestag",
+      "qualifiers": {
+        "P580": "2009-10-27",
+        "P582": "2013-10-22"
+      }
+    },
+    {
+      "id": "Q1939555",
+      "label": "member of the German Bundestag",
+      "qualifiers": {
+        "P580": "2005-10-18",
+        "P582": "2009-10-27"
+      }
+    },
+    {
+      "id": "Q1939555",
+      "label": "member of the German Bundestag",
+      "qualifiers": {
+        "P580": "2002-10-17",
+        "P582": "2005-10-18"
+      }
     }
   ],
   "Q2577608": [
@@ -35909,6 +35992,10 @@
     {
       "id": "Q17781726",
       "label": "member of the Landtag of North Rhine-Westphalia"
+    },
+    {
+      "id": "Q23016036",
+      "label": "Minister of Defence"
     }
   ],
   "Q1262015": [
@@ -36156,6 +36243,10 @@
         "P582": "1956-09-06",
         "P580": "1955-09-07"
       }
+    },
+    {
+      "id": "Q23016036",
+      "label": "Minister of Defence"
     }
   ],
   "Q1600077": [
@@ -37477,8 +37568,8 @@
       }
     },
     {
-      "id": "Q493353",
-      "label": "Ministry of Defence of Germany",
+      "id": "Q23016036",
+      "label": "Minister of Defence",
       "qualifiers": {
         "P580": "1956-10-16",
         "P582": "1962-12-16",
