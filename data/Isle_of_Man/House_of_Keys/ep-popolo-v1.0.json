@@ -132,6 +132,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "hu",
+          "name": "Allan Bell",
+          "note": "multilingual"
+        },
+        {
           "lang": "nl",
           "name": "Allan Bell",
           "note": "multilingual"
@@ -359,12 +364,18 @@
       ]
     },
     {
+      "birth_date": "1954-02-06",
       "gender": "male",
+      "given_name": "David",
       "id": "466039a1-814a-47c1-bb83-a44e6dccb560",
       "identifiers": [
         {
           "identifier": "david-anderson-(isle-of-man)",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q5230767",
+          "scheme": "wikidata"
         }
       ],
       "links": [
@@ -373,7 +384,39 @@
           "url": "https://en.wikipedia.org/wiki/David_Anderson_(Isle_of_Man)"
         }
       ],
-      "name": "David Anderson"
+      "name": "David Anderson",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "David Anderson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "David Anderson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "David Anderson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "David Anderson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "David Anderson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "David Anderson",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1953-03-17",
@@ -656,11 +699,16 @@
         }
       ],
       "gender": "male",
+      "given_name": "John",
       "id": "072f50b4-d028-40cf-9aba-c946cd85a271",
       "identifiers": [
         {
           "identifier": "john-houghton-(isle-of-man)",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q6239980",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.tynwald.org.im/SiteCollectionImages/HoughtonJR.jpg",
@@ -680,6 +728,26 @@
         {
           "name": "John Ramsey HOUGHTON MHK",
           "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "John Houghton",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "John Houghton",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "John Houghton",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "John Houghton",
+          "note": "multilingual"
         }
       ],
       "sources": [
