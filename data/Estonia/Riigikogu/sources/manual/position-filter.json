@@ -19,6 +19,14 @@
     ],
     "executive": [
       {
+        "id": "Q16405106",
+        "name": "Minister of Agriculture"
+      },
+      {
+        "id": "Q23005920",
+        "name": "Minister of Culture"
+      },
+      {
         "id": "Q3741249",
         "name": "Minister of Defence"
       },
@@ -33,6 +41,14 @@
       {
         "id": "Q21103025",
         "name": "Minister of Finance"
+      },
+      {
+        "id": "Q1760777",
+        "name": "Minister of Foreign Affairs"
+      },
+      {
+        "id": "Q20528230",
+        "name": "Minister of Justice"
       },
       {
         "id": "Q6866431",
@@ -60,26 +76,7 @@
   },
   "unknown": {
     "unknown": [
-      {
-        "id": "Q16405106",
-        "name": "Minister of Agriculture",
-        "count": 5
-      },
-      {
-        "id": "Q23005920",
-        "name": "Minister of Culture",
-        "count": 8
-      },
-      {
-        "id": "Q1760777",
-        "name": "Minister of Foreign Affairs",
-        "count": 4
-      },
-      {
-        "id": "Q20528230",
-        "name": "Minister of Justice",
-        "count": 7
-      }
+
     ]
   }
 }
