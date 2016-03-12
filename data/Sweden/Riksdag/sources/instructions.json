@@ -30,7 +30,7 @@
       "type": "term",
       "create": {
         "type": "morph",
-        "scraper": "dracos/scraper-sweden-riksdagen",
+        "scraper": "tmtmtmtm/sweden-parliament-api",
         "query": "SELECT * FROM terms"
       }
     },
