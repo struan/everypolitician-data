@@ -106,13 +106,19 @@
       ]
     },
     {
+      "birth_date": "1956-11-04",
       "family_name": "Washetine",
+      "gender": "male",
       "given_name": "Charles",
       "id": "e8bb10ee-2f3f-48d6-92a1-3759ab633223",
       "identifiers": [
         {
           "identifier": "9695",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q2960425",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.congres.nc/wp-content/uploads/2015/01/washetine.jpg",
@@ -121,7 +127,25 @@
           "url": "http://www.congres.nc/wp-content/uploads/2015/01/washetine.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Charles_Washetine"
+        }
+      ],
       "name": "Charles Washetine",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Charles Washetine",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Charles Washetine",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Washetine, Charles",
       "sources": [
         {
@@ -401,6 +425,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "hu",
+          "name": "Gaël Yanno",
+          "note": "multilingual"
+        },
+        {
           "lang": "nb",
           "name": "Gaël Yanno",
           "note": "multilingual"
@@ -605,6 +634,11 @@
         },
         {
           "lang": "fr",
+          "name": "Harold Martin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
           "name": "Harold Martin",
           "note": "multilingual"
         },
@@ -1453,6 +1487,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "hu",
+          "name": "Paul Néaoutyine",
+          "note": "multilingual"
+        },
+        {
           "lang": "nb",
           "name": "Paul Néaoutyine",
           "note": "multilingual"
@@ -1650,6 +1689,11 @@
         },
         {
           "lang": "fr",
+          "name": "Philippe Gomès",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
           "name": "Philippe Gomès",
           "note": "multilingual"
         },
@@ -2202,6 +2246,11 @@
         },
         {
           "lang": "fr",
+          "name": "Louis Kotra Uregei",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
           "name": "Louis Kotra Uregei",
           "note": "multilingual"
         },
