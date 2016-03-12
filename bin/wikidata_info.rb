@@ -42,4 +42,4 @@ end
 puts "|}"
 
 # only warn so that we can paste STDOUT to Wikidata without this
-warn "Total: %d / %d (%0.f%%)" % [total[:persons], total[:matched], total[:matched] * 100.to_f / total[:persons]]
+warn "Total: %d / %d (%0.f%%)" % [total[:matched], total[:persons], total[:matched] * 100.to_f / total[:persons]]
