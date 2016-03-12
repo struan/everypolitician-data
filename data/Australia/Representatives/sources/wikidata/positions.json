@@ -3308,11 +3308,25 @@
   "Q7823688": [
     {
       "id": "Q18912794",
-      "label": "Member of the Australian House of Representatives"
+      "label": "Member of the Australian House of Representatives",
+      "qualifiers": {
+        "P580": "2001-11-10",
+        "P582": "2013-08-05",
+        "P768": "New England",
+        "P1365": "Stuart St. Clair",
+        "P1366": "Barnaby Joyce"
+      }
     },
     {
       "id": "Q19202748",
-      "label": "Member of the New South Wales Legislative Assembly"
+      "label": "Member of the New South Wales Legislative Assembly",
+      "qualifiers": {
+        "P580": "1991-05-25",
+        "P582": "2001-10-16",
+        "P768": "Tamworth",
+        "P1365": "Noel Park",
+        "P1366": "John Cull"
+      }
     }
   ],
   "Q7356109": [
