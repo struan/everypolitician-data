@@ -1379,6 +1379,12 @@
       "gender": "female",
       "given_name": "Alexandra",
       "id": "52f9bc5a-490c-418c-a3c2-d9780affa118",
+      "identifiers": [
+        {
+          "identifier": "0866055333028",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0866055333028_max.jpg",
       "images": [
         {
@@ -1933,13 +1939,91 @@
       "gender": "male",
       "given_name": "Allan",
       "id": "e429574c-4765-4d00-b776-1cc949eba75f",
+      "identifiers": [
+        {
+          "identifier": "0000 0001 1048 7666",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "0970500642209",
+          "scheme": "riksdagen"
+        },
+        {
+          "identifier": "106915231",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "28712279",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q4730772",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0970500642209_max.jpg",
       "images": [
         {
           "url": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0970500642209_max.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Allan_Larsson"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Allan_Larsson"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Allan_Larsson"
+        }
+      ],
       "name": "Allan Larsson",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Allan Larsson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Allan Larsson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Allan Larsson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Allan Larsson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Allan Larsson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Allan Larsson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Allan Larsson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Allan Larsson",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Allan",
       "sources": [
         {
@@ -2644,6 +2728,12 @@
       "gender": "male",
       "given_name": "Anders",
       "id": "42962d42-35a5-4f51-afbe-813e45a33bc7",
+      "identifiers": [
+        {
+          "identifier": "0816380242014",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0816380242014_max.jpg",
       "images": [
         {
@@ -2812,6 +2902,12 @@
       "gender": "male",
       "given_name": "Anders",
       "id": "c0f0c6b7-a0dd-4025-b830-39cbfb418467",
+      "identifiers": [
+        {
+          "identifier": "0958072321310",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0958072321310_max.jpg",
       "images": [
         {
@@ -3115,6 +3211,12 @@
       "gender": "male",
       "given_name": "Anders",
       "id": "f6087934-e8a8-41b8-9690-57bc154840cf",
+      "identifiers": [
+        {
+          "identifier": "0153777875118",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0153777875118_max.jpg",
       "images": [
         {
@@ -3230,6 +3332,12 @@
       "gender": "male",
       "given_name": "Anders",
       "id": "08ea5c8f-2adf-45b1-a42c-4f251cee5c15",
+      "identifiers": [
+        {
+          "identifier": "0773506435611",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0773506435611_max.jpg",
       "images": [
         {
@@ -3988,6 +4096,10 @@
         {
           "identifier": "0277648711624",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "0277648711624",
+          "scheme": "riksdagen"
         }
       ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0277648711624_max.jpg",
@@ -5164,6 +5276,12 @@
       "gender": "female",
       "given_name": "Ann-Kristin",
       "id": "e2abed8d-d077-41ad-8f03-8e2562eb6e4c",
+      "identifiers": [
+        {
+          "identifier": "0212946023318",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0212946023318_max.jpg",
       "images": [
         {
@@ -5280,6 +5398,12 @@
       "gender": "female",
       "given_name": "Ann-Louise",
       "id": "570a8d33-a369-4383-8f0e-67d6469ea96e",
+      "identifiers": [
+        {
+          "identifier": "0495018514310",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0495018514310_max.jpg",
       "images": [
         {
@@ -5366,6 +5490,12 @@
       "gender": "female",
       "given_name": "Anna",
       "id": "dc84d1ba-d473-4fef-8542-908d72784063",
+      "identifiers": [
+        {
+          "identifier": "0747244983307",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0747244983307_max.jpg",
       "images": [
         {
@@ -6178,6 +6308,12 @@
       "gender": "female",
       "given_name": "Anna",
       "id": "1401047a-e84c-4180-af3f-3ec70a8614f2",
+      "identifiers": [
+        {
+          "identifier": "0326963110315",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0326963110315_max.jpg",
       "images": [
         {
@@ -6373,6 +6509,10 @@
         {
           "identifier": "0502688311316",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "0502688311316",
+          "scheme": "riksdagen"
         }
       ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0502688311316_max.jpg",
@@ -6569,6 +6709,12 @@
       "gender": "female",
       "given_name": "Anna",
       "id": "15ab5255-91b3-46e5-9751-67ff2edeafcd",
+      "identifiers": [
+        {
+          "identifier": "0951422950012",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0951422950012_max.jpg",
       "images": [
         {
@@ -6749,6 +6895,12 @@
       "gender": "female",
       "given_name": "Anna-Karin",
       "id": "5357c98d-8772-4f44-aa14-af2e313b1e4e",
+      "identifiers": [
+        {
+          "identifier": "0829600202519",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0829600202519_max.jpg",
       "images": [
         {
@@ -6769,6 +6921,12 @@
       "gender": "female",
       "given_name": "Anna-Karin",
       "id": "7c2ebf40-6a31-426b-b57d-e84a490f4304",
+      "identifiers": [
+        {
+          "identifier": "019331401512",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/019331401512_max.jpg",
       "images": [
         {
@@ -7402,6 +7560,12 @@
       "gender": "female",
       "given_name": "Anne-Marie",
       "id": "f9e20cec-4912-4aca-8093-4642600c4c62",
+      "identifiers": [
+        {
+          "identifier": "0999542677318",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0999542677318_max.jpg",
       "images": [
         {
@@ -7422,6 +7586,12 @@
       "gender": "female",
       "given_name": "Anneli",
       "id": "c59f344c-01d4-4067-9ec1-8170a001ee39",
+      "identifiers": [
+        {
+          "identifier": "0577039541710",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0577039541710_max.jpg",
       "images": [
         {
@@ -7674,6 +7844,12 @@
       "gender": "female",
       "given_name": "Annica",
       "id": "de999826-5e0f-4003-9df2-5bf2d8580b75",
+      "identifiers": [
+        {
+          "identifier": "0148397245014",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0148397245014_max.jpg",
       "images": [
         {
@@ -7960,6 +8136,12 @@
       "gender": "female",
       "given_name": "Annika",
       "id": "0d47e755-e64d-4aca-b828-41a7063c0273",
+      "identifiers": [
+        {
+          "identifier": "0432998314415",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0432998314415_max.jpg",
       "images": [
         {
@@ -8963,6 +9145,12 @@
       "gender": "male",
       "given_name": "Arne",
       "id": "64363198-b611-4fa1-8b16-fa6f2d38bce1",
+      "identifiers": [
+        {
+          "identifier": "0275356156309",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0275356156309_max.jpg",
       "images": [
         {
@@ -9058,6 +9246,12 @@
       "gender": "male",
       "given_name": "Arne",
       "id": "22cfa646-a5bd-4538-8603-8134db30b4ba",
+      "identifiers": [
+        {
+          "identifier": "0465435843419",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0465435843419_max.jpg",
       "images": [
         {
@@ -10345,6 +10539,12 @@
       "gender": "male",
       "given_name": "Bengt",
       "id": "a5528560-3a3f-4f1d-a126-c433dedeca41",
+      "identifiers": [
+        {
+          "identifier": "0457849683602",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0457849683602_max.jpg",
       "images": [
         {
@@ -10365,6 +10565,12 @@
       "gender": "male",
       "given_name": "Bengt",
       "id": "a2584185-57c3-4149-baf8-92d23dcfe141",
+      "identifiers": [
+        {
+          "identifier": "0650006662217",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0650006662217_max.jpg",
       "images": [
         {
@@ -10451,13 +10657,126 @@
       "gender": "male",
       "given_name": "Bengt",
       "id": "93684e30-cc3b-4d14-9057-f02147dd5b3f",
+      "identifiers": [
+        {
+          "identifier": "336242",
+          "scheme": "fast"
+        },
+        {
+          "identifier": "/m/06q1jg",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "119406802",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "0000 0000 7860 7233",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "n94020348",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "00000017285",
+          "scheme": "munzinger"
+        },
+        {
+          "identifier": "0630022377501",
+          "scheme": "riksdagen"
+        },
+        {
+          "identifier": "64816381",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q817241",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0630022377501_max.jpg",
       "images": [
         {
           "url": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0630022377501_max.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Bengt_Westerberg"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Bengt_Westerberg"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Bengt_Westerberg"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Bengt_Westerberg"
+        }
+      ],
       "name": "Bengt Westerberg",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Bengt Westerberg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Bengt Westerberg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Bengt Westerberg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Bengt Westerberg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Bengt Westerberg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Bengt Westerberg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Bengt Westerberg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Bengt Westerberg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Bengt Westerberg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Bengt Westerberg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Bengt Westerberg",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Bengt",
       "sources": [
         {
@@ -11203,6 +11522,12 @@
       "gender": "male",
       "given_name": "Bertil",
       "id": "569f3648-568d-4efa-88f5-bc2d02227974",
+      "identifiers": [
+        {
+          "identifier": "044562190409",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/044562190409_max.jpg",
       "images": [
         {
@@ -11457,6 +11782,12 @@
       "gender": "male",
       "given_name": "Bijan",
       "id": "bd5f379e-1e4f-4d7d-afc9-5e5cc8f1371e",
+      "identifiers": [
+        {
+          "identifier": "02010491012",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/02010491012_max.jpg",
       "images": [
         {
@@ -11969,13 +12300,51 @@
       "gender": "female",
       "given_name": "Birgit",
       "id": "c57a709a-6a57-4b20-9ebc-6037545ea99f",
+      "identifiers": [
+        {
+          "identifier": "0913138972707",
+          "scheme": "riksdagen"
+        },
+        {
+          "identifier": "Q4953630",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0913138972707_max.jpg",
       "images": [
         {
           "url": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0913138972707_max.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Birgit_Henriksson"
+        }
+      ],
       "name": "Birgit Henriksson",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Birgit Henriksson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Birgit Henriksson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Birgit Henriksson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Birgit Henriksson",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Birgit",
       "sources": [
         {
@@ -12349,13 +12718,51 @@
       "gender": "female",
       "given_name": "Birgitta",
       "id": "faec5b32-4da9-49c3-a0a4-6516d9a7bcc4",
+      "identifiers": [
+        {
+          "identifier": "0747552775209",
+          "scheme": "riksdagen"
+        },
+        {
+          "identifier": "Q4956917",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0747552775209_max.jpg",
       "images": [
         {
           "url": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0747552775209_max.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Birgitta_Johansson_(politiker)"
+        }
+      ],
       "name": "Birgitta Johansson",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Birgitta Johansson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Birgitta Johansson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Birgitta Johansson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Birgitta Johansson",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Birgitta",
       "sources": [
         {
@@ -13099,6 +13506,12 @@
       "gender": "male",
       "given_name": "Björn",
       "id": "42362285-4df9-4d34-abd2-a4ab8819c4ef",
+      "identifiers": [
+        {
+          "identifier": "0133149500010",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0133149500010_max.jpg",
       "images": [
         {
@@ -13227,13 +13640,46 @@
       "gender": "male",
       "given_name": "Björn",
       "id": "30080a11-d7ab-4876-9ebf-a592c174ce94",
+      "identifiers": [
+        {
+          "identifier": "0272316208815",
+          "scheme": "riksdagen"
+        },
+        {
+          "identifier": "Q6090670",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0272316208815_max.jpg",
       "images": [
         {
           "url": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0272316208815_max.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Björn_Samuelson_(vänsterpartist)"
+        }
+      ],
       "name": "Björn Samuelson",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Björn Samuelson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Björn Samuelson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Björn Samuelson",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Björn",
       "sources": [
         {
@@ -13872,17 +14318,150 @@
     },
     {
       "birth_date": "1942",
+      "death_date": "2010-02-10",
       "family_name": "Holmberg",
       "gender": "male",
       "given_name": "Bo",
       "id": "5433cd17-7f10-4c85-b37a-5cf1a56969d3",
+      "identifiers": [
+        {
+          "identifier": "/m/01tv46",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "0554072553108",
+          "scheme": "riksdagen"
+        },
+        {
+          "identifier": "2441212",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q887398",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0554072553108_max.jpg",
       "images": [
         {
           "url": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0554072553108_max.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (da)",
+          "url": "https://da.wikipedia.org/wiki/Bo_Holmberg"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Bo_Holmberg"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Bo_Holmberg"
+        },
+        {
+          "note": "Wikipedia (eo)",
+          "url": "https://eo.wikipedia.org/wiki/Bo_Holmberg"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Bo_Holmberg"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Bo_Holmberg"
+        },
+        {
+          "note": "Wikipedia (id)",
+          "url": "https://id.wikipedia.org/wiki/Bo_Lindor_Holmberg"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Bo_Holmberg"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Bo_Holmberg"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Bo_Holmberg"
+        }
+      ],
       "name": "Bo Holmberg",
+      "other_names": [
+        {
+          "lang": "cy",
+          "name": "Bo Holmberg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Bo Holmberg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Bo Holmberg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Bo Holmberg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Bo Holmberg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Bo Holmberg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Bo Holmberg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Bo Holmberg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Bo Holmberg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Bo Lindor Holmberg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Bo Holmberg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Bo Holmberg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Bo Holmberg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Bo Holmberg",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Bo",
       "sources": [
         {
@@ -14355,6 +14934,12 @@
       "gender": "female",
       "given_name": "Boel",
       "id": "d45adebb-670c-4e1b-848a-9817f09fe132",
+      "identifiers": [
+        {
+          "identifier": "0249314098519",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0249314098519_max.jpg",
       "images": [
         {
@@ -15111,13 +15696,74 @@
       "gender": "male",
       "given_name": "Börje",
       "id": "2496c495-3a5e-4cfc-8ad8-b9831d4e7709",
+      "identifiers": [
+        {
+          "identifier": "0525479453308",
+          "scheme": "riksdagen"
+        },
+        {
+          "identifier": "68159246",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q5005171",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0525479453308_max.jpg",
       "images": [
         {
           "url": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0525479453308_max.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Börje_Hörnlund"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Börje_Hörnlund"
+        }
+      ],
       "name": "Börje Hörnlund",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Börje Hörnlund",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Börje Hörnlund",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Börje Hörnlund",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Börje Hörnlund",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Börje Hörnlund",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Börje Hörnlund",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Börje Hörnlund",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Börje",
       "sources": [
         {
@@ -15287,6 +15933,12 @@
       "gender": "female",
       "given_name": "Camilla",
       "id": "55ffebc7-c649-415e-8390-7f01c9f7171c",
+      "identifiers": [
+        {
+          "identifier": "0837512963116",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0837512963116_max.jpg",
       "images": [
         {
@@ -15308,6 +15960,12 @@
       "gender": "female",
       "given_name": "Camilla",
       "id": "76779922-737e-4744-895e-3f173355f4a0",
+      "identifiers": [
+        {
+          "identifier": "0692076685824",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0692076685824_max.jpg",
       "images": [
         {
@@ -15978,6 +16636,12 @@
       "gender": "female",
       "given_name": "Carina",
       "id": "245c44f2-9bd0-4b46-9677-f7913af2f8eb",
+      "identifiers": [
+        {
+          "identifier": "0841422940412",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0841422940412_max.jpg",
       "images": [
         {
@@ -18748,6 +19412,12 @@
       "gender": "female",
       "given_name": "Cecilia",
       "id": "03e23590-8ebb-4579-81bc-f5accd5c3a91",
+      "identifiers": [
+        {
+          "identifier": "0468904415516",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0468904415516_max.jpg",
       "images": [
         {
@@ -19436,13 +20106,123 @@
       "gender": "female",
       "given_name": "Charlotte",
       "id": "ab5bdfe7-b651-4d0e-ade8-fa2d09b263a9",
+      "identifiers": [
+        {
+          "identifier": "2110",
+          "scheme": "europarlmep"
+        },
+        {
+          "identifier": "/m/054vz0",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "0153923606405",
+          "scheme": "riksdagen"
+        },
+        {
+          "identifier": "27037140",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q206619",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0153923606405_max.jpg",
       "images": [
         {
           "url": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0153923606405_max.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Charlotte_Cederschiöld"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Charlotte_Cederschiöld"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Charlotte_Cederschiöld"
+        },
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Charlotte_Cederschiöld"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Charlotte_Cederschiöld"
+        },
+        {
+          "note": "website",
+          "url": "http://www.cederschiold.nu"
+        }
+      ],
       "name": "Charlotte Cederschiöld",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Charlotte Cederschiöld",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Charlotte Cederschiöld",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Charlotte Cederschiöld",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Charlotte Cederschiöld",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Charlotte Cederschiöld",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Charlotte Cederschiöld",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Charlotte Cederschiöld",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Charlotte Cederschiöld",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Charlotte Cederschiöld",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Charlotte Cederschiöld",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Charlotte Cederschiöld",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Charlotte Cederschiöld",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Charlotte",
       "sources": [
         {
@@ -20665,6 +21445,12 @@
       "gender": "female",
       "given_name": "Christina",
       "id": "0d7f3490-4d13-452e-bda6-6c0f5c6f2332",
+      "identifiers": [
+        {
+          "identifier": "0263304349100",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0263304349100_max.jpg",
       "images": [
         {
@@ -20775,6 +21561,12 @@
       "gender": "female",
       "given_name": "Christina",
       "id": "e448df00-35fd-4cea-b4e2-f1e066e20462",
+      "identifiers": [
+        {
+          "identifier": "0668293417401",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0668293417401_max.jpg",
       "images": [
         {
@@ -21328,6 +22120,12 @@
       "gender": "male",
       "given_name": "Christoffer",
       "id": "67ca359b-a8d5-4895-b244-bcc3e3428a6c",
+      "identifiers": [
+        {
+          "identifier": "0217339006825",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0217339006825_max.jpg",
       "images": [
         {
@@ -21349,6 +22147,12 @@
       "gender": "male",
       "given_name": "Christoffer",
       "id": "5f35c631-786a-4829-8c86-849b1f203ccd",
+      "identifiers": [
+        {
+          "identifier": "0535289016620",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0535289016620_max.jpg",
       "images": [
         {
@@ -21369,6 +22173,12 @@
       "gender": "male",
       "given_name": "Christopher",
       "id": "7b427e18-21de-4dfb-8caa-d884558efb06",
+      "identifiers": [
+        {
+          "identifier": "0214849275619",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0214849275619_max.jpg",
       "images": [
         {
@@ -21848,6 +22658,12 @@
       "gender": "male",
       "given_name": "Conny",
       "id": "f729637d-61a7-4ca6-861a-f72cf509dd69",
+      "identifiers": [
+        {
+          "identifier": "0422059125318",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0422059125318_max.jpg",
       "images": [
         {
@@ -21869,6 +22685,12 @@
       "gender": "male",
       "given_name": "Conny",
       "id": "fc9ac24b-a87a-4415-913e-d414b14f96b7",
+      "identifiers": [
+        {
+          "identifier": "0455181302203",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0455181302203_max.jpg",
       "images": [
         {
@@ -21948,6 +22770,12 @@
       "gender": "male",
       "given_name": "Crister",
       "id": "ba5b71ea-20be-449c-927f-be07fe3724ee",
+      "identifiers": [
+        {
+          "identifier": "0644591005314",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0644591005314_max.jpg",
       "images": [
         {
@@ -22096,6 +22924,12 @@
       "gender": "male",
       "given_name": "Curt",
       "id": "507b1cdb-9ebe-448c-ae12-46e78841c4f1",
+      "identifiers": [
+        {
+          "identifier": "0612837785809",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0612837785809_max.jpg",
       "images": [
         {
@@ -22385,6 +23219,12 @@
       "gender": "male",
       "given_name": "Dan",
       "id": "db6d3438-7a17-400c-b53f-451fe9efd944",
+      "identifiers": [
+        {
+          "identifier": "0955635879822",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0955635879822_max.jpg",
       "images": [
         {
@@ -25216,6 +26056,10 @@
         {
           "identifier": "0667220767927",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "0667220767927",
+          "scheme": "riksdagen"
         }
       ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0667220767927_max.jpg",
@@ -26466,6 +27310,12 @@
       "gender": "female",
       "given_name": "Eva",
       "id": "7e5751ac-eae8-46ed-8c12-d57a2f2f77e9",
+      "identifiers": [
+        {
+          "identifier": "0666354900406",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0666354900406_max.jpg",
       "images": [
         {
@@ -26573,6 +27423,12 @@
       "gender": "female",
       "given_name": "Eva",
       "id": "0a073143-6a85-4565-ba2f-b826cb537cc8",
+      "identifiers": [
+        {
+          "identifier": "0642824296805",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0642824296805_max.jpg",
       "images": [
         {
@@ -26598,6 +27454,10 @@
         {
           "identifier": "0780214960516",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "0780214960516",
+          "scheme": "riksdagen"
         }
       ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0780214960516_max.jpg",
@@ -26688,6 +27548,12 @@
       "gender": "female",
       "given_name": "Eva",
       "id": "c08847fc-e522-4de1-a433-d5d4a91aae1a",
+      "identifiers": [
+        {
+          "identifier": "0919509837117",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0919509837117_max.jpg",
       "images": [
         {
@@ -26790,13 +27656,59 @@
       "gender": "female",
       "given_name": "Eva",
       "id": "32ac565b-9ac3-4977-a43a-3bc3cfa9075d",
+      "identifiers": [
+        {
+          "identifier": "0661583406713",
+          "scheme": "riksdagen"
+        },
+        {
+          "identifier": "Q4970111",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0661583406713_max.jpg",
       "images": [
         {
           "url": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0661583406713_max.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Eva_Nordmark"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Eva_Nordmark"
+        }
+      ],
       "name": "Eva Persson Sellin",
+      "other_names": [
+        {
+          "name": "Eva Nordmark",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Eva Nordmark",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Eva Nordmark",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Eva Nordmark",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Eva Nordmark",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Eva",
       "sources": [
         {
@@ -27021,6 +27933,12 @@
       "gender": "female",
       "given_name": "Eva",
       "id": "97b36ee0-f46d-4faf-a000-116d74675483",
+      "identifiers": [
+        {
+          "identifier": "0689455922419",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0689455922419_max.jpg",
       "images": [
         {
@@ -27128,6 +28046,12 @@
       "gender": "female",
       "given_name": "Eva",
       "id": "824ae5ed-e255-49d4-8eba-eb591f93e431",
+      "identifiers": [
+        {
+          "identifier": "07385270919",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/07385270919_max.jpg",
       "images": [
         {
@@ -29168,13 +30092,50 @@
       "gender": "male",
       "given_name": "Georg",
       "id": "22753ee1-e8aa-4699-8298-fa975a95d64f",
+      "identifiers": [
+        {
+          "identifier": "0422439378601",
+          "scheme": "riksdagen"
+        },
+        {
+          "identifier": "29519525",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q5554537",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0422439378601_max.jpg",
       "images": [
         {
           "url": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0422439378601_max.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Georg_Andersson_(politiker)"
+        }
+      ],
       "name": "Georg Andersson",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Georg Andersson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Georg Andersson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Georg Andersson",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Georg",
       "sources": [
         {
@@ -29188,6 +30149,12 @@
       "gender": "male",
       "given_name": "Greger",
       "id": "58ae8d54-5754-4801-99d7-e617c3c0160e",
+      "identifiers": [
+        {
+          "identifier": "0197306878612",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0197306878612_max.jpg",
       "images": [
         {
@@ -29763,6 +30730,12 @@
       "gender": "female",
       "given_name": "Gunhild",
       "id": "70ad60a0-0606-4301-8638-3ad2868ad710",
+      "identifiers": [
+        {
+          "identifier": "0381915897316",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0381915897316_max.jpg",
       "images": [
         {
@@ -30037,6 +31010,10 @@
         {
           "identifier": "0192918410514",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "0192918410514",
+          "scheme": "riksdagen"
         }
       ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0192918410514_max.jpg",
@@ -30399,6 +31376,12 @@
       "gender": "male",
       "given_name": "Gunnar",
       "id": "e758452e-7923-4560-b1e1-6a53a7b0f380",
+      "identifiers": [
+        {
+          "identifier": "0782242286018",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0782242286018_max.jpg",
       "images": [
         {
@@ -30900,6 +31883,12 @@
       "gender": "female",
       "given_name": "Gunnel",
       "id": "f25509e8-610b-4577-a103-c0a243bcd683",
+      "identifiers": [
+        {
+          "identifier": "0977557986415",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0977557986415_max.jpg",
       "images": [
         {
@@ -31553,6 +32542,12 @@
       "gender": "male",
       "given_name": "Gustav",
       "id": "4b72c999-3d01-443a-b216-48c722f08ab9",
+      "identifiers": [
+        {
+          "identifier": "0232670694320",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0232670694320_max.jpg",
       "images": [
         {
@@ -32977,6 +33972,12 @@
       "gender": "male",
       "given_name": "Göran R",
       "id": "fa7fc061-4918-4b9d-b42a-0da4b5f7a8a6",
+      "identifiers": [
+        {
+          "identifier": "0675602051200",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0675602051200_max.jpg",
       "images": [
         {
@@ -33337,6 +34338,12 @@
       "gender": "male",
       "given_name": "Hadar",
       "id": "3d53c0e9-62e9-4c41-9a8c-1647339cb355",
+      "identifiers": [
+        {
+          "identifier": "0393108743200",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0393108743200_max.jpg",
       "images": [
         {
@@ -33466,6 +34473,12 @@
       "gender": "female",
       "given_name": "Hanna",
       "id": "e41dda8c-98ef-4324-9884-2af27155e62f",
+      "identifiers": [
+        {
+          "identifier": "0937372967816",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0937372967816_max.jpg",
       "images": [
         {
@@ -33840,6 +34853,12 @@
       "gender": "male",
       "given_name": "Hannes",
       "id": "e9ddfedd-a751-4806-b497-3779b35e7fea",
+      "identifiers": [
+        {
+          "identifier": "0100689229625",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0100689229625_max.jpg",
       "images": [
         {
@@ -34969,6 +35988,12 @@
       "gender": "female",
       "given_name": "Heidi",
       "id": "88152d2b-c1dd-401e-a8a8-b9954b66c5f6",
+      "identifiers": [
+        {
+          "identifier": "0271543079118",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0271543079118_max.jpg",
       "images": [
         {
@@ -35945,6 +36970,12 @@
       "gender": "female",
       "given_name": "Helén",
       "id": "abd2cd6e-da78-4ba3-b75a-758e9301de0f",
+      "identifiers": [
+        {
+          "identifier": "0119766779312",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0119766779312_max.jpg",
       "images": [
         {
@@ -36857,13 +37888,50 @@
       "gender": "male",
       "given_name": "Håkan",
       "id": "86a68ca9-b81b-4f36-9c63-16fbf24826ed",
+      "identifiers": [
+        {
+          "identifier": "0198565054212",
+          "scheme": "riksdagen"
+        },
+        {
+          "identifier": "28366031",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q5810917",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0198565054212_max.jpg",
       "images": [
         {
           "url": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0198565054212_max.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Håkan_Holmberg_(journalist)"
+        }
+      ],
       "name": "Håkan Holmberg",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Håkan Holmberg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Håkan Holmberg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Håkan Holmberg",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Håkan",
       "sources": [
         {
@@ -37169,15 +38237,11 @@
       "id": "bea53cbe-9908-42b3-b192-3c6e246c279f",
       "identifiers": [
         {
-          "identifier": "067226892",
-          "scheme": "sudoc"
+          "identifier": "0212469298402",
+          "scheme": "riksdagen"
         },
         {
-          "identifier": "199856152",
-          "scheme": "viaf"
-        },
-        {
-          "identifier": "Q6193316",
+          "identifier": "Q6193321",
           "scheme": "wikidata"
         }
       ],
@@ -37190,7 +38254,7 @@
       "links": [
         {
           "note": "Wikipedia (sv)",
-          "url": "https://sv.wikipedia.org/wiki/Håkan_Strömberg"
+          "url": "https://sv.wikipedia.org/wiki/Håkan_Strömberg_(politiker)"
         }
       ],
       "name": "Håkan Strömberg",
@@ -37519,6 +38583,10 @@
         {
           "identifier": "0412502344925",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "0412502344925",
+          "scheme": "riksdagen"
         }
       ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0412502344925_max.jpg",
@@ -37635,6 +38703,12 @@
       "gender": "female",
       "given_name": "Ina",
       "id": "55de1496-80b5-4023-a5fe-a71d2ba25e56",
+      "identifiers": [
+        {
+          "identifier": "0817058516814",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0817058516814_max.jpg",
       "images": [
         {
@@ -38782,6 +39856,12 @@
       "gender": "female",
       "given_name": "Inger",
       "id": "4b31a517-4887-4ad2-947d-dd6ffe675e84",
+      "identifiers": [
+        {
+          "identifier": "0703330864716",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0703330864716_max.jpg",
       "images": [
         {
@@ -38802,6 +39882,12 @@
       "gender": "female",
       "given_name": "Inger",
       "id": "85f09ed9-53fd-43cf-a765-ee57785af593",
+      "identifiers": [
+        {
+          "identifier": "0463244199702",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0463244199702_max.jpg",
       "images": [
         {
@@ -39606,6 +40692,12 @@
       "gender": "female",
       "given_name": "Ingrid",
       "id": "f755ce24-187d-4792-a763-b4337f8b0396",
+      "identifiers": [
+        {
+          "identifier": "0488772415405",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0488772415405_max.jpg",
       "images": [
         {
@@ -39703,6 +40795,12 @@
       "gender": "female",
       "given_name": "Ingrid",
       "id": "d09b83bc-02fb-4bad-ab63-44d2631162ee",
+      "identifiers": [
+        {
+          "identifier": "0514469375718",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0514469375718_max.jpg",
       "images": [
         {
@@ -39781,13 +40879,416 @@
       "gender": "male",
       "given_name": "Ingvar",
       "id": "9b7caf82-0881-4f5f-a14c-cda8ccb41055",
+      "identifiers": [
+        {
+          "identifier": "124475121",
+          "scheme": "bnf"
+        },
+        {
+          "identifier": "181942",
+          "scheme": "fast"
+        },
+        {
+          "identifier": "/m/0m9ff",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "119073951",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "0000 0000 8352 4176",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "n86848756",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "00000017787",
+          "scheme": "munzinger"
+        },
+        {
+          "identifier": "736/000165241",
+          "scheme": "nndb"
+        },
+        {
+          "identifier": "0906359551705",
+          "scheme": "riksdagen"
+        },
+        {
+          "identifier": "033626251",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "5025879",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q53740",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0906359551705_max.jpg",
       "images": [
         {
           "url": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0906359551705_max.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (an)",
+          "url": "https://an.wikipedia.org/wiki/Ingvar_Carlsson"
+        },
+        {
+          "note": "Wikipedia (be)",
+          "url": "https://be.wikipedia.org/wiki/Інгвар_Карлсан"
+        },
+        {
+          "note": "Wikipedia (cs)",
+          "url": "https://cs.wikipedia.org/wiki/Ingvar_Carlsson"
+        },
+        {
+          "note": "Wikipedia (da)",
+          "url": "https://da.wikipedia.org/wiki/Ingvar_Carlsson"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Ingvar_Carlsson"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ingvar_Carlsson"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Ingvar_Carlsson"
+        },
+        {
+          "note": "Wikipedia (et)",
+          "url": "https://et.wikipedia.org/wiki/Ingvar_Carlsson"
+        },
+        {
+          "note": "Wikipedia (eu)",
+          "url": "https://eu.wikipedia.org/wiki/Ingvar_Carlsson"
+        },
+        {
+          "note": "Wikipedia (fa)",
+          "url": "https://fa.wikipedia.org/wiki/اینگفار_کارلسون"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Ingvar_Carlsson"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Ingvar_Carlsson"
+        },
+        {
+          "note": "Wikipedia (he)",
+          "url": "https://he.wikipedia.org/wiki/ינגוואר_קרלסון"
+        },
+        {
+          "note": "Wikipedia (id)",
+          "url": "https://id.wikipedia.org/wiki/Ingvar_Carlsson"
+        },
+        {
+          "note": "Wikipedia (io)",
+          "url": "https://io.wikipedia.org/wiki/Ingvar_Carlsson"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Ingvar_Carlsson"
+        },
+        {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/イングヴァール・カールソン"
+        },
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/잉바르_칼손"
+        },
+        {
+          "note": "Wikipedia (la)",
+          "url": "https://la.wikipedia.org/wiki/Ingvar_Carlsson"
+        },
+        {
+          "note": "Wikipedia (lt)",
+          "url": "https://lt.wikipedia.org/wiki/Ingvar_Carlsson"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Ingvar_Carlsson"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Ingvar_Carlsson"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Ingvar_Carlsson"
+        },
+        {
+          "note": "Wikipedia (oc)",
+          "url": "https://oc.wikipedia.org/wiki/Ingvar_Carlsson"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Ingvar_Carlsson"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Ingvar_Carlsson"
+        },
+        {
+          "note": "Wikipedia (qu)",
+          "url": "https://qu.wikipedia.org/wiki/Ingvar_Carlsson"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Карлссон,_Ингвар"
+        },
+        {
+          "note": "Wikipedia (simple)",
+          "url": "https://simple.wikipedia.org/wiki/Ingvar_Carlsson"
+        },
+        {
+          "note": "Wikipedia (sk)",
+          "url": "https://sk.wikipedia.org/wiki/Ingvar_Carlsson"
+        },
+        {
+          "note": "Wikipedia (sq)",
+          "url": "https://sq.wikipedia.org/wiki/Ingvar_Carlsson"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Ingvar_Carlsson"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Інгвар_Карлссон"
+        },
+        {
+          "note": "Wikipedia (vi)",
+          "url": "https://vi.wikipedia.org/wiki/Ingvar_Carlsson"
+        },
+        {
+          "note": "Wikipedia (yo)",
+          "url": "https://yo.wikipedia.org/wiki/Ingvar_Carlsson"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/英瓦尔·卡尔松"
+        }
+      ],
       "name": "Ingvar Carlsson",
+      "other_names": [
+        {
+          "lang": "an",
+          "name": "Ingvar Carlsson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be",
+          "name": "Інгвар Карлсан",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Ingvar Carlsson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Ingvar Carlsson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Ingvar Carlsson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Ingvar Carlsson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de-ch",
+          "name": "Ingvar Carlsson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Ingvar Carlsson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "Ingvar Carlsson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "Ingvar Carlsson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Ingvar Carlsson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Ingvar Carlsson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "Ingvar Carlsson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "اینگفار کارلسون",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Ingvar Carlsson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Ingvar Carlsson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "ינגוואר קרלסון",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Ingvar Carlsson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Ingvar Carlsson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "io",
+          "name": "Ingvar Carlsson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Ingvar Carlsson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "イングヴァール・カールソン",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "잉바르 칼손",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Ingvar Carlsson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Ingvar Carlsson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Ingvar Carlsson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Ingvar Carlsson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Ingvar Carlsson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Ingvar Carlsson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Ingvar Carlsson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Ingvar Carlsson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt-br",
+          "name": "Ingvar Carlsson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "qu",
+          "name": "Ingvar Carlsson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Карлссон, Ингвар",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Ingvar Carlsson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sq",
+          "name": "Ingvar Carlsson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Ingvar Carlsson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Інгвар Карлссон",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Ingvar Carlsson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yo",
+          "name": "Ingvar Carlsson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "英瓦尔·卡尔松",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Ingvar",
       "sources": [
         {
@@ -40479,13 +41980,64 @@
       "gender": "male",
       "given_name": "Ivar",
       "id": "2ee00301-970f-431f-915a-907ae2721b4a",
+      "identifiers": [
+        {
+          "identifier": "2150",
+          "scheme": "europarlmep"
+        },
+        {
+          "identifier": "0404669609001",
+          "scheme": "riksdagen"
+        },
+        {
+          "identifier": "Q6225988",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0404669609001_max.jpg",
       "images": [
         {
           "url": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0404669609001_max.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Ivar_Virgin"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Ivar_Virgin_(född_1936)"
+        }
+      ],
       "name": "Ivar Virgin",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Ivar Virgin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Ivar Virgin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Ivar Virgin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Ivar Virgin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Ivar Virgin",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Ivar",
       "sources": [
         {
@@ -40860,13 +42412,118 @@
       "gender": "male",
       "given_name": "Jan",
       "id": "df460350-3e39-4778-ab12-d6ce27af2ff2",
+      "identifiers": [
+        {
+          "identifier": "2107",
+          "scheme": "europarlmep"
+        },
+        {
+          "identifier": "/m/054tk4",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "0310304705606",
+          "scheme": "riksdagen"
+        },
+        {
+          "identifier": "Q1681577",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0310304705606_max.jpg",
       "images": [
         {
           "url": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0310304705606_max.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (da)",
+          "url": "https://da.wikipedia.org/wiki/Jan_Andersson"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Jan_Andersson_(Politiker)"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Jan_Andersson_(politician)"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Jan_Andersson"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Jan_Andersson_(polityk)"
+        },
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Jan_Andersson"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Jan_Andersson_(socialdemokrat)"
+        }
+      ],
       "name": "Jan Andersson",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Jan Andersson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Jan Andersson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Jan Andersson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Jan Andersson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Jan Andersson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Jan Andersson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Jan Andersson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Jan Andersson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Jan Andersson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Jan Andersson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Jan Andersson",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Jan",
       "sources": [
         {
@@ -41724,6 +43381,12 @@
       "gender": "male",
       "given_name": "Jan",
       "id": "560d4feb-c0f6-4ef1-931d-3cea19ab34a6",
+      "identifiers": [
+        {
+          "identifier": "0873439293805",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0873439293805_max.jpg",
       "images": [
         {
@@ -41829,13 +43492,46 @@
       "gender": "male",
       "given_name": "Jan",
       "id": "b0410c22-0f79-4231-9ef7-574dd7fe1a88",
+      "identifiers": [
+        {
+          "identifier": "0286118205611",
+          "scheme": "riksdagen"
+        },
+        {
+          "identifier": "Q6091847",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0286118205611_max.jpg",
       "images": [
         {
           "url": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0286118205611_max.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Jan_Sandberg"
+        }
+      ],
       "name": "Jan Sandberg",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Jan Sandberg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Jan Sandberg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Jan Sandberg",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Jan",
       "sources": [
         {
@@ -43533,6 +45229,12 @@
       "gender": "male",
       "given_name": "Johan",
       "id": "4b2d92b9-4256-43ac-a819-e6dc2f840de9",
+      "identifiers": [
+        {
+          "identifier": "0180442748612",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0180442748612_max.jpg",
       "images": [
         {
@@ -44017,6 +45719,12 @@
       "gender": "male",
       "given_name": "Johan",
       "id": "fa3c598e-e2c9-49d5-adba-c6b2c59273ec",
+      "identifiers": [
+        {
+          "identifier": "016654309503",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/016654309503_max.jpg",
       "images": [
         {
@@ -44636,6 +46344,10 @@
         {
           "identifier": "0885483214625",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "0885483214625",
+          "scheme": "riksdagen"
         }
       ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0885483214625_max.jpg",
@@ -45502,6 +47214,12 @@
       "gender": "male",
       "given_name": "Jonas",
       "id": "029fcafb-8c13-475f-a73b-bdd66bcb4288",
+      "identifiers": [
+        {
+          "identifier": "0541785328823",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0541785328823_max.jpg",
       "images": [
         {
@@ -46183,6 +47901,12 @@
       "gender": "male",
       "given_name": "Jörgen",
       "id": "f4e44974-96ea-4708-a853-984a674ca2ed",
+      "identifiers": [
+        {
+          "identifier": "0466882162014",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0466882162014_max.jpg",
       "images": [
         {
@@ -46599,6 +48323,12 @@
       "gender": "male",
       "given_name": "Kalle",
       "id": "6aecd016-96a9-4bf2-b005-dca8b2ddecec",
+      "identifiers": [
+        {
+          "identifier": "0275126649110",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0275126649110_max.jpg",
       "images": [
         {
@@ -47816,6 +49546,12 @@
       "gender": "female",
       "given_name": "Karin",
       "id": "766ae141-2f91-4a32-bcc7-7042cfa74c26",
+      "identifiers": [
+        {
+          "identifier": "0246624521815",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0246624521815_max.jpg",
       "images": [
         {
@@ -47836,13 +49572,83 @@
       "gender": "male",
       "given_name": "Karl Erik",
       "id": "e3d7624b-57c7-499c-8a03-07c79d7be2a5",
+      "identifiers": [
+        {
+          "identifier": "2068",
+          "scheme": "europarlmep"
+        },
+        {
+          "identifier": "0483420372909",
+          "scheme": "riksdagen"
+        },
+        {
+          "identifier": "Q6027273",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0483420372909_max.jpg",
       "images": [
         {
           "url": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0483420372909_max.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Karl_Erik_Olsson"
+        },
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Karl_Erik_Olsson"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Karl_Erik_Olsson"
+        }
+      ],
       "name": "Karl Erik Olsson",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Karl Erik Olsson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Karl Erik Olsson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Karl Erik Olsson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Karl Erik Olsson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Karl Erik Olsson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Karl Erik Olsson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Karl Erik Olsson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Karl Erik Olsson",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Karl Erik",
       "sources": [
         {
@@ -48466,6 +50272,12 @@
       "gender": "female",
       "given_name": "Katja",
       "id": "402df70e-6bca-4b02-a1a5-8d0511381039",
+      "identifiers": [
+        {
+          "identifier": "0151848520718",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0151848520718_max.jpg",
       "images": [
         {
@@ -49200,6 +51012,12 @@
       "gender": "male",
       "given_name": "Kenth",
       "id": "09ba6c0d-25b3-430c-8b42-f084cebd8789",
+      "identifiers": [
+        {
+          "identifier": "0927576375115",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0927576375115_max.jpg",
       "images": [
         {
@@ -49417,6 +51235,12 @@
       "gender": "female",
       "given_name": "Kerstin",
       "id": "3add5911-a998-4984-951d-d1408c4b51c4",
+      "identifiers": [
+        {
+          "identifier": "0965607699115",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0965607699115_max.jpg",
       "images": [
         {
@@ -49613,6 +51437,12 @@
       "gender": "female",
       "given_name": "Kerstin",
       "id": "7a70b06d-c013-433b-8f21-a327abd5b4bd",
+      "identifiers": [
+        {
+          "identifier": "082139988919",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/082139988919_max.jpg",
       "images": [
         {
@@ -50538,6 +52368,12 @@
       "gender": "male",
       "given_name": "Krister",
       "id": "85cdd75b-0773-4b48-acaa-d462e2b7d8e9",
+      "identifiers": [
+        {
+          "identifier": "0110409174800",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0110409174800_max.jpg",
       "images": [
         {
@@ -50681,6 +52517,12 @@
       "gender": "female",
       "given_name": "Kristin",
       "id": "24ef9448-0993-49d6-a5bb-66225a5175d9",
+      "identifiers": [
+        {
+          "identifier": "0279385965920",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0279385965920_max.jpg",
       "images": [
         {
@@ -50839,6 +52681,12 @@
       "gender": "female",
       "given_name": "Kristina",
       "id": "f685729f-59d5-4120-a8ea-e2b6939756e1",
+      "identifiers": [
+        {
+          "identifier": "0500493436208",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0500493436208_max.jpg",
       "images": [
         {
@@ -50859,13 +52707,51 @@
       "gender": "female",
       "given_name": "Kristina",
       "id": "29728bc0-831e-498c-9c62-ad8bcd816823",
+      "identifiers": [
+        {
+          "identifier": "0235331390700",
+          "scheme": "riksdagen"
+        },
+        {
+          "identifier": "Q4981523",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0235331390700_max.jpg",
       "images": [
         {
           "url": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0235331390700_max.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Kristina_Svensson"
+        }
+      ],
       "name": "Kristina Svensson",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Kristina Svensson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Kristina Svensson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Kristina Svensson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Kristina Svensson",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Kristina",
       "sources": [
         {
@@ -51536,6 +53422,12 @@
       "gender": "female",
       "given_name": "Laila",
       "id": "ceb86a3e-b111-43b1-b845-cc469473de34",
+      "identifiers": [
+        {
+          "identifier": "0655418111118",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0655418111118_max.jpg",
       "images": [
         {
@@ -51972,6 +53864,12 @@
       "gender": "male",
       "given_name": "Lars G",
       "id": "52bc27ac-899a-404c-beff-28a16696bbe1",
+      "identifiers": [
+        {
+          "identifier": "0940599017317",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0940599017317_max.jpg",
       "images": [
         {
@@ -53216,6 +55114,12 @@
       "gender": "male",
       "given_name": "Lars",
       "id": "06eae5d2-09ab-4716-a5e4-1dc142e20313",
+      "identifiers": [
+        {
+          "identifier": "0227531635413",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0227531635413_max.jpg",
       "images": [
         {
@@ -53450,6 +55354,12 @@
       "gender": "male",
       "given_name": "Lars U",
       "id": "fe299516-1546-4edf-ace1-3c4e8493fb5c",
+      "identifiers": [
+        {
+          "identifier": "0957631371811",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0957631371811_max.jpg",
       "images": [
         {
@@ -53883,6 +55793,12 @@
       "gender": "male",
       "given_name": "Lars-Erik",
       "id": "72453d3c-fb43-469b-bc54-a8757275f20f",
+      "identifiers": [
+        {
+          "identifier": "0129061253610",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0129061253610_max.jpg",
       "images": [
         {
@@ -54336,6 +56252,12 @@
       "gender": "male",
       "given_name": "Leif",
       "id": "a6db01e1-58dc-40a7-ba6f-bce848837a4e",
+      "identifiers": [
+        {
+          "identifier": "0932188207010",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0932188207010_max.jpg",
       "images": [
         {
@@ -55473,6 +57395,10 @@
           "scheme": "gnd"
         },
         {
+          "identifier": "0658584530506",
+          "scheme": "riksdagen"
+        },
+        {
           "identifier": "194366",
           "scheme": "selibr"
         },
@@ -55849,6 +57775,12 @@
       "gender": "female",
       "given_name": "Lena",
       "id": "1ddbb93d-b2ac-4221-b1be-f2a884132a73",
+      "identifiers": [
+        {
+          "identifier": "0837462035506",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0837462035506_max.jpg",
       "images": [
         {
@@ -56035,6 +57967,12 @@
       "gender": "male",
       "given_name": "Lennart",
       "id": "79c1ec4a-8200-408a-9ab3-7d94cf1342f4",
+      "identifiers": [
+        {
+          "identifier": "0480182220803",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0480182220803_max.jpg",
       "images": [
         {
@@ -56251,6 +58189,12 @@
       "gender": "male",
       "given_name": "Lennart",
       "id": "764368ff-a41c-47b8-a1b7-c0a2343295e2",
+      "identifiers": [
+        {
+          "identifier": "0425392189902",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0425392189902_max.jpg",
       "images": [
         {
@@ -57656,6 +59600,10 @@
         {
           "identifier": "0706528359123",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "0706528359123",
+          "scheme": "riksdagen"
         }
       ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0706528359123_max.jpg",
@@ -58423,6 +60371,12 @@
       "gender": "female",
       "given_name": "Lolo",
       "id": "e16a8882-621c-4bbd-9926-a40dcd2423e7",
+      "identifiers": [
+        {
+          "identifier": "0914994510206",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0914994510206_max.jpg",
       "images": [
         {
@@ -58679,6 +60633,12 @@
       "gender": "female",
       "given_name": "Lotta",
       "id": "64b7363c-5ae7-4452-a8f5-246b8f092821",
+      "identifiers": [
+        {
+          "identifier": "0355822136816",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0355822136816_max.jpg",
       "images": [
         {
@@ -58766,6 +60726,12 @@
       "gender": "female",
       "given_name": "Louise",
       "id": "b82e78ad-6238-4aab-9d31-e1830466544d",
+      "identifiers": [
+        {
+          "identifier": "0456373360003",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0456373360003_max.jpg",
       "images": [
         {
@@ -58976,6 +60942,12 @@
       "gender": "female",
       "given_name": "Magda",
       "id": "3420497c-ad0c-45e1-a125-14765ba6a302",
+      "identifiers": [
+        {
+          "identifier": "0232236105111",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0232236105111_max.jpg",
       "images": [
         {
@@ -59597,6 +61569,12 @@
       "gender": "male",
       "given_name": "Magnus",
       "id": "0468fc03-7ed7-44c6-8267-55b184e15834",
+      "identifiers": [
+        {
+          "identifier": "0471642162218",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0471642162218_max.jpg",
       "images": [
         {
@@ -59938,13 +61916,113 @@
       "gender": "female",
       "given_name": "Maj Britt",
       "id": "8f29db8f-e3af-4d8a-b04b-4c61e90bb418",
+      "identifiers": [
+        {
+          "identifier": "2149",
+          "scheme": "europarlmep"
+        },
+        {
+          "identifier": "/m/0ksb63",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "0205148684308",
+          "scheme": "riksdagen"
+        },
+        {
+          "identifier": "19650255",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q3498715",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0205148684308_max.jpg",
       "images": [
         {
           "url": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0205148684308_max.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Maj_Britt_Theorin"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Maj_Britt_Theorin"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Maj_Britt_Theorin"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Maj_Britt_Theorin"
+        },
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Maj_Britt_Theorin"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Maj_Britt_Theorin"
+        }
+      ],
       "name": "Maj Britt Theorin",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Maj Britt Theorin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Maj Britt Theorin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Maj Britt Theorin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Maj Britt Theorin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Maj Britt Theorin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Maj Britt Theorin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Maj Britt Theorin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Maj Britt Theorin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Maj Britt Theorin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Maj Britt Theorin",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Maj Britt",
       "sources": [
         {
@@ -60152,13 +62230,69 @@
       "gender": "female",
       "given_name": "Maj-Lis",
       "id": "2f21f393-37ee-470b-84ff-2a4f8b202e0a",
+      "identifiers": [
+        {
+          "identifier": "2067",
+          "scheme": "europarlmep"
+        },
+        {
+          "identifier": "0153549892302",
+          "scheme": "riksdagen"
+        },
+        {
+          "identifier": "Q4964703",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0153549892302_max.jpg",
       "images": [
         {
           "url": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0153549892302_max.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Maj-Lis_Lööw"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Maj-Lis_Lööw"
+        }
+      ],
       "name": "Maj-Lis Lööw",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Maj-Lis Lööw",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Maj-Lis Lööw",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Maj-Lis Lööw",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Maj-Lis Lööw",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Maj-Lis Lööw",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Maj-Lis Lööw",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Maj-Lis",
       "sources": [
         {
@@ -60913,6 +63047,12 @@
       "gender": "female",
       "given_name": "Margareta",
       "id": "42ef370b-13c6-40e9-ac9f-93fb7ac2b3ba",
+      "identifiers": [
+        {
+          "identifier": "0648161048508",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0648161048508_max.jpg",
       "images": [
         {
@@ -61122,6 +63262,12 @@
       "gender": "female",
       "given_name": "Margareta",
       "id": "e9212b43-6bb2-4dc0-95ee-86b1d0f94103",
+      "identifiers": [
+        {
+          "identifier": "0812087943307",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0812087943307_max.jpg",
       "images": [
         {
@@ -61142,6 +63288,12 @@
       "gender": "female",
       "given_name": "Margareta",
       "id": "19f69d0e-6c46-4915-bc71-7ffed86d43b3",
+      "identifiers": [
+        {
+          "identifier": "0294883731700",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0294883731700_max.jpg",
       "images": [
         {
@@ -61270,13 +63422,131 @@
       "gender": "female",
       "given_name": "Margaretha",
       "id": "baff6726-7745-4b57-9f3b-d7eb27bdca2f",
+      "identifiers": [
+        {
+          "identifier": "2148",
+          "scheme": "europarlmep"
+        },
+        {
+          "identifier": "/m/093yy_",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "018160186302",
+          "scheme": "riksdagen"
+        },
+        {
+          "identifier": "68906933",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q455820",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/018160186302_max.jpg",
       "images": [
         {
           "url": "http://data.riksdagen.se/filarkiv/bilder/ledamot/018160186302_max.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Margaretha_af_Ugglas"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Margaretha_af_Ugglas"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Margaretha_af_Ugglas"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Margaretha_af_Ugglas"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Margaretha_af_Ugglas"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Margaretha_af_Ugglas"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Margaretha_af_Ugglas"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Маргарета_Угглас"
+        }
+      ],
       "name": "Margaretha af Ugglas",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Margaretha af Ugglas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Margaretha af Ugglas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "Margaretha af Ugglas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Margaretha af Ugglas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Margaretha af Ugglas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Margaretha af Ugglas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Margaretha af Ugglas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Margaretha af Ugglas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Margaretha af Ugglas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Margaretha af Ugglas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Margaretha af Ugglas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Маргарета Угглас",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Margaretha",
       "sources": [
         {
@@ -61971,6 +64241,12 @@
       "gender": "female",
       "given_name": "Maria",
       "id": "314253d5-ba90-4319-89fa-635656f65ca0",
+      "identifiers": [
+        {
+          "identifier": "0994460509110",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0994460509110_max.jpg",
       "images": [
         {
@@ -62967,6 +65243,12 @@
       "gender": "female",
       "given_name": "Maria",
       "id": "cc38be1a-550a-446a-8441-8727afdbac6b",
+      "identifiers": [
+        {
+          "identifier": "0827298177012",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0827298177012_max.jpg",
       "images": [
         {
@@ -62987,6 +65269,12 @@
       "gender": "female",
       "given_name": "Mariam",
       "id": "8a1758a2-16e5-4b24-a780-cabcc607939a",
+      "identifiers": [
+        {
+          "identifier": "0228907110117",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0228907110117_max.jpg",
       "images": [
         {
@@ -63248,6 +65536,12 @@
       "gender": "female",
       "given_name": "Marianne",
       "id": "db2ae8e0-58f6-46ea-a431-a0772a3d6fa5",
+      "identifiers": [
+        {
+          "identifier": "0245874897406",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0245874897406_max.jpg",
       "images": [
         {
@@ -63412,6 +65706,12 @@
       "gender": "female",
       "given_name": "Marianne",
       "id": "4c66f466-a9bf-408f-b9dd-bc780b3bc5a2",
+      "identifiers": [
+        {
+          "identifier": "0771794334400",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0771794334400_max.jpg",
       "images": [
         {
@@ -63692,6 +65992,12 @@
       "gender": "female",
       "given_name": "Marianne",
       "id": "3acc4550-59fd-40aa-9605-5ce79eac13d2",
+      "identifiers": [
+        {
+          "identifier": "0990688247511",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0990688247511_max.jpg",
       "images": [
         {
@@ -64152,6 +66458,12 @@
       "gender": "female",
       "given_name": "Marie",
       "id": "e4d3edda-faad-4c80-9f80-445096faaae7",
+      "identifiers": [
+        {
+          "identifier": "0950559490627",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0950559490627_max.jpg",
       "images": [
         {
@@ -64230,6 +66542,12 @@
       "gender": "female",
       "given_name": "Marie-Louise",
       "id": "7fb06f81-d462-4936-8d9e-dab77e4128a0",
+      "identifiers": [
+        {
+          "identifier": "0771287795114",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0771287795114_max.jpg",
       "images": [
         {
@@ -65220,6 +67538,10 @@
         {
           "identifier": "0613297818326",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "0613297818326",
+          "scheme": "riksdagen"
         }
       ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0613297818326_max.jpg",
@@ -65719,13 +68041,82 @@
       "gender": "male",
       "given_name": "Mats",
       "id": "767edf1b-6426-4dbd-9c72-15fd7b66f1f1",
+      "identifiers": [
+        {
+          "identifier": "452789",
+          "scheme": "fast"
+        },
+        {
+          "identifier": "0000 0001 0997 2904",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "0334042720405",
+          "scheme": "riksdagen"
+        },
+        {
+          "identifier": "90778102",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q5799722",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0334042720405_max.jpg",
       "images": [
         {
           "url": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0334042720405_max.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Mats_Hellström"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Mats_Hellström"
+        }
+      ],
       "name": "Mats Hellström",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Mats Hellström",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Mats Hellström",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Mats Hellström",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Mats Hellström",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Mats Hellström",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Mats Hellström",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Mats Hellström",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Mats",
       "sources": [
         {
@@ -67778,6 +70169,12 @@
       "gender": "male",
       "given_name": "Michael",
       "id": "5bb9d78f-ff91-41fa-9c3d-144502eefe54",
+      "identifiers": [
+        {
+          "identifier": "0924240425218",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0924240425218_max.jpg",
       "images": [
         {
@@ -68272,6 +70669,12 @@
       "gender": "male",
       "given_name": "Mikael",
       "id": "ce44bea6-0a4a-432f-9150-aabe8e194f80",
+      "identifiers": [
+        {
+          "identifier": "0626451252310",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0626451252310_max.jpg",
       "images": [
         {
@@ -68922,6 +71325,12 @@
       "gender": "female",
       "given_name": "Mildred",
       "id": "f2c66d83-e6f5-4761-a113-51b396f1c8d3",
+      "identifiers": [
+        {
+          "identifier": "0631251014601",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0631251014601_max.jpg",
       "images": [
         {
@@ -68943,6 +71352,12 @@
       "gender": "male",
       "given_name": "Mohamoud",
       "id": "acd44c2c-d28f-4b52-a875-3b8701336b1e",
+      "identifiers": [
+        {
+          "identifier": "0910587614018",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0910587614018_max.jpg",
       "images": [
         {
@@ -69111,6 +71526,12 @@
       "gender": "female",
       "given_name": "Mona",
       "id": "01d3b4c5-3700-4cbe-9c7a-e1e23740c7fa",
+      "identifiers": [
+        {
+          "identifier": "0157844699102",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0157844699102_max.jpg",
       "images": [
         {
@@ -69131,6 +71552,12 @@
       "gender": "female",
       "given_name": "Mona",
       "id": "f2b53361-0310-4827-8752-95bdfc7b0d44",
+      "identifiers": [
+        {
+          "identifier": "0639286102314",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0639286102314_max.jpg",
       "images": [
         {
@@ -69617,6 +72044,12 @@
       "gender": "female",
       "given_name": "Monica",
       "id": "634d91ad-18e3-466c-b7b4-2828d06819c0",
+      "identifiers": [
+        {
+          "identifier": "0394430340317",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0394430340317_max.jpg",
       "images": [
         {
@@ -69758,6 +72191,12 @@
       "gender": "male",
       "given_name": "Montaser",
       "id": "2d9a8869-c735-4c10-8065-23afd166a6a9",
+      "identifiers": [
+        {
+          "identifier": "033662260219",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/033662260219_max.jpg",
       "images": [
         {
@@ -69893,6 +72332,12 @@
       "gender": "male",
       "given_name": "Murad",
       "id": "38a2596f-35ae-492a-8f72-22d832757962",
+      "identifiers": [
+        {
+          "identifier": "0431699774518",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0431699774518_max.jpg",
       "images": [
         {
@@ -70196,6 +72641,12 @@
       "gender": "male",
       "given_name": "Niclas",
       "id": "a0778091-f266-49d6-887a-2cd3b5325f37",
+      "identifiers": [
+        {
+          "identifier": "0634013303818",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0634013303818_max.jpg",
       "images": [
         {
@@ -70565,6 +73016,12 @@
       "gender": "male",
       "given_name": "Nils",
       "id": "d8bcc516-c121-4b17-af7b-bd48b538d64a",
+      "identifiers": [
+        {
+          "identifier": "0795530089824",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0795530089824_max.jpg",
       "images": [
         {
@@ -71875,6 +74332,12 @@
       "gender": "male",
       "given_name": "Olle",
       "id": "5ced699b-55f3-47c6-aa42-c2baa612bf6b",
+      "identifiers": [
+        {
+          "identifier": "0156396655712",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0156396655712_max.jpg",
       "images": [
         {
@@ -71897,6 +74360,10 @@
       "given_name": "Olle",
       "id": "1ff2e768-2486-4eba-8552-01bc47abc713",
       "identifiers": [
+        {
+          "identifier": "0283299919701",
+          "scheme": "riksdagen"
+        },
         {
           "identifier": "276443709",
           "scheme": "viaf"
@@ -72360,6 +74827,12 @@
       "gender": "male",
       "given_name": "Osama",
       "id": "00b49c12-0517-4208-96f2-70c0a36ece4e",
+      "identifiers": [
+        {
+          "identifier": "0441733186214",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0441733186214_max.jpg",
       "images": [
         {
@@ -72912,6 +75385,10 @@
         {
           "identifier": "085742305813",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "085742305813",
+          "scheme": "riksdagen"
         }
       ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/085742305813_max.jpg",
@@ -73481,6 +75958,12 @@
       "gender": "male",
       "given_name": "Peeter",
       "id": "4e8b460b-e3bf-482a-ba2b-f42012ef7a05",
+      "identifiers": [
+        {
+          "identifier": "0351867771418",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0351867771418_max.jpg",
       "images": [
         {
@@ -73887,6 +76370,12 @@
       "gender": "male",
       "given_name": "Per",
       "id": "07a48dca-4fd5-466a-9811-7af9afd9e0ff",
+      "identifiers": [
+        {
+          "identifier": "0650522511709",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0650522511709_max.jpg",
       "images": [
         {
@@ -74472,13 +76961,96 @@
       "gender": "male",
       "given_name": "Per",
       "id": "5ab139cf-d363-4d3d-b22a-6b7a17acea31",
+      "identifiers": [
+        {
+          "identifier": "2147",
+          "scheme": "europarlmep"
+        },
+        {
+          "identifier": "012855230311",
+          "scheme": "riksdagen"
+        },
+        {
+          "identifier": "1983277",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q6189271",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/012855230311_max.jpg",
       "images": [
         {
           "url": "http://data.riksdagen.se/filarkiv/bilder/ledamot/012855230311_max.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (et)",
+          "url": "https://et.wikipedia.org/wiki/Per_Stenmarck"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Per_Stenmarck"
+        },
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Per_Stenmarck"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Per_Stenmarck"
+        }
+      ],
       "name": "Per Stenmarck",
+      "other_names": [
+        {
+          "lang": "cy",
+          "name": "Per Stenmarck",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Per Stenmarck",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Per Stenmarck",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Per Stenmarck",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Per Stenmarck",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Per Stenmarck",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Per Stenmarck",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Per Stenmarck",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Per Stenmarck",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Per",
       "sources": [
         {
@@ -74492,6 +77064,12 @@
       "gender": "male",
       "given_name": "Per",
       "id": "94b024ed-b07a-4465-a2e1-401200dfb992",
+      "identifiers": [
+        {
+          "identifier": "0231923542904",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0231923542904_max.jpg",
       "images": [
         {
@@ -75200,6 +77778,12 @@
       "gender": "male",
       "given_name": "Per-Johan",
       "id": "1ef95a08-499f-4688-abb8-8d4f1c589420",
+      "identifiers": [
+        {
+          "identifier": "0723453743904",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0723453743904_max.jpg",
       "images": [
         {
@@ -75484,6 +78068,12 @@
       "gender": "male",
       "given_name": "Percy",
       "id": "0943a967-fc3d-4f7b-89bc-abc35d43b6d9",
+      "identifiers": [
+        {
+          "identifier": "0153040710006",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0153040710006_max.jpg",
       "images": [
         {
@@ -75504,6 +78094,12 @@
       "gender": "female",
       "given_name": "Pernilla",
       "id": "2575ca6c-4a1f-43ea-9d3f-ee47f41c4c53",
+      "identifiers": [
+        {
+          "identifier": "048433771316",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/048433771316_max.jpg",
       "images": [
         {
@@ -76026,6 +78622,12 @@
       "gender": "male",
       "given_name": "Peter",
       "id": "bdb9e728-b4d5-4cbe-848d-bf3f09bb1499",
+      "identifiers": [
+        {
+          "identifier": "0681030112815",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0681030112815_max.jpg",
       "images": [
         {
@@ -76403,6 +79005,12 @@
       "gender": "male",
       "given_name": "Peter",
       "id": "40e61f04-9011-4d2f-ad24-590c2e5cf2f3",
+      "identifiers": [
+        {
+          "identifier": "0231938174010",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0231938174010_max.jpg",
       "images": [
         {
@@ -76774,6 +79382,12 @@
       "gender": "female",
       "given_name": "Petra",
       "id": "fdec19e9-191a-48e6-b9a6-09bee11a003e",
+      "identifiers": [
+        {
+          "identifier": "0112524608217",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0112524608217_max.jpg",
       "images": [
         {
@@ -77952,6 +80566,12 @@
       "gender": "male",
       "given_name": "Rebwar",
       "id": "e5fa4d5e-fee6-4ddb-b308-af09fa91880a",
+      "identifiers": [
+        {
+          "identifier": "0961349903416",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0961349903416_max.jpg",
       "images": [
         {
@@ -77973,6 +80593,12 @@
       "gender": "male",
       "given_name": "Rene",
       "id": "5ca0ffb2-f29e-4e0f-87fc-901e172a6a53",
+      "identifiers": [
+        {
+          "identifier": "0230805519613",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0230805519613_max.jpg",
       "images": [
         {
@@ -78890,6 +81516,12 @@
       "gender": "female",
       "given_name": "Rocio",
       "id": "4ee5c05f-9d23-4f37-a283-3f636af8e523",
+      "identifiers": [
+        {
+          "identifier": "0514503951114",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0514503951114_max.jpg",
       "images": [
         {
@@ -79061,6 +81693,12 @@
       "gender": "male",
       "given_name": "Roger",
       "id": "231007de-f9ad-46cf-90c7-ebc37c786f26",
+      "identifiers": [
+        {
+          "identifier": "0397940298012",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0397940298012_max.jpg",
       "images": [
         {
@@ -79541,6 +82179,12 @@
       "gender": "male",
       "given_name": "Rolf",
       "id": "683707c3-5055-45bb-95e8-cb89f6a61a5d",
+      "identifiers": [
+        {
+          "identifier": "0226234976000",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0226234976000_max.jpg",
       "images": [
         {
@@ -80084,6 +82728,12 @@
       "gender": "female",
       "given_name": "RosMarie",
       "id": "2b003d9b-0e8f-4bc1-a842-ddec8f0297fc",
+      "identifiers": [
+        {
+          "identifier": "0568736532719",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0568736532719_max.jpg",
       "images": [
         {
@@ -80105,6 +82755,12 @@
       "gender": "female",
       "given_name": "Rose-Marie",
       "id": "cb5d39c3-1b15-49a5-a7ac-f1d4b5ab76b0",
+      "identifiers": [
+        {
+          "identifier": "0236597884217",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0236597884217_max.jpg",
       "images": [
         {
@@ -80752,13 +83408,50 @@
       "gender": "male",
       "given_name": "Rune",
       "id": "428605d7-f030-4ac5-8b7c-57fb77c8ae6a",
+      "identifiers": [
+        {
+          "identifier": "0314386385815",
+          "scheme": "riksdagen"
+        },
+        {
+          "identifier": "19650524",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q5563599",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0314386385815_max.jpg",
       "images": [
         {
           "url": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0314386385815_max.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Rune_Backlund_(politiker)"
+        }
+      ],
       "name": "Rune Backlund",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Rune Backlund",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Rune Backlund",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Rune Backlund",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Rune",
       "sources": [
         {
@@ -81454,6 +84147,12 @@
       "gender": "male",
       "given_name": "Sedat",
       "id": "8d8512e4-7453-49b3-99ec-e85c2302b2bf",
+      "identifiers": [
+        {
+          "identifier": "0424684306815",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0424684306815_max.jpg",
       "images": [
         {
@@ -81479,6 +84178,10 @@
         {
           "identifier": "0256716955026",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "0256716955026",
+          "scheme": "riksdagen"
         }
       ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0256716955026_max.jpg",
@@ -82627,6 +85330,12 @@
       "gender": "female",
       "given_name": "Sofia",
       "id": "59ede8a5-9150-4cbc-ba2b-e8783869d083",
+      "identifiers": [
+        {
+          "identifier": "0484493492213",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0484493492213_max.jpg",
       "images": [
         {
@@ -84336,6 +87045,10 @@
         {
           "identifier": "0791649913415",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "0791649913415",
+          "scheme": "riksdagen"
         }
       ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0791649913415_max.jpg",
@@ -84359,6 +87072,12 @@
       "gender": "male",
       "given_name": "Stefan",
       "id": "1cb57bff-e5ff-4f13-aa7e-b856b4451c29",
+      "identifiers": [
+        {
+          "identifier": "0526874284718",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0526874284718_max.jpg",
       "images": [
         {
@@ -84441,6 +87160,12 @@
       "gender": "male",
       "given_name": "Stefan",
       "id": "e1071442-e0ea-47a5-97b7-a8f6862a2aab",
+      "identifiers": [
+        {
+          "identifier": "0649200228012",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0649200228012_max.jpg",
       "images": [
         {
@@ -85233,13 +87958,60 @@
       "gender": "male",
       "given_name": "Stig",
       "id": "7f241d6b-5c36-4def-81d5-9f76caaaaf71",
+      "identifiers": [
+        {
+          "identifier": "0893605406218",
+          "scheme": "riksdagen"
+        },
+        {
+          "identifier": "Q5574444",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0893605406218_max.jpg",
       "images": [
         {
           "url": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0893605406218_max.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Stig_Bertilsson"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Stig_Bertilsson"
+        }
+      ],
       "name": "Stig Bertilsson",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Stig Bertilsson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Stig Bertilsson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Stig Bertilsson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Stig Bertilsson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Stig Bertilsson",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Stig",
       "sources": [
         {
@@ -85636,6 +88408,12 @@
       "gender": "female",
       "given_name": "Stina",
       "id": "e8456d31-1c3d-4b5f-970e-f88bbd1104f9",
+      "identifiers": [
+        {
+          "identifier": "0847676507229",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0847676507229_max.jpg",
       "images": [
         {
@@ -86087,6 +88865,12 @@
       "gender": "male",
       "given_name": "Sven",
       "id": "a4054f94-c782-49dc-9b57-c46b8527d950",
+      "identifiers": [
+        {
+          "identifier": "0689360934600",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0689360934600_max.jpg",
       "images": [
         {
@@ -88870,6 +91654,12 @@
       "gender": "male",
       "given_name": "Tobias",
       "id": "4a575807-0617-4f6f-8be0-5b6bbcc6fa10",
+      "identifiers": [
+        {
+          "identifier": "0194834079816",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0194834079816_max.jpg",
       "images": [
         {
@@ -88962,6 +91752,12 @@
       "gender": "male",
       "given_name": "Tomas",
       "id": "d7e0e852-d578-4da5-ad6b-906e74f7de66",
+      "identifiers": [
+        {
+          "identifier": "0361964723211",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0361964723211_max.jpg",
       "images": [
         {
@@ -88983,6 +91779,12 @@
       "gender": "male",
       "given_name": "Tomas",
       "id": "25e5b691-e473-4244-8137-ef5331a49519",
+      "identifiers": [
+        {
+          "identifier": "0783865993627",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0783865993627_max.jpg",
       "images": [
         {
@@ -89189,6 +91991,12 @@
       "gender": "male",
       "given_name": "Tomas",
       "id": "a832263a-cc3c-4c6e-9e15-c7b8f36df05b",
+      "identifiers": [
+        {
+          "identifier": "0797281536419",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0797281536419_max.jpg",
       "images": [
         {
@@ -89705,6 +92513,12 @@
       "gender": "male",
       "given_name": "Torbjörn",
       "id": "04bc0ad6-533e-44e7-bddb-dd47714da93b",
+      "identifiers": [
+        {
+          "identifier": "0441279609311",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0441279609311_max.jpg",
       "images": [
         {
@@ -89784,6 +92598,12 @@
       "gender": "male",
       "given_name": "Torgny",
       "id": "9130228e-2520-4d99-a943-ca744d3f1fad",
+      "identifiers": [
+        {
+          "identifier": "0701022001100",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0701022001100_max.jpg",
       "images": [
         {
@@ -90051,6 +92871,12 @@
       "gender": "female",
       "given_name": "Tullia",
       "id": "7adfd12c-7f91-41e2-9969-d67c1670298e",
+      "identifiers": [
+        {
+          "identifier": "0937572393290",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0937572393290_max.jpg",
       "images": [
         {
@@ -91209,6 +94035,16 @@
       "gender": "female",
       "given_name": "Ulla",
       "id": "c76739f8-0a6c-4374-83fc-dc4bf649bddb",
+      "identifiers": [
+        {
+          "identifier": "0435526123410",
+          "scheme": "riksdagen"
+        },
+        {
+          "identifier": "Q4990351",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0435526123410_max.jpg",
       "images": [
         {
@@ -91217,11 +94053,37 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Ulla_Wester"
+        },
+        {
           "note": "website",
           "url": "http://www.socialdemokraterna.se/ullawester"
         }
       ],
       "name": "Ulla Wester",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Ulla Wester",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Ulla Wester",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Ulla Wester",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Ulla Wester",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Ulla",
       "sources": [
         {
@@ -91655,6 +94517,10 @@
         {
           "identifier": "0764949934324",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "0764949934324",
+          "scheme": "riksdagen"
         }
       ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0764949934324_max.jpg",
@@ -91767,6 +94633,12 @@
       "gender": "female",
       "given_name": "Ulrika",
       "id": "5800f815-3f30-49a7-b861-7f705edef153",
+      "identifiers": [
+        {
+          "identifier": "0348125782828",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0348125782828_max.jpg",
       "images": [
         {
@@ -92633,17 +95505,51 @@
     },
     {
       "birth_date": "1937",
+      "death_date": "2010-11-28",
       "family_name": "Komstedt",
       "gender": "male",
       "given_name": "Wiggo",
       "id": "dfe85887-f795-4d6f-a485-bbeabfc1ba94",
+      "identifiers": [
+        {
+          "identifier": "013600422205",
+          "scheme": "riksdagen"
+        },
+        {
+          "identifier": "Q5918403",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/013600422205_max.jpg",
       "images": [
         {
           "url": "http://data.riksdagen.se/filarkiv/bilder/ledamot/013600422205_max.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Wiggo_Komstedt"
+        }
+      ],
       "name": "Wiggo Komstedt",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Wiggo Komstedt",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Wiggo Komstedt",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Wiggo Komstedt",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Wiggo",
       "sources": [
         {
@@ -92657,6 +95563,12 @@
       "gender": "female",
       "given_name": "Willemo",
       "id": "99a779a6-5b27-4eb1-a9dd-5cbf712c38c9",
+      "identifiers": [
+        {
+          "identifier": "0286498639614",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0286498639614_max.jpg",
       "images": [
         {
@@ -93573,13 +96485,78 @@
       "gender": "female",
       "given_name": "Yvonne",
       "id": "959b534e-f9c9-40be-901f-ae5a76d51f06",
+      "identifiers": [
+        {
+          "identifier": "2072",
+          "scheme": "europarlmep"
+        },
+        {
+          "identifier": "0844105199517",
+          "scheme": "riksdagen"
+        },
+        {
+          "identifier": "Q4976818",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0844105199517_max.jpg",
       "images": [
         {
           "url": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0844105199517_max.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Yvonne_Sandberg-Fries"
+        },
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Yvonne_Sandberg-Fries"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Yvonne_Sandberg-Fries"
+        }
+      ],
       "name": "Yvonne Sandberg-Fries",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Yvonne Sandberg-Fries",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Yvonne Sandberg-Fries",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Yvonne Sandberg-Fries",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Yvonne Sandberg-Fries",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Yvonne Sandberg-Fries",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Yvonne Sandberg-Fries",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Yvonne Sandberg-Fries",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Yvonne",
       "sources": [
         {
@@ -93675,6 +96652,12 @@
       "gender": "female",
       "given_name": "Ziita",
       "id": "f5147f66-93eb-4318-9fd5-cf8b01b84814",
+      "identifiers": [
+        {
+          "identifier": "0497565513923",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0497565513923_max.jpg",
       "images": [
         {
@@ -93695,6 +96678,12 @@
       "gender": "male",
       "given_name": "Åke",
       "id": "cf728951-dd2e-428e-b307-7039b15292ed",
+      "identifiers": [
+        {
+          "identifier": "0185680273604",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0185680273604_max.jpg",
       "images": [
         {
@@ -93886,6 +96875,12 @@
       "gender": "male",
       "given_name": "Åke",
       "id": "f11c3525-6b8f-4d3d-aaf2-007f1fd65a3b",
+      "identifiers": [
+        {
+          "identifier": "0596987397601",
+          "scheme": "riksdagen"
+        }
+      ],
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0596987397601_max.jpg",
       "images": [
         {
