@@ -6646,7 +6646,14 @@
         }
       ],
       "email": "Marama.Davidson@parliament.govt.nz",
+      "gender": "female",
       "id": "ed1ce5e7-6931-45bd-b38f-e138fb5fbac1",
+      "identifiers": [
+        {
+          "identifier": "Q20983272",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.nz//resource/en-NZ/51MPDavidsonMarama1/2e4bafb799095a3b394c35f265f01489a963f53c",
       "images": [
         {
@@ -6654,6 +6661,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Marama_Davidson"
+        },
         {
           "note": "facebook",
           "url": "https://www.facebook.com/marama.davidson"
@@ -6664,6 +6675,13 @@
         }
       ],
       "name": "Marama Davidson",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Marama Davidson",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Davidson, Marama",
       "sources": [
         {
@@ -6866,7 +6884,15 @@
         }
       ],
       "email": "maureen.pugh@parliament.govt.nz",
+      "gender": "female",
+      "given_name": "Maureen",
       "id": "801b541a-a9c1-479b-a4ee-c2e1a9152020",
+      "identifiers": [
+        {
+          "identifier": "Q17466674",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.nz//resource/en-NZ/51MPPughMaureen1/e1fdd2ea8be3e63b0c7fe080de95de5f69e42276",
       "images": [
         {
@@ -6874,6 +6900,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Maureen_Pugh"
+        },
         {
           "note": "facebook",
           "url": "https://www.facebook.com/wct.maureenpugh"
@@ -6884,6 +6914,23 @@
         }
       ],
       "name": "Maureen Pugh",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Maureen Pugh",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Maureen Pugh",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Maureen Pugh",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Pugh, Maureen",
       "sources": [
         {
