@@ -79,11 +79,20 @@
       "birth_date": "1968-09-15",
       "email": "tony.asumaa@lagtinget.ax",
       "gender": "male",
+      "given_name": "Tony",
       "id": "f4f995ae-126c-468f-8f26-deec1e26adc2",
       "identifiers": [
         {
           "identifier": "372",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/0n517cc",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q2114213",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.lagtinget.ax/files/asumaa_tony.jpg",
@@ -92,7 +101,99 @@
           "url": "http://www.lagtinget.ax/files/asumaa_tony.jpg"
         }
       ],
-      "name": "Asumaa Tony"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Tony_Asumaa"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Tony_Asumaa"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Tony_Asumaa"
+        },
+        {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/Tony_Asumaa"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Tony_Asumaa"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Tony_Asumaa"
+        }
+      ],
+      "name": "Asumaa Tony",
+      "other_names": [
+        {
+          "name": "Tony Asumaa",
+          "note": "alternate"
+        },
+        {
+          "lang": "da",
+          "name": "Tony Asumaa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Tony Asumaa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Tony Asumaa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "Tony Asumaa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "Tony Asumaa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Tony Asumaa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Tony Asumaa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Tony Asumaa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Tony Asumaa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Tony Asumaa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Tony Asumaa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Tony Asumaa",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1953-06-22",
@@ -1776,6 +1877,10 @@
         {
           "identifier": "91",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q5979988",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.lagtinget.ax/files/mattsson_jan_erik.jpg",
@@ -1784,7 +1889,24 @@
           "url": "http://www.lagtinget.ax/files/mattsson_jan_erik.jpg"
         }
       ],
-      "name": "Mattsson Jan-Erik"
+      "links": [
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Jan-Erik_Mattsson"
+        }
+      ],
+      "name": "Mattsson Jan-Erik",
+      "other_names": [
+        {
+          "name": "Jan-Erik Mattsson",
+          "note": "alternate"
+        },
+        {
+          "lang": "sv",
+          "name": "Jan-Erik Mattsson",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1955-05-14",
@@ -1809,11 +1931,16 @@
       "birth_date": "1973-06-09",
       "email": "mika.nordberg@lagtinget.ax",
       "gender": "male",
+      "given_name": "Mika",
       "id": "a41f0372-a0b2-422a-b9f5-a04698a8205e",
       "identifiers": [
         {
           "identifier": "90",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q11882586",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.lagtinget.ax/files/nordberg_mika.jpg",
@@ -1822,7 +1949,43 @@
           "url": "http://www.lagtinget.ax/files/nordberg_mika.jpg"
         }
       ],
-      "name": "Nordberg Mika"
+      "links": [
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Mika_Nordberg"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Mika_Nordberg"
+        }
+      ],
+      "name": "Nordberg Mika",
+      "other_names": [
+        {
+          "name": "Mika Nordberg",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Mika Nordberg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Mika Nordberg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Mika Nordberg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Mika Nordberg",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1957-11-19",
@@ -1942,11 +2105,16 @@
       "birth_date": "1964-10-12",
       "email": "mats.peramaa@lagtinget.ax",
       "gender": "male",
+      "given_name": "Mats",
       "id": "884b6d85-564f-4f43-9e37-d5306e241cc5",
       "identifiers": [
         {
           "identifier": "77",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q2269253",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.lagtinget.ax/files/peramaa_mats.jpg",
@@ -1955,7 +2123,38 @@
           "url": "http://www.lagtinget.ax/files/peramaa_mats.jpg"
         }
       ],
-      "name": "Perämaa Mats"
+      "links": [
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Mats_Perämaa"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Mats_Perämaa"
+        }
+      ],
+      "name": "Perämaa Mats",
+      "other_names": [
+        {
+          "name": "Mats Perämaa",
+          "note": "alternate"
+        },
+        {
+          "lang": "fr",
+          "name": "Mats Perämaa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Mats Perämaa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Mats Perämaa",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1965-01-17",
