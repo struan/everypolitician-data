@@ -90,6 +90,12 @@ namespace :merge_sources do
     REMAP[str.to_s] || str.to_sym
   end
 
+  @already_warned = Set.new
+  def warn_once(str)
+    warn str unless @already_warned.include? str
+    @already_warned << str
+  end
+
   # http://codereview.stackexchange.com/questions/84290/combining-csvs-using-ruby-to-match-headers
   def combine_sources
 
@@ -232,19 +238,47 @@ namespace :merge_sources do
               next
             end
             to_patch.each do |existing_row|
-              # For now, only set values that are not already set (or are set to 'unknown')
+              # In general, we take the first value we see — other than short dates
               # TODO: have a 'clobber' flag (or list of values to trust the latter source for)
-              incoming_row.keys.each do |h|
-                existing_row[h] = incoming_row[h] if existing_row[h].to_s.empty? || existing_row[h].to_s.downcase == 'unknown'
+              incoming_row.keys.reject { |h| h == :id }.each do |h|
+                next if incoming_row[h].to_s.empty?
+
+                # If we didn't have anything before, take the new version
+                if existing_row[h].to_s.empty? || existing_row[h].to_s.downcase == 'unknown'
+                  existing_row[h] = incoming_row[h] 
+                  next
+                end
+
+                # If we have the same as before, that's OK
+                next if existing_row[h] == incoming_row[h]
+
+                # Can't do much yet with these ones…
+                next if %i(given_name family_name).include? h
+
+                # TODO accept multiple values for :image, :website, etc.
+                next if %i(image website twitter facebook).include? h
+
+                # Accept more precise dates
+                if h.to_s.include?('date') 
+                  if incoming_row[h].include?(existing_row[h])
+                    existing_row[h] = incoming_row[h] 
+                    next
+                  end
+                  # Ignore less precise dates
+                  next if existing_row[h].include?(incoming_row[h])
+                end
+
+                # Store alternate names for `other_names`
+                if h == :name
+                  all_headers |= [:alternate_names] 
+                  existing_row[:alternate_names] ||= nil
+                  existing_row[:alternate_names] = [existing_row[:alternate_names], incoming_row[:name]].compact.join(";")
+                  next
+                end
+
+                warn_once "☁ Mismatch in #{h} for #{existing_row[:uuid]} (#{existing_row[h]}) vs #{incoming_row[h]} (for #{incoming_row[:id]})"
               end
 
-              # If the incoming data, however, has a different "name"
-              # field, attach that as an alternate in `other_names`
-              if (incoming_row[:name].to_s.downcase != existing_row[:name].to_s.downcase) && !incoming_row[:name].to_s.strip.empty? 
-                all_headers |= [:alternate_names] 
-                existing_row[:alternate_names] ||= nil
-                existing_row[:alternate_names] = [existing_row[:alternate_names], incoming_row[:name]].compact.join(";")
-              end
             end
           else
             warn "Can't match row to existing data: #{incoming_row.to_hash.reject { |k,v| v.to_s.empty? } }".red if merge_instructions[:report_missing]
