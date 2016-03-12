@@ -23,15 +23,71 @@
       ]
     },
     {
+      "birth_date": "1954",
+      "death_date": "2006-04-04",
       "email": "anthony.c.abela@parlament.mt",
+      "gender": "male",
+      "given_name": "Anthony",
       "id": "09ff6fb9-0562-4bfa-980e-4365c01c4a3b",
+      "identifiers": [
+        {
+          "identifier": "15500489d",
+          "scheme": "bnf"
+        },
+        {
+          "identifier": "292662085",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q4771963",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parlament.mt/file.aspx?f=54516",
       "images": [
         {
           "url": "http://www.parlament.mt/file.aspx?f=54516"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Anthony_Abela"
+        }
+      ],
       "name": "Anthony Abela",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Anthony Abela",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Anthony Abela",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Anthony Abela",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Anthony Abela",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Anthony Abela",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Anthony Abela",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.parlament.mt/abela-anthony"
@@ -372,12 +428,19 @@
       ]
     },
     {
+      "birth_date": "1952-11-14",
       "email": "charles.mangion@parlament.mt",
+      "gender": "male",
+      "given_name": "Charles",
       "id": "252760c5-af48-4b8f-88be-dbd220de891b",
       "identifiers": [
         {
           "identifier": "mangion-charles",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q5080619",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parlament.mt/file.aspx?f=47052",
@@ -386,7 +449,44 @@
           "url": "http://www.parlament.mt/file.aspx?f=47052"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Charles_Mangion"
+        },
+        {
+          "note": "Wikipedia (mt)",
+          "url": "https://mt.wikipedia.org/wiki/Charles_Mangion"
+        }
+      ],
       "name": "Charles Mangion",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Charles Mangion",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Charles Mangion",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Charles Mangion",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mt",
+          "name": "Charles Mangion",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Charles Mangion",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.parlament.mt/mangion-charles"
@@ -590,12 +690,35 @@
       ]
     },
     {
+      "birth_date": "1968",
       "email": "claudette.buttigieg@parlament.mt",
+      "gender": "female",
+      "given_name": "Claudette",
       "id": "472a91e9-a3f2-4c3e-8318-077f51c5fb48",
       "identifiers": [
         {
           "identifier": "buttigieg-claudette",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/01tt06s",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "135159431",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "nm1500122",
+          "scheme": "imdb"
+        },
+        {
+          "identifier": "79999958",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q440207",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parlament.mt/file.aspx?f=32377",
@@ -604,7 +727,70 @@
           "url": "http://www.parlament.mt/file.aspx?f=32377"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Claudette_Pace"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Claudette_Pace"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Claudette_Pace"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Claudette_Pace"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Claudette_Pace"
+        }
+      ],
       "name": "Claudette Buttigieg",
+      "other_names": [
+        {
+          "name": "Claudette Pace",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Claudette Pace",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Claudette Pace",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Claudette Pace",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Claudette Pace",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Claudette Pace",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Claudette Pace",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Claudette Pace",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.parlament.mt/buttigieg-claudette"
@@ -1015,6 +1201,11 @@
         },
         {
           "lang": "fr",
+          "name": "Evarist Bartolo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
           "name": "Evarist Bartolo",
           "note": "multilingual"
         },
@@ -2439,6 +2630,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "hu",
+          "name": "Louis Grech",
+          "note": "multilingual"
+        },
+        {
           "lang": "it",
           "name": "Louis Grech",
           "note": "multilingual"
@@ -3344,12 +3540,39 @@
       ]
     },
     {
+      "birth_date": "1963-09-15",
       "email": "stephen.a.spiteri@parlament.mt",
+      "gender": "male",
+      "given_name": "Stephen",
       "id": "ae2e2b4b-a907-476b-9799-0620e751423d",
       "identifiers": [
         {
+          "identifier": "14644126h",
+          "scheme": "bnf"
+        },
+        {
           "identifier": "spiteri-stephen",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "174092598",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "nb98044042",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "153428937",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "171172199",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q1323633",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parlament.mt/file.aspx?f=32671",
@@ -3358,7 +3581,33 @@
           "url": "http://www.parlament.mt/file.aspx?f=32671"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Stephen_C._Spiteri"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Stephen_C._Spiteri"
+        }
+      ],
       "name": "Stephen Spiteri",
+      "other_names": [
+        {
+          "name": "Stephen C. Spiteri",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Stephen C. Spiteri",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Stephen C. Spiteri",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.parlament.mt/spiteri-stephen"
