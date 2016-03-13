@@ -37,14 +37,15 @@ if too_many_uuid.any?
   end
 end
 
-if opts.delete?
-  warn "Rewriting #{filename}"
-  bad_wdids = Set.new too_many_uuid.keys 
-  bad_uuids = Set.new too_many_wdid.keys
-  header = data.headers.to_csv
-  clean = data.reject { |r| bad_uuids.include?(r[:uuid]) || bad_wdids.include?(r[:id]) }.map { |r| r.to_csv }.join
-  File.write(filename, header + clean)
-else
-  warn "use --delete to clean these up"
+if too_many_wdid.any? || too_many_uuid.any?
+  if opts.delete?
+    warn "Rewriting #{filename}"
+    bad_wdids = Set.new too_many_uuid.keys 
+    bad_uuids = Set.new too_many_wdid.keys
+    header = data.headers.to_csv
+    clean = data.reject { |r| bad_uuids.include?(r[:uuid]) || bad_wdids.include?(r[:id]) }.map { |r| r.to_csv }.join
+    File.write(filename, header + clean)
+  else
+    warn "use --delete to clean these up"
+  end
 end
-
