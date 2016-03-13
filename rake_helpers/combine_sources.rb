@@ -249,8 +249,8 @@ namespace :merge_sources do
                   next
                 end
 
-                # If we have the same as before, that's OK
-                next if existing_row[h] == incoming_row[h]
+                # If we have the same as before (case insensitively), that's OK
+                next if existing_row[h].downcase == incoming_row[h].downcase
 
                 # Can't do much yet with these ones…
                 next if %i(given_name family_name).include? h
