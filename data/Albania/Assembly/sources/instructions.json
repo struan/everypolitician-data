@@ -5,9 +5,24 @@
       "create": {
         "type": "morph",
         "scraper": "tmtmtmtm/albania-kuvendi-wikipedia",
-        "query": "SELECT *, REPLACE(LOWER(name),' ','_') AS id FROM data ORDER BY name"
+        "query": "SELECT *, REPLACE(LOWER(name),' ','_') AS id, NULL AS source FROM data WHERE term = '8' ORDER BY name"
       },
       "source": "https://en.wikipedia.org/",
+      "type": "membership"
+    },
+    {
+      "file": "morph/wikipedia-7.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/albania-kuvendi-wikipedia",
+        "query": "SELECT *, REPLACE(LOWER(name),' ','_') AS id, NULL AS source FROM data WHERE term = '7' ORDER BY name"
+      },
+      "source": "https://en.wikipedia.org/",
+      "merge": {
+        "incoming_field": "name",
+        "existing_field": "name",
+        "reconciliation_file": "reconciliation/wikipedia-7.csv"
+      },
       "type": "membership"
     },
     {
