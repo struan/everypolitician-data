@@ -2412,6 +2412,10 @@
         {
           "identifier": "554",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q16181001",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://dpr.go.id/doksigota/photo/554.jpg",
@@ -2420,7 +2424,29 @@
           "url": "http://dpr.go.id/doksigota/photo/554.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (id)",
+          "url": "https://id.wikipedia.org/wiki/Hermanto"
+        }
+      ],
       "name": "DR. HERMANTO, S.E., M.M.",
+      "other_names": [
+        {
+          "name": "Hermanto",
+          "note": "alternate"
+        },
+        {
+          "lang": "id",
+          "name": "Hermanto",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Hermanto",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://dpr.go.id/en/anggota"
@@ -2811,7 +2837,7 @@
           "scheme": "everypolitician_legacy"
         },
         {
-          "identifier": "Q16181001",
+          "identifier": "Q17410358",
           "scheme": "wikidata"
         }
       ],
@@ -2824,7 +2850,7 @@
       "links": [
         {
           "note": "Wikipedia (id)",
-          "url": "https://id.wikipedia.org/wiki/Hermanto"
+          "url": "https://id.wikipedia.org/wiki/Agus_Hermanto"
         }
       ],
       "name": "Dr. AGUS HERMANTO",
@@ -2834,17 +2860,8 @@
           "note": "alternate"
         },
         {
-          "name": "Hermanto",
-          "note": "alternate"
-        },
-        {
           "lang": "id",
-          "name": "Hermanto",
-          "note": "multilingual"
-        },
-        {
-          "lang": "it",
-          "name": "Hermanto",
+          "name": "Agus Hermanto",
           "note": "multilingual"
         }
       ],
@@ -6020,11 +6037,16 @@
       ]
     },
     {
+      "gender": "male",
       "id": "33ef94b8-3dfd-4307-86c5-ec8cb7c44022",
       "identifiers": [
         {
           "identifier": "335",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q18421386",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://dpr.go.id/doksigota/photo/335.jpg",
@@ -6033,7 +6055,24 @@
           "url": "http://dpr.go.id/doksigota/photo/335.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (id)",
+          "url": "https://id.wikipedia.org/wiki/Edhy_Prabowo"
+        }
+      ],
       "name": "EDHY PRABOWO, MM, MBA",
+      "other_names": [
+        {
+          "name": "Edhie Prabowo",
+          "note": "alternate"
+        },
+        {
+          "lang": "id",
+          "name": "Edhie Prabowo",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://dpr.go.id/en/anggota"
@@ -8689,11 +8728,16 @@
       ]
     },
     {
+      "gender": "male",
       "id": "6495df8c-af7f-49cf-a33a-8bce07dfbb75",
       "identifiers": [
         {
           "identifier": "544",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q12499371",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://dpr.go.id/doksigota/photo/544.jpg",
@@ -8702,7 +8746,24 @@
           "url": "http://dpr.go.id/doksigota/photo/544.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (id)",
+          "url": "https://id.wikipedia.org/wiki/Muhammad_Nasir_Djamil"
+        }
+      ],
       "name": "H. MUHAMMAD NASIR DJAMIL, S.Ag., M.Si.",
+      "other_names": [
+        {
+          "name": "Muhammad Nasir Djamil",
+          "note": "alternate"
+        },
+        {
+          "lang": "id",
+          "name": "Muhammad Nasir Djamil",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://dpr.go.id/en/anggota"
@@ -15032,10 +15093,6 @@
       "other_names": [
         {
           "name": "Muhammad Nasir",
-          "note": "alternate"
-        },
-        {
-          "name": "Muhammad Nasir Djamil",
           "note": "alternate"
         },
         {
