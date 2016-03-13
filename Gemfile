@@ -16,6 +16,7 @@ gem 'unicode_utils'
 gem 'wikisnakker', git: 'https://github.com/everypolitician/wikisnakker', branch: 'master'
 gem 'everypolitician-popolo', git: 'https://github.com/everypolitician/everypolitician-popolo', branch: 'master'
 gem 'json5'
+gem 'slop', '~> 3.6.0' # tied to pry version
 
 group :test do
   gem 'minitest'
