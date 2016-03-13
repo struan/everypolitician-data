@@ -415,40 +415,40 @@
           "scheme": "everypolitician_legacy"
         },
         {
-          "identifier": "Q4705133",
+          "identifier": "Q2829473",
           "scheme": "wikidata"
         }
       ],
       "links": [
         {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Alaaeddine_Terro"
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/علاء_الدين_ترو"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Alaeddine_Terro"
         }
       ],
       "name": "Alaeddine Terro",
       "other_names": [
         {
-          "name": "Alaaeddine Terro",
-          "note": "alternate"
-        },
-        {
-          "lang": "de",
-          "name": "Alaaeddine Terro",
+          "lang": "ar",
+          "name": "علاء الدين ترو",
           "note": "multilingual"
         },
         {
           "lang": "en",
-          "name": "Alaaeddine Terro",
+          "name": "Alaeddine Terro",
           "note": "multilingual"
         },
         {
           "lang": "fr",
-          "name": "Alaaeddine Terro",
+          "name": "Alaeddine Terro",
           "note": "multilingual"
         },
         {
-          "lang": "it",
-          "name": "Alaaeddine Terro",
+          "lang": "nl",
+          "name": "Alaeddine Terro",
           "note": "multilingual"
         }
       ],
@@ -537,9 +537,7 @@
       ]
     },
     {
-      "birth_date": "1930-05-14",
-      "death_date": "1957-10-09",
-      "family_name": "Ammar",
+      "birth_date": "1956",
       "gender": "male",
       "given_name": "Ali",
       "id": "98d3c7b0-8925-4549-ad1c-fcb6c73920ad",
@@ -549,86 +547,40 @@
           "scheme": "everypolitician_legacy"
         },
         {
-          "identifier": "/m/08qtt9",
-          "scheme": "freebase"
-        },
-        {
-          "identifier": "Q2429767",
+          "identifier": "Q12228154",
           "scheme": "wikidata"
-        }
-      ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/Ali_la_pointe.jpg",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Ali_la_pointe.jpg"
         }
       ],
       "links": [
         {
           "note": "Wikipedia (ar)",
-          "url": "https://ar.wikipedia.org/wiki/علي_لابوانت"
-        },
-        {
-          "note": "Wikipedia (br)",
-          "url": "https://br.wikipedia.org/wiki/Ali_La_Pointe"
-        },
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Ali_La_Pointe"
+          "url": "https://ar.wikipedia.org/wiki/علي_عمار_(سياسي_لبناني)"
         },
         {
           "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Ali_la_Pointe"
-        },
-        {
-          "note": "Wikipedia (it)",
-          "url": "https://it.wikipedia.org/wiki/Ali_Ammar"
+          "url": "https://fr.wikipedia.org/wiki/Ali_Ammar"
         }
       ],
       "name": "Ali Ammar",
       "other_names": [
         {
-          "name": "Ali La Pointe",
-          "note": "alternate"
-        },
-        {
           "lang": "ar",
-          "name": "علي لابوانت",
-          "note": "multilingual"
-        },
-        {
-          "lang": "br",
-          "name": "Ali La Pointe",
+          "name": "علي عمار",
           "note": "multilingual"
         },
         {
           "lang": "de",
-          "name": "Ali La Pointe",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Ali La Pointe",
-          "note": "multilingual"
-        },
-        {
-          "lang": "es",
-          "name": "Ali La Pointe",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Ali la Pointe",
-          "note": "multilingual"
-        },
-        {
-          "lang": "it",
           "name": "Ali Ammar",
           "note": "multilingual"
         },
         {
-          "lang": "nl",
-          "name": "Ali La Pointe",
+          "lang": "en",
+          "name": "Ali Ammar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Ali Ammar",
           "note": "multilingual"
         }
       ],
@@ -4670,14 +4622,62 @@
       ]
     },
     {
+      "birth_date": "1944",
+      "gender": "male",
+      "given_name": "Mohammad",
       "id": "52cc3c32-3c35-40bc-9c34-c73264956494",
       "identifiers": [
         {
           "identifier": "mohammad_kabbara",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q3318932",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/محمد_كبارة"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Mohammad_Kabbara"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Mohammad_Kabbara"
         }
       ],
       "name": "Mohammad Kabbara",
+      "other_names": [
+        {
+          "lang": "ar",
+          "name": "محمد كبارة",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Mohammad Kabbara",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Mohammad Kabbara",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Mohammad Kabbara",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Mohammad Kabbara",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/Members_of_the_2009%E2%80%9317_Lebanese_Parliament"
@@ -5067,14 +5067,51 @@
       ]
     },
     {
+      "birth_date": "1955",
+      "gender": "male",
       "id": "5a8c9d07-d8b8-47e2-ba17-2957cdf06f25",
       "identifiers": [
         {
           "identifier": "nabil_de_freije",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q3334713",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/نبيل_دو_فريج"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Nabil_de_Freige"
         }
       ],
       "name": "Nabil De Freije",
+      "other_names": [
+        {
+          "name": "Nabil de Freige",
+          "note": "alternate"
+        },
+        {
+          "lang": "ar",
+          "name": "نبيل دو فريج",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Nabil de Freige",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Nabil de Freige",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/Members_of_the_2009%E2%80%9317_Lebanese_Parliament"
@@ -5830,14 +5867,62 @@
       ]
     },
     {
+      "birth_date": "1943",
+      "gender": "male",
+      "given_name": "Nicolas",
       "id": "d5ab2cad-2510-4e5e-8d9c-d8a0e899e22d",
       "identifiers": [
         {
           "identifier": "nicolas_fattouche",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q3340312",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/نقولا_فتوش"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Nicolas_Fattouche"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Nicolas_Fattusz"
         }
       ],
       "name": "Nicolas Fattouche",
+      "other_names": [
+        {
+          "lang": "ar",
+          "name": "نقولا فتوش",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Nicolas Fattouche",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Nicolas Fattouche",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Nicolas Fattouche",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Nicolas Fattusz",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/Members_of_the_2009%E2%80%9317_Lebanese_Parliament"
