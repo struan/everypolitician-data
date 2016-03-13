@@ -16,6 +16,10 @@ def csv_load(filename)
 end
 
 filename = ARGV.first || "sources/reconciliation/wikidata.csv" or abort "Usage: #$0 <reconciliation file>"
+unless File.exist? filename
+  warn "No such file: #{filename} in #{Dir.pwd}"
+  exit # don't error, so we can run this in a loop
+end
 
 data = csv_load(filename)
 by_wdid = data.group_by { |r| r[:id] }
