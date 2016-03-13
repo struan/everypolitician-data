@@ -1661,7 +1661,7 @@
           "scheme": "everypolitician_legacy"
         },
         {
-          "identifier": "Q881008",
+          "identifier": "Q16765311",
           "scheme": "wikidata"
         }
       ],
@@ -1672,10 +1672,6 @@
         }
       ],
       "links": [
-        {
-          "note": "Wikipedia (commons)",
-          "url": "https://commons.wikipedia.org/wiki/Category:Blade_Nzimande"
-        },
         {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Blade_Nzimande"
@@ -1696,15 +1692,6 @@
           "note": "alternate"
         },
         {
-          "name": "Blade Nzimande",
-          "note": "alternate"
-        },
-        {
-          "lang": "da",
-          "name": "Blade Nzimande",
-          "note": "multilingual"
-        },
-        {
           "lang": "de",
           "name": "Blade Nzimande",
           "note": "multilingual"
@@ -1715,37 +1702,12 @@
           "note": "multilingual"
         },
         {
-          "lang": "es",
-          "name": "Blade Nzimande",
-          "note": "multilingual"
-        },
-        {
           "lang": "fr",
           "name": "Blade Nzimande",
           "note": "multilingual"
         },
         {
-          "lang": "it",
-          "name": "Blade Nzimande",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nb",
-          "name": "Blade Nzimande",
-          "note": "multilingual"
-        },
-        {
           "lang": "nl",
-          "name": "Blade Nzimande",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nn",
-          "name": "Blade Nzimande",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sv",
           "name": "Blade Nzimande",
           "note": "multilingual"
         }
@@ -4845,7 +4807,7 @@
           "scheme": "everypolitician_legacy"
         },
         {
-          "identifier": "Q5615229",
+          "identifier": "Q16765235",
           "scheme": "wikidata"
         }
       ],
@@ -8682,12 +8644,17 @@
     },
     {
       "email": "andiswa.kamba@deaet.ecape.gov.za",
+      "gender": "male",
       "honorific_prefix": "Mr",
       "id": "c24c69fc-d584-44a3-a912-f72e24fd9cd5",
       "identifiers": [
         {
           "identifier": "mcebisi-jonas",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q22278431",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.pa.org.za/media_root/cache/be/c2/bec244b3383d04f080eaedd02da388ce.jpg",
@@ -8696,7 +8663,20 @@
           "url": "http://www.pa.org.za/media_root/cache/be/c2/bec244b3383d04f080eaedd02da388ce.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Mcebisi_Jonas"
+        }
+      ],
       "name": "Mcebisi Jonas",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Mcebisi Jonas",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.pa.org.za/person/mcebisi-jonas/"
