@@ -11,12 +11,7 @@
       "type": "membership"
     },
     {
-      "file": "morph/terms.csv",
-      "create": {
-        "type": "morph",
-        "scraper": "tmtmtmtm/guatemala-congreso",
-        "query": "SELECT * FROM terms"
-      },
+      "file": "manual/terms.csv",
       "type": "terms"
     },
     {
