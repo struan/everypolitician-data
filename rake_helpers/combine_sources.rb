@@ -96,7 +96,7 @@ namespace :merge_sources do
   end
 
   def output_warnings(header)
-    puts ['', header, @warnings.to_a, '', ''].join("\n")
+    puts ['', header, @warnings.to_a, '', ''].join("\n") if @warnings.any?
     @warnings = Set.new
   end
 

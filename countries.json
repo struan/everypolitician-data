@@ -4760,12 +4760,20 @@
         "slug": "Council",
         "sources_directory": "data/Kyrgyzstan/Council/sources",
         "popolo": "data/Kyrgyzstan/Council/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e74bada/data/Kyrgyzstan/Council/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/4d3547b/data/Kyrgyzstan/Council/ep-popolo-v1.0.json",
         "names": "data/Kyrgyzstan/Council/names.csv",
-        "lastmod": "1457180665",
-        "person_count": 120,
-        "sha": "e74bada",
+        "lastmod": "1457983986",
+        "person_count": 207,
+        "sha": "4d3547b",
         "legislative_periods": [
+          {
+            "id": "term/6",
+            "name": "6th Convocation",
+            "start_date": "2015-10-28",
+            "slug": "6",
+            "csv": "data/Kyrgyzstan/Council/term-6.csv",
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/4d3547b/data/Kyrgyzstan/Council/term-6.csv"
+          },
           {
             "end_date": "2015-10-15",
             "id": "term/5",
@@ -4773,7 +4781,7 @@
             "start_date": "2010",
             "slug": "5",
             "csv": "data/Kyrgyzstan/Council/term-5.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e74bada/data/Kyrgyzstan/Council/term-5.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/4d3547b/data/Kyrgyzstan/Council/term-5.csv"
           }
         ]
       }
@@ -5042,11 +5050,11 @@
         "slug": "Chamber",
         "sources_directory": "data/Luxembourg/Chamber/sources",
         "popolo": "data/Luxembourg/Chamber/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/9a98606/data/Luxembourg/Chamber/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e137f34/data/Luxembourg/Chamber/ep-popolo-v1.0.json",
         "names": "data/Luxembourg/Chamber/names.csv",
         "lastmod": "1457953145",
         "person_count": 60,
-        "sha": "9a98606",
+        "sha": "e137f34",
         "legislative_periods": [
           {
             "id": "term/2013",
@@ -5054,7 +5062,7 @@
             "start_date": "2013-11-13",
             "slug": "2013",
             "csv": "data/Luxembourg/Chamber/term-2013.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/9a98606/data/Luxembourg/Chamber/term-2013.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e137f34/data/Luxembourg/Chamber/term-2013.csv"
           }
         ]
       }
@@ -7281,11 +7289,11 @@
         "slug": "Assembly",
         "sources_directory": "data/Saint_Kitts_and_Nevis/Assembly/sources",
         "popolo": "data/Saint_Kitts_and_Nevis/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/0102fe0/data/Saint_Kitts_and_Nevis/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a854f6d/data/Saint_Kitts_and_Nevis/Assembly/ep-popolo-v1.0.json",
         "names": "data/Saint_Kitts_and_Nevis/Assembly/names.csv",
         "lastmod": "1457962354",
         "person_count": 30,
-        "sha": "0102fe0",
+        "sha": "a854f6d",
         "legislative_periods": [
           {
             "id": "term/2015",
@@ -7293,7 +7301,7 @@
             "start_date": "2015",
             "slug": "2015",
             "csv": "data/Saint_Kitts_and_Nevis/Assembly/term-2015.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/0102fe0/data/Saint_Kitts_and_Nevis/Assembly/term-2015.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a854f6d/data/Saint_Kitts_and_Nevis/Assembly/term-2015.csv"
           },
           {
             "end_date": "2015",
@@ -7302,7 +7310,7 @@
             "start_date": "2010",
             "slug": "2010",
             "csv": "data/Saint_Kitts_and_Nevis/Assembly/term-2010.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/0102fe0/data/Saint_Kitts_and_Nevis/Assembly/term-2010.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a854f6d/data/Saint_Kitts_and_Nevis/Assembly/term-2010.csv"
           },
           {
             "end_date": "2010",
@@ -7311,7 +7319,7 @@
             "start_date": "2004",
             "slug": "2004",
             "csv": "data/Saint_Kitts_and_Nevis/Assembly/term-2004.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/0102fe0/data/Saint_Kitts_and_Nevis/Assembly/term-2004.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a854f6d/data/Saint_Kitts_and_Nevis/Assembly/term-2004.csv"
           },
           {
             "end_date": "2004",
@@ -7320,7 +7328,7 @@
             "start_date": "2000",
             "slug": "2000",
             "csv": "data/Saint_Kitts_and_Nevis/Assembly/term-2000.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/0102fe0/data/Saint_Kitts_and_Nevis/Assembly/term-2000.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a854f6d/data/Saint_Kitts_and_Nevis/Assembly/term-2000.csv"
           },
           {
             "end_date": "2000",
@@ -7329,7 +7337,7 @@
             "start_date": "1995",
             "slug": "1995",
             "csv": "data/Saint_Kitts_and_Nevis/Assembly/term-1995.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/0102fe0/data/Saint_Kitts_and_Nevis/Assembly/term-1995.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a854f6d/data/Saint_Kitts_and_Nevis/Assembly/term-1995.csv"
           },
           {
             "end_date": "1995",
@@ -7338,7 +7346,7 @@
             "start_date": "1993",
             "slug": "1993",
             "csv": "data/Saint_Kitts_and_Nevis/Assembly/term-1993.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/0102fe0/data/Saint_Kitts_and_Nevis/Assembly/term-1993.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a854f6d/data/Saint_Kitts_and_Nevis/Assembly/term-1993.csv"
           },
           {
             "end_date": "1993",
@@ -7347,7 +7355,7 @@
             "start_date": "1989",
             "slug": "1989",
             "csv": "data/Saint_Kitts_and_Nevis/Assembly/term-1989.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/0102fe0/data/Saint_Kitts_and_Nevis/Assembly/term-1989.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a854f6d/data/Saint_Kitts_and_Nevis/Assembly/term-1989.csv"
           },
           {
             "end_date": "1989",
@@ -7356,7 +7364,7 @@
             "start_date": "1984",
             "slug": "1984",
             "csv": "data/Saint_Kitts_and_Nevis/Assembly/term-1984.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/0102fe0/data/Saint_Kitts_and_Nevis/Assembly/term-1984.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a854f6d/data/Saint_Kitts_and_Nevis/Assembly/term-1984.csv"
           }
         ]
       }

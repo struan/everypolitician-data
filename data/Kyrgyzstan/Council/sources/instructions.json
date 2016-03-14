@@ -1,13 +1,28 @@
 {
   "sources": [
     {
-      "file": "morph/data.csv",
+      "file": "morph/official5.csv",
       "create": {
         "type": "morph",
         "scraper": "tmtmtmtm/kyrgyzstan-deputies",
-        "query": "SELECT id, name, name_ru AS name__ru, party, party_ru AS party__ru, image, 5 AS term, source FROM data"
+        "query": "SELECT id, name, name_ru AS name__ru, party, party_ru AS party__ru, image, term, source FROM data WHERE term = '5'"
       },
       "source": "http://www.kenesh.kg",
+      "type": "membership"
+    },
+    {
+      "file": "morph/official6.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/kyrgyzstan-deputies",
+        "query": "SELECT id, name, name_ru AS name__ru, party, party_ru AS party__ru, image, term, source FROM data WHERE term = '6'"
+      },
+      "source": "http://www.kenesh.kg",
+      "merge": {
+        "incoming_field": "name",
+        "existing_field": "name",
+        "reconciliation_file": "reconciliation/official6.csv"
+      },
       "type": "membership"
     },
     {
