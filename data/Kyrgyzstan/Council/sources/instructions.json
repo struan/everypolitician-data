@@ -1,11 +1,11 @@
 {
   "sources": [
     {
-      "file": "morph/data.csv",
+      "file": "morph/official5.csv",
       "create": {
         "type": "morph",
         "scraper": "tmtmtmtm/kyrgyzstan-deputies",
-        "query": "SELECT id, name, name_ru AS name__ru, party, party_ru AS party__ru, image, term, source FROM data"
+        "query": "SELECT id, name, name_ru AS name__ru, party, party_ru AS party__ru, image, term, source FROM data WHERE term = '5'"
       },
       "source": "http://www.kenesh.kg",
       "type": "membership"
