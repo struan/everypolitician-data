@@ -148,7 +148,7 @@ namespace :transform do
     remap = Hash[GENDER_MAP.map { |k, vs| vs.map { |v| [v, k] } }.flatten(1)]
     @json[:persons].each do |p|
       next if p[:gender].to_s.empty?
-      p[:gender] = remap[ p[:gender].downcase.strip ] || raise("Unknown gender: #{p[:gender]}")
+      p[:gender] = remap[ p[:gender].downcase.strip ] || warn("Unknown gender: #{p[:gender]}")
     end
   end
 
