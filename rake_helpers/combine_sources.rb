@@ -90,10 +90,14 @@ namespace :merge_sources do
     REMAP[str.to_s] || str.to_sym
   end
 
-  @already_warned = Set.new
+  @warnings = Set.new
   def warn_once(str)
-    warn str unless @already_warned.include? str
-    @already_warned << str
+    @warnings << str
+  end
+
+  def output_warnings(header)
+    puts ['', header, @warnings.to_a, '', ''].join("\n")
+    @warnings = Set.new
   end
 
   # http://codereview.stackexchange.com/questions/84290/combining-csvs-using-ruby-to-match-headers
@@ -288,7 +292,9 @@ namespace :merge_sources do
             unmatched << incoming_row
           end
         end
+
         puts "* %d of %d unmatched".magenta % [unmatched.count, incoming_data.count]
+        output_warnings("Data Mismatches")
         incoming_data = unmatched
       end
     end
