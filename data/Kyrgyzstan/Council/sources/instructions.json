@@ -5,7 +5,7 @@
       "create": {
         "type": "morph",
         "scraper": "tmtmtmtm/kyrgyzstan-deputies",
-        "query": "SELECT id, name, name_ru AS name__ru, party, party_ru AS party__ru, image, 5 AS term, source FROM data"
+        "query": "SELECT id, name, name_ru AS name__ru, party, party_ru AS party__ru, image, term, source FROM data"
       },
       "source": "http://www.kenesh.kg",
       "type": "membership"
