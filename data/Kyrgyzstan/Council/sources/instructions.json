@@ -11,6 +11,21 @@
       "type": "membership"
     },
     {
+      "file": "morph/official6.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/kyrgyzstan-deputies",
+        "query": "SELECT id, name, name_ru AS name__ru, party, party_ru AS party__ru, image, term, source FROM data WHERE term = '6'"
+      },
+      "source": "http://www.kenesh.kg",
+      "merge": {
+        "incoming_field": "name",
+        "existing_field": "name",
+        "reconciliation_file": "reconciliation/official6.csv"
+      },
+      "type": "membership"
+    },
+    {
       "file": "morph/wikidata.csv",
       "create": {
         "type": "morph",
