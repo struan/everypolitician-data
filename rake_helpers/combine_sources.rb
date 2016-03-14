@@ -253,7 +253,7 @@ namespace :merge_sources do
                 next if existing_row[h].downcase == incoming_row[h].downcase
 
                 # Can't do much yet with these ones…
-                next if %i(given_name family_name).include? h
+                next if %i(source given_name family_name).include? h
 
                 # TODO accept multiple values for :image, :website, etc.
                 next if %i(image website twitter facebook).include? h
