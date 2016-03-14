@@ -249,14 +249,17 @@ namespace :merge_sources do
                   next
                 end
 
-                # If we have the same as before (case insensitively), that's OK
-                next if existing_row[h].downcase == incoming_row[h].downcase
+                # These are _expected_ to be different on a term-by-term basis
+                next if %i(term group area).include? h
 
                 # Can't do much yet with these ones…
                 next if %i(source given_name family_name).include? h
 
                 # TODO accept multiple values for :image, :website, etc.
                 next if %i(image website twitter facebook).include? h
+
+                # If we have the same as before (case insensitively), that's OK
+                next if existing_row[h].downcase == incoming_row[h].downcase
 
                 # Accept more precise dates
                 if h.to_s.include?('date') 
