@@ -1,15 +1,45 @@
 {
   "sources": [
     {
-      "file": "morph/data.csv",
+      "file": "morph/official2011.csv",
       "create": {
         "type": "morph",
         "scraper": "tmtmtmtm/venezuela-asamblea",
-        "query": "SELECT *, 2011 AS term FROM data"
+        "query": "SELECT *, 2011 AS term FROM data WHERE term = 2015 ORDER BY id"
       },
       "source": "http://asambleanacional.gob.ve/",
       "type": "membership"
     },
+    {
+      "file": "morph/official2016.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/venezuela-asamblea",
+        "query": "SELECT * FROM data WHERE term = 2016 ORDER BY id"
+      },
+      "source": "http://asambleanacional.gob.ve/",
+      "merge": {
+        "incoming_field": "name",
+        "existing_field": "name",
+        "reconciliation_file": "reconciliation/official2016.csv"
+      },
+      "type": "membership"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/venezuela-asamblea-wikidata",
+        "query": "SELECT * FROM data ORDER BY id"
+      },
+      "source": "http://wikidata.org/",
+      "type": "wikidata",
+      "merge": {
+        "incoming_field": "name",
+        "existing_field": "name",
+        "reconciliation_file": "reconciliation/wikidata.csv"
+      }
+    },    
     {
       "file": "manual/terms.csv",
       "type": "term"
