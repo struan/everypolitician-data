@@ -254,7 +254,7 @@ namespace :merge_sources do
                 end
 
                 # These are _expected_ to be different on a term-by-term basis
-                next if %i(term group area).include? h
+                next if %i(term group group_id area area_id).include? h
 
                 # Can't do much yet with these ones…
                 next if %i(source given_name family_name).include? h
