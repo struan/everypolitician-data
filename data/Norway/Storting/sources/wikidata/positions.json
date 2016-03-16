@@ -595,6 +595,10 @@
     {
       "id": "Q9045502",
       "label": "member of the Parliament of Norway"
+    },
+    {
+      "id": "Q30185",
+      "label": "mayor"
     }
   ],
   "Q488369": [
@@ -2935,7 +2939,11 @@
   "Q457072": [
     {
       "id": "Q9045502",
-      "label": "member of the Parliament of Norway"
+      "label": "member of the Parliament of Norway",
+      "qualifiers": {
+        "P580": "1997",
+        "P582": "2009"
+      }
     },
     {
       "id": "Q19185575",
