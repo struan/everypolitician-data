@@ -1382,7 +1382,7 @@
         },
         {
           "note": "facebook",
-          "url": "deputy.alekseev"
+          "url": "https://facebook.com/deputy.alekseev"
         }
       ],
       "name": "Алєксєєв Сергій Олегович",
@@ -1962,6 +1962,11 @@
         },
         {
           "lang": "fr",
+          "name": "Valery Babenko",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
           "name": "Valery Babenko",
           "note": "multilingual"
         },
@@ -3110,6 +3115,10 @@
           "url": "https://en.wikipedia.org/wiki/Oleh_Bereziuk"
         },
         {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Ołeh_Bereziuk"
+        },
+        {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Березюк,_Олег_Романович"
         },
@@ -3540,7 +3549,7 @@
         },
         {
           "note": "Wikipedia (de)",
-          "url": "https://de.wikipedia.org/wiki/Jurij_Bojko"
+          "url": "https://de.wikipedia.org/wiki/Jurij_Boiko"
         },
         {
           "note": "Wikipedia (en)",
@@ -6070,7 +6079,7 @@
         },
         {
           "note": "facebook",
-          "url": "alexeygoncharenko"
+          "url": "https://facebook.com/alexeygoncharenko"
         }
       ],
       "name": "Гончаренко Олексій Олексійович",
@@ -14025,7 +14034,7 @@
         },
         {
           "note": "facebook",
-          "url": "leshchenko.ukraine"
+          "url": "https://facebook.com/leshchenko.ukraine"
         },
         {
           "note": "twitter",
@@ -15241,6 +15250,11 @@
         },
         {
           "lang": "fr",
+          "name": "Oleh Lyashko",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
           "name": "Oleh Lyashko",
           "note": "multilingual"
         },
@@ -17485,7 +17499,7 @@
         },
         {
           "note": "facebook",
-          "url": "Mustafanayyem"
+          "url": "https://facebook.com/Mustafanayyem"
         },
         {
           "note": "twitter",
@@ -22124,6 +22138,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "hu",
+          "name": "Nadiya Savchenko",
+          "note": "multilingual"
+        },
+        {
           "lang": "hy",
           "name": "Նադեժդա Սավչենկո",
           "note": "multilingual"
@@ -23119,7 +23138,7 @@
         },
         {
           "note": "facebook",
-          "url": "irina.sysoenko"
+          "url": "https://facebook.com/irina.sysoenko"
         }
       ],
       "name": "Сисоєнко Ірина Володимирівна",
@@ -25113,7 +25132,7 @@
         },
         {
           "note": "facebook",
-          "url": "Tymoshenko.UA"
+          "url": "https://facebook.com/Tymoshenko.UA"
         },
         {
           "note": "twitter",
@@ -26219,7 +26238,7 @@
         },
         {
           "note": "facebook",
-          "url": "oleksandr.turchynov"
+          "url": "https://facebook.com/oleksandr.turchynov"
         },
         {
           "note": "twitter",
@@ -27136,7 +27155,7 @@
         },
         {
           "note": "facebook",
-          "url": "borys.filatov"
+          "url": "https://facebook.com/borys.filatov"
         }
       ],
       "name": "Філатов Борис Альбертович",
@@ -29309,6 +29328,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "hu",
+          "name": "Dmytro Yarosh",
+          "note": "multilingual"
+        },
+        {
           "lang": "it",
           "name": "Dmytro Yarosh",
           "note": "multilingual"
@@ -29685,7 +29709,7 @@
         },
         {
           "note": "facebook",
-          "url": "arseniy.yatzenyuk"
+          "url": "https://facebook.com/arseniy.yatzenyuk"
         }
       ],
       "name": "Яценюк Арсеній Петрович",
@@ -32965,11 +32989,21 @@
     },
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
+      "end_date": "2016-03-15",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "7c02c9ab-cd68-4be5-848a-ed951ee5bb68",
       "role": "member"
+    },
+    {
+      "area_id": "area/Загальнодержавному_багатомандатному_округу",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/Позафракційні",
+      "organization_id": "legislature",
+      "person_id": "7c02c9ab-cd68-4be5-848a-ed951ee5bb68",
+      "role": "member",
+      "start_date": "2016-03-16"
     },
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
