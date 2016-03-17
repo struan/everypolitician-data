@@ -2371,6 +2371,35 @@
     ]
   },
   {
+    "name": "Egypt",
+    "country": "Egypt",
+    "code": "EG",
+    "slug": "Egypt",
+    "legislatures": [
+      {
+        "name": "Parliament",
+        "slug": "Parliament",
+        "sources_directory": "data/Egypt/Parliament/sources",
+        "popolo": "data/Egypt/Parliament/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/092ea83/data/Egypt/Parliament/ep-popolo-v1.0.json",
+        "names": "data/Egypt/Parliament/names.csv",
+        "lastmod": "1458214658",
+        "person_count": 596,
+        "sha": "092ea83",
+        "legislative_periods": [
+          {
+            "id": "term/2015",
+            "name": "2015–",
+            "start_date": "2015",
+            "slug": "2015",
+            "csv": "data/Egypt/Parliament/term-2015.csv",
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/092ea83/data/Egypt/Parliament/term-2015.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "El Salvador",
     "country": "El Salvador",
     "code": "SV",
