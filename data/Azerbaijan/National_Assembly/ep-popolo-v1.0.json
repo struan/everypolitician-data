@@ -184,8 +184,38 @@
       ]
     },
     {
+      "birth_date": "1951-11-03",
+      "gender": "male",
       "id": "799f7775-3121-4664-a503-3cc658c2d718",
-      "name": "Araz Əlizadə"
+      "identifiers": [
+        {
+          "identifier": "Q4062335",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (az)",
+          "url": "https://az.wikipedia.org/wiki/Araz_Əlizadə"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Ализаде,_Араз_Мамед-Мубариз_оглы"
+        }
+      ],
+      "name": "Araz Əlizadə",
+      "other_names": [
+        {
+          "lang": "az",
+          "name": "Araz Əlizadə",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Ализаде, Араз Мамед-Мубариз оглы",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -1189,8 +1219,38 @@
       ]
     },
     {
+      "birth_date": "1968-04-30",
+      "gender": "male",
       "id": "dd9e5956-256c-46b4-bc92-000b322b5bd3",
-      "name": "Elman Nəsirov"
+      "identifiers": [
+        {
+          "identifier": "Q18427673",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (az)",
+          "url": "https://az.wikipedia.org/wiki/Elman_Nəsirov"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Насиров,_Эльман_Худам_оглы"
+        }
+      ],
+      "name": "Elman Nəsirov",
+      "other_names": [
+        {
+          "lang": "az",
+          "name": "Elman Nəsirov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Эльман Насиров",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "female",
@@ -1984,8 +2044,38 @@
       ]
     },
     {
+      "birth_date": "1975-10-27",
       "id": "fea3fa38-7655-46fa-8344-7281f85cf1df",
-      "name": "Mahir Abbaszadə"
+      "identifiers": [
+        {
+          "identifier": "Q20560414",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/22/Mahir_Abbaszadə.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Mahir_Abbaszadə.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (az)",
+          "url": "https://az.wikipedia.org/wiki/Mahir_Abbaszadə"
+        },
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Mahir_Abbaszadə"
+        }
+      ],
+      "name": "Mahir Abbaszadə",
+      "other_names": [
+        {
+          "lang": "az",
+          "name": "Mahir Abbaszadə",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "36df899d-cac0-4023-b584-8030b52e7211",
@@ -2498,7 +2588,26 @@
     },
     {
       "id": "e829fd85-81bf-4b0b-98c3-2137209bcc3e",
-      "name": "Naqif Həmzəyev"
+      "identifiers": [
+        {
+          "identifier": "Q16371462",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (az)",
+          "url": "https://az.wikipedia.org/wiki/Naqif_Həmzəyev"
+        }
+      ],
+      "name": "Naqif Həmzəyev",
+      "other_names": [
+        {
+          "lang": "az",
+          "name": "Naqif Həmzəyev",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1960",
@@ -2641,8 +2750,28 @@
       ]
     },
     {
+      "birth_date": "1961-02-11",
       "id": "2450f2c9-cb26-4959-bb7f-5ed6a0234c37",
-      "name": "Nəsib Məhəməliyev"
+      "identifiers": [
+        {
+          "identifier": "Q16372072",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (az)",
+          "url": "https://az.wikipedia.org/wiki/Nəsib_Məhəməliyev"
+        }
+      ],
+      "name": "Nəsib Məhəməliyev",
+      "other_names": [
+        {
+          "lang": "az",
+          "name": "Nəsib Məhəməliyev",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1955-01-03",
@@ -3203,6 +3332,8 @@
       ]
     },
     {
+      "birth_date": "1969-10-15",
+      "death_date": "1999-01-08",
       "id": "831b83b1-2797-4311-8dae-e12e9289d9c8",
       "identifiers": [
         {
@@ -3210,14 +3341,14 @@
           "scheme": "everypolitician_legacy"
         },
         {
-          "identifier": "Q19715508",
+          "identifier": "Q16373370",
           "scheme": "wikidata"
         }
       ],
       "links": [
         {
           "note": "Wikipedia (az)",
-          "url": "https://az.wikipedia.org/wiki/Rövşən_Rzayev_(millət_vəkili)"
+          "url": "https://az.wikipedia.org/wiki/Rövşən_Rzayev"
         }
       ],
       "name": "Rövşən Rzayev",
@@ -3380,7 +3511,36 @@
     },
     {
       "id": "53409ee1-991f-4a3c-8b55-b38d71b957a3",
-      "name": "Rəşad Mahmudov"
+      "identifiers": [
+        {
+          "identifier": "Q12845295",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/ae/R.mahmudov.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/R.mahmudov.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (az)",
+          "url": "https://az.wikipedia.org/wiki/Rəşad_Mahmudov"
+        },
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Rəşad_Mahmudov"
+        }
+      ],
+      "name": "Rəşad Mahmudov",
+      "other_names": [
+        {
+          "lang": "az",
+          "name": "Rəşad Mahmudov",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -3724,8 +3884,28 @@
       ]
     },
     {
+      "gender": "male",
       "id": "7b9c5dd4-3c11-474a-b3d3-c1c90fae9be8",
-      "name": "Tahir Kərimli"
+      "identifiers": [
+        {
+          "identifier": "Q16374817",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (az)",
+          "url": "https://az.wikipedia.org/wiki/Tahir_Kərimli"
+        }
+      ],
+      "name": "Tahir Kərimli",
+      "other_names": [
+        {
+          "lang": "az",
+          "name": "Tahir Kərimli",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "e4d0281d-11c9-49da-a852-3b1c37c14c95",
@@ -4506,8 +4686,54 @@
       "name": "Ülviyyə Ağayeva"
     },
     {
+      "birth_date": "1982",
+      "gender": "female",
       "id": "1b701492-ca02-40a0-aad1-8647ede0c299",
-      "name": "Ülviyyə Həmzəyeva"
+      "identifiers": [
+        {
+          "identifier": "Q7880869",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Ulviyya_Hamzayeva.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Ulviyya_Hamzayeva.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (az)",
+          "url": "https://az.wikipedia.org/wiki/Ülviyyə_Həmzəyeva"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ulviyya_Hamzayeva"
+        }
+      ],
+      "name": "Ülviyyə Həmzəyeva",
+      "other_names": [
+        {
+          "lang": "az",
+          "name": "Ülviyyə Həmzəyeva",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Ulviyya Hamzayeva",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Ulviyya Hamzayeva",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Ulviyya Hamzayeva",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "3f05b3ed-7b5c-4cc3-af00-f7d048fe9865",
@@ -4763,7 +4989,26 @@
     },
     {
       "id": "75f6486d-698e-446e-9140-6377b7d2599d",
-      "name": "Şahin İsmayilov"
+      "identifiers": [
+        {
+          "identifier": "Q16377939",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (az)",
+          "url": "https://az.wikipedia.org/wiki/Şahin_İsmayilov"
+        }
+      ],
+      "name": "Şahin İsmayilov",
+      "other_names": [
+        {
+          "lang": "az",
+          "name": "Şahin İsmayilov",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "98482549-e0ac-4ba0-a10b-6535d98c2a93",
@@ -4794,7 +5039,30 @@
     },
     {
       "id": "3da520fd-32b0-47e1-ba34-73563f594f97",
-      "name": "Əflatun Amaşov"
+      "identifiers": [
+        {
+          "identifier": "Q12849884",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (az)",
+          "url": "https://az.wikipedia.org/wiki/Əflatun_Amaşov"
+        },
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Əflatun_Amaşov"
+        }
+      ],
+      "name": "Əflatun Amaşov",
+      "other_names": [
+        {
+          "lang": "az",
+          "name": "Əflatun Amaşov",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1947-11-17",
