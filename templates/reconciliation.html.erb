@@ -118,5 +118,26 @@
       </div>
     </script>
 
+    <script type="text/html" id="duplicateIDs">
+      <div class="duplicates">
+        <p><strong>Warning:</strong> The following {{ groupedByType }}s have
+          multiple {{ otherType }}s:</p>
+        <dl>
+          {% for (k in duplicates) { %}
+            {% if (duplicates.hasOwnProperty(k)) { %}
+              <dt>{{ k }} has these {{ otherType }}s:</dt>
+              <dd>
+                <ul>
+                 {% for (var i = 0; i < duplicates[k].length; ++i) { %}
+                   <li>{{ duplicates[k][i] }}</li>
+                 {% } %}
+                </ul>
+              </dd>
+            {% } %}
+          {% } %}
+        </dl>
+      </div>
+    </script>
+
 </body>
 </html>
