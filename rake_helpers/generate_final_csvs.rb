@@ -64,7 +64,22 @@ namespace :term_csvs do
     end
   end
 
-  task :name_list => :term_tables do
+  task :top_identifiers => :term_tables do
+    top_identifiers = @json[:persons].map { |p| p[:identifiers].map { |i| i[:scheme] } }.flatten.
+      reject { |i| i == 'everypolitician_legacy' }.group_by { |i| i }.
+      sort_by { |i, is| -is.count }.take(5).
+      map { |i, is| [i, is.count] }
+
+    if top_identifiers.any?
+      puts "Top identifiers:"
+      top_identifiers.each do |i, c|
+        puts "  #{c} x #{i}"
+      end
+      puts "\n"
+    end
+  end
+
+  task :name_list => :top_identifiers do
     names = @json[:persons].map { |p|
       nameset = Set.new([p[:name]])
       nameset.merge (p[:other_names] || []).map { |n| n[:name] }

@@ -283,17 +283,19 @@ namespace :merge_sources do
                   next
                 end
 
-                warn_once "☁ Mismatch in #{h} for #{existing_row[:uuid]} (#{existing_row[h]}) vs #{incoming_row[h]} (for #{incoming_row[:id]})"
+                warn_once "  ☁ Mismatch in #{h} for #{existing_row[:uuid]} (#{existing_row[h]}) vs #{incoming_row[h]} (for #{incoming_row[:id]})"
               end
 
             end
           else
-            warn "Can't match row to existing data: #{incoming_row.to_hash.reject { |k,v| v.to_s.empty? } }".red if merge_instructions[:report_missing]
             unmatched << incoming_row
           end
         end
 
         puts "* %d of %d unmatched".magenta % [unmatched.count, incoming_data.count]
+        unmatched.sample(10).each do |r|
+          warn "\t#{r.to_hash.reject { |k,v| v.to_s.empty? }.select { |k, v| %i(id name).include? k } }"
+        end 
         output_warnings("Data Mismatches")
         incoming_data = unmatched
       end
