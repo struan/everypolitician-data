@@ -165,7 +165,7 @@
         "P1366": "Helle Thorning-Schmidt",
         "P1365": "Anders Fogh Rasmussen",
         "P35": "Margrethe II of Denmark",
-        "P768": "Q12312831"
+        "P768": "Frederikssundkredsen"
       }
     },
     {
@@ -203,8 +203,8 @@
       "qualifiers": {
         "P580": "1986",
         "P582": "1989",
-        "P1366": "Q18913299",
-        "P1365": "Q18913298"
+        "P1366": "Jesper Ib",
+        "P1365": "Lars Møller Sørensen"
       }
     },
     {
@@ -217,6 +217,15 @@
     {
       "id": "Q12311817",
       "label": "member of the Folketing"
+    },
+    {
+      "id": "Q795477",
+      "label": "Prime Minister of Denmark",
+      "qualifiers": {
+        "P580": "2015-06-28",
+        "P1365": "Helle Thorning-Schmidt",
+        "P35": "Margrethe II of Denmark"
+      }
     }
   ],
   "Q266035": [
@@ -236,7 +245,10 @@
       "id": "Q795477",
       "label": "Prime Minister of Denmark",
       "qualifiers": {
-        "P580": "2011-10-03"
+        "P580": "2011-10-03",
+        "P582": "2015-06-27",
+        "P1366": "Lars Løkke Rasmussen",
+        "P35": "Margrethe II of Denmark"
       }
     },
     {
