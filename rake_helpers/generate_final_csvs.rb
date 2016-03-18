@@ -65,7 +65,7 @@ namespace :term_csvs do
   end
 
   task :top_identifiers => :term_tables do
-    top_identifiers = @json[:persons].map { |p| p[:identifiers].map { |i| i[:scheme] } }.flatten.
+    top_identifiers = @json[:persons].map { |p| (p[:identifiers] || []).map { |i| i[:scheme] } }.flatten.
       reject { |i| i == 'everypolitician_legacy' }.group_by { |i| i }.
       sort_by { |i, is| -is.count }.take(5).
       map { |i, is| [i, is.count] }
