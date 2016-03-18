@@ -96,7 +96,7 @@ namespace :merge_sources do
   end
 
   def output_warnings(header)
-    puts ['', header, @warnings.to_a, '', ''].join("\n") if @warnings.any?
+    warn ['', header, @warnings.to_a, '', ''].join("\n") if @warnings.any?
     @warnings = Set.new
   end
 
@@ -123,7 +123,7 @@ namespace :merge_sources do
 
     instructions(:sources).find_all { |src| src[:type].to_s.downcase == 'membership' }.each do |src|
       file = src[:file]
-      puts "Add memberships from #{file}".magenta
+      warn "Add memberships from #{file}".magenta
       ids_file = file.sub(/.csv$/, '-ids.csv')
       id_map = {}
       if File.exists?(ids_file)
@@ -188,7 +188,7 @@ namespace :merge_sources do
     #   incoming_field: the field in the incoming data to match with
 
     instructions(:sources).find_all { |src| %w(wikidata person).include? src[:type].to_s.downcase }.each do |pd|
-      puts "Merging with #{pd[:file]}".magenta
+      warn "Merging with #{pd[:file]}".magenta
       raise "No merge instructions" unless pd.key?(:merge)
 
       all_headers |= [:identifier__wikidata] if pd[:type] == 'wikidata'
@@ -292,7 +292,7 @@ namespace :merge_sources do
           end
         end
 
-        puts "* %d of %d unmatched".magenta % [unmatched.count, incoming_data.count]
+        warn "* %d of %d unmatched".magenta % [unmatched.count, incoming_data.count]
         unmatched.sample(10).each do |r|
           warn "\t#{r.to_hash.reject { |k,v| v.to_s.empty? }.select { |k, v| %i(id name).include? k } }"
         end 
@@ -322,7 +322,7 @@ namespace :merge_sources do
         r[:gender] = winner.first.to_s 
         gb_votes += 1
       end
-      puts "⚥ #{gb_votes}".cyan 
+      warn "⚥ #{gb_votes}".cyan 
     end
 
     # Map Areas

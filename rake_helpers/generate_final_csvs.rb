@@ -30,7 +30,7 @@ namespace :term_csvs do
       terms[m[:legislative_period_id]] ||= @json[:events].find { |e| e[:id].split('/').last == m[:legislative_period_id].split('/').last }
 
       if group.nil?
-        puts "No group for #{m}"
+        warn "No group for #{m}"
         binding.pry
         next
       end
@@ -162,8 +162,8 @@ namespace :term_csvs do
       html = Position::Filterer.new(filter).html
       File.write('sources/manual/.position-filter.html', html)
       FileUtils.copy('../../../templates/position-filter.js', 'sources/manual/.position-filter.js')
-      puts "open sources/manual/.position-filter.html".yellow
-      puts "pbpaste | bundle exec ruby ../../../bin/learn_position.rb sources/manual/position-filter.json".yellow
+      warn "open sources/manual/.position-filter.html".yellow
+      warn "pbpaste | bundle exec ruby ../../../bin/learn_position.rb sources/manual/position-filter.json".yellow
     end
   end
 end
