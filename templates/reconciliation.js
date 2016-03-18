@@ -20,7 +20,7 @@ var vote = function vote($choice){
   var vote = [];
 
   if($choice.is('.skip')) {
-    // Insert a null value to indicate skip. 
+    // Insert a null value to indicate skip.
     // These are removed when serializing to CSV.
     window.votes.push( [incomingPersonID, null] );
   } else if ($choice.is('.show-later')) {
@@ -95,7 +95,7 @@ var nextPairing = function nextPairing($currentPairing){
     highlightExistingVotes($nextPairing);
     $nextPairing.show();
   } else {
-    $('.messages').html('<h1>Reconciliation complete!</h1>'); 
+    $('.messages').html('<h1>Reconciliation complete!</h1>');
     showCSVtray();
   }
 }
@@ -147,7 +147,7 @@ var updateProgressBar = function updateProgressBar(){
   $('.progress .progress-bar div').animate({ width: progressAsPercentage() }, 100);
 }
 
-var allVotes = function allVotes() { 
+var allVotes = function allVotes() {
   return window.reconciled.concat(window.votes).concat(window.autovotes)
 }
 
@@ -192,9 +192,9 @@ var undo = function undo(){
   // Remove last vote from window.votes,
   // and re-show the most recently hidden pairing.
   var undoneVote = window.votes.pop();
-  if ($('.pairing:visible').length) { 
+  if ($('.pairing:visible').length) {
     $('.pairing:visible').hide().prev().show();
-  } else { 
+  } else {
     $('.pairing').last().show();
     hideCSVtray();
   }
@@ -214,12 +214,12 @@ var handleKeyPress = function handleKeyPress(e){
   if(e.keyCode == 27){ return toggleCSVtray(); }
 
   // Command-Z
-  if(e.keyCode == 90 && (e.metaKey || e.ctrlKey)) { return undo(); } 
-      
+  if(e.keyCode == 90 && (e.metaKey || e.ctrlKey)) { return undo(); }
+
   // Only if there is at least one pairing left to categorise
   if($('.pairing:visible').length && $('.csv').is(':hidden')){
     // right arrow
-    if(e.which == 39){ return vote($('.pairing:visible .skip')); } 
+    if(e.which == 39){ return vote($('.pairing:visible .skip')); }
 
     // question mark
     if(e.which == 191){ return vote($('.pairing:visible .show-later')); }
@@ -239,14 +239,14 @@ jQuery(function($) {
     var incomingPerson = match.incoming;
 
     // If there's one and only one 100% match, choose it automatically
-    var exactMatches  = _.filter(match.existing, function(e) { 
+    var exactMatches  = _.filter(match.existing, function(e) {
       return e[1] == 1;
     });
-    if (exactMatches.length == 1) { 
+    if (exactMatches.length == 1) {
       window.autovotes.push( [incomingPerson.id, exactMatches[0][0].uuid] );
       return;
     }
-    
+
     var incomingPersonFields = _.filter(Object.keys(incomingPerson), function(field) {
       return incomingPerson[field];
     });
@@ -258,13 +258,13 @@ jQuery(function($) {
 
       var incomingNameWords = incomingPerson[window.incomingField].toLowerCase().replace(',', '').split(/\s+/);
       var markedName = _.map(person[window.existingField].replace(',', '').split(/\s+/), function(word){
-        if (_.contains(incomingNameWords, word.toLowerCase())) { 
+        if (_.contains(incomingNameWords, word.toLowerCase())) {
           return '<span class="match">' + word + '</span>'
-        } else { 
+        } else {
           return word
         }
       }).join(" ");
-      
+
       return renderTemplate('person', {
         person: person,
         h1_name: markedName,
@@ -319,8 +319,8 @@ jQuery(function($) {
     $firstPairing.nextAll().hide();
     highlightExistingVotes($firstPairing);
     redrawTop();
-  } else { 
-    $('.messages').append('<h1>Nothing to reconcile!</h1>'); 
+  } else {
+    $('.messages').append('<h1>Nothing to reconcile!</h1>');
   }
 
 });
