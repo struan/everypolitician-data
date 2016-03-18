@@ -4971,7 +4971,7 @@
         },
         {
           "note": "facebook",
-          "url": "federico.sturzenegger"
+          "url": "https://facebook.com/federico.sturzenegger"
         },
         {
           "note": "twitter",
@@ -8811,10 +8811,10 @@
       ],
       "email": "jbrugge@diputados.gob.ar",
       "id": "eef206e3-f397-41b6-b785-f72d4955dae3",
-      "image": "http://www4.hcdn.gob.ar/fotos//_silueta_medium.jpg",
+      "image": "http://www4.hcdn.gob.ar/fotos/jbrugge.jpg",
       "images": [
         {
-          "url": "http://www4.hcdn.gob.ar/fotos//_silueta_medium.jpg"
+          "url": "http://www4.hcdn.gob.ar/fotos/jbrugge.jpg"
         }
       ],
       "name": "JUAN FERNANDO BRÜGGE",
@@ -10909,6 +10909,29 @@
           "value": "4127-7100"
         }
       ],
+      "email": "msorgente@diputados.gob.ar",
+      "id": "0a9a1c5f-25dd-4ef6-baee-433591138644",
+      "image": "http://www4.hcdn.gob.ar/fotos//_silueta_medium.jpg",
+      "images": [
+        {
+          "url": "http://www4.hcdn.gob.ar/fotos//_silueta_medium.jpg"
+        }
+      ],
+      "name": "MARCELO ADOLFO SORGENTE",
+      "sort_name": "SORGENTE, MARCELO ADOLFO",
+      "sources": [
+        {
+          "url": "http://www.hcdn.gob.ar/diputados/msorgente/"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "phone",
+          "value": "4127-7100"
+        }
+      ],
       "email": "mmonfort@diputados.gob.ar",
       "id": "86a97866-4463-44d5-b480-93ce84506fdb",
       "image": "http://www4.hcdn.gob.ar/fotos/mmonfort.jpg",
@@ -11132,7 +11155,7 @@
         },
         {
           "note": "facebook",
-          "url": "Stolbizer"
+          "url": "https://facebook.com/Stolbizer"
         },
         {
           "note": "twitter",
@@ -17698,6 +17721,11 @@
     },
     {
       "classification": "party",
+      "id": "party/brigadier_general_juan_bautista_bustos",
+      "name": "BRIGADIER GENERAL JUAN BAUTISTA BUSTOS"
+    },
+    {
+      "classification": "party",
       "id": "party/chubut_somos_todos",
       "name": "CHUBUT SOMOS TODOS"
     },
@@ -17815,13 +17843,18 @@
     },
     {
       "classification": "party",
+      "id": "party/juntos_por_argentina",
+      "name": "JUNTOS POR ARGENTINA"
+    },
+    {
+      "classification": "party",
       "id": "party/justicialista",
       "name": "JUSTICIALISTA"
     },
     {
       "classification": "party",
-      "id": "party/libertad_y_democracia",
-      "name": "LIBERTAD Y DEMOCRACIA"
+      "id": "party/libertad_valores_y_cambio",
+      "name": "LIBERTAD VALORES Y CAMBIO"
     },
     {
       "classification": "party",
@@ -18019,6 +18052,14 @@
       "on_behalf_of_id": "party/frente_para_la_victoria_-_pj",
       "organization_id": "legislature",
       "person_id": "0a24a3da-6839-4e7d-911c-594e90030d0a",
+      "role": "member"
+    },
+    {
+      "area_id": "area/ciudad_de_buenos_aires",
+      "legislative_period_id": "term/133",
+      "on_behalf_of_id": "party/union_pro",
+      "organization_id": "legislature",
+      "person_id": "0a9a1c5f-25dd-4ef6-baee-433591138644",
       "role": "member"
     },
     {
@@ -18506,7 +18547,7 @@
     {
       "area_id": "area/buenos_aires",
       "legislative_period_id": "term/133",
-      "on_behalf_of_id": "party/bloque_social_cristiano",
+      "on_behalf_of_id": "party/juntos_por_argentina",
       "organization_id": "legislature",
       "person_id": "320e1ffd-0888-48fe-a297-51147fe280f0",
       "role": "member"
@@ -19274,7 +19315,7 @@
     {
       "area_id": "area/buenos_aires",
       "legislative_period_id": "term/133",
-      "on_behalf_of_id": "party/bloque_social_cristiano",
+      "on_behalf_of_id": "party/juntos_por_argentina",
       "organization_id": "legislature",
       "person_id": "6b95e796-00d1-4332-8dfa-f53b1817e2a2",
       "role": "member"
@@ -19471,7 +19512,7 @@
     {
       "area_id": "area/buenos_aires",
       "legislative_period_id": "term/133",
-      "on_behalf_of_id": "party/bloque_social_cristiano",
+      "on_behalf_of_id": "party/juntos_por_argentina",
       "organization_id": "legislature",
       "person_id": "7c1504df-f1ff-471b-a2e9-823d62e441ab",
       "role": "member"
@@ -20104,7 +20145,7 @@
     {
       "area_id": "area/mendoza",
       "legislative_period_id": "term/133",
-      "on_behalf_of_id": "party/ucr",
+      "on_behalf_of_id": "party/union_pro",
       "organization_id": "legislature",
       "person_id": "a6b61575-7bb1-47f0-a722-2a9e0bcc335d",
       "role": "member",
@@ -20259,7 +20300,7 @@
     {
       "area_id": "area/cordoba",
       "legislative_period_id": "term/133",
-      "on_behalf_of_id": "party/frente_para_la_victoria_-_pj",
+      "on_behalf_of_id": "party/brigadier_general_juan_bautista_bustos",
       "organization_id": "legislature",
       "person_id": "b73ed823-c301-4796-8e10-8e5f9dfd261e",
       "role": "member"
@@ -21085,7 +21126,7 @@
     {
       "area_id": "area/misiones",
       "legislative_period_id": "term/133",
-      "on_behalf_of_id": "party/libertad_y_democracia",
+      "on_behalf_of_id": "party/libertad_valores_y_cambio",
       "organization_id": "legislature",
       "person_id": "f5457c1b-d69a-4422-ab38-230b81ce6398",
       "role": "member"
