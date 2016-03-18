@@ -3,7 +3,7 @@ require 'iso_country_codes'
 require 'pathname'
 require 'pry'
 require 'tmpdir'
-require 'yajl/json_gem'
+require 'json'
 
 ISO = IsoCountryCodes.for_select
 
@@ -20,7 +20,11 @@ def name_to_iso_code(name)
 end
 
 def json_from(json_file)
-  JSON.parse(File.read(json_file), symbolize_names: true)
+  statements = 0
+  json = JSON.load(File.read(json_file), lambda { |h|
+    statements += h.values.select { |v| v.class == String }.count if h.class == Hash 
+  }, symbolize_names: true)
+  return json, statements
 end
 
 def json_write(file, json)
@@ -63,8 +67,8 @@ task 'countries.json' do
       legislatures: hs.map { |h|
         json_file = h + '/ep-popolo-v1.0.json'
         name_file = h + '/names.csv'
-        popolo = json_from(json_file)
         remote_source = 'https://cdn.rawgit.com/everypolitician/everypolitician-data/%s/%s'
+        popolo, statement_count = json_from(json_file)
 
         cmd = "git --no-pager log --format='%h|%at' -1 #{h}"
         (sha, lastmod) = `#{cmd}`.chomp.split('|')
@@ -81,6 +85,7 @@ task 'countries.json' do
           person_count: popolo[:persons].size,
           sha: sha,
           legislative_periods: terms_from(popolo, h).each { |t| t[:csv_url] = remote_source % [sha, t[:csv]] },
+          statement_count: statement_count,
         }
       }
     }
