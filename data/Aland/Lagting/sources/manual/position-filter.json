@@ -1,7 +1,10 @@
 {
   "exclude": {
     "self": [
-
+      {
+        "id": "Q23256979",
+        "name": "member of the Parliament of Åland"
+      }
     ],
     "other": [
 
@@ -9,7 +12,10 @@
   },
   "include": {
     "self": [
-
+      {
+        "id": "Q6597973",
+        "name": "Speaker of the Parliament of Åland"
+      }
     ],
     "other_legislatures": [
       {
@@ -32,16 +38,6 @@
   },
   "unknown": {
     "unknown": [
-      {
-        "id": "Q6597973",
-        "name": "Speaker of the Parliament of Åland",
-        "count": 1
-      },
-      {
-        "id": "Q23256979",
-        "name": "member of the Parliament of Åland",
-        "count": 1
-      },
       {
         "id": "Q5689",
         "name": "Åland Islands",
