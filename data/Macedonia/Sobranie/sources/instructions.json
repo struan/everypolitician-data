@@ -44,6 +44,14 @@
         "type": "gender-balance",
         "source": "Macedonia/Sobranie"
       }
+    },
+    {
+      "file": "wikidata/positions.json",
+      "type": "wikidata-positions",
+      "create": {
+        "type": "wikidata-raw",
+        "source": "reconciliation/wikidata.csv"
+      }
     }
   ]
 }
