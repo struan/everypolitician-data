@@ -899,6 +899,11 @@
           "note": "alternate"
         },
         {
+          "lang": "da",
+          "name": "Gheorghe Brega",
+          "note": "multilingual"
+        },
+        {
           "lang": "de",
           "name": "Gheorghe Brega",
           "note": "multilingual"
@@ -3709,7 +3714,7 @@
         },
         {
           "note": "Wikipedia (uk)",
-          "url": "https://uk.wikipedia.org/wiki/Маріан_Лупу"
+          "url": "https://uk.wikipedia.org/wiki/Лупу_Маріан"
         },
         {
           "note": "Wikipedia (yo)",
@@ -4201,7 +4206,7 @@
         },
         {
           "note": "Wikipedia (uk)",
-          "url": "https://uk.wikipedia.org/wiki/Міхай_Ґімпу"
+          "url": "https://uk.wikipedia.org/wiki/Гімпу_Міхай"
         },
         {
           "note": "Wikipedia (yo)",
@@ -5287,6 +5292,22 @@
       ]
     },
     {
+      "id": "0742e286-a513-496d-af9e-aa592820113c",
+      "image": "http://www.parlament.md/LinkClick.aspx?fileticket=aWu5jPgKe%2fc%3d&tabid=87&mid=476&language=en-US",
+      "images": [
+        {
+          "url": "http://www.parlament.md/LinkClick.aspx?fileticket=aWu5jPgKe%2fc%3d&tabid=87&mid=476&language=en-US"
+        }
+      ],
+      "name": "Serghei Kiseliov",
+      "sort_name": "Kiseliov Serghei",
+      "sources": [
+        {
+          "url": "http://www.parlament.md/StructuraParlamentului/Deputies/tabid/87/Id/684/language/en-US/Default.aspx"
+        }
+      ]
+    },
+    {
       "birth_date": "1960-09-15",
       "email": "Serghei.Sirbu@parlament.md",
       "gender": "male",
@@ -5797,6 +5818,22 @@
       "sources": [
         {
           "url": "http://www.parlament.md/StructuraParlamentului/Deputies/tabid/87/Id/330/language/en-US/Default.aspx"
+        }
+      ]
+    },
+    {
+      "id": "8d8652e2-9c83-45bf-bd8f-93cab12f4678",
+      "image": "http://www.parlament.md/LinkClick.aspx?fileticket=aWu5jPgKe%2fc%3d&tabid=87&mid=476&language=en-US",
+      "images": [
+        {
+          "url": "http://www.parlament.md/LinkClick.aspx?fileticket=aWu5jPgKe%2fc%3d&tabid=87&mid=476&language=en-US"
+        }
+      ],
+      "name": "Valentina Rotaru",
+      "sort_name": "Rotaru Valentina",
+      "sources": [
+        {
+          "url": "http://www.parlament.md/StructuraParlamentului/Deputies/tabid/87/Id/683/language/en-US/Default.aspx"
         }
       ]
     },
@@ -9021,6 +9058,13 @@
       "legislative_period_id": "term/2014",
       "on_behalf_of_id": "9",
       "organization_id": "legislature",
+      "person_id": "0742e286-a513-496d-af9e-aa592820113c",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "9",
+      "organization_id": "legislature",
       "person_id": "0908f8cf-54d6-4952-b171-464f8ddaf1bf",
       "role": "member"
     },
@@ -9456,6 +9500,13 @@
       "on_behalf_of_id": "-1",
       "organization_id": "legislature",
       "person_id": "8a39d674-a671-4486-8878-57c2786b2fcb",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "9",
+      "organization_id": "legislature",
+      "person_id": "8d8652e2-9c83-45bf-bd8f-93cab12f4678",
       "role": "member"
     },
     {
