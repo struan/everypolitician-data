@@ -912,6 +912,22 @@
     },
     {
       "birth_date": "1980-01-05",
+      "id": "5f88b811-6a90-4152-bd6a-b0fa1e897229",
+      "image": "http://www.sabor.hr/lgs.axd?t=16&id=45059",
+      "images": [
+        {
+          "url": "http://www.sabor.hr/lgs.axd?t=16&id=45059"
+        }
+      ],
+      "name": "DAVOR BERNARDIĆ",
+      "sources": [
+        {
+          "url": "http://www.sabor.hr/lgs.axd?t=24&id=6192"
+        }
+      ]
+    },
+    {
+      "birth_date": "1980-01-05",
       "gender": "male",
       "given_name": "Davor",
       "id": "c28358e0-893f-4ad4-b8a3-448ed33b8993",
@@ -3751,6 +3767,12 @@
     {
       "birth_date": "1980-02-25",
       "id": "05c1421b-3228-4094-802a-0aa9d8062b01",
+      "image": "http://www.sabor.hr/lgs.axd?t=16&id=45062",
+      "images": [
+        {
+          "url": "http://www.sabor.hr/lgs.axd?t=16&id=45062"
+        }
+      ],
       "name": "JOSIPA RIMAC",
       "sources": [
         {
@@ -5787,6 +5809,12 @@
     {
       "birth_date": "1990-06-21",
       "id": "64ec110d-3922-43ac-857b-b388ceef2038",
+      "image": "http://www.sabor.hr/lgs.axd?t=16&id=45058",
+      "images": [
+        {
+          "url": "http://www.sabor.hr/lgs.axd?t=16&id=45058"
+        }
+      ],
       "name": "SANDRA PERKOVIĆ",
       "sources": [
         {
@@ -8651,6 +8679,14 @@
       "on_behalf_of_id": "party/sdp",
       "organization_id": "legislature",
       "person_id": "5df9ac41-c5a5-48f5-8c2e-1ab5c5e1b474",
+      "role": "member"
+    },
+    {
+      "area_id": "area/1st",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/sdp",
+      "organization_id": "legislature",
+      "person_id": "5f88b811-6a90-4152-bd6a-b0fa1e897229",
       "role": "member"
     },
     {
