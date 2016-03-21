@@ -2158,6 +2158,27 @@
       "label": "Member of the Australian House of Representatives"
     }
   ],
+  "Q6767411": [
+    {
+      "id": "Q18912794",
+      "label": "Member of the Australian House of Representatives",
+      "qualifiers": {
+        "P580": "2007-11-24",
+        "P768": "Isaacs",
+        "P1365": "Ann Corcoran"
+      }
+    },
+    {
+      "id": "Q4818607",
+      "label": "Attorney-General of Australia",
+      "qualifiers": {
+        "P580": "2013-02-04",
+        "P582": "2013-09-18",
+        "P1365": "Nicola Roxon",
+        "P1366": "George Brandis"
+      }
+    }
+  ],
   "Q16105752": [
     {
       "id": "Q18912794",
@@ -2279,7 +2300,12 @@
   "Q16194303": [
     {
       "id": "Q18912794",
-      "label": "Member of the Australian House of Representatives"
+      "label": "Member of the Australian House of Representatives",
+      "qualifiers": {
+        "P580": "2013-09-07",
+        "P768": "Lalor",
+        "P1365": "Julia Gillard"
+      }
     }
   ],
   "Q466220": [
@@ -2975,7 +3001,23 @@
   "Q6163809": [
     {
       "id": "Q18912794",
-      "label": "Member of the Australian House of Representatives"
+      "label": "Member of the Australian House of Representatives",
+      "qualifiers": {
+        "P580": "2013-09-07",
+        "P768": "La Trobe",
+        "P1365": "Laura Smyth"
+      }
+    },
+    {
+      "id": "Q18912794",
+      "label": "Member of the Australian House of Representatives",
+      "qualifiers": {
+        "P580": "2004-10-09",
+        "P582": "2010-08-21",
+        "P1365": "Bob Charles",
+        "P1366": "Laura Smyth",
+        "P768": "La Trobe"
+      }
     }
   ],
   "Q16195119": [
