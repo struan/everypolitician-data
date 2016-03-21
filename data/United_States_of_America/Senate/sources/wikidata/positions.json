@@ -1,4 +1,14 @@
 {
+  "Q1386836": [
+    {
+      "id": "Q13217683",
+      "label": "United States Senator"
+    },
+    {
+      "id": "Q13218630",
+      "label": "United States representative"
+    }
+  ],
   "Q22250": [
     {
       "id": "Q13217683",
@@ -36,6 +46,20 @@
     {
       "id": "Q19360415",
       "label": "member of the Oregon House of Representatives"
+    }
+  ],
+  "Q2613704": [
+    {
+      "id": "Q13217683",
+      "label": "United States Senator",
+      "qualifiers": {
+        "P580": "1985-01-03",
+        "P582": "2002-11-30"
+      }
+    },
+    {
+      "id": "Q13218630",
+      "label": "United States representative"
     }
   ],
   "Q443640": [
@@ -162,6 +186,12 @@
       "label": "United States Senator"
     }
   ],
+  "Q1071782": [
+    {
+      "id": "Q13217683",
+      "label": "United States Senator"
+    }
+  ],
   "Q529351": [
     {
       "id": "Q13217683",
@@ -170,6 +200,16 @@
     {
       "id": "Q21365323",
       "label": "member of the State Senate of Montana"
+    }
+  ],
+  "Q882362": [
+    {
+      "id": "Q13217683",
+      "label": "United States Senator"
+    },
+    {
+      "id": "Q2550683",
+      "label": "Governor of Oklahoma"
     }
   ],
   "Q1239374": [
@@ -248,6 +288,68 @@
       "label": "United States representative"
     }
   ],
+  "Q578102": [
+    {
+      "id": "Q13217683",
+      "label": "United States Senator",
+      "qualifiers": {
+        "P580": "1987-01-03",
+        "P582": "2005-01-03",
+        "P1365": "Paula Hawkins",
+        "P1366": "Mel Martinez"
+      }
+    },
+    {
+      "id": "Q18342844",
+      "label": "Member of the Florida House of Representatives"
+    },
+    {
+      "id": "Q19961062",
+      "label": "member of the Florida State Senate"
+    },
+    {
+      "id": "Q20198851",
+      "label": "Governor of Florida",
+      "qualifiers": {
+        "P580": "1979-01-02",
+        "P582": "1987-01-03",
+        "P1365": "Reubin Askew",
+        "P1366": "Wayne Mixson"
+      }
+    }
+  ],
+  "Q330165": [
+    {
+      "id": "Q13217683",
+      "label": "United States Senator"
+    },
+    {
+      "id": "Q17502533",
+      "label": "member of the Ohio House of Representatives"
+    }
+  ],
+  "Q19673": [
+    {
+      "id": "Q13217683",
+      "label": "United States Senator"
+    },
+    {
+      "id": "Q13218630",
+      "label": "United States representative"
+    },
+    {
+      "id": "Q11699",
+      "label": "Vice President of the United States",
+      "qualifiers": {
+        "P580": "1993-01-20",
+        "P1365": "Dan Quayle",
+        "P582": "2001-01-20",
+        "P1366": "Dick Cheney",
+        "P805": "Vice presidency of Al Gore",
+        "P1545": "45"
+      }
+    }
+  ],
   "Q344930": [
     {
       "id": "Q13217683",
@@ -317,6 +419,25 @@
       "label": "United States Senator"
     }
   ],
+  "Q433140": [
+    {
+      "id": "Q13217683",
+      "label": "United States Senator"
+    },
+    {
+      "id": "Q13218630",
+      "label": "United States representative"
+    },
+    {
+      "id": "Q3773745",
+      "label": "Governor of Vermont",
+      "qualifiers": {
+        "P1545": "71",
+        "P580": "1959-01-08",
+        "P582": "1961-01-05"
+      }
+    }
+  ],
   "Q419976": [
     {
       "id": "Q13217683",
@@ -357,6 +478,16 @@
     {
       "id": "Q13217683",
       "label": "United States Senator"
+    }
+  ],
+  "Q1686994": [
+    {
+      "id": "Q13217683",
+      "label": "United States Senator"
+    },
+    {
+      "id": "Q13218630",
+      "label": "United States representative"
     }
   ],
   "Q22222": [
@@ -480,6 +611,16 @@
       }
     }
   ],
+  "Q453709": [
+    {
+      "id": "Q13217683",
+      "label": "United States Senator"
+    },
+    {
+      "id": "Q19617175",
+      "label": "Member of the Kansas Senate"
+    }
+  ],
   "Q285102": [
     {
       "id": "Q13217683",
@@ -574,10 +715,40 @@
       "label": "United States Senator"
     }
   ],
+  "Q880613": [
+    {
+      "id": "Q13217683",
+      "label": "United States Senator"
+    },
+    {
+      "id": "Q17598395",
+      "label": "member of the Washington House of Representatives"
+    },
+    {
+      "id": "Q19647220",
+      "label": "Governor of Washington",
+      "qualifiers": {
+        "P580": "1965-01-11",
+        "P582": "1977-01-12",
+        "P1365": "Albert Rosellini",
+        "P1366": "Dixy Lee Ray"
+      }
+    }
+  ],
   "Q261003": [
     {
       "id": "Q13217683",
       "label": "United States Senator"
+    }
+  ],
+  "Q376645": [
+    {
+      "id": "Q13217683",
+      "label": "United States Senator"
+    },
+    {
+      "id": "Q19690441",
+      "label": "member of the California State Senate"
     }
   ],
   "Q1840588": [
@@ -643,6 +814,12 @@
         "P582": "1974",
         "P1366": "George W. Lehr"
       }
+    }
+  ],
+  "Q1064692": [
+    {
+      "id": "Q13217683",
+      "label": "United States Senator"
     }
   ],
   "Q652066": [
@@ -784,6 +961,16 @@
       }
     }
   ],
+  "Q661008": [
+    {
+      "id": "Q13217683",
+      "label": "United States Senator"
+    },
+    {
+      "id": "Q20801651",
+      "label": "Governor of Nevada"
+    }
+  ],
   "Q358437": [
     {
       "id": "Q13217683",
@@ -852,6 +1039,12 @@
       "label": "United States representative"
     }
   ],
+  "Q1174268": [
+    {
+      "id": "Q13217683",
+      "label": "United States Senator"
+    }
+  ],
   "Q390491": [
     {
       "id": "Q13217683",
@@ -907,6 +1100,22 @@
       "label": "Member of the United States House of Representatives from Virginia"
     }
   ],
+  "Q363055": [
+    {
+      "id": "Q13217683",
+      "label": "United States Senator"
+    },
+    {
+      "id": "Q5283280",
+      "label": "District Attorney of Philadelphia",
+      "qualifiers": {
+        "P580": "1966-01-03",
+        "P582": "1974-01-07",
+        "P1365": "James C. Crumlish, Jr.",
+        "P1366": "F. Emmett Fitzpatrick"
+      }
+    }
+  ],
   "Q942027": [
     {
       "id": "Q13217683",
@@ -923,6 +1132,12 @@
       "label": "United States representative"
     }
   ],
+  "Q731680": [
+    {
+      "id": "Q13217683",
+      "label": "United States Senator"
+    }
+  ],
   "Q978350": [
     {
       "id": "Q13217683",
@@ -937,6 +1152,12 @@
     {
       "id": "Q878942",
       "label": "Governor of Virginia"
+    }
+  ],
+  "Q1344425": [
+    {
+      "id": "Q13217683",
+      "label": "United States Senator"
     }
   ],
   "Q368920": [
@@ -1003,6 +1224,168 @@
       "label": "Member of the Rhode Island State Senate"
     }
   ],
+  "Q6294": [
+    {
+      "id": "Q13217683",
+      "label": "United States Senator",
+      "qualifiers": {
+        "P580": "2001-01-03",
+        "P582": "2009-01-21"
+      }
+    },
+    {
+      "id": "Q14213",
+      "label": "United States Secretary of State",
+      "qualifiers": {
+        "P580": "2009-01-21",
+        "P582": "2013-02-01",
+        "P1365": "Condoleezza Rice",
+        "P1366": "John Kerry"
+      }
+    },
+    {
+      "id": "Q1607826",
+      "label": "editor",
+      "qualifiers": {
+        "P108": "Yale Review of Law and Social Action"
+      }
+    },
+    {
+      "id": "Q5405633",
+      "label": "research assistant",
+      "qualifiers": {
+        "P108": "United States Senate Committee on Health, Education, Labor, and Pensions"
+      }
+    },
+    {
+      "id": "Q6500754",
+      "label": "internship",
+      "qualifiers": {
+        "P108": "Robert Treuhaft",
+        "P585": "1971"
+      }
+    },
+    {
+      "id": "Q758225",
+      "label": "attorney at law",
+      "qualifiers": {
+        "P108": "Children's Defense Fund"
+      }
+    },
+    {
+      "id": "Q1622272",
+      "label": "university professor",
+      "qualifiers": {
+        "P585": "1974-08",
+        "P108": "University of Arkansas"
+      }
+    },
+    {
+      "id": "Q758225",
+      "label": "attorney at law",
+      "qualifiers": {
+        "P108": "Rose Law Firm",
+        "P580": "1977-02"
+      }
+    },
+    {
+      "id": "Q188628",
+      "label": "board of directors",
+      "qualifiers": {
+        "P108": "Legal Services Corporation",
+        "P580": "1978",
+        "P582": "1981"
+      }
+    },
+    {
+      "id": "Q140686",
+      "label": "chairperson",
+      "qualifiers": {
+        "P108": "Legal Services Corporation",
+        "P580": "1978",
+        "P582": "1980"
+      }
+    },
+    {
+      "id": "Q7140693",
+      "label": "Partner",
+      "qualifiers": {
+        "P580": "1979",
+        "P108": "Rose Law Firm"
+      }
+    },
+    {
+      "id": "Q188628",
+      "label": "board of directors",
+      "qualifiers": {
+        "P580": "1982",
+        "P582": "1988",
+        "P108": "New World Foundation"
+      }
+    },
+    {
+      "id": "Q188628",
+      "label": "board of directors",
+      "qualifiers": {
+        "P580": "1988",
+        "P582": "1992",
+        "P108": "Arkansas Children's Hospital",
+        "P101": "law"
+      }
+    },
+    {
+      "id": "Q140686",
+      "label": "chairperson",
+      "qualifiers": {
+        "P108": "Children's Defense Fund",
+        "P580": "1986",
+        "P582": "1992"
+      }
+    },
+    {
+      "id": "Q188628",
+      "label": "board of directors",
+      "qualifiers": {
+        "P580": "1985",
+        "P582": "1992",
+        "P108": "TCBY"
+      }
+    },
+    {
+      "id": "Q188628",
+      "label": "board of directors",
+      "qualifiers": {
+        "P580": "1986",
+        "P582": "1992",
+        "P108": "Walmart"
+      }
+    },
+    {
+      "id": "Q188628",
+      "label": "board of directors",
+      "qualifiers": {
+        "P580": "1990",
+        "P582": "1992",
+        "P108": "Lafarge"
+      }
+    },
+    {
+      "id": "Q7166256",
+      "label": "First Lady of the United States",
+      "qualifiers": {
+        "P580": "1993-01-20",
+        "P582": "2001-01-20"
+      }
+    },
+    {
+      "id": "Q6500754",
+      "label": "internship",
+      "qualifiers": {
+        "P108": "Republican Conference of the United States House of Representatives",
+        "P585": "1968"
+      }
+    }
+  ],
   "Q705498": [
     {
       "id": "Q13217683",
@@ -1017,6 +1400,36 @@
         "P1365": "Toney Anaya",
         "P1366": "Paul Bardacke"
       }
+    }
+  ],
+  "Q371031": [
+    {
+      "id": "Q13217683",
+      "label": "United States Senator"
+    },
+    {
+      "id": "Q13218630",
+      "label": "United States representative"
+    }
+  ],
+  "Q1886056": [
+    {
+      "id": "Q13217683",
+      "label": "United States Senator"
+    },
+    {
+      "id": "Q17495450",
+      "label": "member of the Illinois House of Representatives"
+    }
+  ],
+  "Q454439": [
+    {
+      "id": "Q13217683",
+      "label": "United States Senator"
+    },
+    {
+      "id": "Q13218630",
+      "label": "United States representative"
     }
   ],
   "Q380900": [
@@ -1123,6 +1536,30 @@
       "label": "United States Senator"
     }
   ],
+  "Q744098": [
+    {
+      "id": "Q13217683",
+      "label": "United States Senator"
+    },
+    {
+      "id": "Q18342844",
+      "label": "Member of the Florida House of Representatives"
+    },
+    {
+      "id": "Q19961062",
+      "label": "member of the Florida State Senate"
+    },
+    {
+      "id": "Q20198851",
+      "label": "Governor of Florida",
+      "qualifiers": {
+        "P580": "1991-01-08",
+        "P582": "1998-12-12",
+        "P1365": "Bob Martinez",
+        "P1366": "Buddy MacKay"
+      }
+    }
+  ],
   "Q1699908": [
     {
       "id": "Q13217683",
@@ -1199,6 +1636,12 @@
       }
     }
   ],
+  "Q504025": [
+    {
+      "id": "Q13217683",
+      "label": "United States Senator"
+    }
+  ],
   "Q457432": [
     {
       "id": "Q13217683",
@@ -1222,6 +1665,22 @@
         "P582": "2009-08-25",
         "P1365": "Benjamin A. Smith II",
         "P1366": "Paul G. Kirk"
+      }
+    }
+  ],
+  "Q1994957": [
+    {
+      "id": "Q13217683",
+      "label": "United States Senator"
+    },
+    {
+      "id": "Q5021015",
+      "label": "California State Controller",
+      "qualifiers": {
+        "P580": "1959",
+        "P582": "1967",
+        "P1365": "Robert C. Kirkwood",
+        "P1366": "Houston I. Flournoy"
       }
     }
   ],
@@ -1263,6 +1722,32 @@
       "label": "United States Senator"
     }
   ],
+  "Q881361": [
+    {
+      "id": "Q13217683",
+      "label": "United States Senator"
+    },
+    {
+      "id": "Q20765963",
+      "label": "Governor of Arkansas"
+    }
+  ],
+  "Q518447": [
+    {
+      "id": "Q13217683",
+      "label": "United States Senator"
+    },
+    {
+      "id": "Q13218630",
+      "label": "United States representative"
+    }
+  ],
+  "Q1811690": [
+    {
+      "id": "Q13217683",
+      "label": "United States Senator"
+    }
+  ],
   "Q44690": [
     {
       "id": "Q13217683",
@@ -1284,6 +1769,12 @@
         "P1366": "Gina Raimondo",
         "P1545": "74"
       }
+    }
+  ],
+  "Q362480": [
+    {
+      "id": "Q13217683",
+      "label": "United States Senator"
     }
   ],
   "Q971308": [
@@ -1327,6 +1818,26 @@
         "P580": "2014-03-20",
         "P1365": "Gary Locke"
       }
+    }
+  ],
+  "Q446778": [
+    {
+      "id": "Q13217683",
+      "label": "United States Senator"
+    },
+    {
+      "id": "Q13218630",
+      "label": "United States representative"
+    }
+  ],
+  "Q326316": [
+    {
+      "id": "Q13217683",
+      "label": "United States Senator"
+    },
+    {
+      "id": "Q13218630",
+      "label": "United States representative"
     }
   ],
   "Q555735": [
@@ -1413,6 +1924,58 @@
       "label": "Governor of Idaho"
     }
   ],
+  "Q455401": [
+    {
+      "id": "Q13217683",
+      "label": "United States Senator"
+    },
+    {
+      "id": "Q13218630",
+      "label": "United States representative"
+    },
+    {
+      "id": "Q4215834",
+      "label": "United States Secretary of the Treasury"
+    }
+  ],
+  "Q22290": [
+    {
+      "id": "Q13217683",
+      "label": "United States Senator"
+    },
+    {
+      "id": "Q13218630",
+      "label": "United States representative",
+      "qualifiers": {
+        "P580": "1979-01-03",
+        "P582": "1995-01-03"
+      }
+    },
+    {
+      "id": "Q18342769",
+      "label": "Member of the Maine State Senate",
+      "qualifiers": {
+        "P580": "1977",
+        "P582": "1979"
+      }
+    },
+    {
+      "id": "Q18713970",
+      "label": "member of the Maine House of Representatives",
+      "qualifiers": {
+        "P580": "1975",
+        "P582": "1977"
+      }
+    },
+    {
+      "id": "Q3506352",
+      "label": "Governor of Maine",
+      "qualifiers": {
+        "P580": "1989-02-24",
+        "P582": "1995-01-08"
+      }
+    }
+  ],
   "Q885583": [
     {
       "id": "Q13217683",
@@ -1453,6 +2016,16 @@
     {
       "id": "Q21367377",
       "label": "member of the State Senate of Oklahoma"
+    }
+  ],
+  "Q436535": [
+    {
+      "id": "Q13217683",
+      "label": "United States Senator"
+    },
+    {
+      "id": "Q13218630",
+      "label": "United States representative"
     }
   ],
   "Q513091": [
@@ -1497,6 +2070,26 @@
     {
       "id": "Q17355090",
       "label": "member of the Louisiana House of Representatives"
+    }
+  ],
+  "Q553116": [
+    {
+      "id": "Q13217683",
+      "label": "United States Senator"
+    },
+    {
+      "id": "Q13218630",
+      "label": "United States representative"
+    },
+    {
+      "id": "Q5589687",
+      "label": "Governor of New Hampshire",
+      "qualifiers": {
+        "P580": "1989-01-04",
+        "P582": "1993-01-07",
+        "P1365": "John H. Sununu",
+        "P1366": "Steve Merrill"
+      }
     }
   ],
   "Q50597": [
@@ -1601,6 +2194,20 @@
       "label": "Member of the Massachusetts House of Representatives"
     }
   ],
+  "Q742210": [
+    {
+      "id": "Q13217683",
+      "label": "United States Senator",
+      "qualifiers": {
+        "P580": "1989-01-03",
+        "P582": "2001-01-03"
+      }
+    },
+    {
+      "id": "Q17598395",
+      "label": "member of the Washington House of Representatives"
+    }
+  ],
   "Q217314": [
     {
       "id": "Q13217683",
@@ -1667,6 +2274,16 @@
       }
     }
   ],
+  "Q1345201": [
+    {
+      "id": "Q13217683",
+      "label": "United States Senator"
+    },
+    {
+      "id": "Q13218630",
+      "label": "United States representative"
+    }
+  ],
   "Q434706": [
     {
       "id": "Q13217683",
@@ -1680,6 +2297,16 @@
     {
       "id": "Q13217683",
       "label": "United States Senator"
+    }
+  ],
+  "Q888183": [
+    {
+      "id": "Q13217683",
+      "label": "United States Senator"
+    },
+    {
+      "id": "Q19360415",
+      "label": "member of the Oregon House of Representatives"
     }
   ],
   "Q734319": [
@@ -1812,6 +2439,42 @@
       "label": "United States Senator"
     }
   ],
+  "Q1240457": [
+    {
+      "id": "Q13217683",
+      "label": "United States Senator"
+    },
+    {
+      "id": "Q13218630",
+      "label": "United States representative"
+    }
+  ],
+  "Q361139": [
+    {
+      "id": "Q13217683",
+      "label": "United States Senator"
+    },
+    {
+      "id": "Q4151335",
+      "label": "Governor of Kentucky",
+      "qualifiers": {
+        "P580": "1971-12-07",
+        "P582": "1974-12-28",
+        "P1365": "Louie B. Nunn",
+        "P1366": "Julian Carroll"
+      }
+    },
+    {
+      "id": "Q1532983",
+      "label": "Lieutenant Governor of Kentucky",
+      "qualifiers": {
+        "P580": "1967-12-12",
+        "P582": "1971-12-07",
+        "P1365": "Harry Lee Waterfield",
+        "P1366": "Julian Carroll"
+      }
+    }
+  ],
   "Q50599": [
     {
       "id": "Q13217683",
@@ -1844,6 +2507,22 @@
       }
     }
   ],
+  "Q1400609": [
+    {
+      "id": "Q13217683",
+      "label": "United States Senator",
+      "qualifiers": {
+        "P580": "1971-01-01",
+        "P582": "2001-01-03",
+        "P1365": "John J. Williams",
+        "P1366": "Tom Carper"
+      }
+    },
+    {
+      "id": "Q13218630",
+      "label": "United States representative"
+    }
+  ],
   "Q1689050": [
     {
       "id": "Q13217683",
@@ -1874,6 +2553,12 @@
     {
       "id": "Q13218630",
       "label": "United States representative"
+    }
+  ],
+  "Q4356720": [
+    {
+      "id": "Q13217683",
+      "label": "United States Senator"
     }
   ],
   "Q230733": [
@@ -1940,6 +2625,42 @@
     {
       "id": "Q13218630",
       "label": "United States representative"
+    }
+  ],
+  "Q108886": [
+    {
+      "id": "Q13217683",
+      "label": "United States Senator",
+      "qualifiers": {
+        "P580": "1977-01-03",
+        "P582": "1983-01-03"
+      }
+    }
+  ],
+  "Q530386": [
+    {
+      "id": "Q13217683",
+      "label": "United States Senator"
+    },
+    {
+      "id": "Q7444367",
+      "label": "Secretary of State of Georgia",
+      "qualifiers": {
+        "P580": "1983-01-11",
+        "P582": "1996-01",
+        "P1365": "David Poythress",
+        "P1366": "Lewis A. Massey"
+      }
+    },
+    {
+      "id": "Q4683606",
+      "label": "Administrator of Veterans Affairs",
+      "qualifiers": {
+        "P580": "1977-01-20",
+        "P582": "1981-01-20",
+        "P1365": "Richard L. Roudebush",
+        "P1366": "Bob Nimmo"
+      }
     }
   ],
   "Q925052": [
@@ -2053,6 +2774,20 @@
       }
     }
   ],
+  "Q816576": [
+    {
+      "id": "Q13217683",
+      "label": "United States Senator"
+    },
+    {
+      "id": "Q13218630",
+      "label": "United States representative"
+    },
+    {
+      "id": "Q17485005",
+      "label": "member of the Colorado House of Representatives"
+    }
+  ],
   "Q323511": [
     {
       "id": "Q13217683",
@@ -2112,6 +2847,16 @@
     }
   ],
   "Q459618": [
+    {
+      "id": "Q13218630",
+      "label": "United States representative"
+    }
+  ],
+  "Q357718": [
+    {
+      "id": "Q13217683",
+      "label": "United States Senator"
+    },
     {
       "id": "Q13218630",
       "label": "United States representative"
@@ -2195,6 +2940,16 @@
       "label": "Member of the Wyoming State Senate"
     }
   ],
+  "Q356475": [
+    {
+      "id": "Q13217683",
+      "label": "United States Senator"
+    },
+    {
+      "id": "Q17602055",
+      "label": "member of the Wisconsin State Senate"
+    }
+  ],
   "Q1691395": [
     {
       "id": "Q13217683",
@@ -2203,6 +2958,16 @@
     {
       "id": "Q13218630",
       "label": "United States representative"
+    }
+  ],
+  "Q881037": [
+    {
+      "id": "Q13217683",
+      "label": "United States Senator"
+    },
+    {
+      "id": "Q5589688",
+      "label": "Governor of Nebraska"
     }
   ],
   "Q359888": [
@@ -2216,6 +2981,24 @@
       "qualifiers": {
         "P580": "2006-01-14",
         "P582": "2010-01-16"
+      }
+    }
+  ],
+  "Q289396": [
+    {
+      "id": "Q13217683",
+      "label": "United States Senator",
+      "qualifiers": {
+        "P580": "1993-01-03",
+        "P582": "1999-01-03"
+      }
+    },
+    {
+      "id": "Q7889347",
+      "label": "United States Ambassador to New Zealand",
+      "qualifiers": {
+        "P580": "1999-12-15",
+        "P582": "2001-03-01"
       }
     }
   ],
@@ -2267,6 +3050,16 @@
     {
       "id": "Q17502533",
       "label": "member of the Ohio House of Representatives"
+    }
+  ],
+  "Q6182103": [
+    {
+      "id": "Q13217683",
+      "label": "United States Senator"
+    },
+    {
+      "id": "Q13218630",
+      "label": "United States representative"
     }
   ],
   "Q2636748": [
@@ -2373,6 +3166,16 @@
       }
     }
   ],
+  "Q457455": [
+    {
+      "id": "Q13217683",
+      "label": "United States Senator"
+    },
+    {
+      "id": "Q13218630",
+      "label": "United States representative"
+    }
+  ],
   "Q560427": [
     {
       "id": "Q13217683",
@@ -2423,6 +3226,12 @@
     {
       "id": "Q13218630",
       "label": "United States representative"
+    }
+  ],
+  "Q448619": [
+    {
+      "id": "Q13217683",
+      "label": "United States Senator"
     }
   ],
   "Q723896": [
@@ -2476,6 +3285,12 @@
     {
       "id": "Q19754409",
       "label": "member of the South Carolina House of Representatives"
+    }
+  ],
+  "Q2064037": [
+    {
+      "id": "Q13217683",
+      "label": "United States Senator"
     }
   ],
   "Q888132": [
@@ -2552,6 +3367,12 @@
       "label": "United States Senator"
     }
   ],
+  "Q458281": [
+    {
+      "id": "Q13217683",
+      "label": "United States Senator"
+    }
+  ],
   "Q527553": [
     {
       "id": "Q13217683",
@@ -2568,6 +3389,12 @@
     {
       "id": "Q878942",
       "label": "Governor of Virginia"
+    }
+  ],
+  "Q265668": [
+    {
+      "id": "Q13217683",
+      "label": "United States Senator"
     }
   ],
   "Q1894476": [
@@ -2632,6 +3459,12 @@
       "label": "United States representative"
     }
   ],
+  "Q1363487": [
+    {
+      "id": "Q13217683",
+      "label": "United States Senator"
+    }
+  ],
   "Q1285613": [
     {
       "id": "Q13217683",
@@ -2660,6 +3493,66 @@
       "label": "United States Senator"
     }
   ],
+  "Q881318": [
+    {
+      "id": "Q13217683",
+      "label": "United States Senator",
+      "qualifiers": {
+        "P580": "1971-01-03",
+        "P582": "1989-01-03",
+        "P1365": "Thomas J. Dodd",
+        "P1366": "Joe Lieberman"
+      }
+    },
+    {
+      "id": "Q13218630",
+      "label": "United States representative"
+    },
+    {
+      "id": "Q887090",
+      "label": "Governor of Connecticut",
+      "qualifiers": {
+        "P580": "1991-01-09",
+        "P582": "1995-01-04",
+        "P1365": "William O'Neill",
+        "P1366": "John G. Rowland"
+      }
+    }
+  ],
+  "Q887338": [
+    {
+      "id": "Q13217683",
+      "label": "United States Senator",
+      "qualifiers": {
+        "P580": "1976-12-29",
+        "P582": "1999-10-24",
+        "P1365": "John O. Pastore",
+        "P1366": "Lincoln Chafee"
+      }
+    },
+    {
+      "id": "Q20765611",
+      "label": "Governor of Rhode Island",
+      "qualifiers": {
+        "P580": "1963-01-01",
+        "P582": "1969-01-07",
+        "P1365": "John A. Notte, Jr.",
+        "P1366": "Frank Licht",
+        "P1545": "66"
+      }
+    },
+    {
+      "id": "Q940135",
+      "label": "United States Secretary of the Navy",
+      "qualifiers": {
+        "P580": "1969-01-31",
+        "P582": "1972-05-04",
+        "P1365": "Paul Robert Ignatius",
+        "P1366": "John Warner",
+        "P1545": "59"
+      }
+    }
+  ],
   "Q22201": [
     {
       "id": "Q13217683",
@@ -2676,6 +3569,39 @@
       "label": "United States Senator"
     }
   ],
+  "Q878810": [
+    {
+      "id": "Q13217683",
+      "label": "United States Senator"
+    },
+    {
+      "id": "Q16202700",
+      "label": "Governor of North Carolina"
+    }
+  ],
+  "Q319079": [
+    {
+      "id": "Q13217683",
+      "label": "United States Senator",
+      "qualifiers": {
+        "P580": "1969-01-03",
+        "P582": "1996-06-11"
+      }
+    },
+    {
+      "id": "Q13218630",
+      "label": "United States representative",
+      "qualifiers": {
+        "P580": "1963-01-03",
+        "P582": "1969-01-03",
+        "P768": "Kansas's 1st congressional district"
+      }
+    },
+    {
+      "id": "Q17487134",
+      "label": "Member of the Kansas House of Representatives"
+    }
+  ],
   "Q1344707": [
     {
       "id": "Q13217683",
@@ -2684,6 +3610,25 @@
     {
       "id": "Q13218630",
       "label": "United States representative"
+    }
+  ],
+  "Q919448": [
+    {
+      "id": "Q13217683",
+      "label": "United States Senator",
+      "qualifiers": {
+        "P580": "1975-01-03",
+        "P582": "1987-01-03",
+        "P1365": "Peter H. Dominick",
+        "P1366": "Tim Wirth"
+      }
+    },
+    {
+      "id": "Q16258496",
+      "label": "United States Special Envoy for Northern Ireland",
+      "qualifiers": {
+        "P580": "2014-10-22"
+      }
     }
   ],
   "Q16476": [
@@ -2710,6 +3655,34 @@
       "label": "Member of the Missouri House of Representatives"
     }
   ],
+  "Q1126725": [
+    {
+      "id": "Q13217683",
+      "label": "United States Senator"
+    }
+  ],
+  "Q712134": [
+    {
+      "id": "Q13217683",
+      "label": "United States Senator"
+    },
+    {
+      "id": "Q13218630",
+      "label": "United States representative"
+    },
+    {
+      "id": "Q17495450",
+      "label": "member of the Illinois House of Representatives"
+    },
+    {
+      "id": "Q3238288",
+      "label": "Lieutenant Governor of Illinois",
+      "qualifiers": {
+        "P580": "1969-01-13",
+        "P582": "1973-01-08"
+      }
+    }
+  ],
   "Q3090307": [
     {
       "id": "Q13218630",
@@ -2726,6 +3699,16 @@
     }
   ],
   "Q957690": [
+    {
+      "id": "Q13217683",
+      "label": "United States Senator"
+    },
+    {
+      "id": "Q13218630",
+      "label": "United States representative"
+    }
+  ],
+  "Q319111": [
     {
       "id": "Q13217683",
       "label": "United States Senator"
@@ -2767,6 +3750,40 @@
       "qualifiers": {
         "P580": "1987-05-01",
         "P582": "1988-02-23"
+      }
+    }
+  ],
+  "Q76": [
+    {
+      "id": "Q11696",
+      "label": "President of the United States of America",
+      "qualifiers": {
+        "P580": "2009-01-20",
+        "P1365": "George W. Bush",
+        "P805": "Presidency of Barack Obama",
+        "P1545": "44"
+      }
+    },
+    {
+      "id": "Q13217683",
+      "label": "United States Senator",
+      "qualifiers": {
+        "P768": "Illinois",
+        "P580": "2005-01-03",
+        "P582": "2008-11-16",
+        "P805": "United States Senate career of Barack Obama",
+        "P1365": "Peter Fitzgerald",
+        "P1366": "Roland Burris"
+      }
+    },
+    {
+      "id": "Q20058778",
+      "label": "Illinois State Senator",
+      "qualifiers": {
+        "P580": "1997-01-08",
+        "P582": "2004-11-04",
+        "P1365": "Alice Palmer",
+        "P1366": "Kwame Raoul"
       }
     }
   ],
@@ -2919,6 +3936,22 @@
       "label": "United States representative"
     }
   ],
+  "Q1094716": [
+    {
+      "id": "Q13217683",
+      "label": "United States Senator"
+    }
+  ],
+  "Q5585350": [
+    {
+      "id": "Q13217683",
+      "label": "United States Senator"
+    },
+    {
+      "id": "Q19264592",
+      "label": "Member of the New Hampshire State Senate"
+    }
+  ],
   "Q887841": [
     {
       "id": "Q13217683",
@@ -2929,6 +3962,30 @@
     {
       "id": "Q13217683",
       "label": "United States Senator"
+    }
+  ],
+  "Q1807209": [
+    {
+      "id": "Q13217683",
+      "label": "United States Senator"
+    }
+  ],
+  "Q155985": [
+    {
+      "id": "Q13217683",
+      "label": "United States Senator",
+      "qualifiers": {
+        "P580": "1995-01-03",
+        "P582": "2007-01-03"
+      }
+    },
+    {
+      "id": "Q13218630",
+      "label": "United States representative",
+      "qualifiers": {
+        "P580": "1991-01-03",
+        "P582": "1995-01-03"
+      }
     }
   ],
   "Q715787": [
@@ -2971,6 +4028,46 @@
     {
       "id": "Q13218630",
       "label": "United States representative"
+    }
+  ],
+  "Q879921": [
+    {
+      "id": "Q13217683",
+      "label": "United States Senator"
+    },
+    {
+      "id": "Q16149111",
+      "label": "Governor of Oregon",
+      "qualifiers": {
+        "P580": "1959-01-12",
+        "P582": "1967-01-09",
+        "P1365": "Robert D. Holmes",
+        "P1366": "Tom McCall"
+      }
+    },
+    {
+      "id": "Q19360415",
+      "label": "member of the Oregon House of Representatives"
+    },
+    {
+      "id": "Q19689183",
+      "label": "member of the State Senate of Oregon"
+    },
+    {
+      "id": "Q7101331",
+      "label": "Oregon Secretary of State",
+      "qualifiers": {
+        "P580": "1957-01-07",
+        "P582": "1959-01-12",
+        "P1365": "Earl T. Newbry",
+        "P1366": "Howell Appling, Jr."
+      }
+    }
+  ],
+  "Q519256": [
+    {
+      "id": "Q13217683",
+      "label": "United States Senator"
     }
   ],
   "Q464810": [
@@ -3050,6 +4147,48 @@
         "P582": "2010-01-19",
         "P1365": "Richard Codey",
         "P1366": "Chris Christie"
+      }
+    }
+  ],
+  "Q723444": [
+    {
+      "id": "Q13217683",
+      "label": "United States Senator"
+    },
+    {
+      "id": "Q4215834",
+      "label": "United States Secretary of the Treasury"
+    }
+  ],
+  "Q239571": [
+    {
+      "id": "Q13217683",
+      "label": "United States Senator",
+      "qualifiers": {
+        "P580": "2003-01-03",
+        "P582": "2009-01-03",
+        "P1365": "Jesse Helms",
+        "P1366": "Kay Hagan"
+      }
+    },
+    {
+      "id": "Q967750",
+      "label": "United States Secretary of Labor",
+      "qualifiers": {
+        "P580": "1989-01-25",
+        "P582": "1990-11-23",
+        "P1365": "Ann McLaughlin Korologos",
+        "P1366": "Lynn Morley Martin"
+      }
+    },
+    {
+      "id": "Q967737",
+      "label": "United States Secretary of Transportation",
+      "qualifiers": {
+        "P580": "1983-02-07",
+        "P582": "1987-09-30",
+        "P1365": "Andrew L. Lewis, Jr.",
+        "P1366": "James H. Burnley IV"
       }
     }
   ],
