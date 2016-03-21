@@ -2,6 +2,12 @@
   "persons": [
     {
       "birth_date": "1948-09-25",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "amunoz"
+        }
+      ],
       "email": "amunoz",
       "gender": "female",
       "given_name": "Adriana",
@@ -64,6 +70,12 @@
     },
     {
       "birth_date": "1945-11-01",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "acardemil"
+        }
+      ],
       "email": "acardemil",
       "gender": "male",
       "given_name": "Alberto",
@@ -197,6 +209,12 @@
     },
     {
       "birth_date": "1956-10-04",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "arobles"
+        }
+      ],
       "email": "arobles",
       "gender": "male",
       "given_name": "Alberto",
@@ -258,6 +276,12 @@
     },
     {
       "birth_date": "1955-04-19",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "acornejo"
+        }
+      ],
       "email": "acornejo",
       "gender": "male",
       "given_name": "Aldo",
@@ -310,6 +334,12 @@
     },
     {
       "birth_date": "1965-11-13",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "asepulveda"
+        }
+      ],
       "email": "asepulveda",
       "gender": "female",
       "given_name": "Alejandra",
@@ -362,6 +392,12 @@
     },
     {
       "birth_date": "1952-04-19",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "agarcia"
+        }
+      ],
       "email": "agarcia",
       "gender": "male",
       "given_name": "Alejandro",
@@ -407,6 +443,12 @@
       "sort_name": "García-Huidobro"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "anavarro"
+        }
+      ],
       "email": "anavarro",
       "gender": "male",
       "given_name": "Alejandro",
@@ -495,6 +537,12 @@
       "sort_name": "Navarro"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "asantana"
+        }
+      ],
       "email": "asantana",
       "gender": "male",
       "id": "c396b458-7e80-4123-bc9b-78162da99311",
@@ -508,6 +556,12 @@
       "sort_name": "Santana"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "asule"
+        }
+      ],
       "email": "asule",
       "gender": "male",
       "given_name": "Alejandro",
@@ -554,6 +608,12 @@
     },
     {
       "birth_date": "1966-03-07",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "adeurresti"
+        }
+      ],
       "email": "adeurresti",
       "gender": "male",
       "given_name": "Alfonso",
@@ -621,6 +681,12 @@
     },
     {
       "birth_date": "1951-12-16",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "avargas"
+        }
+      ],
       "email": "avargas",
       "gender": "male",
       "given_name": "Alfonso",
@@ -672,6 +738,12 @@
     },
     {
       "birth_date": "1966-12-16",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "aescobar"
+        }
+      ],
       "email": "aescobar",
       "gender": "male",
       "given_name": "Álvaro",
@@ -760,6 +832,12 @@
     },
     {
       "birth_date": "1950-08-25",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "aherrera"
+        }
+      ],
       "email": "aherrera",
       "gender": "female",
       "given_name": "Amelia",
@@ -823,6 +901,10 @@
     {
       "birth_date": "1968-03-28",
       "contact_details": [
+        {
+          "type": "email",
+          "value": "amolina"
+        },
         {
           "type": "twitter",
           "value": "diputadamolina"
@@ -1144,6 +1226,12 @@
     },
     {
       "birth_date": "1947-03-08",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "aegana"
+        }
+      ],
       "email": "aegana",
       "gender": "male",
       "given_name": "Andrés",
@@ -1319,12 +1407,23 @@
           "lang": "it",
           "name": "Antonio Horvath",
           "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Antonio Horvath",
+          "note": "multilingual"
         }
       ],
       "sort_name": "Horvath"
     },
     {
       "birth_date": "1950-01-10",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "aleal"
+        }
+      ],
       "email": "aleal",
       "gender": "male",
       "given_name": "Antonio",
@@ -1398,6 +1497,12 @@
     },
     {
       "birth_date": "1948-01-20",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "anibalpe"
+        }
+      ],
       "email": "anibalpe",
       "gender": "male",
       "given_name": "Aníbal",
@@ -1501,6 +1606,12 @@
     },
     {
       "birth_date": "1948-06-25",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "al"
+        }
+      ],
       "death_date": "2015-07-03",
       "email": "al",
       "gender": "male",
@@ -1578,6 +1689,12 @@
     },
     {
       "birth_date": "1978-09-25",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "asquella"
+        }
+      ],
       "death_date": "2010-03-11",
       "email": "asquella",
       "gender": "male",
@@ -1755,6 +1872,12 @@
     },
     {
       "birth_date": "1946-10-04",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "bernardo.berger"
+        }
+      ],
       "email": "bernardo.berger",
       "gender": "male",
       "given_name": "Bernardo",
@@ -1806,6 +1929,12 @@
     },
     {
       "birth_date": "1941-08-27",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "btapia"
+        }
+      ],
       "email": "btapia",
       "gender": "male",
       "given_name": "Boris",
@@ -1843,6 +1972,10 @@
     {
       "birth_date": "1988-04-28",
       "contact_details": [
+        {
+          "type": "email",
+          "value": "camila.vallejo"
+        },
         {
           "type": "twitter",
           "value": "camila_vallejo"
@@ -2127,6 +2260,12 @@
     },
     {
       "birth_date": "1955-06-15",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "cescalona"
+        }
+      ],
       "email": "cescalona",
       "gender": "male",
       "given_name": "Camilo",
@@ -2252,6 +2391,12 @@
     },
     {
       "birth_date": "1944-11-14",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "cjarpa"
+        }
+      ],
       "email": "cjarpa",
       "gender": "male",
       "given_name": "Carlos",
@@ -2521,6 +2666,12 @@
       "sort_name": "Dupré"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "chidalgo"
+        }
+      ],
       "email": "chidalgo",
       "gender": "male",
       "id": "b52d19c0-809a-474d-a3bd-68a0656ca1a9",
@@ -2535,6 +2686,12 @@
     },
     {
       "birth_date": "1953-03-16",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "kuschel"
+        }
+      ],
       "email": "kuschel",
       "gender": "male",
       "given_name": "Carlos",
@@ -2607,6 +2764,12 @@
     },
     {
       "birth_date": "1946-05-11",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "cmontes"
+        }
+      ],
       "email": "cmontes",
       "gender": "male",
       "given_name": "Carlos",
@@ -2663,6 +2826,12 @@
       "sort_name": "Montes"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "colivare"
+        }
+      ],
       "email": "colivare",
       "gender": "male",
       "id": "603efc14-5c10-4903-bcfa-bdf701fe3e34",
@@ -2677,6 +2846,12 @@
     },
     {
       "birth_date": "1954-04-27",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "crecondo"
+        }
+      ],
       "email": "crecondo",
       "gender": "male",
       "given_name": "Carlos",
@@ -2790,6 +2965,12 @@
     },
     {
       "birth_date": "1944-10-20",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "cvilches"
+        }
+      ],
       "email": "cvilches",
       "gender": "male",
       "given_name": "Carlos",
@@ -2838,6 +3019,12 @@
     },
     {
       "birth_date": "1959-02-07",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "cibanez"
+        }
+      ],
       "email": "cibanez",
       "gender": "female",
       "given_name": "Carmen",
@@ -2903,6 +3090,12 @@
     },
     {
       "birth_date": "1972-12-20",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "cgoic"
+        }
+      ],
       "email": "cgoic",
       "gender": "female",
       "given_name": "Carolina",
@@ -3003,6 +3196,12 @@
     },
     {
       "birth_date": "1965-05-12",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "ctoha"
+        }
+      ],
       "email": "ctoha",
       "gender": "female",
       "given_name": "Carolina",
@@ -3112,6 +3311,12 @@
     },
     {
       "birth_date": "1957-07-10",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "cmorales"
+        }
+      ],
       "email": "cmorales",
       "gender": "male",
       "given_name": "Celso",
@@ -3163,6 +3368,12 @@
     },
     {
       "birth_date": "1968-05-27",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "christian.urizar"
+        }
+      ],
       "email": "christian.urizar",
       "gender": "male",
       "given_name": "Christian",
@@ -3215,6 +3426,12 @@
     },
     {
       "birth_date": "1969-11-26",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "cnogueira"
+        }
+      ],
       "email": "cnogueira",
       "gender": "female",
       "given_name": "Claudia",
@@ -3272,6 +3489,12 @@
     },
     {
       "birth_date": "1960-02-07",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "alvarado"
+        }
+      ],
       "email": "alvarado",
       "gender": "male",
       "given_name": "Claudio",
@@ -3339,6 +3562,12 @@
     },
     {
       "birth_date": "1955-10-22",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "claudio.arriagada"
+        }
+      ],
       "email": "claudio.arriagada",
       "gender": "male",
       "given_name": "Claudio",
@@ -3518,6 +3747,12 @@
     },
     {
       "birth_date": "1961-05-05",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "cpacheco"
+        }
+      ],
       "email": "cpacheco",
       "gender": "female",
       "id": "47239a24-e422-4089-992a-7add269772cd",
@@ -3574,6 +3809,12 @@
     },
     {
       "birth_date": "1954-05-18",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "cletelier"
+        }
+      ],
       "email": "cletelier",
       "gender": "male",
       "given_name": "Cristián",
@@ -3630,6 +3871,12 @@
     },
     {
       "birth_date": "1962-01-09",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "cgirardi"
+        }
+      ],
       "email": "cgirardi",
       "gender": "female",
       "given_name": "Cristina",
@@ -3687,6 +3934,12 @@
     },
     {
       "birth_date": "1972-11-18",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "ccampos"
+        }
+      ],
       "email": "ccampos",
       "gender": "male",
       "given_name": "Cristián",
@@ -3739,6 +3992,12 @@
       "sort_name": "Campos"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "cleay"
+        }
+      ],
       "email": "cleay",
       "gender": "male",
       "id": "bdcb23ee-6905-4dcd-9ee8-ddcd120cea4d",
@@ -3753,6 +4012,12 @@
     },
     {
       "birth_date": "1968-05-12",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "cmonckeberg"
+        }
+      ],
       "email": "cmonckeberg",
       "gender": "male",
       "given_name": "Cristián",
@@ -3805,6 +4070,12 @@
     },
     {
       "birth_date": "1963-10-19",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "cpareto"
+        }
+      ],
       "email": "cpareto",
       "gender": "male",
       "given_name": "Cristián",
@@ -3851,6 +4122,12 @@
     },
     {
       "birth_date": "1963-11-02",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "daniel.farcas"
+        }
+      ],
       "email": "daniel.farcas",
       "gender": "male",
       "given_name": "Daniel",
@@ -3918,6 +4195,12 @@
     },
     {
       "birth_date": "1979-02-18",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "daniel.melo"
+        }
+      ],
       "email": "daniel.melo",
       "gender": "male",
       "given_name": "Daniel",
@@ -3971,6 +4254,12 @@
     },
     {
       "birth_date": "1971-01-07",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "daniel.nunez"
+        }
+      ],
       "email": "daniel.nunez",
       "gender": "male",
       "given_name": "Daniel",
@@ -4029,6 +4318,12 @@
     },
     {
       "birth_date": "1987-12-31",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "daniella.cicardini"
+        }
+      ],
       "email": "daniella.cicardini",
       "gender": "female",
       "given_name": "Daniella",
@@ -4089,6 +4384,12 @@
       "sort_name": "Cicardini"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "dmolina"
+        }
+      ],
       "email": "dmolina",
       "gender": "male",
       "id": "412e898d-a754-4a19-850c-b8acbb078fb5",
@@ -4103,6 +4404,12 @@
     },
     {
       "birth_date": "1964-07-20",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "dpaya"
+        }
+      ],
       "email": "dpaya",
       "gender": "male",
       "given_name": "Darío",
@@ -4155,6 +4462,12 @@
     },
     {
       "birth_date": "1952-10-20",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "dsandoval"
+        }
+      ],
       "email": "dsandoval",
       "gender": "male",
       "given_name": "David",
@@ -4217,6 +4530,12 @@
     },
     {
       "birth_date": "1940-07-19",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "dpascal"
+        }
+      ],
       "email": "dpascal",
       "gender": "female",
       "given_name": "Denise",
@@ -4274,6 +4593,12 @@
     },
     {
       "birth_date": "1987-08-01",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "diego.paulsen"
+        }
+      ],
       "email": "diego.paulsen",
       "gender": "male",
       "given_name": "Diego",
@@ -4343,6 +4668,12 @@
     },
     {
       "birth_date": "1949-09-03",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "eriveros"
+        }
+      ],
       "email": "eriveros",
       "gender": "male",
       "given_name": "Edgardo",
@@ -4394,6 +4725,12 @@
     },
     {
       "birth_date": "1950-01-21",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "eeluchans"
+        }
+      ],
       "email": "eeluchans",
       "gender": "male",
       "given_name": "Edmundo",
@@ -4441,6 +4778,12 @@
     },
     {
       "birth_date": "1935-09-09",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "esalas"
+        }
+      ],
       "email": "esalas",
       "gender": "male",
       "given_name": "Edmundo",
@@ -4487,6 +4830,12 @@
       "sort_name": "Salas"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "villouta"
+        }
+      ],
       "email": "villouta",
       "gender": "male",
       "id": "c0841849-589e-4d3b-87be-bf45794f1e45",
@@ -4501,6 +4850,12 @@
     },
     {
       "birth_date": "1933-01-01",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "ecerda"
+        }
+      ],
       "email": "ecerda",
       "gender": "male",
       "given_name": "Eduardo",
@@ -4558,6 +4913,12 @@
     },
     {
       "birth_date": "1973-12-17",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "ediaz"
+        }
+      ],
       "email": "ediaz",
       "gender": "male",
       "given_name": "Eduardo",
@@ -4616,6 +4977,12 @@
     },
     {
       "birth_date": "1967-01-17",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "elagos"
+        }
+      ],
       "email": "elagos",
       "gender": "male",
       "given_name": "Eduardo",
@@ -4654,6 +5021,12 @@
     },
     {
       "birth_date": "1958-08-12",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "esaffirio"
+        }
+      ],
       "email": "esaffirio",
       "gender": "male",
       "given_name": "Eduardo",
@@ -4705,6 +5078,12 @@
     },
     {
       "birth_date": "1937-04-27",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "ecarabal"
+        }
+      ],
       "email": "ecarabal",
       "gender": "female",
       "given_name": "Eliana",
@@ -4751,6 +5130,12 @@
     },
     {
       "birth_date": "1948-08-17",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "eaccorsi"
+        }
+      ],
       "email": "eaccorsi",
       "gender": "male",
       "given_name": "Enrique",
@@ -4817,6 +5202,12 @@
       "sort_name": "Accorsi"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "eestay"
+        }
+      ],
       "email": "eestay",
       "gender": "male",
       "given_name": "Enrique",
@@ -4873,6 +5264,12 @@
     },
     {
       "birth_date": "1937-07-11",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "ejaramil"
+        }
+      ],
       "email": "ejaramil",
       "gender": "male",
       "given_name": "Enrique",
@@ -4986,6 +5383,12 @@
     },
     {
       "birth_date": "1976-09-17",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "evr"
+        }
+      ],
       "email": "evr",
       "gender": "male",
       "given_name": "Enrique",
@@ -5151,6 +5554,12 @@
     },
     {
       "birth_date": "1975-08-15",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "esilva"
+        }
+      ],
       "email": "esilva",
       "gender": "male",
       "given_name": "Ernesto",
@@ -5199,6 +5608,12 @@
     },
     {
       "birth_date": "1964-03-12",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "evalenzuela"
+        }
+      ],
       "email": "evalenzuela",
       "gender": "male",
       "given_name": "Esteban",
@@ -5297,6 +5712,12 @@
     },
     {
       "birth_date": "1947-05-20",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "ebauer"
+        }
+      ],
       "email": "ebauer",
       "gender": "male",
       "given_name": "Eugenio",
@@ -5490,6 +5911,12 @@
     },
     {
       "birth_date": "1945-07-29",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "etuma"
+        }
+      ],
       "email": "etuma",
       "gender": "male",
       "given_name": "Eugenio",
@@ -5702,6 +6129,12 @@
       "sort_name": "Matthei"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "esilva"
+        }
+      ],
       "email": "esilva",
       "gender": "male",
       "id": "30d2f32a-ed77-46cd-abfd-b7fee83bfce4",
@@ -5828,6 +6261,12 @@
     },
     {
       "birth_date": "1982-09-28",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "fdemussy"
+        }
+      ],
       "email": "fdemussy",
       "gender": "male",
       "given_name": "Felipe",
@@ -5890,6 +6329,12 @@
     },
     {
       "birth_date": "1972-07-20",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "fharboe"
+        }
+      ],
       "email": "fharboe",
       "gender": "male",
       "given_name": "Felipe",
@@ -5989,6 +6434,12 @@
     },
     {
       "birth_date": "1977",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "felipe.kast"
+        }
+      ],
       "email": "felipe.kast",
       "gender": "male",
       "given_name": "Felipe",
@@ -6055,6 +6506,12 @@
     },
     {
       "birth_date": "1956-05-11",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "felipe.letelier"
+        }
+      ],
       "email": "felipe.letelier",
       "gender": "male",
       "given_name": "Felipe",
@@ -6116,6 +6573,12 @@
     },
     {
       "birth_date": "1966-01-09",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "fsalaberry"
+        }
+      ],
       "email": "fsalaberry",
       "gender": "male",
       "given_name": "Felipe",
@@ -6180,6 +6643,12 @@
     },
     {
       "birth_date": "1972-09-14",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "fw120"
+        }
+      ],
       "email": "fw120",
       "gender": "male",
       "given_name": "Felipe",
@@ -6242,6 +6711,12 @@
     },
     {
       "birth_date": "1946-07-14",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "fmeza"
+        }
+      ],
       "email": "fmeza",
       "gender": "male",
       "given_name": "Fernando",
@@ -6289,6 +6764,12 @@
     },
     {
       "birth_date": "1970-01-24",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "fespinoza"
+        }
+      ],
       "email": "fespinoza",
       "gender": "male",
       "given_name": "Fidel",
@@ -6395,6 +6876,12 @@
       "sort_name": "Bartolucci"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "fbayo"
+        }
+      ],
       "email": "fbayo",
       "gender": "male",
       "id": "87337348-4fd1-413c-a8a0-fcb1dd3806ab",
@@ -6410,6 +6897,10 @@
     {
       "birth_date": "1971-05-20",
       "contact_details": [
+        {
+          "type": "email",
+          "value": "fchahuan"
+        },
         {
           "type": "twitter",
           "value": "chahuan"
@@ -6481,6 +6972,12 @@
     },
     {
       "birth_date": "1943-12-18",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "fencina"
+        }
+      ],
       "email": "fencina",
       "gender": "male",
       "given_name": "Francisco",
@@ -6524,6 +7021,11 @@
         },
         {
           "lang": "it",
+          "name": "Francisco Encina",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Francisco Encina",
           "note": "multilingual"
         }
@@ -6596,6 +7098,12 @@
     },
     {
       "birth_date": "1972-11-21",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "fs"
+        }
+      ],
       "email": "fs",
       "gender": "male",
       "given_name": "Frank",
@@ -6658,6 +7166,12 @@
     },
     {
       "birth_date": "1976-12-01",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "fchahin"
+        }
+      ],
       "email": "fchahin",
       "gender": "male",
       "given_name": "Fuad",
@@ -6725,6 +7239,12 @@
     },
     {
       "birth_date": "1970-09-30",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "frossi"
+        }
+      ],
       "email": "frossi",
       "family_name": "Rossi",
       "gender": "male",
@@ -6793,6 +7313,12 @@
     },
     {
       "birth_date": "1953-10-25",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "ascencio"
+        }
+      ],
       "email": "ascencio",
       "gender": "male",
       "given_name": "Gabriel",
@@ -6845,6 +7371,10 @@
     {
       "birth_date": "1986-02-11",
       "contact_details": [
+        {
+          "type": "email",
+          "value": "gabriel.boric"
+        },
         {
           "type": "twitter",
           "value": "gabrielboric"
@@ -6918,6 +7448,12 @@
       "sort_name": "Boric"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "gsilber"
+        }
+      ],
       "email": "gsilber",
       "gender": "male",
       "given_name": "Gabriel",
@@ -6979,6 +7515,12 @@
     },
     {
       "birth_date": "1978-05-17",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "grivas"
+        }
+      ],
       "email": "grivas",
       "gender": "male",
       "given_name": "Gaspar",
@@ -7031,6 +7573,12 @@
     },
     {
       "birth_date": "1954-12-26",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "gvonmuhlenbrock"
+        }
+      ],
       "email": "gvonmuhlenbrock",
       "gender": "male",
       "given_name": "Gastón",
@@ -7077,6 +7625,12 @@
     },
     {
       "birth_date": "1955-03-13",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "gbecker"
+        }
+      ],
       "email": "gbecker",
       "gender": "male",
       "given_name": "Germán",
@@ -7125,6 +7679,12 @@
     },
     {
       "birth_date": "1948-10-05",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "gverdugo"
+        }
+      ],
       "email": "gverdugo",
       "gender": "male",
       "given_name": "Germán",
@@ -7172,6 +7732,10 @@
     {
       "birth_date": "1987-02-06",
       "contact_details": [
+        {
+          "type": "email",
+          "value": "giorgio.jackson"
+        },
         {
           "type": "twitter",
           "value": "GiorgioJackson"
@@ -7272,6 +7836,12 @@
     },
     {
       "birth_date": "1971-07-08",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "gcalderon"
+        }
+      ],
       "email": "gcalderon",
       "gender": "male",
       "given_name": "Giovanni",
@@ -7328,6 +7898,12 @@
     },
     {
       "birth_date": "1972-12-13",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "garenas"
+        }
+      ],
       "email": "garenas",
       "gender": "male",
       "given_name": "Gonzalo",
@@ -7385,6 +7961,12 @@
     },
     {
       "birth_date": "1953-04-01",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "gduarte"
+        }
+      ],
       "email": "gduarte",
       "gender": "male",
       "given_name": "Gonzalo",
@@ -7430,12 +8012,23 @@
           "lang": "it",
           "name": "Gonzalo Duarte",
           "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Gonzalo Duarte",
+          "note": "multilingual"
         }
       ],
       "sort_name": "Duarte"
     },
     {
       "birth_date": "1973-06-18",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "gonzalo.fuenzalida"
+        }
+      ],
       "email": "gonzalo.fuenzalida",
       "gender": "male",
       "given_name": "Gonzalo",
@@ -7493,6 +8086,12 @@
     },
     {
       "birth_date": "1945-12-30",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "gibanez"
+        }
+      ],
       "email": "gibanez",
       "gender": "male",
       "given_name": "Gonzalo",
@@ -7559,6 +8158,12 @@
     },
     {
       "birth_date": "1964-12-28",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "guriarte"
+        }
+      ],
       "email": "guriarte",
       "gender": "male",
       "given_name": "Gonzalo",
@@ -7630,6 +8235,12 @@
       "sort_name": "Uriarte"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "ggirardibriere"
+        }
+      ],
       "email": "ggirardibriere",
       "gender": "male",
       "id": "75d885cc-eb35-41bb-83a1-d0c6f36b8054",
@@ -7644,6 +8255,12 @@
     },
     {
       "birth_date": "1961-01-21",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "ggirardi"
+        }
+      ],
       "email": "ggirardi",
       "gender": "male",
       "given_name": "Guido",
@@ -7743,6 +8360,12 @@
     },
     {
       "birth_date": "1946-07-30",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "gceroni"
+        }
+      ],
       "email": "gceroni",
       "gender": "male",
       "given_name": "Guillermo",
@@ -7794,6 +8417,12 @@
     },
     {
       "birth_date": "1943-10-19",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "gteillier"
+        }
+      ],
       "email": "gteillier",
       "gender": "male",
       "given_name": "Guillermo",
@@ -8076,6 +8705,12 @@
       "sort_name": "Cardemil"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "ghasbun"
+        }
+      ],
       "email": "ghasbun",
       "gender": "male",
       "given_name": "Gustavo",
@@ -8369,6 +9004,12 @@
     },
     {
       "birth_date": "1961-10-05",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "hgutierrez"
+        }
+      ],
       "email": "hgutierrez",
       "gender": "male",
       "given_name": "Hugo",
@@ -8539,6 +9180,12 @@
     },
     {
       "birth_date": "1957-09-16",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "iurrutia"
+        }
+      ],
       "email": "iurrutia",
       "gender": "male",
       "given_name": "Ignacio",
@@ -8719,6 +9366,10 @@
     {
       "birth_date": "1945-01-18",
       "contact_details": [
+        {
+          "type": "email",
+          "value": "iallende"
+        },
         {
           "type": "twitter",
           "value": "iallendebussi"
@@ -8995,12 +9646,23 @@
           "lang": "fr",
           "name": "Isidoro Tohá",
           "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Isidoro Tohá",
+          "note": "multilingual"
         }
       ],
       "sort_name": "Tohá"
     },
     {
       "birth_date": "1980-05-09",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "ikort"
+        }
+      ],
       "email": "ikort",
       "gender": "male",
       "given_name": "Issa",
@@ -9102,6 +9764,12 @@
     },
     {
       "birth_date": "1955-06-15",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "ivan.flores"
+        }
+      ],
       "email": "ivan.flores",
       "gender": "male",
       "given_name": "Iván",
@@ -9151,6 +9819,10 @@
     {
       "birth_date": "1967-07-24",
       "contact_details": [
+        {
+          "type": "email",
+          "value": "ivan.fuentes"
+        },
         {
           "type": "twitter",
           "value": "ifuentes_aysen"
@@ -9224,6 +9896,12 @@
     },
     {
       "birth_date": "1956-12-08",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "imoreira"
+        }
+      ],
       "email": "imoreira",
       "gender": "male",
       "given_name": "Iván",
@@ -9286,6 +9964,12 @@
     },
     {
       "birth_date": "1958-09-04",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "inorambuena"
+        }
+      ],
       "email": "inorambuena",
       "gender": "male",
       "given_name": "Iván",
@@ -9338,6 +10022,12 @@
     },
     {
       "birth_date": "1958-06-04",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "iparedes"
+        }
+      ],
       "email": "iparedes",
       "gender": "male",
       "given_name": "Iván",
@@ -9433,6 +10123,12 @@
     },
     {
       "birth_date": "1980-11-29",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "jaime.bellolio"
+        }
+      ],
       "email": "jaime.bellolio",
       "gender": "male",
       "given_name": "Jaime",
@@ -9546,6 +10242,12 @@
       "sort_name": "Estévez"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "jjimenez"
+        }
+      ],
       "email": "jjimenez",
       "gender": "male",
       "id": "0b6eb461-09f5-454a-8549-b6b775ce9b5b",
@@ -9560,6 +10262,12 @@
     },
     {
       "birth_date": "1963-08-03",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "jmulet"
+        }
+      ],
       "email": "jmulet",
       "gender": "male",
       "given_name": "Jaime",
@@ -9718,6 +10426,12 @@
     },
     {
       "birth_date": "1965-12-03",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "jaime.pilowsky"
+        }
+      ],
       "email": "jaime.pilowsky",
       "gender": "male",
       "given_name": "Jaime",
@@ -9770,6 +10484,12 @@
     },
     {
       "birth_date": "1967-10-22",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "jquintana"
+        }
+      ],
       "email": "jquintana",
       "gender": "male",
       "given_name": "Jaime",
@@ -9908,6 +10628,12 @@
     },
     {
       "birth_date": "1954-08-07",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "jhernandez"
+        }
+      ],
       "email": "jhernandez",
       "gender": "male",
       "given_name": "Javier",
@@ -9950,6 +10676,12 @@
     },
     {
       "birth_date": "1978-11-11",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "jmacaya"
+        }
+      ],
       "email": "jmacaya",
       "gender": "male",
       "given_name": "Javier",
@@ -10008,6 +10740,12 @@
     },
     {
       "birth_date": "1974-03-30",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "jenny.alvarez"
+        }
+      ],
       "email": "jenny.alvarez",
       "gender": "female",
       "given_name": "Jenny",
@@ -10060,6 +10798,12 @@
     },
     {
       "birth_date": "1977-01-25",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "jgodoy"
+        }
+      ],
       "email": "jgodoy",
       "gender": "male",
       "given_name": "Joaquín",
@@ -10118,6 +10862,12 @@
     },
     {
       "birth_date": "1979-05-25",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "joaquin.lavin"
+        }
+      ],
       "email": "joaquin.lavin",
       "gender": "male",
       "given_name": "Joaquín",
@@ -10241,6 +10991,12 @@
     },
     {
       "birth_date": "1941-07-09",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "jtuma"
+        }
+      ],
       "email": "jtuma",
       "gender": "male",
       "given_name": "Joaquín",
@@ -10297,6 +11053,12 @@
     },
     {
       "birth_date": "1955-01-12",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "jrosales"
+        }
+      ],
       "email": "jrosales",
       "gender": "male",
       "given_name": "Joel",
@@ -10349,6 +11111,12 @@
     },
     {
       "birth_date": "1956-06-24",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "jburgos"
+        }
+      ],
       "email": "jburgos",
       "gender": "male",
       "given_name": "Jorge",
@@ -10404,12 +11172,23 @@
           "lang": "hu",
           "name": "Jorge Burgos",
           "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Jorge Burgos",
+          "note": "multilingual"
         }
       ],
       "sort_name": "Burgos"
     },
     {
       "birth_date": "1967-02-12",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "jorge.insunza"
+        }
+      ],
       "email": "jorge.insunza",
       "gender": "male",
       "given_name": "Jorge",
@@ -10584,6 +11363,12 @@
       "sort_name": "Morales"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "jorge.rathgeb"
+        }
+      ],
       "email": "jorge.rathgeb",
       "gender": "male",
       "id": "2f4af8af-a02e-4b86-a338-e33b54cab80c",
@@ -10598,6 +11383,12 @@
     },
     {
       "birth_date": "1963-12-26",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "jsabag"
+        }
+      ],
       "email": "jsabag",
       "gender": "male",
       "given_name": "Jorge",
@@ -10752,6 +11543,12 @@
     },
     {
       "birth_date": "1953-07-29",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "jtarud"
+        }
+      ],
       "email": "jtarud",
       "gender": "male",
       "given_name": "Jorge",
@@ -10808,6 +11605,12 @@
     },
     {
       "birth_date": "1958-09-15",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "julloa"
+        }
+      ],
       "email": "julloa",
       "gender": "male",
       "given_name": "Jorge",
@@ -10860,6 +11663,12 @@
     },
     {
       "birth_date": "1961-11-19",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "jgalilea"
+        }
+      ],
       "email": "jgalilea",
       "gender": "male",
       "given_name": "José",
@@ -10917,6 +11726,12 @@
     },
     {
       "birth_date": "1966-01-18",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "jkast"
+        }
+      ],
       "email": "jkast",
       "gender": "male",
       "given_name": "José",
@@ -11139,6 +11954,12 @@
     },
     {
       "birth_date": "1977-07-15",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "jmedwards"
+        }
+      ],
       "email": "jmedwards",
       "gender": "male",
       "given_name": "José",
@@ -11204,6 +12025,12 @@
     },
     {
       "birth_date": "1941-11-25",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "jmortiz"
+        }
+      ],
       "email": "jmortiz",
       "gender": "male",
       "given_name": "José",
@@ -11250,6 +12077,12 @@
     },
     {
       "birth_date": "1940-12-29",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "jperez"
+        }
+      ],
       "email": "jperez",
       "gender": "male",
       "given_name": "José",
@@ -11322,6 +12155,12 @@
     },
     {
       "birth_date": "1980-03-14",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "juanantoniocoloma"
+        }
+      ],
       "email": "juanantoniocoloma",
       "gender": "male",
       "given_name": "Juan",
@@ -11424,6 +12263,12 @@
     },
     {
       "birth_date": "1935-12-08",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "jbustos"
+        }
+      ],
       "death_date": "2008-08-07",
       "email": "jbustos",
       "gender": "male",
@@ -11516,6 +12361,12 @@
     },
     {
       "birth_date": "1949-03-25",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "jclatorre"
+        }
+      ],
       "email": "jclatorre",
       "gender": "male",
       "given_name": "Juan",
@@ -11652,6 +12503,12 @@
     },
     {
       "birth_date": "1952-09-10",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "juan.morano"
+        }
+      ],
       "email": "juan.morano",
       "gender": "male",
       "given_name": "Juan",
@@ -11737,6 +12594,12 @@
     },
     {
       "birth_date": "1960-12-05",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "jlobos"
+        }
+      ],
       "death_date": "2011-04-11",
       "email": "jlobos",
       "gender": "male",
@@ -11800,6 +12663,12 @@
     },
     {
       "birth_date": "1960-04-18",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "jlcastro"
+        }
+      ],
       "email": "jlcastro",
       "gender": "male",
       "given_name": "Juan",
@@ -11864,6 +12733,12 @@
     },
     {
       "birth_date": "1940-11-19",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "masferre"
+        }
+      ],
       "email": "masferre",
       "gender": "male",
       "given_name": "Juan",
@@ -11955,6 +12830,12 @@
     },
     {
       "birth_date": "1961-01-07",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "jpleteli"
+        }
+      ],
       "email": "jpleteli",
       "gender": "male",
       "given_name": "Juan",
@@ -12007,6 +12888,12 @@
     },
     {
       "birth_date": "1951-10-19",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "jdittbor"
+        }
+      ],
       "email": "jdittbor",
       "gender": "male",
       "given_name": "Julio",
@@ -12076,6 +12963,12 @@
     },
     {
       "birth_date": "1977-04-17",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "krubilar"
+        }
+      ],
       "email": "krubilar",
       "gender": "female",
       "given_name": "Karla",
@@ -12134,6 +13027,10 @@
     {
       "birth_date": "1987-04-01",
       "contact_details": [
+        {
+          "type": "email",
+          "value": "karol.cariola"
+        },
         {
           "type": "twitter",
           "value": "Karolcariola"
@@ -12344,6 +13241,12 @@
     },
     {
       "birth_date": "1931-12-15",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "lsoto"
+        }
+      ],
       "email": "lsoto",
       "gender": "female",
       "given_name": "Laura",
@@ -12405,6 +13308,12 @@
     },
     {
       "birth_date": "1952-04-26",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "lcarmona"
+        }
+      ],
       "email": "lcarmona",
       "gender": "male",
       "given_name": "Lautaro",
@@ -12468,6 +13377,12 @@
       "sort_name": "Carmona"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "leonardo.soto"
+        }
+      ],
       "email": "leonardo.soto",
       "gender": "male",
       "given_name": "Leonardo",
@@ -12519,6 +13434,12 @@
     },
     {
       "birth_date": "1957-03-28",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "lperezl"
+        }
+      ],
       "email": "lperezl",
       "gender": "male",
       "given_name": "Leopoldo",
@@ -12561,6 +13482,12 @@
     },
     {
       "birth_date": "1949-10-20",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "lsanchez"
+        }
+      ],
       "email": "lsanchez",
       "gender": "male",
       "given_name": "Leopoldo",
@@ -12603,6 +13530,12 @@
     },
     {
       "birth_date": "1963-05-10",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "lperez"
+        }
+      ],
       "email": "lperez",
       "gender": "female",
       "given_name": "Lily",
@@ -12654,6 +13587,12 @@
       "sort_name": "Pérez"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "loreto.carvajal"
+        }
+      ],
       "email": "loreto.carvajal",
       "gender": "female",
       "id": "a0a4e6ea-6829-4774-b9f6-3d53192c7dc4",
@@ -12714,6 +13653,12 @@
     },
     {
       "birth_date": "1961-12-23",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "llemus"
+        }
+      ],
       "email": "llemus",
       "gender": "male",
       "given_name": "Luis",
@@ -12905,6 +13850,12 @@
     },
     {
       "birth_date": "1958-09-17",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "luis.rocafull"
+        }
+      ],
       "death_date": "2014-03-11",
       "email": "luis.rocafull",
       "gender": "male",
@@ -13155,6 +14106,12 @@
     },
     {
       "birth_date": "1965-07-09",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "mmonsalve"
+        }
+      ],
       "email": "mmonsalve",
       "gender": "male",
       "given_name": "Manuel",
@@ -13222,6 +14179,12 @@
     },
     {
       "birth_date": "1959-11-03",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "mrojas"
+        }
+      ],
       "email": "mrojas",
       "gender": "male",
       "given_name": "Manuel",
@@ -13280,6 +14243,12 @@
     },
     {
       "birth_date": "1967-02-02",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "mcubillos"
+        }
+      ],
       "email": "mcubillos",
       "gender": "female",
       "given_name": "Marcela",
@@ -13337,6 +14306,12 @@
     },
     {
       "birth_date": "1960-02-12",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "marcela.hernando"
+        }
+      ],
       "email": "marcela.hernando",
       "gender": "female",
       "given_name": "Marcela",
@@ -13400,6 +14375,10 @@
     {
       "birth_date": "1981-04-04",
       "contact_details": [
+        {
+          "type": "email",
+          "value": "msabat"
+        },
         {
           "type": "twitter",
           "value": "marcesabat"
@@ -13476,6 +14455,12 @@
     },
     {
       "birth_date": "1975-02-19",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "marcelo.chavez"
+        }
+      ],
       "email": "marcelo.chavez",
       "gender": "male",
       "given_name": "Marcelo",
@@ -13514,6 +14499,12 @@
     },
     {
       "birth_date": "1971-02-06",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "mdiaz"
+        }
+      ],
       "email": "mdiaz",
       "gender": "male",
       "given_name": "Marcelo",
@@ -13582,6 +14573,12 @@
     },
     {
       "birth_date": "1967-10-15",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "mforni"
+        }
+      ],
       "email": "mforni",
       "gender": "male",
       "given_name": "Marcelo",
@@ -13639,6 +14636,12 @@
     },
     {
       "birth_date": "1949-05-18",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "schilling"
+        }
+      ],
       "email": "schilling",
       "gender": "male",
       "given_name": "Marcelo",
@@ -13700,6 +14703,12 @@
     },
     {
       "birth_date": "1966-09-02",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "mnunez"
+        }
+      ],
       "email": "mnunez",
       "gender": "male",
       "given_name": "Marco",
@@ -13761,6 +14770,12 @@
     },
     {
       "birth_date": "1973-06-12",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "menriquez-ominami"
+        }
+      ],
       "email": "menriquez-ominami",
       "gender": "male",
       "given_name": "Marco",
@@ -13903,6 +14918,12 @@
     },
     {
       "birth_date": "1962-10-27",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "mespinosa"
+        }
+      ],
       "email": "mespinosa",
       "gender": "male",
       "given_name": "Marcos",
@@ -14041,6 +15062,12 @@
     },
     {
       "birth_date": "1954-02-03",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "mbertoli"
+        }
+      ],
       "email": "mbertoli",
       "gender": "male",
       "given_name": "Mario",
@@ -14103,6 +15130,12 @@
       "sort_name": "Devaud"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "mescobar"
+        }
+      ],
       "email": "mescobar",
       "gender": "male",
       "id": "6258883d-c1eb-4d4b-8aa3-40dcba64fc7d",
@@ -14229,6 +15262,12 @@
       "sort_name": "Palestro"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "mvarela"
+        }
+      ],
       "email": "mvarela",
       "gender": "male",
       "id": "501f975c-327c-4af0-a19c-6c68c14cfe3d",
@@ -14243,6 +15282,12 @@
     },
     {
       "birth_date": "1957-12-03",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "mvenegas"
+        }
+      ],
       "email": "mvenegas",
       "gender": "male",
       "given_name": "Mario",
@@ -14310,6 +15355,12 @@
     },
     {
       "birth_date": "1964-07-13",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "mturres"
+        }
+      ],
       "email": "mturres",
       "gender": "female",
       "given_name": "Marisol",
@@ -14367,6 +15418,12 @@
     },
     {
       "birth_date": "1966-01-15",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "misasi"
+        }
+      ],
       "email": "misasi",
       "gender": "female",
       "given_name": "Marta",
@@ -14477,6 +15534,12 @@
     },
     {
       "birth_date": "1941-10-13",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "macristi"
+        }
+      ],
       "email": "macristi",
       "gender": "female",
       "given_name": "María",
@@ -14564,6 +15627,12 @@
     },
     {
       "birth_date": "1943-01-08",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "masaa"
+        }
+      ],
       "email": "masaa",
       "gender": "female",
       "given_name": "María",
@@ -14615,6 +15684,12 @@
       "sort_name": "Saa"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "mmella"
+        }
+      ],
       "email": "mmella",
       "gender": "female",
       "id": "37547f27-a88c-4128-871a-2859993447e7",
@@ -14629,6 +15704,12 @@
     },
     {
       "birth_date": "1976-12-28",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "mjhoffmann"
+        }
+      ],
       "email": "mjhoffmann",
       "gender": "female",
       "given_name": "María",
@@ -14727,6 +15808,12 @@
     },
     {
       "birth_date": "1957-06-23",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "cdpia"
+        }
+      ],
       "email": "cdpia",
       "gender": "female",
       "given_name": "Pía",
@@ -14890,6 +15977,12 @@
     },
     {
       "birth_date": "1973-07-19",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "mwalker"
+        }
+      ],
       "email": "mwalker",
       "family_name": "Walker",
       "gender": "male",
@@ -14943,6 +16036,12 @@
     },
     {
       "birth_date": "1945-09-28",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "merrazu"
+        }
+      ],
       "email": "merrazu",
       "gender": "male",
       "id": "e7ed459e-4d19-45b6-818c-19de84f8628b",
@@ -14994,6 +16093,10 @@
     {
       "birth_date": "1971-09-27",
       "contact_details": [
+        {
+          "type": "email",
+          "value": "maya.fernandez"
+        },
         {
           "type": "twitter",
           "value": "Mayafernandeza"
@@ -15134,6 +16237,12 @@
     },
     {
       "birth_date": "1961-07-10",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "miguelangel.alvarado"
+        }
+      ],
       "email": "miguelangel.alvarado",
       "gender": "male",
       "given_name": "Miguel",
@@ -15232,6 +16341,12 @@
     },
     {
       "birth_date": "1967-01-07",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "mmarinovic"
+        }
+      ],
       "email": "mmarinovic",
       "gender": "male",
       "given_name": "Miodrag",
@@ -15293,6 +16408,12 @@
     },
     {
       "birth_date": "1962-05-04",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "mzalaquett"
+        }
+      ],
       "email": "mzalaquett",
       "gender": "female",
       "given_name": "Mónica",
@@ -15426,6 +16547,12 @@
     },
     {
       "birth_date": "1973-07-31",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "nmonckeberg"
+        }
+      ],
       "email": "nmonckeberg",
       "gender": "male",
       "given_name": "Nicolás",
@@ -15517,6 +16644,12 @@
     },
     {
       "birth_date": "1953-09-28",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "nbaltolu"
+        }
+      ],
       "email": "nbaltolu",
       "gender": "male",
       "given_name": "Nino",
@@ -15568,6 +16701,12 @@
     },
     {
       "birth_date": "1947-10-19",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "njofre"
+        }
+      ],
       "email": "njofre",
       "gender": "male",
       "given_name": "Néstor",
@@ -15656,6 +16795,12 @@
     },
     {
       "birth_date": "1952-07-13",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "ovargas"
+        }
+      ],
       "email": "ovargas",
       "gender": "male",
       "given_name": "Orlando",
@@ -15708,6 +16853,12 @@
     },
     {
       "birth_date": "1953-06-02",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "oandrade"
+        }
+      ],
       "email": "oandrade",
       "gender": "male",
       "given_name": "Osvaldo",
@@ -15802,6 +16953,12 @@
       "sort_name": "Andrade"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "opalma"
+        }
+      ],
       "email": "opalma",
       "gender": "male",
       "id": "14cb3b64-3715-4c5a-a5df-abc6b0bff8e9",
@@ -15816,6 +16973,12 @@
     },
     {
       "birth_date": "1951-11-28",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "osvaldo.urrutia"
+        }
+      ],
       "email": "osvaldo.urrutia",
       "gender": "male",
       "given_name": "Osvaldo",
@@ -15879,6 +17042,12 @@
     },
     {
       "birth_date": "1963-01-31",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "pgalilea"
+        }
+      ],
       "email": "pgalilea",
       "gender": "male",
       "given_name": "Pablo",
@@ -15941,6 +17110,10 @@
     {
       "birth_date": "1958-08-12",
       "contact_details": [
+        {
+          "type": "email",
+          "value": "plonguei"
+        },
         {
           "type": "twitter",
           "value": "Pablo_Longueira"
@@ -16045,6 +17218,12 @@
     },
     {
       "birth_date": "1949-10-25",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "plorenzi"
+        }
+      ],
       "email": "plorenzi",
       "gender": "male",
       "given_name": "Pablo",
@@ -16111,6 +17290,12 @@
       "sort_name": "Lorenzini"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "pprieto"
+        }
+      ],
       "email": "pprieto",
       "gender": "male",
       "id": "1b84c228-e79a-4dad-a9fa-e31f34dde978",
@@ -16124,6 +17309,12 @@
       "sort_name": "Prieto"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "pcornejo"
+        }
+      ],
       "email": "pcornejo",
       "gender": "male",
       "id": "7059e224-321d-469a-9be1-d239d3574669",
@@ -16138,6 +17329,12 @@
     },
     {
       "birth_date": "1946-09-11",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "phales"
+        }
+      ],
       "email": "phales",
       "gender": "male",
       "given_name": "Patricio",
@@ -16230,6 +17427,12 @@
     },
     {
       "birth_date": "1956-06-19",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "pmelero"
+        }
+      ],
       "email": "pmelero",
       "gender": "male",
       "given_name": "Patricio",
@@ -16286,6 +17489,12 @@
     },
     {
       "birth_date": "1964-04-24",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "pvallespin"
+        }
+      ],
       "email": "pvallespin",
       "gender": "male",
       "given_name": "Patricio",
@@ -16332,12 +17541,23 @@
           "lang": "fr",
           "name": "Patricio Vallespín",
           "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Patricio Vallespín",
+          "note": "multilingual"
         }
       ],
       "sort_name": "Vallespín"
     },
     {
       "birth_date": "1969-04-28",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "pwalker"
+        }
+      ],
       "email": "pwalker",
       "family_name": "Walker",
       "gender": "male",
@@ -16395,6 +17615,12 @@
     },
     {
       "birth_date": "1982-12-30",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "paulina.nunez"
+        }
+      ],
       "email": "paulina.nunez",
       "gender": "female",
       "given_name": "Paulina",
@@ -16443,6 +17669,12 @@
     },
     {
       "birth_date": "1974-07-16",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "paraya"
+        }
+      ],
       "email": "paraya",
       "gender": "male",
       "given_name": "Pedro",
@@ -16501,6 +17733,12 @@
     },
     {
       "birth_date": "1972-06-29",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "pbrowne"
+        }
+      ],
       "email": "pbrowne",
       "gender": "male",
       "given_name": "Pedro",
@@ -16565,6 +17803,12 @@
     },
     {
       "birth_date": "1944-07-01",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "pmunoz"
+        }
+      ],
       "email": "pmunoz",
       "gender": "male",
       "given_name": "Pedro",
@@ -16623,6 +17867,12 @@
     },
     {
       "birth_date": "1948-04-10",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "alvarez"
+        }
+      ],
       "death_date": "2008-09-03",
       "email": "alvarez",
       "gender": "male",
@@ -16690,6 +17940,12 @@
     },
     {
       "birth_date": "1976-02-18",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "palvarez-salamanca"
+        }
+      ],
       "email": "palvarez-salamanca",
       "gender": "male",
       "given_name": "Pedro",
@@ -16762,6 +18018,12 @@
     },
     {
       "birth_date": "1964-08-05",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "pvelasquez"
+        }
+      ],
       "email": "pvelasquez",
       "gender": "male",
       "given_name": "Pedro",
@@ -16814,6 +18076,12 @@
     },
     {
       "birth_date": "1957",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "pepeauth"
+        }
+      ],
       "email": "pepeauth",
       "gender": "male",
       "given_name": "Pepe",
@@ -16930,6 +18198,12 @@
     },
     {
       "birth_date": "1958-03-05",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "jbarros"
+        }
+      ],
       "email": "jbarros",
       "gender": "male",
       "given_name": "Ramón",
@@ -17023,6 +18297,12 @@
     },
     {
       "birth_date": "1955-08-23",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "rfarias"
+        }
+      ],
       "email": "rfarias",
       "gender": "male",
       "given_name": "Ramón",
@@ -17078,6 +18358,12 @@
       "sort_name": "Farías"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "rperez"
+        }
+      ],
       "email": "rperez",
       "gender": "male",
       "id": "5567dd6e-e961-4b0f-aa4b-c98213872813",
@@ -17092,6 +18378,12 @@
     },
     {
       "birth_date": "1951-06-02",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "raul.saldivar"
+        }
+      ],
       "email": "raul.saldivar",
       "gender": "male",
       "given_name": "Raúl",
@@ -17144,6 +18436,12 @@
     },
     {
       "birth_date": "1964-07-28",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "rsunico"
+        }
+      ],
       "email": "rsunico",
       "gender": "male",
       "given_name": "Raúl",
@@ -17208,6 +18506,12 @@
     },
     {
       "birth_date": "1976-03-15",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "renzo.trisotti"
+        }
+      ],
       "email": "renzo.trisotti",
       "gender": "male",
       "given_name": "Renzo",
@@ -17275,6 +18579,12 @@
     },
     {
       "birth_date": "1947-11-29",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "rfuentealba"
+        }
+      ],
       "email": "rfuentealba",
       "gender": "male",
       "given_name": "Renán",
@@ -17327,6 +18637,12 @@
     },
     {
       "birth_date": "1960-02-04",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "raedo"
+        }
+      ],
       "email": "raedo",
       "gender": "male",
       "given_name": "René",
@@ -17384,6 +18700,12 @@
     },
     {
       "birth_date": "1958-06-02",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "ralinco"
+        }
+      ],
       "email": "ralinco",
       "gender": "male",
       "given_name": "René",
@@ -17436,6 +18758,12 @@
     },
     {
       "birth_date": "1950-05-24",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "rmgarcia"
+        }
+      ],
       "email": "rmgarcia",
       "gender": "male",
       "given_name": "René",
@@ -17492,6 +18820,12 @@
     },
     {
       "birth_date": "1955-10-09",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "rsaffirio"
+        }
+      ],
       "email": "rsaffirio",
       "gender": "male",
       "given_name": "René",
@@ -17548,6 +18882,12 @@
     },
     {
       "birth_date": "1967-03-22",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "rrincon"
+        }
+      ],
       "email": "rrincon",
       "gender": "male",
       "given_name": "Ricardo",
@@ -17610,6 +18950,12 @@
     },
     {
       "birth_date": "1945-10-17",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "rdelmast"
+        }
+      ],
       "death_date": "2014-12-26",
       "email": "rdelmast",
       "gender": "male",
@@ -17699,6 +19045,12 @@
       "sort_name": "Delmastro"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "rleon"
+        }
+      ],
       "email": "rleon",
       "gender": "male",
       "given_name": "Roberto",
@@ -17812,6 +19164,12 @@
     },
     {
       "birth_date": "1955-01-08",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "roberto.poblete"
+        }
+      ],
       "email": "roberto.poblete",
       "gender": "male",
       "given_name": "Roberto",
@@ -17883,6 +19241,12 @@
     },
     {
       "birth_date": "1955-08-17",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "rsepulveda"
+        }
+      ],
       "email": "rsepulveda",
       "gender": "male",
       "given_name": "Roberto",
@@ -17933,6 +19297,12 @@
     },
     {
       "birth_date": "1953-09-20",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "rseguel"
+        }
+      ],
       "email": "rseguel",
       "gender": "male",
       "given_name": "Rodolfo",
@@ -17992,6 +19362,12 @@
     },
     {
       "birth_date": "1941-09-26",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "rodrigogonzalez"
+        }
+      ],
       "email": "rodrigogonzalez",
       "gender": "male",
       "given_name": "Rodrigo",
@@ -18039,6 +19415,12 @@
     },
     {
       "birth_date": "1966-07-30",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "ralvarez"
+        }
+      ],
       "email": "ralvarez",
       "gender": "male",
       "given_name": "Rodrigo",
@@ -18097,6 +19479,12 @@
     },
     {
       "birth_date": "1962-02-17",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "rgutierrez"
+        }
+      ],
       "email": "rgutierrez",
       "gender": "male",
       "id": "33604caa-128e-48e9-ac4f-d9f6789450d3",
@@ -18170,6 +19558,12 @@
     },
     {
       "birth_date": "1942-07-23",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "rosadearica"
+        }
+      ],
       "email": "rosadearica",
       "gender": "female",
       "given_name": "Rosa",
@@ -18217,6 +19611,12 @@
     },
     {
       "birth_date": "1950-11-11",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "romar"
+        }
+      ],
       "email": "romar",
       "gender": "male",
       "id": "7bb920b9-cfff-46cd-b61f-29e17829f77b",
@@ -18330,6 +19730,12 @@
     },
     {
       "birth_date": "1938-04-01",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "svenegas"
+        }
+      ],
       "email": "svenegas",
       "gender": "male",
       "given_name": "Samuel",
@@ -18381,6 +19787,12 @@
     },
     {
       "birth_date": "1953-02-09",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "saguilo"
+        }
+      ],
       "email": "saguilo",
       "gender": "male",
       "given_name": "Sergio",
@@ -18427,6 +19839,12 @@
     },
     {
       "birth_date": "1958",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "sbobadilla"
+        }
+      ],
       "email": "sbobadilla",
       "gender": "male",
       "given_name": "Sergio",
@@ -18478,6 +19896,12 @@
     },
     {
       "birth_date": "1938-05-12",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "scorrea"
+        }
+      ],
       "email": "scorrea",
       "gender": "male",
       "given_name": "Sergio",
@@ -18551,6 +19975,12 @@
     },
     {
       "birth_date": "1967-03-15",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "sergio.espejo"
+        }
+      ],
       "email": "sergio.espejo",
       "gender": "male",
       "given_name": "Sergio",
@@ -18603,6 +20033,12 @@
     },
     {
       "birth_date": "1965-09-15",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "sergio.gahona"
+        }
+      ],
       "email": "sergio.gahona",
       "gender": "male",
       "given_name": "Sergio",
@@ -18684,6 +20120,12 @@
     },
     {
       "birth_date": "1943-03-12",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "sojeda"
+        }
+      ],
       "email": "sojeda",
       "gender": "male",
       "given_name": "Sergio",
@@ -18984,6 +20426,12 @@
     },
     {
       "birth_date": "1962-09-01",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "tjimenez"
+        }
+      ],
       "email": "tjimenez",
       "gender": "male",
       "id": "f5e46008-ddcc-428b-84f3-665639879353",
@@ -19127,6 +20575,12 @@
     },
     {
       "birth_date": "1987-05-23",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "vlado.mirosevic"
+        }
+      ],
       "email": "vlado.mirosevic",
       "gender": "male",
       "given_name": "Vlado",
@@ -19193,6 +20647,12 @@
     },
     {
       "birth_date": "1953-07-01",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "barrueto"
+        }
+      ],
       "email": "barrueto",
       "gender": "male",
       "given_name": "Víctor",
@@ -19239,6 +20699,12 @@
     },
     {
       "birth_date": "1949-06-06",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "vrebolledo"
+        }
+      ],
       "email": "vrebolledo",
       "gender": "male",
       "given_name": "Víctor",
@@ -19285,6 +20751,12 @@
     },
     {
       "birth_date": "1954-10-18",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "vperez"
+        }
+      ],
       "email": "vperez",
       "gender": "male",
       "given_name": "Víctor",
@@ -19370,6 +20842,12 @@
     },
     {
       "birth_date": "1975-10",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "vtorres"
+        }
+      ],
       "email": "vtorres",
       "gender": "male",
       "given_name": "Víctor",
@@ -19418,6 +20896,12 @@
     },
     {
       "birth_date": "1942-12-12",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "wmora"
+        }
+      ],
       "email": "wmora",
       "gender": "male",
       "given_name": "Waldo",
@@ -19475,6 +20959,12 @@
     },
     {
       "birth_date": "1973-03-25",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "xvalcarce"
+        }
+      ],
       "email": "xvalcarce",
       "gender": "female",
       "given_name": "Ximena",
@@ -19526,6 +21016,12 @@
       "sort_name": "Valcarce"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "xvidal"
+        }
+      ],
       "email": "xvidal",
       "gender": "female",
       "given_name": "Ximena",
@@ -19588,6 +21084,12 @@
     },
     {
       "birth_date": "1969-12-16",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "yasna.provoste"
+        }
+      ],
       "email": "yasna.provoste",
       "gender": "female",
       "id": "c3b26cf1-abac-4c50-9f72-5c7535e3861a",
@@ -19686,6 +21188,12 @@
     },
     {
       "birth_date": "1956-05-06",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "luksic"
+        }
+      ],
       "email": "luksic",
       "gender": "male",
       "id": "99b99957-5563-49c2-8183-4a5923e535b5",
