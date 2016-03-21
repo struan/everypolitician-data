@@ -2,6 +2,12 @@
   "persons": [
     {
       "birth_date": "1950-10-30",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "aadamou@parliament.cy"
+        }
+      ],
       "email": "aadamou@parliament.cy",
       "gender": "male",
       "id": "2bccfeee-aeb1-4223-b0b9-2160ff3625a2",
@@ -180,6 +186,12 @@
     },
     {
       "birth_date": "1959-11-30",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "aantoniou@parliament.cy"
+        }
+      ],
       "email": "aantoniou@parliament.cy",
       "gender": "male",
       "given_name": "Antonis",
@@ -248,6 +260,12 @@
     },
     {
       "birth_date": "1969-01-12",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "ehamboullas@parliament.cy"
+        }
+      ],
       "email": "ehamboullas@parliament.cy",
       "gender": "male",
       "id": "1f785a1b-8474-4225-b25f-2734affe4bac",
@@ -292,6 +310,12 @@
     },
     {
       "birth_date": "1964-03-19",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "icharalambides@parliament.cy"
+        }
+      ],
       "email": "icharalambides@parliament.cy",
       "gender": "female",
       "id": "45c60ea1-bb65-4066-b1d3-0edc92359e14",
@@ -354,6 +378,12 @@
     },
     {
       "birth_date": "1963-08-22",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "khadjiyianni@parliament.cy"
+        }
+      ],
       "email": "khadjiyianni@parliament.cy",
       "gender": "male",
       "id": "031e1ad7-2f4a-41d9-89b6-640b675702fa",
@@ -398,6 +428,12 @@
     },
     {
       "birth_date": "1963-08-31",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "lchristoforou@parliament.cy"
+        }
+      ],
       "email": "lchristoforou@parliament.cy",
       "gender": "male",
       "id": "1479b419-0e38-499f-9670-471f98a0c6bb",
@@ -443,6 +479,10 @@
     {
       "birth_date": "1972-06-03",
       "contact_details": [
+        {
+          "type": "email",
+          "value": "adamianou@parliament.cy"
+        },
         {
           "type": "twitter",
           "value": "AristosDamianou"
@@ -514,6 +554,12 @@
     },
     {
       "birth_date": "1954-10-18",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "smisiaouli@parliament.cy"
+        }
+      ],
       "email": "smisiaouli@parliament.cy",
       "gender": "female",
       "id": "1a89df8b-970b-4ed7-ab40-6660f851865f",
@@ -578,6 +624,10 @@
       "birth_date": "1980-03-18",
       "contact_details": [
         {
+          "type": "email",
+          "value": "ediplaros@parliament.cy"
+        },
+        {
           "type": "twitter",
           "value": "ediplaros"
         }
@@ -632,6 +682,12 @@
     },
     {
       "birth_date": "1959-09-23",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "sevagorou@parliament.cy"
+        }
+      ],
       "email": "sevagorou@parliament.cy",
       "gender": "male",
       "id": "135294a5-fd41-44cd-8980-0f316bb09891",
@@ -703,6 +759,12 @@
     },
     {
       "birth_date": "1964-10-22",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "afakontis@parliament.cy"
+        }
+      ],
       "email": "afakontis@parliament.cy",
       "gender": "male",
       "id": "4537b2a0-1d45-4646-939e-261e07d1ab71",
@@ -765,6 +827,12 @@
     },
     {
       "birth_date": "1947-03-31",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "sfittis@parliament.cy"
+        }
+      ],
       "email": "sfittis@parliament.cy",
       "gender": "male",
       "id": "385a9288-2c65-4e2e-9e93-1b3a583f711b",
@@ -809,6 +877,12 @@
     },
     {
       "birth_date": "1961-07-17",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "ycavriel@parliament.cy"
+        }
+      ],
       "email": "ycavriel@parliament.cy",
       "gender": "male",
       "id": "c9483a57-f90f-42a5-9997-6f91a2c56b84",
@@ -912,6 +986,10 @@
       "birth_date": "1957-10-09",
       "contact_details": [
         {
+          "type": "email",
+          "value": "ggeorgiou@parliament.cy"
+        },
+        {
           "type": "twitter",
           "value": "GeorgeKGeorgiou"
         }
@@ -966,6 +1044,12 @@
     },
     {
       "birth_date": "1963-04-09",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "gegeorgiou@parliament.cy"
+        }
+      ],
       "email": "gegeorgiou@parliament.cy",
       "gender": "male",
       "id": "d8a3a81b-678d-46b7-ba6e-e39e68dd2ecc",
@@ -1028,6 +1112,12 @@
     },
     {
       "birth_date": "1971-10-21",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "akafkalias@parliament.cy"
+        }
+      ],
       "email": "akafkalias@parliament.cy",
       "gender": "male",
       "id": "f6e38152-dec4-4e6c-bf23-08420495f04a",
@@ -1090,6 +1180,12 @@
     },
     {
       "birth_date": "1961-05-31",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "mgaroyan@parliament.cy"
+        }
+      ],
       "email": "mgaroyan@parliament.cy",
       "gender": "male",
       "id": "0b5e6200-f5c0-460e-a67f-1ec17617d2c7",
@@ -1207,6 +1303,12 @@
     },
     {
       "birth_date": "1951-12-14",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "nkatsourides@parliament.cy"
+        }
+      ],
       "email": "nkatsourides@parliament.cy",
       "gender": "male",
       "given_name": "Nikos",
@@ -1289,6 +1391,12 @@
     },
     {
       "birth_date": "1957-03-23",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "cconstantinou@parliament.cy"
+        }
+      ],
       "email": "cconstantinou@parliament.cy",
       "gender": "male",
       "id": "0986e289-d83f-4be6-bc1b-14295726c8c1",
@@ -1333,6 +1441,12 @@
     },
     {
       "birth_date": "1954-12-16",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "nconstantinou@parliament.cy"
+        }
+      ],
       "email": "nconstantinou@parliament.cy",
       "gender": "male",
       "id": "6092cfb1-4a17-4275-ba20-a115a611c22c",
@@ -1377,6 +1491,12 @@
     },
     {
       "birth_date": "1971-03-26",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "ccosta@parliament.cy"
+        }
+      ],
       "email": "ccosta@parliament.cy",
       "gender": "male",
       "id": "3d882243-9473-4230-84d1-75cb4e616c5e",
@@ -1439,6 +1559,12 @@
     },
     {
       "birth_date": "1954-07-18",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "skoukouma@parliament.cy"
+        }
+      ],
       "email": "skoukouma@parliament.cy",
       "gender": "female",
       "id": "d92d6691-cb92-44aa-8dc0-4e6927f78a5c",
@@ -1501,6 +1627,12 @@
     },
     {
       "birth_date": "1950-12-07",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "zkoulias@parliament.cy"
+        }
+      ],
       "email": "zkoulias@parliament.cy",
       "gender": "male",
       "id": "9203a358-f36d-4551-80c8-92455f617589",
@@ -1545,6 +1677,12 @@
     },
     {
       "birth_date": "1946-11-09",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "nkoutsou@parliament.cy"
+        }
+      ],
       "email": "nkoutsou@parliament.cy",
       "gender": "male",
       "id": "81ff6684-720f-433e-85b7-071f057970a6",
@@ -1589,6 +1727,12 @@
     },
     {
       "birth_date": "1962-04-30",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "andkyprianou@parliament.cy"
+        }
+      ],
       "email": "andkyprianou@parliament.cy",
       "gender": "male",
       "id": "c6dd8909-ab61-4f2d-8417-7030dbb66ee7",
@@ -1633,6 +1777,12 @@
     },
     {
       "birth_date": "1955-10-26",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "akyprianou@parliament.cy"
+        }
+      ],
       "email": "akyprianou@parliament.cy",
       "gender": "male",
       "given_name": "Andros",
@@ -1767,6 +1917,12 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "akyriakidou@parliament.cy"
+        }
+      ],
       "email": "akyriakidou@parliament.cy",
       "gender": "female",
       "id": "a265d19d-c56e-4caa-b512-065342e02bc8",
@@ -1811,6 +1967,12 @@
     },
     {
       "birth_date": "1956-03-10",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "skyriakidou@parliament.cy"
+        }
+      ],
       "email": "skyriakidou@parliament.cy",
       "gender": "female",
       "id": "b03ce67e-28fe-43c5-af91-53a8ec553207",
@@ -1855,6 +2017,12 @@
     },
     {
       "birth_date": "1950-09-26",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "mkyriakou@parliament.cy"
+        }
+      ],
       "email": "mkyriakou@parliament.cy",
       "gender": "female",
       "id": "b220307f-2f9d-48c6-b120-6247bfe8e719",
@@ -1899,6 +2067,12 @@
     },
     {
       "birth_date": "1955-10-14",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "ylamaris@parliament.cy"
+        }
+      ],
       "email": "ylamaris@parliament.cy",
       "gender": "male",
       "id": "e2dc3255-04e8-4069-963e-df81a24aea5e",
@@ -1961,6 +2135,12 @@
     },
     {
       "birth_date": "1968-12-05",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "gloukaides@parliament.cy"
+        }
+      ],
       "email": "gloukaides@parliament.cy",
       "gender": "male",
       "id": "9f16c11d-da3d-4006-a5d1-6eadd312266f",
@@ -2023,6 +2203,12 @@
     },
     {
       "birth_date": "1959-07-14",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "amappourides@parliament.cy"
+        }
+      ],
       "email": "amappourides@parliament.cy",
       "gender": "male",
       "id": "feca5485-8be4-44b9-a18b-b94eaa6a4f9b",
@@ -2067,6 +2253,12 @@
     },
     {
       "birth_date": "1963-08-05",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "mmavrides@parliament.cy"
+        }
+      ],
       "email": "mmavrides@parliament.cy",
       "gender": "male",
       "id": "0bfaab7c-548b-41cb-82b3-b2870fee11cc",
@@ -2111,6 +2303,12 @@
     },
     {
       "birth_date": "1957-07-16",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "rmavronikola@parliament.cy"
+        }
+      ],
       "email": "rmavronikola@parliament.cy",
       "gender": "female",
       "id": "661f04db-440d-41d2-873f-b7350f0c0134",
@@ -2173,6 +2371,12 @@
     },
     {
       "birth_date": "1957-08-25",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "cmessis@parliament.cy"
+        }
+      ],
       "email": "cmessis@parliament.cy",
       "gender": "male",
       "id": "9dd4f745-ec15-4273-8fc3-e74a20ea0a35",
@@ -2235,6 +2439,12 @@
     },
     {
       "birth_date": "1952-12-29",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "amichaelides@parliament.cy"
+        }
+      ],
       "email": "amichaelides@parliament.cy",
       "gender": "male",
       "given_name": "Andreas",
@@ -2327,6 +2537,12 @@
     },
     {
       "birth_date": "1959-12-02",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "amisos@parliament.cy"
+        }
+      ],
       "email": "amisos@parliament.cy",
       "gender": "male",
       "id": "fb4260b7-1c75-41df-8cee-079fbb9c3c21",
@@ -2412,6 +2628,10 @@
       "birth_date": "1961-07-31",
       "contact_details": [
         {
+          "type": "email",
+          "value": "aneofytou@parliament.cy"
+        },
+        {
           "type": "twitter",
           "value": "AverofCY"
         }
@@ -2474,6 +2694,12 @@
     },
     {
       "birth_date": "1953-11-02",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "nnikolaides@parliament.cy"
+        }
+      ],
       "email": "nnikolaides@parliament.cy",
       "gender": "male",
       "given_name": "Nikos",
@@ -2590,6 +2816,12 @@
     },
     {
       "birth_date": "1960-11-14",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "nnouris@parliament.cy"
+        }
+      ],
       "email": "nnouris@parliament.cy",
       "gender": "male",
       "id": "2fcab4c9-1763-4c15-949a-b7421bf48eed",
@@ -2634,6 +2866,12 @@
     },
     {
       "birth_date": "1951-09-18",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "yomirou@parliament.cy"
+        }
+      ],
       "email": "yomirou@parliament.cy",
       "gender": "male",
       "id": "d310e419-abaa-433c-8f09-13fddf482a61",
@@ -2720,6 +2958,10 @@
     {
       "birth_date": "1973-04-22",
       "contact_details": [
+        {
+          "type": "email",
+          "value": "npapadopoulos@parliament.cy"
+        },
         {
           "type": "twitter",
           "value": "NicholasPapadop"
@@ -2830,6 +3072,12 @@
     },
     {
       "birth_date": "1963-06-15",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "cpapageorgiou@parliament.cy"
+        }
+      ],
       "email": "cpapageorgiou@parliament.cy",
       "gender": "male",
       "id": "8ab3aab7-0bc7-4b4f-a114-3fdf5839690d",
@@ -2906,6 +3154,12 @@
     },
     {
       "birth_date": "1962-03-23",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "gperdikes@parliament.cy"
+        }
+      ],
       "email": "gperdikes@parliament.cy",
       "gender": "male",
       "given_name": "George",
@@ -3015,6 +3269,10 @@
       "birth_date": "1958-11-23",
       "contact_details": [
         {
+          "type": "email",
+          "value": "pprodromou@parliament.cy"
+        },
+        {
           "type": "twitter",
           "value": "pprodromou"
         }
@@ -3069,6 +3327,12 @@
     },
     {
       "birth_date": "1956-10-22",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "giprokopiou@parliament.cy"
+        }
+      ],
       "email": "giprokopiou@parliament.cy",
       "gender": "male",
       "id": "cedf4729-7f48-4ce9-add7-c189db1aa4f7",
@@ -3113,6 +3377,12 @@
     },
     {
       "birth_date": "1965-08-06",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "ssampson@parliament.cy"
+        }
+      ],
       "email": "ssampson@parliament.cy",
       "gender": "male",
       "id": "11021b19-d92c-4d72-b702-cf8fbe957626",
@@ -3157,6 +3427,12 @@
     },
     {
       "birth_date": "1957-10-01",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "fsarikas@parliament.cy"
+        }
+      ],
       "email": "fsarikas@parliament.cy",
       "gender": "male",
       "id": "0aa70bef-a146-413b-ad63-060b671dc648",
@@ -3201,6 +3477,12 @@
     },
     {
       "birth_date": "1964-02-07",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "pstavrianos@parliament.cy"
+        }
+      ],
       "email": "pstavrianos@parliament.cy",
       "gender": "male",
       "id": "c422f834-1259-4559-9585-30a73db76c49",
@@ -3302,6 +3584,12 @@
     },
     {
       "birth_date": "1953-07-27",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "dsyllouris@parliament.cy"
+        }
+      ],
       "email": "dsyllouris@parliament.cy",
       "gender": "male",
       "given_name": "Dimitris",
@@ -3374,6 +3662,12 @@
     },
     {
       "birth_date": "1953-10-01",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "gtasou@parliament.cy"
+        }
+      ],
       "email": "gtasou@parliament.cy",
       "gender": "male",
       "id": "b6a704e9-9e0e-4678-acf3-863cdebc949d",
@@ -3418,6 +3712,12 @@
     },
     {
       "birth_date": "1962-04-15",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "athemistocleous@parliament.cy"
+        }
+      ],
       "email": "athemistocleous@parliament.cy",
       "gender": "male",
       "id": "28cc782d-fd7d-4f4d-b217-45be9bed4598",
@@ -3463,6 +3763,10 @@
     {
       "birth_date": "1964-12-06",
       "contact_details": [
+        {
+          "type": "email",
+          "value": "ntornaritis@parliament.cy"
+        },
         {
           "type": "twitter",
           "value": "nicostornaritis"
@@ -3549,6 +3853,12 @@
     },
     {
       "birth_date": "1956-12-29",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "ctziovanis@parliament.cy"
+        }
+      ],
       "email": "ctziovanis@parliament.cy",
       "gender": "male",
       "id": "3f0e7a1d-70bc-478b-a813-5022ee954c87",
@@ -3611,6 +3921,12 @@
     },
     {
       "birth_date": "1968-09-13",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "gvarnavas@parliament.cy"
+        }
+      ],
       "email": "gvarnavas@parliament.cy",
       "gender": "male",
       "id": "e58e3fc9-d354-4374-9d7d-a95ae503a715",
@@ -3656,6 +3972,10 @@
     {
       "birth_date": "1963-10-01",
       "contact_details": [
+        {
+          "type": "email",
+          "value": "avotsis@parliament.cy"
+        },
         {
           "type": "twitter",
           "value": "AngelosEmVotsis"
@@ -3711,6 +4031,12 @@
     },
     {
       "birth_date": "1963-12-13",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "zzachariou@parliament.cy"
+        }
+      ],
       "email": "zzachariou@parliament.cy",
       "gender": "male",
       "id": "db57ba63-8af0-45c3-9fa9-0687f96ed33a",
