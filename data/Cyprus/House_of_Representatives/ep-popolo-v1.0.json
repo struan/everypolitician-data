@@ -140,6 +140,8 @@
       ]
     },
     {
+      "birth_date": "1946-09-27",
+      "gender": "male",
       "id": "42700471-5888-49f3-b162-af263a529b9f",
       "identifiers": [
         {
@@ -245,7 +247,9 @@
       ]
     },
     {
+      "birth_date": "1969-01-12",
       "email": "ehamboullas@parliament.cy",
+      "gender": "male",
       "id": "1f785a1b-8474-4225-b25f-2734affe4bac",
       "identifiers": [
         {
@@ -287,7 +291,9 @@
       ]
     },
     {
+      "birth_date": "1964-03-19",
       "email": "icharalambides@parliament.cy",
+      "gender": "female",
       "id": "45c60ea1-bb65-4066-b1d3-0edc92359e14",
       "identifiers": [
         {
@@ -335,7 +341,9 @@
       ]
     },
     {
+      "birth_date": "1963-08-22",
       "email": "khadjiyianni@parliament.cy",
+      "gender": "male",
       "id": "031e1ad7-2f4a-41d9-89b6-640b675702fa",
       "identifiers": [
         {
@@ -377,7 +385,9 @@
       ]
     },
     {
+      "birth_date": "1963-08-31",
       "email": "lchristoforou@parliament.cy",
+      "gender": "male",
       "id": "1479b419-0e38-499f-9670-471f98a0c6bb",
       "identifiers": [
         {
@@ -419,7 +429,15 @@
       ]
     },
     {
+      "birth_date": "1972-06-03",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "AristosDamianou"
+        }
+      ],
       "email": "adamianou@parliament.cy",
+      "gender": "male",
       "id": "66966c4d-e771-40be-a7b6-fda2618abf5b",
       "identifiers": [
         {
@@ -442,6 +460,10 @@
         }
       ],
       "links": [
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/AristosDamianou"
+        },
         {
           "note": "wikipedia",
           "url": "https://el.wikipedia.org/wiki/%CE%86%CF%81%CE%B9%CF%83%CF%84%CE%BF%CF%82_%CE%94%CE%B1%CE%BC%CE%B9%CE%B1%CE%BD%CE%BF%CF%8D"
@@ -467,7 +489,9 @@
       ]
     },
     {
+      "birth_date": "1954-10-18",
       "email": "smisiaouli@parliament.cy",
+      "gender": "female",
       "id": "1a89df8b-970b-4ed7-ab40-6660f851865f",
       "identifiers": [
         {
@@ -515,7 +539,15 @@
       ]
     },
     {
+      "birth_date": "1980-03-18",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "ediplaros"
+        }
+      ],
       "email": "ediplaros@parliament.cy",
+      "gender": "male",
       "id": "74053fe1-0b44-44e4-809d-8c92b5f553a5",
       "identifiers": [
         {
@@ -535,6 +567,12 @@
       "images": [
         {
           "url": "http://www.parliament.cy/assets/image/imageoriginal/DIPLAROS%20Efthymios.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/ediplaros"
         }
       ],
       "name": "Diplaros Efthymios",
@@ -557,7 +595,9 @@
       ]
     },
     {
+      "birth_date": "1959-09-23",
       "email": "sevagorou@parliament.cy",
+      "gender": "male",
       "id": "135294a5-fd41-44cd-8980-0f316bb09891",
       "identifiers": [
         {
@@ -605,7 +645,9 @@
       ]
     },
     {
+      "birth_date": "1964-10-22",
       "email": "afakontis@parliament.cy",
+      "gender": "male",
       "id": "4537b2a0-1d45-4646-939e-261e07d1ab71",
       "identifiers": [
         {
@@ -653,7 +695,9 @@
       ]
     },
     {
+      "birth_date": "1947-03-31",
       "email": "sfittis@parliament.cy",
+      "gender": "male",
       "id": "385a9288-2c65-4e2e-9e93-1b3a583f711b",
       "identifiers": [
         {
@@ -695,7 +739,9 @@
       ]
     },
     {
+      "birth_date": "1961-07-17",
       "email": "ycavriel@parliament.cy",
+      "gender": "male",
       "id": "c9483a57-f90f-42a5-9997-6f91a2c56b84",
       "identifiers": [
         {
@@ -743,6 +789,8 @@
       ]
     },
     {
+      "birth_date": "1972-04-09",
+      "gender": "male",
       "id": "3e6eb062-3610-4544-8841-8b98de796671",
       "identifiers": [
         {
@@ -780,7 +828,15 @@
       ]
     },
     {
+      "birth_date": "1957-10-09",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "GeorgeKGeorgiou"
+        }
+      ],
       "email": "ggeorgiou@parliament.cy",
+      "gender": "male",
       "id": "a5cb8a98-85b9-4c51-a519-b6e54ce02468",
       "identifiers": [
         {
@@ -800,6 +856,12 @@
       "images": [
         {
           "url": "http://www.parliament.cy/assets/image/imageoriginal/GEORGIOU%20Georgios.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/GeorgeKGeorgiou"
         }
       ],
       "name": "Georgiou Georgios",
@@ -822,7 +884,9 @@
       ]
     },
     {
+      "birth_date": "1963-04-09",
       "email": "gegeorgiou@parliament.cy",
+      "gender": "male",
       "id": "d8a3a81b-678d-46b7-ba6e-e39e68dd2ecc",
       "identifiers": [
         {
@@ -870,7 +934,9 @@
       ]
     },
     {
+      "birth_date": "1971-10-21",
       "email": "akafkalias@parliament.cy",
+      "gender": "male",
       "id": "f6e38152-dec4-4e6c-bf23-08420495f04a",
       "identifiers": [
         {
@@ -1117,7 +1183,9 @@
       ]
     },
     {
+      "birth_date": "1957-03-23",
       "email": "cconstantinou@parliament.cy",
+      "gender": "male",
       "id": "0986e289-d83f-4be6-bc1b-14295726c8c1",
       "identifiers": [
         {
@@ -1159,7 +1227,9 @@
       ]
     },
     {
+      "birth_date": "1954-12-16",
       "email": "nconstantinou@parliament.cy",
+      "gender": "male",
       "id": "6092cfb1-4a17-4275-ba20-a115a611c22c",
       "identifiers": [
         {
@@ -1201,7 +1271,9 @@
       ]
     },
     {
+      "birth_date": "1971-03-26",
       "email": "ccosta@parliament.cy",
+      "gender": "male",
       "id": "3d882243-9473-4230-84d1-75cb4e616c5e",
       "identifiers": [
         {
@@ -1249,7 +1321,9 @@
       ]
     },
     {
+      "birth_date": "1954-07-18",
       "email": "skoukouma@parliament.cy",
+      "gender": "female",
       "id": "d92d6691-cb92-44aa-8dc0-4e6927f78a5c",
       "identifiers": [
         {
@@ -1297,7 +1371,9 @@
       ]
     },
     {
+      "birth_date": "1950-12-07",
       "email": "zkoulias@parliament.cy",
+      "gender": "male",
       "id": "9203a358-f36d-4551-80c8-92455f617589",
       "identifiers": [
         {
@@ -1339,7 +1415,9 @@
       ]
     },
     {
+      "birth_date": "1946-11-09",
       "email": "nkoutsou@parliament.cy",
+      "gender": "male",
       "id": "81ff6684-720f-433e-85b7-071f057970a6",
       "identifiers": [
         {
@@ -1381,7 +1459,9 @@
       ]
     },
     {
+      "birth_date": "1962-04-30",
       "email": "andkyprianou@parliament.cy",
+      "gender": "male",
       "id": "c6dd8909-ab61-4f2d-8417-7030dbb66ee7",
       "identifiers": [
         {
@@ -1426,6 +1506,7 @@
       "birth_date": "1955-10-26",
       "email": "akyprianou@parliament.cy",
       "gender": "male",
+      "given_name": "Andros",
       "id": "89de6338-fe92-4f8d-8126-576a87c04eff",
       "identifiers": [
         {
@@ -1558,6 +1639,7 @@
     },
     {
       "email": "akyriakidou@parliament.cy",
+      "gender": "female",
       "id": "a265d19d-c56e-4caa-b512-065342e02bc8",
       "identifiers": [
         {
@@ -1599,7 +1681,9 @@
       ]
     },
     {
+      "birth_date": "1956-03-10",
       "email": "skyriakidou@parliament.cy",
+      "gender": "female",
       "id": "b03ce67e-28fe-43c5-af91-53a8ec553207",
       "identifiers": [
         {
@@ -1641,7 +1725,9 @@
       ]
     },
     {
+      "birth_date": "1950-09-26",
       "email": "mkyriakou@parliament.cy",
+      "gender": "female",
       "id": "b220307f-2f9d-48c6-b120-6247bfe8e719",
       "identifiers": [
         {
@@ -1683,7 +1769,9 @@
       ]
     },
     {
+      "birth_date": "1955-10-14",
       "email": "ylamaris@parliament.cy",
+      "gender": "male",
       "id": "e2dc3255-04e8-4069-963e-df81a24aea5e",
       "identifiers": [
         {
@@ -1731,7 +1819,9 @@
       ]
     },
     {
+      "birth_date": "1968-12-05",
       "email": "gloukaides@parliament.cy",
+      "gender": "male",
       "id": "9f16c11d-da3d-4006-a5d1-6eadd312266f",
       "identifiers": [
         {
@@ -1779,7 +1869,9 @@
       ]
     },
     {
+      "birth_date": "1959-07-14",
       "email": "amappourides@parliament.cy",
+      "gender": "male",
       "id": "feca5485-8be4-44b9-a18b-b94eaa6a4f9b",
       "identifiers": [
         {
@@ -1821,7 +1913,9 @@
       ]
     },
     {
+      "birth_date": "1963-08-05",
       "email": "mmavrides@parliament.cy",
+      "gender": "male",
       "id": "0bfaab7c-548b-41cb-82b3-b2870fee11cc",
       "identifiers": [
         {
@@ -1863,7 +1957,9 @@
       ]
     },
     {
+      "birth_date": "1957-07-16",
       "email": "rmavronikola@parliament.cy",
+      "gender": "female",
       "id": "661f04db-440d-41d2-873f-b7350f0c0134",
       "identifiers": [
         {
@@ -1911,7 +2007,9 @@
       ]
     },
     {
+      "birth_date": "1957-08-25",
       "email": "cmessis@parliament.cy",
+      "gender": "male",
       "id": "9dd4f745-ec15-4273-8fc3-e74a20ea0a35",
       "identifiers": [
         {
@@ -2051,7 +2149,9 @@
       ]
     },
     {
+      "birth_date": "1959-12-02",
       "email": "amisos@parliament.cy",
+      "gender": "male",
       "id": "fb4260b7-1c75-41df-8cee-079fbb9c3c21",
       "identifiers": [
         {
@@ -2093,6 +2193,8 @@
       ]
     },
     {
+      "birth_date": "1965-05-30",
+      "gender": "male",
       "id": "9cf0587b-e652-48fa-9ce0-f793c115aa60",
       "identifiers": [
         {
@@ -2130,7 +2232,15 @@
       ]
     },
     {
+      "birth_date": "1961-07-31",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "AverofCY"
+        }
+      ],
       "email": "aneofytou@parliament.cy",
+      "gender": "male",
       "id": "d0b02f94-d36e-49b3-b7b9-5c94e2f8cf84",
       "identifiers": [
         {
@@ -2153,6 +2263,14 @@
         }
       ],
       "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/AverofNeofytou"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/AverofCY"
+        },
         {
           "note": "wikipedia",
           "url": "https://el.wikipedia.org/wiki/%CE%91%CE%B2%CE%AD%CF%81%CF%89%CF%86_%CE%9D%CE%B5o%CF%86%CF%8D%CF%84%CE%BF%CF%85"
@@ -2255,6 +2373,8 @@
       ]
     },
     {
+      "birth_date": "1963-01-21",
+      "gender": "male",
       "id": "6e72ac7f-0154-4895-bcae-ab4a9c362776",
       "identifiers": [
         {
@@ -2292,7 +2412,9 @@
       ]
     },
     {
+      "birth_date": "1960-11-14",
       "email": "nnouris@parliament.cy",
+      "gender": "male",
       "id": "2fcab4c9-1763-4c15-949a-b7421bf48eed",
       "identifiers": [
         {
@@ -2420,6 +2542,12 @@
     },
     {
       "birth_date": "1973-04-22",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "NicholasPapadop"
+        }
+      ],
       "email": "npapadopoulos@parliament.cy",
       "gender": "male",
       "given_name": "Nikolas",
@@ -2460,6 +2588,10 @@
         {
           "note": "Wikipedia (pl)",
           "url": "https://pl.wikipedia.org/wiki/Nikolas_Papadopulos"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/NicholasPapadop"
         },
         {
           "note": "wikipedia",
@@ -2596,6 +2728,7 @@
       ]
     },
     {
+      "birth_date": "1962-03-23",
       "email": "gperdikes@parliament.cy",
       "gender": "male",
       "given_name": "George",
@@ -2663,6 +2796,8 @@
       ]
     },
     {
+      "birth_date": "1977-06-09",
+      "gender": "male",
       "id": "3a66f1de-c568-4532-901d-6658314904b5",
       "identifiers": [
         {
@@ -2700,7 +2835,15 @@
       ]
     },
     {
+      "birth_date": "1958-11-23",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "pprodromou"
+        }
+      ],
       "email": "pprodromou@parliament.cy",
+      "gender": "male",
       "id": "4e0c522e-a790-4e4a-961f-44d6f802fe1c",
       "identifiers": [
         {
@@ -2720,6 +2863,12 @@
       "images": [
         {
           "url": "http://www.parliament.cy/assets/image/imageoriginal/PRODROMOU%20Prodromos.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/pprodromou"
         }
       ],
       "name": "Prodromou Prodromos",
@@ -2742,7 +2891,9 @@
       ]
     },
     {
+      "birth_date": "1956-10-22",
       "email": "giprokopiou@parliament.cy",
+      "gender": "male",
       "id": "cedf4729-7f48-4ce9-add7-c189db1aa4f7",
       "identifiers": [
         {
@@ -2784,7 +2935,9 @@
       ]
     },
     {
+      "birth_date": "1965-08-06",
       "email": "ssampson@parliament.cy",
+      "gender": "male",
       "id": "11021b19-d92c-4d72-b702-cf8fbe957626",
       "identifiers": [
         {
@@ -2826,7 +2979,9 @@
       ]
     },
     {
+      "birth_date": "1957-10-01",
       "email": "fsarikas@parliament.cy",
+      "gender": "male",
       "id": "0aa70bef-a146-413b-ad63-060b671dc648",
       "identifiers": [
         {
@@ -2868,7 +3023,9 @@
       ]
     },
     {
+      "birth_date": "1964-02-07",
       "email": "pstavrianos@parliament.cy",
+      "gender": "male",
       "id": "c422f834-1259-4559-9585-30a73db76c49",
       "identifiers": [
         {
@@ -2916,6 +3073,8 @@
       ]
     },
     {
+      "birth_date": "1958-06-26",
+      "gender": "male",
       "id": "7c9c8c04-b93b-447c-8c1c-c87c8c664264",
       "identifiers": [
         {
@@ -2953,7 +3112,9 @@
       ]
     },
     {
+      "birth_date": "1953-07-27",
       "email": "dsyllouris@parliament.cy",
+      "gender": "male",
       "id": "d2f50a5d-d69b-478f-964b-9a18c54187b5",
       "identifiers": [
         {
@@ -3001,7 +3162,9 @@
       ]
     },
     {
+      "birth_date": "1953-10-01",
       "email": "gtasou@parliament.cy",
+      "gender": "male",
       "id": "b6a704e9-9e0e-4678-acf3-863cdebc949d",
       "identifiers": [
         {
@@ -3043,7 +3206,9 @@
       ]
     },
     {
+      "birth_date": "1962-04-15",
       "email": "athemistocleous@parliament.cy",
+      "gender": "male",
       "id": "28cc782d-fd7d-4f4d-b217-45be9bed4598",
       "identifiers": [
         {
@@ -3086,6 +3251,12 @@
     },
     {
       "birth_date": "1964-12-06",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "nicostornaritis"
+        }
+      ],
       "email": "ntornaritis@parliament.cy",
       "gender": "male",
       "id": "ba9eb130-c1f9-40ae-a805-4a7c635a8b01",
@@ -3117,6 +3288,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Nicos_Tornaritis"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/nicostornaritis"
         },
         {
           "note": "wikipedia",
@@ -3162,7 +3337,9 @@
       ]
     },
     {
+      "birth_date": "1956-12-29",
       "email": "ctziovanis@parliament.cy",
+      "gender": "male",
       "id": "3f0e7a1d-70bc-478b-a813-5022ee954c87",
       "identifiers": [
         {
@@ -3210,7 +3387,9 @@
       ]
     },
     {
+      "birth_date": "1968-09-13",
       "email": "gvarnavas@parliament.cy",
+      "gender": "male",
       "id": "e58e3fc9-d354-4374-9d7d-a95ae503a715",
       "identifiers": [
         {
@@ -3252,7 +3431,15 @@
       ]
     },
     {
+      "birth_date": "1963-10-01",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "AngelosEmVotsis"
+        }
+      ],
       "email": "avotsis@parliament.cy",
+      "gender": "male",
       "id": "49f987a1-50a1-4025-bd40-499111be934e",
       "identifiers": [
         {
@@ -3272,6 +3459,12 @@
       "images": [
         {
           "url": "http://www.parliament.cy/assets/image/imageoriginal/VOTSIS%20Aggelos.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/AngelosEmVotsis"
         }
       ],
       "name": "Votsis Angelos",
@@ -3294,7 +3487,9 @@
       ]
     },
     {
+      "birth_date": "1963-12-13",
       "email": "zzachariou@parliament.cy",
+      "gender": "male",
       "id": "db57ba63-8af0-45c3-9fa9-0687f96ed33a",
       "identifiers": [
         {
