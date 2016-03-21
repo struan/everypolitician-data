@@ -109,8 +109,8 @@ namespace :merge_sources do
     end
 
     # Build the master list of columns
-    all_headers = instructions(:sources).find_all { |src|
-      src[:type] != 'term'
+    all_headers = instructions(:sources).reject { |src|
+      %w(term gender).include? src[:type] 
     }. map { |src| src[:file] }.reduce([]) do |all_headers, file|
       header_line = File.open(file, &:gets) or abort "#{file} is empty!".red
       all_headers | CSV.parse_line(header_line).map { |h| remap(h.downcase) } 
@@ -322,6 +322,7 @@ namespace :merge_sources do
         r[:gender] = winner.first.to_s 
         gb_votes += 1
       end
+      all_headers |= [:gender]
       warn "⚥ #{gb_votes}".cyan 
     end
 
