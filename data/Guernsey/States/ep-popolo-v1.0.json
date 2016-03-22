@@ -1,6 +1,12 @@
 {
   "persons": [
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Hunter.Adam@deputies.gov.gg"
+        }
+      ],
       "email": "Hunter.Adam@deputies.gov.gg",
       "id": "cf186769-790b-4538-8eb2-b9154e86bf71",
       "identifiers": [
@@ -19,8 +25,12 @@
     {
       "contact_details": [
         {
+          "type": "email",
+          "value": "elis.bebb@gmail.com"
+        },
+        {
           "type": "twitter",
-          "value": "https://twitter.com/ElisBebb"
+          "value": "ElisBebb"
         }
       ],
       "email": "elis.bebb@gmail.com",
@@ -29,6 +39,12 @@
         {
           "identifier": "bebb,_elis_g.",
           "scheme": "everypolitician_legacy"
+        }
+      ],
+      "links": [
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/ElisBebb"
         }
       ],
       "name": "Bebb, Elis G.",
@@ -41,16 +57,27 @@
     {
       "contact_details": [
         {
+          "type": "email",
+          "value": "barry.brehaut@deputies.gov.gg"
+        },
+        {
           "type": "twitter",
-          "value": "https://twitter.com/deputybaz"
+          "value": "deputybaz"
         }
       ],
       "email": "barry.brehaut@deputies.gov.gg",
+      "gender": "male",
       "id": "fb8a0921-0a45-4209-bb3c-c42e6f073c3b",
       "identifiers": [
         {
           "identifier": "brehaut,_barry_l.",
           "scheme": "everypolitician_legacy"
+        }
+      ],
+      "links": [
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/deputybaz"
         }
       ],
       "name": "Brehaut, Barry L.",
@@ -61,6 +88,12 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "al.brouard@deputies.gov.gg"
+        }
+      ],
       "email": "al.brouard@deputies.gov.gg",
       "id": "22e754e3-7656-4673-9dde-a3c7f1c274a9",
       "identifiers": [
@@ -79,16 +112,27 @@
     {
       "contact_details": [
         {
+          "type": "email",
+          "value": "yvonne.burford@deputies.gov.gg"
+        },
+        {
           "type": "twitter",
-          "value": "https://twitter.com/YvonneBurford"
+          "value": "YvonneBurford"
         }
       ],
       "email": "yvonne.burford@deputies.gov.gg",
+      "gender": "female",
       "id": "47ebccc8-b779-49aa-a800-eb45b48e3dad",
       "identifiers": [
         {
           "identifier": "burford,_yvonne",
           "scheme": "everypolitician_legacy"
+        }
+      ],
+      "links": [
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/YvonneBurford"
         }
       ],
       "name": "Burford, Yvonne",
@@ -101,8 +145,12 @@
     {
       "contact_details": [
         {
+          "type": "email",
+          "value": "Garry.Collins@deputies.gov.gg"
+        },
+        {
           "type": "twitter",
-          "value": "https://twitter.com/GarryCollinsGue"
+          "value": "GarryCollinsGue"
         }
       ],
       "email": "Garry.Collins@deputies.gov.gg",
@@ -113,6 +161,12 @@
           "scheme": "everypolitician_legacy"
         }
       ],
+      "links": [
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/GarryCollinsGue"
+        }
+      ],
       "name": "Collins, Garry M.",
       "sources": [
         {
@@ -121,7 +175,14 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Richard.Conder@deputies.gov.gg"
+        }
+      ],
       "email": "Richard.Conder@deputies.gov.gg",
+      "gender": "male",
       "id": "7304e050-e141-475e-bbd4-9afbeb4be566",
       "identifiers": [
         {
@@ -139,16 +200,27 @@
     {
       "contact_details": [
         {
+          "type": "email",
+          "value": "delisle.david@cwgsy.net"
+        },
+        {
           "type": "twitter",
-          "value": "https://twitter.com/delisledavid"
+          "value": "delisledavid"
         }
       ],
       "email": "delisle.david@cwgsy.net",
+      "gender": "male",
       "id": "ba64f08a-c809-4cb5-9fa1-9ab669574be1",
       "identifiers": [
         {
           "identifier": "de_lisle,_david_de_g",
           "scheme": "everypolitician_legacy"
+        }
+      ],
+      "links": [
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/delisledavid"
         }
       ],
       "name": "De Lisle, David de G",
@@ -159,7 +231,14 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Roger.Domaille@deputies.gov.gg"
+        }
+      ],
       "email": "Roger.Domaille@deputies.gov.gg",
+      "gender": "male",
       "id": "16b52004-d66c-479d-949b-b61050d86abe",
       "identifiers": [
         {
@@ -175,7 +254,14 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Mark.Dorey@deputies.gov.gg"
+        }
+      ],
       "email": "Mark.Dorey@deputies.gov.gg",
+      "gender": "male",
       "id": "a1129c34-55df-45d2-8780-e2a279ba8b47",
       "identifiers": [
         {
@@ -193,16 +279,27 @@
     {
       "contact_details": [
         {
+          "type": "email",
+          "value": "Darren.Duquemin@deputies.gov.gg"
+        },
+        {
           "type": "twitter",
-          "value": "https://twitter.com/darrenduquemin"
+          "value": "darrenduquemin"
         }
       ],
       "email": "Darren.Duquemin@deputies.gov.gg",
+      "gender": "male",
       "id": "7bb1ec99-1b27-48ba-916c-9f3261adc9eb",
       "identifiers": [
         {
           "identifier": "duquemin,_darren_j.",
           "scheme": "everypolitician_legacy"
+        }
+      ],
+      "links": [
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/darrenduquemin"
         }
       ],
       "name": "Duquemin, Darren J.",
@@ -213,7 +310,14 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "mattfallaize@cwgsy.net"
+        }
+      ],
       "email": "mattfallaize@cwgsy.net",
+      "gender": "male",
       "id": "615a4e62-bdaa-4ced-9528-d23cbf9a23ac",
       "identifiers": [
         {
@@ -229,7 +333,14 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Peter.Gillson@gov.gg"
+        }
+      ],
       "email": "Peter.Gillson@gov.gg",
+      "gender": "male",
       "id": "0a85ff4b-c495-44f9-9b33-4141e6e2b09a",
       "identifiers": [
         {
@@ -247,8 +358,12 @@
     {
       "contact_details": [
         {
+          "type": "email",
+          "value": "John.Gollop@deputies.gov.gg"
+        },
+        {
           "type": "twitter",
-          "value": "https://twitter.com/GollopGuern"
+          "value": "GollopGuern"
         }
       ],
       "email": "John.Gollop@deputies.gov.gg",
@@ -257,6 +372,12 @@
         {
           "identifier": "gollop,_john_a._b.",
           "scheme": "everypolitician_legacy"
+        }
+      ],
+      "links": [
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/GollopGuern"
         }
       ],
       "name": "Gollop, John A. B.",
@@ -269,16 +390,27 @@
     {
       "contact_details": [
         {
+          "type": "email",
+          "value": "Christopher.Green@deputies.gov.gg"
+        },
+        {
           "type": "twitter",
-          "value": "https://twitter.com/deputycgreen"
+          "value": "deputycgreen"
         }
       ],
       "email": "Christopher.Green@deputies.gov.gg",
+      "gender": "male",
       "id": "7f503d0b-59db-4708-9f94-45684cd88c3a",
       "identifiers": [
         {
           "identifier": "green,_christopher_j.",
           "scheme": "everypolitician_legacy"
+        }
+      ],
+      "links": [
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/deputycgreen"
         }
       ],
       "name": "Green, Christopher J.",
@@ -289,7 +421,14 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Mike.Hadley@deputies.gov.gg"
+        }
+      ],
       "email": "Mike.Hadley@deputies.gov.gg",
+      "gender": "male",
       "id": "c38b874b-e9ba-42eb-b023-7ae395c57582",
       "identifiers": [
         {
@@ -305,7 +444,14 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Neil.Harvey@deputies.gov.gg"
+        }
+      ],
       "email": "Neil.Harvey@deputies.gov.gg",
+      "gender": "male",
       "id": "b6d46b0f-24ef-42c6-b7ee-8f3b08ff87e1",
       "identifiers": [
         {
@@ -321,7 +467,14 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Peter.Harwood@deputies.gov.gg"
+        }
+      ],
       "email": "Peter.Harwood@deputies.gov.gg",
+      "gender": "male",
       "id": "a556d367-f9ac-452e-baae-c248b0938d1c",
       "identifiers": [
         {
@@ -339,11 +492,16 @@
     {
       "contact_details": [
         {
+          "type": "email",
+          "value": "dai@cwgsy.net"
+        },
+        {
           "type": "twitter",
-          "value": "https://twitter.com/DavidInglisGsy"
+          "value": "DavidInglisGsy"
         }
       ],
       "email": "dai@cwgsy.net",
+      "gender": "male",
       "id": "0a9eba4a-124c-46ee-9a5c-301943824d40",
       "identifiers": [
         {
@@ -355,6 +513,10 @@
         {
           "note": "linkedin",
           "url": "http://www.linkedin.com/in/davidinglisgsy"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/DavidInglisGsy"
         }
       ],
       "name": "Inglis, David A.",
@@ -367,8 +529,12 @@
     {
       "contact_details": [
         {
+          "type": "email",
+          "value": "Sandra.James@deputies.gov.gg"
+        },
+        {
           "type": "twitter",
-          "value": "https://twitter.com/DepSandraJames"
+          "value": "DepSandraJames"
         }
       ],
       "email": "Sandra.James@deputies.gov.gg",
@@ -379,6 +545,12 @@
           "scheme": "everypolitician_legacy"
         }
       ],
+      "links": [
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/DepSandraJames"
+        }
+      ],
       "name": "James, Sandra A.",
       "sources": [
         {
@@ -387,6 +559,12 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Louis.Jean@deputies.gov.gg"
+        }
+      ],
       "email": "Louis.Jean@deputies.gov.gg",
       "id": "bba10897-2d47-4b8d-b2e9-dcfaa16bdae5",
       "identifiers": [
@@ -405,16 +583,27 @@
     {
       "contact_details": [
         {
+          "type": "email",
+          "value": "David.Jones@deputies.gov.gg"
+        },
+        {
           "type": "twitter",
-          "value": "https://twitter.com/DeputyDaveJones"
+          "value": "DeputyDaveJones"
         }
       ],
       "email": "David.Jones@deputies.gov.gg",
+      "gender": "male",
       "id": "db266608-e1b3-4a1f-bb43-833f7b3b757c",
       "identifiers": [
         {
           "identifier": "jones,_david_b.",
           "scheme": "everypolitician_legacy"
+        }
+      ],
+      "links": [
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/DeputyDaveJones"
         }
       ],
       "name": "Jones, David B.",
@@ -427,8 +616,12 @@
     {
       "contact_details": [
         {
+          "type": "email",
+          "value": "Robert.Jones@deputies.gov.gg"
+        },
+        {
           "type": "twitter",
-          "value": "https://twitter.com/deputyrobjones"
+          "value": "deputyrobjones"
         }
       ],
       "email": "Robert.Jones@deputies.gov.gg",
@@ -439,6 +632,12 @@
           "scheme": "everypolitician_legacy"
         }
       ],
+      "links": [
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/deputyrobjones"
+        }
+      ],
       "name": "Jones, Robert A.",
       "sources": [
         {
@@ -447,6 +646,12 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Jan.Kuttelwascher@deputies.gov.gg"
+        }
+      ],
       "email": "Jan.Kuttelwascher@deputies.gov.gg",
       "id": "71ec9a6c-c567-490e-baae-69dd38f57352",
       "identifiers": [
@@ -463,6 +668,12 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "allister.langlois@deputies.gov.gg"
+        }
+      ],
       "email": "allister.langlois@deputies.gov.gg",
       "id": "0834c5ff-9cc5-42b7-aeaa-818cc61cfaa5",
       "identifiers": [
@@ -481,16 +692,27 @@
     {
       "contact_details": [
         {
+          "type": "email",
+          "value": "Michelle.LeClerc@deputies.gov.gg"
+        },
+        {
           "type": "twitter",
-          "value": "https://twitter.com/mkleclerc"
+          "value": "mkleclerc"
         }
       ],
       "email": "Michelle.LeClerc@deputies.gov.gg",
+      "gender": "female",
       "id": "fec5dc7a-6eae-4e5b-8fb4-062fca557f53",
       "identifiers": [
         {
           "identifier": "le_clerc,_michelle_k.",
           "scheme": "everypolitician_legacy"
+        }
+      ],
+      "links": [
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/mkleclerc"
         }
       ],
       "name": "Le Clerc, Michelle K.",
@@ -501,7 +723,14 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "lelievre@fsmail.net"
+        }
+      ],
       "email": "lelievre@fsmail.net",
+      "gender": "male",
       "id": "7a7232be-622f-4bb1-8c40-87419c926ca9",
       "identifiers": [
         {
@@ -517,6 +746,12 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Paul.LePelley@deputies.gov.gg"
+        }
+      ],
       "email": "Paul.LePelley@deputies.gov.gg",
       "id": "2b11b882-cb89-47a4-b930-847796867f1a",
       "identifiers": [
@@ -535,11 +770,16 @@
     {
       "contact_details": [
         {
+          "type": "email",
+          "value": "Jonathan.LeTocq@deputies.gov.gg"
+        },
+        {
           "type": "twitter",
-          "value": "https://twitter.com/letocq"
+          "value": "letocq"
         }
       ],
       "email": "Jonathan.LeTocq@deputies.gov.gg",
+      "gender": "male",
       "id": "e06e1b58-295c-4837-be1c-6ffbcbfb9a86",
       "identifiers": [
         {
@@ -551,6 +791,10 @@
         {
           "note": "linkedin",
           "url": "http://www.linkedin.com/pub/jonathan-le-tocq/23/5a/b98?trk=pub-pbmap"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/letocq"
         }
       ],
       "name": "Le Tocq, Jonathan P.",
@@ -563,8 +807,12 @@
     {
       "contact_details": [
         {
+          "type": "email",
+          "value": "marylowe@cwgsy.net"
+        },
+        {
           "type": "twitter",
-          "value": "https://twitter.com/DeputyMaryLowe"
+          "value": "DeputyMaryLowe"
         }
       ],
       "email": "marylowe@cwgsy.net",
@@ -573,6 +821,12 @@
         {
           "identifier": "lowe,_mary_m.",
           "scheme": "everypolitician_legacy"
+        }
+      ],
+      "links": [
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/DeputyMaryLowe"
         }
       ],
       "name": "Lowe, Mary M.",
@@ -585,11 +839,16 @@
     {
       "contact_details": [
         {
+          "type": "email",
+          "value": "Paul.Luxon@deputies.gov.gg"
+        },
+        {
           "type": "twitter",
-          "value": "https://twitter.com/paul_luxon"
+          "value": "paul_luxon"
         }
       ],
       "email": "Paul.Luxon@deputies.gov.gg",
+      "gender": "male",
       "id": "8d947ab2-464a-4ddc-bcfd-149f6137e211",
       "identifiers": [
         {
@@ -601,6 +860,10 @@
         {
           "note": "linkedin",
           "url": "http://uk.linkedin.com/pub/paul-luxon/36/14a/663?trk=pub-pbmap"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/paul_luxon"
         }
       ],
       "name": "Luxon, Paul A.",
@@ -611,7 +874,14 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "mike.ohara@cwgsy.net"
+        }
+      ],
       "email": "mike.ohara@cwgsy.net",
+      "gender": "male",
       "id": "e5e619cf-d153-45b8-920e-924e4cdb5cfb",
       "identifiers": [
         {
@@ -629,11 +899,16 @@
     {
       "contact_details": [
         {
+          "type": "email",
+          "value": "Scott.Ogier@deputies.gov.gg"
+        },
+        {
           "type": "twitter",
-          "value": "https://twitter.com/DeputyOgier"
+          "value": "DeputyOgier"
         }
       ],
       "email": "Scott.Ogier@deputies.gov.gg",
+      "gender": "male",
       "id": "e116bd8c-1d90-4e23-9811-611ba321cdee",
       "identifiers": [
         {
@@ -645,6 +920,10 @@
         {
           "note": "linkedin",
           "url": "http://uk.linkedin.com/pub/scott-ogier/34/431/4?trk=pub-pbmap"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/DeputyOgier"
         }
       ],
       "name": "Ogier, Scott J.",
@@ -655,7 +934,14 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Barry.Paint@deputies.gov.gg"
+        }
+      ],
       "email": "Barry.Paint@deputies.gov.gg",
+      "gender": "male",
       "id": "705c20b5-2149-47b4-9d3e-a58e6e0d5f9b",
       "identifiers": [
         {
@@ -671,7 +957,14 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Roger.Perrot@deputies.gov.gg"
+        }
+      ],
       "email": "Roger.Perrot@deputies.gov.gg",
+      "gender": "male",
       "id": "2b2f38bf-b57f-43ab-89a2-6afd924adea3",
       "identifiers": [
         {
@@ -687,6 +980,12 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "laurie.queripel@gmail.com"
+        }
+      ],
       "email": "laurie.queripel@gmail.com",
       "id": "073c98dc-cd6d-42ce-a082-3a90eccab640",
       "identifiers": [
@@ -703,6 +1002,12 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "lesterqueripel@cwgsy.net"
+        }
+      ],
       "email": "lesterqueripel@cwgsy.net",
       "id": "b1c159f0-8ddc-48b1-9dca-0f8990c8d947",
       "identifiers": [
@@ -719,6 +1024,12 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Francis.Quin@deputies.gov.gg"
+        }
+      ],
       "email": "Francis.Quin@deputies.gov.gg",
       "id": "41f38b5b-60a4-4e5e-bd8f-02e0a6637a33",
       "identifiers": [
@@ -737,8 +1048,12 @@
     {
       "contact_details": [
         {
+          "type": "email",
+          "value": "Peter.Sherbourne@deputies.gov.gg"
+        },
+        {
           "type": "twitter",
-          "value": "https://twitter.com/Sherbs1"
+          "value": "Sherbs1"
         }
       ],
       "email": "Peter.Sherbourne@deputies.gov.gg",
@@ -747,6 +1062,12 @@
         {
           "identifier": "sherbourne,_peter_a.",
           "scheme": "everypolitician_legacy"
+        }
+      ],
+      "links": [
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/Sherbs1"
         }
       ],
       "name": "Sherbourne, Peter A.",
@@ -759,8 +1080,12 @@
     {
       "contact_details": [
         {
+          "type": "email",
+          "value": "Robert.Sillars@deputies.gov.gg"
+        },
+        {
           "type": "twitter",
-          "value": "https://twitter.com/RobertWSillars"
+          "value": "RobertWSillars"
         }
       ],
       "email": "Robert.Sillars@deputies.gov.gg",
@@ -769,6 +1094,12 @@
         {
           "identifier": "sillars,_robert_w.",
           "scheme": "everypolitician_legacy"
+        }
+      ],
+      "links": [
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/RobertWSillars"
         }
       ],
       "name": "Sillars, Robert W.",
@@ -781,8 +1112,12 @@
     {
       "contact_details": [
         {
+          "type": "email",
+          "value": "Heidi.Soulsby@deputies.gov.gg"
+        },
+        {
           "type": "twitter",
-          "value": "https://twitter.com/HeidiSoulsby"
+          "value": "HeidiSoulsby"
         }
       ],
       "email": "Heidi.Soulsby@deputies.gov.gg",
@@ -797,6 +1132,10 @@
         {
           "note": "linkedin",
           "url": "http://www.linkedin.com/pub/heidi-soulsby/25/835/891"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/HeidiSoulsby"
         }
       ],
       "name": "Soulsby, Heidi J. R.",
@@ -807,7 +1146,14 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "tonyspruce@cwgsy.net"
+        }
+      ],
       "email": "tonyspruce@cwgsy.net",
+      "gender": "male",
       "id": "56154f65-50cd-47e1-b9c3-0e9f5b9c8cf9",
       "identifiers": [
         {
@@ -825,11 +1171,16 @@
     {
       "contact_details": [
         {
+          "type": "email",
+          "value": "Gavin.StPier@deputies.gov.gg"
+        },
+        {
           "type": "twitter",
-          "value": "https://twitter.com/gavinstpier"
+          "value": "gavinstpier"
         }
       ],
       "email": "Gavin.StPier@deputies.gov.gg",
+      "gender": "male",
       "id": "320594a7-8505-457f-8a84-c18561b4455e",
       "identifiers": [
         {
@@ -841,6 +1192,10 @@
         {
           "note": "linkedin",
           "url": "http://www.linkedin.com/pub/gavin-st-pier/46/4b8/45b?trk=pub-pbmap"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/gavinstpier"
         }
       ],
       "name": "St. Pier, Gavin A",
@@ -853,11 +1208,16 @@
     {
       "contact_details": [
         {
+          "type": "email",
+          "value": "Kevin.Stewart@deputies.gov.gg"
+        },
+        {
           "type": "twitter",
-          "value": "https://twitter.com/kevinstewartgsy"
+          "value": "kevinstewartgsy"
         }
       ],
       "email": "Kevin.Stewart@deputies.gov.gg",
+      "gender": "male",
       "id": "1d770029-1592-434e-9434-f00b6ac82965",
       "identifiers": [
         {
@@ -869,6 +1229,10 @@
         {
           "note": "linkedin",
           "url": "http://www.linkedin.com/in/kevinstewart2008"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/kevinstewartgsy"
         }
       ],
       "name": "Stewart, Kevin A.",
@@ -879,6 +1243,12 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Martin.Storey@deputies.gov.gg"
+        }
+      ],
       "email": "Martin.Storey@deputies.gov.gg",
       "id": "e88fa42f-8ee3-4a7e-ad85-338e9557fe60",
       "identifiers": [
@@ -895,6 +1265,12 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Lyndon.Trott@deputies.gov.gg"
+        }
+      ],
       "email": "Lyndon.Trott@deputies.gov.gg",
       "id": "957adc63-eaf0-4147-a1dc-2402c576d1d1",
       "identifiers": [
@@ -913,8 +1289,12 @@
     {
       "contact_details": [
         {
+          "type": "email",
+          "value": "Arrun.Wilkie@deputies.gov.gg"
+        },
+        {
           "type": "twitter",
-          "value": "https://twitter.com/ArrunWilkie"
+          "value": "ArrunWilkie"
         }
       ],
       "email": "Arrun.Wilkie@deputies.gov.gg",
@@ -923,6 +1303,12 @@
         {
           "identifier": "wilkie,_arrun_m.",
           "scheme": "everypolitician_legacy"
+        }
+      ],
+      "links": [
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/ArrunWilkie"
         }
       ],
       "name": "Wilkie, Arrun M.",
