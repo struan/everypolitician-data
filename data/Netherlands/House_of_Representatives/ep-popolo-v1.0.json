@@ -2,6 +2,12 @@
   "persons": [
     {
       "birth_date": "1958-08-20",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "a.wolbert@tweedekamer.nl"
+        }
+      ],
       "email": "a.wolbert@tweedekamer.nl",
       "family_name": "Wolbert",
       "gender": "female",
@@ -73,6 +79,12 @@
     },
     {
       "birth_date": "1973-10-21",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "agnes.mulder@tweedekamer.nl"
+        }
+      ],
       "email": "agnes.mulder@tweedekamer.nl",
       "family_name": "Mulder",
       "gender": "female",
@@ -149,6 +161,12 @@
     },
     {
       "birth_date": "1966-05-02",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "a.marcouch@tweedekamer.nl"
+        }
+      ],
       "email": "a.marcouch@tweedekamer.nl",
       "family_name": "Marcouch",
       "gender": "male",
@@ -273,6 +291,12 @@
     },
     {
       "birth_date": "1955-07-10",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "a.a.dvries@tweedekamer.nl"
+        }
+      ],
       "email": "a.a.dvries@tweedekamer.nl",
       "family_name": "Vries",
       "gender": "male",
@@ -353,6 +377,12 @@
     },
     {
       "birth_date": "1965-12-16",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "a.pechtold@tweedekamer.nl"
+        }
+      ],
       "email": "a.pechtold@tweedekamer.nl",
       "family_name": "Pechtold",
       "gender": "male",
@@ -472,6 +502,12 @@
     },
     {
       "birth_date": "1965-01-20",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "a.bosman@tweedekamer.nl"
+        }
+      ],
       "email": "a.bosman@tweedekamer.nl",
       "family_name": "Bosman",
       "gender": "male",
@@ -568,6 +604,12 @@
     },
     {
       "birth_date": "1960-04-01",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "A.Eijsink@tweedekamer.nl"
+        }
+      ],
       "email": "A.Eijsink@tweedekamer.nl",
       "family_name": "Eijsink",
       "gender": "female",
@@ -668,6 +710,12 @@
     },
     {
       "birth_date": "1969-12-14",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "a.mulder@tweedekamer.nl"
+        }
+      ],
       "email": "a.mulder@tweedekamer.nl",
       "family_name": "Mulder",
       "gender": "male",
@@ -764,6 +812,12 @@
     },
     {
       "birth_date": "1975-01-10",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "a.lucas-smeerdijk@tweedekamer.nl"
+        }
+      ],
       "email": "a.lucas-smeerdijk@tweedekamer.nl",
       "family_name": "Lucas",
       "gender": "female",
@@ -850,6 +904,10 @@
       "birth_date": "1967-04-20",
       "contact_details": [
         {
+          "type": "email",
+          "value": "Voorzitter@tweedekamer.nl"
+        },
+        {
           "type": "twitter",
           "value": "AnouchkavM"
         }
@@ -914,7 +972,11 @@
         },
         {
           "note": "facebook",
-          "url": "AnouchkavanMiltenburg"
+          "url": "https://facebook.com/AnouchkavanMiltenburg"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/AnouchkavM"
         },
         {
           "note": "website",
@@ -968,6 +1030,12 @@
     },
     {
       "birth_date": "1969-02-06",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "a.schut@tweedekamer.nl"
+        }
+      ],
       "email": "a.schut@tweedekamer.nl",
       "family_name": "Schut-Welkzijn",
       "gender": "female",
@@ -1035,6 +1103,12 @@
     },
     {
       "birth_date": "1961-11-16",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "A.Slob@tweedekamer.nl"
+        }
+      ],
       "email": "A.Slob@tweedekamer.nl",
       "family_name": "Slob",
       "gender": "male",
@@ -1145,6 +1219,12 @@
     },
     {
       "birth_date": "1972-04-24",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "a.rutte@tweedekamer.nl"
+        }
+      ],
       "email": "a.rutte@tweedekamer.nl",
       "family_name": "Rutte",
       "gender": "male",
@@ -1221,6 +1301,12 @@
     },
     {
       "birth_date": "1968-12-06",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "a.merkies@tweedekamer.nl"
+        }
+      ],
       "email": "a.merkies@tweedekamer.nl",
       "family_name": "Merkies",
       "gender": "male",
@@ -1297,6 +1383,12 @@
     },
     {
       "birth_date": "1968-07-06",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "a.oosenbrug@tweedekamer.nl"
+        }
+      ],
       "email": "a.oosenbrug@tweedekamer.nl",
       "family_name": "Oosenbrug",
       "gender": "female",
@@ -1373,6 +1465,12 @@
     },
     {
       "birth_date": "1977-10-27",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "a.kuiken@tweedekamer.nl"
+        }
+      ],
       "email": "a.kuiken@tweedekamer.nl",
       "family_name": "Kuiken",
       "gender": "female",
@@ -1444,6 +1542,12 @@
     },
     {
       "birth_date": "1964-10-21",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "aukjedevries@tweedekamer.nl"
+        }
+      ],
       "email": "aukjedevries@tweedekamer.nl",
       "family_name": "Vries",
       "gender": "female",
@@ -1525,6 +1629,12 @@
     },
     {
       "birth_date": "1977-08-16",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "b.visser@tweedekamer.nl"
+        }
+      ],
       "email": "b.visser@tweedekamer.nl",
       "family_name": "Visser",
       "gender": "female",
@@ -1597,6 +1707,12 @@
     },
     {
       "birth_date": "1969-01-06",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "b.madlener@tweedekamer.nl"
+        }
+      ],
       "email": "b.madlener@tweedekamer.nl",
       "family_name": "Madlener",
       "gender": "male",
@@ -1703,6 +1819,12 @@
     },
     {
       "birth_date": "1976-09-18",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "bart.deliefde@tweedekamer.nl"
+        }
+      ],
       "email": "bart.deliefde@tweedekamer.nl",
       "family_name": "Liefde",
       "gender": "male",
@@ -1783,6 +1905,12 @@
     },
     {
       "birth_date": "1979-04-22",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "b.vtwout@tweedekamer.nl"
+        }
+      ],
       "email": "b.vtwout@tweedekamer.nl",
       "family_name": "Wout",
       "gender": "male",
@@ -1855,6 +1983,12 @@
     },
     {
       "birth_date": "1971-09-02",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "b.dboer@tweedekamer.nl"
+        }
+      ],
       "email": "b.dboer@tweedekamer.nl",
       "family_name": "Boer",
       "gender": "female",
@@ -1953,6 +2087,12 @@
     },
     {
       "birth_date": "1961-04-07",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "brigitte.vdburg@tweedekamer.nl"
+        }
+      ],
       "email": "brigitte.vdburg@tweedekamer.nl",
       "family_name": "Burg",
       "gender": "female",
@@ -2037,6 +2177,12 @@
     },
     {
       "birth_date": "1971-05-06",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "c.dik@tweedekamer.nl"
+        }
+      ],
       "email": "c.dik@tweedekamer.nl",
       "family_name": "Dik-Faber",
       "gender": "female",
@@ -2203,6 +2349,12 @@
     },
     {
       "birth_date": "1977-10-06",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "c.schouten@tweedekamer.nl"
+        }
+      ],
       "email": "c.schouten@tweedekamer.nl",
       "family_name": "Schouten",
       "gender": "female",
@@ -2292,6 +2444,12 @@
     },
     {
       "birth_date": "1973-09-18",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "C.Nijkerken@tweedekamer.nl"
+        }
+      ],
       "email": "C.Nijkerken@tweedekamer.nl",
       "family_name": "Nijkerken-de Haan",
       "gender": "female",
@@ -2354,6 +2512,12 @@
     },
     {
       "birth_date": "1971-07-10",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "D.Samsom@tweedekamer.nl"
+        }
+      ],
       "email": "D.Samsom@tweedekamer.nl",
       "family_name": "Samsom",
       "gender": "male",
@@ -2563,6 +2727,12 @@
     },
     {
       "birth_date": "1967-03-19",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "d.graus@tweedekamer.nl"
+        }
+      ],
       "email": "d.graus@tweedekamer.nl",
       "family_name": "Graus",
       "gender": "male",
@@ -2666,6 +2836,12 @@
     },
     {
       "birth_date": "1984-09-14",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "d.hoogland@tweedekamer.nl"
+        }
+      ],
       "email": "d.hoogland@tweedekamer.nl",
       "family_name": "Hoogland",
       "gender": "male",
@@ -2738,6 +2914,12 @@
     },
     {
       "birth_date": "1957-12-26",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "e.groot@tweedekamer.nl"
+        }
+      ],
       "email": "e.groot@tweedekamer.nl",
       "family_name": "Groot",
       "gender": "male",
@@ -2834,6 +3016,12 @@
     },
     {
       "birth_date": "1970-01-06",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "e.dijkgraaf@tweedekamer.nl"
+        }
+      ],
       "email": "e.dijkgraaf@tweedekamer.nl",
       "family_name": "Dijkgraaf",
       "gender": "male",
@@ -2968,6 +3156,10 @@
       "birth_date": "1962-08-24",
       "contact_details": [
         {
+          "type": "email",
+          "value": "emileroemer@sp.nl"
+        },
+        {
           "type": "twitter",
           "value": "emileroemer"
         }
@@ -3061,6 +3253,10 @@
         {
           "note": "Wikipedia (sv)",
           "url": "https://sv.wikipedia.org/wiki/Emile_Roemer"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/emileroemer"
         }
       ],
       "name": "Emile G M Roemer",
@@ -3129,6 +3325,12 @@
     },
     {
       "birth_date": "1957-08-18",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "e.smaling@tweedekamer.nl"
+        }
+      ],
       "email": "e.smaling@tweedekamer.nl",
       "family_name": "Smaling",
       "gender": "male",
@@ -3225,6 +3427,12 @@
     },
     {
       "birth_date": "1967-11-06",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "E.Ronnes@Tweedekamer.nl"
+        }
+      ],
       "email": "E.Ronnes@Tweedekamer.nl",
       "family_name": "Ronnes",
       "gender": "male",
@@ -3291,6 +3499,12 @@
     },
     {
       "birth_date": "1960-09-27",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "e.ziengs@tweedekamer.nl"
+        }
+      ],
       "email": "e.ziengs@tweedekamer.nl",
       "family_name": "Ziengs",
       "gender": "male",
@@ -3367,6 +3581,12 @@
     },
     {
       "birth_date": "1976-06-10",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "esther.ouwehand@tweedekamer.nl"
+        }
+      ],
       "email": "esther.ouwehand@tweedekamer.nl",
       "family_name": "Ouwehand",
       "gender": "female",
@@ -3455,6 +3675,12 @@
     },
     {
       "birth_date": "1988-01-14",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "f.bashir@tweedekamer.nl"
+        }
+      ],
       "email": "f.bashir@tweedekamer.nl",
       "family_name": "Bashir",
       "gender": "male",
@@ -3544,6 +3770,12 @@
     },
     {
       "birth_date": "1968-02-20",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "f.koserkaya@tweedekamer.nl"
+        }
+      ],
       "email": "f.koserkaya@tweedekamer.nl",
       "family_name": "Koşer Kaya",
       "gender": "female",
@@ -3656,6 +3888,12 @@
     },
     {
       "birth_date": "1976-09-16",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "m.agema@tweedekamer.nl"
+        }
+      ],
       "email": "m.agema@tweedekamer.nl",
       "family_name": "Agema",
       "gender": "female",
@@ -3787,6 +4025,12 @@
     },
     {
       "birth_date": "1977-06-25",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "f.voosten@tweedekamer.nl"
+        }
+      ],
       "email": "f.voosten@tweedekamer.nl",
       "family_name": "Oosten",
       "gender": "male",
@@ -3859,6 +4103,12 @@
     },
     {
       "birth_date": "1958-08-05",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "secretariaat.teeven@tweedekamer.nl"
+        }
+      ],
       "email": "secretariaat.teeven@tweedekamer.nl",
       "family_name": "Teeven",
       "gender": "male",
@@ -3934,6 +4184,12 @@
     },
     {
       "birth_date": "1963-09-06",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "g.wilders@tweedekamer.nl"
+        }
+      ],
       "email": "g.wilders@tweedekamer.nl",
       "family_name": "Wilders",
       "gender": "male",
@@ -4495,6 +4751,12 @@
     },
     {
       "birth_date": "1969-07-09",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "g.segers@tweedekamer.nl"
+        }
+      ],
       "email": "g.segers@tweedekamer.nl",
       "family_name": "Segers",
       "gender": "male",
@@ -4578,6 +4840,12 @@
     },
     {
       "birth_date": "1957-01-10",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "g.tanamal@tweedekamer.nl"
+        }
+      ],
       "email": "g.tanamal@tweedekamer.nl",
       "family_name": "Tanamal",
       "gender": "female",
@@ -4654,6 +4922,12 @@
     },
     {
       "birth_date": "1969-01-21",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "h.zijlstra@tweedekamer.nl"
+        }
+      ],
       "email": "h.zijlstra@tweedekamer.nl",
       "family_name": "Zijlstra",
       "gender": "male",
@@ -4760,6 +5034,12 @@
     },
     {
       "birth_date": "1969-03-02",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "hantenbroeke@tweedekamer.nl"
+        }
+      ],
       "email": "hantenbroeke@tweedekamer.nl",
       "family_name": "Broeke",
       "gender": "male",
@@ -4840,6 +5120,12 @@
     },
     {
       "birth_date": "1977-10-20",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "h.bruinsslot@tweedekamer.nl"
+        }
+      ],
       "email": "h.bruinsslot@tweedekamer.nl",
       "family_name": "Bruins Slot",
       "gender": "female",
@@ -4936,6 +5222,12 @@
     },
     {
       "birth_date": "1952-03-09",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "h.beertema@tweedekamer.nl"
+        }
+      ],
       "email": "h.beertema@tweedekamer.nl",
       "family_name": "Beertema",
       "gender": "male",
@@ -5009,6 +5301,10 @@
       "birth_date": "1962-06-24",
       "contact_details": [
         {
+          "type": "email",
+          "value": "HvBommel@sp.nl"
+        },
+        {
           "type": "twitter",
           "value": "Harryvandesp"
         }
@@ -5073,11 +5369,15 @@
         },
         {
           "note": "facebook",
-          "url": "HarryVanBommel"
+          "url": "https://facebook.com/HarryVanBommel"
         },
         {
           "note": "linkedin",
           "url": "https://www.linkedin.com/pub/harry-van-bommel/18/b8b/745"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/Harryvandesp"
         },
         {
           "note": "website",
@@ -5121,6 +5421,12 @@
     },
     {
       "birth_date": "1969-11-05",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "h.veldman@tweedekamer.nl"
+        }
+      ],
       "email": "h.veldman@tweedekamer.nl",
       "family_name": "Veldman",
       "gender": "male",
@@ -5192,6 +5498,12 @@
     },
     {
       "birth_date": "1968-06-21",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "h.lodders@tweedekamer.nl"
+        }
+      ],
       "email": "h.lodders@tweedekamer.nl",
       "family_name": "Lodders",
       "gender": "female",
@@ -5272,6 +5584,12 @@
     },
     {
       "birth_date": "1950-06-21",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "h.nepperus@tweedekamer.nl"
+        }
+      ],
       "email": "h.nepperus@tweedekamer.nl",
       "family_name": "Neppérus",
       "gender": "female",
@@ -5368,6 +5686,12 @@
     },
     {
       "birth_date": "1950-04-01",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "h.krol@tweedekamer.nl"
+        }
+      ],
       "email": "h.krol@tweedekamer.nl",
       "family_name": "Krol",
       "gender": "male",
@@ -5510,6 +5834,12 @@
     },
     {
       "birth_date": "1955-01-28",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "h.leenders@tweedekamer.nl"
+        }
+      ],
       "email": "h.leenders@tweedekamer.nl",
       "family_name": "Leenders",
       "gender": "male",
@@ -5591,6 +5921,12 @@
     },
     {
       "birth_date": "1983-03-31",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "h.nijboer@tweedekamer.nl"
+        }
+      ],
       "email": "h.nijboer@tweedekamer.nl",
       "family_name": "Nijboer",
       "gender": "male",
@@ -5667,6 +6003,12 @@
     },
     {
       "birth_date": "1955-03-11",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "h.vgerven@tweedekamer.nl"
+        }
+      ],
       "email": "h.vgerven@tweedekamer.nl",
       "family_name": "Gerven",
       "gender": "male",
@@ -5751,6 +6093,12 @@
     },
     {
       "birth_date": "1967-05-27",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "i.dcaluwe@tweedekamer.nl"
+        }
+      ],
       "email": "i.dcaluwe@tweedekamer.nl",
       "family_name": "Caluwé",
       "gender": "female",
@@ -5822,6 +6170,12 @@
     },
     {
       "birth_date": "1970-07-11",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "j.geurts@tweedekamer.nl"
+        }
+      ],
       "email": "j.geurts@tweedekamer.nl",
       "family_name": "Geurts",
       "gender": "male",
@@ -6238,6 +6592,12 @@
     },
     {
       "birth_date": "1962-01-04",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "j.monasch@tweedekamer.nl"
+        }
+      ],
       "email": "j.monasch@tweedekamer.nl",
       "family_name": "Monasch",
       "gender": "male",
@@ -6327,6 +6687,12 @@
     },
     {
       "birth_date": "1972-02-09",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "j.c.vos@tweedekamer.nl"
+        }
+      ],
       "email": "j.c.vos@tweedekamer.nl",
       "family_name": "Vos",
       "gender": "male",
@@ -6407,6 +6773,12 @@
     },
     {
       "birth_date": "1971-04-20",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "jasper.vdijk@tweedekamer.nl"
+        }
+      ],
       "email": "jasper.vdijk@tweedekamer.nl",
       "family_name": "Dijk",
       "gender": "male",
@@ -6487,6 +6859,12 @@
     },
     {
       "birth_date": "1970-07-04",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "j.recourt@tweedekamer.nl"
+        }
+      ],
       "email": "j.recourt@tweedekamer.nl",
       "family_name": "Recourt",
       "gender": "male",
@@ -6579,6 +6957,12 @@
     },
     {
       "birth_date": "1978-03-29",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "j.vwijngaarden@tweedekamer.nl"
+        }
+      ],
       "email": "j.vwijngaarden@tweedekamer.nl",
       "family_name": "Wijngaarden",
       "gender": "male",
@@ -6645,6 +7029,12 @@
     },
     {
       "birth_date": "1986-05-01",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "j.klaver@tweedekamer.nl"
+        }
+      ],
       "email": "j.klaver@tweedekamer.nl",
       "family_name": "Klaver",
       "gender": "male",
@@ -6729,6 +7119,12 @@
     },
     {
       "birth_date": "1957-10-04",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "j.houwers@tweedekamer.nl"
+        }
+      ],
       "email": "j.houwers@tweedekamer.nl",
       "family_name": "Houwers",
       "gender": "male",
@@ -6801,6 +7197,12 @@
     },
     {
       "birth_date": "1965-01-20",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "j.kerstens@tweedekamer.nl"
+        }
+      ],
       "email": "j.kerstens@tweedekamer.nl",
       "family_name": "Kerstens",
       "gender": "male",
@@ -6877,6 +7279,12 @@
     },
     {
       "birth_date": "1971-09-22",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "joost.taverne@tweedekamer.nl"
+        }
+      ],
       "email": "joost.taverne@tweedekamer.nl",
       "family_name": "Taverne",
       "gender": "male",
@@ -6977,6 +7385,12 @@
     },
     {
       "birth_date": "1979-01-23",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "j.vklaveren@tweedekamer.nl"
+        }
+      ],
       "email": "j.vklaveren@tweedekamer.nl",
       "family_name": "Klaveren",
       "gender": "male",
@@ -7062,6 +7476,12 @@
     },
     {
       "birth_date": "1985-06-22",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "j.vermue@tweedekamer.nl"
+        }
+      ],
       "email": "j.vermue@tweedekamer.nl",
       "family_name": "Vermue",
       "gender": "female",
@@ -7209,6 +7629,12 @@
     },
     {
       "birth_date": "1965-07-09",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "j.voordewind@tweedekamer.nl"
+        }
+      ],
       "email": "j.voordewind@tweedekamer.nl",
       "family_name": "Voordewind",
       "gender": "male",
@@ -7313,6 +7739,12 @@
     },
     {
       "birth_date": "1961-06-04",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "j.swinkels@tweedekamer.nl"
+        }
+      ],
       "email": "j.swinkels@tweedekamer.nl",
       "family_name": "Swinkels",
       "gender": "female",
@@ -7340,6 +7772,12 @@
     },
     {
       "birth_date": "1971-04-06",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "k.straus@tweedekamer.nl"
+        }
+      ],
       "email": "k.straus@tweedekamer.nl",
       "family_name": "Straus",
       "gender": "female",
@@ -7420,6 +7858,12 @@
     },
     {
       "birth_date": "1968-09-12",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "C.vdStaaij@tweedekamer.nl"
+        }
+      ],
       "email": "C.vdStaaij@tweedekamer.nl",
       "family_name": "Staaij",
       "gender": "male",
@@ -7557,6 +8001,12 @@
     },
     {
       "birth_date": "1976-04-25",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "k.verhoeven@tweedekamer.nl"
+        }
+      ],
       "email": "k.verhoeven@tweedekamer.nl",
       "family_name": "Verhoeven",
       "gender": "male",
@@ -7623,6 +8073,12 @@
     },
     {
       "birth_date": "1968-05-05",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "k.yucel@tweedekamer.nl"
+        }
+      ],
       "email": "k.yucel@tweedekamer.nl",
       "family_name": "Yücel",
       "gender": "female",
@@ -7704,6 +8160,12 @@
     },
     {
       "birth_date": "1960-10-10",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "k.arib@tweedekamer.nl"
+        }
+      ],
       "email": "k.arib@tweedekamer.nl",
       "family_name": "Arib",
       "gender": "female",
@@ -7809,6 +8271,12 @@
     },
     {
       "birth_date": "1979-10-03",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "l.bouwmeester@tweedekamer.nl"
+        }
+      ],
       "email": "l.bouwmeester@tweedekamer.nl",
       "family_name": "Bouwmeester",
       "gender": "female",
@@ -7889,6 +8357,12 @@
     },
     {
       "birth_date": "1972-11-13",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "l.dlange@tweedekamer.nl"
+        }
+      ],
       "email": "l.dlange@tweedekamer.nl",
       "family_name": "Lange",
       "gender": "male",
@@ -7950,6 +8424,12 @@
     },
     {
       "birth_date": "1958-03-31",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "l.vtongeren@tweedekamer.nl"
+        }
+      ],
       "email": "l.vtongeren@tweedekamer.nl",
       "family_name": "Tongeren",
       "gender": "female",
@@ -8021,6 +8501,12 @@
     },
     {
       "birth_date": "1973-05-30",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "l.helder@tweedekamer.nl"
+        }
+      ],
       "email": "l.helder@tweedekamer.nl",
       "family_name": "Helder",
       "gender": "female",
@@ -8112,6 +8598,12 @@
     },
     {
       "birth_date": "1979-06-27",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "l.voortman@tweedekamer.nl"
+        }
+      ],
       "email": "l.voortman@tweedekamer.nl",
       "family_name": "Voortman",
       "gender": "female",
@@ -8193,6 +8685,10 @@
       "birth_date": "1980-02-20",
       "contact_details": [
         {
+          "type": "email",
+          "value": "l.ypma@tweedekamer.nl"
+        },
+        {
           "type": "twitter",
           "value": "Loesypma"
         }
@@ -8233,11 +8729,15 @@
         },
         {
           "note": "facebook",
-          "url": "loes.ypma"
+          "url": "https://facebook.com/loes.ypma"
         },
         {
           "note": "linkedin",
           "url": "https://www.linkedin.com/pub/loes-ypma/6/72a/879"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/Loesypma"
         }
       ],
       "name": "Loes Ypma",
@@ -8617,6 +9117,12 @@
     },
     {
       "birth_date": "1956-02-28",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "l.bontes@tweedekamer.nl"
+        }
+      ],
       "email": "l.bontes@tweedekamer.nl",
       "family_name": "Bontes",
       "gender": "male",
@@ -8748,6 +9254,12 @@
     },
     {
       "birth_date": "1955-12-13",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "l.jacobi@tweedekamer.nl"
+        }
+      ],
       "email": "l.jacobi@tweedekamer.nl",
       "family_name": "Jacobi",
       "gender": "female",
@@ -8847,6 +9359,12 @@
     },
     {
       "birth_date": "1969-06-26",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "m.dgraaf@tweedekamer.nl"
+        }
+      ],
       "email": "m.dgraaf@tweedekamer.nl",
       "family_name": "Graaf",
       "gender": "male",
@@ -8919,6 +9437,12 @@
     },
     {
       "birth_date": "1968-05-10",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "m.vtoorenburg@tweedekamer.nl"
+        }
+      ],
       "email": "m.vtoorenburg@tweedekamer.nl",
       "family_name": "Toorenburg",
       "gender": "female",
@@ -8995,6 +9519,12 @@
     },
     {
       "birth_date": "1950-05-04",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "m.berndsen@tweedekamer.nl"
+        }
+      ],
       "email": "m.berndsen@tweedekamer.nl",
       "family_name": "Berndsen-Jansen",
       "gender": "female",
@@ -9107,6 +9637,12 @@
     },
     {
       "birth_date": "1976-01-20",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "m.azmani@tweedekamer.nl"
+        }
+      ],
       "email": "m.azmani@tweedekamer.nl",
       "family_name": "Azmani",
       "gender": "male",
@@ -9199,6 +9735,12 @@
     },
     {
       "birth_date": "1976-01-16",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "m.fokke@tweedekamer.nl"
+        }
+      ],
       "email": "m.fokke@tweedekamer.nl",
       "family_name": "Fokke",
       "gender": "female",
@@ -9272,6 +9814,10 @@
     {
       "birth_date": "1972-03-06",
       "contact_details": [
+        {
+          "type": "email",
+          "value": "marianne.thieme@tweedekamer.nl"
+        },
         {
           "type": "twitter",
           "value": "mariannethieme"
@@ -9377,7 +9923,11 @@
         },
         {
           "note": "facebook",
-          "url": "mariannethieme"
+          "url": "https://facebook.com/mariannethieme"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/mariannethieme"
         },
         {
           "note": "website",
@@ -9485,6 +10035,12 @@
     },
     {
       "birth_date": "1972-01-16",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "m.maij@tweedekamer.nl"
+        }
+      ],
       "email": "m.maij@tweedekamer.nl",
       "family_name": "Maij",
       "gender": "female",
@@ -9581,6 +10137,12 @@
     },
     {
       "birth_date": "1972-10-02",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "m.volp@tweedekamer.nl"
+        }
+      ],
       "email": "m.volp@tweedekamer.nl",
       "family_name": "Volp",
       "gender": "female",
@@ -10001,6 +10563,12 @@
     },
     {
       "birth_date": "1969-04-19",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "m.harbers@tweedekamer.nl"
+        }
+      ],
       "email": "m.harbers@tweedekamer.nl",
       "family_name": "Harbers",
       "gender": "male",
@@ -10081,6 +10649,12 @@
     },
     {
       "birth_date": "1978-02-01",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "m.vdam@tweedekamer.nl"
+        }
+      ],
       "email": "m.vdam@tweedekamer.nl",
       "family_name": "Dam",
       "gender": "male",
@@ -10170,6 +10744,12 @@
     },
     {
       "birth_date": "1978-04-07",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "m.vhelvert@tweedekamer.nl"
+        }
+      ],
       "email": "m.vhelvert@tweedekamer.nl",
       "family_name": "Helvert",
       "gender": "male",
@@ -10235,6 +10815,12 @@
     },
     {
       "birth_date": "1964-07-16",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "M.Bosma@tweedekamer.nl"
+        }
+      ],
       "email": "M.Bosma@tweedekamer.nl",
       "family_name": "Bosma",
       "gender": "male",
@@ -10330,6 +10916,12 @@
     },
     {
       "birth_date": "1970-03-31",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "m.vos@tweedekamer.nl"
+        }
+      ],
       "email": "m.vos@tweedekamer.nl",
       "family_name": "Vos",
       "gender": "female",
@@ -10434,6 +11026,12 @@
     },
     {
       "birth_date": "1973-04-03",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "m.rog@tweedekamer.nl"
+        }
+      ],
       "email": "m.rog@tweedekamer.nl",
       "family_name": "Rog",
       "gender": "male",
@@ -10530,6 +11128,12 @@
     },
     {
       "birth_date": "1971-03-20",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Secretariaat.VanVeen@tweedekamer.nl"
+        }
+      ],
       "email": "Secretariaat.VanVeen@tweedekamer.nl",
       "family_name": "Veen",
       "gender": "male",
@@ -10606,6 +11210,12 @@
     },
     {
       "birth_date": "1972-02-21",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "m.servaes@tweedekamer.nl"
+        }
+      ],
       "email": "m.servaes@tweedekamer.nl",
       "family_name": "Servaes",
       "gender": "male",
@@ -10678,6 +11288,12 @@
     },
     {
       "birth_date": "1982-10-14",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "m.vnispen@tweedekamer.nl"
+        }
+      ],
       "email": "m.vnispen@tweedekamer.nl",
       "family_name": "Nispen",
       "gender": "male",
@@ -10753,6 +11369,12 @@
     },
     {
       "birth_date": "1985-06-28",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "m.mohandis@tweedekamer.nl"
+        }
+      ],
       "email": "m.mohandis@tweedekamer.nl",
       "family_name": "Mohandis",
       "gender": "male",
@@ -10825,6 +11447,12 @@
     },
     {
       "birth_date": "1968-10-09",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "m.keijzer@tweedekamer.nl"
+        }
+      ],
       "email": "m.keijzer@tweedekamer.nl",
       "family_name": "Keijzer",
       "gender": "female",
@@ -11241,6 +11869,12 @@
     },
     {
       "birth_date": "1980-12-09",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "n.kooiman@tweedekamer.nl"
+        }
+      ],
       "email": "n.kooiman@tweedekamer.nl",
       "family_name": "Kooiman",
       "gender": "female",
@@ -11321,6 +11955,12 @@
     },
     {
       "birth_date": "1956-03-01",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "n.klein@tweedekamer.nl"
+        }
+      ],
       "email": "n.klein@tweedekamer.nl",
       "family_name": "Klein",
       "gender": "male",
@@ -11407,6 +12047,12 @@
     },
     {
       "birth_date": "1974-10-16",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Secretariaat.Tellegen@tweedekamer.nl"
+        }
+      ],
       "email": "Secretariaat.Tellegen@tweedekamer.nl",
       "family_name": "Tellegen",
       "gender": "female",
@@ -11483,6 +12129,12 @@
     },
     {
       "birth_date": "1975-04-22",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "o.vdijk@tweedekamer.nl"
+        }
+      ],
       "email": "o.vdijk@tweedekamer.nl",
       "family_name": "Dijk",
       "gender": "male",
@@ -11559,6 +12211,12 @@
     },
     {
       "birth_date": "1956-01-29",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "p.vmeenen@tweedekamer.nl"
+        }
+      ],
       "email": "p.vmeenen@tweedekamer.nl",
       "family_name": "Meenen",
       "gender": "male",
@@ -11635,6 +12293,12 @@
     },
     {
       "birth_date": "1952-04-01",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "p.ulenbelt@tweedekamer.nl"
+        }
+      ],
       "email": "p.ulenbelt@tweedekamer.nl",
       "family_name": "Ulenbelt",
       "gender": "male",
@@ -11707,6 +12371,12 @@
     },
     {
       "birth_date": "1967-10-20",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "p.moors@tweedekamer.nl"
+        }
+      ],
       "email": "p.moors@tweedekamer.nl",
       "family_name": "Moors",
       "gender": "male",
@@ -11782,6 +12452,12 @@
     },
     {
       "birth_date": "1960-01-05",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "p.oskam@tweedekamer.nl"
+        }
+      ],
       "email": "p.oskam@tweedekamer.nl",
       "family_name": "Oskam",
       "gender": "male",
@@ -11874,6 +12550,12 @@
     },
     {
       "birth_date": "1954-12-09",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "p.dijkstra@tweedekamer.nl"
+        }
+      ],
       "email": "p.dijkstra@tweedekamer.nl",
       "family_name": "Dijkstra",
       "gender": "female",
@@ -11987,6 +12669,12 @@
     },
     {
       "birth_date": "1977-08-05",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "P.Heerma@tweedekamer.nl"
+        }
+      ],
       "email": "P.Heerma@tweedekamer.nl",
       "family_name": "Heerma",
       "gender": "male",
@@ -12063,6 +12751,12 @@
     },
     {
       "birth_date": "1974-01-08",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "pieter.omtzigt@tweedekamer.nl"
+        }
+      ],
       "email": "pieter.omtzigt@tweedekamer.nl",
       "family_name": "Omtzigt",
       "gender": "male",
@@ -12143,6 +12837,12 @@
     },
     {
       "birth_date": "1967-06-02",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "p.duisenberg@tweedekamer.nl"
+        }
+      ],
       "email": "p.duisenberg@tweedekamer.nl",
       "family_name": "Duisenberg",
       "gender": "male",
@@ -12219,6 +12919,12 @@
     },
     {
       "birth_date": "1971-11-10",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "r.knops@tweedekamer.nl"
+        }
+      ],
       "email": "r.knops@tweedekamer.nl",
       "family_name": "Knops",
       "gender": "male",
@@ -12295,6 +13001,12 @@
     },
     {
       "birth_date": "1952-09-01",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "r.deroon@tweedekamer.nl"
+        }
+      ],
       "email": "r.deroon@tweedekamer.nl",
       "family_name": "Roon",
       "gender": "male",
@@ -12372,6 +13084,12 @@
     },
     {
       "birth_date": "1967-07-21",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "r.klever@tweedekamer.nl"
+        }
+      ],
       "email": "r.klever@tweedekamer.nl",
       "family_name": "Klever",
       "gender": "female",
@@ -12792,6 +13510,12 @@
     },
     {
       "birth_date": "1972-08-18",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "r.dijkstra@tweedekamer.nl"
+        }
+      ],
       "email": "r.dijkstra@tweedekamer.nl",
       "family_name": "Dijkstra",
       "gender": "male",
@@ -12868,6 +13592,12 @@
     },
     {
       "birth_date": "1979-03-17",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "r.leijten@tweedekamer.nl"
+        }
+      ],
       "email": "r.leijten@tweedekamer.nl",
       "family_name": "Leijten",
       "gender": "female",
@@ -12957,6 +13687,12 @@
     },
     {
       "birth_date": "1961-04-05",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "r.grashoff@tweedekamer.nl"
+        }
+      ],
       "email": "r.grashoff@tweedekamer.nl",
       "family_name": "Grashoff",
       "gender": "male",
@@ -13050,6 +13786,12 @@
     },
     {
       "birth_date": "1968-11-22",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "r.vdlinde@tweedekamer.nl"
+        }
+      ],
       "email": "r.vdlinde@tweedekamer.nl",
       "family_name": "Linde",
       "gender": "male",
@@ -13126,6 +13868,12 @@
     },
     {
       "birth_date": "1956-11-30",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "r.bisschop@tweedekamer.nl"
+        }
+      ],
       "email": "r.bisschop@tweedekamer.nl",
       "family_name": "Bisschop",
       "gender": "male",
@@ -13201,6 +13949,12 @@
     },
     {
       "birth_date": "1981-05-19",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "r.vlaar@tweedekamer.nl"
+        }
+      ],
       "email": "r.vlaar@tweedekamer.nl",
       "family_name": "Laar",
       "gender": "male",
@@ -13281,6 +14035,12 @@
     },
     {
       "birth_date": "1969-11-25",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "r.vvliet@tweedekamer.nl"
+        }
+      ],
       "email": "r.vvliet@tweedekamer.nl",
       "family_name": "Vliet",
       "gender": "male",
@@ -13352,6 +14112,12 @@
     },
     {
       "birth_date": "1969-10-30",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "rvraak@sp.nl"
+        }
+      ],
       "email": "rvraak@sp.nl",
       "family_name": "Raak",
       "gender": "male",
@@ -13444,6 +14210,12 @@
     },
     {
       "birth_date": "1965-10-22",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "r.vuijk@tweedekamer.nl"
+        }
+      ],
       "email": "r.vuijk@tweedekamer.nl",
       "family_name": "Vuijk",
       "gender": "male",
@@ -13516,6 +14288,12 @@
     },
     {
       "birth_date": "1968-03-28",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "r.vermeij@tweedekamer.nl"
+        }
+      ],
       "email": "r.vermeij@tweedekamer.nl",
       "family_name": "Vermeij",
       "gender": "female",
@@ -13591,6 +14369,12 @@
     },
     {
       "birth_date": "1978-02-02",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "r.heerema@tweedekamer.nl"
+        }
+      ],
       "email": "r.heerema@tweedekamer.nl",
       "family_name": "Heerema",
       "gender": "male",
@@ -13668,6 +14452,10 @@
       "birth_date": "1975-04-28",
       "contact_details": [
         {
+          "type": "email",
+          "value": "skarabulut@sp.nl"
+        },
+        {
           "type": "twitter",
           "value": "SadetKarabulut"
         }
@@ -13712,7 +14500,11 @@
         },
         {
           "note": "facebook",
-          "url": "Sadet.Karabulut.37"
+          "url": "https://facebook.com/Sadet.Karabulut.37"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/SadetKarabulut"
         }
       ],
       "name": "Sadet Karabulut",
@@ -13752,6 +14544,12 @@
     },
     {
       "birth_date": "1972-04-08",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "s.ozturk@tweedekamer.nl"
+        }
+      ],
       "email": "s.ozturk@tweedekamer.nl",
       "family_name": "Öztürk",
       "gender": "male",
@@ -13824,6 +14622,12 @@
     },
     {
       "birth_date": "1976-01-23",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "s.gesthuizen@tweedekamer.nl"
+        }
+      ],
       "email": "s.gesthuizen@tweedekamer.nl",
       "family_name": "Gesthuizen",
       "gender": "female",
@@ -13904,6 +14708,12 @@
     },
     {
       "birth_date": "1972-03-31",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "s.fritsma@tweedekamer.nl"
+        }
+      ],
       "email": "s.fritsma@tweedekamer.nl",
       "family_name": "Fritsma",
       "gender": "male",
@@ -13997,6 +14807,12 @@
     },
     {
       "birth_date": "1969-07-14",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "s.dikkers@tweedekamer.nl"
+        }
+      ],
       "email": "s.dikkers@tweedekamer.nl",
       "family_name": "Dikkers",
       "gender": "female",
@@ -14068,6 +14884,12 @@
     },
     {
       "birth_date": "1974-02-14",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "s.potters@tweedekamer.nl"
+        }
+      ],
       "email": "s.potters@tweedekamer.nl",
       "family_name": "Potters",
       "gender": "male",
@@ -14144,6 +14966,12 @@
     },
     {
       "birth_date": "1981-07-10",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "s.sjoerdsma@tweedekamer.nl"
+        }
+      ],
       "email": "s.sjoerdsma@tweedekamer.nl",
       "family_name": "Sjoerdsma",
       "gender": "male",
@@ -14220,6 +15048,12 @@
     },
     {
       "birth_date": "1973-03-21",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "s.vweyenberg@tweedekamer.nl"
+        }
+      ],
       "email": "s.vweyenberg@tweedekamer.nl",
       "family_name": "Weyenberg",
       "gender": "male",
@@ -14291,6 +15125,12 @@
     },
     {
       "birth_date": "1973-06-22",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "s.vveldhoven@tweedekamer.nl"
+        }
+      ],
       "email": "s.vveldhoven@tweedekamer.nl",
       "family_name": "Veldhoven",
       "gender": "female",
@@ -14353,6 +15193,12 @@
     },
     {
       "birth_date": "1961-05-01",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "s.gunal@tweedekamer.nl"
+        }
+      ],
       "email": "s.gunal@tweedekamer.nl",
       "family_name": "Günal-Gezer",
       "gender": "female",
@@ -14415,6 +15261,12 @@
     },
     {
       "birth_date": "1965-07-30",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "S.Buma@tweedekamer.nl"
+        }
+      ],
       "email": "S.Buma@tweedekamer.nl",
       "family_name": "Haersma Buma",
       "gender": "male",
@@ -14552,6 +15404,12 @@
     },
     {
       "birth_date": "1974-08-11",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "t.venrooy-vanark@tweedekamer.nl"
+        }
+      ],
       "email": "t.venrooy-vanark@tweedekamer.nl",
       "family_name": "Ark",
       "gender": "female",
@@ -14627,6 +15485,12 @@
     },
     {
       "birth_date": "1967-04-26",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "t.jadnanansing@tweedekamer.nl"
+        }
+      ],
       "email": "t.jadnanansing@tweedekamer.nl",
       "family_name": "Jadnanansing",
       "gender": "female",
@@ -14702,6 +15566,12 @@
     },
     {
       "birth_date": "1967-05-14",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "t.vdekken@tweedekamer.nl"
+        }
+      ],
       "email": "t.vdekken@tweedekamer.nl",
       "family_name": "Dekken",
       "gender": "male",
@@ -14773,6 +15643,12 @@
     },
     {
       "birth_date": "1981-09-24",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "t.siderius@tweedekamer.nl"
+        }
+      ],
       "email": "t.siderius@tweedekamer.nl",
       "family_name": "Siderius",
       "gender": "female",
@@ -14844,6 +15720,12 @@
     },
     {
       "birth_date": "1955-03-14",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "secretariaat.elias@tweedekamer.nl"
+        }
+      ],
       "email": "secretariaat.elias@tweedekamer.nl",
       "family_name": "Elias",
       "gender": "male",
@@ -14948,6 +15830,12 @@
     },
     {
       "birth_date": "1963-09-13",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "t.vdijck@tweedekamer.nl"
+        }
+      ],
       "email": "t.vdijck@tweedekamer.nl",
       "family_name": "Dijck",
       "gender": "male",
@@ -15033,6 +15921,12 @@
     },
     {
       "birth_date": "1981-06-05",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "t.kuzu@tweedekamer.nl"
+        }
+      ],
       "email": "t.kuzu@tweedekamer.nl",
       "family_name": "Kuzu",
       "gender": "male",
@@ -15109,6 +16003,12 @@
     },
     {
       "birth_date": "1971-06-01",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "v.bergkamp@tweedekamer.nl"
+        }
+      ],
       "email": "v.bergkamp@tweedekamer.nl",
       "family_name": "Bergkamp",
       "gender": "female",
@@ -15205,6 +16105,12 @@
     },
     {
       "birth_date": "1980-01-06",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "w.hachchi@tweedekamer.nl"
+        }
+      ],
       "email": "w.hachchi@tweedekamer.nl",
       "family_name": "Hachchi",
       "gender": "female",
@@ -15281,6 +16187,12 @@
     },
     {
       "birth_date": "1977-03-20",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "w.koolmees@tweedekamer.nl"
+        }
+      ],
       "email": "w.koolmees@tweedekamer.nl",
       "family_name": "Koolmees",
       "gender": "male",
@@ -15357,6 +16269,12 @@
     },
     {
       "birth_date": "1977-11-10",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Y.Cegerek@tweedekamer.nl"
+        }
+      ],
       "email": "Y.Cegerek@tweedekamer.nl",
       "family_name": "Cegerek",
       "gender": "female",
@@ -15433,6 +16351,12 @@
     },
     {
       "birth_date": "1967-02-11",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "y.berckmoes-duindam@tweedekamer.nl"
+        }
+      ],
       "email": "y.berckmoes-duindam@tweedekamer.nl",
       "family_name": "Berckmoes-Duindam",
       "gender": "female",
