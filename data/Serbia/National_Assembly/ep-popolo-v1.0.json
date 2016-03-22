@@ -469,7 +469,6 @@
     },
     {
       "birth_date": "1955",
-      "honorific_prefix": "Dr",
       "id": "dd18a624-fadf-417a-b9d7-94247c931fb5",
       "identifiers": [
         {
@@ -477,8 +476,8 @@
           "scheme": "everypolitician_legacy"
         }
       ],
-      "name": "BLAGOJE BRADIC",
-      "sort_name": "BLAGOJE Dr BRADIC",
+      "name": "BLAGOJE M.Sci Dr.med.dent BRADIC",
+      "sort_name": "BLAGOJE M.Sci Dr.med.dent BRADIC",
       "sources": [
         {
           "url": "http://www.parlament.gov.rs/BLAGOJE_BRADIC.849.488.html"
@@ -773,8 +772,8 @@
           "scheme": "everypolitician_legacy"
         }
       ],
-      "name": "BRANIMIR RANCIC",
-      "sort_name": "BRANIMIR Dr RANCIC",
+      "name": "BRANIMIR Prim. RANCIC",
+      "sort_name": "BRANIMIR Prim. Dr RANCIC",
       "sources": [
         {
           "url": "http://www.parlament.gov.rs/BRANIMIR_RANCIC.887.488.html"
@@ -1222,7 +1221,7 @@
       "links": [
         {
           "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Dragan_Marković_(politician)"
+          "url": "https://en.wikipedia.org/wiki/Dragan_Marković"
         },
         {
           "note": "Wikipedia (fr)",
@@ -1714,6 +1713,11 @@
         },
         {
           "lang": "hr",
+          "name": "Dragoljub Mićunović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
           "name": "Dragoljub Mićunović",
           "note": "multilingual"
         },
@@ -2369,6 +2373,23 @@
       ]
     },
     {
+      "birth_date": "1954",
+      "id": "669374f4-8da4-4f17-9e7f-582f4ff5f167",
+      "identifiers": [
+        {
+          "identifier": "645",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "HAJI MILORAD STOSIC",
+      "sort_name": "HAJI MILORAD STOSIC",
+      "sources": [
+        {
+          "url": "http://www.parlament.gov.rs/HAJI+MILORAD_STOSIC.645.488.html"
+        }
+      ]
+    },
+    {
       "birth_date": "1971",
       "id": "ea8e9385-274b-4814-b484-8d0eae456345",
       "identifiers": [
@@ -2612,6 +2633,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "hu",
+          "name": "Janko Veselinović",
+          "note": "multilingual"
+        },
+        {
           "lang": "it",
           "name": "Janko Veselinović<br><small>Јанко Веселиновић</small>",
           "note": "multilingual"
@@ -2623,7 +2649,7 @@
         },
         {
           "lang": "sr",
-          "name": "Јанко Веселиновић (правник)",
+          "name": "Јанко Веселиновић",
           "note": "multilingual"
         }
       ],
@@ -3045,6 +3071,10 @@
           "url": "https://bs.wikipedia.org/wiki/Maja_Gojković"
         },
         {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Maja_Gojković"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Maja_Gojković"
         },
@@ -3105,6 +3135,11 @@
         },
         {
           "lang": "hr",
+          "name": "Maja Gojković",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
           "name": "Maja Gojković",
           "note": "multilingual"
         },
@@ -3335,6 +3370,12 @@
         {
           "identifier": "Q6771114",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Marko_Atlagić.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Marko_Atlagić.jpg"
         }
       ],
       "links": [
@@ -3822,23 +3863,6 @@
       ]
     },
     {
-      "birth_date": "1954",
-      "id": "669374f4-8da4-4f17-9e7f-582f4ff5f167",
-      "identifiers": [
-        {
-          "identifier": "645",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "MILORAD STOSIC",
-      "sort_name": "MILORAD STOSIC",
-      "sources": [
-        {
-          "url": "http://www.parlament.gov.rs/MILORAD_STOSIC.645.488.html"
-        }
-      ]
-    },
-    {
       "birth_date": "1964",
       "id": "8d2f04a9-8a9d-4f2f-a82b-2a48b74e7c1a",
       "identifiers": [
@@ -3947,6 +3971,11 @@
         },
         {
           "lang": "fr",
+          "name": "Milovan Drecun",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
           "name": "Milovan Drecun",
           "note": "multilingual"
         },
@@ -5582,6 +5611,17 @@
       ]
     },
     {
+      "birth_date": "1947",
+      "id": "f7d145fa-7133-4762-bf9c-ee69ea54df7d",
+      "name": "SLOBODAN VELICKOVIC",
+      "sort_name": "SLOBODAN VELICKOVIC",
+      "sources": [
+        {
+          "url": "http://www.parlament.gov.rs/SLOBODAN_VELICKOVIC.640.488.html"
+        }
+      ]
+    },
+    {
       "birth_date": "1976-09-10",
       "gender": "female",
       "given_name": "Snežana",
@@ -5863,6 +5903,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "hu",
+          "name": "Srđan Dragojević",
+          "note": "multilingual"
+        },
+        {
           "lang": "it",
           "name": "Srđan Dragojević",
           "note": "multilingual"
@@ -6082,6 +6127,11 @@
         },
         {
           "lang": "fr",
+          "name": "Sulejman Ugljanin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
           "name": "Sulejman Ugljanin",
           "note": "multilingual"
         },
@@ -7229,6 +7279,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "hu",
+          "name": "Zoran Živković",
+          "note": "multilingual"
+        },
+        {
           "lang": "it",
           "name": "Zoran Živković",
           "note": "multilingual"
@@ -7250,12 +7305,12 @@
         },
         {
           "lang": "pl",
-          "name": "Zoran Živković (polityk)",
+          "name": "Zoran Živković",
           "note": "multilingual"
         },
         {
           "lang": "sh",
-          "name": "Zoran Živković (političar)",
+          "name": "Zoran Živković",
           "note": "multilingual"
         },
         {
@@ -7342,6 +7397,11 @@
       "classification": "party",
       "id": "party/alliance_of_vojvodina_hungarians",
       "name": "Alliance of Vojvodina Hungarians"
+    },
+    {
+      "classification": "party",
+      "id": "party/boris_tadic_–_social_democratic_party,_together_for_serbia",
+      "name": "Boris Tadic – Social Democratic Party, Together for Serbia"
     },
     {
       "classification": "party",
@@ -7622,7 +7682,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/boris_tadic_–_social_democratic_party,_together_for_serbia,_greens_of_serbia",
+      "on_behalf_of_id": "party/boris_tadic_–_social_democratic_party,_together_for_serbia",
       "organization_id": "legislature",
       "person_id": "216b78a9-8be5-4ee7-a477-2d78a058576e",
       "role": "member"
@@ -7636,7 +7696,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/boris_tadic_–_social_democratic_party,_together_for_serbia,_greens_of_serbia",
+      "on_behalf_of_id": "party/boris_tadic_–_social_democratic_party,_together_for_serbia",
       "organization_id": "legislature",
       "person_id": "23a5c30c-23c7-459a-9a70-f1d18d0b3bdb",
       "role": "member"
@@ -7751,7 +7811,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/democratic_party",
+      "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
       "person_id": "33ff8e42-efd9-42d2-9b69-c2e5b972dee3",
       "role": "member",
@@ -7893,7 +7953,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/democratic_party",
+      "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
       "person_id": "4758daec-aea1-45fc-998a-9bf7084d20d7",
       "role": "member"
@@ -7958,7 +8018,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/boris_tadic_–_social_democratic_party,_together_for_serbia,_greens_of_serbia",
+      "on_behalf_of_id": "party/boris_tadic_–_social_democratic_party,_together_for_serbia",
       "organization_id": "legislature",
       "person_id": "5379cf03-d44f-4a23-8a29-a582cc4dc7f5",
       "role": "member"
@@ -7979,7 +8039,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/boris_tadic_–_social_democratic_party,_together_for_serbia,_greens_of_serbia",
+      "on_behalf_of_id": "party/boris_tadic_–_social_democratic_party,_together_for_serbia",
       "organization_id": "legislature",
       "person_id": "5ebfd2c2-1416-4ef3-b008-f5a39650c6ba",
       "role": "member",
@@ -8071,7 +8131,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/boris_tadic_–_social_democratic_party,_together_for_serbia,_greens_of_serbia",
+      "on_behalf_of_id": "party/boris_tadic_–_social_democratic_party,_together_for_serbia",
       "organization_id": "legislature",
       "person_id": "6ac96b9c-46d7-48ee-967f-8cdfd007b7cd",
       "role": "member"
@@ -8163,7 +8223,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/serbian_progressive_party",
+      "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
       "person_id": "75f64698-48a3-424b-a4a1-68ff9e3b267e",
       "role": "member"
@@ -8412,7 +8472,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/boris_tadic_–_social_democratic_party,_together_for_serbia,_greens_of_serbia",
+      "on_behalf_of_id": "party/boris_tadic_–_social_democratic_party,_together_for_serbia",
       "organization_id": "legislature",
       "person_id": "9a38c6d2-9c43-47cd-991d-5a1ba2e9ae89",
       "role": "member"
@@ -8588,7 +8648,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/boris_tadic_–_social_democratic_party,_together_for_serbia,_greens_of_serbia",
+      "on_behalf_of_id": "party/boris_tadic_–_social_democratic_party,_together_for_serbia",
       "organization_id": "legislature",
       "person_id": "ad7d3ffb-b708-4100-9fc1-73a8c0a02b0a",
       "role": "member"
@@ -8845,7 +8905,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/boris_tadic_–_social_democratic_party,_together_for_serbia,_greens_of_serbia",
+      "on_behalf_of_id": "party/socialist_party_of_serbia",
       "organization_id": "legislature",
       "person_id": "cf77dcb1-b502-4a77-98b7-592b3ca312f7",
       "role": "member"
@@ -8895,7 +8955,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/boris_tadic_–_social_democratic_party,_together_for_serbia,_greens_of_serbia",
+      "on_behalf_of_id": "party/boris_tadic_–_social_democratic_party,_together_for_serbia",
       "organization_id": "legislature",
       "person_id": "d967a511-c335-4793-8e02-942feb27c107",
       "role": "member"
@@ -8939,7 +8999,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/boris_tadic_–_social_democratic_party,_together_for_serbia,_greens_of_serbia",
+      "on_behalf_of_id": "party/boris_tadic_–_social_democratic_party,_together_for_serbia",
       "organization_id": "legislature",
       "person_id": "dd18a624-fadf-417a-b9d7-94247c931fb5",
       "role": "member"
@@ -9114,7 +9174,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/boris_tadic_–_social_democratic_party,_together_for_serbia,_greens_of_serbia",
+      "on_behalf_of_id": "party/boris_tadic_–_social_democratic_party,_together_for_serbia",
       "organization_id": "legislature",
       "person_id": "eae3bc7b-0a76-44bd-a4ce-2cc736448e23",
       "role": "member",
@@ -9185,6 +9245,14 @@
       "person_id": "f5fc19ba-892a-41ee-9a58-c72fefd0e386",
       "role": "member",
       "start_date": "2014-05-10"
+    },
+    {
+      "legislative_period_id": "term/10",
+      "on_behalf_of_id": "party/party_of_united_pensioners_of_serbia",
+      "organization_id": "legislature",
+      "person_id": "f7d145fa-7133-4762-bf9c-ee69ea54df7d",
+      "role": "member",
+      "start_date": "2016-02-01"
     },
     {
       "legislative_period_id": "term/10",
