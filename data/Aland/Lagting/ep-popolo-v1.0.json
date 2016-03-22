@@ -2,6 +2,12 @@
   "persons": [
     {
       "birth_date": "1964-01-19",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "carina.aaltonen@lagtinget.ax"
+        }
+      ],
       "email": "carina.aaltonen@lagtinget.ax",
       "gender": "female",
       "given_name": "Carina",
@@ -82,6 +88,12 @@
     },
     {
       "birth_date": "1968-09-15",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "tony.asumaa@lagtinget.ax"
+        }
+      ],
       "email": "tony.asumaa@lagtinget.ax",
       "gender": "male",
       "given_name": "Tony",
@@ -202,6 +214,12 @@
     },
     {
       "birth_date": "1953-06-22",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "christian.beijar@lagtinget.ax"
+        }
+      ],
       "email": "christian.beijar@lagtinget.ax",
       "gender": "male",
       "id": "58aff53c-e322-40e3-a8d2-49b672ae500c",
@@ -221,6 +239,12 @@
     },
     {
       "birth_date": "1939-08-17",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "gun.carlson@lagtinget.ax"
+        }
+      ],
       "email": "gun.carlson@lagtinget.ax",
       "gender": "female",
       "given_name": "Gun",
@@ -338,6 +362,12 @@
     },
     {
       "birth_date": "1972-12-28",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "petri.carlsson@lagtinget.ax"
+        }
+      ],
       "email": "petri.carlsson@lagtinget.ax",
       "gender": "male",
       "id": "2d97597a-4313-4ee9-a5bc-762c2608b4f9",
@@ -357,6 +387,12 @@
     },
     {
       "birth_date": "1946-03-14",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "ulla-britt.dahl@lagtinget.ax"
+        }
+      ],
       "email": "ulla-britt.dahl@lagtinget.ax",
       "gender": "female",
       "given_name": "Ulla-Britt",
@@ -418,6 +454,12 @@
     },
     {
       "birth_date": "1975-07-02",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "johan.ehn@lagtinget.ax"
+        }
+      ],
       "email": "johan.ehn@lagtinget.ax",
       "gender": "male",
       "given_name": "Johan",
@@ -519,6 +561,12 @@
     },
     {
       "birth_date": "1950-02-08",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "brage.eklund@lagtinget.ax"
+        }
+      ],
       "email": "brage.eklund@lagtinget.ax",
       "gender": "male",
       "id": "7877e36d-a18b-4e99-b6bb-74aac77286d3",
@@ -538,6 +586,12 @@
     },
     {
       "birth_date": "1947-03-12",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "raija-liisa.eklow@lagtinget.ax"
+        }
+      ],
       "email": "raija-liisa.eklow@lagtinget.ax",
       "gender": "female",
       "id": "7bcba90d-f015-4ea3-9243-eb1619719f61",
@@ -593,6 +647,12 @@
     },
     {
       "birth_date": "1947-01-18",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "torbjorn.eliasson@lagtinget.ax"
+        }
+      ],
       "email": "torbjorn.eliasson@lagtinget.ax",
       "gender": "male",
       "given_name": "Torbjörn",
@@ -662,6 +722,12 @@
     },
     {
       "birth_date": "1957-01-10",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "anders.englund@agtinget.ax"
+        }
+      ],
       "email": "anders.englund@agtinget.ax",
       "gender": "male",
       "given_name": "Anders",
@@ -730,6 +796,12 @@
     },
     {
       "birth_date": "1960-05-09",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "anders.eriksson@lagtinget.ax"
+        }
+      ],
       "email": "anders.eriksson@lagtinget.ax",
       "gender": "male",
       "given_name": "Anders",
@@ -786,6 +858,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "nl",
+          "name": "Anders Eriksson",
+          "note": "multilingual"
+        },
+        {
           "lang": "sv",
           "name": "Anders Eriksson",
           "note": "multilingual"
@@ -794,6 +871,12 @@
     },
     {
       "birth_date": "1959-10-17",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "sirpa.eriksson@lagtinget.ax."
+        }
+      ],
       "email": "sirpa.eriksson@lagtinget.ax.",
       "gender": "female",
       "given_name": "Sirpa",
@@ -850,6 +933,12 @@
     },
     {
       "birth_date": "1956-08-18",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "viveka.eriksson@lagtinget.ax"
+        }
+      ],
       "email": "viveka.eriksson@lagtinget.ax",
       "gender": "female",
       "given_name": "Viveka",
@@ -986,6 +1075,12 @@
     },
     {
       "birth_date": "1944-02-16",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "olof.erland@lagtinget.ax"
+        }
+      ],
       "email": "olof.erland@lagtinget.ax",
       "gender": "male",
       "given_name": "Olof",
@@ -1070,6 +1165,12 @@
     },
     {
       "birth_date": "1940-08-16",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "karl-johan.fogelstrom@lagtinget.ax"
+        }
+      ],
       "email": "karl-johan.fogelstrom@lagtinget.ax",
       "gender": "male",
       "id": "88204fba-8f58-4add-9e16-2c9aba3ad44c",
@@ -1089,6 +1190,12 @@
     },
     {
       "birth_date": "1970-09-07",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "camilla.gunell@lagtinget.ax"
+        }
+      ],
       "email": "camilla.gunell@lagtinget.ax",
       "gender": "female",
       "given_name": "Camilla",
@@ -1218,6 +1325,12 @@
     },
     {
       "birth_date": "1979-06-21",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "john.hilander@lagtinget.ax"
+        }
+      ],
       "email": "john.hilander@lagtinget.ax",
       "gender": "male",
       "id": "294b101b-1db4-469e-9684-f3124f9cd061",
@@ -1237,6 +1350,12 @@
     },
     {
       "birth_date": "1966-02-23",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "igge.holmberg@lagtinget.ax"
+        }
+      ],
       "email": "igge.holmberg@lagtinget.ax",
       "gender": "male",
       "id": "d65f8266-9315-47be-9c64-0f54625c6ddf",
@@ -1256,6 +1375,12 @@
     },
     {
       "birth_date": "1969-03-11",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "annette.holmberg-jansson@lagtinget.ax"
+        }
+      ],
       "email": "annette.holmberg-jansson@lagtinget.ax",
       "id": "212c44f3-e91d-48ad-9476-ad3ea8998ab6",
       "identifiers": [
@@ -1268,6 +1393,12 @@
     },
     {
       "birth_date": "1944-06-25",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "gunnar.jansson@lagtinget.ax"
+        }
+      ],
       "email": "gunnar.jansson@lagtinget.ax",
       "gender": "male",
       "given_name": "Gunnar",
@@ -1349,6 +1480,12 @@
     },
     {
       "birth_date": "1959-10-04",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "harry.jansson@lagtinget.ax"
+        }
+      ],
       "email": "harry.jansson@lagtinget.ax",
       "gender": "male",
       "given_name": "Harry",
@@ -1427,6 +1564,12 @@
     },
     {
       "birth_date": "1943-08-09",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "roger.jansson@lagtinget.ax"
+        }
+      ],
       "email": "roger.jansson@lagtinget.ax",
       "gender": "male",
       "given_name": "Roger",
@@ -1537,6 +1680,12 @@
     },
     {
       "birth_date": "1992-03-08",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "axel.jonsson@lagtinget.ax"
+        }
+      ],
       "email": "axel.jonsson@lagtinget.ax",
       "gender": "male",
       "id": "4116682f-f3c3-4514-a891-b9fe8afa245f",
@@ -1556,6 +1705,12 @@
     },
     {
       "birth_date": "1953-06-03",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "runar.karlsson@lagtinget.ax"
+        }
+      ],
       "email": "runar.karlsson@lagtinget.ax",
       "gender": "male",
       "given_name": "Runar",
@@ -1648,6 +1803,12 @@
     },
     {
       "birth_date": "1973-05-18",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "fredrik.karlstrom@lagtinget.ax"
+        }
+      ],
       "email": "fredrik.karlstrom@lagtinget.ax",
       "gender": "male",
       "given_name": "Fredrik",
@@ -1727,6 +1888,12 @@
     },
     {
       "birth_date": "1975-09-26",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "sara.kemetter@lagtinget.ax"
+        }
+      ],
       "email": "sara.kemetter@lagtinget.ax",
       "gender": "female",
       "id": "e3c01d19-cdd8-407c-b52f-95eea87f2307",
@@ -1746,6 +1913,12 @@
     },
     {
       "birth_date": "1962-03-29",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "gun-mari.lindholm@lagtinget.ax"
+        }
+      ],
       "email": "gun-mari.lindholm@lagtinget.ax",
       "gender": "female",
       "id": "c1735663-4615-4bd7-bac6-68f206835bf3",
@@ -1841,6 +2014,12 @@
     },
     {
       "birth_date": "1956-06-20",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "henry.lindstrom@lagtinget.ax"
+        }
+      ],
       "email": "henry.lindstrom@lagtinget.ax",
       "gender": "male",
       "given_name": "Henry",
@@ -1892,6 +2071,12 @@
     },
     {
       "birth_date": "1963-04-19",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "britt.lundberg@lagtinget.ax"
+        }
+      ],
       "email": "britt.lundberg@lagtinget.ax",
       "gender": "female",
       "given_name": "Britt",
@@ -2008,6 +2193,12 @@
     },
     {
       "birth_date": "1955-05-06",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "margaret.lundberg@lagtinget.ax"
+        }
+      ],
       "email": "margaret.lundberg@lagtinget.ax",
       "gender": "female",
       "given_name": "Margaret",
@@ -2069,6 +2260,12 @@
     },
     {
       "birth_date": "1949-07-31",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "jan-erik.mattsson@lagtinget.ax"
+        }
+      ],
       "email": "jan-erik.mattsson@lagtinget.ax",
       "gender": "male",
       "id": "c2e677f9-7320-45b6-88a4-32ef42ff1acc",
@@ -2109,6 +2306,12 @@
     },
     {
       "birth_date": "1955-05-14",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "ake.mattson@lagtinget.ax"
+        }
+      ],
       "email": "ake.mattson@lagtinget.ax",
       "gender": "male",
       "given_name": "Åke",
@@ -2160,6 +2363,12 @@
     },
     {
       "birth_date": "1973-06-09",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "mika.nordberg@lagtinget.ax"
+        }
+      ],
       "email": "mika.nordberg@lagtinget.ax",
       "gender": "male",
       "given_name": "Mika",
@@ -2220,6 +2429,12 @@
     },
     {
       "birth_date": "1957-11-19",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "roger.nordlund@lagtinget.ax"
+        }
+      ],
       "email": "roger.nordlund@lagtinget.ax",
       "gender": "male",
       "given_name": "Roger",
@@ -2334,6 +2549,12 @@
     },
     {
       "birth_date": "1964-10-12",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "mats.peramaa@lagtinget.ax"
+        }
+      ],
       "email": "mats.peramaa@lagtinget.ax",
       "gender": "male",
       "given_name": "Mats",
@@ -2394,6 +2615,12 @@
     },
     {
       "birth_date": "1965-01-17",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "jorgen.pettersson@lagtinget.ax"
+        }
+      ],
       "email": "jorgen.pettersson@lagtinget.ax",
       "gender": "male",
       "id": "acdcf89a-6477-4afd-a65e-9989bd2a1af4",
@@ -2413,6 +2640,12 @@
     },
     {
       "birth_date": "1952-03-29",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "jan.salmen@lagtinget.ax"
+        }
+      ],
       "email": "jan.salmen@lagtinget.ax",
       "gender": "male",
       "given_name": "Jan",
@@ -2464,6 +2697,12 @@
     },
     {
       "birth_date": "1966-02-02",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "katrin.sjogrenoch@lagtinget.ax"
+        }
+      ],
       "email": "katrin.sjogrenoch@lagtinget.ax",
       "gender": "female",
       "given_name": "Katrin",
@@ -2542,6 +2781,12 @@
     },
     {
       "birth_date": "1943-12-16",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "folke.sjolund@lagtinget.ax"
+        }
+      ],
       "death_date": "2013-12-13",
       "email": "folke.sjolund@lagtinget.ax",
       "gender": "male",
@@ -2599,6 +2844,12 @@
     },
     {
       "birth_date": "1944-06-28",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "leo.sjostrand@lagtinget.ax"
+        }
+      ],
       "email": "leo.sjostrand@lagtinget.ax",
       "gender": "male",
       "given_name": "Leo",
@@ -2650,6 +2901,12 @@
     },
     {
       "birth_date": "1944-02-01",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "roger.slotte@lagtinget.ax"
+        }
+      ],
       "email": "roger.slotte@lagtinget.ax",
       "gender": "male",
       "given_name": "Roger",
@@ -2705,6 +2962,12 @@
     },
     {
       "birth_date": "1962-03-15",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "jorgen.strand@lagtinget.ax"
+        }
+      ],
       "email": "jorgen.strand@lagtinget.ax",
       "gender": "male",
       "given_name": "Jörgen",
@@ -2793,6 +3056,12 @@
     },
     {
       "birth_date": "1945-12-22",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "barbro.sundback@lagtinget.ax"
+        }
+      ],
       "email": "barbro.sundback@lagtinget.ax",
       "gender": "female",
       "given_name": "Barbro",
@@ -2866,6 +3135,12 @@
     },
     {
       "birth_date": "1951-09-15",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "torsten.sundblom@lagtinget.ax"
+        }
+      ],
       "email": "torsten.sundblom@lagtinget.ax",
       "gender": "male",
       "given_name": "Torsten",
@@ -2935,6 +3210,12 @@
     },
     {
       "birth_date": "1973-12-06",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "danne.sundman@lagtinget.ax"
+        }
+      ],
       "email": "danne.sundman@lagtinget.ax",
       "gender": "male",
       "id": "4519dd08-5c45-4324-a257-591aaa03c3e8",
@@ -3026,6 +3307,12 @@
     },
     {
       "birth_date": "1968-01-19",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "gote.wine@lagtinget.ax"
+        }
+      ],
       "email": "gote.wine@lagtinget.ax",
       "gender": "male",
       "id": "58467ee7-696f-4c46-91c8-7ac4110e9d32",
