@@ -1,14 +1,28 @@
 {
   "sources": [
     {
+      "file": "morph/centraldedados.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/portugal-centraldedados",
+        "query": "SELECT * FROM data WHERE term IN (6,7,8,9,10,11,12)"
+      },
+      "source": "https://github.com/centraldedados/parlamento-deputados",
+      "type": "membership"
+    },
+    {
       "file": "morph/data.csv",
       "create": {
         "type": "morph",
         "scraper": "tmtmtmtm/portugal-democratica-scraper",
-        "query": "SELECT * FROM data"
+        "query": "SELECT id, name, photo, email, twitter, identifier__parlamento FROM data GROUP BY id"
       },
       "source": "http://demo.cratica.org/",
-      "type": "membership"
+      "type": "person",
+      "merge": {
+        "incoming_field": "identifier__parlamento",
+        "existing_field": "id"
+      }
     },
     {
       "file": "morph/wikidata.csv",
