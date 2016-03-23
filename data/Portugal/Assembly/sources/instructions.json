@@ -40,14 +40,8 @@
       }
     },
     {
-      "file": "morph/terms.csv",
-      "type": "term",
-      "create": {
-        "file": "morph/terms.csv",
-        "type": "morph",
-        "scraper": "tmtmtmtm/portugal-democratica-scraper",
-        "query": "SELECT * FROM terms"
-      }
+      "file": "manual/terms.csv",
+      "type": "term"
     },
     {
       "file": "wikidata/groups.json",
