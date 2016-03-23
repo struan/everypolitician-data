@@ -5,7 +5,7 @@
       "create": {
         "type": "morph",
         "scraper": "tmtmtmtm/portugal-centraldedados",
-        "query": "SELECT * FROM data WHERE term IN (6,7,8,9,10,11,12,13)"
+        "query": "SELECT * FROM data ORDER BY id, term"
       },
       "source": "https://github.com/centraldedados/parlamento-deputados",
       "type": "membership"
