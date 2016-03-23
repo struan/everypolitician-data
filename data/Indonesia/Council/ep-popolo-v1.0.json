@@ -578,6 +578,21 @@
       ]
     },
     {
+      "id": "5b9003c6-7e22-4531-9585-5e6f83664e16",
+      "image": "http://dpr.go.id/doksigota/photo/blankface.jpg",
+      "images": [
+        {
+          "url": "http://dpr.go.id/doksigota/photo/blankface.jpg"
+        }
+      ],
+      "name": "ALFIA REZIANI",
+      "sources": [
+        {
+          "url": "http://dpr.go.id/en/anggota"
+        }
+      ]
+    },
+    {
       "gender": "male",
       "id": "8446d478-ba50-4eeb-973a-c25aa2ee658c",
       "identifiers": [
@@ -18581,6 +18596,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "nl",
+          "name": "Sofyan Tan",
+          "note": "multilingual"
+        },
+        {
           "lang": "zh",
           "name": "陳金揚",
           "note": "multilingual"
@@ -20218,6 +20238,14 @@
       "on_behalf_of_id": "party/national_democrat_party_faction",
       "organization_id": "legislature",
       "person_id": "5b8672cc-60d7-475f-a6d1-593dc4c85019",
+      "role": "member"
+    },
+    {
+      "area_id": "area/jawa_tengah_v",
+      "legislative_period_id": "term/18",
+      "on_behalf_of_id": "party/indonesian_democratic_party_of_struggle_faction",
+      "organization_id": "legislature",
+      "person_id": "5b9003c6-7e22-4531-9585-5e6f83664e16",
       "role": "member"
     },
     {
