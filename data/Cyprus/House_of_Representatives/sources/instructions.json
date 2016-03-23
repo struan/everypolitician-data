@@ -5,7 +5,7 @@
       "create": {
         "type": "morph",
         "scraper": "tmtmtmtm/cyprus-openpatata",
-        "query": "SELECT * FROM data"
+        "query": "SELECT *, NULL as wikipedia FROM data"
       },
       "source": "https://github.com/openpatata/openpatata-data/",
       "type": "membership"
