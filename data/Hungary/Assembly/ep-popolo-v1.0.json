@@ -8805,6 +8805,28 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "hollik.istvan@parlament.hu"
+        }
+      ],
+      "email": "hollik.istvan@parlament.hu",
+      "id": "79c62651-65b5-47a8-98ba-7c5b0a2efe1a",
+      "image": "http://www.parlament.hu/kepv/kepek/h078.jpg",
+      "images": [
+        {
+          "url": "http://www.parlament.hu/kepv/kepek/h078.jpg"
+        }
+      ],
+      "name": "Hollik, István",
+      "sources": [
+        {
+          "url": "http://www.parlament.hu/en/web/house-of-the-national-assembly/list-of-mps"
+        }
+      ]
+    },
+    {
       "birth_date": "1944-06-28",
       "contact_details": [
         {
@@ -16424,6 +16446,11 @@
           "lang": "pt",
           "name": "Políticas Podem Ser Diferentes",
           "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "პოლიტიკა შეიძლება იყოს სხვა",
+          "note": "multilingual"
         }
       ]
     },
@@ -17271,6 +17298,14 @@
       "organization_id": "legislature",
       "person_id": "77108c0a-96cc-413b-bdd9-6d32540938af",
       "role": "member"
+    },
+    {
+      "legislative_period_id": "term/40",
+      "on_behalf_of_id": "party/kdnp",
+      "organization_id": "legislature",
+      "person_id": "79c62651-65b5-47a8-98ba-7c5b0a2efe1a",
+      "role": "member",
+      "start_date": "2015-09-21"
     },
     {
       "legislative_period_id": "term/40",
