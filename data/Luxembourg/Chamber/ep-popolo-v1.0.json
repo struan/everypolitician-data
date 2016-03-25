@@ -1041,6 +1041,30 @@
       ]
     },
     {
+      "birth_date": "1976-09-24",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "clamberty@chd.lu"
+        }
+      ],
+      "email": "clamberty@chd.lu",
+      "gender": "male",
+      "id": "ca069a78-261a-455a-8039-ff410a8021b5",
+      "image": "http://www.chd.lu/wps/PA_TbinoscopePersonne/FTSImageRetriever?ref=1760",
+      "images": [
+        {
+          "url": "http://www.chd.lu/wps/PA_TbinoscopePersonne/FTSImageRetriever?ref=1760"
+        }
+      ],
+      "name": "Claude Lamberty",
+      "sources": [
+        {
+          "url": "http://www.chd.lu/wps/portal/public/FicheDepute?ref=25119"
+        }
+      ]
+    },
+    {
       "birth_date": "1960-01-30",
       "contact_details": [
         {
@@ -6754,6 +6778,14 @@
       "organization_id": "legislature",
       "person_id": "c8506779-cd8e-48d9-8266-ed1eeecc3bf2",
       "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "1472",
+      "organization_id": "legislature",
+      "person_id": "ca069a78-261a-455a-8039-ff410a8021b5",
+      "role": "member",
+      "start_date": "2016-01-19"
     },
     {
       "legislative_period_id": "term/2013",
