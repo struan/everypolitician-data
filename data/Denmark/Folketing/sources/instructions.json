@@ -11,6 +11,21 @@
       "type": "membership"
     },
     {
+      "file": "morph/wikipedia-historic.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/denmark-folketing-wp",
+        "query": "SELECT * FROM data"
+      },
+      "source": "https://da.wikipedia.org",
+      "type": "membership",
+      "merge": {
+        "incoming_field": "name",
+        "existing_field": "name",
+        "reconciliation_file": "reconciliation/wikipedia-historic.csv"
+      }
+    },
+    {
       "file": "morph/wikidata.csv",
       "create": {
         "type": "morph",
