@@ -25,7 +25,7 @@ module Reconciliation
     # something more complex. (e.g. multiple fields)
     #
     def existing_people
-      @_existing_people ||= existing_rows.uniq { |r| r[:uuid] }.each { |r| r[:fuzzit] = UnicodeUtils.downcase(r[existing_field]) }
+      @_existing_people ||= existing_rows.uniq { |r| r[:uuid] }.each { |r| r[:fuzzit] = UnicodeUtils.downcase(r[existing_field].to_s) }
     end
 
     def fuzzer
