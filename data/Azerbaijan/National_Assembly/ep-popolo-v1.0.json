@@ -3344,8 +3344,6 @@
       ]
     },
     {
-      "birth_date": "1969-10-15",
-      "death_date": "1999-01-08",
       "id": "831b83b1-2797-4311-8dae-e12e9289d9c8",
       "identifiers": [
         {
@@ -3353,14 +3351,14 @@
           "scheme": "everypolitician_legacy"
         },
         {
-          "identifier": "Q16373370",
+          "identifier": "Q19715508",
           "scheme": "wikidata"
         }
       ],
       "links": [
         {
           "note": "Wikipedia (az)",
-          "url": "https://az.wikipedia.org/wiki/Rövşən_Rzayev"
+          "url": "https://az.wikipedia.org/wiki/Rövşən_Rzayev_(millət_vəkili)"
         }
       ],
       "name": "Rövşən Rzayev",
@@ -3921,8 +3919,34 @@
       ]
     },
     {
+      "birth_date": "1977-06-07",
+      "gender": "male",
       "id": "e4d0281d-11c9-49da-a852-3b1c37c14c95",
-      "name": "Tahir Mirkişili"
+      "identifiers": [
+        {
+          "identifier": "Q23304292",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (az)",
+          "url": "https://az.wikipedia.org/wiki/Tahir_Mirkişili"
+        }
+      ],
+      "name": "Tahir Mirkişili",
+      "other_names": [
+        {
+          "lang": "az",
+          "name": "Tahir Mirkişili",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Tahir Mirkişili",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
