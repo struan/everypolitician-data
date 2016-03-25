@@ -85,6 +85,21 @@
       ]
     },
     {
+      "id": "aad78d64-def4-4719-9c1c-cad07845e993",
+      "image": "http://www.sxmparliament.org/images/hyacinth.jpg",
+      "images": [
+        {
+          "url": "http://www.sxmparliament.org/images/hyacinth.jpg"
+        }
+      ],
+      "name": "Hyacinth Richardson",
+      "sources": [
+        {
+          "url": "http://www.sxmparliament.org/organization/members-of-parliament.html"
+        }
+      ]
+    },
+    {
       "id": "c0ad8a9f-e607-4a81-8bb1-88bcc11af903",
       "identifiers": [
         {
@@ -314,6 +329,21 @@
           "url": "http://www.sxmparliament.org/organization/members-of-parliament.html"
         }
       ]
+    },
+    {
+      "id": "c59a5ff4-4b3a-46c6-8c05-d6578f5be37d",
+      "image": "http://www.sxmparliament.org/images/samuel.jpg",
+      "images": [
+        {
+          "url": "http://www.sxmparliament.org/images/samuel.jpg"
+        }
+      ],
+      "name": "drs. Rodolphe E. Samuel",
+      "sources": [
+        {
+          "url": "http://www.sxmparliament.org/organization/members-of-parliament.html"
+        }
+      ]
     }
   ],
   "organizations": [
@@ -391,7 +421,14 @@
     },
     {
       "legislative_period_id": "term/2",
-      "on_behalf_of_id": "party/united_peoples_party",
+      "on_behalf_of_id": "party/national_alliance",
+      "organization_id": "legislature",
+      "person_id": "aad78d64-def4-4719-9c1c-cad07845e993",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2",
+      "on_behalf_of_id": "party/independent_member",
       "organization_id": "legislature",
       "person_id": "ae76a356-d0a3-431b-b550-1fe44dd7fac6",
       "role": "member"
@@ -415,6 +452,13 @@
       "on_behalf_of_id": "party/united_peoples_party",
       "organization_id": "legislature",
       "person_id": "c197810e-6a10-42f9-a5e1-71f217d25ba7",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2",
+      "on_behalf_of_id": "party/national_alliance",
+      "organization_id": "legislature",
+      "person_id": "c59a5ff4-4b3a-46c6-8c05-d6578f5be37d",
       "role": "member"
     },
     {
@@ -447,7 +491,7 @@
     },
     {
       "legislative_period_id": "term/2",
-      "on_behalf_of_id": "party/united_peoples_party",
+      "on_behalf_of_id": "party/independent_member",
       "organization_id": "legislature",
       "person_id": "f7cb7f63-00ac-4738-b874-89189a10fed7",
       "role": "member"
