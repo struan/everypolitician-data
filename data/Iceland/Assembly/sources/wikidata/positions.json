@@ -159,12 +159,27 @@
   ],
   "Q879568": [
     {
-      "id": "Q2602711",
-      "label": "Ministry of Education, Science and Culture"
+      "id": "Q12351697",
+      "label": "Minister of Education, Science and Culture",
+      "qualifiers": {
+        "P580": "1995-04-23",
+        "P582": "2002-03-02",
+        "P1366": "Tómas Ingi Olrich"
+      }
     },
     {
       "id": "Q21272959",
       "label": "Member of the Althing"
+    },
+    {
+      "id": "Q17013941",
+      "label": "Minister of Justice and Ecclesiastical Affairs",
+      "qualifiers": {
+        "P580": "2003-05-23",
+        "P582": "2009-02-01",
+        "P1365": "Sólveig Pétursdóttir",
+        "P1366": "Ragna Árnadóttir"
+      }
     }
   ],
   "Q463525": [
