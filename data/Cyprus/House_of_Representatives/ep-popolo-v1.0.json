@@ -144,15 +144,28 @@
     {
       "birth_date": "1946-09-27",
       "gender": "male",
+      "given_name": "Nikos",
       "id": "42700471-5888-49f3-b162-af263a529b9f",
       "identifiers": [
+        {
+          "identifier": "/m/026_qqj",
+          "scheme": "freebase"
+        },
         {
           "identifier": "mps",
           "scheme": "openpatata"
         },
         {
+          "identifier": "vj83lju1u0zg",
+          "scheme": "parlement"
+        },
+        {
           "identifier": "909",
           "scheme": "parliament_cy"
+        },
+        {
+          "identifier": "Q2112764",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.cy/assets/image/imageoriginal/Anastasiades%20Nikos.jpg",
@@ -161,8 +174,276 @@
           "url": "http://www.parliament.cy/assets/image/imageoriginal/Anastasiades%20Nikos.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/نيكوس_أناستاسيادس"
+        },
+        {
+          "note": "Wikipedia (be)",
+          "url": "https://be.wikipedia.org/wiki/Нікас_Анастасіядыс"
+        },
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Никос_Анастасиадис"
+        },
+        {
+          "note": "Wikipedia (bs)",
+          "url": "https://bs.wikipedia.org/wiki/Nicos_Anastasiades"
+        },
+        {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Nicos_Anastasiades"
+        },
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Nicos_Anastasiades"
+        },
+        {
+          "note": "Wikipedia (cs)",
+          "url": "https://cs.wikipedia.org/wiki/Nikos_Anastasiadis"
+        },
+        {
+          "note": "Wikipedia (cy)",
+          "url": "https://cy.wikipedia.org/wiki/Nicos_Anastasiades"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Nikos_Anastasiadis_(Politiker)"
+        },
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Νίκος_Αναστασιάδης"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Nicos_Anastasiades"
+        },
+        {
+          "note": "Wikipedia (eo)",
+          "url": "https://eo.wikipedia.org/wiki/Nikos_Anastasiades"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Nikos_Anastasiadis"
+        },
+        {
+          "note": "Wikipedia (et)",
+          "url": "https://et.wikipedia.org/wiki/Níkos_Anastasiádis"
+        },
+        {
+          "note": "Wikipedia (fa)",
+          "url": "https://fa.wikipedia.org/wiki/نیکوس_آناستاسیادس"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Nikos_Anastasiades"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Níkos_Anastasiádis"
+        },
+        {
+          "note": "Wikipedia (he)",
+          "url": "https://he.wikipedia.org/wiki/ניקוס_אנסטסיאדיס"
+        },
+        {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/Níkosz_Anasztasziádisz"
+        },
+        {
+          "note": "Wikipedia (hy)",
+          "url": "https://hy.wikipedia.org/wiki/Նիկոս_Անաստասիադիս"
+        },
+        {
+          "note": "Wikipedia (id)",
+          "url": "https://id.wikipedia.org/wiki/Nicos_Anastasiades"
+        },
+        {
+          "note": "Wikipedia (io)",
+          "url": "https://io.wikipedia.org/wiki/Nikos_Anastasiades"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Nikos_Anastasiadīs"
+        },
+        {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/ニコス・アナスタシアディス"
+        },
+        {
+          "note": "Wikipedia (ka)",
+          "url": "https://ka.wikipedia.org/wiki/ნიკოს_ანასტასიადესი"
+        },
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/니코스_아나스타시아데스"
+        },
+        {
+          "note": "Wikipedia (la)",
+          "url": "https://la.wikipedia.org/wiki/Nicolaus_Anastasiades"
+        },
+        {
+          "note": "Wikipedia (lb)",
+          "url": "https://lb.wikipedia.org/wiki/Nikos_Anastasiades"
+        },
+        {
+          "note": "Wikipedia (li)",
+          "url": "https://li.wikipedia.org/wiki/Nikos_Anastasiadis"
+        },
+        {
+          "note": "Wikipedia (mr)",
+          "url": "https://mr.wikipedia.org/wiki/निकोस_अनास्तासियादेस"
+        },
+        {
+          "note": "Wikipedia (ms)",
+          "url": "https://ms.wikipedia.org/wiki/Nicos_Anastasiades"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Nikos_Anastasiadis"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Nikos_Anastasiades"
+        },
+        {
+          "note": "Wikipedia (pam)",
+          "url": "https://pam.wikipedia.org/wiki/Nicos_Anastasiades"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Nikos_Anastasiadis"
+        },
+        {
+          "note": "Wikipedia (plwikiquote)",
+          "url": "https://plwikiquote.wikipedia.org/wiki/Nikos_Anastasiadis"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Nicos_Anastasiades"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Анастасиадис,_Никос"
+        },
+        {
+          "note": "Wikipedia (ruwikinews)",
+          "url": "https://ruwikinews.wikipedia.org/wiki/Категория:Никос_Анастасиадис"
+        },
+        {
+          "note": "Wikipedia (sco)",
+          "url": "https://sco.wikipedia.org/wiki/Nicos_Anastasiades"
+        },
+        {
+          "note": "Wikipedia (sh)",
+          "url": "https://sh.wikipedia.org/wiki/Nikos_Anastasidis"
+        },
+        {
+          "note": "Wikipedia (simple)",
+          "url": "https://simple.wikipedia.org/wiki/Nicos_Anastasiades"
+        },
+        {
+          "note": "Wikipedia (sk)",
+          "url": "https://sk.wikipedia.org/wiki/Nikos_Anastasiadis"
+        },
+        {
+          "note": "Wikipedia (sr)",
+          "url": "https://sr.wikipedia.org/wiki/Никос_Анастасијадес"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Nicos_Anastasiades"
+        },
+        {
+          "note": "Wikipedia (tl)",
+          "url": "https://tl.wikipedia.org/wiki/Nicos_Anastasiades"
+        },
+        {
+          "note": "Wikipedia (tr)",
+          "url": "https://tr.wikipedia.org/wiki/Nikos_Anastasiadis"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Нікос_Анастасіадіс"
+        },
+        {
+          "note": "Wikipedia (uz)",
+          "url": "https://uz.wikipedia.org/wiki/Nikos_Anastasiades"
+        },
+        {
+          "note": "Wikipedia (vi)",
+          "url": "https://vi.wikipedia.org/wiki/Nicos_Anastasiades"
+        },
+        {
+          "note": "Wikipedia (yo)",
+          "url": "https://yo.wikipedia.org/wiki/Nicos_Anastasiades"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/尼科斯·阿纳斯塔夏季斯"
+        },
+        {
+          "note": "website",
+          "url": "http://anastasiades.topcyprus.net"
+        }
+      ],
       "name": "Anastasiadis Nikos",
       "other_names": [
+        {
+          "name": "Nicos Anastasiades",
+          "note": "alternate"
+        },
+        {
+          "lang": "ar",
+          "name": "نيكوس اناستاسيادس",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be",
+          "name": "Нікас Анастасіядыс",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Никос Анастасиадис",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bs",
+          "name": "Nicos Anastasiades",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Nicos Anastasiades",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Nikos Anastasiadis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Nicos Anastasiades",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Nikos Anastasiadis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Nikos Anastasiadis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de-ch",
+          "name": "Nikos Anastasiadis",
+          "note": "multilingual"
+        },
         {
           "lang": "el",
           "name": "Αναστασιάδης Νίκος",
@@ -171,6 +452,216 @@
         {
           "lang": "en",
           "name": "Anastasiadis Nikos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "Nicos Anastasiades",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "Nicos Anastasiades",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Nikos Anastasiades",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Nikos Anastasiadis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Níkos Anastasiádis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "نیکوس آناستاسیادس",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Nikos Anastasiades",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Níkos Anastasiádis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "ניקוס אנסטסיאדיס",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Níkosz Anasztasziádisz",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hy",
+          "name": "Նիկոս Անաստասիադիս",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Nicos Anastasiades",
+          "note": "multilingual"
+        },
+        {
+          "lang": "io",
+          "name": "Nikos Anastasiades",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Nikos Anastasiadīs",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ニコス・アナスタシアディス",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "ნიკოს ანასტასიადესი",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "니코스 아나스타시아데스",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Nicolaus Anastasiades",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lb",
+          "name": "Nikos Anastasiades",
+          "note": "multilingual"
+        },
+        {
+          "lang": "li",
+          "name": "Nikos Anastasiadis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mr",
+          "name": "निकोस अनास्तासियादेस",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "Nicos Anastasiades",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Nikos Anastasiades",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Nicos Anastasiades",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Nikos Anastasiadis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pam",
+          "name": "Nicos Anastasiades",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Nicos Anastasiades",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Nicos Anastasiades",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt-br",
+          "name": "Nicos Anastasiades",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Анастасиадис, Никос",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "Nicos Anastasiades",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Nikos Anastasidis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Nikos Anastasiadis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Никос Анастасијадес",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Nicos Anastasiades",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tl",
+          "name": "Nicos Anastasiades",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Nikos Anastasiadis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Нікос Анастасіадіс",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uz",
+          "name": "Nikos Anastasiades",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Nicos Anastasiades",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yo",
+          "name": "Nicos Anastasiades",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "尼科斯·阿纳斯塔夏季斯",
           "note": "multilingual"
         }
       ],
@@ -344,10 +835,6 @@
       "name": "Charalampidou Eirini",
       "other_names": [
         {
-          "name": "Ειρήνη Χαραλαμπίδου",
-          "note": "alternate"
-        },
-        {
           "lang": "el",
           "name": "Χαραλαμπίδου Ειρήνη",
           "note": "multilingual"
@@ -420,12 +907,21 @@
         {
           "type": "email",
           "value": "lchristoforou@parliament.cy"
+        },
+        {
+          "type": "twitter",
+          "value": "LefChristoforou"
         }
       ],
       "email": "lchristoforou@parliament.cy",
       "gender": "male",
+      "given_name": "Lefteris",
       "id": "1479b419-0e38-499f-9670-471f98a0c6bb",
       "identifiers": [
+        {
+          "identifier": "26837",
+          "scheme": "europarlmep"
+        },
         {
           "identifier": "422",
           "scheme": "everypolitician_legacy"
@@ -437,6 +933,10 @@
         {
           "identifier": "422",
           "scheme": "parliament_cy"
+        },
+        {
+          "identifier": "Q16571128",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.cy/assets/image/imageoriginal/CHRISTOFOROU%20Lefteris.jpg",
@@ -445,8 +945,35 @@
           "url": "http://www.parliament.cy/assets/image/imageoriginal/CHRISTOFOROU%20Lefteris.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Lefteris_Christoforou"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Lefteris_Christoforu"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/ChristoforouLefteris"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/LefChristoforou"
+        }
+      ],
       "name": "Christoforou Lefteris",
       "other_names": [
+        {
+          "name": "Lefteris Christoforu",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Lefteris Christoforu",
+          "note": "multilingual"
+        },
         {
           "lang": "el",
           "name": "Χριστοφόρου Λευτέρης",
@@ -455,6 +982,16 @@
         {
           "lang": "en",
           "name": "Christoforou Lefteris",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Lefteris Christoforou",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Lefteris Christoforu",
           "note": "multilingual"
         }
       ],
@@ -516,10 +1053,6 @@
       "name": "Damianou Aristos",
       "other_names": [
         {
-          "name": "Άριστος Δαμιανού",
-          "note": "alternate"
-        },
-        {
           "lang": "el",
           "name": "Δαμιανού Άριστος",
           "note": "multilingual"
@@ -579,10 +1112,6 @@
       ],
       "name": "Dimitriou Misiaouli Stella",
       "other_names": [
-        {
-          "name": "Στέλλα Δημητρίου Μισιαούλη",
-          "note": "alternate"
-        },
         {
           "lang": "el",
           "name": "Δημητρίου Μισιαούλη Στέλλα",
@@ -708,10 +1237,6 @@
       "name": "Evagorou Stavros",
       "other_names": [
         {
-          "name": "Σταύρος Ευαγόρου",
-          "note": "alternate"
-        },
-        {
           "lang": "el",
           "name": "Ευαγόρου Σταύρος",
           "note": "multilingual"
@@ -776,10 +1301,6 @@
       ],
       "name": "Fakontis Antreas",
       "other_names": [
-        {
-          "name": "Αντρέας Φακοντής",
-          "note": "alternate"
-        },
         {
           "lang": "el",
           "name": "Φακοντής Αντρέας",
@@ -890,10 +1411,6 @@
       ],
       "name": "Gavriil Giannakis",
       "other_names": [
-        {
-          "name": "Γιαννάκης Γαβριήλ",
-          "note": "alternate"
-        },
         {
           "lang": "el",
           "name": "Γαβριήλ Γιαννάκης",
@@ -1054,10 +1571,6 @@
       "name": "Georgiou Giorgos",
       "other_names": [
         {
-          "name": "Γιώργος Γεωργίου",
-          "note": "alternate"
-        },
-        {
           "lang": "el",
           "name": "Γεωργίου Γιώργος",
           "note": "multilingual"
@@ -1117,10 +1630,6 @@
       ],
       "name": "Kafkalias Antreas",
       "other_names": [
-        {
-          "name": "Αντρέας Καυκαλιάς",
-          "note": "alternate"
-        },
         {
           "lang": "el",
           "name": "Καυκαλιάς Αντρέας",
@@ -1485,10 +1994,6 @@
       "name": "Kosta Kostas",
       "other_names": [
         {
-          "name": "Κώστας Κώστα",
-          "note": "alternate"
-        },
-        {
           "lang": "el",
           "name": "Κώστα Κώστας",
           "note": "multilingual"
@@ -1548,10 +2053,6 @@
       ],
       "name": "Koukouma Koutra Skevi",
       "other_names": [
-        {
-          "name": "Σκεύη Κουκουμά Κούτρα",
-          "note": "alternate"
-        },
         {
           "lang": "el",
           "name": "Κουκουμά Κούτρα Σκεύη",
@@ -2049,10 +2550,6 @@
       "name": "Lamaris Giannos",
       "other_names": [
         {
-          "name": "Γιάννος Λαμάρης",
-          "note": "alternate"
-        },
-        {
           "lang": "el",
           "name": "Λαμάρης Γιάννος",
           "note": "multilingual"
@@ -2112,10 +2609,6 @@
       ],
       "name": "Loukaidis Giorgos",
       "other_names": [
-        {
-          "name": "Γιώργος Λουκαΐδης",
-          "note": "alternate"
-        },
         {
           "lang": "el",
           "name": "Λουκαΐδης Γιώργος",
@@ -2277,10 +2770,6 @@
       "name": "Mavronikola Roula",
       "other_names": [
         {
-          "name": "Ρούλα Μαυρονικόλα",
-          "note": "alternate"
-        },
-        {
           "lang": "el",
           "name": "Μαυρονικόλα Ρούλα",
           "note": "multilingual"
@@ -2340,10 +2829,6 @@
       ],
       "name": "Mesis Christos",
       "other_names": [
-        {
-          "name": "Χρίστος Μέσης",
-          "note": "alternate"
-        },
         {
           "lang": "el",
           "name": "Μέσης Χρίστος",
@@ -2571,6 +3056,10 @@
         {
           "identifier": "402",
           "scheme": "parliament_cy"
+        },
+        {
+          "identifier": "Q15951474",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.cy/assets/image/imageoriginal/NEOFYTOU%20Averof.jpg",
@@ -2580,6 +3069,14 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Αβέρωφ_Νεοφύτου"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Awerof_Neofitu"
+        },
         {
           "note": "facebook",
           "url": "https://facebook.com/AverofNeofytou"
@@ -2599,6 +3096,11 @@
         {
           "lang": "en",
           "name": "Neofytou Averof",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Awerof Neofitu",
           "note": "multilingual"
         }
       ],
@@ -3125,8 +3627,13 @@
     {
       "birth_date": "1977-06-09",
       "gender": "male",
+      "given_name": "Andreas",
       "id": "3a66f1de-c568-4532-901d-6658314904b5",
       "identifiers": [
+        {
+          "identifier": "118144",
+          "scheme": "europarlmep"
+        },
         {
           "identifier": "mps",
           "scheme": "openpatata"
@@ -3134,6 +3641,10 @@
         {
           "identifier": "913",
           "scheme": "parliament_cy"
+        },
+        {
+          "identifier": "Q11685756",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.cy/assets/image/imageoriginal/PITSILLIDES%20Andreas.jpg",
@@ -3142,8 +3653,107 @@
           "url": "http://www.parliament.cy/assets/image/imageoriginal/PITSILLIDES%20Andreas.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Andreas_Pitsillides"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Andreas_Pitsillides"
+        },
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Ανδρέας_Πιτσιλλίδης"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Andreas_Pitsillides"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Andreas_Pitsillides"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Andreas_Pitsillides"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Andreas_Pitsilidis"
+        }
+      ],
       "name": "Pitsillidis Andreas",
       "other_names": [
+        {
+          "name": "Andreas Pitsillides",
+          "note": "alternate"
+        },
+        {
+          "lang": "af",
+          "name": "Andreas Pitsillides",
+          "note": "multilingual"
+        },
+        {
+          "lang": "an",
+          "name": "Andreas Pitsillides",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ast",
+          "name": "Andreas Pitsillides",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bar",
+          "name": "Andreas Pitsillides",
+          "note": "multilingual"
+        },
+        {
+          "lang": "br",
+          "name": "Andreas Pitsillides",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Andreas Pitsillides",
+          "note": "multilingual"
+        },
+        {
+          "lang": "co",
+          "name": "Andreas Pitsillides",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Andreas Pitsillides",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Andreas Pitsillides",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Andreas Pitsillides",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Andreas Pitsillides",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de-at",
+          "name": "Andreas Pitsillides",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de-ch",
+          "name": "Andreas Pitsillides",
+          "note": "multilingual"
+        },
         {
           "lang": "el",
           "name": "Πιτσιλλίδης Ανδρέας",
@@ -3152,6 +3762,301 @@
         {
           "lang": "en",
           "name": "Pitsillidis Andreas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "Andreas Pitsillides",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "Andreas Pitsillides",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Andreas Pitsillides",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Andreas Pitsillides",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Andreas Pitsillides",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "Andreas Pitsillides",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Andreas Pitsillides",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Andreas Pitsillides",
+          "note": "multilingual"
+        },
+        {
+          "lang": "frp",
+          "name": "Andreas Pitsillides",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fur",
+          "name": "Andreas Pitsillides",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "Andreas Pitsillides",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Andreas Pitsillides",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Andreas Pitsillides",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gsw",
+          "name": "Andreas Pitsillides",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Andreas Pitsillides",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Andreas Pitsillides",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ia",
+          "name": "Andreas Pitsillides",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Andreas Pitsillides",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ie",
+          "name": "Andreas Pitsillides",
+          "note": "multilingual"
+        },
+        {
+          "lang": "io",
+          "name": "Andreas Pitsillides",
+          "note": "multilingual"
+        },
+        {
+          "lang": "is",
+          "name": "Andreas Pitsillides",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Andreas Pitsillides",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kg",
+          "name": "Andreas Pitsillides",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lb",
+          "name": "Andreas Pitsillides",
+          "note": "multilingual"
+        },
+        {
+          "lang": "li",
+          "name": "Andreas Pitsillides",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lij",
+          "name": "Andreas Pitsillides",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mg",
+          "name": "Andreas Pitsillides",
+          "note": "multilingual"
+        },
+        {
+          "lang": "min",
+          "name": "Andreas Pitsillides",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "Andreas Pitsillides",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nap",
+          "name": "Andreas Pitsillides",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Andreas Pitsillides",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nds",
+          "name": "Andreas Pitsillides",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nds-nl",
+          "name": "Andreas Pitsillides",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Andreas Pitsillides",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Andreas Pitsillides",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nrm",
+          "name": "Andreas Pitsillides",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Andreas Pitsillides",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pcd",
+          "name": "Andreas Pitsillides",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Andreas Pitsillides",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pms",
+          "name": "Andreas Pitsillides",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Andreas Pitsillides",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt-br",
+          "name": "Andreas Pitsillides",
+          "note": "multilingual"
+        },
+        {
+          "lang": "rm",
+          "name": "Andreas Pitsillides",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Andreas Pitsillides",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sc",
+          "name": "Andreas Pitsillides",
+          "note": "multilingual"
+        },
+        {
+          "lang": "scn",
+          "name": "Andreas Pitsillides",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "Andreas Pitsillides",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Andreas Pitsillides",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Andreas Pitsillides",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-el",
+          "name": "Andreas Pitsillides",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Andreas Pitsillides",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sw",
+          "name": "Andreas Pitsillides",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vec",
+          "name": "Andreas Pitsillides",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Andreas Pitsillides",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vls",
+          "name": "Andreas Pitsillides",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vo",
+          "name": "Andreas Pitsillides",
+          "note": "multilingual"
+        },
+        {
+          "lang": "wa",
+          "name": "Andreas Pitsillides",
+          "note": "multilingual"
+        },
+        {
+          "lang": "wo",
+          "name": "Andreas Pitsillides",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zu",
+          "name": "Andreas Pitsillides",
           "note": "multilingual"
         }
       ],
@@ -3415,10 +4320,6 @@
       "name": "Stavrianos Panikkos",
       "other_names": [
         {
-          "name": "Πανίκκος Σταυριανός",
-          "note": "alternate"
-        },
-        {
           "lang": "el",
           "name": "Σταυριανός Πανίκκος",
           "note": "multilingual"
@@ -3522,10 +4423,6 @@
       ],
       "name": "Syllouris Dimitris",
       "other_names": [
-        {
-          "name": "Δημήτρης Συλλούρης",
-          "note": "alternate"
-        },
         {
           "lang": "el",
           "name": "Συλλούρης Δημήτρης",
@@ -3662,6 +4559,7 @@
       ],
       "email": "ntornaritis@parliament.cy",
       "gender": "male",
+      "given_name": "Nikos",
       "id": "ba9eb130-c1f9-40ae-a805-4a7c635a8b01",
       "identifiers": [
         {
@@ -3677,7 +4575,7 @@
           "scheme": "parliament_cy"
         },
         {
-          "identifier": "Q7030515",
+          "identifier": "Q12881566",
           "scheme": "wikidata"
         }
       ],
@@ -3689,8 +4587,8 @@
       ],
       "links": [
         {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Nicos_Tornaritis"
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Νίκος_Τορναρίτης"
         },
         {
           "note": "twitter",
@@ -3700,15 +4598,6 @@
       "name": "Tornaritis Nikos",
       "other_names": [
         {
-          "name": "Nicos Tornaritis",
-          "note": "alternate"
-        },
-        {
-          "lang": "de",
-          "name": "Nicos Tornaritis",
-          "note": "multilingual"
-        },
-        {
           "lang": "el",
           "name": "Τορναρίτης Νίκος",
           "note": "multilingual"
@@ -3716,16 +4605,6 @@
         {
           "lang": "en",
           "name": "Tornaritis Nikos",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Nicos Tornaritis",
-          "note": "multilingual"
-        },
-        {
-          "lang": "it",
-          "name": "Nicos Tornaritis",
           "note": "multilingual"
         }
       ],
@@ -3778,10 +4657,6 @@
       ],
       "name": "Tziovanis Christakis",
       "other_names": [
-        {
-          "name": "Χριστάκης Τζιοβάνης",
-          "note": "alternate"
-        },
         {
           "lang": "el",
           "name": "Τζιοβάνης Χριστάκης",
