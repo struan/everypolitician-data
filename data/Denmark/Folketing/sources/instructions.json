@@ -29,7 +29,7 @@
       "file": "morph/wikidata.csv",
       "create": {
         "type": "morph",
-        "scraper": "chrismytton/denmark-folketing-wikidata",
+        "scraper": "tmtmtmtm/denmark-folketing-wikidata",
         "query": "SELECT * FROM data"
       },
       "source": "http://wikidata.org/",
