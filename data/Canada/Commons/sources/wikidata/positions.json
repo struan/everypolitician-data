@@ -670,15 +670,43 @@
   "Q1566929": [
     {
       "id": "Q3315114",
-      "label": "Minister of National Defence"
+      "label": "Minister of National Defence",
+      "qualifiers": {
+        "P580": "2013-07-15",
+        "P582": "2015-02-09",
+        "P1365": "Peter MacKay",
+        "P1366": "Jason Kenney"
+      }
     },
     {
       "id": "Q3315120",
-      "label": "Canadian Minister of Justice"
+      "label": "Canadian Minister of Justice",
+      "qualifiers": {
+        "P580": "2007-01-04",
+        "P582": "2013-07-15",
+        "P1365": "Vic Toews",
+        "P1366": "Peter MacKay"
+      }
     },
     {
       "id": "Q2505890",
-      "label": "Leader of the Government in the House of Commons"
+      "label": "Leader of the Government in the House of Commons",
+      "qualifiers": {
+        "P580": "2006-02-06",
+        "P582": "2007-01-04",
+        "P1365": "Tony Valeri",
+        "P1366": "Peter Van Loan"
+      }
+    },
+    {
+      "id": "Q7330070",
+      "label": "foreign minister",
+      "qualifiers": {
+        "P580": "2015-02-09",
+        "P582": "2015-11-04",
+        "P1365": "Ed Fast",
+        "P1366": "Stéphane Dion"
+      }
     }
   ],
   "Q5105714": [
