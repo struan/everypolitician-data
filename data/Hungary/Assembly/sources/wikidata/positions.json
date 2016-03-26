@@ -253,13 +253,16 @@
   "Q1288461": [
     {
       "id": "Q17590876",
-      "label": "member of the National Assembly of Hungary"
+      "label": "member of the National Assembly of Hungary",
+      "qualifiers": {
+        "P580": "1998-06-18"
+      }
     },
     {
       "id": "Q18325108",
       "label": "Minister of Defence",
       "qualifiers": {
-        "P580": "2015-09-07",
+        "P580": "2015-09-10",
         "P1365": "Csaba Hende"
       }
     }
