@@ -262,3 +262,23 @@ h2 {
     text-shadow: 0 1px 0 #fff;
   }
 }
+
+.all-duplicates {
+  display: table;
+  text-align: left;
+  width: 50%;
+  margin: 0 auto;
+}
+
+.duplicates {
+  margin-bottom: 2em;
+  dt {
+    margin-left: 0;
+    padding-left: 1em;
+  }
+  dd {
+    margin-bottom: 0.5em;
+    margin-left: 0;
+    padding-left: 2em;
+  }
+}
