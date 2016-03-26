@@ -8739,6 +8739,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "kana",
+          "name": "キム・ハンギル",
+          "note": "multilingual"
+        },
+        {
           "lang": "ko",
           "name": "김한길",
           "note": "multilingual"
@@ -12085,6 +12090,10 @@
         {
           "identifier": "kim-young-joo",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q16080318",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.assembly.go.kr/photo/9770729.jpg",
@@ -12095,12 +12104,20 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/김영주_(1955년)"
+        },
+        {
           "note": "website",
           "url": "http://www.youngjoo.kr"
         }
       ],
       "name": "KIM Young Joo",
       "other_names": [
+        {
+          "name": "김영주",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "金榮珠",
@@ -12463,6 +12480,7 @@
         }
       ],
       "email": "ksdd22@naver.com",
+      "gender": "male",
       "id": "8e4941b7-3754-4c09-bb71-cf668b456aaf",
       "identifiers": [
         {
@@ -12557,7 +12575,7 @@
           "scheme": "popong"
         },
         {
-          "identifier": "Q12586127",
+          "identifier": "Q16080124",
           "scheme": "wikidata"
         }
       ],
@@ -12570,7 +12588,7 @@
       "links": [
         {
           "note": "Wikipedia (ko)",
-          "url": "https://ko.wikipedia.org/wiki/권은희_(1974년)"
+          "url": "https://ko.wikipedia.org/wiki/권은희_(1959년)"
         },
         {
           "note": "facebook",
