@@ -184,13 +184,13 @@ jQuery(function($) {
     var incomingPerson = match.incoming;
 
     // If there's one and only one 100% match, choose it automatically
-    var exactMatches  = _.filter(match.existing, function(e) { 
-      return e[1] == 1;
-    });
-    if (exactMatches.length == 1) { 
-      window.autovotes.push( [incomingPerson.id, exactMatches[0][0].uuid] );
-      return;
-    }
+    // var exactMatches  = _.filter(match.existing, function(e) { 
+      // return e[1] == 1;
+    // });
+    // if (exactMatches.length == 1) { 
+      // window.autovotes.push( [incomingPerson.id, exactMatches[0][0].uuid] );
+      // return;
+    // }
     
     var incomingPersonFields = _.filter(Object.keys(incomingPerson), function(field) {
       return incomingPerson[field];
