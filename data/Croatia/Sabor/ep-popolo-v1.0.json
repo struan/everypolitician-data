@@ -331,8 +331,353 @@
     },
     {
       "birth_date": "1975-10-02",
+      "gender": "male",
+      "given_name": "Boris",
       "id": "47cc223b-fcc3-4a56-a525-53ced82fb1b8",
+      "identifiers": [
+        {
+          "identifier": "Q12628147",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Boris_Miletić.JPG",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Boris_Miletić.JPG"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Boris_Miletić"
+        },
+        {
+          "note": "Wikipedia (hr)",
+          "url": "https://hr.wikipedia.org/wiki/Boris_Miletić"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Boris_Miletić"
+        },
+        {
+          "note": "Wikipedia (sh)",
+          "url": "https://sh.wikipedia.org/wiki/Boris_Miletić"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Boris_Miletić"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Борис_Мілетич"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/博里斯·米萊蒂奇"
+        }
+      ],
       "name": "BORIS MILETIĆ",
+      "other_names": [
+        {
+          "name": "Boris Miletić",
+          "note": "alternate"
+        },
+        {
+          "lang": "af",
+          "name": "Boris Miletić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "an",
+          "name": "Boris Miletić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ast",
+          "name": "Boris Miletić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bar",
+          "name": "Boris Miletić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "br",
+          "name": "Boris Miletić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bs",
+          "name": "Boris Miletić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Boris Miletić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "co",
+          "name": "Boris Miletić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Boris Miletić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Boris Miletić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Boris Miletić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Boris Miletić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Boris Miletić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Boris Miletić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Boris Miletić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Boris Miletić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "Boris Miletić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Boris Miletić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Boris Miletić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fur",
+          "name": "Boris Miletić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "Boris Miletić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Boris Miletić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Boris Miletić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gsw",
+          "name": "Boris Miletić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Boris Miletić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Boris Miletić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "is",
+          "name": "Boris Miletić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Boris Miletić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lb",
+          "name": "Boris Miletić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "li",
+          "name": "Boris Miletić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lij",
+          "name": "Boris Miletić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lmo",
+          "name": "Boris Miletić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Boris Miletić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nap",
+          "name": "Boris Miletić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Boris Miletić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nds",
+          "name": "Boris Miletić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nds-nl",
+          "name": "Boris Miletić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Boris Miletić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Boris Miletić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pcd",
+          "name": "Boris Miletić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Boris Miletić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pms",
+          "name": "Boris Miletić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Boris Miletić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "rm",
+          "name": "Boris Miletić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Boris Miletić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sc",
+          "name": "Boris Miletić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "scn",
+          "name": "Boris Miletić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "Boris Miletić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Boris Miletić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Boris Miletić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Boris Miletić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sq",
+          "name": "Boris Miletić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Boris Miletić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Boris Miletić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Борис Мілетич",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vec",
+          "name": "Boris Miletić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vls",
+          "name": "Boris Miletić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "wa",
+          "name": "Boris Miletić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "博里斯·米萊蒂奇",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=24&id=6400"
@@ -396,14 +741,138 @@
     },
     {
       "birth_date": "1956-09-23",
+      "gender": "male",
+      "given_name": "Branimir",
       "id": "21d53d0f-b633-406f-9272-7b47b9106335",
+      "identifiers": [
+        {
+          "identifier": "/m/06krmc",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "1013538781",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "n94054302",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "266906757",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q898543",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44550",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44550"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Branimir_Glavaš"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Branimir_Glavaš"
+        },
+        {
+          "note": "Wikipedia (hr)",
+          "url": "https://hr.wikipedia.org/wiki/Branimir_Glavaš"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Branimir_Glavaš"
+        },
+        {
+          "note": "Wikipedia (sh)",
+          "url": "https://sh.wikipedia.org/wiki/Branimir_Glavaš"
+        },
+        {
+          "note": "Wikipedia (sl)",
+          "url": "https://sl.wikipedia.org/wiki/Branimir_Glavaš"
+        },
+        {
+          "note": "Wikipedia (sr)",
+          "url": "https://sr.wikipedia.org/wiki/Бранимир_Главаш"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Бранимир_Главаш"
+        }
+      ],
       "name": "BRANIMIR GLAVAŠ",
+      "other_names": [
+        {
+          "name": "Branimir Glavaš",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Branimir Glavaš",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Branimir Glavaš",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Branimir Glavaš",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Branimir Glavaš",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Branimir Glavaš",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Branimir Glavaš",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Branimir Glavaš",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Branimir Glavaš",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Branimir Glavaš",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Branimir Glavaš",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Бранимир Главаш",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Бранимир Главаш",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=24&id=6258"
@@ -475,11 +944,20 @@
     {
       "birth_date": "1961-09-26",
       "gender": "male",
+      "given_name": "Branko",
       "id": "91f5a54c-8ac6-4772-a561-4634e2b27ac2",
       "identifiers": [
         {
           "identifier": "5472",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/0j24ndb",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q4957466",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=22156",
@@ -488,7 +966,75 @@
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=22156"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Branko_Hrg"
+        },
+        {
+          "note": "Wikipedia (hr)",
+          "url": "https://hr.wikipedia.org/wiki/Branko_Hrg"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Branko_Hrg"
+        },
+        {
+          "note": "Wikipedia (sh)",
+          "url": "https://sh.wikipedia.org/wiki/Branko_Hrg"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Бранко_Хрг"
+        },
+        {
+          "note": "website",
+          "url": "http://brankohrg.com/"
+        }
+      ],
       "name": "BRANKO HRG",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Branko Hrg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Branko Hrg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Branko Hrg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Branko Hrg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Branko Hrg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Branko Hrg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Branko Hrg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Бранко Хрг",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=24&id=5472"
@@ -773,14 +1319,85 @@
     },
     {
       "birth_date": "1965-03-14",
+      "gender": "male",
       "id": "34c5da85-bb54-4b83-babd-7164ba62cba7",
+      "identifiers": [
+        {
+          "identifier": "Q5222809",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44556",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44556"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Darinko_Kosor"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Darinko_Kosor"
+        },
+        {
+          "note": "Wikipedia (hr)",
+          "url": "https://hr.wikipedia.org/wiki/Darinko_Kosor"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Darinko_Kosor"
+        },
+        {
+          "note": "Wikipedia (sh)",
+          "url": "https://sh.wikipedia.org/wiki/Darinko_Kosor"
+        }
+      ],
       "name": "DARINKO KOSOR",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Darinko Kosor",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Darinko Kosor",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Darinko Kosor",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Darinko Kosor",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Darinko Kosor",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Darinko Kosor",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Darinko Kosor",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Darinko Kosor",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=24&id=6326"
@@ -1337,14 +1954,71 @@
       ]
     },
     {
+      "birth_date": "1965-05-23",
+      "gender": "male",
       "id": "7f60210c-de57-435c-9807-ed39f367e051",
+      "identifiers": [
+        {
+          "identifier": "Q20525090",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44478",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44478"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Drago_Prgomet"
+        },
+        {
+          "note": "Wikipedia (hr)",
+          "url": "https://hr.wikipedia.org/wiki/Drago_Prgomet"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Drago_Prgomet"
+        },
+        {
+          "note": "Wikipedia (sh)",
+          "url": "https://sh.wikipedia.org/wiki/Drago_Prgomet"
+        },
+        {
+          "note": "Wikipedia (sr)",
+          "url": "https://sr.wikipedia.org/wiki/Драго_Пргомет"
+        }
+      ],
       "name": "DRAGO PRGOMET",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Drago Prgomet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Drago Prgomet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Drago Prgomet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Drago Prgomet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Драго Пргомет",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=24&id=6452"
@@ -1947,14 +2621,72 @@
     },
     {
       "birth_date": "1974-06-13",
+      "gender": "male",
+      "given_name": "Gordan",
       "id": "6b285023-6653-4271-84b2-9e7658ddbb3e",
+      "identifiers": [
+        {
+          "identifier": "Q12631651",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44560",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44560"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Gordan_Maras"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Gordan_Maras"
+        },
+        {
+          "note": "Wikipedia (hr)",
+          "url": "https://hr.wikipedia.org/wiki/Gordan_Maras"
+        },
+        {
+          "note": "Wikipedia (sr)",
+          "url": "https://sr.wikipedia.org/wiki/Гордан_Марас"
+        }
+      ],
       "name": "GORDAN MARAS",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Gordan Maras",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Gordan Maras",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Gordan Maras",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Gordan Maras",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Gordan Maras",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Гордан Марас",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=24&id=6364"
@@ -2494,14 +3226,72 @@
     },
     {
       "birth_date": "1972-06-22",
+      "gender": "male",
+      "given_name": "Ivan",
       "id": "da6219f9-cc51-4805-83a8-78ebb6cf93db",
+      "identifiers": [
+        {
+          "identifier": "Q16324522",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44657",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44657"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ivan_Vrdoljak"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Ivan_Vrdoljak"
+        },
+        {
+          "note": "Wikipedia (hr)",
+          "url": "https://hr.wikipedia.org/wiki/Ivan_Vrdoljak"
+        },
+        {
+          "note": "Wikipedia (sh)",
+          "url": "https://sh.wikipedia.org/wiki/Ivan_Vrdoljak"
+        }
+      ],
       "name": "IVAN VRDOLJAK",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Ivan Vrdoljak",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Ivan Vrdoljak",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Ivan Vrdoljak",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Ivan Vrdoljak",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Ivan Vrdoljak",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hans",
+          "name": "Ivan Vrdoljak",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=24&id=6542"
@@ -5164,6 +5954,10 @@
         {
           "identifier": "4957",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q21064401",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=19646",
@@ -5172,7 +5966,29 @@
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=19646"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Nansi_Tireli"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Nansi_Tireli"
+        }
+      ],
       "name": "NANSI TIRELI",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Nansi Tireli",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Nansi Tireli",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=24&id=4957"
@@ -5584,6 +6400,83 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "Q7286273",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www.sabor.hr/lgs.axd?t=16&id=40372",
+      "images": [
+        {
+          "url": "http://www.sabor.hr/lgs.axd?t=16&id=40372"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Rajko_Ostojić"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Rajko_Ostojić"
+        },
+        {
+          "note": "Wikipedia (hr)",
+          "url": "https://hr.wikipedia.org/wiki/Rajko_Ostojić"
+        },
+        {
+          "note": "Wikipedia (sh)",
+          "url": "https://sh.wikipedia.org/wiki/Rajko_Ostojić"
+        }
+      ],
+      "name": "RAJKO OSTOJIĆ",
+      "other_names": [
+        {
+          "name": "Rajko Ostojić",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Rajko Ostojić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Rajko Ostojić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Rajko Ostojić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Rajko Ostojić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Rajko Ostojić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Rajko Ostojić",
+          "note": "multilingual"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.sabor.hr/lgs.axd?t=24&id=4809"
+        }
+      ]
+    },
+    {
+      "birth_date": "1962-10-03",
+      "gender": "male",
+      "id": "6463cb7a-b05f-42b1-bdad-353b184aefec",
+      "identifiers": [
+        {
           "identifier": "/m/05zn5cf",
           "scheme": "freebase"
         },
@@ -5592,10 +6485,10 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=40372",
+      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44650",
       "images": [
         {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=40372"
+          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44650"
         }
       ],
       "links": [
@@ -5636,12 +6529,8 @@
           "url": "https://uk.wikipedia.org/wiki/Ранко_Остоїч"
         }
       ],
-      "name": "RAJKO OSTOJIĆ",
+      "name": "RANKO OSTOJIĆ",
       "other_names": [
-        {
-          "name": "Rajko Ostojić",
-          "note": "alternate"
-        },
         {
           "name": "Ranko Ostojić",
           "note": "alternate"
@@ -5704,36 +6593,50 @@
       ],
       "sources": [
         {
-          "url": "http://www.sabor.hr/lgs.axd?t=24&id=4809"
-        }
-      ]
-    },
-    {
-      "birth_date": "1962-10-03",
-      "id": "6463cb7a-b05f-42b1-bdad-353b184aefec",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44650",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44650"
-        }
-      ],
-      "name": "RANKO OSTOJIĆ",
-      "sources": [
-        {
           "url": "http://www.sabor.hr/lgs.axd?t=24&id=6424"
         }
       ]
     },
     {
       "birth_date": "1958-06-03",
+      "gender": "male",
+      "given_name": "Robert",
       "id": "eab04152-e4b0-45ea-829e-86cdefed9d0a",
+      "identifiers": [
+        {
+          "identifier": "Q22916435",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44652",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44652"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Robert_Podolnjak"
+        },
+        {
+          "note": "Wikipedia (sh)",
+          "url": "https://sh.wikipedia.org/wiki/Robert_Podolnjak"
+        }
+      ],
       "name": "ROBERT PODOLNJAK",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Robert Podolnjak",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Robert Podolnjak",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=24&id=6446"
@@ -5813,14 +6716,352 @@
     },
     {
       "birth_date": "1990-06-21",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "perkovicsandra"
+        }
+      ],
+      "gender": "female",
+      "given_name": "Sandra",
       "id": "64ec110d-3922-43ac-857b-b388ceef2038",
+      "identifiers": [
+        {
+          "identifier": "/m/07kgp60",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "226369",
+          "scheme": "iiaf"
+        },
+        {
+          "identifier": "Q6379",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=45058",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=45058"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (bn)",
+          "url": "https://bn.wikipedia.org/wiki/সান্দ্রা_পার্কোভিচ"
+        },
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Sandra_Perković"
+        },
+        {
+          "note": "Wikipedia (cs)",
+          "url": "https://cs.wikipedia.org/wiki/Sandra_Perkovićová"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Sandra_Perković"
+        },
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Σάντρα_Πέρκοβιτς"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Sandra_Perković"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Sandra_Perković"
+        },
+        {
+          "note": "Wikipedia (et)",
+          "url": "https://et.wikipedia.org/wiki/Sandra_Perković"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Sandra_Perković"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Sandra_Perković"
+        },
+        {
+          "note": "Wikipedia (he)",
+          "url": "https://he.wikipedia.org/wiki/סנדרה_פרקוביץ'"
+        },
+        {
+          "note": "Wikipedia (hr)",
+          "url": "https://hr.wikipedia.org/wiki/Sandra_Perković"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Sandra_Perković"
+        },
+        {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/サンドラ・ペルコビッチ"
+        },
+        {
+          "note": "Wikipedia (lt)",
+          "url": "https://lt.wikipedia.org/wiki/Sandra_Perković"
+        },
+        {
+          "note": "Wikipedia (lv)",
+          "url": "https://lv.wikipedia.org/wiki/Sandra_Perkoviča"
+        },
+        {
+          "note": "Wikipedia (mn)",
+          "url": "https://mn.wikipedia.org/wiki/Сандра_Перкович"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Sandra_Perković"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Sandra_Perković"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Sandra_Perković"
+        },
+        {
+          "note": "Wikipedia (oc)",
+          "url": "https://oc.wikipedia.org/wiki/Sandra_Perković"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Sandra_Perković"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Sandra_Perković"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Перкович,_Сандра"
+        },
+        {
+          "note": "Wikipedia (sh)",
+          "url": "https://sh.wikipedia.org/wiki/Sandra_Perković"
+        },
+        {
+          "note": "Wikipedia (sr)",
+          "url": "https://sr.wikipedia.org/wiki/Сандра_Перковић"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Sandra_Perković"
+        },
+        {
+          "note": "Wikipedia (tr)",
+          "url": "https://tr.wikipedia.org/wiki/Sandra_Perković"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Сандра_Перкович"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/桑德拉·佩尔科维奇"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/sandraperkovicfanpage"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/perkovicsandra"
+        }
+      ],
       "name": "SANDRA PERKOVIĆ",
+      "other_names": [
+        {
+          "name": "Sandra Perković",
+          "note": "alternate"
+        },
+        {
+          "lang": "bn",
+          "name": "সান্দ্রা পার্কোভিচ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Sandra Perković",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Sandra Perkovićová",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Sandra Perković",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Sandra Perković",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Σάντρα Πέρκοβιτς",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Sandra Perković",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "Sandra Perković",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "Sandra Perković",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Sandra Perković",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Sandra Perković",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Sandra Perković",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Sandra Perković",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Sandra Perković",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "סנדרה פרקוביץ'",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Sandra Perković",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Sandra Perković",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Sandra Perković",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "サンドラ・ペルコビッチ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Sandra Perković",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lv",
+          "name": "Sandra Perkoviča",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mn",
+          "name": "Сандра Перкович",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Sandra Perković",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Sandra Perković",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Sandra Perković",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Sandra Perković",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Sandra Perković",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Sandra Perković",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt-br",
+          "name": "Sandra Perković",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Сандра Перкович",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Sandra Perković",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Сандра Перковић",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Sandra Perković",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Sandra Perković",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Сандра Перкович",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "桑德拉·佩尔科维奇",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=24&id=6436"
@@ -5907,14 +7148,62 @@
     },
     {
       "birth_date": "1965-08-24",
+      "gender": "male",
+      "given_name": "Siniša",
       "id": "d9cd9c2e-4da5-42af-b07c-2c354e0669e5",
+      "identifiers": [
+        {
+          "identifier": "Q20525506",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44656",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44656"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Siniša_Varga"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Siniša_Varga"
+        },
+        {
+          "note": "Wikipedia (hr)",
+          "url": "https://hr.wikipedia.org/wiki/Siniša_Varga"
+        }
+      ],
       "name": "SINIŠA VARGA",
+      "other_names": [
+        {
+          "name": "Siniša Varga",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Siniša Varga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Siniša Varga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Siniša Varga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Siniša Varga",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=24&id=6532"
@@ -6008,14 +7297,59 @@
     },
     {
       "birth_date": "1954-10-05",
+      "gender": "male",
+      "given_name": "Stipe",
       "id": "0b943436-efa8-4b7f-a874-5f6c500a110e",
+      "identifiers": [
+        {
+          "identifier": "Q16186424",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44564",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44564"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Stipe_Petrina"
+        },
+        {
+          "note": "Wikipedia (sh)",
+          "url": "https://sh.wikipedia.org/wiki/Stipe_Petrina"
+        }
+      ],
       "name": "STIPE PETRINA",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Stipe Petrina",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Stipe Petrina",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Stipe Petrina",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Stipe Petrina",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Stipe Petrina",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=24&id=6442"
@@ -7671,11 +9005,21 @@
     },
     {
       "birth_date": "1953-05-28",
+      "gender": "male",
+      "given_name": "Željko",
       "id": "c8bd4b16-71ab-4086-babe-0666d97707f5",
       "identifiers": [
         {
           "identifier": "4840",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "176552772",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q4846291",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=19625",
@@ -7684,7 +9028,97 @@
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=19625"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Željko_Reiner"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Željko_Reiner"
+        },
+        {
+          "note": "Wikipedia (hr)",
+          "url": "https://hr.wikipedia.org/wiki/Željko_Reiner"
+        },
+        {
+          "note": "Wikipedia (ku)",
+          "url": "https://ku.wikipedia.org/wiki/Željko_Reiner"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Željko_Reiner"
+        },
+        {
+          "note": "Wikipedia (sh)",
+          "url": "https://sh.wikipedia.org/wiki/Željko_Reiner"
+        },
+        {
+          "note": "Wikipedia (sl)",
+          "url": "https://sl.wikipedia.org/wiki/Željko_Reiner"
+        },
+        {
+          "note": "Wikipedia (tw)",
+          "url": "https://tw.wikipedia.org/wiki/Željko_Reiner"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Желько_Райнер"
+        }
+      ],
       "name": "ŽELJKO REINER",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Željko Reiner",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Željko Reiner",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Željko Reiner",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Željko Reiner",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ku",
+          "name": "Željko Reiner",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Željko Reiner",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Željko Reiner",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Željko Reiner",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tw",
+          "name": "Željko Reiner",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Желько Райнер",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=24&id=4840"
