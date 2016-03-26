@@ -13729,6 +13729,22 @@
       ]
     },
     {
+      "id": "961c8dea-d950-4153-8d38-e0c35b7fc10d",
+      "image": "http://www.na.gov.pk/uploads/images/153(1).jpg",
+      "images": [
+        {
+          "url": "http://www.na.gov.pk/uploads/images/153(1).jpg"
+        }
+      ],
+      "name": "Rana Muhammad Qasim Noon",
+      "patronymic_name": "Rana Muhammad Aslam Noon",
+      "sources": [
+        {
+          "url": "http://www.na.gov.pk/en/profile.php?uid=1051"
+        }
+      ]
+    },
+    {
       "contact_details": [
         {
           "type": "phone",
@@ -22218,6 +22234,15 @@
       "role": "member"
     },
     {
+      "area_id": "area/na-153_(multan-vi)",
+      "legislative_period_id": "term/14",
+      "on_behalf_of_id": "pmln",
+      "organization_id": "legislature",
+      "person_id": "961c8dea-d950-4153-8d38-e0c35b7fc10d",
+      "role": "member",
+      "start_date": "2016-03-25"
+    },
+    {
       "area_id": "area/na-154_(lodhran-i)",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pti",
@@ -23628,6 +23653,11 @@
     {
       "id": "area/na-152_(multan-v)",
       "name": "NA-152 (Multan-V)",
+      "type": "constituency"
+    },
+    {
+      "id": "area/na-153_(multan-vi)",
+      "name": "NA-153 (Multan-VI)",
       "type": "constituency"
     },
     {
