@@ -5749,11 +5749,11 @@
         "slug": "Deputies",
         "sources_directory": "data/Mexico/Deputies/sources",
         "popolo": "data/Mexico/Deputies/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/1f974c8/data/Mexico/Deputies/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/db64e43/data/Mexico/Deputies/ep-popolo-v1.0.json",
         "names": "data/Mexico/Deputies/names.csv",
-        "lastmod": "1458977628",
+        "lastmod": "1458981279",
         "person_count": 1020,
-        "sha": "1f974c8",
+        "sha": "db64e43",
         "legislative_periods": [
           {
             "id": "term/63",
@@ -5761,7 +5761,7 @@
             "start_date": "2015-09-01",
             "slug": "63",
             "csv": "data/Mexico/Deputies/term-63.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/1f974c8/data/Mexico/Deputies/term-63.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/db64e43/data/Mexico/Deputies/term-63.csv"
           },
           {
             "end_date": "2015-08-31",
@@ -5770,10 +5770,10 @@
             "start_date": "2012-09-01",
             "slug": "62",
             "csv": "data/Mexico/Deputies/term-62.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/1f974c8/data/Mexico/Deputies/term-62.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/db64e43/data/Mexico/Deputies/term-62.csv"
           }
         ],
-        "statement_count": 27099
+        "statement_count": 27657
       }
     ]
   },
