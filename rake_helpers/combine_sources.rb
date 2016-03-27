@@ -308,7 +308,7 @@ namespace :merge_sources do
     end
 
     # Map Areas
-    if area = instructions(:sources).find { |src| src[:type].to_s.downcase == 'area' }
+    if area = instructions(:sources).find { |src| src[:type].to_s.downcase == 'ocd' }
       ocds = CSV.table(area[:file], converters: nil).group_by { |r| r[:id] }
 
       all_headers |= [:area, :area_id]
