@@ -41,38 +41,6 @@ namespace :merge_sources do
     end
   end
 
-  # TODO: this is being moved to Source
-  REMAP = {
-    area: %w(constituency region district place),
-    area_id: %w(constituency_id region_id district_id place_id),
-    biography: %w(bio blurb),
-    birth_date: %w(dob date_of_birth),
-    blog: %w(weblog),
-    cell: %w(mob mobile cellphone),
-    chamber: %w(house),
-    death_date: %w(dod date_of_death),
-    end_date: %w(end ended until to),
-    executive: %w(post),
-    family_name: %w(last_name surname lastname),
-    fax: %w(facsimile),
-    gender: %w(sex),
-    given_name: %w(first_name forename),
-    group: %w(party party_name faction faktion bloc block org organization organisation),
-    group_id: %w( party_id faction_id faktion_id bloc_id block_id org_id organization_id organisation_id),
-    image: %w(img picture photo photograph portrait),
-    name: %w(name_en),
-    patronymic_name: %w(patronym patronymic),
-    phone: %w(tel telephone),
-    source: %w(src),
-    start_date: %w(start started from since),
-    term: %w(legislative_period),
-    website: %w(homepage href url site),
-  }.each_with_object({}) { |(k, vs), mapped| vs.each { |v| mapped[v] = k } }
-
-  def remap(str)
-    REMAP[str.to_s] || str.to_sym
-  end
-
   @warnings = Set.new
   def warn_once(str)
     @warnings << str
@@ -97,31 +65,20 @@ namespace :merge_sources do
     merged_rows = []
 
     # First get all the `membership` rows, and either merge or concat
+    sources.select(&:is_memberships?).each do |src|
+      warn "Add memberships from #{src.filename}".magenta
+      
+      incoming_data = src.filtered_table
+      id_map = src.id_map
 
-    instructions(:sources).find_all { |src| src[:type].to_s.downcase == 'membership' }.each do |src|
-      file = src[:file]
-      warn "Add memberships from #{file}".magenta
-      ids_file = file.sub(/.csv$/, '-ids.csv')
-      id_map = {}
-      if File.exists?(ids_file)
-        id_map = Hash[CSV.table(ids_file, converters: nil).map { |r| [r[:id], r[:uuid]] }]
+      # If the row has no ID, we'll need something we can treate as one
+      # This 'pseudo id' defaults to slugified 'name' 
+      # TODO: do this in `filtered_table`
+      incoming_data.select { |r| r[:id].to_s.empty? }.each do |row|
+        row[:id] = row[:name].downcase.gsub(/\s+/, '_') 
       end
-      table = csv_table(file)
 
-      # if we have any filters, apply them
-      # Currently we just recognise a hash of k:v pairs to accept if matching
-      # TODO: add 'reject' and more complex expressions
-      filter = src.key?(:filter) ? ->(row) { src[:filter][:accept].all? { |k, v| row[k] == v } } : nil
-
-      incoming_data = table.map do |row|
-        next if filter and not filter.call(row)
-        # If the row has no ID, we'll need something we can treate as one
-        # This 'pseudo id' defaults to slugified 'name' unless provided 
-        row[:id] ||= row[:name].downcase.gsub(/\s+/, '_') 
-        row
-      end.compact
-
-      if merge_instructions = src[:merge]
+      if merge_instructions = src.merge_instructions.first
         if merge_instructions.key? :reconciliation_file
           reconciliation_file = File.join('sources', merge_instructions[:reconciliation_file])
           previously_reconciled = File.exist?(reconciliation_file) ? CSV.table(reconciliation_file, converters: nil) : CSV::Table.new([])
@@ -154,25 +111,21 @@ namespace :merge_sources do
         merged_rows << row.to_hash
       end
 
-      CSV.open(ids_file, 'w') do |csv|
-        csv << [:id, :uuid]
-        id_map.each { |id, uuid| csv << [id, uuid] }
-      end
+      src.write_id_map_file! id_map
     end
 
-    # Then merge with Person data files
-    #   existing_field: the field in the existing data to match to
-    #   incoming_field: the field in the incoming data to match with
+    # Then merge with Biographical data files
 
-    instructions(:sources).find_all { |src| %w(wikidata person).include? src[:type].to_s.downcase }.each do |pd|
-      warn "Merging with #{pd[:file]}".magenta
-      raise "No merge instructions" unless pd.key?(:merge)
+    sources.select(&:is_bios?).each do |pd|
+      warn "Merging with #{pd.filename}".magenta
 
-      all_headers |= [:identifier__wikidata] if pd[:type] == 'wikidata'
+      # TODO add this to Source::Wikidata
+      #   calling 'super' in that doesn't currently work as expected
+      all_headers |= [:identifier__wikidata] if pd.i(:type) == 'wikidata'
 
-      incoming_data = csv_table(pd[:file])
+      incoming_data = pd.as_table
 
-      approaches = pd[:merge].class == Hash ? [pd[:merge]] : pd[:merge]
+      abort "No merge instructions for #{pd.filename}" if (approaches = pd.merge_instructions).empty?
       approaches.each_with_index do |merge_instructions, i|
         warn "  Match incoming #{merge_instructions[:incoming_field]} to #{merge_instructions[:existing_field]}"
         unless merge_instructions.key? :report_missing
@@ -206,7 +159,7 @@ namespace :merge_sources do
         unmatched = []
         incoming_data.each do |incoming_row|
 
-          incoming_row[:identifier__wikidata] ||= incoming_row[:id] if pd[:type] == 'wikidata'
+          incoming_row[:identifier__wikidata] ||= incoming_row[:id] if pd.i(:type) == 'wikidata'
 
           # TODO factor this out to a Patcher again
           to_patch = matcher.find_all(incoming_row)
