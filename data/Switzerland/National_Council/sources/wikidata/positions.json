@@ -1353,7 +1353,11 @@
   "Q1096522": [
     {
       "id": "Q18510612",
-      "label": "Member of the Swiss National Council"
+      "label": "Member of the Swiss National Council",
+      "qualifiers": {
+        "P580": "1971",
+        "P582": "1987"
+      }
     }
   ],
   "Q120673": [
