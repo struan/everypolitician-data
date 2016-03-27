@@ -26,6 +26,8 @@ namespace :merge_sources do
 
   CLEAN.include 'sources/merged.csv'
 
+  # We re-fetch any file that is missing, or, if REBUILD_SOURCE is set,
+  # any file that matches that.
   def _should_refetch(file)
     return true unless File.exist?(file)
     return false unless ENV['REBUILD_SOURCE']
@@ -34,28 +36,7 @@ namespace :merge_sources do
 
   def fetch_missing
     @recreatable.each do |i|
-      if _should_refetch(i[:file])
-        c = i[:create]
-        if c.key? :url
-          RemoteSource::URL.regenerate(i)
-        elsif c[:type] == 'morph'
-          RemoteSource::Morph.regenerate(i)
-        elsif c[:type] == 'parlparse'
-          RemoteSource::Parlparse.regenerate(i)
-        elsif c[:type] == 'ocd'
-          RemoteSource::OCD.regenerate(i)
-        elsif c[:type] == 'group-wikidata'
-          RemoteSource::Wikidata::Group.regenerate(i)
-        elsif c[:type] == 'area-wikidata'
-          RemoteSource::Wikidata::Area.regenerate(i)
-        elsif c[:type] == 'wikidata-raw'
-          RemoteSource::Wikidata::Raw.regenerate(i)
-        elsif c[:type] == 'gender-balance'
-          RemoteSource::GenderBalance.regenerate(i)
-        else
-          raise "Don't know how to fetch #{i[:file]}" unless c[:type] == 'morph'
-        end
-      end
+      RemoteSource.instantiate(i).regenerate if _should_refetch(i[:file])
     end
   end
 

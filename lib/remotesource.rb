@@ -3,8 +3,19 @@ require 'json'
 require 'csv'
 
 class RemoteSource
-  def self.regenerate(i)
-    new(i).fetch
+
+  # Instantiate correct subclass based on instructions
+  def self.instantiate(i)
+    c = i[:create]
+    return RemoteSource::URL.new(i)             if c.key? :url
+    return RemoteSource::Morph.new(i)           if c[:type] == 'morph'
+    return RemoteSource::Parlparse.new(i)       if c[:type] == 'parlparse'
+    return RemoteSource::OCD.new(i)             if c[:type] == 'ocd'
+    return RemoteSource::Wikidata::Group.new(i) if c[:type] == 'group-wikidata'
+    return RemoteSource::Wikidata::Area.new(i)  if c[:type] == 'area-wikidata'
+    return RemoteSource::Wikidata::Raw.new(i)   if c[:type] == 'wikidata-raw'
+    return RemoteSource::GenderBalance.new(i)   if c[:type] == 'gender-balance'
+    raise "Don't know how to fetch #{i[:file]}" 
   end
 
   def initialize(i)
@@ -27,7 +38,7 @@ class RemoteSource
     IO.copy_stream(open(url), i(:file))
   end
   
-  def fetch
+  def regenerate
     FileUtils.mkpath File.dirname i(:file)
     warn "Regenerating #{i(:file)}"
     write
