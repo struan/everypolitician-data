@@ -26,7 +26,7 @@ class Source
 
   def fields
     header_line = File.open(filename, &:gets) or abort "#{filename} is empty!".red
-    CSV.parse_line(header_line).map { |h| remap(h.downcase) } 
+    ::CSV.parse_line(header_line).map { |h| remap(h.downcase) } 
   end
 
   def is_memberships?
@@ -72,70 +72,70 @@ class Source
   def filename
     i(:file)
   end
+end
 
+class Source::CSV < Source
   def as_table
     rows = []
-    CSV.table(filename, converters: nil).each do |row|
+    ::CSV.table(filename, converters: nil).each do |row|
       # Need to make a copy in case there are multiple source columns
       # mapping to the same term (e.g. with areas)
       rows << Hash[ row.headers.each.map { |h| [ remap(h), row[h].nil? ? nil : row[h].tidy ] } ]
     end
     rows
   end
-
 end
 
-class Source::Membership < Source
+class Source::JSON < Source
+  def fields 
+    []
+  end
+end
+
+
+
+class Source::Membership < Source::CSV
   def is_memberships?
     true
   end
 end
 
-class Source::Person < Source
+class Source::Person < Source::CSV
   def is_bios?
     true
   end
 end
 
-class Source::Wikidata < Source
+class Source::Wikidata < Source::CSV
   def is_bios?
     true
   end
 end
 
-class Source::Group < Source
-  def fields 
-    []
-  end
-end
-
-class Source::OCD < Source
+class Source::OCD < Source::CSV
   def fields 
     %i(area area_id)
   end
 end
 
-class Source::Area < Source
-  def fields 
-    []
-  end
-end
-
-class Source::Gender < Source
+class Source::Gender < Source::CSV
   def fields 
     %i(gender)
   end
 end
 
-class Source::Positions < Source
+class Source::Term < Source::CSV
   def fields 
     []
   end
 end
 
-class Source::Term < Source
-  def fields 
-    []
-  end
+class Source::Group < Source::JSON
+end
+
+class Source::Area < Source::JSON
+end
+
+class Source::Positions < Source::JSON
 end
 
