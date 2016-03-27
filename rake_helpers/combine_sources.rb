@@ -78,31 +78,22 @@ namespace :merge_sources do
         row[:id] = row[:name].downcase.gsub(/\s+/, '_') 
       end
 
-      if merge_instructions = src.merge_instructions.first
-        if merge_instructions.key? :reconciliation_file
-          reconciliation_file = File.join('sources', merge_instructions[:reconciliation_file])
-          previously_reconciled = File.exist?(reconciliation_file) ? CSV.table(reconciliation_file, converters: nil) : CSV::Table.new([])
+      if merging = src.merge_instructions.first
+        reconciler = Reconciler.new(merging)
 
-          if ENV['GENERATE_RECONCILIATION_INTERFACE'] && reconciliation_file.include?(ENV['GENERATE_RECONCILIATION_INTERFACE'])
-            html_file = reconciliation_file.sub('.csv', '.html')
-            interface = Reconciliation::Interface.new(merged_rows, incoming_data.uniq { |r| r[:id] }, previously_reconciled, merge_instructions)
-            FileUtils.mkdir_p(File.dirname(html_file))
-            File.write(html_file, interface.html)
-            abort "Created #{html_file} — please check it and re-run".green 
-          end
-
-          # If we have reconciliation data from a prior run, we can
-          # use those IDs, otherwise we need to wait for reconciliation
-          if previously_reconciled.any?
-            previously_reconciled.each { |r| id_map[r[:id]] = r[:uuid] } 
-          else 
-            abort "No reconciliation data. Rerun with GENERATE_RECONCILIATION_INTERFACE=#{File.basename(reconciliation_file, '.csv')}"
-          end
-        else 
-          abort "Don't know yet how to merge memberships without a reconciliation_file"
+        if ENV['GENERATE_RECONCILIATION_INTERFACE'] && reconciler.triggered_by?(ENV['GENERATE_RECONCILIATION_INTERFACE'])
+          filename = reconciler.generate_interface!(merged_rows, incoming_data.uniq { |r| r[:id] })
+          abort "Created #{filename} — please check it and re-run".green 
         end
-      else
-        # warn "No merge instructions — all new Memberships"
+
+        # If we have reconciliation data from a prior run, we can
+        # use those IDs, otherwise we need to wait for reconciliation
+        pr = reconciler.previously_reconciled
+        if pr.any?
+          pr.each { |r| id_map[r[:id]] = r[:uuid] } 
+        else 
+          abort "No reconciliation data. Rerun with GENERATE_RECONCILIATION_INTERFACE=#{reconciler.trigger_name}"
+        end
       end
 
       incoming_data.each do |row|
