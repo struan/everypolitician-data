@@ -754,6 +754,10 @@
           "scheme": "allocine"
         },
         {
+          "identifier": "1075765",
+          "scheme": "elonet"
+        },
+        {
           "identifier": "835",
           "scheme": "everypolitician_legacy"
         },
@@ -4379,6 +4383,11 @@
           "lang": "it",
           "name": "Daniella Cicardini",
           "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Daniella Cicardini",
+          "note": "multilingual"
         }
       ],
       "sort_name": "Cicardini"
@@ -7533,6 +7542,12 @@
         {
           "identifier": "Q5875838",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Gaspar_Alberto_Rivas_Sánchez.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Gaspar_Alberto_Rivas_Sánchez.jpg"
         }
       ],
       "links": [
@@ -12466,6 +12481,7 @@
       "sort_name": "Latorre"
     },
     {
+      "birth_date": "1923-11-10",
       "death_date": "2010-05-10",
       "gender": "male",
       "given_name": "Juan",
