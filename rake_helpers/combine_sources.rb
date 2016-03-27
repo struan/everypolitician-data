@@ -97,9 +97,8 @@ namespace :merge_sources do
     merged_rows = []
 
     # First get all the `membership` rows, and either merge or concat
-
-    instructions(:sources).find_all { |src| src[:type].to_s.downcase == 'membership' }.each do |src|
-      file = src[:file]
+    sources.select(&:is_memberships?).each do |src|
+      file = src.filename
       warn "Add memberships from #{file}".magenta
       ids_file = file.sub(/.csv$/, '-ids.csv')
       id_map = {}
@@ -111,7 +110,7 @@ namespace :merge_sources do
       # if we have any filters, apply them
       # Currently we just recognise a hash of k:v pairs to accept if matching
       # TODO: add 'reject' and more complex expressions
-      filter = src.key?(:filter) ? ->(row) { src[:filter][:accept].all? { |k, v| row[k] == v } } : nil
+      filter = src.i(:filter) ? ->(row) { src.i(:filter)[:accept].all? { |k, v| row[k] == v } } : nil
 
       incoming_data = table.map do |row|
         next if filter and not filter.call(row)
@@ -121,7 +120,7 @@ namespace :merge_sources do
         row
       end.compact
 
-      if merge_instructions = src[:merge]
+      if merge_instructions = src.i(:merge)
         if merge_instructions.key? :reconciliation_file
           reconciliation_file = File.join('sources', merge_instructions[:reconciliation_file])
           previously_reconciled = File.exist?(reconciliation_file) ? CSV.table(reconciliation_file, converters: nil) : CSV::Table.new([])

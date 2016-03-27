@@ -29,7 +29,11 @@ class Source
     CSV.parse_line(header_line).map { |h| remap(h.downcase) } 
   end
 
-  private
+  def is_memberships?
+    false
+  end
+
+  # private
   REMAP = {
     area: %w(constituency region district place),
     area_id: %w(constituency_id region_id district_id place_id),
@@ -67,6 +71,9 @@ class Source
 end
 
 class Source::Membership < Source
+  def is_memberships?
+    true
+  end
 end
 
 class Source::Person < Source
