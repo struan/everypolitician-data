@@ -80,20 +80,16 @@ namespace :merge_sources do
 
       if merging = src.merge_instructions.first
         reconciler = Reconciler.new(merging)
+        raise "Can't reconciler memberships with a Reconciliation file" unless reconciler.reconciliation_file
 
         if ENV['GENERATE_RECONCILIATION_INTERFACE'] && reconciler.triggered_by?(ENV['GENERATE_RECONCILIATION_INTERFACE'])
           filename = reconciler.generate_interface!(merged_rows, incoming_data.uniq { |r| r[:id] })
           abort "Created #{filename} — please check it and re-run".green 
         end
 
-        # If we have reconciliation data from a prior run, we can
-        # use those IDs, otherwise we need to wait for reconciliation
         pr = reconciler.previously_reconciled
-        if pr.any?
-          pr.each { |r| id_map[r[:id]] = r[:uuid] } 
-        else 
-          abort "No reconciliation data. Rerun with GENERATE_RECONCILIATION_INTERFACE=#{reconciler.trigger_name}"
-        end
+        abort "No reconciliation data. Rerun with GENERATE_RECONCILIATION_INTERFACE=#{reconciler.trigger_name}" if pr.empty?
+        pr.each { |r| id_map[r[:id]] = r[:uuid] } 
       end
 
       incoming_data.each do |row|
@@ -118,31 +114,19 @@ namespace :merge_sources do
 
       abort "No merge instructions for #{pd.filename}" if (approaches = pd.merge_instructions).empty?
       approaches.each_with_index do |merge_instructions, i|
-        warn "  Match incoming #{merge_instructions[:incoming_field]} to #{merge_instructions[:existing_field]}"
-        unless merge_instructions.key? :report_missing
-          # By default only report people who are still unmatched at the end
-          merge_instructions[:report_missing] = (i == approaches.size - 1)
-        end
+        reconciler = Reconciler.new(merge_instructions)
 
-        if merge_instructions.key? :reconciliation_file
-          reconciliation_file = File.join('sources', merge_instructions[:reconciliation_file])
-          previously_reconciled = File.exist?(reconciliation_file) ? CSV.table(reconciliation_file, converters: nil) : CSV::Table.new([])
+        warn "  Match incoming #{reconciler.incoming_field} to #{reconciler.existing_field}"
 
-          if ENV['GENERATE_RECONCILIATION_INTERFACE'] && reconciliation_file.include?(ENV['GENERATE_RECONCILIATION_INTERFACE'])
-            html_file = reconciliation_file.sub('.csv', '.html')
-            interface = Reconciliation::Interface.new(merged_rows, incoming_data, previously_reconciled, merge_instructions)
-            FileUtils.mkdir_p(File.dirname(html_file))
-            File.write(html_file, interface.html)
-            abort "Created #{html_file} — please check it and re-run".green 
+        if reconciler.reconciliation_file
+          if ENV['GENERATE_RECONCILIATION_INTERFACE'] && reconciler.triggered_by?(ENV['GENERATE_RECONCILIATION_INTERFACE'])
+            filename = reconciler.generate_interface!(merged_rows, incoming_data.uniq { |r| r[:id] })
+            abort "Created #{filename} — please check it and re-run".green 
           end
 
-          # If we have reconciliation data from a prior run, we can
-          # use that, otherwise we need to wait for reconciliation
-          if previously_reconciled.any?
-            matcher = Matcher::Reconciled.new(merged_rows, merge_instructions, previously_reconciled)
-          else 
-            abort "No reconciliation data. Rerun with GENERATE_RECONCILIATION_INTERFACE=#{File.basename(reconciliation_file, '.csv')}"
-          end
+          pr = reconciler.previously_reconciled
+          abort "No reconciliation data. Rerun with GENERATE_RECONCILIATION_INTERFACE=#{reconciler.trigger_name}" if pr.empty?
+          matcher = Matcher::Reconciled.new(merged_rows, merge_instructions, pr)
         else 
           matcher = Matcher::Exact.new(merged_rows, merge_instructions)
         end

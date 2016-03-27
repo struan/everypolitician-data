@@ -11,7 +11,7 @@ class Reconciler
   end
 
   def reconciliation_file
-    fn = @instructions[:reconciliation_file] or raise "No reconciliation file"
+    fn = @instructions[:reconciliation_file] or return
     File.join('sources', fn)
   end
 
@@ -36,5 +36,13 @@ class Reconciler
     FileUtils.mkdir_p(File.dirname(interface_filename))
     File.write(interface_filename, interface.html)
     return interface_filename
+  end
+
+  def incoming_field
+    @instructions[:incoming_field]
+  end
+
+  def existing_field
+    @instructions[:existing_field]
   end
 end
