@@ -102,16 +102,10 @@ namespace :merge_sources do
       
       file = src.filename
 
-      table = src.as_table
+      table = src.filtered_table
       id_map = src.id_map
 
-      # if we have any filters, apply them
-      # Currently we just recognise a hash of k:v pairs to accept if matching
-      # TODO: add 'reject' and more complex expressions
-      filter = src.i(:filter) ? ->(row) { src.i(:filter)[:accept].all? { |k, v| row[k] == v } } : nil
-
       incoming_data = table.map do |row|
-        next if filter and not filter.call(row)
         # If the row has no ID, we'll need something we can treate as one
         # This 'pseudo id' defaults to slugified 'name' unless provided 
         row[:id] ||= row[:name].downcase.gsub(/\s+/, '_') 

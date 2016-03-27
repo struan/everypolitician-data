@@ -114,6 +114,14 @@ class Source::Membership < Source::CSV
       data.each { |id, uuid| csv << [id, uuid] }
     end
   end
+
+  # Currently we just recognise a hash of k:v pairs to accept if matching
+  # TODO: add 'reject' and more complex expressions
+  def filtered_table
+    return as_table unless i(:filter)
+    filter = ->(row) { i(:filter)[:accept].all? { |k, v| row[k] == v } }
+    @_filtered ||= as_table.select { |row| filter.call(row) }
+  end
 end
 
 class Source::Person < Source::CSV
