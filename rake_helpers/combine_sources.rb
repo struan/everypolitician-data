@@ -159,19 +159,19 @@ namespace :merge_sources do
       end
     end
 
-    # Then merge with Person data files
-    #   existing_field: the field in the existing data to match to
-    #   incoming_field: the field in the incoming data to match with
+    # Then merge with Biographical data files
 
-    instructions(:sources).find_all { |src| %w(wikidata person).include? src[:type].to_s.downcase }.each do |pd|
-      warn "Merging with #{pd[:file]}".magenta
-      raise "No merge instructions" unless pd.key?(:merge)
+    sources.select(&:is_bios?).each do |pd|
+      warn "Merging with #{pd.filename}".magenta
+      raise "No merge instructions" unless pd.i(:merge)
 
-      all_headers |= [:identifier__wikidata] if pd[:type] == 'wikidata'
+      # TODO add this to Source::Wikidata
+      #   calling 'super' in that doesn't currently work as expected
+      all_headers |= [:identifier__wikidata] if pd.i(:type) == 'wikidata'
 
-      incoming_data = csv_table(pd[:file])
+      incoming_data = csv_table(pd.filename)
 
-      approaches = pd[:merge].class == Hash ? [pd[:merge]] : pd[:merge]
+      approaches = pd.i(:merge).class == Hash ? [pd.i(:merge)] : pd.i(:merge)
       approaches.each_with_index do |merge_instructions, i|
         warn "  Match incoming #{merge_instructions[:incoming_field]} to #{merge_instructions[:existing_field]}"
         unless merge_instructions.key? :report_missing
@@ -205,7 +205,7 @@ namespace :merge_sources do
         unmatched = []
         incoming_data.each do |incoming_row|
 
-          incoming_row[:identifier__wikidata] ||= incoming_row[:id] if pd[:type] == 'wikidata'
+          incoming_row[:identifier__wikidata] ||= incoming_row[:id] if pd.i(:type) == 'wikidata'
 
           # TODO factor this out to a Patcher again
           to_patch = matcher.find_all(incoming_row)

@@ -33,6 +33,10 @@ class Source
     false
   end
 
+  def is_bios?
+    false
+  end
+
   # private
   REMAP = {
     area: %w(constituency region district place),
@@ -77,9 +81,15 @@ class Source::Membership < Source
 end
 
 class Source::Person < Source
+  def is_bios?
+    true
+  end
 end
 
 class Source::Wikidata < Source
+  def is_bios?
+    true
+  end
 end
 
 class Source::Group < Source
