@@ -105,7 +105,7 @@ namespace :merge_sources do
       if File.exists?(ids_file)
         id_map = Hash[CSV.table(ids_file, converters: nil).map { |r| [r[:id], r[:uuid]] }]
       end
-      table = csv_table(file)
+      table = src.as_table
 
       # if we have any filters, apply them
       # Currently we just recognise a hash of k:v pairs to accept if matching
@@ -169,7 +169,7 @@ namespace :merge_sources do
       #   calling 'super' in that doesn't currently work as expected
       all_headers |= [:identifier__wikidata] if pd.i(:type) == 'wikidata'
 
-      incoming_data = csv_table(pd.filename)
+      incoming_data = pd.as_table
 
       approaches = pd.i(:merge).class == Hash ? [pd.i(:merge)] : pd.i(:merge)
       approaches.each_with_index do |merge_instructions, i|
