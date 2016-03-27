@@ -98,14 +98,12 @@ namespace :merge_sources do
 
     # First get all the `membership` rows, and either merge or concat
     sources.select(&:is_memberships?).each do |src|
-      file = src.filename
       warn "Add memberships from #{file}".magenta
-      ids_file = file.sub(/.csv$/, '-ids.csv')
-      id_map = {}
-      if File.exists?(ids_file)
-        id_map = Hash[CSV.table(ids_file, converters: nil).map { |r| [r[:id], r[:uuid]] }]
-      end
+      
+      file = src.filename
+
       table = src.as_table
+      id_map = src.id_map
 
       # if we have any filters, apply them
       # Currently we just recognise a hash of k:v pairs to accept if matching
@@ -153,10 +151,7 @@ namespace :merge_sources do
         merged_rows << row.to_hash
       end
 
-      CSV.open(ids_file, 'w') do |csv|
-        csv << [:id, :uuid]
-        id_map.each { |id, uuid| csv << [id, uuid] }
-      end
+      src.write_id_map_file! id_map
     end
 
     # Then merge with Biographical data files

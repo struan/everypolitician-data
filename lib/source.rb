@@ -98,6 +98,22 @@ class Source::Membership < Source::CSV
   def is_memberships?
     true
   end
+
+  def id_map_file
+    filename.sub(/.csv$/, '-ids.csv')
+  end
+
+  def id_map
+    return {} unless File.exists?(id_map_file)
+    Hash[::CSV.table(id_map_file, converters: nil).map { |r| [r[:id], r[:uuid]] }]
+  end
+
+  def write_id_map_file!(data)
+    ::CSV.open(id_map_file, 'w') do |csv|
+      csv << [:id, :uuid]
+      data.each { |id, uuid| csv << [id, uuid] }
+    end
+  end
 end
 
 class Source::Person < Source::CSV
