@@ -10695,11 +10695,11 @@
         "slug": "Assembly",
         "sources_directory": "data/Zimbabwe/Assembly/sources",
         "popolo": "data/Zimbabwe/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/fb9382f/data/Zimbabwe/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/af925da/data/Zimbabwe/Assembly/ep-popolo-v1.0.json",
         "names": "data/Zimbabwe/Assembly/names.csv",
-        "lastmod": "1458108910",
+        "lastmod": "1459101461",
         "person_count": 219,
-        "sha": "fb9382f",
+        "sha": "af925da",
         "legislative_periods": [
           {
             "id": "term/8",
@@ -10707,21 +10707,21 @@
             "start_date": "2013",
             "slug": "8",
             "csv": "data/Zimbabwe/Assembly/term-8.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/fb9382f/data/Zimbabwe/Assembly/term-8.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/af925da/data/Zimbabwe/Assembly/term-8.csv"
           }
         ],
-        "statement_count": 5321
+        "statement_count": 5395
       },
       {
         "name": "Senate",
         "slug": "Senate",
         "sources_directory": "data/Zimbabwe/Senate/sources",
         "popolo": "data/Zimbabwe/Senate/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/cd53360/data/Zimbabwe/Senate/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a7f91ec/data/Zimbabwe/Senate/ep-popolo-v1.0.json",
         "names": "data/Zimbabwe/Senate/names.csv",
-        "lastmod": "1452158936",
+        "lastmod": "1459101484",
         "person_count": 67,
-        "sha": "cd53360",
+        "sha": "a7f91ec",
         "legislative_periods": [
           {
             "id": "term/8",
@@ -10729,10 +10729,10 @@
             "start_date": "2013",
             "slug": "8",
             "csv": "data/Zimbabwe/Senate/term-8.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/cd53360/data/Zimbabwe/Senate/term-8.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a7f91ec/data/Zimbabwe/Senate/term-8.csv"
           }
         ],
-        "statement_count": 1237
+        "statement_count": 1259
       }
     ]
   },
