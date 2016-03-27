@@ -100,17 +100,15 @@ namespace :merge_sources do
     sources.select(&:is_memberships?).each do |src|
       warn "Add memberships from #{file}".magenta
       
-      file = src.filename
-
-      table = src.filtered_table
+      incoming_data = src.filtered_table
       id_map = src.id_map
 
-      incoming_data = table.map do |row|
-        # If the row has no ID, we'll need something we can treate as one
-        # This 'pseudo id' defaults to slugified 'name' unless provided 
-        row[:id] ||= row[:name].downcase.gsub(/\s+/, '_') 
-        row
-      end.compact
+      # If the row has no ID, we'll need something we can treate as one
+      # This 'pseudo id' defaults to slugified 'name' 
+      # TODO: do this in `filtered_table`
+      incoming_data.select { |r| r[:id].to_s.empty? }.each do |row|
+        row[:id] = row[:name].downcase.gsub(/\s+/, '_') 
+      end
 
       if merge_instructions = src.i(:merge)
         if merge_instructions.key? :reconciliation_file
