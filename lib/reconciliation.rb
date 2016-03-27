@@ -10,13 +10,13 @@ class Reconciler
     @instructions = i
   end
 
-  def reconciliation_file
+  def filename
     fn = @instructions[:reconciliation_file] or return
     File.join('sources', fn)
   end
 
   def trigger_name
-    File.basename(reconciliation_file, '.csv')
+    File.basename(filename, '.csv')
   end
 
   def triggered_by?(str)
@@ -24,17 +24,16 @@ class Reconciler
   end
 
   def interface_filename
-    @_ifn ||= reconciliation_file.sub('.csv', '.html')
+    @_ifn ||= filename.sub('.csv', '.html')
   end
 
   def previously_reconciled
-    @_pr ||= File.exist?(reconciliation_file) ? CSV.table(reconciliation_file, converters: nil) : CSV::Table.new([])
+    @_pr ||= File.exist?(filename) ? CSV.table(filename, converters: nil) : CSV::Table.new([])
   end
 
   def generate_interface!(merged_rows, incoming_data)
     interface = Reconciliation::Interface.new(merged_rows, incoming_data, previously_reconciled, @instructions)
-    FileUtils.mkdir_p(File.dirname(interface_filename))
-    File.write(interface_filename, interface.html)
+    write_file!(interface_filename, interface.html)
     return interface_filename
   end
 
@@ -44,5 +43,11 @@ class Reconciler
 
   def existing_field
     @instructions[:existing_field]
+  end
+
+  private
+  def write_file!(filename, text)
+    FileUtils.mkdir_p(File.dirname(filename))
+    File.write(filename, text)
   end
 end

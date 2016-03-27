@@ -80,7 +80,7 @@ namespace :merge_sources do
 
       if merging = src.merge_instructions.first
         reconciler = Reconciler.new(merging)
-        raise "Can't reconciler memberships with a Reconciliation file" unless reconciler.reconciliation_file
+        raise "Can't reconciler memberships with a Reconciliation file yet" unless reconciler.filename
 
         if ENV['GENERATE_RECONCILIATION_INTERFACE'] && reconciler.triggered_by?(ENV['GENERATE_RECONCILIATION_INTERFACE'])
           filename = reconciler.generate_interface!(merged_rows, incoming_data.uniq { |r| r[:id] })
@@ -118,7 +118,7 @@ namespace :merge_sources do
 
         warn "  Match incoming #{reconciler.incoming_field} to #{reconciler.existing_field}"
 
-        if reconciler.reconciliation_file
+        if reconciler.filename
           if ENV['GENERATE_RECONCILIATION_INTERFACE'] && reconciler.triggered_by?(ENV['GENERATE_RECONCILIATION_INTERFACE'])
             filename = reconciler.generate_interface!(merged_rows, incoming_data.uniq { |r| r[:id] })
             abort "Created #{filename} — please check it and re-run".green 
