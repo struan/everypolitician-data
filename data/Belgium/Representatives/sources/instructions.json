@@ -46,7 +46,7 @@
         "scraper": "tmtmtmtm/belgium-lachambre",
         "query": "SELECT * FROM terms"
       },
-      "type": "terms"
+      "type": "term"
     },
     {
       "file": "gender-balance/results.csv",
