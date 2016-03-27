@@ -1,8 +1,15 @@
 {
   "persons": [
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "a.maclean@gov.je"
+        }
+      ],
       "email": "a.maclean@gov.je",
       "family_name": "Maclean",
+      "gender": "male",
       "given_name": "Alan John Henry",
       "id": "9daedd36-4593-4b3b-a9b5-cbfefd64c395",
       "identifiers": [
@@ -26,8 +33,15 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "s.crowcroft@gov.je"
+        }
+      ],
       "email": "s.crowcroft@gov.je",
       "family_name": "Crowcroft",
+      "gender": "male",
       "given_name": "Alan Simon",
       "id": "3667fc5e-df5c-4a9e-b339-b890fda09352",
       "identifiers": [
@@ -51,8 +65,15 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "a.lewis@gov.je"
+        }
+      ],
       "email": "a.lewis@gov.je",
       "family_name": "Lewis",
+      "gender": "male",
       "given_name": "Andrew David",
       "id": "f98342d7-e4f4-4a47-848f-d5dcfcb093c2",
       "identifiers": [
@@ -76,8 +97,15 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "a.green@gov.je"
+        }
+      ],
       "email": "a.green@gov.je",
       "family_name": "Green M.B.E.",
+      "gender": "male",
       "given_name": "Andrew Kenneth Francis",
       "id": "af7a36a2-60a7-4c86-abb2-21164b150399",
       "identifiers": [
@@ -101,8 +129,15 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "a.pryke@gov.je"
+        }
+      ],
       "email": "a.pryke@gov.je",
       "family_name": "Pryke",
+      "gender": "female",
       "given_name": "Anne Enid",
       "id": "20fcc0a2-f376-4f04-aca6-dcfb8281079a",
       "identifiers": [
@@ -126,8 +161,15 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "c.labey@gov.je"
+        }
+      ],
       "email": "c.labey@gov.je",
       "family_name": "Labey",
+      "gender": "female",
       "given_name": "Carolyn Fiona",
       "id": "7427bcd1-1609-4f5d-9901-e7e7a53a6385",
       "identifiers": [
@@ -151,8 +193,15 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "c.taylor@gov.je"
+        }
+      ],
       "email": "c.taylor@gov.je",
       "family_name": "Taylor",
+      "gender": "male",
       "given_name": "Christopher Hugh",
       "id": "279843c4-f5a0-4538-bc9b-6477fd1f772c",
       "identifiers": [
@@ -176,8 +225,15 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "d.mezbourian@gov.je"
+        }
+      ],
       "email": "d.mezbourian@gov.je",
       "family_name": "Mezbourian",
+      "gender": "female",
       "given_name": "Deidre Wendy",
       "id": "a3ce6592-9c6b-4438-8f9c-34df349cebd2",
       "identifiers": [
@@ -201,8 +257,15 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "e.noel@gov.je"
+        }
+      ],
       "email": "e.noel@gov.je",
       "family_name": "Noel",
+      "gender": "male",
       "given_name": "Edward James",
       "id": "787f8087-6765-46b9-93aa-a7f19d5bf7ef",
       "identifiers": [
@@ -227,6 +290,7 @@
     },
     {
       "family_name": "McColl KCB",
+      "gender": "male",
       "given_name": "General Sir John",
       "id": "94f03143-a39a-423c-9229-3983d2f6614d",
       "identifiers": [
@@ -250,8 +314,15 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "g.southern@gov.je"
+        }
+      ],
       "email": "g.southern@gov.je",
       "family_name": "Southern",
+      "gender": "male",
       "given_name": "Geoffrey Peter",
       "id": "92b09f99-55ca-4de6-ae64-8986c9705c99",
       "identifiers": [
@@ -275,8 +346,15 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "g.truscott@gov.je"
+        }
+      ],
       "email": "g.truscott@gov.je",
       "family_name": "Truscott",
+      "gender": "male",
       "given_name": "Graham John",
       "id": "39244bcc-bb92-4ad5-95a3-69c69a0343cd",
       "identifiers": [
@@ -300,8 +378,15 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "h.sharp@gov.je"
+        }
+      ],
       "email": "h.sharp@gov.je",
       "family_name": "Sharp QC",
+      "gender": "male",
       "given_name": "Howard",
       "id": "e7ba1f4a-5d92-4c92-b01c-257dccf8dcae",
       "identifiers": [
@@ -325,8 +410,15 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "i.gorst@gov.je"
+        }
+      ],
       "email": "i.gorst@gov.je",
       "family_name": "Gorst",
+      "gender": "male",
       "given_name": "Ian Joseph",
       "id": "79449441-f5df-4869-88eb-fb334eef5d84",
       "identifiers": [
@@ -350,8 +442,15 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "j.hilton@gov.je"
+        }
+      ],
       "email": "j.hilton@gov.je",
       "family_name": "Hilton",
+      "gender": "female",
       "given_name": "Jacqueline Ann",
       "id": "590a456c-720a-436a-a443-891324ae7c57",
       "identifiers": [
@@ -375,8 +474,15 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "j.macon@gov.je"
+        }
+      ],
       "email": "j.macon@gov.je",
       "family_name": "Maçon",
+      "gender": "male",
       "given_name": "Jeremy Martin",
       "id": "2ce30d6a-c07e-4715-9664-8f3d7c3e0b16",
       "identifiers": [
@@ -400,8 +506,15 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "j.lef@gov.je"
+        }
+      ],
       "email": "j.lef@gov.je",
       "family_name": "Le Fondré",
+      "gender": "male",
       "given_name": "John Alexander Nicholas",
       "id": "09cbe9e2-2451-4526-b9a0-6dbcae4478df",
       "identifiers": [
@@ -425,8 +538,15 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "j.lemaistre@gov.je"
+        }
+      ],
       "email": "j.lemaistre@gov.je",
       "family_name": "Le Maistre",
+      "gender": "male",
       "given_name": "John Edward",
       "id": "4d15a8c1-867b-4cc1-ae25-f74201f61097",
       "identifiers": [
@@ -450,8 +570,15 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "j.refault@gov.je"
+        }
+      ],
       "email": "j.refault@gov.je",
       "family_name": "Refault",
+      "gender": "male",
       "given_name": "John Martin",
       "id": "1dca32f3-f23c-4bf7-ac0e-323550de7b50",
       "identifiers": [
@@ -475,8 +602,15 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "ju.martin@gov.je"
+        }
+      ],
       "email": "ju.martin@gov.je",
       "family_name": "Martin",
+      "gender": "female",
       "given_name": "Judith Ann",
       "id": "27f5cfba-250c-41eb-ba91-003ce18908f1",
       "identifiers": [
@@ -500,8 +634,15 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "jg.gallichan@gov.je"
+        }
+      ],
       "email": "jg.gallichan@gov.je",
       "family_name": "Gallichan",
+      "gender": "female",
       "given_name": "Juliette",
       "id": "fd3437da-55ce-4bec-876d-2c8852026d2b",
       "identifiers": [
@@ -525,8 +666,15 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "k.lewis@gov.je"
+        }
+      ],
       "email": "k.lewis@gov.je",
       "family_name": "Lewis",
+      "gender": "male",
       "given_name": "Kevin Charles",
       "id": "56206064-a029-46b7-82de-d8753012a347",
       "identifiers": [
@@ -550,8 +698,15 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "k.moore2@gov.je"
+        }
+      ],
       "email": "k.moore2@gov.je",
       "family_name": "Moore",
+      "gender": "female",
       "given_name": "Kristina Louise",
       "id": "997c9e48-4972-418b-a7ef-1c517bc5fca9",
       "identifiers": [
@@ -575,8 +730,15 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "l.norman@gov.je"
+        }
+      ],
       "email": "l.norman@gov.je",
       "family_name": "Norman",
+      "gender": "male",
       "given_name": "Leonard",
       "id": "5b713d8e-23e3-47bb-ac7f-7af5e4e3e182",
       "identifiers": [
@@ -600,8 +762,15 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "l.hart@gov.je"
+        }
+      ],
       "email": "l.hart@gov.je",
       "family_name": "Hart",
+      "gender": "female",
       "given_name": "Lisa-Marie",
       "id": "3e5d13ac-fb2b-4e72-8997-b6d0a075c04d",
       "identifiers": [
@@ -625,8 +794,15 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "l.doublet@gov.je"
+        }
+      ],
       "email": "l.doublet@gov.je",
       "family_name": "Doublet",
+      "gender": "female",
       "given_name": "Louise Mary Catherine",
       "id": "92923cf5-132d-48fe-afe1-31f955828aeb",
       "identifiers": [
@@ -650,8 +826,15 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "l.farnham@gov.je"
+        }
+      ],
       "email": "l.farnham@gov.je",
       "family_name": "Farnham",
+      "gender": "male",
       "given_name": "Lyndon John",
       "id": "cc0d7b2a-43a4-4fb8-9aff-6ff50690978a",
       "identifiers": [
@@ -675,8 +858,15 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "m.paddock@gov.je"
+        }
+      ],
       "email": "m.paddock@gov.je",
       "family_name": "Paddock",
+      "gender": "male",
       "given_name": "Michael John",
       "id": "5810a786-f093-4fb1-854f-d6a7f0a0c3b3",
       "identifiers": [
@@ -700,8 +890,15 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "m.delahaye@gov.je"
+        }
+      ],
       "email": "m.delahaye@gov.je",
       "family_name": "de la Haye",
+      "gender": "male",
       "given_name": "Michael Nelson",
       "id": "7db479bc-394b-40ae-9c44-15549a5fd2c0",
       "identifiers": [
@@ -725,8 +922,15 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "mr.higgins@gov.je"
+        }
+      ],
       "email": "mr.higgins@gov.je",
       "family_name": "Higgins",
+      "gender": "male",
       "given_name": "Michael Roderick",
       "id": "1d724f7b-6181-4838-977a-11b5e8ed8b39",
       "identifiers": [
@@ -750,8 +954,15 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "viscount@gov.je"
+        }
+      ],
       "email": "viscount@gov.je",
       "family_name": "Wilkins MBE",
+      "gender": "male",
       "given_name": "Michael",
       "id": "7dffb3db-84b1-46f0-b90f-b5ff699908fa",
       "identifiers": [
@@ -775,8 +986,15 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "m.letroquer@gov.je"
+        }
+      ],
       "email": "m.letroquer@gov.je",
       "family_name": "Le Troquer",
+      "gender": "male",
       "given_name": "Michel Philip Sydney",
       "id": "ca8a1c2f-e28f-4082-bb4a-babc2d5f3d8d",
       "identifiers": [
@@ -800,8 +1018,15 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "m.tadier@gov.je"
+        }
+      ],
       "email": "m.tadier@gov.je",
       "family_name": "Tadier",
+      "gender": "male",
       "given_name": "Montfort",
       "id": "af34dbda-09ee-4623-aae5-43f189bf8218",
       "identifiers": [
@@ -825,8 +1050,15 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "m.norton@gov.je"
+        }
+      ],
       "email": "m.norton@gov.je",
       "family_name": "Norton",
+      "gender": "male",
       "given_name": "Murray Julian",
       "id": "1f3faa47-b7b6-4a42-97df-8df2f923fed4",
       "identifiers": [
@@ -850,8 +1082,15 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "p.routier@gov.je"
+        }
+      ],
       "email": "p.routier@gov.je",
       "family_name": "Routier M.B.E.",
+      "gender": "male",
       "given_name": "Paul Francis",
       "id": "4fa74bcf-5566-4d31-9362-2d1e5448890f",
       "identifiers": [
@@ -875,8 +1114,15 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "p.mclinton@gov.je"
+        }
+      ],
       "email": "p.mclinton@gov.je",
       "family_name": "McLinton",
+      "gender": "male",
       "given_name": "Peter Derek",
       "id": "de58a38e-8a0a-4b9f-ae82-0201d73b4afe",
       "identifiers": [
@@ -900,8 +1146,15 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "p.lesueur@gov.je"
+        }
+      ],
       "email": "p.lesueur@gov.je",
       "family_name": "Le Sueur",
+      "gender": "male",
       "given_name": "Philip Bond",
       "id": "84d8d2e5-c20d-4464-95e7-7fa687ad7106",
       "identifiers": [
@@ -925,8 +1178,15 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "p.ozouf@gov.je"
+        }
+      ],
       "email": "p.ozouf@gov.je",
       "family_name": "Ozouf",
+      "gender": "male",
       "given_name": "Philip Francis Cyril",
       "id": "3f9ea88b-fc09-4d58-a681-dc9948cfa719",
       "identifiers": [
@@ -950,8 +1210,15 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "r.renouf@gov.je"
+        }
+      ],
       "email": "r.renouf@gov.je",
       "family_name": "Renouf",
+      "gender": "male",
       "given_name": "Richard John",
       "id": "abfe25dc-f1d9-479c-aa12-fd345aba81ba",
       "identifiers": [
@@ -975,8 +1242,15 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "richard.rondel@gov.je"
+        }
+      ],
       "email": "richard.rondel@gov.je",
       "family_name": "Rondel",
+      "gender": "male",
       "given_name": "Richard John",
       "id": "dc0352a4-07a1-4105-8af3-83a7da123b88",
       "identifiers": [
@@ -1000,8 +1274,15 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "d.johnson@gov.je"
+        }
+      ],
       "email": "d.johnson@gov.je",
       "family_name": "Johnson",
+      "gender": "male",
       "given_name": "Robert David",
       "id": "16b1e097-fdc8-4ca1-82ab-656faa4c6f30",
       "identifiers": [
@@ -1025,8 +1306,15 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "r.macrae@gov.je"
+        }
+      ],
       "email": "r.macrae@gov.je",
       "family_name": "MacRae QC",
+      "gender": "male",
       "given_name": "Robert James",
       "id": "787417ed-c8ed-45df-8ecd-50441a6bed0c",
       "identifiers": [
@@ -1050,8 +1338,15 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "r.bryans@gov.je"
+        }
+      ],
       "email": "r.bryans@gov.je",
       "family_name": "Bryans",
+      "gender": "male",
       "given_name": "Roderick Gordon",
       "id": "4180d18a-6b87-4a39-ba27-0232f36dc914",
       "identifiers": [
@@ -1075,8 +1370,15 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "r.labey@gov.je"
+        }
+      ],
       "email": "r.labey@gov.je",
       "family_name": "Labey",
+      "gender": "male",
       "given_name": "Russell",
       "id": "23ce33d7-2d41-42a4-85f2-17f43a4544d6",
       "identifiers": [
@@ -1100,8 +1402,15 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "s.rennard@gov.je"
+        }
+      ],
       "email": "s.rennard@gov.je",
       "family_name": "Le Sueur-Rennard",
+      "gender": "female",
       "given_name": "Sadie Anthea",
       "id": "57cd621e-1408-4110-bc1d-b289c1fdc48d",
       "identifiers": [
@@ -1125,8 +1434,15 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "s.mezec@gov.je"
+        }
+      ],
       "email": "s.mezec@gov.je",
       "family_name": "Mezec",
+      "gender": "male",
       "given_name": "Samuel Yves",
       "id": "9b5badd6-a2b0-4763-9a76-8dbb9469229d",
       "identifiers": [
@@ -1150,8 +1466,15 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "s.wickenden@gov.je"
+        }
+      ],
       "email": "s.wickenden@gov.je",
       "family_name": "Wickenden",
+      "gender": "male",
       "given_name": "Scott Michael",
       "id": "5e6eaf92-2f94-4280-a370-0324d81e11c0",
       "identifiers": [
@@ -1175,8 +1498,15 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "s.bree@gov.je"
+        }
+      ],
       "email": "s.bree@gov.je",
       "family_name": "Bree",
+      "gender": "male",
       "given_name": "Simon Muir",
       "id": "973aa9fc-8348-4f73-acc6-f4d2efe4701c",
       "identifiers": [
@@ -1200,8 +1530,15 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "p.bailhache@gov.je"
+        }
+      ],
       "email": "p.bailhache@gov.je",
       "family_name": "Bailhache",
+      "gender": "male",
       "given_name": "Sir Philip Martin",
       "id": "7e60fcac-6594-4795-bbf2-de900360bd4a",
       "identifiers": [
@@ -1225,8 +1562,15 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "s.luce@gov.je"
+        }
+      ],
       "email": "s.luce@gov.je",
       "family_name": "Luce",
+      "gender": "male",
       "given_name": "Stephen George",
       "id": "d20e2314-ca31-4750-8f81-6b40763eb565",
       "identifiers": [
@@ -1250,8 +1594,15 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "s.pallett@gov.je"
+        }
+      ],
       "email": "s.pallett@gov.je",
       "family_name": "Pallett",
+      "gender": "male",
       "given_name": "Stephen William",
       "id": "6343f6d2-b18b-4e17-a7cd-2e0fa3467bcb",
       "identifiers": [
@@ -1275,8 +1626,15 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "s.pinel@gov.je"
+        }
+      ],
       "email": "s.pinel@gov.je",
       "family_name": "Pinel",
+      "gender": "female",
       "given_name": "Susan Jane",
       "id": "e511a364-9047-41ea-abe4-ffa28b209d41",
       "identifiers": [
@@ -1300,8 +1658,15 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "t.mcdonald@gov.je"
+        }
+      ],
       "email": "t.mcdonald@gov.je",
       "family_name": "McDonald",
+      "gender": "male",
       "given_name": "Terence Alexander",
       "id": "a68c18b1-703c-4e24-9eb2-8fe28f74196a",
       "identifiers": [
@@ -1326,6 +1691,7 @@
     },
     {
       "family_name": "Key",
+      "gender": "male",
       "given_name": "The Very Reverend Robert Frederick",
       "id": "489c4547-5af5-46aa-8bdc-ae48e3daf93a",
       "identifiers": [
@@ -1349,8 +1715,15 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "deputybailiff@gov.je"
+        }
+      ],
       "email": "deputybailiff@gov.je",
       "family_name": "Le Cocq",
+      "gender": "male",
       "given_name": "Timothy John",
       "id": "3cd1b46b-abc9-4a6f-8fc6-a5fc3167e8cb",
       "identifiers": [
@@ -1374,8 +1747,15 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "t.vallois@gov.je"
+        }
+      ],
       "email": "t.vallois@gov.je",
       "family_name": "Vallois",
+      "gender": "female",
       "given_name": "Tracey Anne",
       "id": "9774badc-797b-49b7-aeda-e9a6bd128679",
       "identifiers": [
@@ -1399,8 +1779,15 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "bailiffofjersey@gov.je"
+        }
+      ],
       "email": "bailiffofjersey@gov.je",
       "family_name": "Bailhache",
+      "gender": "male",
       "given_name": "William James",
       "id": "bf774083-5c47-43d8-beea-1ff9eeab9c38",
       "identifiers": [
@@ -1424,8 +1811,15 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "z.cameron@gov.je"
+        }
+      ],
       "email": "z.cameron@gov.je",
       "family_name": "Cameron",
+      "gender": "female",
       "given_name": "Zoe Ann",
       "id": "bc9316a4-bbda-465f-96df-37a8fe28728f",
       "identifiers": [
