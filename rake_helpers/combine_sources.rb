@@ -2,7 +2,7 @@ require 'sass'
 require_relative '../lib/wikidata_lookup'
 require_relative '../lib/matcher'
 require_relative '../lib/reconciliation'
-require_relative '../lib/fetcher'
+require_relative '../lib/remotesource'
 
 class String
   def tidy
@@ -26,6 +26,8 @@ namespace :merge_sources do
 
   CLEAN.include 'sources/merged.csv'
 
+  # We re-fetch any file that is missing, or, if REBUILD_SOURCE is set,
+  # any file that matches that.
   def _should_refetch(file)
     return true unless File.exist?(file)
     return false unless ENV['REBUILD_SOURCE']
@@ -34,28 +36,7 @@ namespace :merge_sources do
 
   def fetch_missing
     @recreatable.each do |i|
-      if _should_refetch(i[:file])
-        c = i[:create]
-        if c.key? :url
-          Fetcher::URL.regenerate(i)
-        elsif c[:type] == 'morph'
-          Fetcher::Morph.regenerate(i)
-        elsif c[:type] == 'parlparse'
-          Fetcher::Parlparse.regenerate(i)
-        elsif c[:type] == 'ocd'
-          Fetcher::OCD.regenerate(i)
-        elsif c[:type] == 'group-wikidata'
-          Fetcher::Wikidata::Group.regenerate(i)
-        elsif c[:type] == 'area-wikidata'
-          Fetcher::Wikidata::Area.regenerate(i)
-        elsif c[:type] == 'wikidata-raw'
-          Fetcher::Wikidata::Raw.regenerate(i)
-        elsif c[:type] == 'gender-balance'
-          Fetcher::GenderBalance.regenerate(i)
-        else
-          raise "Don't know how to fetch #{i[:file]}" unless c[:type] == 'morph'
-        end
-      end
+      RemoteSource.instantiate(i).regenerate if _should_refetch(i[:file])
     end
   end
 

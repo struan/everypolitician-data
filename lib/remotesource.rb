@@ -2,9 +2,20 @@ require_relative './wikidata_lookup'
 require 'json'
 require 'csv'
 
-class Fetcher
-  def self.regenerate(i)
-    new(i).fetch
+class RemoteSource
+
+  # Instantiate correct subclass based on instructions
+  def self.instantiate(i)
+    c = i[:create]
+    return RemoteSource::URL.new(i)             if c.key? :url
+    return RemoteSource::Morph.new(i)           if c[:type] == 'morph'
+    return RemoteSource::Parlparse.new(i)       if c[:type] == 'parlparse'
+    return RemoteSource::OCD.new(i)             if c[:type] == 'ocd'
+    return RemoteSource::Wikidata::Group.new(i) if c[:type] == 'group-wikidata'
+    return RemoteSource::Wikidata::Area.new(i)  if c[:type] == 'area-wikidata'
+    return RemoteSource::Wikidata::Raw.new(i)   if c[:type] == 'wikidata-raw'
+    return RemoteSource::GenderBalance.new(i)   if c[:type] == 'gender-balance'
+    raise "Don't know how to fetch #{i[:file]}" 
   end
 
   def initialize(i)
@@ -27,21 +38,21 @@ class Fetcher
     IO.copy_stream(open(url), i(:file))
   end
   
-  def fetch
+  def regenerate
     FileUtils.mkpath File.dirname i(:file)
     warn "Regenerating #{i(:file)}"
     write
   end
 end
 
-class Fetcher::GenderBalance < Fetcher
+class RemoteSource::GenderBalance < RemoteSource
   def write
     remote = "http://www.gender-balance.org/export/#{source}"
     copy_url(remote)
   end
 end
 
-class Fetcher::Morph < Fetcher
+class RemoteSource::Morph < RemoteSource
   def morph_select(src, qs)
     morph_api_key = ENV['MORPH_API_KEY'] or fail 'Need a Morph API key'
     key = ERB::Util.url_encode(morph_api_key)
@@ -56,14 +67,14 @@ class Fetcher::Morph < Fetcher
   end
 end
 
-class Fetcher::OCD < Fetcher
+class RemoteSource::OCD < RemoteSource
   def write
     remote = 'https://raw.githubusercontent.com/opencivicdata/ocd-division-ids/master/identifiers/' + source
     copy_url(remote)
   end
 end
 
-class Fetcher::Parlparse < Fetcher
+class RemoteSource::Parlparse < RemoteSource
   def write
     gh_url = 'https://raw.githubusercontent.com/everypolitician/everypolitician-data/master/data/'
     term_file_url = gh_url + '%s/sources/manual/terms.csv'
@@ -79,13 +90,13 @@ class Fetcher::Parlparse < Fetcher
   end
 end
 
-class Fetcher::URL < Fetcher
+class RemoteSource::URL < RemoteSource
   def write
     copy_url(c(:url))
   end
 end
 
-class Fetcher::Wikidata < Fetcher
+class RemoteSource::Wikidata < RemoteSource
   def lookup_class
     WikidataLookup
   end
@@ -111,16 +122,16 @@ class Fetcher::Wikidata < Fetcher
   end
 end
 
-class Fetcher::Wikidata::Area < Fetcher::Wikidata
+class RemoteSource::Wikidata::Area < RemoteSource::Wikidata
 end
 
-class Fetcher::Wikidata::Group < Fetcher::Wikidata
+class RemoteSource::Wikidata::Group < RemoteSource::Wikidata
   def lookup_class
     GroupLookup
   end
 end
 
-class Fetcher::Wikidata::Raw < Fetcher::Wikidata
+class RemoteSource::Wikidata::Raw < RemoteSource::Wikidata
   def lookup_class
     P39sLookup
   end
