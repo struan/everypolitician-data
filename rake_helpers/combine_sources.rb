@@ -2,7 +2,7 @@ require 'sass'
 require_relative '../lib/wikidata_lookup'
 require_relative '../lib/matcher'
 require_relative '../lib/reconciliation'
-require_relative '../lib/fetcher'
+require_relative '../lib/remotesource'
 
 class String
   def tidy
@@ -37,21 +37,21 @@ namespace :merge_sources do
       if _should_refetch(i[:file])
         c = i[:create]
         if c.key? :url
-          Fetcher::URL.regenerate(i)
+          RemoteSource::URL.regenerate(i)
         elsif c[:type] == 'morph'
-          Fetcher::Morph.regenerate(i)
+          RemoteSource::Morph.regenerate(i)
         elsif c[:type] == 'parlparse'
-          Fetcher::Parlparse.regenerate(i)
+          RemoteSource::Parlparse.regenerate(i)
         elsif c[:type] == 'ocd'
-          Fetcher::OCD.regenerate(i)
+          RemoteSource::OCD.regenerate(i)
         elsif c[:type] == 'group-wikidata'
-          Fetcher::Wikidata::Group.regenerate(i)
+          RemoteSource::Wikidata::Group.regenerate(i)
         elsif c[:type] == 'area-wikidata'
-          Fetcher::Wikidata::Area.regenerate(i)
+          RemoteSource::Wikidata::Area.regenerate(i)
         elsif c[:type] == 'wikidata-raw'
-          Fetcher::Wikidata::Raw.regenerate(i)
+          RemoteSource::Wikidata::Raw.regenerate(i)
         elsif c[:type] == 'gender-balance'
-          Fetcher::GenderBalance.regenerate(i)
+          RemoteSource::GenderBalance.regenerate(i)
         else
           raise "Don't know how to fetch #{i[:file]}" unless c[:type] == 'morph'
         end
