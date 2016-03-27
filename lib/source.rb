@@ -29,6 +29,11 @@ class Source
     ::CSV.parse_line(header_line).map { |h| remap(h.downcase) } 
   end
 
+  def merge_instructions
+    mi = i(:merge) or return []
+    mi.class == Hash ? [mi] : mi
+  end
+
   def is_memberships?
     false
   end

@@ -98,7 +98,7 @@ namespace :merge_sources do
 
     # First get all the `membership` rows, and either merge or concat
     sources.select(&:is_memberships?).each do |src|
-      warn "Add memberships from #{file}".magenta
+      warn "Add memberships from #{src.filename}".magenta
       
       incoming_data = src.filtered_table
       id_map = src.id_map
@@ -110,7 +110,7 @@ namespace :merge_sources do
         row[:id] = row[:name].downcase.gsub(/\s+/, '_') 
       end
 
-      if merge_instructions = src.i(:merge)
+      if merge_instructions = src.merge_instructions.first
         if merge_instructions.key? :reconciliation_file
           reconciliation_file = File.join('sources', merge_instructions[:reconciliation_file])
           previously_reconciled = File.exist?(reconciliation_file) ? CSV.table(reconciliation_file, converters: nil) : CSV::Table.new([])
@@ -150,7 +150,6 @@ namespace :merge_sources do
 
     sources.select(&:is_bios?).each do |pd|
       warn "Merging with #{pd.filename}".magenta
-      raise "No merge instructions" unless pd.i(:merge)
 
       # TODO add this to Source::Wikidata
       #   calling 'super' in that doesn't currently work as expected
@@ -158,7 +157,7 @@ namespace :merge_sources do
 
       incoming_data = pd.as_table
 
-      approaches = pd.i(:merge).class == Hash ? [pd.i(:merge)] : pd.i(:merge)
+      abort "No merge instructions for #{pd.filename}" if (approaches = pd.merge_instructions).empty?
       approaches.each_with_index do |merge_instructions, i|
         warn "  Match incoming #{merge_instructions[:incoming_field]} to #{merge_instructions[:existing_field]}"
         unless merge_instructions.key? :report_missing
