@@ -3,6 +3,7 @@ require_relative '../lib/wikidata_lookup'
 require_relative '../lib/matcher'
 require_relative '../lib/reconciliation'
 require_relative '../lib/remotesource'
+require_relative '../lib/source'
 
 class String
   def tidy
@@ -40,6 +41,7 @@ namespace :merge_sources do
     end
   end
 
+  # TODO: this is being moved to Source
   REMAP = {
     area: %w(constituency region district place),
     area_id: %w(constituency_id region_id district_id place_id),
@@ -89,14 +91,8 @@ namespace :merge_sources do
       raise "Missing `type` in #{no_type} file"
     end
 
-    # Build the master list of columns
-    all_headers = instructions(:sources).reject { |src|
-      %w(term gender).include? src[:type] 
-    }. map { |src| src[:file] }.reduce([]) do |all_headers, file|
-      header_line = File.open(file, &:gets) or abort "#{file} is empty!".red
-      all_headers | CSV.parse_line(header_line).map { |h| remap(h.downcase) } 
-    end
-    all_headers |= [:id]
+    sources = instructions(:sources).map { |s| Source.instantiate(s) }
+    all_headers = (%i(id uuid) + sources.map { |s| s.fields }).flatten.uniq
 
     merged_rows = []
 
@@ -303,15 +299,12 @@ namespace :merge_sources do
         r[:gender] = winner.first.to_s 
         gb_votes += 1
       end
-      all_headers |= [:gender]
       warn "⚥ #{gb_votes}".cyan 
     end
 
     # Map Areas
     if area = instructions(:sources).find { |src| src[:type].to_s.downcase == 'ocd' }
       ocds = CSV.table(area[:file], converters: nil).group_by { |r| r[:id] }
-
-      all_headers |= [:area, :area_id]
 
       if area[:generate] == 'area'
         merged_rows.each do |r|
@@ -378,7 +371,7 @@ namespace :merge_sources do
     if File.exist? legacy_id_file
       legacy = CSV.table(legacy_id_file, converters: nil).group_by { |r| r[:id] }
 
-      all_headers << :identifier__everypolitician_legacy
+      all_headers |= %i(identifier__everypolitician_legacy)
 
       merged_rows.each do |row|
         if legacy.key? row[:uuid] 
