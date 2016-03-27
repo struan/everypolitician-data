@@ -396,12 +396,11 @@
   ],
   "Q2106896": [
     {
-      "id": "Q486839",
-      "label": "member of parliament"
-    },
-    {
       "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands"
+      "label": "member of the House of Representatives of the Netherlands",
+      "qualifiers": {
+        "P580": "2010-06-17"
+      }
     }
   ],
   "Q1662099": [
