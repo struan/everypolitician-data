@@ -297,7 +297,7 @@ namespace :merge_sources do
 
     legacy_id_file = 'sources/manual/legacy-ids.csv'
     if File.exist? legacy_id_file
-      legacy = CSV.table(legacy_id_file, converters: nil).group_by { |r| r[:id] }
+      legacy = CSV.table(legacy_id_file, converters: nil).reject { |r| r[:legacy].to_s.empty? }.group_by { |r| r[:id] }
 
       all_headers |= %i(identifier__everypolitician_legacy)
 
