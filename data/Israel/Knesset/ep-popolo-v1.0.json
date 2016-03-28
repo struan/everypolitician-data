@@ -5599,15 +5599,90 @@
     },
     {
       "birth_date": "1976-03-15",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "amirohana"
+        }
+      ],
       "gender": "male",
+      "given_name": "Amir",
       "id": "f937e293-4431-4c43-ac30-af933e7c2d57",
+      "identifiers": [
+        {
+          "identifier": "Q21794010",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.knesset.gov.il/mk/images/members/Ohana_Amir.jpg",
       "images": [
         {
           "url": "http://www.knesset.gov.il/mk/images/members/Ohana_Amir.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (cs)",
+          "url": "https://cs.wikipedia.org/wiki/Amir_Ochana"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Amir_Ohana"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Amir_Ohana"
+        },
+        {
+          "note": "Wikipedia (he)",
+          "url": "https://he.wikipedia.org/wiki/אמיר_אוחנה"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/amirohana"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/amirohana"
+        }
+      ],
       "name": "Amir Ohana",
+      "other_names": [
+        {
+          "name": "אמיר אוחנה",
+          "note": "alternate"
+        },
+        {
+          "lang": "cs",
+          "name": "Amir Ochana",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Amir Ohana",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Amir Ohana",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "אמיר אוחנה",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Amir Ohana",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Амир Охана",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.knesset.gov.il/mk/eng/mk_print_eng.asp?mk_individual_id_t=953"
@@ -15415,10 +15490,10 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "http://www.knesset.gov.il/mk/images/members/Uda_Aiman.jpg",
+      "image": "http://www.knesset.gov.il/mk/images/members/Odeh_Aiman.jpg",
       "images": [
         {
-          "url": "http://www.knesset.gov.il/mk/images/members/Uda_Aiman.jpg"
+          "url": "http://www.knesset.gov.il/mk/images/members/Odeh_Aiman.jpg"
         }
       ],
       "links": [
@@ -15467,7 +15542,7 @@
           "url": "YouTube"
         }
       ],
-      "name": "Ayman Udeh",
+      "name": "Ayman Odeh",
       "other_names": [
         {
           "name": "איימן עודה",
@@ -31797,7 +31872,7 @@
           "scheme": "viaf"
         },
         {
-          "identifier": "Q19634024",
+          "identifier": "Q223354",
           "scheme": "wikidata"
         }
       ],
@@ -31810,19 +31885,15 @@
       "links": [
         {
           "note": "Wikipedia (cs)",
-          "url": "https://cs.wikipedia.org/wiki/Eli_Kohen_(1973)"
-        },
-        {
-          "note": "Wikipedia (de)",
-          "url": "https://de.wikipedia.org/wiki/Eli_Cohen_(Politiker,_1972)"
+          "url": "https://cs.wikipedia.org/wiki/Eli_Kohen_(politik)"
         },
         {
           "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Eli_Cohen_(politician_born_1972)"
+          "url": "https://en.wikipedia.org/wiki/Eli_Cohen_(politician_born_1949)"
         },
         {
           "note": "Wikipedia (he)",
-          "url": "https://he.wikipedia.org/wiki/אלי_כהן_(כולנו)"
+          "url": "https://he.wikipedia.org/wiki/אלי_כהן_(הליכוד)"
         },
         {
           "note": "Wikipedia (id)",
@@ -31831,18 +31902,10 @@
         {
           "note": "Wikipedia (ja)",
           "url": "https://ja.wikipedia.org/wiki/エリ・コーヘン"
-        },
-        {
-          "note": "facebook",
-          "url": "https://facebook.com/cpa.eli.cohen"
         }
       ],
       "name": "Eli Cohen",
       "other_names": [
-        {
-          "name": "אלי כהן",
-          "note": "alternate"
-        },
         {
           "name": "אלי כהן",
           "note": "alternate"
@@ -31922,6 +31985,10 @@
         {
           "identifier": "928",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q19634024",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.knesset.gov.il/mk/images/members/Cohen_Eli1.jpg",
@@ -31930,7 +31997,65 @@
           "url": "http://www.knesset.gov.il/mk/images/members/Cohen_Eli1.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (cs)",
+          "url": "https://cs.wikipedia.org/wiki/Eli_Kohen_(1973)"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Eli_Cohen_(Politiker,_1972)"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Eli_Cohen_(politician_born_1972)"
+        },
+        {
+          "note": "Wikipedia (he)",
+          "url": "https://he.wikipedia.org/wiki/אלי_כהן_(כולנו)"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/cpa.eli.cohen"
+        }
+      ],
       "name": "Eli Cohen",
+      "other_names": [
+        {
+          "name": "אלי כהן",
+          "note": "alternate"
+        },
+        {
+          "lang": "cs",
+          "name": "Eli Kohen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Eli Cohen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Eli Cohen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Eli Cohen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "אלי כהן",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Эли Коэн",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.knesset.gov.il/mk/eng/mk_print_eng.asp?mk_individual_id_t=928"
@@ -72779,13 +72904,54 @@
       "birth_date": "1977-05-30",
       "gender": "male",
       "id": "159b79e3-6f1b-4db5-8b30-9342861c7bbd",
+      "identifiers": [
+        {
+          "identifier": "Q20898016",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.knesset.gov.il/mk/images/members/forer_oded.jpg",
       "images": [
         {
           "url": "http://www.knesset.gov.il/mk/images/members/forer_oded.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (cs)",
+          "url": "https://cs.wikipedia.org/wiki/Oded_Forer"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Oded_Forer"
+        },
+        {
+          "note": "Wikipedia (he)",
+          "url": "https://he.wikipedia.org/wiki/עודד_פורר"
+        }
+      ],
       "name": "Oded Forer",
+      "other_names": [
+        {
+          "name": "עודד פורר",
+          "note": "alternate"
+        },
+        {
+          "lang": "cs",
+          "name": "Oded Forer",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Oded Forer",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "עודד פורר",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.knesset.gov.il/mk/eng/mk_print_eng.asp?mk_individual_id_t=951"
@@ -83602,13 +83768,64 @@
       "birth_date": "1984-04-03",
       "gender": "female",
       "id": "a74bf9b3-9fc6-4b93-a08f-cf728cd6d387",
+      "identifiers": [
+        {
+          "identifier": "Q20824112",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.knesset.gov.il/mk/images/members/sharren_haskel.jpg",
       "images": [
         {
           "url": "http://www.knesset.gov.il/mk/images/members/sharren_haskel.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (cs)",
+          "url": "https://cs.wikipedia.org/wiki/Sharren_Haskelová"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Sharren_Haskel"
+        },
+        {
+          "note": "Wikipedia (he)",
+          "url": "https://he.wikipedia.org/wiki/שרן_השכל"
+        }
+      ],
       "name": "Sharren Haskel",
+      "other_names": [
+        {
+          "name": "שרן השכל",
+          "note": "alternate"
+        },
+        {
+          "lang": "cs",
+          "name": "Sharren Haskelová",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Sharren Haskel",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Sharren Haskel",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "שרן השכל",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Sharren Haskel",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.knesset.gov.il/mk/eng/mk_print_eng.asp?mk_individual_id_t=950"
@@ -98391,13 +98608,54 @@
       "birth_date": "1973-10-12",
       "gender": "female",
       "id": "23ae441c-b5c1-44ee-ab7c-1f1736648a78",
+      "identifiers": [
+        {
+          "identifier": "Q21154875",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.knesset.gov.il/mk/images/members/Yael_Cohen_Paran.jpg",
       "images": [
         {
           "url": "http://www.knesset.gov.il/mk/images/members/Yael_Cohen_Paran.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (cs)",
+          "url": "https://cs.wikipedia.org/wiki/Ja'el_Kohen_Paran"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Yael_Cohen_Paran"
+        },
+        {
+          "note": "Wikipedia (he)",
+          "url": "https://he.wikipedia.org/wiki/יעל_כהן-פארן"
+        }
+      ],
       "name": "Yael Cohen Paran",
+      "other_names": [
+        {
+          "name": "יעל כהן-פארן",
+          "note": "alternate"
+        },
+        {
+          "lang": "cs",
+          "name": "Ja'el Kohen Paran",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Yael Cohen Paran",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "יעל כהן-פארן",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.knesset.gov.il/mk/eng/mk_print_eng.asp?mk_individual_id_t=952"
@@ -104128,15 +104386,61 @@
     },
     {
       "birth_date": "1966-03-18",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "YigalGueta"
+        }
+      ],
       "gender": "male",
       "id": "a8033cc9-abbd-4b39-a5f7-35283d258254",
+      "identifiers": [
+        {
+          "identifier": "Q22259724",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.knesset.gov.il/mk/images/members/Yigal_Guetta.jpg",
       "images": [
         {
           "url": "http://www.knesset.gov.il/mk/images/members/Yigal_Guetta.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Yigal_Guetta"
+        },
+        {
+          "note": "Wikipedia (he)",
+          "url": "https://he.wikipedia.org/wiki/יגאל_גואטה"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/YigalGueta"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/YigalGueta"
+        }
+      ],
       "name": "Yigal Guetta",
+      "other_names": [
+        {
+          "name": "יגאל גואטה",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Yigal Guetta",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "יגאל גואטה",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.knesset.gov.il/mk/eng/mk_print_eng.asp?mk_individual_id_t=954"
@@ -105743,11 +106047,20 @@
     {
       "birth_date": "1938-03-26",
       "gender": "male",
+      "given_name": "Yitzhak",
       "id": "5f7f747b-bff5-40fd-8404-d5b398bd379f",
       "identifiers": [
         {
           "identifier": "163",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/04jc95z",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q2907019",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.knesset.gov.il/mk/images/members/peretz_yizhak.jpg",
@@ -105756,7 +106069,89 @@
           "url": "http://www.knesset.gov.il/mk/images/members/peretz_yizhak.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (cs)",
+          "url": "https://cs.wikipedia.org/wiki/Jicchak_Perec_(1938)"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Jitzchak_Chaim_Peretz"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Yitzhak_Peretz_(politician_born_1938)"
+        },
+        {
+          "note": "Wikipedia (he)",
+          "url": "https://he.wikipedia.org/wiki/יצחק_חיים_פרץ"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Jicchak_Perec_(ur._1938)"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Перец,_Ицхак"
+        }
+      ],
       "name": "Yitzhak Haim Peretz",
+      "other_names": [
+        {
+          "name": "יצחק חיים פרץ",
+          "note": "alternate"
+        },
+        {
+          "lang": "cs",
+          "name": "Jicchak Perec",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Jitzchak Chaim Peretz",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Yitzhak Peretz",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Yitzhak Peretz",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Yitzhak Peretz",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "יצחק חיים פרץ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Yitzhak Peretz",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Yitzhak Peretz",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Jicchak Perec",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Перец, Ицхак",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.knesset.gov.il/mk/eng/mk_print_eng.asp?mk_individual_id_t=163"
@@ -106561,22 +106956,10 @@
         {
           "note": "Wikipedia (he)",
           "url": "https://he.wikipedia.org/wiki/יצחק_פרץ_(חבר_הכנסת)"
-        },
-        {
-          "note": "Wikipedia (pl)",
-          "url": "https://pl.wikipedia.org/wiki/Jicchak_Perec_(ur._1938)"
-        },
-        {
-          "note": "Wikipedia (ru)",
-          "url": "https://ru.wikipedia.org/wiki/Перец,_Ицхак"
         }
       ],
       "name": "Yitzhak Peretz",
       "other_names": [
-        {
-          "name": "יצחק חיים פרץ",
-          "note": "alternate"
-        },
         {
           "name": "יצחק פרץ",
           "note": "alternate"
@@ -106639,16 +107022,6 @@
         {
           "lang": "nl",
           "name": "Yitzhak Peretz",
-          "note": "multilingual"
-        },
-        {
-          "lang": "pl",
-          "name": "Jicchak Perec",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ru",
-          "name": "Перец, Ицхак",
           "note": "multilingual"
         }
       ],
@@ -118431,11 +118804,6 @@
     },
     {
       "classification": "party",
-      "id": "party/joint_arab_list_(hadash,_raam,_balad,_taal)",
-      "name": "Joint Arab List (Hadash, Raam, Balad, Taal)"
-    },
-    {
-      "classification": "party",
       "id": "party/joint_list_(hadash,_raam,_balad,_taal)",
       "name": "Joint List (Hadash, Raam, Balad, Taal)"
     },
@@ -118998,13 +119366,6 @@
     {
       "legislative_period_id": "term/19",
       "on_behalf_of_id": "party/national_democratic_assembly",
-      "organization_id": "legislature",
-      "person_id": "003fa457-30d1-4d8b-b141-56e16d1ee2b1",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/20",
-      "on_behalf_of_id": "party/joint_arab_list_(hadash,_raam,_balad,_taal)",
       "organization_id": "legislature",
       "person_id": "003fa457-30d1-4d8b-b141-56e16d1ee2b1",
       "role": "member"
@@ -120355,13 +120716,6 @@
     },
     {
       "legislative_period_id": "term/20",
-      "on_behalf_of_id": "party/joint_arab_list_(hadash,_raam,_balad,_taal)",
-      "organization_id": "legislature",
-      "person_id": "12cdba27-ce97-4805-a3c2-83083f10a64f",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/20",
       "on_behalf_of_id": "party/joint_list_(hadash,_raam,_balad,_taal)",
       "organization_id": "legislature",
       "person_id": "12cdba27-ce97-4805-a3c2-83083f10a64f",
@@ -120545,13 +120899,6 @@
     },
     {
       "legislative_period_id": "term/20",
-      "on_behalf_of_id": "party/joint_arab_list_(hadash,_raam,_balad,_taal)",
-      "organization_id": "legislature",
-      "person_id": "14f2743c-005c-491e-86ba-2ca30b54bfc6",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/20",
       "on_behalf_of_id": "party/joint_list_(hadash,_raam,_balad,_taal)",
       "organization_id": "legislature",
       "person_id": "14f2743c-005c-491e-86ba-2ca30b54bfc6",
@@ -120591,13 +120938,6 @@
       "on_behalf_of_id": "party/worker’s_party_of_eretz_yisrael",
       "organization_id": "legislature",
       "person_id": "151dab44-ee8b-44b9-9317-b58341a4a815",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/20",
-      "on_behalf_of_id": "party/joint_arab_list_(hadash,_raam,_balad,_taal)",
-      "organization_id": "legislature",
-      "person_id": "1521cb50-9370-49dd-be85-8a80b4ac48b3",
       "role": "member"
     },
     {
@@ -122518,13 +122858,6 @@
     },
     {
       "legislative_period_id": "term/20",
-      "on_behalf_of_id": "party/joint_arab_list_(hadash,_raam,_balad,_taal)",
-      "organization_id": "legislature",
-      "person_id": "2e4d758f-cf44-4eea-bcbd-6eb1cc2cb62c",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/20",
       "on_behalf_of_id": "party/joint_list_(hadash,_raam,_balad,_taal)",
       "organization_id": "legislature",
       "person_id": "2e4d758f-cf44-4eea-bcbd-6eb1cc2cb62c",
@@ -123489,13 +123822,6 @@
       "on_behalf_of_id": "party/yesh_atid",
       "organization_id": "legislature",
       "person_id": "388bcc2d-55b5-4975-b794-a17fd574f256",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/20",
-      "on_behalf_of_id": "party/joint_arab_list_(hadash,_raam,_balad,_taal)",
-      "organization_id": "legislature",
-      "person_id": "38c0173b-42c4-4198-b665-e143bcca4fe8",
       "role": "member"
     },
     {
@@ -124793,7 +125119,6 @@
       "role": "member"
     },
     {
-      "end_date": "2016-01-29",
       "legislative_period_id": "term/20",
       "on_behalf_of_id": "party/kulanu_chaired_by_moshe_kahlon",
       "organization_id": "legislature",
@@ -125273,13 +125598,6 @@
     {
       "legislative_period_id": "term/19",
       "on_behalf_of_id": "party/hadash",
-      "organization_id": "legislature",
-      "person_id": "4ec7ad28-ea05-4e1f-b1a0-700d37b5f38b",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/20",
-      "on_behalf_of_id": "party/joint_arab_list_(hadash,_raam,_balad,_taal)",
       "organization_id": "legislature",
       "person_id": "4ec7ad28-ea05-4e1f-b1a0-700d37b5f38b",
       "role": "member"
@@ -126825,13 +127143,6 @@
     },
     {
       "legislative_period_id": "term/20",
-      "on_behalf_of_id": "party/joint_arab_list_(hadash,_raam,_balad,_taal)",
-      "organization_id": "legislature",
-      "person_id": "63b1e744-9fab-49d1-a28f-c2abdb72618b",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/20",
       "on_behalf_of_id": "party/joint_list_(hadash,_raam,_balad,_taal)",
       "organization_id": "legislature",
       "person_id": "63b1e744-9fab-49d1-a28f-c2abdb72618b",
@@ -127041,13 +127352,6 @@
       "on_behalf_of_id": "party/kadima",
       "organization_id": "legislature",
       "person_id": "64d90270-5fcc-4ce1-a8c6-04ffd07e96a4",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/",
-      "on_behalf_of_id": "party/unknown",
-      "organization_id": "legislature",
-      "person_id": "65511d0b-03f5-498b-984d-c21cb6b2d487",
       "role": "member"
     },
     {
@@ -129525,13 +129829,6 @@
     },
     {
       "legislative_period_id": "term/20",
-      "on_behalf_of_id": "party/joint_arab_list_(hadash,_raam,_balad,_taal)",
-      "organization_id": "legislature",
-      "person_id": "8486bb69-cf60-4d63-9034-864df3973597",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/20",
       "on_behalf_of_id": "party/joint_list_(hadash,_raam,_balad,_taal)",
       "organization_id": "legislature",
       "person_id": "8486bb69-cf60-4d63-9034-864df3973597",
@@ -129807,13 +130104,6 @@
       "on_behalf_of_id": "party/alignment",
       "organization_id": "legislature",
       "person_id": "889d7f92-8987-4713-af5e-553626a0c339",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/20",
-      "on_behalf_of_id": "party/joint_arab_list_(hadash,_raam,_balad,_taal)",
-      "organization_id": "legislature",
-      "person_id": "8928b97b-77ed-46da-aa3f-7c8d7f193d3a",
       "role": "member"
     },
     {
@@ -130655,13 +130945,6 @@
     {
       "legislative_period_id": "term/19",
       "on_behalf_of_id": "party/national_democratic_assembly",
-      "organization_id": "legislature",
-      "person_id": "96b684de-8474-4245-bdc3-3696e6e854f8",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/20",
-      "on_behalf_of_id": "party/joint_arab_list_(hadash,_raam,_balad,_taal)",
       "organization_id": "legislature",
       "person_id": "96b684de-8474-4245-bdc3-3696e6e854f8",
       "role": "member"
@@ -132576,13 +132859,6 @@
     {
       "legislative_period_id": "term/19",
       "on_behalf_of_id": "party/national_democratic_assembly",
-      "organization_id": "legislature",
-      "person_id": "b236e79e-b076-4887-ad8c-de84939836bb",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/20",
-      "on_behalf_of_id": "party/joint_arab_list_(hadash,_raam,_balad,_taal)",
       "organization_id": "legislature",
       "person_id": "b236e79e-b076-4887-ad8c-de84939836bb",
       "role": "member"
@@ -135517,13 +135793,6 @@
     },
     {
       "legislative_period_id": "term/20",
-      "on_behalf_of_id": "party/joint_arab_list_(hadash,_raam,_balad,_taal)",
-      "organization_id": "legislature",
-      "person_id": "dd235a14-5134-47fd-8f20-de5a04378654",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/20",
       "on_behalf_of_id": "party/joint_list_(hadash,_raam,_balad,_taal)",
       "organization_id": "legislature",
       "person_id": "dd235a14-5134-47fd-8f20-de5a04378654",
@@ -138181,17 +138450,11 @@
     },
     {
       "classification": "legislative period",
+      "end_date": "2016-01-29",
       "id": "term/20",
       "name": "Knesset 20",
       "organization_id": "legislature",
       "start_date": "2015-03-31"
-    },
-    {
-      "classification": "legislative period",
-      "id": "term/",
-      "name": "Knesset ",
-      "organization_id": "legislature",
-      "start_date": "2015-12-06"
     }
   ],
   "areas": [
