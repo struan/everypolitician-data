@@ -5,9 +5,9 @@
       "create": {
         "type": "morph",
         "scraper": "tmtmtmtm/jamaica-representatives-wikipedia",
-        "query": "SELECT * FROM data"
+        "query": "SELECT *, NULL as source FROM data ORDER BY name, term"
       },
-      "source": "https://en.wikipedia.org/wiki/Constituencies_of_Jamaica",
+      "source": "https://en.wikipedia.org/",
       "type": "membership"
     },
     {
