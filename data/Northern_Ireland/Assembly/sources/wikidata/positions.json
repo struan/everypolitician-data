@@ -195,6 +195,14 @@
         "P1365": "David Trimble",
         "P1366": "Peter Robinson"
       }
+    },
+    {
+      "id": "Q23641306",
+      "label": "Leader of the Democratic Unionist Party",
+      "qualifiers": {
+        "P580": "1971-09-30",
+        "P582": "2008-05-31"
+      }
     }
   ],
   "Q4685214": [
@@ -358,6 +366,14 @@
       "label": "First Minister of Northern Ireland",
       "qualifiers": {
         "P580": "2016-01-11",
+        "P1365": "Peter Robinson"
+      }
+    },
+    {
+      "id": "Q23641306",
+      "label": "Leader of the Democratic Unionist Party",
+      "qualifiers": {
+        "P580": "2015-12-17",
         "P1365": "Peter Robinson"
       }
     }
@@ -589,8 +605,8 @@
   ],
   "Q241830": [
     {
-      "id": "Q1817613",
-      "label": "Progressive Unionist Party",
+      "id": "Q23641304",
+      "label": "Leader of the Progressive Unionist Party",
       "qualifiers": {
         "P580": "2002",
         "P582": "2007",
@@ -1199,6 +1215,10 @@
     {
       "id": "Q3272410",
       "label": "Member of the Legislative Assembly of Northern Ireland"
+    },
+    {
+      "id": "Q23641304",
+      "label": "Leader of the Progressive Unionist Party"
     }
   ],
   "Q5257276": [
@@ -1356,6 +1376,14 @@
     {
       "id": "Q3272410",
       "label": "Member of the Legislative Assembly of Northern Ireland"
+    },
+    {
+      "id": "Q23641308",
+      "label": "Leader of the Alliance Party of Northern Ireland",
+      "qualifiers": {
+        "P580": "2001",
+        "P1365": "Seán Neeson"
+      }
     }
   ],
   "Q7184061": [
@@ -1420,6 +1448,10 @@
     {
       "id": "Q3272410",
       "label": "Member of the Legislative Assembly of Northern Ireland"
+    },
+    {
+      "id": "Q23641304",
+      "label": "Leader of the Progressive Unionist Party"
     }
   ],
   "Q5149523": [
@@ -1682,6 +1714,16 @@
     {
       "id": "Q18952564",
       "label": "Member of the House of Lords"
+    },
+    {
+      "id": "Q23641308",
+      "label": "Leader of the Alliance Party of Northern Ireland",
+      "qualifiers": {
+        "P580": "1987",
+        "P582": "1998",
+        "P1365": "John Cushnahan",
+        "P1366": "Seán Neeson"
+      }
     }
   ],
   "Q5052017": [
@@ -1792,10 +1834,11 @@
   ],
   "Q333036": [
     {
-      "id": "Q215519",
-      "label": "Democratic Unionist Party",
+      "id": "Q23641306",
+      "label": "Leader of the Democratic Unionist Party",
       "qualifiers": {
-        "P580": "2008-05-31"
+        "P580": "2008-05-31",
+        "P582": "2015-12-17"
       }
     },
     {
@@ -2125,8 +2168,14 @@
   ],
   "Q7459580": [
     {
-      "id": "Q244927",
-      "label": "Alliance Party of Northern Ireland"
+      "id": "Q23641308",
+      "label": "Leader of the Alliance Party of Northern Ireland",
+      "qualifiers": {
+        "P580": "1998",
+        "P582": "2001",
+        "P1365": "John Alderdice, Baron Alderdice",
+        "P1366": "David Ford"
+      }
     },
     {
       "id": "Q3272410",
