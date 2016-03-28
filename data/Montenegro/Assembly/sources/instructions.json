@@ -24,7 +24,7 @@
         "existing_field": "name",
         "reconciliation_file": "reconciliation/wikidata.csv"
       }
-    },  
+    },
     {
       "file": "morph/terms.csv",
       "type": "term",
@@ -49,6 +49,14 @@
       "create": {
         "type": "group-wikidata",
         "source": "manual/group_wikidata.csv"
+      }
+    },
+    {
+      "file": "wikidata/positions.json",
+      "type": "wikidata-positions",
+      "create": {
+        "type": "wikidata-raw",
+        "source": "reconciliation/wikidata.csv"
       }
     }
   ]
