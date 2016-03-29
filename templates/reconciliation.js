@@ -250,6 +250,18 @@ jQuery(function($) {
     var incomingPersonFields = _.filter(Object.keys(incomingPerson), function(field) {
       return incomingPerson[field];
     });
+    var existingPeopleFields = _.uniq(_.flatten(match.existing.map(function(existing) {
+      var person = existing[0];
+      return Object.keys(person);
+    })));
+    var commonFields = _.intersection(incomingPersonFields, existingPeopleFields);
+
+    var incomingPersonHTML = renderTemplate('incomingPerson', {
+      person: incomingPerson,
+      h1_name: incomingPerson[window.incomingField],
+      fields: commonFields,
+      names: _.uniq(_.map(_.filter(incomingPersonFields, function(f) { return f.includes('name__') }), function(f) { return incomingPerson[f] })).sort()
+    });
 
     var existingPersonHTML = _.map(match.existing, function(existing) {
       var person = existing[0];
@@ -271,20 +283,6 @@ jQuery(function($) {
         compare_with: incomingPerson,
         fields: fields
       });
-    });
-
-    var fields = match.existing.map(function(existing) {
-      var person = existing[0];
-      return Object.keys(person);
-    });
-
-    var commonFields = _.intersection(incomingPersonFields, _.uniq(_.flatten(fields)));
-
-    var incomingPersonHTML = renderTemplate('incomingPerson', {
-      person: incomingPerson,
-      h1_name: incomingPerson[window.incomingField],
-      fields: commonFields,
-      names: _.uniq(_.map(_.filter(incomingPersonFields, function(f) { return f.includes('name__') }), function(f) { return incomingPerson[f] })).sort()
     });
 
     var html = renderTemplate('pairing', {
