@@ -140,6 +140,10 @@ module Source
     def is_bios?
       true
     end
+
+    def fields
+      super << :identifier__wikidata
+    end
   end
 
   class OCD < CSV

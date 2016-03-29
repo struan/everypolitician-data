@@ -106,10 +106,6 @@ namespace :merge_sources do
     sources.select(&:is_bios?).each do |pd|
       warn "Merging with #{pd.filename}".magenta
 
-      # TODO add this to Source::Wikidata
-      #   calling 'super' in that doesn't currently work as expected
-      all_headers |= [:identifier__wikidata] if pd.i(:type) == 'wikidata'
-
       incoming_data = pd.as_table
 
       abort "No merge instructions for #{pd.filename}" if (approaches = pd.merge_instructions).empty?
