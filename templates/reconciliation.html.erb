@@ -66,16 +66,7 @@
           </div>
         {% } %}
 
-          {% if (person.matchStrength) { %}
-            <header class="person__meta">
-              <h1>{{ h1_name }}
-                <span class="person__match-strength">{{ person.matchStrength }}% match</span>
-              </h1>
-              <div class="progress-bar"><div style="width: {{ person.matchStrength }}%"></div></div>
-            </header>
-          {% } else { %}
             <h1>{{ h1_name }}</h1>
-          {% } %}
 
             <dl>
             {% if(!person.uuid) { %}
@@ -103,16 +94,12 @@
 
     <script type="text/html" id="existingPerson">
         <div class="person" data-uuid="{{ person.uuid }}">
-          {% if (person.matchStrength) { %}
             <header class="person__meta">
               <h1>{{ h1_name }}
                 <span class="person__match-strength">{{ person.matchStrength }}% match</span>
               </h1>
               <div class="progress-bar"><div style="width: {{ person.matchStrength }}%"></div></div>
             </header>
-          {% } else { %}
-            <h1>{{ h1_name }}</h1>
-          {% } %}
 
             <dl>
             {% if(!person.uuid) { %}
