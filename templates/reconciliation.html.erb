@@ -58,7 +58,61 @@
         </div>
     </script>
 
-    <script type="text/html" id="person">
+    <script type="text/html" id="incomingPerson">
+      {% if(person.uuid){ %}
+        <div class="person" data-uuid="{{ person.uuid }}">
+      {% } else if(person.id){ %}
+        <div class="person" data-id="{{ person.id }}">
+        {% if(person.id.startsWith('Q')) { %}
+          <div style="float:right">
+            <a target="_blank" href="https://tools.wmflabs.org/reasonator/?&q={{ person.id }}">{{ person.id }}</a>
+          </div>
+        {% } %}
+      {% } %}
+          {% if (person.matchStrength) { %}
+            <header class="person__meta">
+              <h1>{{ h1_name }}
+                <span class="person__match-strength">{{ person.matchStrength }}% match</span>
+              </h1>
+              <div class="progress-bar"><div style="width: {{ person.matchStrength }}%"></div></div>
+            </header>
+          {% } else { %}
+            <h1>{{ h1_name }}</h1>
+          {% } %}
+
+            <dl>
+            {% if(!person.uuid) { %}
+              <dt title="Names">Names:</dt>
+              {% names.forEach(function(name) { %}
+                <dd>{{ name }}</dd>
+              {% }) %}
+            {% } %}
+
+              {% fields.forEach(function(field) { %}
+                {% if(field !== 'id' && field !== 'name' && person[field]){ %}
+                  <dt title="{{ field }}">{{ field }}:</dt>
+                  <dd>
+                  {% if (field == 'image') { %}
+                    <img src="{{ person[field] }}" width="150">
+                  {% } else { %}
+                    {% if (comparison) { %} 
+                      {% if (comparison[field] == person[field]) { %} 
+                        <span class="match">{{ person[field] }}</span>
+                      {% } else { %}
+                        <span class="nomatch">{{ person[field] }}</span>
+                      {% } %}
+                    {% } else { %}
+                      {{ person[field] }} 
+                    {% } %}
+                  {% } %}
+                  </dd>
+                {% } %}
+              {% }) %}
+            </dl>
+        </div>
+    </script>
+
+    <script type="text/html" id="existingPerson">
       {% if(person.uuid){ %}
         <div class="person" data-uuid="{{ person.uuid }}">
       {% } else if(person.id){ %}

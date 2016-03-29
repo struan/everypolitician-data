@@ -265,7 +265,7 @@ jQuery(function($) {
         }
       }).join(" ");
 
-      return renderTemplate('person', {
+      return renderTemplate('existingPerson', {
         person: person,
         h1_name: markedName,
         comparison: incomingPerson,
@@ -282,7 +282,7 @@ jQuery(function($) {
 
     var html = renderTemplate('pairing', {
       existingPersonHTML: existingPersonHTML.join("\n"),
-      incomingPersonHTML: renderTemplate('person', {
+      incomingPersonHTML: renderTemplate('incomingPerson', {
         person: incomingPerson,
         h1_name: incomingPerson[window.incomingField],
         comparison: null,
