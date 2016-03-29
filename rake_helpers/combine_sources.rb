@@ -59,7 +59,7 @@ namespace :merge_sources do
       raise "Missing `type` in #{no_type} file"
     end
 
-    sources = instructions(:sources).map { |s| Source.instantiate(s) }
+    sources = instructions(:sources).map { |s| Source::Base.instantiate(s) }
     all_headers = (%i(id uuid) + sources.map { |s| s.fields }).flatten.uniq
 
     merged_rows = []
@@ -105,10 +105,6 @@ namespace :merge_sources do
 
     sources.select(&:is_bios?).each do |pd|
       warn "Merging with #{pd.filename}".magenta
-
-      # TODO add this to Source::Wikidata
-      #   calling 'super' in that doesn't currently work as expected
-      all_headers |= [:identifier__wikidata] if pd.i(:type) == 'wikidata'
 
       incoming_data = pd.as_table
 
