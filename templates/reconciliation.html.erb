@@ -69,12 +69,10 @@
             <h1>{{ h1_name }}</h1>
 
             <dl>
-            {% if(!person.uuid) { %}
               <dt title="Names">Names:</dt>
               {% names.forEach(function(name) { %}
                 <dd>{{ name }}</dd>
               {% }) %}
-            {% } %}
 
               {% fields.forEach(function(field) { %}
                 {% if(field !== 'id' && field !== 'name' && person[field]){ %}
@@ -102,12 +100,6 @@
             </header>
 
             <dl>
-            {% if(!person.uuid) { %}
-              <dt title="Names">Names:</dt>
-              {% names.forEach(function(name) { %}
-                <dd>{{ name }}</dd>
-              {% }) %}
-            {% } %}
 
               {% fields.forEach(function(field) { %}
                 {% if(field !== 'id' && field !== 'name' && person[field]){ %}
