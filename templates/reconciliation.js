@@ -285,11 +285,13 @@ jQuery(function($) {
       });
     });
 
-    var html = renderTemplate('pairing', {
-      incomingPersonHTML: incomingPersonHTML,
-      existingPersonHTML: existingPersonHTML.join("\n"),
-    });
-    $('.pairings').append(html);
+    $('.pairings').append(
+      renderTemplate('pairing', {
+        incomingPersonHTML: incomingPersonHTML,
+        existingPersonHTML: existingPersonHTML.join("\n")
+      })
+    );
+
   });
 
   $(document).on('click', '.pairing__choices > div', function(){
