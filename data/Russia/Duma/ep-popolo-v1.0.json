@@ -1833,6 +1833,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "a7c8363b-1db5-48bb-a3f0-5d646ecd8634",
       "image": "http://www.duma.gov.ru/upload/iblock/539/5390cea04868d984b5938aadcb19c25d.jpg",
       "images": [
@@ -11917,6 +11918,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "773624f9-08de-4383-bafa-d81279f9a66d",
       "image": "http://www.duma.gov.ru/upload/iblock/b1c/b1c09a6885457405468f1471656454eb.jpg",
       "images": [
@@ -12681,6 +12683,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "ed5b7bf6-b18c-408c-a44d-a4a0294412d2",
       "image": "http://www.duma.gov.ru/upload/iblock/60a/60a40fa1884a5c4ebcf65da00dc234b0.jpg",
       "images": [
@@ -15970,6 +15973,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "756acd9b-791d-47b6-9858-e0d49d2e689d",
       "image": "http://www.duma.gov.ru/upload/iblock/e7f/e7f9c4a7915f56af9efcad0f8a87047a.jpg",
       "images": [
@@ -19374,6 +19378,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "227cbb07-3c4d-4305-a7ae-21a8a006c398",
       "image": "http://www.duma.gov.ru/upload/iblock/0c1/0c15ee578b956045d1ff4699cbd83b4d.jpg",
       "images": [
@@ -20416,6 +20421,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ba",
+          "name": "Роднина Ирина Константиновна",
+          "note": "multilingual"
+        },
+        {
           "lang": "be",
           "name": "Ірына Канстанцінаўна Радніна",
           "note": "multilingual"
@@ -20573,6 +20583,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "ea6e3e5a-dae6-4d53-a9f5-d252228dabd3",
       "image": "http://www.duma.gov.ru/upload/iblock/838/8387938f7c626ee3b1e44fae5231dcfa.jpg",
       "images": [
@@ -23856,6 +23867,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "4caeb56c-1521-4aaa-bf3c-7f8b4bd25678",
       "image": "http://www.duma.gov.ru/upload/iblock/272/27228662adcc7552dc1c0c0dbc3079b3.jpg",
       "images": [
@@ -23999,6 +24011,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "85819fc7-a96f-4248-befe-00fdb0fc552b",
       "image": "http://www.duma.gov.ru/upload/iblock/fd7/fd707025d108c9564d68225c155f5d7a.jpg",
       "images": [
@@ -25299,6 +25312,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "f0cad57f-b05e-4c40-a779-ce2331612fcc",
       "image": "http://www.duma.gov.ru/upload/iblock/bd4/bd4c859505d5fef73bd867c5206fd5c0.jpg",
       "images": [
@@ -25374,6 +25388,10 @@
         {
           "note": "Wikipedia (ar)",
           "url": "https://ar.wikipedia.org/wiki/فلاديسلاف_تريتياك"
+        },
+        {
+          "note": "Wikipedia (ba)",
+          "url": "https://ba.wikipedia.org/wiki/Третьяк_Владислав_Александрович"
         },
         {
           "note": "Wikipedia (be)",
@@ -25771,6 +25789,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "ba1f2528-f2c8-4fec-aab8-b815b79dd040",
       "image": "http://www.duma.gov.ru/upload/iblock/67b/67bac71437ffb20cdfeccba60d5bd4d8.jpg",
       "images": [
@@ -27050,6 +27069,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "cd11f9e1-3aab-4b18-82d7-7344ba4b5c63",
       "image": "http://www.duma.gov.ru/upload/iblock/e7c/e7c0fb31b1556a89757e8c150ea6f599.jpg",
       "images": [
@@ -27088,7 +27108,6 @@
     },
     {
       "birth_date": "1944-10-24",
-      "family_name": "Q18279836",
       "gender": "male",
       "given_name": "Valery",
       "id": "b0ed3ec3-27cc-44a3-b815-7836770b729a",
@@ -27100,6 +27119,10 @@
         {
           "identifier": "131332",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "23329367",
+          "scheme": "viaf"
         },
         {
           "identifier": "Q4512985",
