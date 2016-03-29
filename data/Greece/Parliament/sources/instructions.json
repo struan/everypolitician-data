@@ -11,6 +11,20 @@
       "type": "membership"
     },
     {
+      "file": "morph/official-bios.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/hellenic-parliament-bio",
+        "query": "SELECT * FROM data ORDER BY id"
+      },
+      "source": "http://www.hellenicparliament.gr",
+      "type": "person",
+      "merge": {
+        "incoming_field": "id",
+        "existing_field": "id"
+      }
+    },
+    {
       "file": "morph/terms.csv",
       "type": "term",
       "create": {
