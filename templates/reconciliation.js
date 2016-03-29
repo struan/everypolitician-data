@@ -280,14 +280,16 @@ jQuery(function($) {
 
     var commonFields = _.intersection(incomingPersonFields, _.uniq(_.flatten(fields)));
 
+    var incomingPersonHTML = renderTemplate('incomingPerson', {
+      person: incomingPerson,
+      h1_name: incomingPerson[window.incomingField],
+      fields: commonFields,
+      names: _.uniq(_.map(_.filter(incomingPersonFields, function(f) { return f.includes('name__') }), function(f) { return incomingPerson[f] })).sort()
+    });
+
     var html = renderTemplate('pairing', {
+      incomingPersonHTML: incomingPersonHTML,
       existingPersonHTML: existingPersonHTML.join("\n"),
-      incomingPersonHTML: renderTemplate('incomingPerson', {
-        person: incomingPerson,
-        h1_name: incomingPerson[window.incomingField],
-        fields: commonFields,
-        names: _.uniq(_.map(_.filter(incomingPersonFields, function(f) { return f.includes('name__') }), function(f) { return incomingPerson[f] })).sort()
-      })
     });
     $('.pairings').append(html);
   });
