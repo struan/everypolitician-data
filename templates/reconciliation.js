@@ -268,7 +268,7 @@ jQuery(function($) {
       return renderTemplate('existingPerson', {
         person: person,
         h1_name: markedName,
-        comparison: incomingPerson,
+        compare_with: incomingPerson,
         fields: fields
       });
     });
@@ -285,7 +285,6 @@ jQuery(function($) {
       incomingPersonHTML: renderTemplate('incomingPerson', {
         person: incomingPerson,
         h1_name: incomingPerson[window.incomingField],
-        comparison: null,
         fields: commonFields,
         names: _.uniq(_.map(_.filter(incomingPersonFields, function(f) { return f.includes('name__') }), function(f) { return incomingPerson[f] })).sort()
       })
