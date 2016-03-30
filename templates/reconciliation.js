@@ -250,6 +250,18 @@ jQuery(function($) {
     var incomingPersonFields = _.filter(Object.keys(incomingPerson), function(field) {
       return incomingPerson[field];
     });
+    var existingPeopleFields = _.uniq(_.flatten(match.existing.map(function(existing) {
+      var person = existing[0];
+      return Object.keys(person);
+    })));
+    var commonFields = _.intersection(incomingPersonFields, existingPeopleFields);
+
+    var incomingPersonHTML = renderTemplate('incomingPerson', {
+      person: incomingPerson,
+      h1_name: incomingPerson[window.incomingField],
+      fields: commonFields,
+      names: _.uniq(_.map(_.filter(incomingPersonFields, function(f) { return f.includes('name__') }), function(f) { return incomingPerson[f] })).sort()
+    });
 
     var existingPersonHTML = _.map(match.existing, function(existing) {
       var person = existing[0];
@@ -265,32 +277,21 @@ jQuery(function($) {
         }
       }).join(" ");
 
-      return renderTemplate('person', {
+      return renderTemplate('existingPerson', {
         person: person,
         h1_name: markedName,
-        comparison: incomingPerson,
+        compare_with: incomingPerson,
         fields: fields
       });
     });
 
-    var fields = match.existing.map(function(existing) {
-      var person = existing[0];
-      return Object.keys(person);
-    });
-
-    var commonFields = _.intersection(incomingPersonFields, _.uniq(_.flatten(fields)));
-
-    var html = renderTemplate('pairing', {
-      existingPersonHTML: existingPersonHTML.join("\n"),
-      incomingPersonHTML: renderTemplate('person', {
-        person: incomingPerson,
-        h1_name: incomingPerson[window.incomingField],
-        comparison: null,
-        fields: commonFields,
-        names: _.uniq(_.map(_.filter(incomingPersonFields, function(f) { return f.includes('name__') }), function(f) { return incomingPerson[f] })).sort()
+    $('.pairings').append(
+      renderTemplate('pairing', {
+        incomingPersonHTML: incomingPersonHTML,
+        existingPersonHTML: existingPersonHTML.join("\n")
       })
-    });
-    $('.pairings').append(html);
+    );
+
   });
 
   $(document).on('click', '.pairing__choices > div', function(){
