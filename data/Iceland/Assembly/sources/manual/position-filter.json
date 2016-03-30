@@ -19,6 +19,10 @@
     ],
     "executive": [
       {
+        "id": "Q12351697",
+        "name": "Minister of Education, Science and Culture"
+      },
+      {
         "id": "Q17278719",
         "name": "Minister of Finance"
       },
@@ -33,6 +37,10 @@
       {
         "id": "Q17278720",
         "name": "Minister of Industry and Commerce"
+      },
+      {
+        "id": "Q17013941",
+        "name": "Minister of Justice and Ecclesiastical Affairs"
       },
       {
         "id": "Q6866420",
@@ -87,16 +95,7 @@
   },
   "unknown": {
     "unknown": [
-      {
-        "id": "Q12351697",
-        "name": "Minister of Education, Science and Culture",
-        "count": 1
-      },
-      {
-        "id": "Q17013941",
-        "name": "Minister of Justice and Ecclesiastical Affairs",
-        "count": 2
-      }
+
     ]
   }
 }
