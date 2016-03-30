@@ -30956,10 +30956,16 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/32/Pilar_Alegría_2015_(cropped).jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Pilar_Alegría_2015_(cropped).jpg"
+        }
+      ],
       "links": [
         {
           "note": "Wikipedia (es)",
-          "url": "https://es.wikipedia.org/wiki/Pilar_Alegría_Continente"
+          "url": "https://es.wikipedia.org/wiki/Pilar_Alegría"
         },
         {
           "note": "twitter",
@@ -34715,7 +34721,7 @@
       "name": "Mónica Lafuente de la Torre",
       "other_names": [
         {
-          "name": "Mònica Lafuente de la Torre",
+          "name": "Monica Lafuente",
           "note": "alternate"
         },
         {
@@ -34726,6 +34732,11 @@
         {
           "lang": "en",
           "name": "Mònica Lafuente de la Torre",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Monica Lafuente",
           "note": "multilingual"
         },
         {
@@ -38370,6 +38381,10 @@
         {
           "note": "Wikipedia (ca)",
           "url": "https://ca.wikipedia.org/wiki/Ramón_Jáuregui_Atondo"
+        },
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Ramón_Jáuregui"
         },
         {
           "note": "Wikipedia (de)",
@@ -44891,6 +44906,11 @@
     },
     {
       "classification": "party",
+      "id": "GP-EC-EM",
+      "name": "G.P. Podemos-En Comú Podem-En Marea"
+    },
+    {
+      "classification": "party",
       "id": "GP",
       "name": "G.P. Popular"
     },
@@ -44908,11 +44928,6 @@
       "classification": "party",
       "id": "8",
       "name": "GB"
-    },
-    {
-      "classification": "party",
-      "id": "GP-EC-EM",
-      "name": "Grupo Parlamentario Podemos-En Comú Podem-En Marea"
     },
     {
       "classification": "party",
