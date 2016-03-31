@@ -3859,13 +3859,19 @@
       "patronymic_name": "Іванович"
     },
     {
+      "birth_date": "1962-04-14",
       "family_name": "Бригинець",
+      "gender": "male",
       "given_name": "Олександр",
       "id": "fbeefcbe-d99f-40b9-bcb8-a10610ee9c39",
       "identifiers": [
         {
           "identifier": "15838",
           "scheme": "rada"
+        },
+        {
+          "identifier": "Q4096456",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://static.rada.gov.ua/dep_img8/bp75.jpg",
@@ -3874,7 +3880,33 @@
           "url": "http://static.rada.gov.ua/dep_img8/bp75.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Alexander_Briginets"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Бригинец,_Александр_Михайлович"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Бригинець_Олександр_Михайлович"
+        }
+      ],
       "name": "Бригинець Олександр Михайлович",
+      "other_names": [
+        {
+          "lang": "ru",
+          "name": "Бригинец, Александр Михайлович",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Бригинець Олександр Михайлович",
+          "note": "multilingual"
+        }
+      ],
       "patronymic_name": "Михайлович"
     },
     {
@@ -18347,6 +18379,7 @@
       "patronymic_name": "Владиславович"
     },
     {
+      "birth_date": "1950-09-13",
       "family_name": "Німченко",
       "gender": "male",
       "given_name": "Василь",
@@ -18359,6 +18392,10 @@
         {
           "identifier": "18037",
           "scheme": "rada"
+        },
+        {
+          "identifier": "Q23636120",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://static.rada.gov.ua/dep_img8/ob25.jpg",
@@ -18367,7 +18404,25 @@
           "url": "http://static.rada.gov.ua/dep_img8/ob25.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Німченко_Василь_Іванович"
+        }
+      ],
       "name": "Німченко Василь Іванович",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Vasily Nimchenko",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Німченко Василь Іванович",
+          "note": "multilingual"
+        }
+      ],
       "patronymic_name": "Іванович"
     },
     {
