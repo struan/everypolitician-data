@@ -1716,12 +1716,17 @@
       ]
     },
     {
+      "birth_date": "1970-07-12",
       "gender": "male",
       "id": "7c2903ad-a635-40e0-b490-bae247031f17",
       "identifiers": [
         {
           "identifier": "140754",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q21091702",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.duma.gov.ru/upload/iblock/4f0/4f03b6119a3c0403e64e0bb6502b4631.jpg",
@@ -1730,7 +1735,20 @@
           "url": "http://www.duma.gov.ru/upload/iblock/4f0/4f03b6119a3c0403e64e0bb6502b4631.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Аскендеров,_Заур_Асевович"
+        }
+      ],
       "name": "Аскендеров Заур Асевович",
+      "other_names": [
+        {
+          "lang": "ru",
+          "name": "Аскендеров Заур Асевович",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.duma.gov.ru/structure/deputies/140754/"
@@ -5849,6 +5867,10 @@
         {
           "identifier": "131491",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q23655907",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.duma.gov.ru/upload/iblock/aed/aed993277dc4a71210cc559cd9c53fe8.jpg",
@@ -5857,7 +5879,24 @@
           "url": "http://www.duma.gov.ru/upload/iblock/aed/aed993277dc4a71210cc559cd9c53fe8.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Демченко,_Иван_Иванович"
+        }
+      ],
       "name": "Демченко Иван Иванович",
+      "other_names": [
+        {
+          "name": "Демченко, Иван Иванович",
+          "note": "alternate"
+        },
+        {
+          "lang": "ru",
+          "name": "Демченко, Иван Иванович",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.duma.gov.ru/structure/deputies/131491/"
@@ -18277,12 +18316,22 @@
       ]
     },
     {
+      "birth_date": "1958-05-21",
       "gender": "male",
+      "given_name": "Alexander",
       "id": "dc8425a0-4820-49a7-bbe0-bfcb064cb72a",
       "identifiers": [
         {
+          "identifier": "467",
+          "scheme": "declarator"
+        },
+        {
           "identifier": "131148",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q22976341",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.duma.gov.ru/upload/iblock/540/540c8f0c05db007f3e2ddd58db1ca8a9.jpg",
@@ -18291,7 +18340,33 @@
           "url": "http://www.duma.gov.ru/upload/iblock/540/540c8f0c05db007f3e2ddd58db1ca8a9.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Петров,_Александр_Петрович_(политик)"
+        },
+        {
+          "note": "website",
+          "url": "http://www.petrovgosduma.ru/"
+        }
+      ],
       "name": "Петров Александр Петрович",
+      "other_names": [
+        {
+          "name": "Александр Петров",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Alexander Petrov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Александр Петров",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.duma.gov.ru/structure/deputies/131148/"
