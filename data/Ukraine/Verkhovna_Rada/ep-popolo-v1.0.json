@@ -1025,6 +1025,12 @@
     },
     {
       "birth_date": "1964-01-02",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "AvakovArsen"
+        }
+      ],
       "family_name": "Аваков",
       "gender": "male",
       "given_name": "Арсен",
@@ -1137,6 +1143,10 @@
         {
           "note": "Wikipedia (zh)",
           "url": "https://zh.wikipedia.org/wiki/阿森·阿瓦科夫"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/AvakovArsen"
         },
         {
           "note": "website",
@@ -3849,6 +3859,25 @@
       "patronymic_name": "Іванович"
     },
     {
+      "family_name": "Бригинець",
+      "given_name": "Олександр",
+      "id": "fbeefcbe-d99f-40b9-bcb8-a10610ee9c39",
+      "identifiers": [
+        {
+          "identifier": "15838",
+          "scheme": "rada"
+        }
+      ],
+      "image": "http://static.rada.gov.ua/dep_img8/bp75.jpg",
+      "images": [
+        {
+          "url": "http://static.rada.gov.ua/dep_img8/bp75.jpg"
+        }
+      ],
+      "name": "Бригинець Олександр Михайлович",
+      "patronymic_name": "Михайлович"
+    },
+    {
       "family_name": "Бриченко",
       "gender": "male",
       "given_name": "Ігор",
@@ -4418,6 +4447,25 @@
         }
       ],
       "patronymic_name": "Миколайович"
+    },
+    {
+      "family_name": "Білоцерковець",
+      "given_name": "Дмитро",
+      "id": "1eec8222-1a43-4087-b450-a7ab0c6d3cae",
+      "identifiers": [
+        {
+          "identifier": "16340",
+          "scheme": "rada"
+        }
+      ],
+      "image": "http://static.rada.gov.ua/dep_img8/bp76.jpg",
+      "images": [
+        {
+          "url": "http://static.rada.gov.ua/dep_img8/bp76.jpg"
+        }
+      ],
+      "name": "Білоцерковець Дмитро Олександрович",
+      "patronymic_name": "Олександрович"
     },
     {
       "birth_date": "1973-04-11",
@@ -6672,6 +6720,11 @@
       ],
       "name": "Гройсман Володимир Борисович",
       "other_names": [
+        {
+          "lang": "az",
+          "name": "Vladimir Qroysman",
+          "note": "multilingual"
+        },
         {
           "lang": "be-tarask",
           "name": "Уладзімер Гройсман",
@@ -10242,6 +10295,12 @@
     },
     {
       "birth_date": "1968-06-07",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "KyrylenkoVyach"
+        }
+      ],
       "family_name": "Кириленко",
       "gender": "male",
       "given_name": "В'ячеслав",
@@ -10310,6 +10369,10 @@
         {
           "note": "Wikipedia (zh)",
           "url": "https://zh.wikipedia.org/wiki/維亞切斯拉夫·科里蘭科"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/KyrylenkoVyach"
         }
       ],
       "name": "Кириленко В'ячеслав Анатолійович",
@@ -15207,6 +15270,12 @@
     },
     {
       "birth_date": "1972-03-12",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "OVLiashko"
+        }
+      ],
       "family_name": "Ляшко",
       "gender": "male",
       "given_name": "Олег",
@@ -15299,6 +15368,10 @@
         {
           "note": "Wikipedia (ukwikiquote)",
           "url": "https://ukwikiquote.wikipedia.org/wiki/Ляшко_Олег_Валерійович"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/OVLiashko"
         }
       ],
       "name": "Ляшко Олег Валерійович",
@@ -18560,6 +18633,11 @@
         {
           "lang": "es",
           "name": "Zlata Ognevich",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "زلاتا اوگنویچ",
           "note": "multilingual"
         },
         {
@@ -22226,6 +22304,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "az",
+          "name": "Nadejda Savçenko",
+          "note": "multilingual"
+        },
+        {
           "lang": "be",
           "name": "Надзея Віктараўна Саўчанка",
           "note": "multilingual"
@@ -22263,6 +22346,11 @@
         {
           "lang": "en",
           "name": "Nadiya Savchenko",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Nadija Savĉenko",
           "note": "multilingual"
         },
         {
@@ -22343,6 +22431,11 @@
         {
           "lang": "sv",
           "name": "Nadezjda Savtjenko",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tt",
+          "name": "Nadiä Savçenko",
           "note": "multilingual"
         },
         {
@@ -31695,6 +31788,15 @@
       "role": "member"
     },
     {
+      "area_id": "area/Загальнодержавному_багатомандатному_округу",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "2613",
+      "organization_id": "legislature",
+      "person_id": "1eec8222-1a43-4087-b450-a7ab0c6d3cae",
+      "role": "member",
+      "start_date": "2016-03-29"
+    },
+    {
       "area_id": "117",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "2613",
@@ -32721,12 +32823,32 @@
     },
     {
       "area_id": "167",
+      "end_date": "2016-03-29",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/Позафракційні",
+      "organization_id": "legislature",
+      "person_id": "5e3313a2-01f7-449d-8336-890d973c21e9",
+      "role": "member",
+      "start_date": "2016-01-26"
+    },
+    {
+      "area_id": "167",
+      "end_date": "2016-03-28",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "party/Позафракційні",
       "organization_id": "legislature",
       "person_id": "5e3313a2-01f7-449d-8336-890d973c21e9",
       "role": "member",
       "start_date": "2016-01-27"
+    },
+    {
+      "area_id": "167",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "2613",
+      "organization_id": "legislature",
+      "person_id": "5e3313a2-01f7-449d-8336-890d973c21e9",
+      "role": "member",
+      "start_date": "2016-03-29"
     },
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
@@ -34752,7 +34874,6 @@
     },
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
-      "end_date": "2016-03-17",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "2615",
       "organization_id": "legislature",
@@ -35639,6 +35760,15 @@
       "organization_id": "legislature",
       "person_id": "fbb99a05-f72c-4f28-929e-5f442a1341af",
       "role": "member"
+    },
+    {
+      "area_id": "area/Загальнодержавному_багатомандатному_округу",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "2613",
+      "organization_id": "legislature",
+      "person_id": "fbeefcbe-d99f-40b9-bcb8-a10610ee9c39",
+      "role": "member",
+      "start_date": "2016-03-29"
     },
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
