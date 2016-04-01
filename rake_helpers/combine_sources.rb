@@ -104,7 +104,7 @@ namespace :merge_sources do
         row[:uuid] = id_map[row[:id]] ||= SecureRandom.uuid
 
         # If we don't have a `group_id`, can we generate one from the `group`?
-        if group_names and not row[:group_id]
+        if group_names and row[:group] and not row[:group_id]
           found = group_names.select { |id, ns| ns.include? row[:group].downcase }
           warn_once "  Unknown group: #{row[:group]}" if found.empty?
           warn_once "  Ambiguous group: #{row[:group]}" if found.count > 1
