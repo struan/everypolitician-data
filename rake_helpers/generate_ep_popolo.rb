@@ -89,11 +89,21 @@ namespace :transform do
   end
 
   #---------------------------------------------------------------------
+  # Override memberships with Membership Matrix information
+  #---------------------------------------------------------------------
+  task :write => :membership_matrix
+  task :membership_matrix => :load do
+    sources.find_all { |src| src.type == 'membership_matrix' }.each do |src|
+      @json[:memberships] = src.as_table
+    end
+  end
+
+  #---------------------------------------------------------------------
   # Don't duplicate start/end dates into memberships needlessly
   #   and ensure they're within the term
   #---------------------------------------------------------------------
   task :write => :tidy_memberships
-  task :tidy_memberships => :ensure_term do
+  task :tidy_memberships => :membership_matrix do
     @json[:memberships].each do |m|
       e = @json[:events].find { |e| e[:id] == m[:legislative_period_id] } or abort "#{m[:legislative_period_id]} is not a term"
 
