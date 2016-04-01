@@ -100,8 +100,11 @@ module Source
     def fields 
       []
     end
-  end
 
+    def as_json
+      ::JSON.parse(File.read(filename), symbolize_names: true)
+    end
+  end
 
 
   class Membership < CSV
