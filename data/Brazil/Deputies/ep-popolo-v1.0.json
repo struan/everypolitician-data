@@ -15155,6 +15155,38 @@
       "contact_details": [
         {
           "type": "email",
+          "value": "dep.pedrocunhalima@camara.leg.br"
+        },
+        {
+          "type": "phone",
+          "value": "(61) 3215-5611 - 3215-2611"
+        }
+      ],
+      "email": "dep.pedrocunhalima@camara.leg.br",
+      "id": "27b13a70-2760-4c7e-8d50-9faef25ee293",
+      "identifiers": [
+        {
+          "identifier": "5830538",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.camara.gov.br/internet/deputado/bandep/178912.jpg",
+      "images": [
+        {
+          "url": "http://www.camara.gov.br/internet/deputado/bandep/178912.jpg"
+        }
+      ],
+      "name": "PEDRO CUNHA LIMA",
+      "sources": [
+        {
+          "url": "http://www.camara.gov.br/internet/deputado/Dep_Detalhe.asp?id=5830538"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
           "value": "dep.pedrofernandes@camara.leg.br"
         },
         {
@@ -20475,6 +20507,14 @@
       "on_behalf_of_id": "PPS",
       "organization_id": "legislature",
       "person_id": "2749942c-cb20-4f04-9664-4b75149ff735",
+      "role": "member"
+    },
+    {
+      "area_id": "area/pb",
+      "legislative_period_id": "term/55",
+      "on_behalf_of_id": "PSDB",
+      "organization_id": "legislature",
+      "person_id": "27b13a70-2760-4c7e-8d50-9faef25ee293",
       "role": "member"
     },
     {
