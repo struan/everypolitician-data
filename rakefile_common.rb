@@ -156,6 +156,17 @@ def instructions(key)
   @instructions[key]
 end
 
+def sources
+  @sources ||= begin
+    # Make sure all instructions have a `type`
+    if (no_type = instructions(:sources).find { |src| src[:type].to_s.empty? })
+      raise "Missing `type` in #{no_type} file"
+    end
+
+    instructions(:sources).map { |s| Source::Base.instantiate(s) }
+  end
+end
+
 desc "Rebuild from source data"
 task :rebuild => [ :clobber, 'ep-popolo-v1.0.json' ]
 task :default => :csvs
