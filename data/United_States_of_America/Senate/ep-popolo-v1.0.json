@@ -10,6 +10,10 @@
         {
           "type": "phone",
           "value": "202-224-5641"
+        },
+        {
+          "type": "twitter",
+          "value": "alfranken"
         }
       ],
       "family_name": "Franken",
@@ -276,6 +280,10 @@
         {
           "note": "Wikipedia (zh)",
           "url": "https://zh.wikipedia.org/wiki/艾尔·弗兰肯"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/alfranken"
         },
         {
           "note": "website",
@@ -2633,6 +2641,10 @@
         {
           "type": "phone",
           "value": "202-224-3244"
+        },
+        {
+          "type": "twitter",
+          "value": "amyklobuchar"
         }
       ],
       "family_name": "Klobuchar",
@@ -2827,6 +2839,10 @@
         {
           "note": "Wikipedia (zh)",
           "url": "https://zh.wikipedia.org/wiki/艾米·克罗布彻"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/amyklobuchar"
         },
         {
           "note": "website",
@@ -21070,6 +21086,10 @@
           "scheme": "icpsr"
         },
         {
+          "identifier": "no2012111834",
+          "scheme": "lcauth"
+        },
+        {
           "identifier": "01374",
           "scheme": "thomas"
         },
@@ -25537,6 +25557,11 @@
       "name": "Elizabeth Warren",
       "other_names": [
         {
+          "lang": "ar",
+          "name": "إليزابيث وارن",
+          "note": "multilingual"
+        },
+        {
           "lang": "da",
           "name": "Elizabeth Warren",
           "note": "multilingual"
@@ -27387,6 +27412,10 @@
         {
           "identifier": "125603053",
           "scheme": "bnf"
+        },
+        {
+          "identifier": "biography/Gary-Hart",
+          "scheme": "britannica"
         },
         {
           "identifier": "H000287",
@@ -40494,6 +40523,10 @@
         {
           "type": "phone",
           "value": "202-224-6121"
+        },
+        {
+          "type": "twitter",
+          "value": "JimDeMint"
         }
       ],
       "family_name": "DeMint",
@@ -40664,6 +40697,10 @@
         {
           "note": "Wikipedia (zh)",
           "url": "https://zh.wikipedia.org/wiki/吉姆·德敏特"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/JimDeMint"
         },
         {
           "note": "website",
@@ -41086,6 +41123,10 @@
         {
           "identifier": "29369",
           "scheme": "icpsr"
+        },
+        {
+          "identifier": "no2007135122",
+          "scheme": "lcauth"
         },
         {
           "identifier": "S286",
@@ -46112,6 +46153,10 @@
         {
           "type": "phone",
           "value": "202-224-2742"
+        },
+        {
+          "type": "twitter",
+          "value": "JohnKerry"
         }
       ],
       "family_name": "Kerry",
@@ -46590,6 +46635,10 @@
         {
           "note": "Wikipedia (zh_yue)",
           "url": "https://zh_yue.wikipedia.org/wiki/克里"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/JohnKerry"
         },
         {
           "note": "website",
@@ -62127,6 +62176,12 @@
     },
     {
       "birth_date": "1947-01-26",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "govmarkdayton"
+        }
+      ],
       "family_name": "Dayton",
       "gender": "male",
       "given_name": "Mark",
@@ -62287,6 +62342,10 @@
         {
           "note": "Wikipedia (zh)",
           "url": "https://zh.wikipedia.org/wiki/马克·代顿"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/govmarkdayton"
         },
         {
           "note": "website",
@@ -69471,6 +69530,10 @@
         {
           "note": "Wikipedia (enwikiquote)",
           "url": "https://enwikiquote.wikipedia.org/wiki/Orrin_Hatch"
+        },
+        {
+          "note": "Wikipedia (enwikisource)",
+          "url": "https://enwikisource.wikipedia.org/wiki/Author:Orrin_Grant_Hatch"
         },
         {
           "note": "Wikipedia (es)",
@@ -82792,6 +82855,12 @@
     },
     {
       "birth_date": "1953-03-02",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "russfeingold"
+        }
+      ],
       "family_name": "Feingold",
       "gender": "male",
       "given_name": "Russell",
@@ -82976,6 +83045,10 @@
         {
           "note": "Wikipedia (zh)",
           "url": "https://zh.wikipedia.org/wiki/拉斯·芬格爾德"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/russfeingold"
         },
         {
           "note": "website",
@@ -88212,6 +88285,10 @@
         {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Ted_Cruz"
+        },
+        {
+          "note": "Wikipedia (ga)",
+          "url": "https://ga.wikipedia.org/wiki/Ted_Cruz"
         },
         {
           "note": "Wikipedia (he)",
@@ -97036,11 +97113,6 @@
         {
           "lang": "zh",
           "name": "無黨籍人士",
-          "note": "multilingual"
-        },
-        {
-          "lang": "simple",
-          "name": "Independent",
           "note": "multilingual"
         },
         {
