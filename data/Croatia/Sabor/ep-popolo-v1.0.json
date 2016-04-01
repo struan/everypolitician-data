@@ -3282,6 +3282,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "nl",
+          "name": "Ivan Vrdoljak",
+          "note": "multilingual"
+        },
+        {
           "lang": "sh",
           "name": "Ivan Vrdoljak",
           "note": "multilingual"
@@ -9019,6 +9024,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "n2015007596",
+          "scheme": "lcauth"
+        },
+        {
           "identifier": "176552772",
           "scheme": "viaf"
         },
@@ -9045,6 +9054,10 @@
         {
           "note": "Wikipedia (hr)",
           "url": "https://hr.wikipedia.org/wiki/Željko_Reiner"
+        },
+        {
+          "note": "Wikipedia (ie)",
+          "url": "https://ie.wikipedia.org/wiki/Željko_Reiner"
         },
         {
           "note": "Wikipedia (ku)",
@@ -9670,7 +9683,7 @@
     {
       "area_id": "area/12th",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "2ed21ba4-ed94-4351-beb9-cc635ffc6e1e",
       "role": "member"
