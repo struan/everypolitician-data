@@ -94,7 +94,14 @@ namespace :transform do
   task :write => :membership_matrix
   task :membership_matrix => :load do
     sources.find_all { |src| src.type == 'membership_matrix' }.each do |src|
-      @json[:memberships] = src.as_table
+      # We want to clobber existing memberships for a [term,area] combo that we
+      # have new memberships for, but leave the other memberships intact.
+      src.as_table.group_by { |m| m[:legislative_period_id] }.each do |lp_id, lp_mems|
+        lp_mems.group_by { |m| m[:area_id] }.each do |area_id, mems|
+          @json[:memberships].delete_if { |m| m[:legislative_period_id] == lp_id && m[:area_id] == area_id }
+          @json[:memberships] += mems
+        end
+      end
     end
   end
 
