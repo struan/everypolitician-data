@@ -31,6 +31,16 @@ class WikidataLookup
     @wikidata_results ||= Wikisnakker::Item.find(wikidata_ids)
   end
 
+  def names_from(labels)
+    labels.values.flatten.map do |label|
+      {
+        lang: label['language'],
+        name: label['value'],
+        note: 'multilingual'
+      }
+    end
+  end
+
   def fields_for(result)
     {
       identifiers: [
@@ -39,13 +49,7 @@ class WikidataLookup
           identifier: result.id
         }
       ],
-      other_names: result.labels.values.map do |label|
-        {
-          lang: label['language'],
-          name: label['value'],
-          note: 'multilingual'
-        }
-      end
+      other_names: names_from(result.labels) + names_from(result.all_aliases),
     }.merge(other_fields_for(result))
   end
 
