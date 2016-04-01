@@ -25,6 +25,10 @@ module Source
       @instructions[k.to_sym]
     end
 
+    def type
+      i(:type)
+    end
+
     def fields
       header_line = File.open(filename, &:gets) or abort "#{filename} is empty!".red
       ::CSV.parse_line(header_line).map { |h| remap(h.downcase) } 
