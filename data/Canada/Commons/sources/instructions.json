@@ -3,7 +3,7 @@
     {
       "file": "morph/wikipedia.csv",
       "create": {
-        "type": "morph",
+        "from": "morph",
         "scraper": "tmtmtmtm/canada-house-of-commons-wikipedia",
         "query": "SELECT *, LOWER(REPLACE(name, ' ', '-')) AS id FROM data ORDER BY name"
       },
@@ -23,7 +23,7 @@
     {
       "file": "morph/data-42.csv",
       "create": {
-        "type": "morph",
+        "from": "morph",
         "scraper": "tmtmtmtm/represent-ca",
         "query": "SELECT *, id AS identifier__represent FROM data ORDER BY id"
       },
@@ -44,7 +44,7 @@
     {
       "file": "morph/wikidata.csv",
       "create": {
-        "type": "morph",
+        "from": "morph",
         "scraper": "tmtmtmtm/canada-house-of-commons-wikidata",
         "query": "SELECT * FROM data ORDER BY id"
       },
@@ -72,7 +72,7 @@
       "file": "wikidata/groups.json",
       "type": "group",
       "create": {
-        "type": "group-wikidata",
+        "from": "group-wikidata",
         "source": "manual/group_wikidata.csv"
       }
     },
@@ -80,7 +80,7 @@
       "file": "gender-balance/results.csv",
       "type": "gender",
       "create": {
-        "type": "gender-balance",
+        "from": "gender-balance",
         "source": "Canada/Commons"
       }
     },
@@ -88,7 +88,7 @@
       "file": "wikidata/positions.json",
       "type": "wikidata-positions",
       "create": {
-        "type": "wikidata-raw",
+        "from": "wikidata-raw",
         "source": "reconciliation/wikidata.csv"
       }
     }

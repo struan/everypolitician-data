@@ -3,7 +3,7 @@
     {
       "file": "morph/members-2010.csv",
       "create": {
-        "type": "morph",
+        "from": "morph",
         "scraper": "tmtmtmtm/burundi-assemblee",
         "query": "SELECT * FROM data"
       },
@@ -13,7 +13,7 @@
     {
       "file": "morph/members-2015.csv",
       "create": {
-        "type": "morph",
+        "from": "morph",
         "scraper": "duncanfwalker/burundi-national-assembly",
         "query": "SELECT * FROM data"
       },
@@ -28,7 +28,7 @@
       "file": "gender-balance/results.csv",
       "type": "gender",
       "create": {
-        "type": "gender-balance",
+        "from": "gender-balance",
         "source": "Burundi/Assembly"
       }
     }

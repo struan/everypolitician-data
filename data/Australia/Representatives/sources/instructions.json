@@ -3,7 +3,7 @@
     {
       "file": "morph/openaustralia.csv",
       "create": {
-        "type": "morph",
+        "from": "morph",
         "scraper": "tmtmtmtm/australia-openaustralia",
         "query": "SELECT *, id AS identifier__openaustralia FROM data ORDER BY id"
       },
@@ -13,7 +13,7 @@
     {
       "file": "morph/data.csv",
       "create": {
-        "type": "morph",
+        "from": "morph",
         "scraper": "openaustralia/aus_mp_contact_details",
         "query": "SELECT aph_id, photo_url AS photo, email, facebook, website FROM data WHERE house = 'representatives' ORDER BY aph_id"
       },
@@ -27,7 +27,7 @@
     {
       "file": "morph/wikidata.csv",
       "create": {
-        "type": "morph",
+        "from": "morph",
         "scraper": "tmtmtmtm/australia-house-of-representatives-wikidata",
         "query": "SELECT * FROM data ORDER BY id"
       },
@@ -58,7 +58,7 @@
     {
       "file": "ocd/divisions.csv",
       "create": {
-        "type": "ocd",
+        "from": "ocd",
         "source": "country-au/federal_electorates.csv"
       },
       "merge": {
@@ -72,7 +72,7 @@
     {
       "file": "morph/terms.csv",
       "create": {
-        "type": "morph",
+        "from": "morph",
         "scraper": "tmtmtmtm/australia-openaustralia",
         "query": "SELECT * FROM terms"
       },
@@ -82,7 +82,7 @@
       "file": "wikidata/groups.json",
       "type": "group",
       "create": {
-        "type": "group-wikidata",
+        "from": "group-wikidata",
         "source": "manual/group_wikidata.csv"
       }
     },
@@ -90,7 +90,7 @@
       "file": "gender-balance/results.csv",
       "type": "gender",
       "create": {
-        "type": "gender-balance",
+        "from": "gender-balance",
         "source": "Australia/Representatives"
       }
     },
@@ -98,7 +98,7 @@
       "file": "wikidata/positions.json",
       "type": "wikidata-positions",
       "create": {
-        "type": "wikidata-raw",
+        "from": "wikidata-raw",
         "source": "reconciliation/wikidata.csv"
       }
     }

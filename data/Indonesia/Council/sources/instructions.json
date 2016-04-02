@@ -3,7 +3,7 @@
     {
       "file": "morph/data.csv",
       "create": {
-        "type": "morph",
+        "from": "morph",
         "scraper": "struan/indonesia",
         "query": "SELECT * FROM data"
       },
@@ -13,7 +13,7 @@
     {
       "file": "morph/wikidata.csv",
       "create": {
-        "type": "morph",
+        "from": "morph",
         "scraper": "tmtmtmtm/indonesian-mps",
         "query": "SELECT * FROM data"
       },
@@ -29,7 +29,7 @@
       "file": "morph/terms.csv",
       "type": "term",
       "create": {
-        "type": "morph",
+        "from": "morph",
         "scraper": "struan/indonesia",
         "query": "SELECT * FROM terms"
       }
@@ -38,7 +38,7 @@
       "file": "gender-balance/results.csv",
       "type": "gender",
       "create": {
-        "type": "gender-balance",
+        "from": "gender-balance",
         "source": "Indonesia/Council"
       }
     },
@@ -46,7 +46,7 @@
       "file": "wikidata/positions.json",
       "type": "wikidata-positions",
       "create": {
-        "type": "wikidata-raw",
+        "from": "wikidata-raw",
         "source": "reconciliation/wikidata.csv"
       }
     }

@@ -4,7 +4,7 @@
       "file": "parlparse/data.csv",
       "type": "membership",
       "create": {
-        "type": "parlparse",
+        "from": "parlparse",
         "instructions": "parlparse/instructions.json"
       },
       "source": "http://parser.theyworkforyou.com/"
@@ -12,7 +12,7 @@
     {
       "file": "morph/parliament.csv",
       "create": {
-        "type": "morph",
+        "from": "morph",
         "scraper": "tmtmtmtm/uk-parliament-members",
         "query": "SELECT * FROM data"
       },
@@ -35,7 +35,7 @@
     {
       "file": "morph/wikidata.csv",
       "create": {
-        "type": "morph",
+        "from": "morph",
         "scraper": "tmtmtmtm/uk-house-of-commons-wikidata",
         "query": "SELECT *, REPLACE(SUBSTR(REPLACE(identifier__parliamentDOTuk,'/','-------'), -6), '-', '') AS parlid FROM data"
       },
@@ -59,7 +59,7 @@
       "file": "wikidata/groups.json",
       "type": "group",
       "create": {
-        "type": "group-wikidata",
+        "from": "group-wikidata",
         "source": "manual/group_wikidata.csv"
       }
     },
@@ -67,7 +67,7 @@
       "file": "gender-balance/results.csv",
       "type": "gender",
       "create": {
-        "type": "gender-balance",
+        "from": "gender-balance",
         "source": "UK/Commons"
       }
     },
@@ -75,7 +75,7 @@
       "file": "wikidata/positions.json",
       "type": "wikidata-positions",
       "create": {
-        "type": "wikidata-raw",
+        "from": "wikidata-raw",
         "source": "reconciliation/wikidata.csv"
       }
     }

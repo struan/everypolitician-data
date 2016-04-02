@@ -8,13 +8,13 @@ class RemoteSource
   def self.instantiate(i)
     c = i[:create]
     return RemoteSource::URL.new(i)             if c.key? :url
-    return RemoteSource::Morph.new(i)           if c[:type] == 'morph'
-    return RemoteSource::Parlparse.new(i)       if c[:type] == 'parlparse'
-    return RemoteSource::OCD.new(i)             if c[:type] == 'ocd'
-    return RemoteSource::Wikidata::Group.new(i) if c[:type] == 'group-wikidata'
-    return RemoteSource::Wikidata::Area.new(i)  if c[:type] == 'area-wikidata'
-    return RemoteSource::Wikidata::Raw.new(i)   if c[:type] == 'wikidata-raw'
-    return RemoteSource::GenderBalance.new(i)   if c[:type] == 'gender-balance'
+    return RemoteSource::Morph.new(i)           if c[:from] == 'morph'
+    return RemoteSource::Parlparse.new(i)       if c[:from] == 'parlparse'
+    return RemoteSource::OCD.new(i)             if c[:from] == 'ocd'
+    return RemoteSource::Wikidata::Group.new(i) if c[:from] == 'group-wikidata'
+    return RemoteSource::Wikidata::Area.new(i)  if c[:from] == 'area-wikidata'
+    return RemoteSource::Wikidata::Raw.new(i)   if c[:from] == 'wikidata-raw'
+    return RemoteSource::GenderBalance.new(i)   if c[:from] == 'gender-balance'
     raise "Don't know how to fetch #{i[:file]}" 
   end
 

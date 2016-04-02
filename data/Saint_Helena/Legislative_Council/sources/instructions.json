@@ -3,7 +3,7 @@
     {
       "file": "morph/wikipedia.csv",
       "create": {
-        "type": "morph",
+        "from": "morph",
         "scraper": "tmtmtmtm/saint-helena-election-2013",
         "query": "SELECT *, REPLACE(LOWER(name),' ','_') AS id FROM data"
       },
@@ -13,7 +13,7 @@
     {
       "file": "morph/official.csv",
       "create": {
-        "type": "morph",
+        "from": "morph",
         "scraper": "tmtmtmtm/saint-helena-legislative-council",
         "query": "SELECT *, REPLACE(LOWER(name),' ','_') AS id FROM data"
       },
@@ -29,7 +29,7 @@
       "file": "gender-balance/results.csv",
       "type": "gender",
       "create": {
-        "type": "gender-balance",
+        "from": "gender-balance",
         "source": "Saint-Helena/Legislative-Council"
       }
     }

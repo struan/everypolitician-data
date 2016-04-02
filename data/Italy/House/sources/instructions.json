@@ -3,7 +3,7 @@
     {
       "file": "morph/camera.csv",
       "create": {
-        "type": "morph",
+        "from": "morph",
         "scraper": "andylolz/italy-camera",
         "query": "SELECT * FROM data ORDER BY id"
       },
@@ -13,7 +13,7 @@
     {
       "file": "morph/data.csv",
       "create": {
-        "type": "morph",
+        "from": "morph",
         "scraper": "tmtmtmtm/openpolis-scraper",
         "query": "SELECT * FROM data WHERE house = 'Chamber of Deputies' ORDER BY id"
       },
@@ -29,7 +29,7 @@
     {
       "file": "morph/wikidata.csv",
       "create": {
-        "type": "morph",
+        "from": "morph",
         "scraper": "tmtmtmtm/italy-legislature-XVII-wikidata",
         "query": "SELECT * FROM data ORDER BY id"
       },
@@ -49,7 +49,7 @@
       "file": "gender-balance/results.csv",
       "type": "gender",
       "create": {
-        "type": "gender-balance",
+        "from": "gender-balance",
         "source": "Italy/House"
       }
     },
@@ -57,7 +57,7 @@
       "file": "wikidata/positions.json",
       "type": "wikidata-positions",
       "create": {
-        "type": "wikidata-raw",
+        "from": "wikidata-raw",
         "source": "reconciliation/wikidata.csv"
       }
     }

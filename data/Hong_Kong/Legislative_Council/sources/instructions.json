@@ -3,7 +3,7 @@
     {
       "file": "morph/data.csv",
       "create": {
-        "type": "morph",
+        "from": "morph",
         "scraper": "struan/hong_kong_legislative_council_members",
         "query": "SELECT *, REPLACE(id,'yr12-16/','') AS id FROM data"
       },
@@ -13,7 +13,7 @@
     {
       "file": "morph/wikidata.csv",
       "create": {
-        "type": "morph",
+        "from": "morph",
         "scraper": "tmtmtmtm/hong-kong-legislative-council-wikidata",
         "query": "SELECT * FROM data"
       },
@@ -30,7 +30,7 @@
       "type": "term",
       "create": {
         "file": "morph/terms.csv",
-        "type": "morph",
+        "from": "morph",
         "scraper": "struan/hong_kong_legislative_council_members",
         "query": "SELECT * FROM terms"
       }
@@ -39,7 +39,7 @@
       "file": "gender-balance/results.csv",
       "type": "gender",
       "create": {
-        "type": "gender-balance",
+        "from": "gender-balance",
         "source": "Hong-Kong/Legislative-Council"
       }
     },
@@ -47,7 +47,7 @@
       "file": "wikidata/positions.json",
       "type": "wikidata-positions",
       "create": {
-        "type": "wikidata-raw",
+        "from": "wikidata-raw",
         "source": "reconciliation/wikidata.csv"
       }
     }

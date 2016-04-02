@@ -3,7 +3,7 @@
     {
       "file": "morph/data.csv",
       "create": {
-        "type": "morph",
+        "from": "morph",
         "scraper": "tmtmtmtm/openpolis-scraper",
         "query": "SELECT * FROM data WHERE house = 'Senate'"
       },
@@ -18,7 +18,7 @@
       "file": "gender-balance/results.csv",
       "type": "gender",
       "create": {
-        "type": "gender-balance",
+        "from": "gender-balance",
         "source": "Italy/Senate"
       }
     }

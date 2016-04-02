@@ -3,7 +3,7 @@
     {
       "file": "morph/electionpassport.csv",
       "create": {
-        "type": "morph",
+        "from": "morph",
         "scraper": "tmtmtmtm/saint-kitts-and-nevis-electionpassort",
         "query": "SELECT *, election AS term FROM data WHERE election = '2015' ORDER BY id"
       },
@@ -13,7 +13,7 @@
     {
       "file": "morph/electionpassport-2010.csv",
       "create": {
-        "type": "morph",
+        "from": "morph",
         "scraper": "tmtmtmtm/saint-kitts-and-nevis-electionpassort",
         "query": "SELECT *, election AS term FROM data WHERE election = '2010' ORDER BY id"
       },
@@ -28,7 +28,7 @@
     {
       "file": "morph/electionpassport-2004.csv",
       "create": {
-        "type": "morph",
+        "from": "morph",
         "scraper": "tmtmtmtm/saint-kitts-and-nevis-electionpassort",
         "query": "SELECT *, election AS term FROM data WHERE election = '2004' ORDER BY id"
       },
@@ -43,7 +43,7 @@
     {
       "file": "morph/electionpassport-2000.csv",
       "create": {
-        "type": "morph",
+        "from": "morph",
         "scraper": "tmtmtmtm/saint-kitts-and-nevis-electionpassort",
         "query": "SELECT *, election AS term FROM data WHERE election = '2000' ORDER BY id"
       },
@@ -58,7 +58,7 @@
     {
       "file": "morph/electionpassport-1995.csv",
       "create": {
-        "type": "morph",
+        "from": "morph",
         "scraper": "tmtmtmtm/saint-kitts-and-nevis-electionpassort",
         "query": "SELECT *, election AS term FROM data WHERE election = '1995' ORDER BY id"
       },
@@ -73,7 +73,7 @@
     {
       "file": "morph/electionpassport-1993.csv",
       "create": {
-        "type": "morph",
+        "from": "morph",
         "scraper": "tmtmtmtm/saint-kitts-and-nevis-electionpassort",
         "query": "SELECT *, election AS term FROM data WHERE election = '1993' ORDER BY id"
       },
@@ -88,7 +88,7 @@
     {
       "file": "morph/electionpassport-1989.csv",
       "create": {
-        "type": "morph",
+        "from": "morph",
         "scraper": "tmtmtmtm/saint-kitts-and-nevis-electionpassort",
         "query": "SELECT *, election AS term FROM data WHERE election = '1989' ORDER BY id"
       },
@@ -103,7 +103,7 @@
     {
       "file": "morph/electionpassport-1984.csv",
       "create": {
-        "type": "morph",
+        "from": "morph",
         "scraper": "tmtmtmtm/saint-kitts-and-nevis-electionpassort",
         "query": "SELECT *, election AS term FROM data WHERE election = '1984' ORDER BY id"
       },
@@ -118,7 +118,7 @@
     {
       "file": "morph/wikipedia.csv",
       "create": {
-        "type": "morph",
+        "from": "morph",
         "scraper": "tmtmtmtm/saint-kitts-and-nevis-elections-wikipedia",
         "query": "SELECT *, REPLACE(LOWER(name),' ','_') AS id FROM data"
       },
@@ -133,7 +133,7 @@
     {
       "file": "morph/wikidata.csv",
       "create": {
-        "type": "morph",
+        "from": "morph",
         "scraper": "tmtmtmtm/saint-kitts-and-nevis-elections-wikidata",
         "query": "SELECT * FROM data"
       },
@@ -149,7 +149,7 @@
       "file": "gender-balance/results.csv",
       "type": "gender",
       "create": {
-        "type": "gender-balance",
+        "from": "gender-balance",
         "source": "Saint-Kitts-and-Nevis/Assembly"
       }
     },
@@ -157,7 +157,7 @@
       "file": "wikidata/groups.json",
       "type": "group",
       "create": {
-        "type": "group-wikidata",
+        "from": "group-wikidata",
         "source": "manual/group_wikidata.csv"
       }
     },
@@ -165,7 +165,7 @@
       "file": "wikidata/positions.json",
       "type": "wikidata-positions",
       "create": {
-        "type": "wikidata-raw",
+        "from": "wikidata-raw",
         "source": "reconciliation/wikidata.csv"
       }
     }

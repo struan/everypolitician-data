@@ -3,7 +3,7 @@
     {
       "file": "morph/members.csv",
       "create": {
-        "type": "morph",
+        "from": "morph",
         "scraper": "tmtmtmtm/nepal-ca-members",
         "query": "SELECT * FROM data"
       },
@@ -18,7 +18,7 @@
       "file": "gender-balance/results.csv",
       "type": "gender",
       "create": {
-        "type": "gender-balance",
+        "from": "gender-balance",
         "source": "Nepal/Assembly"
       }
     }

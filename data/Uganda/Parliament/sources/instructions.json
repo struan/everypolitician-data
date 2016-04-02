@@ -3,7 +3,7 @@
     {
       "file": "morph/data.csv",
       "create": {
-        "type": "morph",
+        "from": "morph",
         "scraper": "duncanfwalker/uganda-parliament-scraper",
         "query": "SELECT *, 9 AS term FROM data"
       },
@@ -18,7 +18,7 @@
       "file": "gender-balance/results.csv",
       "type": "gender",
       "create": {
-        "type": "gender-balance",
+        "from": "gender-balance",
         "source": "Uganda/Parliament"
       }
     }

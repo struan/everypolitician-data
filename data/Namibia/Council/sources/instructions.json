@@ -3,7 +3,7 @@
     {
       "file": "morph/data.csv",
       "create": {
-        "type": "morph",
+        "from": "morph",
         "scraper": "duncanparkes/namibia",
         "query": "SELECT data.id, data.name, data.image, data.party, data.party AS party_id, terms.term_number AS term, data.email, data.area, data.details_url AS source from data JOIN terms ON data.term_id = terms.id WHERE chamber = 'National Council'"
       },
@@ -15,7 +15,7 @@
       "type": "term",
       "create": {
         "file": "morph/terms.csv",
-        "type": "morph",
+        "from": "morph",
         "scraper": "duncanparkes/namibia",
         "query": "SELECT *, term_number AS id FROM terms WHERE id LIKE '%Council%'"
       }
@@ -24,7 +24,7 @@
       "file": "gender-balance/results.csv",
       "type": "gender",
       "create": {
-        "type": "gender-balance",
+        "from": "gender-balance",
         "source": "Namibia/Council"
       }
     }

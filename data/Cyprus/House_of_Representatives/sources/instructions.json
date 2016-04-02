@@ -3,7 +3,7 @@
     {
       "file": "morph/data.csv",
       "create": {
-        "type": "morph",
+        "from": "morph",
         "scraper": "tmtmtmtm/cyprus-openpatata",
         "query": "SELECT *, NULL as wikipedia FROM data"
       },
@@ -13,7 +13,7 @@
     {
       "file": "morph/wikidata.csv",
       "create": {
-        "type": "morph",
+        "from": "morph",
         "scraper": "tmtmtmtm/cyprus-parliament-wikidata",
         "query": "SELECT * FROM data ORDER BY id"
       },
@@ -29,7 +29,7 @@
       "file": "wikidata/groups.json",
       "type": "group",
       "create": {
-        "type": "group-wikidata",
+        "from": "group-wikidata",
         "source": "manual/group_wikidata.csv"
       }
     },
@@ -37,7 +37,7 @@
       "file": "morph/terms.csv",
       "type": "term",
       "create": {
-        "type": "morph",
+        "from": "morph",
         "scraper": "tmtmtmtm/cyprus-openpatata",
         "query": "SELECT * FROM terms"
       }
@@ -46,7 +46,7 @@
       "file": "gender-balance/results.csv",
       "type": "gender",
       "create": {
-        "type": "gender-balance",
+        "from": "gender-balance",
         "source": "Cyprus/House-of-Representatives"
       }
     },
@@ -54,7 +54,7 @@
       "file": "wikidata/positions.json",
       "type": "wikidata-positions",
       "create": {
-        "type": "wikidata-raw",
+        "from": "wikidata-raw",
         "source": "reconciliation/wikidata.csv"
       }
     }
