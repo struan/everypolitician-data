@@ -817,12 +817,104 @@
     {
       "classification": "party",
       "id": "party/pdm",
-      "name": "PDM"
+      "identifiers": [
+        {
+          "identifier": "Q23690626",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "PDM",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Popular Democratic Movement",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/parti_lepep",
-      "name": "Parti Lepep"
+      "identifiers": [
+        {
+          "identifier": "Q206395",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.partilepep.com/pl/"
+        }
+      ],
+      "name": "Parti Lepep",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Volkspartei",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "People's Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "人民党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Front Progressiste du Peuple Seychellois",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Sejšelski narodni napredni front",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Folkets parti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "塞舌尔人民进步阵线",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Folkets parti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "parti Lepep",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Народная партия (Сейшелы)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Partito Popolare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Front progressiste du peuple seychellois",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Seychelles People's Progressive Front",
+          "note": "multilingual"
+        }
+      ]
     }
   ],
   "meta": {
