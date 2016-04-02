@@ -341,7 +341,96 @@
     {
       "classification": "party",
       "id": "party/dlp",
-      "name": "DLP"
+      "identifiers": [
+        {
+          "identifier": "Q1287573",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.dominicalabourparty.com"
+        }
+      ],
+      "name": "DLP",
+      "other_names": [
+        {
+          "lang": "fr",
+          "name": "Parti travailliste de la Dominique",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Доминикская лейбористская партия",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Dominička laburistička partija",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Dominica Labour Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Laborista de Dominica",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Dominicas arbetarparti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Arbeiderspartij van Dominica",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Partido Trabalhista da Dominica",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Домінікська лейбористська партія",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Dominica Labour Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Εργατικό Κόμμα της Δομινίκας",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti travailliste",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Dominička laburistička stranka",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Labour Party of Dominica",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Dominica Labour Party",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "legislature",
@@ -358,7 +447,46 @@
     {
       "classification": "party",
       "id": "party/uwp",
-      "name": "UWP"
+      "identifiers": [
+        {
+          "identifier": "Q1253956",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.unitedworkersparty.com/"
+        }
+      ],
+      "name": "UWP",
+      "other_names": [
+        {
+          "lang": "sh",
+          "name": "Jedinstvena radnička partija",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "United Workers' Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Dominica United Workers' Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Dominicas förenade arbetarparti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Ujedinjena radnička stranka",
+          "note": "multilingual"
+        }
+      ]
     }
   ],
   "meta": {
