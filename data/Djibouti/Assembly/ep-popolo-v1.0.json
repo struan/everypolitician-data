@@ -992,12 +992,70 @@
     {
       "classification": "party",
       "id": "party/ump",
-      "name": "UMP"
+      "identifiers": [
+        {
+          "identifier": "Q3550432",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.ump.dj/"
+        }
+      ],
+      "name": "UMP",
+      "other_names": [
+        {
+          "lang": "fr",
+          "name": "Union pour la majorité présidentielle",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Union for the Presidential Majority",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Unió per la Majoria Presidencial de Djibouti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Union pour la Majorité Présidentielle (Djibouti)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "UMP",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/usn",
-      "name": "USN"
+      "identifiers": [
+        {
+          "identifier": "Q15980848",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "https://www.facebook.com/USNDJIBOUTI"
+        }
+      ],
+      "name": "USN",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Union for National Salvation",
+          "note": "multilingual"
+        }
+      ]
     }
   ],
   "meta": {
