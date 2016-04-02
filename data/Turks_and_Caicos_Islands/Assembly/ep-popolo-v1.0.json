@@ -765,12 +765,38 @@
     {
       "classification": "party",
       "id": "party/pdm",
-      "name": "PDM"
+      "identifiers": [
+        {
+          "identifier": "Q7165523",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "PDM",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "People's Democratic Movement",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/pnp",
-      "name": "PNP"
+      "identifiers": [
+        {
+          "identifier": "Q7248774",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "PNP",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Progressive National Party",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
