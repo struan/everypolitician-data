@@ -1227,7 +1227,20 @@
     {
       "classification": "party",
       "id": "APNU-AFC",
-      "name": "A Party For National Unity + Alliance For Change"
+      "identifiers": [
+        {
+          "identifier": "Q16824207",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "A Party For National Unity + Alliance For Change",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "A Partnership for National Unity",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "legislature",
@@ -1244,7 +1257,112 @@
     {
       "classification": "party",
       "id": "PPP-Civic",
-      "name": "People Progressive Party/Civic"
+      "identifiers": [
+        {
+          "identifier": "Q1972521",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/PPP-flag.PNG",
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.ppp-civic.org"
+        }
+      ],
+      "name": "People Progressive Party/Civic",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "People’s Progressive Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Ludowa Partia Postępowa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Народна прогресивна партия",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Народная прогрессивная партия Гайаны",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "जनता प्रगतिशील पार्टी",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Progresista del Pueblo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "People's Progressive Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Народна прогресивна партія Гаяни",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Folkets progressiva parti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Народна напредна партија",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "人民进步党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "حزب ترقی‌خواه خلق",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hy",
+          "name": "Գայանայի ժողովրդական առաջադիմական կուսակցություն",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "People's Progressive Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Коммунистическая партия Гайаны",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "КП Гайаны",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Народна прогресивна партія Гайани",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Народна прогресивна партія Гаzни",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
