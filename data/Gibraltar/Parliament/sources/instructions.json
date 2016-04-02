@@ -3,7 +3,7 @@
     {
       "file": "morph/data.csv",
       "create": {
-        "type": "morph",
+        "from": "morph",
         "scraper": "andylolz/gibraltar-parliament",
         "query": "SELECT * FROM data"
       },
@@ -13,7 +13,7 @@
     {
       "file": "morph/wikipedia.csv",
       "create": {
-        "type": "morph",
+        "from": "morph",
         "scraper": "andylolz/gibraltar-wikipedia",
         "query": "SELECT *, REPLACE(LOWER(name),' ','_') AS id FROM data"
       },
@@ -29,7 +29,7 @@
     {
       "file": "morph/terms.csv",
       "create": {
-        "type": "morph",
+        "from": "morph",
         "scraper": "andylolz/gibraltar-parliament",
         "query": "SELECT * FROM terms"
       },
@@ -39,7 +39,7 @@
     {
       "file": "morph/wikidata.csv",
       "create": {
-        "type": "morph",
+        "from": "morph",
         "scraper": "tmtmtmtm/gibraltar-parliament-wikidata",
         "query": "SELECT * FROM data"
       },
@@ -55,7 +55,7 @@
       "file": "gender-balance/results.csv",
       "type": "gender",
       "create": {
-        "type": "gender-balance",
+        "from": "gender-balance",
         "source": "Gibraltar/Parliament"
       }
     },
@@ -63,7 +63,7 @@
       "file": "wikidata/positions.json",
       "type": "wikidata-positions",
       "create": {
-        "type": "wikidata-raw",
+        "from": "wikidata-raw",
         "source": "reconciliation/wikidata.csv"
       }
     }

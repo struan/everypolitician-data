@@ -3,7 +3,7 @@
     {
       "file": "morph/data.csv",
       "create": {
-        "type": "morph",
+        "from": "morph",
         "scraper": "tmtmtmtm/hellenic-parliament",
         "query": "SELECT *, name_el AS name__el FROM data"
       },
@@ -13,7 +13,7 @@
     {
       "file": "morph/official-bios.csv",
       "create": {
-        "type": "morph",
+        "from": "morph",
         "scraper": "tmtmtmtm/hellenic-parliament-bio",
         "query": "SELECT * FROM data ORDER BY id"
       },
@@ -29,7 +29,7 @@
       "type": "term",
       "create": {
         "file": "morph/terms.csv",
-        "type": "morph",
+        "from": "morph",
         "scraper": "tmtmtmtm/hellenic-parliament",
         "query": "SELECT * FROM terms"
       }
@@ -38,7 +38,7 @@
       "file": "gender-balance/results.csv",
       "type": "gender",
       "create": {
-        "type": "gender-balance",
+        "from": "gender-balance",
         "source": "Greece/Parliament"
       }
     }

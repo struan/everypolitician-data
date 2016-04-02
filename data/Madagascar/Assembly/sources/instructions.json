@@ -3,7 +3,7 @@
     {
       "file": "morph/data.csv",
       "create": {
-        "type": "morph",
+        "from": "morph",
         "scraper": "duncanparkes/madagascar",
         "query": "SELECT *, term_id AS term, null AS term_id FROM data"
       },
@@ -13,7 +13,7 @@
     {
       "file": "morph/wikidata.csv",
       "create": {
-        "type": "morph",
+        "from": "morph",
         "scraper": "tmtmtmtm/madagascar-national-assembly-members-wikidata",
         "query": "SELECT * FROM data ORDER BY id"
       },
@@ -30,7 +30,7 @@
       "type": "term",
       "create": {
         "file": "morph/terms.csv",
-        "type": "morph",
+        "from": "morph",
         "scraper": "duncanparkes/madagascar",
         "query": "SELECT * FROM terms"
       }
@@ -39,7 +39,7 @@
       "file": "gender-balance/results.csv",
       "type": "gender",
       "create": {
-        "type": "gender-balance",
+        "from": "gender-balance",
         "source": "Madagascar/Assembly"
       }
     },
@@ -47,7 +47,7 @@
       "file": "wikidata/positions.json",
       "type": "wikidata-positions",
       "create": {
-        "type": "wikidata-raw",
+        "from": "wikidata-raw",
         "source": "reconciliation/wikidata.csv"
       }
     }

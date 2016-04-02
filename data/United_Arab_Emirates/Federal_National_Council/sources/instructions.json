@@ -3,7 +3,7 @@
     {
       "file": "morph/data.csv",
       "create": {
-        "type": "morph",
+        "from": "morph",
         "scraper": "chrismytton/united-arab-emirates-federal-national-council",
         "query": "SELECT id, name, name_ar AS name__ar, email, photo, 2011 AS term FROM data"
       },
@@ -18,7 +18,7 @@
       "file": "gender-balance/results.csv",
       "type": "gender",
       "create": {
-        "type": "gender-balance",
+        "from": "gender-balance",
         "source": "United-Arab-Emirates/Federal-National-Council"
       }
     }

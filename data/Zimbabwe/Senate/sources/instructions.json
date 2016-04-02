@@ -28,7 +28,7 @@
     {
       "file": "morph/official.csv",
       "create": {
-        "type": "morph",
+        "from": "morph",
         "scraper": "tmtmtmtm/zimbabwe-parliament",
         "query": "SELECT * FROM data WHERE house = 'senate' ORDER BY id"
       },
@@ -47,7 +47,7 @@
       "file": "wikidata/groups.json",
       "type": "group",
       "create": {
-        "type": "group-wikidata",
+        "from": "group-wikidata",
         "source": "manual/group_wikidata.csv"
       }
     },
@@ -55,7 +55,7 @@
       "file": "gender-balance/results.csv",
       "type": "gender",
       "create": {
-        "type": "gender-balance",
+        "from": "gender-balance",
         "source": "Zimbabwe/Senate"
       }
     }

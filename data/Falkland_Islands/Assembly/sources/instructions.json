@@ -3,7 +3,7 @@
     {
       "file": "morph/wikipedia.csv",
       "create": {
-        "type": "morph",
+        "from": "morph",
         "scraper": "dracos/falkland-islands",
         "query": "SELECT *, REPLACE(LOWER(name),' ','_') AS id FROM data"
       },
@@ -13,7 +13,7 @@
     {
       "file": "morph/official.csv",
       "create": {
-        "type": "morph",
+        "from": "morph",
         "scraper": "tmtmtmtm/falkland-islands-assembly",
         "query": "SELECT *, REPLACE(LOWER(name),' ','_') AS id FROM data"
       },
@@ -28,7 +28,7 @@
     {
       "file": "morph/wikidata.csv",
       "create": {
-        "type": "morph",
+        "from": "morph",
         "scraper": "tmtmtmtm/falkland-islands-representatives-wikidata",
         "query": "SELECT * FROM data"
       },
@@ -42,7 +42,7 @@
     {
       "file": "morph/terms.csv",
       "create": {
-        "type": "morph",
+        "from": "morph",
         "scraper": "dracos/falkland-islands",
         "query": "SELECT *, ID as start_date, ID + 4 AS end_date FROM terms"
       },
@@ -52,7 +52,7 @@
       "file": "gender-balance/results.csv",
       "type": "gender",
       "create": {
-        "type": "gender-balance",
+        "from": "gender-balance",
         "source": "Falkland-Islands/Assembly"
       }
     },
@@ -60,7 +60,7 @@
       "file": "wikidata/positions.json",
       "type": "wikidata-positions",
       "create": {
-        "type": "wikidata-raw",
+        "from": "wikidata-raw",
         "source": "reconciliation/wikidata.csv"
       }
     }

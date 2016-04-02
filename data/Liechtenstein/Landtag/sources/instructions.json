@@ -3,7 +3,7 @@
     {
       "file": "morph/data.csv",
       "create": {
-        "type": "morph",
+        "from": "morph",
         "scraper": "tmtmtmtm/liechtenstein-landtag",
         "query": "SELECT * FROM data"
       },
@@ -13,7 +13,7 @@
     {
       "file": "morph/wikidata.csv",
       "create": {
-        "type": "morph",
+        "from": "morph",
         "scraper": "tmtmtmtm/liechtenstein-landtag-wikidata",
         "query": "SELECT * FROM data ORDER BY id"
       },
@@ -30,7 +30,7 @@
       "type": "term",
       "create": {
         "file": "morph/terms.csv",
-        "type": "morph",
+        "from": "morph",
         "scraper": "tmtmtmtm/liechtenstein-landtag",
         "query": "SELECT * FROM terms"
       }
@@ -39,7 +39,7 @@
       "file": "gender-balance/results.csv",
       "type": "gender",
       "create": {
-        "type": "gender-balance",
+        "from": "gender-balance",
         "source": "Liechtenstein/Landtag"
       }
     },
@@ -47,7 +47,7 @@
       "file": "wikidata/positions.json",
       "type": "wikidata-positions",
       "create": {
-        "type": "wikidata-raw",
+        "from": "wikidata-raw",
         "source": "reconciliation/wikidata.csv"
       }
     },
@@ -55,7 +55,7 @@
       "file": "wikidata/groups.json",
       "type": "group",
       "create": {
-        "type": "group-wikidata",
+        "from": "group-wikidata",
         "source": "manual/group_wikidata.csv"
       }
     }

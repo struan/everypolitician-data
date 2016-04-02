@@ -3,7 +3,7 @@
     {
       "file": "morph/data.csv",
       "create": {
-        "type": "morph",
+        "from": "morph",
         "scraper": "tmtmtmtm/norfolk-island-assembly",
         "query": "SELECT * FROM data"
       },
@@ -13,7 +13,7 @@
     {
       "file": "morph/terms.csv",
       "create": {
-        "type": "morph",
+        "from": "morph",
         "scraper": "tmtmtmtm/norfolk-island-assembly",
         "query": "SELECT * FROM terms"
       },
@@ -23,7 +23,7 @@
       "file": "gender-balance/results.csv",
       "type": "gender",
       "create": {
-        "type": "gender-balance",
+        "from": "gender-balance",
         "source": "Norfolk-Island/Assembly"
       }
     }

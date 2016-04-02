@@ -3,7 +3,7 @@
     {
       "file": "morph/official5.csv",
       "create": {
-        "type": "morph",
+        "from": "morph",
         "scraper": "tmtmtmtm/kyrgyzstan-deputies",
         "query": "SELECT id, name, name_ru AS name__ru, party, party_ru AS party__ru, image, term, source FROM data WHERE term = '5'"
       },
@@ -13,7 +13,7 @@
     {
       "file": "morph/official6.csv",
       "create": {
-        "type": "morph",
+        "from": "morph",
         "scraper": "tmtmtmtm/kyrgyzstan-deputies",
         "query": "SELECT id, name, name_ru AS name__ru, party, party_ru AS party__ru, image, term, source FROM data WHERE term = '6'"
       },
@@ -28,7 +28,7 @@
     {
       "file": "morph/wikidata.csv",
       "create": {
-        "type": "morph",
+        "from": "morph",
         "scraper": "tmtmtmtm/kyrgyzstan-supreme-council-wikidata",
         "query": "SELECT * FROM data"
       },
@@ -48,7 +48,7 @@
       "file": "gender-balance/results.csv",
       "type": "gender",
       "create": {
-        "type": "gender-balance",
+        "from": "gender-balance",
         "source": "Kyrgyzstan/Council"
       }
     },
@@ -56,7 +56,7 @@
       "file": "wikidata/groups.json",
       "type": "group",
       "create": {
-        "type": "group-wikidata",
+        "from": "group-wikidata",
         "source": "manual/group_wikidata.csv"
       }
     },
@@ -64,7 +64,7 @@
       "file": "wikidata/positions.json",
       "type": "wikidata-positions",
       "create": {
-        "type": "wikidata-raw",
+        "from": "wikidata-raw",
         "source": "reconciliation/wikidata.csv"
       }
     }

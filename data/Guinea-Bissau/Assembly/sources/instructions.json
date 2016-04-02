@@ -3,7 +3,7 @@
     {
       "file": "morph/data.csv",
       "create": {
-        "type": "morph",
+        "from": "morph",
         "scraper": "chrismytton/guinea-bissau-national-peoples-assembly",
         "query": "SELECT *, 2014 AS term FROM data"
       },
@@ -18,7 +18,7 @@
       "file": "gender-balance/results.csv",
       "type": "gender",
       "create": {
-        "type": "gender-balance",
+        "from": "gender-balance",
         "source": "Guinea-Bissau/Assembly"
       }
     }

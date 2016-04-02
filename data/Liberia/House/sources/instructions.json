@@ -3,7 +3,7 @@
     {
       "file": "morph/data.csv",
       "create": {
-        "type": "morph",
+        "from": "morph",
         "scraper": "tmtmtmtm/liberia-representatives",
         "query": "SELECT * FROM data"
       },
@@ -15,7 +15,7 @@
       "type": "term",
       "create": {
         "file": "morph/terms.csv",
-        "type": "morph",
+        "from": "morph",
         "scraper": "tmtmtmtm/liberia-representatives",
         "query": "SELECT * FROM terms"
       }
@@ -24,7 +24,7 @@
       "file": "wikidata/groups.json",
       "type": "group",
       "create": {
-        "type": "group-wikidata",
+        "from": "group-wikidata",
         "source": "manual/group_wikidata.csv"
       }
     },
@@ -32,7 +32,7 @@
       "file": "gender-balance/results.csv",
       "type": "gender",
       "create": {
-        "type": "gender-balance",
+        "from": "gender-balance",
         "source": "Liberia/House"
       }
     }

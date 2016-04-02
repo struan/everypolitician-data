@@ -3,7 +3,7 @@
     {
       "file": "morph/data.csv",
       "create": {
-        "type": "morph",
+        "from": "morph",
         "scraper": "tmtmtmtm/south-africa-national-assembly",
         "query": "SELECT * FROM data"
       },
@@ -13,7 +13,7 @@
     {
       "file": "morph/wikidata.csv",
       "create": {
-        "type": "morph",
+        "from": "morph",
         "scraper": "tmtmtmtm/south-african-national-assembly-members-wikidata",
         "query": "SELECT * FROM data"
       },
@@ -29,7 +29,7 @@
       "file": "wikidata/parties.json",
       "type": "group",
       "create": {
-        "type": "group-wikidata",
+        "from": "group-wikidata",
         "source": "manual/parties_wikidata.csv"
       }
     },
@@ -38,7 +38,7 @@
       "type": "term",
       "create": {
         "file": "morph/terms.csv",
-        "type": "morph",
+        "from": "morph",
         "scraper": "tmtmtmtm/south-africa-national-assembly",
         "query": "SELECT * FROM terms"
       }
@@ -47,7 +47,7 @@
       "file": "gender-balance/results.csv",
       "type": "gender",
       "create": {
-        "type": "gender-balance",
+        "from": "gender-balance",
         "source": "South-Africa/Assembly"
       }
     },
@@ -55,7 +55,7 @@
       "file": "wikidata/positions.json",
       "type": "wikidata-positions",
       "create": {
-        "type": "wikidata-raw",
+        "from": "wikidata-raw",
         "source": "reconciliation/wikidata.csv"
       }
     }

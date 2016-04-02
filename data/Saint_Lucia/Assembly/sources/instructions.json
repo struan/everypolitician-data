@@ -3,7 +3,7 @@
     {
       "file": "morph/members.csv",
       "create": {
-        "type": "morph",
+        "from": "morph",
         "scraper": "tmtmtmtm/saint-lucia-assembly-wikipedia",
         "query": "SELECT *, REPLACE(LOWER(name),' ','-') AS id, null AS source FROM data ORDER BY id"
       },
@@ -13,7 +13,7 @@
     {
       "file": "morph/images.csv",
       "create": {
-        "type": "morph",
+        "from": "morph",
         "scraper": "tmtmtmtm/saint-lucia-assembly",
         "query": "SELECT *, REPLACE(LOWER(name),' ','-') AS id FROM data ORDER BY id"
       },
@@ -28,7 +28,7 @@
     {
       "file": "morph/wikidata.csv",
       "create": {
-        "type": "morph",
+        "from": "morph",
         "scraper": "tmtmtmtm/saint-lucia-assembly-wikidata",
         "query": "SELECT * FROM data"
       },
@@ -44,7 +44,7 @@
       "file": "gender-balance/results.csv",
       "type": "gender",
       "create": {
-        "type": "gender-balance",
+        "from": "gender-balance",
         "source": "Saint-Lucia/Assembly"
       }
     },
@@ -52,7 +52,7 @@
       "file": "wikidata/positions.json",
       "type": "wikidata-positions",
       "create": {
-        "type": "wikidata-raw",
+        "from": "wikidata-raw",
         "source": "reconciliation/wikidata.csv"
       }
     },
@@ -60,7 +60,7 @@
       "file": "wikidata/groups.json",
       "type": "group",
       "create": {
-        "type": "group-wikidata",
+        "from": "group-wikidata",
         "source": "manual/group_wikidata.csv"
       }
     }

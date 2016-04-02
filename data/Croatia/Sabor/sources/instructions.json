@@ -8,7 +8,7 @@
     {
       "file": "morph/sabor-8.csv",
       "create": {
-        "type": "morph",
+        "from": "morph",
         "scraper": "tmtmtmtm/croatia-parliament",
         "query": "SELECT id, name, sortname, image, party, birth_date, constituency, term, start_date, source FROM data"
       },
@@ -23,7 +23,7 @@
     {
       "file": "morph/wikidata.csv",
       "create": {
-        "type": "morph",
+        "from": "morph",
         "scraper": "tmtmtmtm/croatian-parliament-wikidata",
         "query": "SELECT * FROM data"
       },
@@ -43,7 +43,7 @@
       "file": "gender-balance/results.csv",
       "type": "gender",
       "create": {
-        "type": "gender-balance",
+        "from": "gender-balance",
         "source": "Croatia/Sabor"
       }
     },
@@ -51,7 +51,7 @@
       "file": "wikidata/positions.json",
       "type": "wikidata-positions",
       "create": {
-        "type": "wikidata-raw",
+        "from": "wikidata-raw",
         "source": "reconciliation/wikidata.csv"
       }
     }

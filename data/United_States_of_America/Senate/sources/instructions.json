@@ -3,7 +3,7 @@
     {
       "file": "morph/data.csv",
       "create": {
-        "type": "morph",
+        "from": "morph",
         "scraper": "tmtmtmtm/us-congress-members",
         "query": "SELECT *, CASE WHEN end_date > date('now') THEN '' ELSE end_date END AS end_date FROM data WHERE house = 'sen' ORDER BY id"
       },
@@ -13,7 +13,7 @@
     {
       "file": "morph/socialmedia.csv",
       "create": {
-        "type": "morph",
+        "from": "morph",
         "scraper": "tmtmtmtm/us-congress-members-social-media",
         "query": "SELECT * FROM data ORDER BY id"
       },
@@ -28,7 +28,7 @@
     {
       "file": "morph/wikidata.csv",
       "create": {
-        "type": "morph",
+        "from": "morph",
         "scraper": "tmtmtmtm/us-senators-wikidata",
         "query": "SELECT * FROM data ORDER BY id"
       },
@@ -44,14 +44,14 @@
       "file": "wikidata/parties.json",
       "type": "group",
       "create": {
-        "type": "group-wikidata",
+        "from": "group-wikidata",
         "source": "manual/parties_wikidata.csv"
       }
     },
     {
       "file": "ocd/divisions.csv",
       "create": {
-        "type": "ocd",
+        "from": "ocd",
         "source": "country-us.csv"
       },
       "type": "ocd",
@@ -65,7 +65,7 @@
       "file": "gender-balance/results.csv",
       "type": "gender",
       "create": {
-        "type": "gender-balance",
+        "from": "gender-balance",
         "source": "United-States-of-America/Senate"
       }
     },
@@ -73,7 +73,7 @@
       "file": "wikidata/positions.json",
       "type": "wikidata-positions",
       "create": {
-        "type": "wikidata-raw",
+        "from": "wikidata-raw",
         "source": "reconciliation/wikidata.csv"
       }
     }

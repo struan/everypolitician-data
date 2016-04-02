@@ -3,7 +3,7 @@
     {
       "file": "morph/data.csv",
       "create": {
-        "type": "morph",
+        "from": "morph",
         "scraper": "tmtmtmtm/sweden-parliament-api",
         "query": "SELECT *, id AS identifier__riksdagen FROM data WHERE term IN ('1990', '1994', '1998', '2002', '2006', '2010', '2014')"
       },
@@ -13,7 +13,7 @@
     {
       "file": "morph/wikidata.csv",
       "create": {
-        "type": "morph",
+        "from": "morph",
         "scraper": "tmtmtmtm/sweden-riksdag-members-wikidata",
         "query": "SELECT * FROM data"
       },
@@ -29,7 +29,7 @@
       "file": "morph/terms.csv",
       "type": "term",
       "create": {
-        "type": "morph",
+        "from": "morph",
         "scraper": "tmtmtmtm/sweden-parliament-api",
         "query": "SELECT * FROM terms"
       }
@@ -38,7 +38,7 @@
       "file": "wikidata/groups.json",
       "type": "group",
       "create": {
-        "type": "group-wikidata",
+        "from": "group-wikidata",
         "source": "manual/group_wikidata.csv"
       }
     },
@@ -46,7 +46,7 @@
       "file": "gender-balance/results.csv",
       "type": "gender",
       "create": {
-        "type": "gender-balance",
+        "from": "gender-balance",
         "source": "Sweden/Riksdag"
       }
     },
@@ -54,7 +54,7 @@
       "file": "wikidata/positions.json",
       "type": "wikidata-positions",
       "create": {
-        "type": "wikidata-raw",
+        "from": "wikidata-raw",
         "source": "reconciliation/wikidata.csv"
       }
     }

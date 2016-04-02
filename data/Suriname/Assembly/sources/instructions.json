@@ -9,7 +9,7 @@
     {
       "file": "morph/data.csv",
       "create": {
-        "type": "morph",
+        "from": "morph",
         "scraper": "tmtmtmtm/suriname-nationale-assemblee",
         "query": "SELECT * FROM data"
       },
@@ -20,7 +20,7 @@
       "file": "gender-balance/results.csv",
       "type": "gender",
       "create": {
-        "type": "gender-balance",
+        "from": "gender-balance",
         "source": "Suriname/Assembly"
       }
     }

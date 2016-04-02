@@ -3,7 +3,7 @@
     {
       "file": "morph/data.csv",
       "create": {
-        "type": "morph",
+        "from": "morph",
         "scraper": "tmtmtmtm/libya-house-of-representatives",
         "query": "SELECT * FROM data"
       },
@@ -15,7 +15,7 @@
       "type": "term",
       "create": {
         "file": "morph/terms.csv",
-        "type": "morph",
+        "from": "morph",
         "scraper": "tmtmtmtm/libya-house-of-representatives",
         "query": "SELECT * FROM terms"
       }
@@ -24,7 +24,7 @@
       "file": "gender-balance/results.csv",
       "type": "gender",
       "create": {
-        "type": "gender-balance",
+        "from": "gender-balance",
         "source": "Libya/House-of-Representatives"
       }
     }

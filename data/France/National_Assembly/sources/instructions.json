@@ -3,7 +3,7 @@
     {
       "file": "morph/data.csv",
       "create": {
-        "type": "morph",
+        "from": "morph",
         "scraper": "tmtmtmtm/nos_deputes_france",
         "query": "SELECT *, identifier_assemblee_nationale AS identifier__assemblee_nationale, 'http://www2.assemblee-nationale.fr/static/tribun/14/photos/' || identifier_assemblee_nationale || '.jpg' AS image FROM data ORDER BY id"
       },
@@ -13,7 +13,7 @@
     {
       "file": "morph/wikidata.csv",
       "create": {
-        "type": "morph",
+        "from": "morph",
         "scraper": "tmtmtmtm/france-chamber-of-deputies-wikidata",
         "query": "SELECT * FROM data ORDER BY id"
       },
@@ -30,7 +30,7 @@
       "file": "gender-balance/results.csv",
       "type": "gender",
       "create": {
-        "type": "gender-balance",
+        "from": "gender-balance",
         "source": "France/National-Assembly"
       }
     },
@@ -38,7 +38,7 @@
       "file": "wikidata/groups.json",
       "type": "group",
       "create": {
-        "type": "group-wikidata",
+        "from": "group-wikidata",
         "source": "manual/group_wikidata.csv"
       }
     },
@@ -46,7 +46,7 @@
       "file": "wikidata/positions.json",
       "type": "wikidata-positions",
       "create": {
-        "type": "wikidata-raw",
+        "from": "wikidata-raw",
         "source": "reconciliation/wikidata.csv"
       }
     }

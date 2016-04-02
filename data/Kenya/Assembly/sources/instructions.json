@@ -3,7 +3,7 @@
     {
       "file": "morph/data.csv",
       "create": {
-        "type": "morph",
+        "from": "morph",
         "scraper": "tmtmtmtm/kenya-mzalendo",
         "query": "SELECT * FROM data ORDER BY id"
       },
@@ -13,7 +13,7 @@
     {
       "file": "morph/official.csv",
       "create": {
-        "type": "morph",
+        "from": "morph",
         "scraper": "tmtmtmtm/kenya-national-assembly",
         "query": "SELECT * FROM data ORDER BY id"
       },
@@ -28,7 +28,7 @@
     {
       "file": "morph/wikidata.csv",
       "create": {
-        "type": "morph",
+        "from": "morph",
         "scraper": "tmtmtmtm/kenya-house-of-representatives-wikidata",
         "query": "SELECT * FROM data ORDER BY id"
       },
@@ -45,7 +45,7 @@
       "type": "term",
       "create": {
         "file": "morph/terms.csv",
-        "type": "morph",
+        "from": "morph",
         "scraper": "tmtmtmtm/kenya-mzalendo",
         "query": "SELECT * FROM terms"
       }
@@ -54,7 +54,7 @@
       "file": "gender-balance/results.csv",
       "type": "gender",
       "create": {
-        "type": "gender-balance",
+        "from": "gender-balance",
         "source": "Kenya/Assembly"
       }
     },
@@ -62,7 +62,7 @@
       "file": "wikidata/groups.json",
       "type": "group",
       "create": {
-        "type": "group-wikidata",
+        "from": "group-wikidata",
         "source": "manual/group_wikidata.csv"
       }
     },
@@ -70,7 +70,7 @@
       "file": "wikidata/positions.json",
       "type": "wikidata-positions",
       "create": {
-        "type": "wikidata-raw",
+        "from": "wikidata-raw",
         "source": "reconciliation/wikidata.csv"
       }
     }
