@@ -459,12 +459,48 @@
     {
       "classification": "party",
       "id": "party/saint-barth_d'abord",
-      "name": "Saint-Barth d'abord"
+      "identifiers": [
+        {
+          "identifier": "Q7401017",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Saint-Barth d'abord",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Saint Barth First!",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Saint-Barth d’abord!",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/saint-barth_en_mouvement_!",
-      "name": "Saint-Barth en mouvement !"
+      "identifiers": [
+        {
+          "identifier": "Q23691165",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Saint-Barth en mouvement !",
+      "other_names": [
+        {
+          "lang": "fr",
+          "name": "Saint-Barth en mouvement!",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Saint Barth in Motion",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "legislature",
@@ -481,7 +517,20 @@
     {
       "classification": "party",
       "id": "party/tous_pour_saint-barth",
-      "name": "Tous pour Saint-Barth"
+      "identifiers": [
+        {
+          "identifier": "Q4729847",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Tous pour Saint-Barth",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "All United for Saint Barthélemy",
+          "note": "multilingual"
+        }
+      ]
     }
   ],
   "meta": {
