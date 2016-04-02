@@ -115,7 +115,7 @@ task :build_parties do
   groups = popolo[:memberships].group_by { |m| m[:on_behalf_of_id] }.sort_by { 
     |m, ms| ms.count 
   }.reverse.map { |m, ms| 
-    [ m, popolo[:organizations].find { |o| o[:id] == m }[:name] ].to_csv
+    [ m.gsub('party/',''), popolo[:organizations].find { |o| o[:id] == m }[:name] ].to_csv
   }.join
   FileUtils.mkpath('sources/manual')
   File.write('sources/manual/group_wikidata.csv', "id,wikidata\n" + groups)
