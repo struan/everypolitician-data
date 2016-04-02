@@ -16693,6 +16693,12 @@
     },
     {
       "birth_date": "1970-07-19",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "NicolaSturgeon"
+        }
+      ],
       "gender": "female",
       "given_name": "Nicola",
       "id": "cc093062-a4d6-45d8-9596-783eb01d1893",
@@ -16888,6 +16894,10 @@
         {
           "note": "Wikipedia (zh_yue)",
           "url": "https://zh_yue.wikipedia.org/wiki/司徒瑾"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/NicolaSturgeon"
         }
       ],
       "name": "Nicola Sturgeon",
@@ -21162,6 +21172,31 @@
           "lang": "ja",
           "name": "スコットランド保守党",
           "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Na Toraidhean",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Na Tòraidhean",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Phàrtaidh Tòraidheachd na h-Alba",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Scottish Conservative Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Pàrtaidh Tòraidheachd na h-Alba",
+          "note": "multilingual"
         }
       ]
     },
@@ -21461,11 +21496,6 @@
           "note": "multilingual"
         },
         {
-          "lang": "simple",
-          "name": "Independent",
-          "note": "multilingual"
-        },
-        {
           "lang": "sr",
           "name": "независни политичар",
           "note": "multilingual"
@@ -21579,6 +21609,306 @@
           "lang": "sd",
           "name": "آزاد",
           "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "無黨派",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "无党派人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "獨立人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "獨立候選人",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Sans etiquette",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Indépendant",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Non-inscrits",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Non-inscrit",
+          "note": "multilingual"
+        },
+        {
+          "lang": "arz",
+          "name": "Independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidato civico",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Movimientos cívicos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Independientes",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidatos cívicos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidato Cívico",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidatura independiente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Movimiento Cívico",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidatura cívica",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidata cívica",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "சுயேச்சை",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Unabhängiger",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "freier Abgeordneter",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Politikus independen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "無所属議員",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "onafhankelijke",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "partijloos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "partijloze",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "partijlozen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Vänstervilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Liberal vilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Moderat vilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Politiska vildar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Obunden",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Politisk vilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Frisinnad vilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Högervilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "سياسيون مستقلون",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Sem partido",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Político independente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Candidato independente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Bağımsız Politikacı",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Serbest siyasetçi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Parteilos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Politicieni independenţi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Politicieni independenți",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Gwleidydd annibynnol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Annibynnol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Annibynol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Uden for partierne",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Frigænger",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Udenfor partierne",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Uafhængig",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Partiløs",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "nonpartisan politician",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "candidato indipendente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "politico indipendente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be-tarask",
+          "name": "Беспартыйны палітык",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "uavhengig",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "bezpartajní",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "bez stranické příslušnosti",
+          "note": "multilingual"
         }
       ]
     },
@@ -21667,6 +21997,21 @@
         {
           "lang": "ja",
           "name": "スコットランド労働党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Pàrtaidh Làbrach na h-Alba",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Scottish Labour Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Scottish Labour",
           "note": "multilingual"
         }
       ]
@@ -21775,6 +22120,31 @@
         {
           "lang": "ja",
           "name": "スコットランド社会運動「連帯」",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Solidarite",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Solidarity - Scotland's Socialist Movement",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Solidarity",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Солидарность — Шотландское социалистическое движение",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Solidarity",
           "note": "multilingual"
         }
       ]
@@ -21892,6 +22262,51 @@
         {
           "lang": "ja",
           "name": "スコットランド社会党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Scottish Socialist Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Pàrtaidh Shòisealach na h-Alba",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Scottish Socialist Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti socialiste ecossais",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Scottish Socialist Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Socialista Escoces",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Det skotske sosialistpartiet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "Scots Socialist Pairtie",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "الحزب الاشتراكي الاسكتلندي",
           "note": "multilingual"
         }
       ]
@@ -22273,6 +22688,36 @@
           "lang": "ro",
           "name": "Partidul Național Scoțian",
           "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "SNP",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "SNP",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Partaidh Naiseanta na h-Alba",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Schottische Nationalpartei",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Pàrtaidh Nàiseanta na h-Alba",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "蘇格蘭民族黨",
+          "note": "multilingual"
         }
       ]
     },
@@ -22298,6 +22743,7 @@
   "memberships": [
     {
       "area_id": "uk.org.publicwhip/cons/10837",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -22314,6 +22760,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10800",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -22331,6 +22778,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10810",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -22390,6 +22838,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10825",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "none",
       "organization_id": "legislature",
@@ -22417,6 +22866,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10761",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -22425,6 +22875,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10836",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -22467,6 +22918,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10784",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "liberal-democrat",
       "organization_id": "legislature",
@@ -22519,6 +22971,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10820",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -22544,6 +22997,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10716",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -22552,6 +23006,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10720",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -22569,6 +23024,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10721",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -22587,6 +23043,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10838",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
@@ -22670,6 +23127,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10737",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -22695,6 +23153,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10718",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -22703,6 +23162,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10740",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -22720,6 +23180,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10836",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -22728,6 +23189,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10836",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
@@ -22746,6 +23208,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10738",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -22779,6 +23242,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10749",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -22829,6 +23293,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10834",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -22845,6 +23310,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10720",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "liberal-democrat",
       "organization_id": "legislature",
@@ -22862,6 +23328,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10797",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -22887,6 +23354,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10838",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -22904,6 +23372,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10806",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -22937,6 +23406,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10830",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -22945,6 +23415,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10838",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -22978,6 +23449,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10829",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -23012,6 +23484,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10720",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
@@ -23029,6 +23502,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10721",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "liberal-democrat",
       "organization_id": "legislature",
@@ -23045,6 +23519,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10815",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -23078,6 +23553,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10733",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -23170,6 +23646,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10808",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -23203,6 +23680,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10838",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
@@ -23211,6 +23689,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10837",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -23244,6 +23723,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10791",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -23269,6 +23749,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10792",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -23277,6 +23758,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10836",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "green",
       "organization_id": "legislature",
@@ -23301,6 +23783,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10717",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
@@ -23334,6 +23817,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10827",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -23385,6 +23869,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10833",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -23428,6 +23913,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10801",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -23454,6 +23940,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10817",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
@@ -23462,6 +23949,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10803",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -23488,6 +23976,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10717",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -23555,6 +24044,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10805",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -23669,6 +24159,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10717",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -23685,6 +24176,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10717",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -23743,6 +24235,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10816",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -23784,6 +24277,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10807",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -23818,6 +24312,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10747",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -23867,6 +24362,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10819",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -23925,6 +24421,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10727",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -23976,6 +24473,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10718",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "independent",
       "organization_id": "legislature",
@@ -24019,6 +24517,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10717",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "green",
       "organization_id": "legislature",
@@ -24027,6 +24526,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10828",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -24071,6 +24571,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10798",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -24097,6 +24598,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10716",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "independent",
       "organization_id": "legislature",
@@ -24123,6 +24625,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10720",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -24147,6 +24650,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10716",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -24164,6 +24668,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10824",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -24206,6 +24711,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10837",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -24317,6 +24823,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10748",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -24325,6 +24832,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10724",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -24333,6 +24841,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10814",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -24366,6 +24875,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10770",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -24374,6 +24884,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10718",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -24407,6 +24918,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10767",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -24424,6 +24936,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10718",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "independent",
       "organization_id": "legislature",
@@ -24467,6 +24980,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10836",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -24500,6 +25014,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10721",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -24608,6 +25123,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10717",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -24650,6 +25166,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10721",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
@@ -24666,6 +25183,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10781",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -24708,6 +25226,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10822",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -24716,6 +25235,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10837",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -24759,6 +25279,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10818",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
@@ -24859,6 +25380,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10720",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
@@ -24892,6 +25414,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10736",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -24900,6 +25423,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10721",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -24960,6 +25484,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10780",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -24993,6 +25518,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10790",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "liberal-democrat",
       "organization_id": "legislature",
@@ -25027,6 +25553,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10716",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
@@ -25052,6 +25579,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10739",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -25138,6 +25666,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10779",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -25163,6 +25692,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10729",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -25263,6 +25793,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10717",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -25288,6 +25819,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10775",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -25321,6 +25853,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10812",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -25354,6 +25887,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10823",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -25371,6 +25905,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10721",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -25465,6 +26000,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10730",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
@@ -25549,6 +26085,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10799",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -25582,6 +26119,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10763",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -25632,6 +26170,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10735",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -25640,6 +26179,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10831",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -25692,6 +26232,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10838",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -25725,6 +26266,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10809",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -25733,6 +26275,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10756",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -25766,6 +26309,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10832",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -25823,6 +26367,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10813",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -25872,6 +26417,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10835",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -25905,6 +26451,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10741",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -25964,6 +26511,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10716",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -25972,6 +26520,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10753",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -26005,6 +26554,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10838",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -26013,6 +26563,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10826",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -26047,6 +26598,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10718",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
@@ -26081,6 +26633,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10804",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -26114,6 +26667,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10821",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -26164,6 +26718,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10720",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -26181,6 +26736,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10836",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
@@ -26189,6 +26745,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10716",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -26214,6 +26771,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10759",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -26313,6 +26871,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10721",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
@@ -26371,6 +26930,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10776",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -26387,6 +26947,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10720",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -26428,6 +26989,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10757",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -26436,6 +26998,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10750",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -26452,6 +27015,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10811",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -26461,6 +27025,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10716",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -26478,6 +27043,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10837",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "liberal-democrat",
       "organization_id": "legislature",
@@ -26570,6 +27136,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10765",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -26578,6 +27145,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10837",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -26622,6 +27190,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10838",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -26663,6 +27232,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10718",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -26782,6 +27352,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10802",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -26790,6 +27361,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10837",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -26864,6 +27436,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10718",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
