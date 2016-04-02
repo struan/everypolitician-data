@@ -17,6 +17,7 @@ namespace :term_csvs do
   end
 
   require 'csv'
+  desc 'Generate the Term Tables'
   task :term_tables => 'ep-popolo-v1.0.json' do
     @json = JSON.parse(File.read('ep-popolo-v1.0.json'), symbolize_names: true )
     popolo = EveryPolitician::Popolo.read('ep-popolo-v1.0.json')
@@ -57,7 +58,7 @@ namespace :term_csvs do
     data.group_by { |r| r[:term] }.each do |t, rs|
       filename = "term-#{t}.csv"
       header = rs.first.keys.to_csv
-      rows   = rs.sort_by { |r| [r[:name], r[:id], r[:start_date].to_s] }.map { |r| r.values.to_csv }
+      rows   = rs.sort_by { |r| [r[:name], r[:id], r[:start_date].to_s, r[:area].to_s ] }.map { |r| r.values.to_csv }
       csv    = [header, rows].compact.join
       warn "Creating #{filename}"
       File.write(filename, csv)
