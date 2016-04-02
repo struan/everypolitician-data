@@ -1059,7 +1059,40 @@
     {
       "classification": "party",
       "id": "party/alliance_lepep",
-      "name": "Alliance LEPEP"
+      "identifiers": [
+        {
+          "identifier": "Q6851928",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Alliance LEPEP",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Militant Socialist Movement",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "モーリシャス社会主義運動",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Mouvement Socialiste Militant",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "社会主義闘争運動",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "モーリシャス社会主義闘争運動",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "legislature",
@@ -1076,12 +1109,89 @@
     {
       "classification": "party",
       "id": "party/opr",
-      "name": "OPR"
+      "identifiers": [
+        {
+          "identifier": "Q7357462",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "OPR",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Rodrigues People's Organisation",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/ptr-mmm",
-      "name": "PTr-MMM"
+      "identifiers": [
+        {
+          "identifier": "Q3366796",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.labourparty.mu/"
+        }
+      ],
+      "name": "PTr-MMM",
+      "other_names": [
+        {
+          "lang": "lt",
+          "name": "Mauricijaus darbininkų partija",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Labour Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti travailliste mauricien",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Laborista de Mauricio",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Εργατικό Κόμμα",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Maurikijaus darbininkų partija",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti Travailliste Mauricien",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido laborista de mauricio",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Parti Travailliste",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "PTR",
+          "note": "multilingual"
+        }
+      ]
     }
   ],
   "meta": {
