@@ -332,12 +332,100 @@
     {
       "classification": "party",
       "id": "NDP",
-      "name": "New Democratic Party"
+      "identifiers": [
+        {
+          "identifier": "Q1255291",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.ivotingndp.com/"
+        }
+      ],
+      "name": "New Democratic Party",
+      "other_names": [
+        {
+          "lang": "ne",
+          "name": "नयाँ लोकतान्त्रिक पार्टी",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Nouveau Parti démocratique",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Nova demokratska partija",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "New Democratic Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "новая демократическая партия",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Nova demokratska stranka",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "ULP",
-      "name": "Unity Labour Party"
+      "identifiers": [
+        {
+          "identifier": "Q1277617",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://voteulp.com/"
+        }
+      ],
+      "name": "Unity Labour Party",
+      "other_names": [
+        {
+          "lang": "fr",
+          "name": "Parti travailliste uni",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "एकता मजदुर पार्टी",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Laburistička stranka jedinstva",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Unity Labour Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Laborista de Unidad",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Unity Labour Party",
+          "note": "multilingual"
+        }
+      ]
     }
   ],
   "meta": {
