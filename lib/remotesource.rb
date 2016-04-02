@@ -40,7 +40,6 @@ class RemoteSource
   
   def regenerate
     FileUtils.mkpath File.dirname i(:file)
-    warn "Regenerating #{i(:file)}"
     write
   end
 end
