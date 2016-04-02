@@ -532,12 +532,38 @@
     {
       "classification": "party",
       "id": "party/rassemblement_responsabilité_réussite",
-      "name": "Rassemblement Responsabilité Réussite"
+      "identifiers": [
+        {
+          "identifier": "Q7287073",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Rassemblement Responsabilité Réussite",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Rally Responsibility Success",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/team_daniel_gibbs_2012",
-      "name": "Team Daniel Gibbs 2012"
+      "identifiers": [
+        {
+          "identifier": "Q23690547",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Team Daniel Gibbs 2012",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Team Daniel Gibbs 2012",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "legislature",
