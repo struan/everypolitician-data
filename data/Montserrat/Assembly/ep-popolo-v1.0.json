@@ -206,12 +206,38 @@
     {
       "classification": "party",
       "id": "party/mcap",
-      "name": "MCAP"
+      "identifiers": [
+        {
+          "identifier": "Q6926622",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "MCAP",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Movement for Change and Prosperity",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/pdm",
-      "name": "PDM"
+      "identifiers": [
+        {
+          "identifier": "Q18217168",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "PDM",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "People's Democratic Movement",
+          "note": "multilingual"
+        }
+      ]
     }
   ],
   "meta": {
