@@ -2065,7 +2065,10 @@
       "label": "Prime Minister of Israel",
       "qualifiers": {
         "P580": "1948-05-17",
-        "P582": "1954-01-26"
+        "P582": "1954-01-26",
+        "P1366": "Moshe Sharett",
+        "P35": "Chaim Weizmann",
+        "P1365": ""
       }
     },
     {
@@ -2073,7 +2076,10 @@
       "label": "Prime Minister of Israel",
       "qualifiers": {
         "P580": "1955-11-03",
-        "P582": "1963-06-26"
+        "P582": "1963-06-26",
+        "P1365": "Moshe Sharett",
+        "P1366": "Levi Eshkol",
+        "P35": "Yitzhak Ben-Zvi"
       }
     },
     {
@@ -2081,7 +2087,9 @@
       "label": "Minister of Defense",
       "qualifiers": {
         "P580": "1948-05-14",
-        "P582": "1954-01-26"
+        "P582": "1954-01-26",
+        "P1366": "Pinhas Lavon",
+        "P1365": ""
       }
     },
     {
@@ -2089,7 +2097,9 @@
       "label": "Minister of Defense",
       "qualifiers": {
         "P580": "1955-02-21",
-        "P582": "1963-06-26"
+        "P582": "1963-06-26",
+        "P1365": "Pinhas Lavon",
+        "P1366": "Levi Eshkol"
       }
     },
     {
@@ -2106,7 +2116,46 @@
       "qualifiers": {
         "P580": "1948-05-14",
         "P582": "1948-05-16",
-        "P1366": "Chaim Weizmann"
+        "P1366": "Chaim Weizmann",
+        "P1365": ""
+      }
+    },
+    {
+      "id": "Q6501749",
+      "label": "General Secretary",
+      "qualifiers": {
+        "P642": "Histadrut",
+        "P580": "1921"
+      }
+    },
+    {
+      "id": "Q20021291",
+      "label": "Education Minister of Israel",
+      "qualifiers": {
+        "P580": "1951-05-19",
+        "P582": "1951-10-08",
+        "P1365": "David Remez",
+        "P1366": "Ben-Zion Dinur"
+      }
+    },
+    {
+      "id": "Q742063",
+      "label": "Justice Minister of Israel",
+      "qualifiers": {
+        "P582": "1958-01-07",
+        "P580": "1956-02-13",
+        "P1365": "Pinchas Rosen",
+        "P1366": "Pinchas Rosen"
+      }
+    },
+    {
+      "id": "Q15731446",
+      "label": "Minister of Transport and Road Safety",
+      "qualifiers": {
+        "P580": "1952-08-14",
+        "P582": "1952-12-24",
+        "P1365": "David-Zvi Pinkas",
+        "P1366": "Yosef Serlin"
       }
     }
   ],
@@ -9865,7 +9914,13 @@
     },
     {
       "id": "Q545206",
-      "label": "Chief of General Staff"
+      "label": "Chief of General Staff",
+      "qualifiers": {
+        "P580": "1964",
+        "P582": "1968",
+        "P1365": "Tzvi Tzur",
+        "P1366": "Haim Bar-Lev"
+      }
     },
     {
       "id": "Q20021270",
