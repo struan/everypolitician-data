@@ -1722,12 +1722,135 @@
     {
       "classification": "party",
       "id": "party/people's_united_party",
-      "name": "People's United Party"
+      "identifiers": [
+        {
+          "identifier": "Q1759613",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.pup.org.bz"
+        }
+      ],
+      "name": "People's United Party",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "People’s United Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti populaire uni",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Народная объединённая партия Белиза",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "People's United Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Yhdistynyt kansanpuolue",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Народна об'єднана партія Белізу",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Zjednoczona Partia Ludowa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "People's United Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "НОП",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Народная объединенная партия Белиза",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/united_democratic_party",
-      "name": "United Democratic Party"
+      "identifiers": [
+        {
+          "identifier": "Q1809323",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.udp.org.bz"
+        }
+      ],
+      "name": "United Democratic Party",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "United Democratic Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti démocratique uni",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Объединённая демократическая партия Белиза",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "United Democratic Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Yhdistynyt demokraattinen puolue",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Об'єднана демократична партія Белізу",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Zjednoczona Partia Demokratyczna",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Ενωμένο Δημοκρατικό Κόμμα",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti democratique uni",
+          "note": "multilingual"
+        }
+      ]
     }
   ],
   "meta": {
