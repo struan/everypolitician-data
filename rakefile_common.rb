@@ -98,7 +98,7 @@ task :add_gender_balance do
     file: "gender-balance/results.csv",
     type: "gender",
     create: {
-      type: "gender-balance",
+      from: "gender-balance",
       source: pwd.split("/").last(2).join("/").gsub("_", "-"),
     },
   } 
@@ -124,7 +124,7 @@ task :build_parties do
     file: "wikidata/groups.json",
     type: "group",
     create: {
-      type: "group-wikidata",
+      from: "group-wikidata",
       source: "manual/group_wikidata.csv"
     },
   } 
@@ -144,7 +144,7 @@ task :build_p39s do
     file: "wikidata/positions.json",
     type: "wikidata-positions",
     create: {
-      type: "wikidata-raw",
+      from: "wikidata-raw",
       source: reconciliation[:reconciliation_file],
     },
   } 
