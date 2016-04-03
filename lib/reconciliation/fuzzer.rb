@@ -47,7 +47,8 @@ module Reconciliation
           incoming: incoming_row,
           existing: matches.take(3),
         }
-        warn "Fuzzed #{display(data)}"
+        output = "Fuzzed #{display(data)}"
+        data[:existing].first[1] > 0.9 ? warn(output.to_s.yellow): warn(output)
         data
       end.compact
     end
