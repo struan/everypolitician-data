@@ -21,6 +21,14 @@
         "from": "gender-balance",
         "source": "Alderney/States"
       }
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "create": {
+        "from": "group-wikidata",
+        "source": "manual/group_wikidata.csv"
+      }
     }
   ]
 }
