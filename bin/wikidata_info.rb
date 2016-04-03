@@ -1,6 +1,7 @@
 require 'json'
 require 'pry'
 require 'colorize'
+require 'everypolitician'
 
 def json_from(json_file)
   JSON.parse(File.read(json_file), symbolize_names: true)
@@ -11,8 +12,9 @@ def percentage(x, y)
   x * 100.to_f / y
 end
 
-cfile = ARGV.first || "countries.json" or abort "Usage: #$0 <countries file>"
-@countries = json_from(cfile)
+EveryPolitician.countries_json = 'countries.json'
+
+legislatures = EveryPolitician.countries.map { |c| c.legislatures }.flatten
 
 puts <<'eoheader'
 {| class="wikitable sortable"
@@ -22,9 +24,9 @@ puts <<'eoheader'
 eoheader
 
 total = { persons: 0, matched: 0 }
-@countries.each do |c|
-  c[:legislatures].each do |l|
-    @json = json_from l[:popolo]
+EveryPolitician.countries.each do |c|
+  c.legislatures.each do |l|
+    @json = json_from l.raw_data[:popolo]
     wdid = @json[:organizations].find { |o| o[:classification] == 'legislature' }[:identifiers].find { |i| i[:scheme] == 'wikidata' }[:identifier]
 
     persons = @json[:persons]
