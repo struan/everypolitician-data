@@ -2394,7 +2394,35 @@
     {
       "classification": "party",
       "id": "party/ce",
-      "name": "CE"
+      "identifiers": [
+        {
+          "identifier": "Q2934607",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "CE",
+      "other_names": [
+        {
+          "lang": "ca",
+          "name": "Calédonie ensemble",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Caledonia Together",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Calédonie ensemble",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Kaledonio Kune",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "legislature",
@@ -2411,22 +2439,210 @@
     {
       "classification": "party",
       "id": "party/les_républicains",
-      "name": "Les Républicains"
+      "identifiers": [
+        {
+          "identifier": "Q20731571",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Les Républicains",
+      "other_names": [
+        {
+          "lang": "fr",
+          "name": "Groupe Les Républicains",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/palika",
-      "name": "PALIKA"
+      "identifiers": [
+        {
+          "identifier": "Q3366347",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "PALIKA",
+      "other_names": [
+        {
+          "lang": "ca",
+          "name": "Partit per l'Alliberament Canac",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Party of Kanak Liberation",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti de libération kanak",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Partit d'Alliberament Canac",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Palika",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Palika",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti de libération kanake",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/uc-flnks_et_nationalistes",
-      "name": "UC-FLNKS et Nationalistes"
+      "identifiers": [
+        {
+          "identifier": "Q1723564",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/88/Pro-Independence_Flag_of_New_Caledonia.svg",
+      "name": "UC-FLNKS et Nationalistes",
+      "other_names": [
+        {
+          "lang": "ru",
+          "name": "Канакский социалистический фронт национального освобождения",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Front de libération nationale kanak et socialiste",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Kanak and Socialist National Liberation Front",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Front d'Alliberament Nacional Canac Socialista",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Kanakische sozialistische Front der nationalen Befreiung",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Front de libération nationale kanak et socialiste",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Socjalistyczny Front Narodowego Wyzwolenia Kanaków",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Канакский социалистический фронт народного освобождения",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "FLNKS",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Front De Libération Nationale Kanak Et Socialiste",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Front de liberation nationale kanak et socialiste",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "FNLKS",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Front d'Alliberament Nacional Kanak Socialista",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "FLNKS",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Sozialistische Befreiungsfront",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "FLNKS",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Sozialistische Befreiungsfront von Kanaky",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "FLNKS",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/uni",
-      "name": "UNI"
+      "identifiers": [
+        {
+          "identifier": "Q3550394",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "UNI",
+      "other_names": [
+        {
+          "lang": "ca",
+          "name": "Unió Nacional per la Independència (Nova Caledònia)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Union nationale pour l'indépendance",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Union Nationale pour l'Indépendance",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Union nationale pour l'independance",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Union nationale pour l’indépendance",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
