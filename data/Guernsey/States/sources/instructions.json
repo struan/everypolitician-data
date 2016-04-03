@@ -5,7 +5,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/guernsey-states",
-        "query": "SELECT * FROM data"
+        "query": "SELECT *, NULL AS source FROM data"
       },
       "source": "http://www.gov.gg/states_members",
       "type": "membership"
