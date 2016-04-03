@@ -15,6 +15,13 @@ GIT
     everypolitician-popolo (0.1.0)
 
 GIT
+  remote: https://github.com/everypolitician/everypolitician-ruby
+  revision: 2867f271808c70ed65816efb957340ac6135991a
+  specs:
+    everypolitician (0.6.0)
+      everypolitician-popolo
+
+GIT
   remote: https://github.com/everypolitician/wikisnakker
   revision: c4939906c4653200c5f77b3a8653615f96bdf11e
   branch: master
@@ -65,6 +72,7 @@ PLATFORMS
 DEPENDENCIES
   colorize
   csv_to_popolo (~> 0.21.0)!
+  everypolitician!
   everypolitician-popolo!
   fuzzy_match
   iso_country_codes
