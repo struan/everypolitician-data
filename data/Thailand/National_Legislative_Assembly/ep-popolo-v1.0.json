@@ -4395,7 +4395,85 @@
     {
       "classification": "party",
       "id": "party/ncpo",
-      "name": "NCPO"
+      "identifiers": [
+        {
+          "identifier": "Q16919521",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "NCPO",
+      "other_names": [
+        {
+          "lang": "th",
+          "name": "คณะรักษาความสงบแห่งชาติ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "National Council for Peace and Order",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Командование по обеспечению мира и порядка",
+          "note": "multilingual"
+        },
+        {
+          "lang": "si",
+          "name": "ජාතික සාමය සහ නීතිය රැකිමේ මණ්ඩලය",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "مجلس السلام الوطني والحفاظ على النظام",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Rat für Frieden und Ordnung",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Consiglio Nazionale per il Mantenimento della Pace e dell'Ordine",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "National Council for Peace and Order",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "National Council for Peace and Order",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Conseil national pour la paix et le maintien de l'ordre",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Dewan Penjaga Ketertiban dan Perdamaian Nasional Thailand",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Consejo Nacional para la Paz y el Orden",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Conselho Nacional para a Paz e a Ordem",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "국가평화유지위원회",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "legislature",
