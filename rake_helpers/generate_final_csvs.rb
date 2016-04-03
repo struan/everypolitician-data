@@ -94,12 +94,15 @@ namespace :term_csvs do
     File.write(filename, csv)
   end
 
+  desc "Add some final reporting information"
   task :reports => :term_tables do
     wikidata_persons = @json[:persons].partition { |p| (p[:identifiers] || []).find { |i| i[:scheme] == 'wikidata' } }
-    wikidata_parties = @json[:organizations].select { |o| o[:classification] == 'party' }.partition { |p| (p[:identifiers] || []).find { |i| i[:scheme] == 'wikidata' } }
-    warn "Wikidata Persons: #{wikidata_persons.first.count} ✓ | #{wikidata_persons.last.count} ✘"
+    wikidata_parties = @json[:organizations].select { |o| o[:classification] == 'party' }.partition { |p| 
+      p[:name].downcase == 'unknown' || (p[:identifiers] || []).find { |i| i[:scheme] == 'wikidata' } 
+    }
+    warn "Wikidata Persons matched: #{wikidata_persons.first.count} ✓ | #{wikidata_persons.last.count} ✘"
     wikidata_persons.last.shuffle.take(10).each { |p| warn "  Missing: #{ p[:name] }" } if wikidata_persons.first.count > 0 
-    warn "Wikidata Parties: #{wikidata_parties.first.count} ✓ | #{wikidata_parties.last.count} ✘"
+    warn "Wikidata Parties matched: #{wikidata_parties.first.count} ✓ | #{wikidata_parties.last.count} ✘"
     wikidata_parties.last.each { |p| warn "  Missing: #{p[:name]} (#{p[:id]})" } if wikidata_parties.first.count > 0 && wikidata_parties.last.count <= 5
   end
 
