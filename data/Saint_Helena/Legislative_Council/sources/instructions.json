@@ -32,6 +32,14 @@
         "from": "gender-balance",
         "source": "Saint-Helena/Legislative-Council"
       }
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "create": {
+        "from": "group-wikidata",
+        "source": "manual/group_wikidata.csv"
+      }
     }
   ]
 }
