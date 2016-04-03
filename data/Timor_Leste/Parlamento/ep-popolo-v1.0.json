@@ -1334,22 +1334,533 @@
     {
       "classification": "party",
       "id": "party/cnrt",
-      "name": "CNRT"
+      "identifiers": [
+        {
+          "identifier": "Q1126036",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "CNRT",
+      "other_names": [
+        {
+          "lang": "fr",
+          "name": "Congrès national de reconstruction timoraise",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "National Congress for Timorese Reconstruction",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Национален конгрес за реконструкция на Тимор",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Congresso Nacional da Reconstrução Timorense",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "東ティモール再建国民会議",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Congreso Nacional de Reconstrucción de Timor del Este",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Nationalkongressen för timoresisk återuppbyggnad",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Congresso Nacional para a Reconstrução de Timor-Leste",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Congrès nacional de reconstruccion timoresa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Kongres Nasional Rekonstruksi Timor",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Национальный конгресс за реконструкцию Тимора",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "สภาแห่งชาติเพื่อการฟื้นฟูติมอร์",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Congrès National De Reconstruction Timoraise",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Congres national de reconstruction timoraise",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Conselho Nacional de Reconstrução Timorense",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "CNRT",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "CNRT",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Congreso Nacional de Reconstruccion de Timor del Este",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/f.m",
-      "name": "F.M"
+      "identifiers": [
+        {
+          "identifier": "Q668067",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/92/Frenti_Mudanca_2015.png",
+      "name": "F.M",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Frenti-Mudança",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Frenti-Mudança",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Frenti-Mudança",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Frenti-Mudança",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Frenti-Mudança",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/fretilin",
-      "name": "FRETILIN"
+      "identifiers": [
+        {
+          "identifier": "Q935996",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Flag_of_FRETILIN_(East_Timor).svg",
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.fretilin.org"
+        }
+      ],
+      "name": "FRETILIN",
+      "other_names": [
+        {
+          "lang": "hi",
+          "name": "स्वतंत्र पूर्वी तिमोर के लिए क्रांतिकारी मोर्चा",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Frente Revolucionária de Timor-Leste Independente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hans",
+          "name": "东帝汶独立革命阵线",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "東帝汶獨立革命陣線",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "東帝汶獨立革命陣線",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "FRETILIN",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "פרטילין",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Front révolutionnaire pour l'indépendance du Timor oriental",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Революционный фронт за независимость Восточного Тимора",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Fretilin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Revolutionary Front for an Independent East Timor",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-el",
+          "name": "Revolucionarni front za nezavisnost Istočnog Timora",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-ec",
+          "name": "Револуционарни фронт за независност Источног Тимора",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "แนวร่วมปฏิวัติเพื่อเอกราชติมอร์ตะวันออก",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Fretilin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "FRETILIN",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "FRETILIN",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Fretilin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "東ティモール独立革命戦線",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tet",
+          "name": "FRETILIN",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Революционен фронт за независим Източен Тимор",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Revoliucinis Frontas už Nepriklausomą Rytų Timorą",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Fretilin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "FRETILIN",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "FRETILIN",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "东帝汶独立革命阵线",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Револуционарни фронт за независност Источног Тимора",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Революційний фронт за незалежність Східного Тимору",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Revolucionarni front za nezavisnost Istočnog Timora",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hi",
+          "name": "फ्रेटिलिन",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "FRETILIN",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Frente Revolucionária de Timor-Leste",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Frente Revolucionária de Timor Leste Independente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "ASDT",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "東帝汶獨立革命陣線",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "FRETILIN",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Front revolutionnaire pour l'independance du Timor oriental",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Революционный фронт за независимый Восточный Тимор",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "ФРЕТИЛИН",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Frente Revolucionario de Timor Oriental Independiente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Frente Revolucionaria de Timor-Leste Independente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Frente Revolucionaria de Timor Leste Independente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Frente Revolucionária de Timor-Leste Independente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Frente Revolucionária de Timor Leste Independente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "ФРЕТИЛИН",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "สมาคมประชาธิปไตยสังคมติมอร์",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "เฟรติลิน",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Front Revolucionari de Timor Oriental Independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Frente Revolucionaria de Timor Leste Independente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Frente Revolucionária de Timor-Leste Independente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "OJETIL",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Frente Revolucionaria de Timor Leste Independiente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Frente Revolucionaria de Timor-Leste Independiente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Frente Revolucionaria do Timor-Leste Independente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Frente Revolucionária do Timor-Leste Independente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "フレティリン",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "フレテリン",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tet",
+          "name": "Frente Revolucionária do Timor Leste Independente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "ФРЕТИЛИН",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "FRETILIN",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/pd",
-      "name": "PD"
+      "identifiers": [
+        {
+          "identifier": "Q523216",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://partidodemocratico.org"
+        }
+      ],
+      "name": "PD",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Partido Democrático",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Democratic Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Democrático",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "民主党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Partia Demokratyczna",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Partido Democrático",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Partido Democrático (Timor-Leste)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Partito Democratico",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Partai Demokrat",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti démocratique",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "legislature",
