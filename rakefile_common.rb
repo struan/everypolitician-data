@@ -158,12 +158,10 @@ end
 
 def sources
   @sources ||= begin
-    # Make sure all instructions have a `type`
-    if (no_type = instructions(:sources).find { |src| src[:type].to_s.empty? })
-      raise "Missing `type` in #{no_type} file"
+    instructions(:sources).map do |src|
+      raise "Missing `type` field in source: #{src}" if src[:type].to_s.empty?
+      Source::Base.instantiate(src)
     end
-
-    instructions(:sources).map { |s| Source::Base.instantiate(s) }
   end
 end
 
