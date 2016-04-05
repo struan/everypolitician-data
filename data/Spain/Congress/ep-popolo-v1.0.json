@@ -1629,6 +1629,10 @@
       "id": "9398536b-75fd-4388-bd81-a322ab16d105",
       "identifiers": [
         {
+          "identifier": "XX955291",
+          "scheme": "bne"
+        },
+        {
           "identifier": "122121044",
           "scheme": "bnf"
         },
@@ -24094,6 +24098,17 @@
     },
     {
       "birth_date": "1964-09-16",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "juanmaria.vazquez@congreso.es"
+        },
+        {
+          "type": "twitter",
+          "value": "JMVRUM"
+        }
+      ],
+      "email": "juanmaria.vazquez@congreso.es",
       "family_name": "Vázquez Rojas",
       "gender": "male",
       "given_name": "Juan María",
@@ -24102,6 +24117,12 @@
       "images": [
         {
           "url": "http://www.congreso.es/wc/htdocs/web/img/diputados/30_11.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/JMVRUM"
         }
       ],
       "name": "Juan María Vázquez Rojas",
