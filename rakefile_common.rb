@@ -157,11 +157,9 @@ def instructions(key)
 end
 
 def sources
-  @sources ||= begin
-    instructions(:sources).map do |src|
-      raise "Missing `type` field in source: #{src}" if src[:type].to_s.empty?
-      Source::Base.instantiate(src)
-    end
+  @sources ||= instructions(:sources).map do |src|
+    raise "Missing `type` field in source: #{src}" if src[:type].to_s.empty?
+    Source::Base.instantiate(src)
   end
 end
 
