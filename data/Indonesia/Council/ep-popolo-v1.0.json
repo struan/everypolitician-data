@@ -2720,6 +2720,11 @@
           "lang": "id",
           "name": "Junimart Girsang",
           "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Junimart Girsang",
+          "note": "multilingual"
         }
       ],
       "sources": [
@@ -4029,14 +4034,44 @@
       ]
     },
     {
+      "gender": "female",
+      "given_name": "Eva",
       "id": "60892394-006f-4fb0-a1da-d30a6b2aba96",
+      "identifiers": [
+        {
+          "identifier": "Q16176426",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://dpr.go.id/doksigota/photo/313_DRA._EVA_KUSUMA_SUNDARI_MA,_MDE.jpg",
       "images": [
         {
           "url": "http://dpr.go.id/doksigota/photo/313_DRA._EVA_KUSUMA_SUNDARI_MA,_MDE.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (id)",
+          "url": "https://id.wikipedia.org/wiki/Eva_Kusuma_Sundari"
+        }
+      ],
       "name": "Dra. EVA KUSUMA SUNDARI MA, MDE",
+      "other_names": [
+        {
+          "name": "Eva Kusuma Sundari",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Eva Kusuma Sundari",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Eva Kusuma Sundari",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://dpr.go.id/en/anggota"
