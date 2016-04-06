@@ -66,7 +66,7 @@ namespace :merge_sources do
 
     # First get all the `membership` rows, and either merge or concat
     sources.select(&:is_memberships?).each do |src|
-      warn "Add memberships from #{src.filename}".magenta
+      warn "Add memberships from #{src.filename}".green
       
       incoming_data = src.filtered_table
       id_map = src.id_map
@@ -104,15 +104,13 @@ namespace :merge_sources do
     # Then merge with Biographical data files
 
     sources.select(&:is_bios?).each do |pd|
-      warn "Merging with #{pd.filename}".magenta
+      warn "Merging with #{pd.filename}".green
 
       incoming_data = pd.as_table
 
       abort "No merge instructions for #{pd.filename}" if (approaches = pd.merge_instructions).empty?
       approaches.each_with_index do |merge_instructions, i|
         reconciler = Reconciler.new(merge_instructions)
-
-        warn "  Match incoming #{reconciler.incoming_field} to #{reconciler.existing_field}"
 
         if reconciler.filename
           if ENV['GENERATE_RECONCILIATION_INTERFACE'] && reconciler.triggered_by?(ENV['GENERATE_RECONCILIATION_INTERFACE'])
@@ -193,7 +191,7 @@ namespace :merge_sources do
           end
         end
 
-        warn "* %d of %d unmatched".magenta % [unmatched.count, incoming_data.count]
+        warn "* %d of %d unmatched".magenta % [unmatched.count, incoming_data.count] if unmatched.any?
         unmatched.sample(10).each do |r|
           warn "\t#{r.to_hash.reject { |k,v| v.to_s.empty? }.select { |k, v| %i(id name).include? k } }"
         end 
@@ -203,11 +201,13 @@ namespace :merge_sources do
     end
 
     # Gender information from Gender-Balance.org
-    if gb = instructions(:sources).find { |src| src[:type].to_s.downcase == 'gender' }
+    if gb = sources.find { |src| src.type.downcase == 'gender' }
+      warn "Adding GenderBalance results from #{gb.filename}".green 
+
       min_selections = 5   # accept gender if at least this many votes
       vote_threshold = 0.8 # and at least this ratio of votes were for it
 
-      gender = CSV.table(gb[:file], converters: nil).group_by { |r| r[:uuid] }
+      gender = gb.as_table.group_by { |r| r[:uuid] }
       gb_votes = 0
 
       # Only calculate the gender if we don't already have it
@@ -216,21 +216,22 @@ namespace :merge_sources do
         votes = (gender[ r[:uuid] ] or next).first
         next if votes[:total].to_i < min_selections
         winner = votes.reject { |k, _| %i(uuid total).include? k }.find { |k, v| (v.to_f / votes[:total].to_f) > vote_threshold } or begin
-          warn "Unclear gender vote pattern: #{votes.to_hash}"
+          warn "  Unclear gender vote pattern: #{votes.to_hash}"
           next
         end
         next if winner.first == :skip
         r[:gender] = winner.first.to_s 
         gb_votes += 1
       end
-      warn "⚥ #{gb_votes}".cyan 
+      warn "  ⚥ set for #{gb_votes}".cyan 
     end
 
     # Map Areas
-    if area = instructions(:sources).find { |src| src[:type].to_s.downcase == 'ocd' }
-      ocds = CSV.table(area[:file], converters: nil).group_by { |r| r[:id] }
+    if area = sources.find { |src| src.type.downcase == 'ocd' }
+      warn "Adding OCD areas from #{area.filename}".green
+      ocds = area.as_table.group_by { |r| r[:id] }
 
-      if area[:generate] == 'area'
+      if area.generate == 'area'
         merged_rows.each do |r|
           r[:area] = ocds[r[:area_id]].first[:name] rescue nil
         end
@@ -243,9 +244,9 @@ namespace :merge_sources do
         fuzzer = FuzzyMatch.new(ocds.values.flatten(1), read: :name)
         finder = ->(r) { fuzzer.find(r[:area], must_match_at_least_one_word: true) }
 
+        overrides = area.overrides
         override = ->(name) {
-          return unless area[:merge].key? :overrides
-          return unless override_id = area[:merge][:overrides][name.to_sym]
+          return unless override_id = overrides[name.to_sym]
           return '' if override_id.empty?
           binding.pry
           # FIXME look up in Hash instead
@@ -258,9 +259,9 @@ namespace :merge_sources do
           unless areas.key? r[:area]
             areas[r[:area]] = override.(r[:area]) || finder.(r)
             if areas[r[:area]].to_s.empty?
-              warn "No area match for #{r[:area]}"
+              warn "  No area match for #{r[:area]}"
             else
-              warn "Matched Area %s to %s" % [ r[:area].to_s.yellow, areas[r[:area]][:name].to_s.green ] unless areas[r[:area]][:name].include? " #{r[:area]} "
+              warn "  Matched Area %s to %s" % [ r[:area].to_s.yellow, areas[r[:area]][:name].to_s.green ] unless areas[r[:area]][:name].include? " #{r[:area]} "
             end
           end
           next if areas[r[:area]].to_s.empty?
@@ -270,8 +271,10 @@ namespace :merge_sources do
     end
 
     # Any local corrections in manual/corrections.csv
+    # TODO add this as a Source
     corrections_file = 'sources/manual/corrections.csv'
     if File.exist? corrections_file
+      warn "Applying local corrections from #{corrections_file}".green
       CSV.table(corrections_file, converters: nil).each do |correction|
         rows = merged_rows.select { |r| r[:uuid] == correction[:uuid] } 
         if rows.empty?
@@ -291,6 +294,7 @@ namespace :merge_sources do
     end
 
 
+    # TODO add this as a Source
     legacy_id_file = 'sources/manual/legacy-ids.csv'
     if File.exist? legacy_id_file
       legacy = CSV.table(legacy_id_file, converters: nil).reject { |r| r[:legacy].to_s.empty? }.group_by { |r| r[:id] }

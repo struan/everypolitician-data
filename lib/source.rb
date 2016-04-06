@@ -96,6 +96,16 @@ module Source
     end
   end
 
+  class PlainCSV < Base
+    def fields 
+      []
+    end
+
+    def as_table
+      ::CSV.table(filename, converters: nil)
+    end
+  end
+
   class JSON < Base
     def fields 
       []
@@ -157,18 +167,25 @@ module Source
     def fields 
       %i(area area_id)
     end
+
+    def overrides
+      return {} unless i(:merge) 
+      return {} unless i(:merge).key? :overrides
+      return i(:merge)[:overrides]
+    end
+
+    def generate
+      i(:generate)
+    end
   end
 
-  class Gender < CSV
+  class Gender < PlainCSV
     def fields 
       %i(gender)
     end
   end
 
-  class Term < CSV
-    def fields 
-      []
-    end
+  class Term < PlainCSV
   end
 
   class Group < JSON
