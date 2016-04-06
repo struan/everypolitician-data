@@ -88,7 +88,12 @@
     },
     {
       "id": "Q21103025",
-      "label": "Minister of Finance"
+      "label": "Minister of Finance",
+      "qualifiers": {
+        "P580": "2003-04-10",
+        "P582": "2003-10-06",
+        "P1366": "Taavi Veskimägi"
+      }
     }
   ],
   "Q11869429": [
@@ -139,8 +144,12 @@
       "label": "member of the Estonian Riigikogu"
     },
     {
-      "id": "Q23005920",
-      "label": "Minister of Culture"
+      "id": "Q16402952",
+      "label": "Minister of Culture",
+      "qualifiers": {
+        "P580": "1996-01-01",
+        "P582": "1999-03-25"
+      }
     }
   ],
   "Q4755832": [
@@ -155,7 +164,7 @@
       "label": "member of the Estonian Riigikogu"
     },
     {
-      "id": "Q23005920",
+      "id": "Q16402952",
       "label": "Minister of Culture",
       "qualifiers": {
         "P580": "2015-04-09",
@@ -193,7 +202,7 @@
       "label": "member of the Estonian Riigikogu"
     },
     {
-      "id": "Q23005920",
+      "id": "Q16402952",
       "label": "Minister of Culture",
       "qualifiers": {
         "P580": "2013-12-04",
@@ -252,8 +261,12 @@
       "label": "member of the European Parliament"
     },
     {
-      "id": "Q23005920",
-      "label": "Minister of Culture"
+      "id": "Q16402952",
+      "label": "Minister of Culture",
+      "qualifiers": {
+        "P580": "2003-04-10",
+        "P582": "2005-04-12"
+      }
     },
     {
       "id": "Q1760777",
@@ -429,7 +442,12 @@
     },
     {
       "id": "Q21103025",
-      "label": "Minister of Finance"
+      "label": "Minister of Finance",
+      "qualifiers": {
+        "P580": "2005-04-13",
+        "P582": "2007-04-05",
+        "P1366": "Ivari Padar"
+      }
     }
   ],
   "Q12366158": [
@@ -456,22 +474,27 @@
       "label": "member of the Estonian Riigikogu"
     },
     {
-      "id": "Q23005920",
-      "label": "Minister of Culture"
+      "id": "Q23725838",
+      "label": "Minister of Culture and Education"
     },
     {
       "id": "Q6866110",
-      "label": "Minister of Education and Research"
+      "label": "Minister of Education and Research",
+      "qualifiers": {
+        "P580": "1992-10-21",
+        "P582": "1994-06-21"
+      }
     }
   ],
   "Q998617": [
     {
-      "id": "Q23005920",
+      "id": "Q16402952",
       "label": "Minister of Culture",
       "qualifiers": {
         "P580": "2011-04-06",
         "P582": "2013-12-04",
-        "P1365": "Laine Randjärv"
+        "P1365": "Laine Randjärv",
+        "P1366": "Urve Tiidus"
       }
     },
     {
@@ -506,7 +529,13 @@
   "Q983831": [
     {
       "id": "Q21103025",
-      "label": "Minister of Finance"
+      "label": "Minister of Finance",
+      "qualifiers": {
+        "P580": "2009-06-04",
+        "P582": "2014-11-03",
+        "P1365": "Ivari Padar",
+        "P1366": "Sven Sester"
+      }
     },
     {
       "id": "Q21100241",
@@ -557,6 +586,14 @@
     {
       "id": "Q6866110",
       "label": "Minister of Education and Research"
+    },
+    {
+      "id": "Q23725838",
+      "label": "Minister of Culture and Education",
+      "qualifiers": {
+        "P580": "1995-04-18",
+        "P582": "1995-11-05"
+      }
     }
   ],
   "Q2063457": [
@@ -634,7 +671,12 @@
     },
     {
       "id": "Q21103025",
-      "label": "Minister of Finance"
+      "label": "Minister of Finance",
+      "qualifiers": {
+        "P580": "2007-04-05",
+        "P582": "2009-05-21",
+        "P1366": "Jürgen Ligi"
+      }
     }
   ],
   "Q16404500": [
@@ -1062,8 +1104,12 @@
       "label": "member of the Estonian Riigikogu"
     },
     {
-      "id": "Q23005920",
-      "label": "Minister of Culture"
+      "id": "Q23725838",
+      "label": "Minister of Culture and Education",
+      "qualifiers": {
+        "P580": "1995-11-06",
+        "P582": "1995-12-31"
+      }
     },
     {
       "id": "Q6866110",
@@ -1146,6 +1192,16 @@
       "label": "Minister of Economic Affairs and Communications"
     }
   ],
+  "Q16405768": [
+    {
+      "id": "Q21103025",
+      "label": "Minister of Finance",
+      "qualifiers": {
+        "P580": "2014-11-03",
+        "P582": "2015-04-09"
+      }
+    }
+  ],
   "Q458003": [
     {
       "id": "Q21100241",
@@ -1166,7 +1222,7 @@
       "label": "member of the Estonian Riigikogu"
     },
     {
-      "id": "Q23005920",
+      "id": "Q16402952",
       "label": "Minister of Culture",
       "qualifiers": {
         "P580": "2007-04-05",
@@ -1233,7 +1289,11 @@
     },
     {
       "id": "Q21103025",
-      "label": "Minister of Finance"
+      "label": "Minister of Finance",
+      "qualifiers": {
+        "P580": "2015-04-09",
+        "P1365": "Jürgen Ligi"
+      }
     }
   ],
   "Q307473": [
@@ -1262,8 +1322,8 @@
       "id": "Q737115",
       "label": "Prime Minister of Estonia",
       "qualifiers": {
-        "P580": "1992",
-        "P582": "1994",
+        "P580": "1992-10-21",
+        "P582": "1994-11-08",
         "P155": "Tiit Vähi",
         "P156": "Andres Tarand"
       }
@@ -1272,8 +1332,8 @@
       "id": "Q737115",
       "label": "Prime Minister of Estonia",
       "qualifiers": {
-        "P580": "1999",
-        "P582": "2002",
+        "P580": "1999-03-25",
+        "P582": "2002-01-28",
         "P155": "Mart Siimann",
         "P156": "Siim Kallas"
       }
