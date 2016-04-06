@@ -201,11 +201,13 @@ namespace :merge_sources do
     end
 
     # Gender information from Gender-Balance.org
-    if gb = instructions(:sources).find { |src| src[:type].to_s.downcase == 'gender' }
+    if gb = sources.find { |src| src.type.downcase == 'gender' }
+      warn "Adding GenderBalance results from #{gb.filename}".magenta 
+
       min_selections = 5   # accept gender if at least this many votes
       vote_threshold = 0.8 # and at least this ratio of votes were for it
 
-      gender = CSV.table(gb[:file], converters: nil).group_by { |r| r[:uuid] }
+      gender = gb.as_table.group_by { |r| r[:uuid] }
       gb_votes = 0
 
       # Only calculate the gender if we don't already have it
@@ -214,14 +216,14 @@ namespace :merge_sources do
         votes = (gender[ r[:uuid] ] or next).first
         next if votes[:total].to_i < min_selections
         winner = votes.reject { |k, _| %i(uuid total).include? k }.find { |k, v| (v.to_f / votes[:total].to_f) > vote_threshold } or begin
-          warn "Unclear gender vote pattern: #{votes.to_hash}"
+          warn "  Unclear gender vote pattern: #{votes.to_hash}"
           next
         end
         next if winner.first == :skip
         r[:gender] = winner.first.to_s 
         gb_votes += 1
       end
-      warn "⚥ #{gb_votes}".cyan 
+      warn "  ⚥ set for #{gb_votes}".cyan 
     end
 
     # Map Areas
