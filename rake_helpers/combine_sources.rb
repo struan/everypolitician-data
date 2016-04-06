@@ -66,7 +66,7 @@ namespace :merge_sources do
 
     # First get all the `membership` rows, and either merge or concat
     sources.select(&:is_memberships?).each do |src|
-      warn "Add memberships from #{src.filename}".magenta
+      warn "Add memberships from #{src.filename}".green
       
       incoming_data = src.filtered_table
       id_map = src.id_map
@@ -104,7 +104,7 @@ namespace :merge_sources do
     # Then merge with Biographical data files
 
     sources.select(&:is_bios?).each do |pd|
-      warn "Merging with #{pd.filename}".magenta
+      warn "Merging with #{pd.filename}".green
 
       incoming_data = pd.as_table
 
@@ -202,7 +202,7 @@ namespace :merge_sources do
 
     # Gender information from Gender-Balance.org
     if gb = sources.find { |src| src.type.downcase == 'gender' }
-      warn "Adding GenderBalance results from #{gb.filename}".magenta 
+      warn "Adding GenderBalance results from #{gb.filename}".green 
 
       min_selections = 5   # accept gender if at least this many votes
       vote_threshold = 0.8 # and at least this ratio of votes were for it
@@ -228,7 +228,7 @@ namespace :merge_sources do
 
     # Map Areas
     if area = sources.find { |src| src.type.downcase == 'ocd' }
-      warn "Adding OCD areas from #{area.filename}".magenta
+      warn "Adding OCD areas from #{area.filename}".green
       ocds = area.as_table.group_by { |r| r[:id] }
 
       if area.generate == 'area'
@@ -274,7 +274,7 @@ namespace :merge_sources do
     # TODO add this as a Source
     corrections_file = 'sources/manual/corrections.csv'
     if File.exist? corrections_file
-      warn "Applying local corrections from #{corrections_file}".magenta
+      warn "Applying local corrections from #{corrections_file}".green
       CSV.table(corrections_file, converters: nil).each do |correction|
         rows = merged_rows.select { |r| r[:uuid] == correction[:uuid] } 
         if rows.empty?
