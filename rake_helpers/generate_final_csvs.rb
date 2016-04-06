@@ -55,12 +55,13 @@ namespace :term_csvs do
         gender: person.gender,
       }
     end
-    data.group_by { |r| r[:term] }.each do |t, rs|
+    terms = data.group_by { |r| r[:term] }
+    warn "Creating #{terms.count} term file#{terms.count > 1 ? 's' : ''}"
+    terms.each do |t, rs|
       filename = "term-#{t}.csv"
       header = rs.first.keys.to_csv
       rows   = rs.sort_by { |r| [r[:name], r[:id], r[:start_date].to_s, r[:area].to_s ] }.map { |r| r.values.to_csv }
       csv    = [header, rows].compact.join
-      warn "Creating #{filename}"
       File.write(filename, csv)
     end
   end
