@@ -112,8 +112,6 @@ namespace :merge_sources do
       approaches.each_with_index do |merge_instructions, i|
         reconciler = Reconciler.new(merge_instructions)
 
-        warn "  Match incoming #{reconciler.incoming_field} to #{reconciler.existing_field}"
-
         if reconciler.filename
           if ENV['GENERATE_RECONCILIATION_INTERFACE'] && reconciler.triggered_by?(ENV['GENERATE_RECONCILIATION_INTERFACE'])
             filename = reconciler.generate_interface!(merged_rows, incoming_data.uniq { |r| r[:id] })
