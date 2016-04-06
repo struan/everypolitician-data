@@ -73,7 +73,7 @@ namespace :term_csvs do
       map { |i, is| [i, is.count] }
 
     if top_identifiers.any?
-      warn "Top identifiers:"
+      warn "\nTop identifiers:"
       top_identifiers.each do |i, c|
         warn "  #{c} x #{i}"
       end
