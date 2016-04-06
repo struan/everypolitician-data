@@ -101,10 +101,13 @@ namespace :term_csvs do
     wikidata_parties = @json[:organizations].select { |o| o[:classification] == 'party' }.partition { |p| 
       p[:name].downcase == 'unknown' || (p[:identifiers] || []).find { |i| i[:scheme] == 'wikidata' } 
     }
-    warn "Wikidata Persons matched: #{wikidata_persons.first.count} ✓ | #{wikidata_persons.last.count} ✘"
-    wikidata_persons.last.shuffle.take(10).each { |p| warn "  Missing: #{ p[:name] }" } if wikidata_persons.first.count > 0 
-    warn "Wikidata Parties matched: #{wikidata_parties.first.count} ✓ | #{wikidata_parties.last.count} ✘"
-    wikidata_parties.last.each { |p| warn "  Missing: #{p[:name]} (#{p[:id]})" } if wikidata_parties.first.count > 0 && wikidata_parties.last.count <= 5
+    matched, unmatched = wikidata_persons.map(&:count)
+    warn "Wikidata Persons matched: #{matched} ✓ #{unmatched.zero? ? '' : "| #{unmatched} ✘"}"
+    wikidata_persons.last.shuffle.take(10).each { |p| warn "  Missing: #{ p[:name] }" } unless matched.zero?
+
+    matched, unmatched = wikidata_parties.map(&:count)
+    warn "Wikidata Parties matched: #{matched} ✓ #{unmatched.zero? ? '' : "| #{unmatched} ✘"}"
+    wikidata_parties.last.shuffle.take(5).each { |p| warn "  Missing: #{p[:name]} (#{p[:id]})" } unless matched.zero?
   end
 
   desc 'Build the Positions file'
