@@ -523,7 +523,12 @@
   "Q16990896": [
     {
       "id": "Q17592486",
-      "label": "member of the Parliament of Finland"
+      "label": "member of the Parliament of Finland",
+      "qualifiers": {
+        "P580": "1983-03-26",
+        "P582": "2003-03-18",
+        "P768": "Uusimaa"
+      }
     }
   ],
   "Q11861329": [
@@ -563,6 +568,10 @@
     {
       "id": "Q17592486",
       "label": "member of the Parliament of Finland"
+    },
+    {
+      "id": "Q23725756",
+      "label": "Minister of Culture"
     }
   ],
   "Q18363520": [
@@ -1483,10 +1492,9 @@
       }
     },
     {
-      "id": "Q2621182",
-      "label": "culture minister",
+      "id": "Q23725756",
+      "label": "Minister of Culture",
       "qualifiers": {
-        "P642": "Finland",
         "P580": "1998-09-04",
         "P582": "1999-04-14",
         "P155": "Claes Andersson",
@@ -1656,7 +1664,7 @@
   ],
   "Q2334883": [
     {
-      "id": "Q6866175",
+      "id": "Q18694348",
       "label": "Minister of Health and Social Services"
     }
   ],
@@ -2426,6 +2434,10 @@
     {
       "id": "Q17592486",
       "label": "member of the Parliament of Finland"
+    },
+    {
+      "id": "Q23725756",
+      "label": "Minister of Culture"
     }
   ],
   "Q17382244": [
