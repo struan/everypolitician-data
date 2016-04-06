@@ -271,8 +271,10 @@ namespace :merge_sources do
     end
 
     # Any local corrections in manual/corrections.csv
+    # TODO add this as a Source
     corrections_file = 'sources/manual/corrections.csv'
     if File.exist? corrections_file
+      warn "Applying local corrections from #{corrections_file}".magenta
       CSV.table(corrections_file, converters: nil).each do |correction|
         rows = merged_rows.select { |r| r[:uuid] == correction[:uuid] } 
         if rows.empty?
@@ -292,6 +294,7 @@ namespace :merge_sources do
     end
 
 
+    # TODO add this as a Source
     legacy_id_file = 'sources/manual/legacy-ids.csv'
     if File.exist? legacy_id_file
       legacy = CSV.table(legacy_id_file, converters: nil).reject { |r| r[:legacy].to_s.empty? }.group_by { |r| r[:id] }
