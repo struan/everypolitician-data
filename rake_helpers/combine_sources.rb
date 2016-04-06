@@ -227,10 +227,11 @@ namespace :merge_sources do
     end
 
     # Map Areas
-    if area = instructions(:sources).find { |src| src[:type].to_s.downcase == 'ocd' }
-      ocds = CSV.table(area[:file], converters: nil).group_by { |r| r[:id] }
+    if area = sources.find { |src| src.type.downcase == 'ocd' }
+      warn "Adding OCD areas from #{area.filename}".magenta
+      ocds = area.as_table.group_by { |r| r[:id] }
 
-      if area[:generate] == 'area'
+      if area.generate == 'area'
         merged_rows.each do |r|
           r[:area] = ocds[r[:area_id]].first[:name] rescue nil
         end
@@ -243,9 +244,9 @@ namespace :merge_sources do
         fuzzer = FuzzyMatch.new(ocds.values.flatten(1), read: :name)
         finder = ->(r) { fuzzer.find(r[:area], must_match_at_least_one_word: true) }
 
+        overrides = area.overrides
         override = ->(name) {
-          return unless area[:merge].key? :overrides
-          return unless override_id = area[:merge][:overrides][name.to_sym]
+          return unless override_id = overrides[name.to_sym]
           return '' if override_id.empty?
           binding.pry
           # FIXME look up in Hash instead
@@ -258,9 +259,9 @@ namespace :merge_sources do
           unless areas.key? r[:area]
             areas[r[:area]] = override.(r[:area]) || finder.(r)
             if areas[r[:area]].to_s.empty?
-              warn "No area match for #{r[:area]}"
+              warn "  No area match for #{r[:area]}"
             else
-              warn "Matched Area %s to %s" % [ r[:area].to_s.yellow, areas[r[:area]][:name].to_s.green ] unless areas[r[:area]][:name].include? " #{r[:area]} "
+              warn "  Matched Area %s to %s" % [ r[:area].to_s.yellow, areas[r[:area]][:name].to_s.green ] unless areas[r[:area]][:name].include? " #{r[:area]} "
             end
           end
           next if areas[r[:area]].to_s.empty?
