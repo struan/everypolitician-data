@@ -184,8 +184,8 @@
       "label": "conseiller régional"
     },
     {
-      "id": "Q1872450",
-      "label": "President of the General Council",
+      "id": "Q23090514",
+      "label": "Q23090514",
       "qualifiers": {
         "P580": "2015-04-02",
         "P1365": "Rachel Mazuir",
@@ -2459,7 +2459,8 @@
       "label": "member of the French National Assembly",
       "qualifiers": {
         "P768": "Q3338771",
-        "P580": "2012-06-20"
+        "P580": "2012-06-20",
+        "P582": "2016-03-11"
       }
     },
     {
@@ -4167,7 +4168,8 @@
       "label": "member of the French National Assembly",
       "qualifiers": {
         "P768": "Q3025158",
-        "P580": "2012-07-22"
+        "P580": "2012-07-22",
+        "P582": "2016-03-11"
       }
     }
   ],
@@ -5541,7 +5543,18 @@
       "qualifiers": {
         "P642": "Q2994037",
         "P580": "2012-10-04",
-        "P1365": "Jean-Louis Bianco"
+        "P1365": "Jean-Louis Bianco",
+        "P1366": "",
+        "P582": "2015-04-02"
+      }
+    },
+    {
+      "id": "Q23090514",
+      "label": "Q23090514",
+      "qualifiers": {
+        "P642": "Q2994037",
+        "P580": "2015-04-02",
+        "P1365": ""
       }
     }
   ],
@@ -6363,7 +6376,8 @@
       "label": "member of the French National Assembly",
       "qualifiers": {
         "P768": "Somme's 2nd constituency",
-        "P580": "2012-06-20"
+        "P580": "2012-06-20",
+        "P582": "2016-03-11"
       }
     }
   ],
@@ -7440,7 +7454,7 @@
     },
     {
       "id": "Q1398920",
-      "label": "departmental council",
+      "label": "General council",
       "qualifiers": {
         "P642": "Saône-et-Loire",
         "P794": "vice president"
@@ -7691,7 +7705,8 @@
       "label": "member of the French National Assembly",
       "qualifiers": {
         "P768": "Alpes Maritimes' 5th constituency",
-        "P580": "2012-06-20"
+        "P580": "2012-06-20",
+        "P582": "2016-03-30"
       }
     }
   ],
@@ -9150,7 +9165,8 @@
       "label": "member of the French National Assembly",
       "qualifiers": {
         "P768": "Ain's 3rd constituency",
-        "P580": "2012-06-20"
+        "P580": "2012-06-20",
+        "P582": "2016-03-10"
       }
     }
   ],
@@ -9876,6 +9892,14 @@
         "P768": "Q3025158",
         "P580": "2012-06-20",
         "P582": "2012-07-21"
+      }
+    },
+    {
+      "id": "Q3044918",
+      "label": "member of the French National Assembly",
+      "qualifiers": {
+        "P768": "Q3025158",
+        "P580": "2016-03-12"
       }
     }
   ],
@@ -11534,7 +11558,8 @@
       "label": "member of the French National Assembly",
       "qualifiers": {
         "P768": "Q3401991",
-        "P580": "2012-06-20"
+        "P580": "2012-06-20",
+        "P582": "2016-03-11"
       }
     },
     {
@@ -11710,7 +11735,8 @@
       "label": "member of the French National Assembly",
       "qualifiers": {
         "P768": "Bas-Rhin's 1st constituency",
-        "P580": "2012-06-20"
+        "P580": "2012-06-20",
+        "P582": "2016-03-03"
       }
     }
   ],
@@ -11804,7 +11830,8 @@
       "label": "member of the French National Assembly",
       "qualifiers": {
         "P768": "Loire-Atlantique's 3rd constituency",
-        "P580": "2014-05-01"
+        "P580": "2014-05-01",
+        "P582": "2016-03-11"
       }
     },
     {
@@ -14272,7 +14299,7 @@
       "qualifiers": {
         "P580": "2007-06-20",
         "P582": "2012-06-19",
-        "P642": "Finistère's 1st constituency"
+        "P768": "Finistère's 1st constituency"
       }
     },
     {
@@ -14285,7 +14312,7 @@
       "qualifiers": {
         "P580": "2012-06-20",
         "P582": "2016-02-27",
-        "P642": "Finistère's 1st constituency"
+        "P768": "Finistère's 1st constituency"
       }
     }
   ],
@@ -14323,7 +14350,8 @@
       "label": "member of the French National Assembly",
       "qualifiers": {
         "P768": "Finistère's 4th constituency",
-        "P580": "2012-07-22"
+        "P580": "2012-07-22",
+        "P582": "2016-03-11"
       }
     },
     {
@@ -17330,7 +17358,8 @@
       "label": "member of the French National Assembly",
       "qualifiers": {
         "P768": "Q3479051",
-        "P580": "2012-06-20"
+        "P580": "2012-06-20",
+        "P582": "2016-03-11"
       }
     },
     {
@@ -17528,6 +17557,14 @@
         "P768": "Finistère's 4th constituency",
         "P580": "2012-06-20",
         "P582": "2012-07-21"
+      }
+    },
+    {
+      "id": "Q3044918",
+      "label": "member of the French National Assembly",
+      "qualifiers": {
+        "P768": "Finistère's 4th constituency",
+        "P580": "2016-03-12"
       }
     }
   ],
