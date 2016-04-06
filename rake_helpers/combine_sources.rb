@@ -191,7 +191,7 @@ namespace :merge_sources do
           end
         end
 
-        warn "* %d of %d unmatched".magenta % [unmatched.count, incoming_data.count]
+        warn "* %d of %d unmatched".magenta % [unmatched.count, incoming_data.count] if unmatched.any?
         unmatched.sample(10).each do |r|
           warn "\t#{r.to_hash.reject { |k,v| v.to_s.empty? }.select { |k, v| %i(id name).include? k } }"
         end 
