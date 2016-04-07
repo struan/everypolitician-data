@@ -21631,7 +21631,7 @@
           "scheme": "viaf"
         },
         {
-          "identifier": "Q283270",
+          "identifier": "Q12320116",
           "scheme": "wikidata"
         }
       ],
@@ -21644,7 +21644,7 @@
       "links": [
         {
           "note": "Wikipedia (da)",
-          "url": "https://da.wikipedia.org/wiki/Johannes_Poulsen"
+          "url": "https://da.wikipedia.org/wiki/Johannes_Poulsen_(politiker)"
         },
         {
           "note": "Wikipedia (en)",
@@ -26686,6 +26686,24 @@
           "lang": "zh-tw",
           "name": "庫皮克·克雷斯特",
           "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "lars.aslan.rasmussen@ft.dk"
+        }
+      ],
+      "email": "lars.aslan.rasmussen@ft.dk",
+      "family_name": "Rasmussen",
+      "given_name": "Lars Aslan",
+      "id": "e9652315-056c-4890-a92f-4d31a96dfa40",
+      "name": "Lars Aslan Rasmussen",
+      "sources": [
+        {
+          "url": "http://www.thedanishparliament.dk/Members/lars-aslan-rasmussen.aspx"
         }
       ]
     },
@@ -44159,6 +44177,30 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "sarah.kristensen@ft.dk"
+        }
+      ],
+      "email": "sarah.kristensen@ft.dk",
+      "family_name": "Glerup",
+      "given_name": "Sarah",
+      "id": "75892550-c64f-4198-bfd1-86d838da731e",
+      "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/EL/Sarah%20Glerup/Sarah_Glerup_133.jpg.ashx",
+      "images": [
+        {
+          "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/EL/Sarah%20Glerup/Sarah_Glerup_133.jpg.ashx"
+        }
+      ],
+      "name": "Sarah Glerup",
+      "sources": [
+        {
+          "url": "http://www.thedanishparliament.dk/Members/sarah-glerup.aspx"
+        }
+      ]
+    },
+    {
       "birth_date": "1977-10-20",
       "contact_details": [
         {
@@ -55657,6 +55699,14 @@
       "role": "member"
     },
     {
+      "area_id": "area/copenhagen",
+      "legislative_period_id": "term/2015",
+      "on_behalf_of_id": "782DE1D5-0990-43C4-94E7-43FC6C381D8F",
+      "organization_id": "legislature",
+      "person_id": "75892550-c64f-4198-bfd1-86d838da731e",
+      "role": "member"
+    },
+    {
       "legislative_period_id": "term/1994",
       "on_behalf_of_id": "S",
       "organization_id": "legislature",
@@ -60482,6 +60532,14 @@
       "on_behalf_of_id": "F9E65D32-6F2F-4762-A7D5-56DCD0FC9BAF",
       "organization_id": "legislature",
       "person_id": "e963dbd7-fcc7-4b44-8fc2-96bd1611adb9",
+      "role": "member"
+    },
+    {
+      "area_id": "area/copenhagen",
+      "legislative_period_id": "term/2015",
+      "on_behalf_of_id": "F9E65D32-6F2F-4762-A7D5-56DCD0FC9BAF",
+      "organization_id": "legislature",
+      "person_id": "e9652315-056c-4890-a92f-4d31a96dfa40",
       "role": "member"
     },
     {
