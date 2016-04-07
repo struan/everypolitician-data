@@ -1,14 +1,6 @@
 {
   "sources": [
     {
-      "file": "google/sheet.csv",
-      "create": {
-        "url": "https://docs.google.com/spreadsheets/d/1LetNFNq6ovg4bbq-Whze0Q06CYSpNqpRIzSUb9yVtw4/export?format=csv"
-      },
-      "source": "http://parliamentwatch.ug/",
-      "type": "membership"
-    },
-    {
       "file": "morph/data.csv",
       "create": {
         "from": "morph",
@@ -22,6 +14,19 @@
       "file": "manual/missing-9.csv",
       "source": "http://www.parliament.go.ug/mpdata/mps.hei",
       "type": "membership"
+    },
+    {
+      "file": "google/sheet.csv",
+      "create": {
+        "url": "https://docs.google.com/spreadsheets/d/1LetNFNq6ovg4bbq-Whze0Q06CYSpNqpRIzSUb9yVtw4/export?format=csv"
+      },
+      "source": "http://parliamentwatch.ug/",
+      "type": "membership",
+      "merge": {
+        "incoming_field": "name",
+        "existing_field": "name",
+        "reconciliation_file": "reconciliation/google-sheet-10.csv"
+      }
     },
     {
       "file": "manual/terms.csv",
