@@ -214,7 +214,9 @@ namespace :merge_sources do
       # TODO: warn if the GB data differs from the pre-existing version
       merged_rows.select { |r| r[:gender].to_s.empty? }.each do |r|
         votes = (gender[ r[:uuid] ] or next).first
-        next if votes[:total].to_i < min_selections
+        # TODO this should really include 'other' as well, but for now
+        # we're getting a lot of warnings if we include it. 
+        next if (votes[:male].to_i + votes[:female].to_i) < min_selections
         winner = votes.reject { |k, _| %i(uuid total).include? k }.find { |k, v| (v.to_f / votes[:total].to_f) > vote_threshold } or begin
           warn "  Unclear gender vote pattern: #{votes.to_hash}"
           next
