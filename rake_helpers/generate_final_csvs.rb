@@ -98,8 +98,9 @@ namespace :term_csvs do
   desc "Add some final reporting information"
   task :reports => :term_tables do
     wikidata_persons = @json[:persons].partition { |p| (p[:identifiers] || []).find { |i| i[:scheme] == 'wikidata' } }
-    wikidata_parties = @json[:organizations].select { |o| o[:classification] == 'party' }.partition { |p| 
-      p[:name].downcase == 'unknown' || (p[:identifiers] || []).find { |i| i[:scheme] == 'wikidata' } 
+    wikidata_parties = @json[:organizations].select { |o| o[:classification] == 'party' }.
+      reject { |p| p[:name].downcase == 'unknown' }.
+      partition { |p| (p[:identifiers] || []).find { |i| i[:scheme] == 'wikidata' } 
     }
     matched, unmatched = wikidata_persons.map(&:count)
     warn "Wikidata Persons matched: #{matched} ✓ #{unmatched.zero? ? '' : "| #{unmatched} ✘"}"
