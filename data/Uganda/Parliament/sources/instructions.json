@@ -1,6 +1,14 @@
 {
   "sources": [
     {
+      "file": "google/sheet.csv",
+      "create": {
+        "url": "https://docs.google.com/spreadsheets/d/1LetNFNq6ovg4bbq-Whze0Q06CYSpNqpRIzSUb9yVtw4/export?format=csv"
+      },
+      "source": "http://parliamentwatch.ug/",
+      "type": "membership"
+    },
+    {
       "file": "morph/data.csv",
       "create": {
         "from": "morph",
