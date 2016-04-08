@@ -54,6 +54,14 @@
         "from": "gender-balance",
         "source": "Uganda/Parliament"
       }
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "create": {
+        "from": "group-wikidata",
+        "source": "manual/group_wikidata.csv"
+      }
     }
   ]
 }
