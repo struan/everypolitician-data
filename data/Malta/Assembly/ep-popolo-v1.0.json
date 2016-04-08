@@ -2692,6 +2692,28 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "karl.gouder@parlament.mt"
+        }
+      ],
+      "email": "karl.gouder@parlament.mt",
+      "id": "43e3a3a0-6c63-430e-91e4-687d137b8ed7",
+      "image": "http://www.parlament.mt/file.aspx?f=15432",
+      "images": [
+        {
+          "url": "http://www.parlament.mt/file.aspx?f=15432"
+        }
+      ],
+      "name": "Karl Gouder",
+      "sources": [
+        {
+          "url": "http://www.parlament.mt/gouder-karl"
+        }
+      ]
+    },
+    {
       "birth_date": "1977-11-04",
       "contact_details": [
         {
@@ -4503,6 +4525,13 @@
       "on_behalf_of_id": "party/partit_nazzjonlista",
       "organization_id": "legislature",
       "person_id": "438b84c9-1dd3-4b9b-adeb-f240ec4122fe",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/12",
+      "on_behalf_of_id": "party/partit_nazzjonlista",
+      "organization_id": "legislature",
+      "person_id": "43e3a3a0-6c63-430e-91e4-687d137b8ed7",
       "role": "member"
     },
     {
