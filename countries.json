@@ -9832,28 +9832,28 @@
         "slug": "Parliament",
         "sources_directory": "data/Uganda/Parliament/sources",
         "popolo": "data/Uganda/Parliament/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3a60897/data/Uganda/Parliament/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/d9cac8e/data/Uganda/Parliament/ep-popolo-v1.0.json",
         "names": "data/Uganda/Parliament/names.csv",
-        "lastmod": "1460125599",
+        "lastmod": "1460128740",
         "person_count": 563,
-        "sha": "3a60897",
+        "sha": "d9cac8e",
         "legislative_periods": [
           {
             "id": "term/10",
             "name": "10th Parliament",
-            "start_date": "2016-05-01",
+            "start_date": "2016-05-16",
             "slug": "10",
             "csv": "data/Uganda/Parliament/term-10.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3a60897/data/Uganda/Parliament/term-10.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/d9cac8e/data/Uganda/Parliament/term-10.csv"
           },
           {
-            "end_date": "2016-02-18",
+            "end_date": "2016-05-13",
             "id": "term/9",
             "name": "9th Parliament",
-            "start_date": "2011",
+            "start_date": "2011-05-16",
             "slug": "9",
             "csv": "data/Uganda/Parliament/term-9.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3a60897/data/Uganda/Parliament/term-9.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/d9cac8e/data/Uganda/Parliament/term-9.csv"
           }
         ],
         "statement_count": 16400
