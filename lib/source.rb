@@ -102,7 +102,11 @@ module Source
     end
 
     def as_table
-      ::CSV.table(filename, converters: nil)
+      ::CSV.table(filename, converters: converters)
+    end
+    
+    def converters
+      nil
     end
   end
 
@@ -180,6 +184,10 @@ module Source
   end
 
   class Gender < PlainCSV
+    def converters
+      :integer
+    end
+
     def fields 
       %i(gender)
     end
