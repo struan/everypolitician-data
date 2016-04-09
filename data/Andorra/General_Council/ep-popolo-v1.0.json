@@ -165,6 +165,10 @@
         {
           "identifier": "conxita-marsol-riart",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q22919118",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.consellgeneral.ad/ca/composicio-actual/consellers-generals/conxita-marsol-riart/foto",
@@ -173,7 +177,24 @@
           "url": "http://www.consellgeneral.ad/ca/composicio-actual/consellers-generals/conxita-marsol-riart/foto"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Conxita_Marsol_i_Riart"
+        }
+      ],
       "name": "Conxita Marsol Riart",
+      "other_names": [
+        {
+          "name": "Conxita Marsol i Riart",
+          "note": "alternate"
+        },
+        {
+          "lang": "ca",
+          "name": "Conxita Marsol i Riart",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.consellgeneral.ad/ca/composicio-actual/consellers-generals/conxita-marsol-riart"
@@ -249,6 +270,7 @@
         }
       ],
       "email": "joancarles.camp@parlament.ad",
+      "gender": "male",
       "id": "b421423a-7b23-44c8-918f-0d569d4618dc",
       "identifiers": [
         {
@@ -534,6 +556,7 @@
         }
       ],
       "email": "marti.salvans@parlament.ad",
+      "gender": "male",
       "id": "a8461db0-9f16-4ff2-8378-dbd3840aded8",
       "identifiers": [
         {
@@ -1282,6 +1305,11 @@
         {
           "lang": "zh",
           "name": "安道爾自由黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Partito Liberale d'Andorra",
           "note": "multilingual"
         },
         {
