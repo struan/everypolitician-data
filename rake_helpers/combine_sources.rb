@@ -216,7 +216,7 @@ namespace :merge_sources do
         votes = gb_votes[id].first
 
         # Has something score at least 80% of votes?
-        winner = %w(male female other).find { |g| (votes[g.to_sym].to_f / votes[:total].to_f) > vote_threshold } or begin
+        winner = %w(male female other).find { |g| (votes[g.to_sym].to_f / votes[:total].to_f) >= vote_threshold } or begin
           warn "  Unclear gender vote pattern: #{votes.to_hash}"
           next
         end
