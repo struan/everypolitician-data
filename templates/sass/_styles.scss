@@ -206,7 +206,10 @@ h2 {
   .show-later {
     box-shadow: 0 1px 3px rgba(0,0,0,0.2);
     margin-bottom: 2em;
-    cursor: pointer;
+
+    .person__meta {
+      cursor: pointer;
+    }
 
     &:hover {
       position: relative;
