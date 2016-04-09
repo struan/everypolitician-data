@@ -22723,10 +22723,6 @@
           "url": "https://en.wikipedia.org/wiki/Ling_Liong_Sik"
         },
         {
-          "note": "Wikipedia (enwikiquote)",
-          "url": "https://enwikiquote.wikipedia.org/wiki/Ling_Liong_Sik"
-        },
-        {
           "note": "Wikipedia (id)",
           "url": "https://id.wikipedia.org/wiki/Ling_Liong_Sik"
         },
@@ -23797,6 +23793,10 @@
         {
           "identifier": "118930060",
           "scheme": "gnd"
+        },
+        {
+          "identifier": "128939",
+          "scheme": "gtaa"
         },
         {
           "identifier": "n81054017",
@@ -27946,6 +27946,12 @@
         {
           "identifier": "Q6893965",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/27/Jidin_Shafee.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Jidin_Shafee.jpg"
         }
       ],
       "links": [
@@ -61749,6 +61755,14 @@
       "on_behalf_of_id": "MCA",
       "organization_id": "legislature",
       "person_id": "b216c3ee-720d-4214-ae61-bf5e3c27e149",
+      "role": "member"
+    },
+    {
+      "area_id": "P024-5",
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "UMNO",
+      "organization_id": "legislature",
+      "person_id": "b28e520f-cc53-446b-bc6d-0a4855f5b7c1",
       "role": "member"
     },
     {
