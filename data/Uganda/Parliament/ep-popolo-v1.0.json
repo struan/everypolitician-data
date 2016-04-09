@@ -22973,11 +22973,6 @@
     },
     {
       "classification": "party",
-      "id": "IND",
-      "name": "Independent"
-    },
-    {
-      "classification": "party",
       "id": "INDEP",
       "identifiers": [
         {
@@ -25537,7 +25532,7 @@
     {
       "area_id": "area/woman_representative",
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "IND",
+      "on_behalf_of_id": "INDEP",
       "organization_id": "legislature",
       "person_id": "43c22bd7-dd6a-4768-99ed-8c6dc27195fe",
       "role": "member"
@@ -26625,7 +26620,7 @@
     {
       "area_id": "area/kampala_central",
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "NRM",
+      "on_behalf_of_id": "INDEP",
       "organization_id": "legislature",
       "person_id": "67a17eec-26a7-481d-9d43-8d712a1659dd",
       "role": "member"
@@ -26777,7 +26772,7 @@
     {
       "area_id": "area/woman_representative",
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "IND",
+      "on_behalf_of_id": "INDEP",
       "organization_id": "legislature",
       "person_id": "6e294671-6c8a-4dfb-9135-e52cc7633722",
       "role": "member"
@@ -29605,7 +29600,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/bamunaanika_county",
+      "area_id": "area/bamunanika_county",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "NRM",
       "organization_id": "legislature",
@@ -29719,7 +29714,7 @@
     {
       "area_id": "area/maruzi_county",
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "NRM",
+      "on_behalf_of_id": "UPC",
       "organization_id": "legislature",
       "person_id": "ee76c193-d289-4bef-b0e2-b88f033c6384",
       "role": "member"
@@ -30189,11 +30184,6 @@
     {
       "id": "area/ayivu_county",
       "name": "Ayivu County",
-      "type": "constituency"
-    },
-    {
-      "id": "area/bamunaanika_county",
-      "name": "Bamunaanika County",
       "type": "constituency"
     },
     {
