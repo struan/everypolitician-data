@@ -294,7 +294,7 @@ jQuery(function($) {
 
   });
 
-  $(document).on('click', '.pairing__choices > div', function(){
+  $(document).on('click', '.pairing__choices > div header.person__meta', function(){
     vote($(this));
   });
 
