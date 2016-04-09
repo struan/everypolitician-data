@@ -3231,6 +3231,10 @@
         {
           "identifier": "17130114",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q23681818",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.consigliograndeegenerale.sm/contents/instance18/files/photo/17016651_17000062_UgoliniMassimoAn.jpg",
@@ -3239,7 +3243,32 @@
           "url": "http://www.consigliograndeegenerale.sm/contents/instance18/files/photo/17016651_17000062_UgoliniMassimoAn.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Massimo_Andrea_Ugolini"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Massimo_Andrea_Ugolini"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Massimo_Andrea_Ugolini"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Massimo_Andrea_Ugolini"
+        }
+      ],
       "name": "Massimo Andrea Ugolini",
+      "other_names": [
+        {
+          "lang": "it",
+          "name": "Massimo Andrea Ugolini",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Ugolini, Massimo Andrea",
       "sources": [
         {
