@@ -207,25 +207,33 @@ namespace :merge_sources do
       min_selections = 5   # accept gender if at least this many votes
       vote_threshold = 0.8 # and at least this ratio of votes were for it
 
-      gender = gb.as_table.group_by { |r| r[:uuid] }
-      gb_votes = 0
+      gb_votes = gb.as_table.reject { |r| (r[:total] -= r[:skip]) < min_selections }.group_by { |r| r[:uuid] }
+      gb_score = 0
+      gb_added = 0
 
-      # Only calculate the gender if we don't already have it
-      # TODO: warn if the GB data differs from the pre-existing version
-      merged_rows.select { |r| r[:gender].to_s.empty? }.each do |r|
-        votes = (gender[ r[:uuid] ] or next).first
-        # TODO this should really include 'other' as well, but for now
-        # we're getting a lot of warnings if we include it. 
-        next if (votes[:male].to_i + votes[:female].to_i) < min_selections
-        winner = votes.reject { |k, _| %i(uuid total).include? k }.find { |k, v| (v.to_f / votes[:total].to_f) > vote_threshold } or begin
+      merged_rows.group_by { |r| r[:uuid] }.select { |id, rs| gb_votes.key? id }.each do |id, rs|
+        r = rs.first
+        votes = gb_votes[id].first
+
+        # Has something score at least 80% of votes?
+        winner = %w(male female other).find { |g| (votes[g.to_sym].to_f / votes[:total].to_f) > vote_threshold } or begin
           warn "  Unclear gender vote pattern: #{votes.to_hash}"
           next
         end
-        next if winner.first == :skip
-        r[:gender] = winner.first.to_s 
-        gb_votes += 1
+        gb_score += 1
+
+        # Warn if our results are different from another source
+        if r[:gender] && (r[:gender] != winner)
+          warn_once "    ☁ Mismatch for #{r[:uuid]} #{r[:name]} (Was: #{r[:gender]} | GB: #{winner})"
+          next
+        end
+
+        next if r[:gender]
+        r[:gender] = winner
+        gb_added += 1
       end
-      warn "  ⚥ set for #{gb_votes}".cyan 
+      output_warnings("GenderBalance Mismatches")
+      warn "  ⚥ data for #{gb_score}; #{gb_added} added\n".cyan 
     end
 
     # Map Areas
