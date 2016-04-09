@@ -5,7 +5,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/sweden-parliament-api",
-        "query": "SELECT *, id AS identifier__riksdagen FROM data WHERE term IN ('1991', '1994', '1998', '2002', '2006', '2010', '2014')"
+        "query": "SELECT *, id AS identifier__riksdagen FROM data"
       },
       "source": "http://data.riksdagen.se/",
       "type": "membership"
