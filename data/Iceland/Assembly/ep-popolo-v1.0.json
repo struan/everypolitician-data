@@ -5760,6 +5760,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "8bfc2ee5-bca4-4140-948b-f76194bf87bd",
       "identifiers": [
         {
@@ -9617,6 +9618,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "ded4ce0b-6d6e-44e5-a51a-48725c551255",
       "identifiers": [
         {
@@ -10951,6 +10953,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "ab86415c-22d3-40c8-b942-999aa6b64b1b",
       "identifiers": [
         {
@@ -12188,6 +12191,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "c1dedb19-b442-424d-80d6-d37d5b4835d5",
       "identifiers": [
         {
@@ -14612,6 +14616,16 @@
           "note": "multilingual"
         }
       ]
+    },
+    {
+      "id": "2bb19f43-88a6-4159-898b-b0c30f1491ce",
+      "links": [
+        {
+          "note": "wikipedia",
+          "url": "Ásta Guðrún Helgadóttir"
+        }
+      ],
+      "name": "Ásta Guðrún Helgadóttir"
     },
     {
       "birth_date": "1949-10-16",
@@ -17688,6 +17702,14 @@
       "on_behalf_of_id": "independence_party",
       "organization_id": "legislature",
       "person_id": "2aa6198f-d267-459e-bbb3-a0277e302d82",
+      "role": "member"
+    },
+    {
+      "area_id": "area/reykjavik_constituency_south",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "pirate_party",
+      "organization_id": "legislature",
+      "person_id": "2bb19f43-88a6-4159-898b-b0c30f1491ce",
       "role": "member"
     },
     {
