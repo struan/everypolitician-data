@@ -2122,7 +2122,7 @@
     },
     {
       "id": "Q6501749",
-      "label": "General Secretary",
+      "label": "General Secretary (of Histadrut)",
       "qualifiers": {
         "P642": "Histadrut",
         "P580": "1921"
@@ -3262,7 +3262,7 @@
     },
     {
       "id": "Q2081328",
-      "label": "Culture and Sport Ministry",
+      "label": "Culture and Sport Ministry (of Thirty-fourth government of Israel)",
       "qualifiers": {
         "P642": "Thirty-fourth government of Israel",
         "P580": "2015-05-14",
@@ -5320,7 +5320,7 @@
     },
     {
       "id": "Q20021291",
-      "label": "Education Minister of Israel",
+      "label": "Education Minister of Israel (of Thirty-fourth government of Israel)",
       "qualifiers": {
         "P642": "Thirty-fourth government of Israel",
         "P580": "2015-05-14",
@@ -7421,7 +7421,7 @@
   "Q723506": [
     {
       "id": "Q20021264",
-      "label": "Minister of Construction",
+      "label": "Minister of Construction (of Thirty-fourth government of Israel)",
       "qualifiers": {
         "P642": "Thirty-fourth government of Israel",
         "P580": "2015-05-14",
@@ -8532,7 +8532,7 @@
   "Q22259724": [
     {
       "id": "Q708492",
-      "label": "councillor",
+      "label": "councillor (of Bnei Brak)",
       "qualifiers": {
         "P642": "Bnei Brak",
         "P580": "2013",
@@ -9386,7 +9386,7 @@
     },
     {
       "id": "Q708492",
-      "label": "councillor",
+      "label": "councillor (of Shoham)",
       "qualifiers": {
         "P642": "Shoham",
         "P580": "2008",
@@ -9474,6 +9474,16 @@
         "P580": "1999-06-07",
         "P582": "2001-03-08"
       }
+    },
+    {
+      "id": "Q545206",
+      "label": "Chief of General Staff",
+      "qualifiers": {
+        "P580": "1995-01-01",
+        "P582": "1998",
+        "P1365": "Ehud Barak",
+        "P1366": "Shaul Mofaz"
+      }
     }
   ],
   "Q658086": [
@@ -9487,7 +9497,7 @@
     },
     {
       "id": "Q12409993",
-      "label": "Deputy Minister"
+      "label": "Deputy Minister (Israel)"
     },
     {
       "id": "Q4047513",
@@ -10325,7 +10335,7 @@
     },
     {
       "id": "Q17146850",
-      "label": "Secretary-General",
+      "label": "Secretary-General (of Israeli Labor Party)",
       "qualifiers": {
         "P642": "Israeli Labor Party",
         "P580": "2010",
@@ -10334,7 +10344,7 @@
     },
     {
       "id": "Q708492",
-      "label": "councillor",
+      "label": "councillor (of Jerusalem)",
       "qualifiers": {
         "P642": "Jerusalem",
         "P580": "2008",
@@ -10467,7 +10477,7 @@
     },
     {
       "id": "Q140686",
-      "label": "chairperson",
+      "label": "chairperson (of Zehut)",
       "qualifiers": {
         "P642": "Zehut",
         "P580": "2015"
@@ -10658,7 +10668,7 @@
     },
     {
       "id": "Q30185",
-      "label": "mayor",
+      "label": "mayor (of Carmel City)",
       "qualifiers": {
         "P642": "Carmel City",
         "P580": "2003",
@@ -10669,14 +10679,14 @@
     },
     {
       "id": "Q708492",
-      "label": "councillor",
+      "label": "councillor (of Daliyat al-Karmel)",
       "qualifiers": {
         "P642": "Daliyat al-Karmel"
       }
     },
     {
       "id": "Q140686",
-      "label": "chairperson",
+      "label": "chairperson (of Kadima)",
       "qualifiers": {
         "P642": "Kadima",
         "P580": "2015-01-27",
@@ -10773,7 +10783,7 @@
     },
     {
       "id": "Q19803218",
-      "label": "Social Equality Minister of Israel",
+      "label": "Social Equality Minister of Israel (of Thirty-fourth government of Israel)",
       "qualifiers": {
         "P642": "Thirty-fourth government of Israel",
         "P580": "2015-05-14",
@@ -11087,7 +11097,7 @@
     },
     {
       "id": "Q20021264",
-      "label": "Minister of Construction",
+      "label": "Minister of Construction (of Thirty-third government of Israel)",
       "qualifiers": {
         "P642": "Thirty-third government of Israel",
         "P580": "2013-03-18",
@@ -11098,7 +11108,7 @@
     },
     {
       "id": "Q15731462",
-      "label": "Minister of Agriculture and Rural Development",
+      "label": "Minister of Agriculture and Rural Development (of Thirty-fourth government of Israel)",
       "qualifiers": {
         "P642": "Thirty-fourth government of Israel",
         "P580": "2015-05-14",
@@ -11156,7 +11166,7 @@
     },
     {
       "id": "Q708492",
-      "label": "councillor",
+      "label": "councillor (of Jerusalem)",
       "qualifiers": {
         "P642": "Jerusalem",
         "P580": "1983",
@@ -11781,7 +11791,7 @@
     },
     {
       "id": "Q708492",
-      "label": "councillor",
+      "label": "councillor (of Lod)",
       "qualifiers": {
         "P642": "Lod"
       }
@@ -11866,8 +11876,10 @@
       "id": "Q545206",
       "label": "Chief of General Staff",
       "qualifiers": {
-        "P580": "1953",
-        "P582": "1958"
+        "P580": "1953-12-07",
+        "P582": "1958",
+        "P1365": "Kadish Luz",
+        "P1366": "Haim Gvati"
       }
     },
     {
@@ -11875,7 +11887,9 @@
       "label": "Minister of Agriculture and Rural Development",
       "qualifiers": {
         "P580": "1959-12-17",
-        "P582": "1964-11-04"
+        "P582": "1964-11-04",
+        "P1365": "Kadish Luz",
+        "P1366": "Haim Gvati"
       }
     },
     {
@@ -11883,7 +11897,9 @@
       "label": "Minister of Defense",
       "qualifiers": {
         "P580": "1967-06-05",
-        "P582": "1974-06-03"
+        "P582": "1974-06-03",
+        "P1365": "Levi Eshkol",
+        "P1366": "Shimon Peres"
       }
     },
     {
@@ -11899,7 +11915,9 @@
       "label": "Minister of Foreign Affairs",
       "qualifiers": {
         "P580": "1977-06-20",
-        "P582": "1979-10-23"
+        "P582": "1979-10-23",
+        "P1365": "Yigal Allon",
+        "P1366": "Yitzhak Shamir"
       }
     }
   ],
@@ -12709,7 +12727,7 @@
     },
     {
       "id": "Q15731462",
-      "label": "Minister of Agriculture and Rural Development",
+      "label": "Minister of Agriculture and Rural Development (of Nineteenth government of Israel)",
       "qualifiers": {
         "P580": "1983-06-19",
         "P582": "1983-10-10",
@@ -12720,7 +12738,7 @@
     },
     {
       "id": "Q20021270",
-      "label": "Minister of Communications",
+      "label": "Minister of Communications (of Eighteenth government of Israel)",
       "qualifiers": {
         "P580": "1977-06-20",
         "P582": "1977-10-24",
@@ -12731,7 +12749,7 @@
     },
     {
       "id": "Q13222899",
-      "label": "Minister of Defense",
+      "label": "Minister of Defense (of Eighteenth government of Israel)",
       "qualifiers": {
         "P580": "1980-05-28",
         "P582": "1981-08-05",
@@ -12742,7 +12760,7 @@
     },
     {
       "id": "Q13222899",
-      "label": "Minister of Defense",
+      "label": "Minister of Defense (of Nineteenth government of Israel)",
       "qualifiers": {
         "P580": "1983-02-14",
         "P582": "1983-02-23",
@@ -12753,7 +12771,7 @@
     },
     {
       "id": "Q15733044",
-      "label": "Minister without portfolio",
+      "label": "Minister without portfolio (of Thirteenth government of Israel)",
       "qualifiers": {
         "P580": "1967-06-05",
         "P582": "1970-08-06",
