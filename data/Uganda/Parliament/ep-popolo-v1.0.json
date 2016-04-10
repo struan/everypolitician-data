@@ -754,12 +754,6 @@
       ]
     },
     {
-      "birth_date": "1971",
-      "gender": "male",
-      "id": "b60ce2df-6b5e-4dfc-b32f-99c678b45308",
-      "name": "Alex Ndeezi"
-    },
-    {
       "birth_date": "1973-08-06",
       "contact_details": [
         {
@@ -1762,11 +1756,6 @@
       "gender": "male",
       "id": "09cbe9f8-581f-48fb-bf04-5724244419c8",
       "name": "Ashraf Olega"
-    },
-    {
-      "gender": "male",
-      "id": "32a86325-1d18-4196-9a75-313db37596d5",
-      "name": "Aston Arinaitwe Rwakajara"
     },
     {
       "birth_date": "1956-09-19",
@@ -3007,12 +2996,6 @@
       ]
     },
     {
-      "birth_date": "1961",
-      "gender": "male",
-      "id": "92436ae4-1dd7-4c09-95b6-947507529bb3",
-      "name": "Brigadier Innocent Oula"
-    },
-    {
       "birth_date": "1954-12-16",
       "contact_details": [
         {
@@ -3409,12 +3392,6 @@
           "url": "http://www.parliament.go.ug/mpdata/mps.hei?p=f&n=t&details=t&j=41&const=Workers%27+Represantive&dist_id=74&distname=Workers"
         }
       ]
-    },
-    {
-      "birth_date": "1959",
-      "gender": "male",
-      "id": "fc8e1f28-b1b4-4fd7-91d6-7a37582992ad",
-      "name": "Charles Bakabulindi"
     },
     {
       "gender": "male",
@@ -6243,24 +6220,6 @@
       "name": "Gen. Elly Tumwine"
     },
     {
-      "birth_date": "1956",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "Gen_wamala"
-        }
-      ],
-      "gender": "male",
-      "id": "14f9d2d1-98f3-47d0-89be-8103e9e8454f",
-      "links": [
-        {
-          "note": "twitter",
-          "url": "https://twitter.com/Gen_wamala"
-        }
-      ],
-      "name": "Gen. Katumba Wamala"
-    },
-    {
       "gender": "male",
       "id": "0bd268d3-8c10-4482-a86c-612fe7262936",
       "name": "Genensio Tumuramye"
@@ -7071,12 +7030,6 @@
       ]
     },
     {
-      "birth_date": "1964",
-      "gender": "female",
-      "id": "f4af71cb-899a-4f78-a608-32fae95f0c37",
-      "name": "Helen Grace Asamo"
-    },
-    {
       "birth_date": "1982-12-27",
       "contact_details": [
         {
@@ -7565,12 +7518,6 @@
       "gender": "male",
       "id": "d42030f2-32fd-4256-99e5-fcfac0257c1d",
       "name": "Hilary Lokwang"
-    },
-    {
-      "birth_date": "1957",
-      "gender": "male",
-      "id": "78d0a141-2c4d-4064-9807-c3f96cb1f2c0",
-      "name": "Hood Katuramu Karibedda"
     },
     {
       "birth_date": "1957-12-18",
@@ -8079,6 +8026,10 @@
       ],
       "name": "Innocent Oula",
       "other_names": [
+        {
+          "name": "Innocent Oula",
+          "note": "alternate"
+        },
         {
           "lang": "en",
           "name": "Innocent Oula",
@@ -19142,12 +19093,6 @@
       ]
     },
     {
-      "birth_date": "1966",
-      "gender": "female",
-      "id": "5c7f05c7-ede9-4ae8-9592-e07ec4ef09f9",
-      "name": "Safia Nalule Juuko"
-    },
-    {
       "birth_date": "1952-01-07",
       "gender": "female",
       "id": "b2a7b78b-e0d4-4008-9bb0-18f0e91c7cfb",
@@ -19418,12 +19363,6 @@
           "url": "http://www.parliament.go.ug/mpdata/mps.hei?p=f&n=t&details=t&j=616&const=Erute+County+South&dist_id=42&distname=Lira"
         }
       ]
-    },
-    {
-      "birth_date": "1967",
-      "gender": "male",
-      "id": "a42567ea-5aa5-4d79-80af-0956cfdea07d",
-      "name": "Sam Lyomoki"
     },
     {
       "birth_date": "1971-10-27",
@@ -22295,6 +22234,10 @@
         {
           "type": "phone",
           "value": "0772575133/0752575144"
+        },
+        {
+          "type": "twitter",
+          "value": "Gen_wamala"
         }
       ],
       "email": "wkatumba@parliament.go.ug",
@@ -22322,6 +22265,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Katumba_Wamala"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/Gen_wamala"
         },
         {
           "note": "website",
@@ -22684,12 +22631,6 @@
       "gender": "male",
       "id": "53b9657c-92ac-407b-aa6e-75464c2bf881",
       "name": "William Zinkuratire Beijuke"
-    },
-    {
-      "birth_date": "1952",
-      "gender": "male",
-      "id": "8fa576ca-0658-4560-9531-a8fefc83cd2a",
-      "name": "Wilson Nokrach"
     },
     {
       "gender": "female",
@@ -24195,6 +24136,14 @@
     },
     {
       "area_id": "area/pwd",
+      "legislative_period_id": "term/10",
+      "on_behalf_of_id": "NRM",
+      "organization_id": "legislature",
+      "person_id": "09ed725b-e91c-4ed0-a58c-538aedabe487",
+      "role": "member"
+    },
+    {
+      "area_id": "area/pwd",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "NRM",
       "organization_id": "legislature",
@@ -24575,14 +24524,6 @@
       "on_behalf_of_id": "NRM",
       "organization_id": "legislature",
       "person_id": "148b06fc-3cc9-4138-8fac-96197be7f081",
-      "role": "member"
-    },
-    {
-      "area_id": "area/updf",
-      "legislative_period_id": "term/10",
-      "on_behalf_of_id": "NONE",
-      "organization_id": "legislature",
-      "person_id": "14f9d2d1-98f3-47d0-89be-8103e9e8454f",
       "role": "member"
     },
     {
@@ -25346,14 +25287,6 @@
       "role": "member"
     },
     {
-      "area_id": "area/workers'_represantive",
-      "legislative_period_id": "term/10",
-      "on_behalf_of_id": "NRM",
-      "organization_id": "legislature",
-      "person_id": "32a86325-1d18-4196-9a75-313db37596d5",
-      "role": "member"
-    },
-    {
       "area_id": "area/dokolo_north",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "NRM",
@@ -25399,6 +25332,14 @@
       "on_behalf_of_id": "NRM",
       "organization_id": "legislature",
       "person_id": "35adaf10-ce65-4826-a5b0-91db72ed8316",
+      "role": "member"
+    },
+    {
+      "area_id": "area/pwd",
+      "legislative_period_id": "term/10",
+      "on_behalf_of_id": "NRM",
+      "organization_id": "legislature",
+      "person_id": "35b0fd49-1df3-458b-ab58-089c14adf3fd",
       "role": "member"
     },
     {
@@ -25707,6 +25648,14 @@
     },
     {
       "area_id": "area/updf",
+      "legislative_period_id": "term/10",
+      "on_behalf_of_id": "NONE",
+      "organization_id": "legislature",
+      "person_id": "4134ca99-76b9-46e4-ae14-d255f7d9a673",
+      "role": "member"
+    },
+    {
+      "area_id": "area/updf",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -25775,6 +25724,14 @@
       "on_behalf_of_id": "NRM",
       "organization_id": "legislature",
       "person_id": "44d78c5d-f7d9-4a90-a509-bad6fd020850",
+      "role": "member"
+    },
+    {
+      "area_id": "area/pwd",
+      "legislative_period_id": "term/10",
+      "on_behalf_of_id": "NRM",
+      "organization_id": "legislature",
+      "person_id": "4509bcba-bbfc-4311-82d5-acc4c951d617",
       "role": "member"
     },
     {
@@ -26458,14 +26415,6 @@
       "role": "member"
     },
     {
-      "area_id": "area/pwd",
-      "legislative_period_id": "term/10",
-      "on_behalf_of_id": "NRM",
-      "organization_id": "legislature",
-      "person_id": "5c7f05c7-ede9-4ae8-9592-e07ec4ef09f9",
-      "role": "member"
-    },
-    {
       "area_id": "area/bukanga",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "NRM",
@@ -26963,6 +26912,14 @@
     },
     {
       "area_id": "area/pwd",
+      "legislative_period_id": "term/10",
+      "on_behalf_of_id": "NRM",
+      "organization_id": "legislature",
+      "person_id": "6ceddccb-15e7-44f4-b11f-dc098e8cabd2",
+      "role": "member"
+    },
+    {
+      "area_id": "area/pwd",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "NRM",
       "organization_id": "legislature",
@@ -27115,6 +27072,14 @@
     },
     {
       "area_id": "area/updf",
+      "legislative_period_id": "term/10",
+      "on_behalf_of_id": "NONE",
+      "organization_id": "legislature",
+      "person_id": "762aefff-ee1f-44b7-808d-2bb5318fb574",
+      "role": "member"
+    },
+    {
+      "area_id": "area/updf",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -27159,14 +27124,6 @@
       "on_behalf_of_id": "NRM",
       "organization_id": "legislature",
       "person_id": "7839316c-26ae-41b0-92b9-0caf92606fbe",
-      "role": "member"
-    },
-    {
-      "area_id": "area/pwd",
-      "legislative_period_id": "term/10",
-      "on_behalf_of_id": "NRM",
-      "organization_id": "legislature",
-      "person_id": "78d0a141-2c4d-4064-9807-c3f96cb1f2c0",
       "role": "member"
     },
     {
@@ -27666,6 +27623,14 @@
     },
     {
       "area_id": "area/workers'_represantive",
+      "legislative_period_id": "term/10",
+      "on_behalf_of_id": "NRM",
+      "organization_id": "legislature",
+      "person_id": "8a254cc7-bfd8-4424-8276-45080921f151",
+      "role": "member"
+    },
+    {
+      "area_id": "area/workers'_represantive",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "NRM",
       "organization_id": "legislature",
@@ -27801,14 +27766,6 @@
       "role": "member"
     },
     {
-      "area_id": "area/pwd",
-      "legislative_period_id": "term/10",
-      "on_behalf_of_id": "NRM",
-      "organization_id": "legislature",
-      "person_id": "8fa576ca-0658-4560-9531-a8fefc83cd2a",
-      "role": "member"
-    },
-    {
       "area_id": "area/kinkiizi_county_west",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "NRM",
@@ -27822,6 +27779,14 @@
       "on_behalf_of_id": "NRM",
       "organization_id": "legislature",
       "person_id": "90adbac5-c04b-4708-89a7-5143e354619f",
+      "role": "member"
+    },
+    {
+      "area_id": "area/pwd",
+      "legislative_period_id": "term/10",
+      "on_behalf_of_id": "NRM",
+      "organization_id": "legislature",
+      "person_id": "90e71b5d-edb3-4c26-9045-01cdd1fad6bc",
       "role": "member"
     },
     {
@@ -27878,14 +27843,6 @@
       "on_behalf_of_id": "NRM",
       "organization_id": "legislature",
       "person_id": "91a8fa6a-1627-4298-984e-c94b8aa35f12",
-      "role": "member"
-    },
-    {
-      "area_id": "area/updf",
-      "legislative_period_id": "term/10",
-      "on_behalf_of_id": "NONE",
-      "organization_id": "legislature",
-      "person_id": "92436ae4-1dd7-4c09-95b6-947507529bb3",
       "role": "member"
     },
     {
@@ -28038,6 +27995,14 @@
       "on_behalf_of_id": "NRM",
       "organization_id": "legislature",
       "person_id": "97df74e9-6a13-4041-a93d-7929d93b3439",
+      "role": "member"
+    },
+    {
+      "area_id": "area/workers'_represantive",
+      "legislative_period_id": "term/10",
+      "on_behalf_of_id": "NRM",
+      "organization_id": "legislature",
+      "person_id": "97ea981b-f358-4ed8-8690-1c3ebbafe00a",
       "role": "member"
     },
     {
@@ -28294,14 +28259,6 @@
       "on_behalf_of_id": "NRM",
       "organization_id": "legislature",
       "person_id": "a3f864c4-35c3-4172-a3ea-3cd5326b4c66",
-      "role": "member"
-    },
-    {
-      "area_id": "area/workers'_represantive",
-      "legislative_period_id": "term/10",
-      "on_behalf_of_id": "NRM",
-      "organization_id": "legislature",
-      "person_id": "a42567ea-5aa5-4d79-80af-0956cfdea07d",
       "role": "member"
     },
     {
@@ -28710,14 +28667,6 @@
       "on_behalf_of_id": "NONE",
       "organization_id": "legislature",
       "person_id": "b550c875-e797-4ec9-8d22-75dec1d3c3eb",
-      "role": "member"
-    },
-    {
-      "area_id": "area/pwd",
-      "legislative_period_id": "term/10",
-      "on_behalf_of_id": "NRM",
-      "organization_id": "legislature",
-      "person_id": "b60ce2df-6b5e-4dfc-b32f-99c678b45308",
       "role": "member"
     },
     {
@@ -30121,6 +30070,14 @@
     },
     {
       "area_id": "area/workers'_represantive",
+      "legislative_period_id": "term/10",
+      "on_behalf_of_id": "NRM",
+      "organization_id": "legislature",
+      "person_id": "f149e08f-fff4-448f-bb21-d0f9cc164a47",
+      "role": "member"
+    },
+    {
+      "area_id": "area/workers'_represantive",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "NRM",
       "organization_id": "legislature",
@@ -30181,14 +30138,6 @@
       "on_behalf_of_id": "NRM",
       "organization_id": "legislature",
       "person_id": "f41f4ccb-19fb-4d75-91c4-2aeadd8d4714",
-      "role": "member"
-    },
-    {
-      "area_id": "area/pwd",
-      "legislative_period_id": "term/10",
-      "on_behalf_of_id": "NRM",
-      "organization_id": "legislature",
-      "person_id": "f4af71cb-899a-4f78-a608-32fae95f0c37",
       "role": "member"
     },
     {
@@ -30373,14 +30322,6 @@
       "on_behalf_of_id": "NRM",
       "organization_id": "legislature",
       "person_id": "fc579483-795d-4601-a355-080965a3e3dd",
-      "role": "member"
-    },
-    {
-      "area_id": "area/workers'_represantive",
-      "legislative_period_id": "term/10",
-      "on_behalf_of_id": "NRM",
-      "organization_id": "legislature",
-      "person_id": "fc8e1f28-b1b4-4fd7-91d6-7a37582992ad",
       "role": "member"
     },
     {
