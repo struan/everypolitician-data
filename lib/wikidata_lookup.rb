@@ -106,14 +106,13 @@ class P39sLookup < WikidataLookup
         [p, qualifiers[p].value.to_s]
       }]
 
-      label = posn.value.to_s
-      if qual_data['P642']
-        label += " (of #{qual_data['P642']})"
-      end
+      title = label = posn.value.to_s
+      title += " (of #{qual_data['P642']})" if qual_data['P642']
 
       {
         id: posn.value.id,
         label: label,
+        title: title,
         qualifiers: qual_data,
       }.reject { |_,v| v.empty? } rescue {}
     end
