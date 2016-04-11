@@ -3,6 +3,11 @@
     {
       "file": "morph/sabor-7.csv",
       "source": "http://www.sabor.hr",
+      "create": {
+        "from": "morph",
+        "scraper": "tmtmtmtm/croatia-parliament",
+        "query": "SELECT id, name, sortname, image, party, birth_date, constituency, term, start_date, source FROM data WHERE term = 7"
+      },
       "type": "membership"
     },
     {
