@@ -8203,6 +8203,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "27b1d768-0733-4fd6-820b-97652767ef00",
       "name": "Ishma Mafabi"
     },
@@ -11244,6 +11245,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/سام_كوتيسا"
+        },
         {
           "note": "Wikipedia (commons)",
           "url": "https://commons.wikipedia.org/wiki/Category:Sam_Kutesa"
@@ -24063,7 +24068,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/kajara",
+      "area_id": "area/kajara_county",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "NRM",
       "organization_id": "legislature",
@@ -24215,7 +24220,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/kashongi",
+      "area_id": "area/kashongi_county",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "NRM",
       "organization_id": "legislature",
@@ -24311,7 +24316,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/kazo",
+      "area_id": "area/kazo_county",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "NRM",
       "organization_id": "legislature",
@@ -24615,7 +24620,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/ruhinda",
+      "area_id": "area/ruhinda_county",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "NRM",
       "organization_id": "legislature",
@@ -25023,7 +25028,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/buhweju",
+      "area_id": "area/buhweju_county",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "FDC",
       "organization_id": "legislature",
@@ -25167,7 +25172,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/nakawa",
+      "area_id": "area/nakawa_division",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "FDC",
       "organization_id": "legislature",
@@ -25511,7 +25516,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/maracha",
+      "area_id": "area/maracha_county",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "FDC",
       "organization_id": "legislature",
@@ -25855,7 +25860,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/buruli",
+      "area_id": "area/buruli_county",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "NRM",
       "organization_id": "legislature",
@@ -25871,7 +25876,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/nyabushozi",
+      "area_id": "area/nyabushozi_county",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "NRM",
       "organization_id": "legislature",
@@ -26079,7 +26084,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/ntwetwe",
+      "area_id": "area/ntwetwe_county",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "NRM",
       "organization_id": "legislature",
@@ -26239,7 +26244,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/workers'_represantive",
+      "area_id": "area/workers'_representative",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "NRM",
       "organization_id": "legislature",
@@ -26351,7 +26356,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/labwor",
+      "area_id": "area/labwor_county",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "NRM",
       "organization_id": "legislature",
@@ -26415,7 +26420,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/bukanga",
+      "area_id": "area/bukanga_county",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "NRM",
       "organization_id": "legislature",
@@ -26895,7 +26900,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/workers'_represantive",
+      "area_id": "area/workers'_representative",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "INDEP",
       "organization_id": "legislature",
@@ -27622,7 +27627,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/workers'_represantive",
+      "area_id": "area/workers'_representative",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "NRM",
       "organization_id": "legislature",
@@ -27998,7 +28003,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/workers'_represantive",
+      "area_id": "area/workers'_representative",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "NRM",
       "organization_id": "legislature",
@@ -28750,7 +28755,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/lutseshe",
+      "area_id": "area/lutseshe_county",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "INDEP",
       "organization_id": "legislature",
@@ -29381,7 +29386,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/iki_iki",
+      "area_id": "area/iki_iki_county",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "NRM",
       "organization_id": "legislature",
@@ -29877,7 +29882,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/buhaguzi",
+      "area_id": "area/buhaguzi_county",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "NRM",
       "organization_id": "legislature",
@@ -30029,7 +30034,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/katerera",
+      "area_id": "area/katerera_county",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "NRM",
       "organization_id": "legislature",
@@ -30069,7 +30074,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/workers'_represantive",
+      "area_id": "area/workers'_representative",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "NRM",
       "organization_id": "legislature",
@@ -30261,7 +30266,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/kasilo",
+      "area_id": "area/kasilo_county",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "FDC",
       "organization_id": "legislature",
@@ -30665,18 +30670,8 @@
       "type": "constituency"
     },
     {
-      "id": "area/buhaguzi",
-      "name": "Buhaguzi",
-      "type": "constituency"
-    },
-    {
       "id": "area/buhaguzi_county",
       "name": "Buhaguzi County",
-      "type": "constituency"
-    },
-    {
-      "id": "area/buhweju",
-      "name": "Buhweju",
       "type": "constituency"
     },
     {
@@ -30722,11 +30717,6 @@
     {
       "id": "area/bujumba_county",
       "name": "Bujumba County",
-      "type": "constituency"
-    },
-    {
-      "id": "area/bukanga",
-      "name": "Bukanga",
       "type": "constituency"
     },
     {
@@ -30995,8 +30985,8 @@
       "type": "constituency"
     },
     {
-      "id": "area/buruli",
-      "name": "Buruli",
+      "id": "area/buruli_county",
+      "name": "Buruli County",
       "type": "constituency"
     },
     {
@@ -31360,8 +31350,8 @@
       "type": "constituency"
     },
     {
-      "id": "area/iki_iki",
-      "name": "Iki Iki",
+      "id": "area/iki_iki_county",
+      "name": "Iki Iki County",
       "type": "constituency"
     },
     {
@@ -31437,11 +31427,6 @@
     {
       "id": "area/kagoma_county",
       "name": "Kagoma County",
-      "type": "constituency"
-    },
-    {
-      "id": "area/kajara",
-      "name": "Kajara",
       "type": "constituency"
     },
     {
@@ -31530,13 +31515,8 @@
       "type": "constituency"
     },
     {
-      "id": "area/kashongi",
-      "name": "Kashongi",
-      "type": "constituency"
-    },
-    {
-      "id": "area/kasilo",
-      "name": "Kasilo",
+      "id": "area/kashongi_county",
+      "name": "Kashongi County",
       "type": "constituency"
     },
     {
@@ -31565,11 +31545,6 @@
       "type": "constituency"
     },
     {
-      "id": "area/katerera",
-      "name": "Katerera",
-      "type": "constituency"
-    },
-    {
       "id": "area/katerera_county",
       "name": "Katerera County",
       "type": "constituency"
@@ -31591,7 +31566,7 @@
     },
     {
       "id": "area/katikamu_south",
-      "name": "katikamu south",
+      "name": "Katikamu South",
       "type": "constituency"
     },
     {
@@ -31612,11 +31587,6 @@
     {
       "id": "area/kawempe_south",
       "name": "Kawempe South",
-      "type": "constituency"
-    },
-    {
-      "id": "area/kazo",
-      "name": "Kazo",
       "type": "constituency"
     },
     {
@@ -31860,11 +31830,6 @@
       "type": "constituency"
     },
     {
-      "id": "area/labwor",
-      "name": "Labwor",
-      "type": "constituency"
-    },
-    {
       "id": "area/labwor_county",
       "name": "Labwor County",
       "type": "constituency"
@@ -31890,8 +31855,8 @@
       "type": "constituency"
     },
     {
-      "id": "area/lutseshe",
-      "name": "Lutseshe",
+      "id": "area/lutseshe_county",
+      "name": "Lutseshe County",
       "type": "constituency"
     },
     {
@@ -31947,11 +31912,6 @@
     {
       "id": "area/manjiya_county",
       "name": "Manjiya County",
-      "type": "constituency"
-    },
-    {
-      "id": "area/maracha",
-      "name": "Maracha",
       "type": "constituency"
     },
     {
@@ -32145,11 +32105,6 @@
       "type": "constituency"
     },
     {
-      "id": "area/nakawa",
-      "name": "Nakawa",
-      "type": "constituency"
-    },
-    {
       "id": "area/nakawa_division",
       "name": "Nakawa Division",
       "type": "constituency"
@@ -32225,18 +32180,13 @@
       "type": "constituency"
     },
     {
-      "id": "area/ntwetwe",
-      "name": "Ntwetwe",
+      "id": "area/ntwetwe_county",
+      "name": "Ntwetwe County",
       "type": "constituency"
     },
     {
       "id": "area/nwoya_county",
       "name": "Nwoya County",
-      "type": "constituency"
-    },
-    {
-      "id": "area/nyabushozi",
-      "name": "Nyabushozi",
       "type": "constituency"
     },
     {
@@ -32370,8 +32320,8 @@
       "type": "constituency"
     },
     {
-      "id": "area/ruhinda",
-      "name": "Ruhinda",
+      "id": "area/ruhinda_county",
+      "name": "Ruhinda County",
       "type": "constituency"
     },
     {
@@ -32582,6 +32532,11 @@
     {
       "id": "area/workers'_represantive",
       "name": "Workers' Represantive",
+      "type": "constituency"
+    },
+    {
+      "id": "area/workers'_representative",
+      "name": "Workers' Representative",
       "type": "constituency"
     },
     {
