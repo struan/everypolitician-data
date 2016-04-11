@@ -10,7 +10,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/croatia-parliament",
-        "query": "SELECT id, name, sortname, image, party, birth_date, constituency, term, start_date, source FROM data"
+        "query": "SELECT id, name, sortname, image, party, birth_date, constituency, term, start_date, source FROM data WHERE term = 8"
       },
       "source": "http://www.sabor.hr",
       "merge": {
