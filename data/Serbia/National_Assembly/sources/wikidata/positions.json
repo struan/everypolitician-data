@@ -2,13 +2,15 @@
   "Q226696": [
     {
       "id": "Q6867695",
-      "label": "Ministry of the Interior"
+      "label": "Ministry of the Interior",
+      "title": "Ministry of the Interior"
     }
   ],
   "Q1254664": [
     {
       "id": "Q2198783",
       "label": "Minister of Defense",
+      "title": "Minister of Defense",
       "qualifiers": {
         "P580": "2007-05-15",
         "P582": "2012-07-27"
@@ -19,6 +21,7 @@
     {
       "id": "Q18577978",
       "label": "Q18577978",
+      "title": "Q18577978",
       "qualifiers": {
         "P580": "2013-09-03",
         "P582": "2013-10-25"
@@ -29,6 +32,7 @@
     {
       "id": "Q2199031",
       "label": "Minister of Justice of Serbia",
+      "title": "Minister of Justice of Serbia",
       "qualifiers": {
         "P580": "2008-07-07",
         "P582": "2012-07-27",
@@ -41,6 +45,7 @@
     {
       "id": "Q2199031",
       "label": "Minister of Justice of Serbia",
+      "title": "Minister of Justice of Serbia",
       "qualifiers": {
         "P580": "2007-05-15",
         "P582": "2008-07-07",
@@ -49,10 +54,35 @@
       }
     }
   ],
+  "Q1192059": [
+    {
+      "id": "Q889830",
+      "label": "President of Serbia",
+      "title": "President of Serbia",
+      "qualifiers": {
+        "P580": "2012-04-05",
+        "P1365": "Boris Tadić",
+        "P582": "2012-05-31",
+        "P1366": "Tomislav Nikolić"
+      }
+    },
+    {
+      "id": "Q7241347",
+      "label": "President of the National Assembly of Serbia",
+      "title": "President of the National Assembly of Serbia",
+      "qualifiers": {
+        "P580": "2008-06-25",
+        "P1365": "Oliver Dulić",
+        "P582": "2012-05-31",
+        "P1366": "Nebojša Stefanović"
+      }
+    }
+  ],
   "Q1280390": [
     {
       "id": "Q1254987",
       "label": "mayor of Novi Sad",
+      "title": "mayor of Novi Sad",
       "qualifiers": {
         "P580": "2004-10-05",
         "P582": "2008-06-16",
@@ -63,6 +93,7 @@
     {
       "id": "Q7241347",
       "label": "President of the National Assembly of Serbia",
+      "title": "President of the National Assembly of Serbia",
       "qualifiers": {
         "P580": "2014-04-23",
         "P1365": "Nebojša Stefanović"
