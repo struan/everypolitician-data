@@ -25846,6 +25846,11 @@
           "lang": "nl",
           "name": "Marjatta Stenius-Kaukonen",
           "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Marjatta Stenius-Kaukonen",
+          "note": "multilingual"
         }
       ],
       "sort_name": "Stenius-Kaukonen Marjatta",
@@ -36513,6 +36518,10 @@
           "url": "https://sv.wikipedia.org/wiki/Petteri_Orpo"
         },
         {
+          "note": "website",
+          "url": "http://orpo.fi/"
+        },
+        {
           "note": "wikipedia",
           "url": "http://fi.wikipedia.org/wiki/Petteri_Orpo"
         }
@@ -37364,6 +37373,10 @@
         {
           "note": "Wikipedia (fi)",
           "url": "https://fi.wikipedia.org/wiki/Päivi_Räsänen"
+        },
+        {
+          "note": "Wikipedia (fiwikiquote)",
+          "url": "https://fiwikiquote.wikipedia.org/wiki/Päivi_Räsänen"
         },
         {
           "note": "Wikipedia (fr)",
@@ -41355,6 +41368,7 @@
       ]
     },
     {
+      "gender": "female",
       "given_name": "Satu",
       "id": "40859380-71b4-43bd-8095-83652a7c0a0f",
       "identifiers": [
@@ -53557,7 +53571,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/lapin_vaalipiiri",
+      "area_id": "area/lapin",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "sd",
       "organization_id": "legislature",
@@ -53685,7 +53699,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/varsinais-suomen_vaalipiiri",
+      "area_id": "area/varsinais-suomen",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "kok",
       "organization_id": "legislature",
@@ -53701,7 +53715,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/hämeen_vaalipiiri",
+      "area_id": "area/hämeen",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "vas",
       "organization_id": "legislature",
@@ -53781,7 +53795,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/helsingin_vaalipiiri",
+      "area_id": "area/helsingin",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "sd",
       "organization_id": "legislature",
@@ -53837,7 +53851,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/keski-suomen_vaalipiiri",
+      "area_id": "area/keski-suomen",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "ps",
       "organization_id": "legislature",
@@ -53861,7 +53875,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/oulun_vaalipiiri",
+      "area_id": "area/oulun",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "kesk",
       "organization_id": "legislature",
@@ -53968,7 +53982,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/pirkanmaan_vaalipiiri",
+      "area_id": "area/pirkanmaan",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "kd",
       "organization_id": "legislature",
@@ -54000,7 +54014,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/oulun_vaalipiiri",
+      "area_id": "area/oulun",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "ps",
       "organization_id": "legislature",
@@ -54081,7 +54095,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/kaakkois-suomen_vaalipiiri",
+      "area_id": "area/kaakkois-suomen",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "vihr",
       "organization_id": "legislature",
@@ -54129,7 +54143,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/keski-suomen_vaalipiiri",
+      "area_id": "area/keski-suomen",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "kesk",
       "organization_id": "legislature",
@@ -54145,7 +54159,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/kaakkois-suomen_vaalipiiri",
+      "area_id": "area/kaakkois-suomen",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "ps",
       "organization_id": "legislature",
@@ -54379,7 +54393,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/hämeen_vaalipiiri",
+      "area_id": "area/hämeen",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "kesk",
       "organization_id": "legislature",
@@ -54443,7 +54457,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/pirkanmaan_vaalipiiri",
+      "area_id": "area/pirkanmaan",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "kok",
       "organization_id": "legislature",
@@ -54477,7 +54491,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/pirkanmaan_vaalipiiri",
+      "area_id": "area/pirkanmaan",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "ps",
       "organization_id": "legislature",
@@ -54509,7 +54523,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/uudenmaan_vaalipiiri",
+      "area_id": "area/uudenmaan",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "kok",
       "organization_id": "legislature",
@@ -54549,7 +54563,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/vaasan_vaalipiiri",
+      "area_id": "area/vaasan",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "kesk",
       "organization_id": "legislature",
@@ -54565,7 +54579,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/pirkanmaan_vaalipiiri",
+      "area_id": "area/pirkanmaan",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "kesk",
       "organization_id": "legislature",
@@ -54613,7 +54627,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/varsinais-suomen_vaalipiiri",
+      "area_id": "area/varsinais-suomen",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "r",
       "organization_id": "legislature",
@@ -54654,7 +54668,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/pirkanmaan_vaalipiiri",
+      "area_id": "area/pirkanmaan",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "vihr",
       "organization_id": "legislature",
@@ -54670,7 +54684,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/keski-suomen_vaalipiiri",
+      "area_id": "area/keski-suomen",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "ps",
       "organization_id": "legislature",
@@ -54729,7 +54743,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/savo-karjalan_vaalipiiri",
+      "area_id": "area/savo-karjalan",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "kesk",
       "organization_id": "legislature",
@@ -54753,7 +54767,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/varsinais-suomen_vaalipiiri",
+      "area_id": "area/varsinais-suomen",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "kok",
       "organization_id": "legislature",
@@ -54761,7 +54775,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/pirkanmaan_vaalipiiri",
+      "area_id": "area/pirkanmaan",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "ps",
       "organization_id": "legislature",
@@ -54877,7 +54891,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/helsingin_vaalipiiri",
+      "area_id": "area/helsingin",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "kok",
       "organization_id": "legislature",
@@ -54950,7 +54964,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/vaasan_vaalipiiri",
+      "area_id": "area/vaasan",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "kd",
       "organization_id": "legislature",
@@ -55014,7 +55028,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/uudenmaan_vaalipiiri",
+      "area_id": "area/uudenmaan",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "ps",
       "organization_id": "legislature",
@@ -55054,7 +55068,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/vaasan_vaalipiiri",
+      "area_id": "area/vaasan",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "r",
       "organization_id": "legislature",
@@ -55078,7 +55092,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/satakunnan_vaalipiiri",
+      "area_id": "area/satakunnan",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "sd",
       "organization_id": "legislature",
@@ -55152,7 +55166,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/lapin_vaalipiiri",
+      "area_id": "area/lapin",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "ps",
       "organization_id": "legislature",
@@ -55168,7 +55182,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/kaakkois-suomen_vaalipiiri",
+      "area_id": "area/kaakkois-suomen",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "kok",
       "organization_id": "legislature",
@@ -55264,7 +55278,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/lapin_vaalipiiri",
+      "area_id": "area/lapin",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "kesk",
       "organization_id": "legislature",
@@ -55305,7 +55319,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/varsinais-suomen_vaalipiiri",
+      "area_id": "area/varsinais-suomen",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "kesk",
       "organization_id": "legislature",
@@ -55345,7 +55359,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/savo-karjalan_vaalipiiri",
+      "area_id": "area/savo-karjalan",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "kok",
       "organization_id": "legislature",
@@ -55385,7 +55399,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/helsingin_vaalipiiri",
+      "area_id": "area/helsingin",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "ps",
       "organization_id": "legislature",
@@ -55425,7 +55439,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/savo-karjalan_vaalipiiri",
+      "area_id": "area/savo-karjalan",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "kesk",
       "organization_id": "legislature",
@@ -55441,7 +55455,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/savo-karjalan_vaalipiiri",
+      "area_id": "area/savo-karjalan",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "kesk",
       "organization_id": "legislature",
@@ -55513,7 +55527,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/helsingin_vaalipiiri",
+      "area_id": "area/helsingin",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "vihr",
       "organization_id": "legislature",
@@ -55537,7 +55551,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/varsinais-suomen_vaalipiiri",
+      "area_id": "area/varsinais-suomen",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "vihr",
       "organization_id": "legislature",
@@ -55618,7 +55632,7 @@
       "start_date": "2014-07-04"
     },
     {
-      "area_id": "area/vaasan_vaalipiiri",
+      "area_id": "area/vaasan",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "sd",
       "organization_id": "legislature",
@@ -55666,7 +55680,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/oulun_vaalipiiri",
+      "area_id": "area/oulun",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "ps",
       "organization_id": "legislature",
@@ -55746,7 +55760,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/helsingin_vaalipiiri",
+      "area_id": "area/helsingin",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "kok",
       "organization_id": "legislature",
@@ -55771,7 +55785,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/hämeen_vaalipiiri",
+      "area_id": "area/hämeen",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "kok",
       "organization_id": "legislature",
@@ -55811,7 +55825,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/savo-karjalan_vaalipiiri",
+      "area_id": "area/savo-karjalan",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "ps",
       "organization_id": "legislature",
@@ -55999,7 +56013,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/vaasan_vaalipiiri",
+      "area_id": "area/vaasan",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "ps",
       "organization_id": "legislature",
@@ -56047,7 +56061,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/vaasan_vaalipiiri",
+      "area_id": "area/vaasan",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "sd",
       "organization_id": "legislature",
@@ -56112,7 +56126,7 @@
       "start_date": "2001-09-05"
     },
     {
-      "area_id": "area/helsingin_vaalipiiri",
+      "area_id": "area/helsingin",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "kok",
       "organization_id": "legislature",
@@ -56186,7 +56200,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/uudenmaan_vaalipiiri",
+      "area_id": "area/uudenmaan",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "kesk",
       "organization_id": "legislature",
@@ -56310,7 +56324,7 @@
       "start_date": "2011-09-08"
     },
     {
-      "area_id": "area/hämeen_vaalipiiri",
+      "area_id": "area/hämeen",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "ps",
       "organization_id": "legislature",
@@ -56358,7 +56372,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/savo-karjalan_vaalipiiri",
+      "area_id": "area/savo-karjalan",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "sd",
       "organization_id": "legislature",
@@ -56454,7 +56468,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/varsinais-suomen_vaalipiiri",
+      "area_id": "area/varsinais-suomen",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "vas",
       "organization_id": "legislature",
@@ -56494,7 +56508,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/pirkanmaan_vaalipiiri",
+      "area_id": "area/pirkanmaan",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "ps",
       "organization_id": "legislature",
@@ -56542,7 +56556,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/kaakkois-suomen_vaalipiiri",
+      "area_id": "area/kaakkois-suomen",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "sd",
       "organization_id": "legislature",
@@ -56550,7 +56564,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/varsinais-suomen_vaalipiiri",
+      "area_id": "area/varsinais-suomen",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "vas",
       "organization_id": "legislature",
@@ -56590,7 +56604,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/varsinais-suomen_vaalipiiri",
+      "area_id": "area/varsinais-suomen",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "kesk",
       "organization_id": "legislature",
@@ -56614,7 +56628,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/varsinais-suomen_vaalipiiri",
+      "area_id": "area/varsinais-suomen",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "sd",
       "organization_id": "legislature",
@@ -56654,7 +56668,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/uudenmaan_vaalipiiri",
+      "area_id": "area/uudenmaan",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "kesk",
       "organization_id": "legislature",
@@ -56710,7 +56724,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/satakunnan_vaalipiiri",
+      "area_id": "area/satakunnan",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "kok",
       "organization_id": "legislature",
@@ -56751,7 +56765,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/uudenmaan_vaalipiiri",
+      "area_id": "area/uudenmaan",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "sd",
       "organization_id": "legislature",
@@ -56759,7 +56773,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/kaakkois-suomen_vaalipiiri",
+      "area_id": "area/kaakkois-suomen",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "sd",
       "organization_id": "legislature",
@@ -56999,7 +57013,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/lapin_vaalipiiri",
+      "area_id": "area/lapin",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "kesk",
       "organization_id": "legislature",
@@ -57147,7 +57161,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/satakunnan_vaalipiiri",
+      "area_id": "area/satakunnan",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "ps",
       "organization_id": "legislature",
@@ -57163,7 +57177,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/vaasan_vaalipiiri",
+      "area_id": "area/vaasan",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "ps",
       "organization_id": "legislature",
@@ -57195,7 +57209,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/ahvenanmaan_maakunnan_vaalipiiri",
+      "area_id": "area/ahvenanmaan_maakunnan",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "r",
       "organization_id": "legislature",
@@ -57373,7 +57387,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/keski-suomen_vaalipiiri",
+      "area_id": "area/keski-suomen",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "sd",
       "organization_id": "legislature",
@@ -57470,7 +57484,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/helsingin_vaalipiiri",
+      "area_id": "area/helsingin",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "vihr",
       "organization_id": "legislature",
@@ -57591,7 +57605,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/helsingin_vaalipiiri",
+      "area_id": "area/helsingin",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "vas",
       "organization_id": "legislature",
@@ -57728,7 +57742,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/uudenmaan_vaalipiiri",
+      "area_id": "area/uudenmaan",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "kesk",
       "organization_id": "legislature",
@@ -57736,7 +57750,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/oulun_vaalipiiri",
+      "area_id": "area/oulun",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "kesk",
       "organization_id": "legislature",
@@ -57752,7 +57766,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/uudenmaan_vaalipiiri",
+      "area_id": "area/uudenmaan",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "ps",
       "organization_id": "legislature",
@@ -57776,7 +57790,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/savo-karjalan_vaalipiiri",
+      "area_id": "area/savo-karjalan",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "kesk",
       "organization_id": "legislature",
@@ -57882,7 +57896,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/pirkanmaan_vaalipiiri",
+      "area_id": "area/pirkanmaan",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "vihr",
       "organization_id": "legislature",
@@ -57922,7 +57936,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/vaasan_vaalipiiri",
+      "area_id": "area/vaasan",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "kok",
       "organization_id": "legislature",
@@ -57963,7 +57977,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/uudenmaan_vaalipiiri",
+      "area_id": "area/uudenmaan",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "kok",
       "organization_id": "legislature",
@@ -57971,7 +57985,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/oulun_vaalipiiri",
+      "area_id": "area/oulun",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "kesk",
       "organization_id": "legislature",
@@ -58020,7 +58034,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/uudenmaan_vaalipiiri",
+      "area_id": "area/uudenmaan",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "vihr",
       "organization_id": "legislature",
@@ -58060,7 +58074,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/oulun_vaalipiiri",
+      "area_id": "area/oulun",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "kesk",
       "organization_id": "legislature",
@@ -58144,7 +58158,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/lapin_vaalipiiri",
+      "area_id": "area/lapin",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "kesk",
       "organization_id": "legislature",
@@ -58176,7 +58190,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/kaakkois-suomen_vaalipiiri",
+      "area_id": "area/kaakkois-suomen",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "ps",
       "organization_id": "legislature",
@@ -58225,7 +58239,7 @@
       "start_date": "2004-07-21"
     },
     {
-      "area_id": "area/satakunnan_vaalipiiri",
+      "area_id": "area/satakunnan",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "ps",
       "organization_id": "legislature",
@@ -58313,7 +58327,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/varsinais-suomen_vaalipiiri",
+      "area_id": "area/varsinais-suomen",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "kesk",
       "organization_id": "legislature",
@@ -58353,7 +58367,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/hämeen_vaalipiiri",
+      "area_id": "area/hämeen",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "kok",
       "organization_id": "legislature",
@@ -58401,7 +58415,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/hämeen_vaalipiiri",
+      "area_id": "area/hämeen",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "ps",
       "organization_id": "legislature",
@@ -58449,7 +58463,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/savo-karjalan_vaalipiiri",
+      "area_id": "area/savo-karjalan",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "kesk",
       "organization_id": "legislature",
@@ -58553,7 +58567,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/oulun_vaalipiiri",
+      "area_id": "area/oulun",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "kok",
       "organization_id": "legislature",
@@ -58611,7 +58625,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/uudenmaan_vaalipiiri",
+      "area_id": "area/uudenmaan",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "ps",
       "organization_id": "legislature",
@@ -58643,7 +58657,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/oulun_vaalipiiri",
+      "area_id": "area/oulun",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "kesk",
       "organization_id": "legislature",
@@ -58717,7 +58731,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/uudenmaan_vaalipiiri",
+      "area_id": "area/uudenmaan",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "r",
       "organization_id": "legislature",
@@ -58800,7 +58814,7 @@
       "start_date": "2013-09-05"
     },
     {
-      "area_id": "area/kaakkois-suomen_vaalipiiri",
+      "area_id": "area/kaakkois-suomen",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "kok",
       "organization_id": "legislature",
@@ -58848,7 +58862,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/satakunnan_vaalipiiri",
+      "area_id": "area/satakunnan",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "sd",
       "organization_id": "legislature",
@@ -58856,7 +58870,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/uudenmaan_vaalipiiri",
+      "area_id": "area/uudenmaan",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "sd",
       "organization_id": "legislature",
@@ -58994,7 +59008,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/helsingin_vaalipiiri",
+      "area_id": "area/helsingin",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "kok",
       "organization_id": "legislature",
@@ -59189,7 +59203,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/keski-suomen_vaalipiiri",
+      "area_id": "area/keski-suomen",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "kesk",
       "organization_id": "legislature",
@@ -59197,7 +59211,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/helsingin_vaalipiiri",
+      "area_id": "area/helsingin",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "vihr",
       "organization_id": "legislature",
@@ -59269,7 +59283,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/savo-karjalan_vaalipiiri",
+      "area_id": "area/savo-karjalan",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "ps",
       "organization_id": "legislature",
@@ -59382,7 +59396,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/uudenmaan_vaalipiiri",
+      "area_id": "area/uudenmaan",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "r",
       "organization_id": "legislature",
@@ -59455,7 +59469,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/hämeen_vaalipiiri",
+      "area_id": "area/hämeen",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "kesk",
       "organization_id": "legislature",
@@ -59463,7 +59477,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/uudenmaan_vaalipiiri",
+      "area_id": "area/uudenmaan",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "kd",
       "organization_id": "legislature",
@@ -59585,7 +59599,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/lapin_vaalipiiri",
+      "area_id": "area/lapin",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "kesk",
       "organization_id": "legislature",
@@ -59641,7 +59655,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/oulun_vaalipiiri",
+      "area_id": "area/oulun",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "kesk",
       "organization_id": "legislature",
@@ -59649,7 +59663,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/varsinais-suomen_vaalipiiri",
+      "area_id": "area/varsinais-suomen",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "ps",
       "organization_id": "legislature",
@@ -59786,7 +59800,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/helsingin_vaalipiiri",
+      "area_id": "area/helsingin",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "kok",
       "organization_id": "legislature",
@@ -59834,7 +59848,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/hämeen_vaalipiiri",
+      "area_id": "area/hämeen",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "kd",
       "organization_id": "legislature",
@@ -59842,7 +59856,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/uudenmaan_vaalipiiri",
+      "area_id": "area/uudenmaan",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "ps",
       "organization_id": "legislature",
@@ -59929,7 +59943,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/varsinais-suomen_vaalipiiri",
+      "area_id": "area/varsinais-suomen",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "sd",
       "organization_id": "legislature",
@@ -60057,7 +60071,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/keski-suomen_vaalipiiri",
+      "area_id": "area/keski-suomen",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "sd",
       "organization_id": "legislature",
@@ -60113,7 +60127,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/oulun_vaalipiiri",
+      "area_id": "area/oulun",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "vihr",
       "organization_id": "legislature",
@@ -60209,7 +60223,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/uudenmaan_vaalipiiri",
+      "area_id": "area/uudenmaan",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "vihr",
       "organization_id": "legislature",
@@ -60233,7 +60247,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/uudenmaan_vaalipiiri",
+      "area_id": "area/uudenmaan",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "sd",
       "organization_id": "legislature",
@@ -60388,7 +60402,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/savo-karjalan_vaalipiiri",
+      "area_id": "area/savo-karjalan",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "vihr",
       "organization_id": "legislature",
@@ -60509,7 +60523,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/uudenmaan_vaalipiiri",
+      "area_id": "area/uudenmaan",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "kok",
       "organization_id": "legislature",
@@ -60541,7 +60555,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/vaasan_vaalipiiri",
+      "area_id": "area/vaasan",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "kok",
       "organization_id": "legislature",
@@ -60618,7 +60632,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/satakunnan_vaalipiiri",
+      "area_id": "area/satakunnan",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "vas",
       "organization_id": "legislature",
@@ -60658,7 +60672,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/hämeen_vaalipiiri",
+      "area_id": "area/hämeen",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "ps",
       "organization_id": "legislature",
@@ -60682,7 +60696,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/vaasan_vaalipiiri",
+      "area_id": "area/vaasan",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "r",
       "organization_id": "legislature",
@@ -60690,7 +60704,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/keski-suomen_vaalipiiri",
+      "area_id": "area/keski-suomen",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "vihr",
       "organization_id": "legislature",
@@ -60733,7 +60747,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/helsingin_vaalipiiri",
+      "area_id": "area/helsingin",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "sd",
       "organization_id": "legislature",
@@ -60765,7 +60779,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/keski-suomen_vaalipiiri",
+      "area_id": "area/keski-suomen",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "kok",
       "organization_id": "legislature",
@@ -60773,7 +60787,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/helsingin_vaalipiiri",
+      "area_id": "area/helsingin",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "kok",
       "organization_id": "legislature",
@@ -60797,7 +60811,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/oulun_vaalipiiri",
+      "area_id": "area/oulun",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "kesk",
       "organization_id": "legislature",
@@ -60895,7 +60909,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/helsingin_vaalipiiri",
+      "area_id": "area/helsingin",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "r",
       "organization_id": "legislature",
@@ -60911,7 +60925,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/varsinais-suomen_vaalipiiri",
+      "area_id": "area/varsinais-suomen",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "sd",
       "organization_id": "legislature",
@@ -61001,7 +61015,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/varsinais-suomen_vaalipiiri",
+      "area_id": "area/varsinais-suomen",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "kok",
       "organization_id": "legislature",
@@ -61009,7 +61023,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/uudenmaan_vaalipiiri",
+      "area_id": "area/uudenmaan",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "r",
       "organization_id": "legislature",
@@ -61067,7 +61081,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/kaakkois-suomen_vaalipiiri",
+      "area_id": "area/kaakkois-suomen",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "kesk",
       "organization_id": "legislature",
@@ -61263,7 +61277,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/uudenmaan_vaalipiiri",
+      "area_id": "area/uudenmaan",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "kok",
       "organization_id": "legislature",
@@ -61328,7 +61342,7 @@
       "start_date": "2014-07-04"
     },
     {
-      "area_id": "area/helsingin_vaalipiiri",
+      "area_id": "area/helsingin",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "ps",
       "organization_id": "legislature",
@@ -61336,7 +61350,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/helsingin_vaalipiiri",
+      "area_id": "area/helsingin",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "kesk",
       "organization_id": "legislature",
@@ -61392,7 +61406,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/pirkanmaan_vaalipiiri",
+      "area_id": "area/pirkanmaan",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "kok",
       "organization_id": "legislature",
@@ -61497,7 +61511,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/uudenmaan_vaalipiiri",
+      "area_id": "area/uudenmaan",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "ps",
       "organization_id": "legislature",
@@ -61538,7 +61552,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/kaakkois-suomen_vaalipiiri",
+      "area_id": "area/kaakkois-suomen",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "sd",
       "organization_id": "legislature",
@@ -61546,7 +61560,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/vaasan_vaalipiiri",
+      "area_id": "area/vaasan",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "r",
       "organization_id": "legislature",
@@ -61580,7 +61594,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/kaakkois-suomen_vaalipiiri",
+      "area_id": "area/kaakkois-suomen",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "ps",
       "organization_id": "legislature",
@@ -61604,7 +61618,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/pirkanmaan_vaalipiiri",
+      "area_id": "area/pirkanmaan",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "kok",
       "organization_id": "legislature",
@@ -61694,7 +61708,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/hämeen_vaalipiiri",
+      "area_id": "area/hämeen",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "sd",
       "organization_id": "legislature",
@@ -61782,7 +61796,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/uudenmaan_vaalipiiri",
+      "area_id": "area/uudenmaan",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "vihr",
       "organization_id": "legislature",
@@ -61814,7 +61828,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/helsingin_vaalipiiri",
+      "area_id": "area/helsingin",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "sd",
       "organization_id": "legislature",
@@ -61870,7 +61884,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/uudenmaan_vaalipiiri",
+      "area_id": "area/uudenmaan",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "sd",
       "organization_id": "legislature",
@@ -61902,7 +61916,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/savo-karjalan_vaalipiiri",
+      "area_id": "area/savo-karjalan",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "kd",
       "organization_id": "legislature",
@@ -61954,7 +61968,7 @@
       "start_date": "2011-09-08"
     },
     {
-      "area_id": "area/lapin_vaalipiiri",
+      "area_id": "area/lapin",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "vas",
       "organization_id": "legislature",
@@ -61962,7 +61976,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/pirkanmaan_vaalipiiri",
+      "area_id": "area/pirkanmaan",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "sd",
       "organization_id": "legislature",
@@ -61970,7 +61984,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/savo-karjalan_vaalipiiri",
+      "area_id": "area/savo-karjalan",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "ps",
       "organization_id": "legislature",
@@ -62034,7 +62048,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/uudenmaan_vaalipiiri",
+      "area_id": "area/uudenmaan",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "sd",
       "organization_id": "legislature",
@@ -62067,7 +62081,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/vaasan_vaalipiiri",
+      "area_id": "area/vaasan",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "kesk",
       "organization_id": "legislature",
@@ -62075,7 +62089,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/pirkanmaan_vaalipiiri",
+      "area_id": "area/pirkanmaan",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "ps",
       "organization_id": "legislature",
@@ -62118,7 +62132,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/helsingin_vaalipiiri",
+      "area_id": "area/helsingin",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "vihr",
       "organization_id": "legislature",
@@ -62150,7 +62164,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/pirkanmaan_vaalipiiri",
+      "area_id": "area/pirkanmaan",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "kesk",
       "organization_id": "legislature",
@@ -62298,7 +62312,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/uudenmaan_vaalipiiri",
+      "area_id": "area/uudenmaan",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "ps",
       "organization_id": "legislature",
@@ -62541,7 +62555,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/savo-karjalan_vaalipiiri",
+      "area_id": "area/savo-karjalan",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "kesk",
       "organization_id": "legislature",
@@ -62605,7 +62619,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/pirkanmaan_vaalipiiri",
+      "area_id": "area/pirkanmaan",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "kok",
       "organization_id": "legislature",
@@ -62661,7 +62675,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/hämeen_vaalipiiri",
+      "area_id": "area/hämeen",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "sd",
       "organization_id": "legislature",
@@ -62752,7 +62766,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/uudenmaan_vaalipiiri",
+      "area_id": "area/uudenmaan",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "vas",
       "organization_id": "legislature",
@@ -62849,7 +62863,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/uudenmaan_vaalipiiri",
+      "area_id": "area/uudenmaan",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "kesk",
       "organization_id": "legislature",
@@ -62857,7 +62871,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/oulun_vaalipiiri",
+      "area_id": "area/oulun",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "kok",
       "organization_id": "legislature",
@@ -62921,7 +62935,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/vaasan_vaalipiiri",
+      "area_id": "area/vaasan",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "kesk",
       "organization_id": "legislature",
@@ -63010,7 +63024,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/hämeen_vaalipiiri",
+      "area_id": "area/hämeen",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "kesk",
       "organization_id": "legislature",
@@ -63018,7 +63032,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/uudenmaan_vaalipiiri",
+      "area_id": "area/uudenmaan",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "ps",
       "organization_id": "legislature",
@@ -63123,7 +63137,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/oulun_vaalipiiri",
+      "area_id": "area/oulun",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "kesk",
       "organization_id": "legislature",
@@ -63131,7 +63145,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/uudenmaan_vaalipiiri",
+      "area_id": "area/uudenmaan",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "kok",
       "organization_id": "legislature",
@@ -63171,7 +63185,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/kaakkois-suomen_vaalipiiri",
+      "area_id": "area/kaakkois-suomen",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "kesk",
       "organization_id": "legislature",
@@ -63251,7 +63265,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/satakunnan_vaalipiiri",
+      "area_id": "area/satakunnan",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "kesk",
       "organization_id": "legislature",
@@ -63291,7 +63305,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/savo-karjalan_vaalipiiri",
+      "area_id": "area/savo-karjalan",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "vas",
       "organization_id": "legislature",
@@ -63308,7 +63322,7 @@
       "start_date": "2014-07-04"
     },
     {
-      "area_id": "area/oulun_vaalipiiri",
+      "area_id": "area/oulun",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "vas",
       "organization_id": "legislature",
@@ -63316,7 +63330,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/keski-suomen_vaalipiiri",
+      "area_id": "area/keski-suomen",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "kesk",
       "organization_id": "legislature",
@@ -63458,7 +63472,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/pirkanmaan_vaalipiiri",
+      "area_id": "area/pirkanmaan",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "sd",
       "organization_id": "legislature",
@@ -63588,7 +63602,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/lapin_vaalipiiri",
+      "area_id": "area/lapin",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "kesk",
       "organization_id": "legislature",
@@ -63628,7 +63642,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/vaasan_vaalipiiri",
+      "area_id": "area/vaasan",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "kesk",
       "organization_id": "legislature",
@@ -63644,7 +63658,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/varsinais-suomen_vaalipiiri",
+      "area_id": "area/varsinais-suomen",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "ps",
       "organization_id": "legislature",
@@ -63652,7 +63666,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/savo-karjalan_vaalipiiri",
+      "area_id": "area/savo-karjalan",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "kok",
       "organization_id": "legislature",
@@ -63660,7 +63674,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/uudenmaan_vaalipiiri",
+      "area_id": "area/uudenmaan",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "sd",
       "organization_id": "legislature",
@@ -63676,7 +63690,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/oulun_vaalipiiri",
+      "area_id": "area/oulun",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "ps",
       "organization_id": "legislature",
@@ -63724,7 +63738,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/pirkanmaan_vaalipiiri",
+      "area_id": "area/pirkanmaan",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "kesk",
       "organization_id": "legislature",
@@ -63789,7 +63803,7 @@
       "start_date": "2014-07-04"
     },
     {
-      "area_id": "area/uudenmaan_vaalipiiri",
+      "area_id": "area/uudenmaan",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "kok",
       "organization_id": "legislature",
@@ -63813,7 +63827,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/uudenmaan_vaalipiiri",
+      "area_id": "area/uudenmaan",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "r",
       "organization_id": "legislature",
@@ -63821,7 +63835,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/kaakkois-suomen_vaalipiiri",
+      "area_id": "area/kaakkois-suomen",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "kesk",
       "organization_id": "legislature",
@@ -63837,7 +63851,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/pirkanmaan_vaalipiiri",
+      "area_id": "area/pirkanmaan",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "vas",
       "organization_id": "legislature",
@@ -64028,7 +64042,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/pirkanmaan_vaalipiiri",
+      "area_id": "area/pirkanmaan",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "sd",
       "organization_id": "legislature",
@@ -64109,7 +64123,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/vaasan_vaalipiiri",
+      "area_id": "area/vaasan",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "ps",
       "organization_id": "legislature",
@@ -64206,7 +64220,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/savo-karjalan_vaalipiiri",
+      "area_id": "area/savo-karjalan",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "sd",
       "organization_id": "legislature",
@@ -64270,7 +64284,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/kaakkois-suomen_vaalipiiri",
+      "area_id": "area/kaakkois-suomen",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "kesk",
       "organization_id": "legislature",
@@ -64399,7 +64413,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/satakunnan_vaalipiiri",
+      "area_id": "area/satakunnan",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "kesk",
       "organization_id": "legislature",
@@ -64415,7 +64429,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/kaakkois-suomen_vaalipiiri",
+      "area_id": "area/kaakkois-suomen",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "kesk",
       "organization_id": "legislature",
@@ -64488,7 +64502,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/vaasan_vaalipiiri",
+      "area_id": "area/vaasan",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "kesk",
       "organization_id": "legislature",
@@ -64530,7 +64544,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/helsingin_vaalipiiri",
+      "area_id": "area/helsingin",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "sd",
       "organization_id": "legislature",
@@ -64562,7 +64576,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/uudenmaan_vaalipiiri",
+      "area_id": "area/uudenmaan",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "kok",
       "organization_id": "legislature",
@@ -64578,7 +64592,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/kaakkois-suomen_vaalipiiri",
+      "area_id": "area/kaakkois-suomen",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "sd",
       "organization_id": "legislature",
@@ -64618,7 +64632,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/helsingin_vaalipiiri",
+      "area_id": "area/helsingin",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "vihr",
       "organization_id": "legislature",
@@ -64642,7 +64656,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/kaakkois-suomen_vaalipiiri",
+      "area_id": "area/kaakkois-suomen",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "kok",
       "organization_id": "legislature",
@@ -64690,7 +64704,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/hämeen_vaalipiiri",
+      "area_id": "area/hämeen",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "sd",
       "organization_id": "legislature",
@@ -64706,7 +64720,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/uudenmaan_vaalipiiri",
+      "area_id": "area/uudenmaan",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "ps",
       "organization_id": "legislature",
@@ -64731,7 +64745,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/oulun_vaalipiiri",
+      "area_id": "area/oulun",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "vas",
       "organization_id": "legislature",
@@ -64755,7 +64769,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/varsinais-suomen_vaalipiiri",
+      "area_id": "area/varsinais-suomen",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "kok",
       "organization_id": "legislature",
@@ -64779,7 +64793,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/kaakkois-suomen_vaalipiiri",
+      "area_id": "area/kaakkois-suomen",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "ps",
       "organization_id": "legislature",
@@ -64795,7 +64809,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/varsinais-suomen_vaalipiiri",
+      "area_id": "area/varsinais-suomen",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "ps",
       "organization_id": "legislature",
@@ -64835,7 +64849,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/oulun_vaalipiiri",
+      "area_id": "area/oulun",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "kesk",
       "organization_id": "legislature",
@@ -64859,7 +64873,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/helsingin_vaalipiiri",
+      "area_id": "area/helsingin",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "vas",
       "organization_id": "legislature",
@@ -64867,7 +64881,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/pirkanmaan_vaalipiiri",
+      "area_id": "area/pirkanmaan",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "sd",
       "organization_id": "legislature",
@@ -64891,7 +64905,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/hämeen_vaalipiiri",
+      "area_id": "area/hämeen",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "kok",
       "organization_id": "legislature",
@@ -65105,7 +65119,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/uudenmaan_vaalipiiri",
+      "area_id": "area/uudenmaan",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "kok",
       "organization_id": "legislature",
@@ -65193,7 +65207,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/helsingin_vaalipiiri",
+      "area_id": "area/helsingin",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "ps",
       "organization_id": "legislature",
@@ -65209,7 +65223,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/oulun_vaalipiiri",
+      "area_id": "area/oulun",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "sd",
       "organization_id": "legislature",
@@ -65305,7 +65319,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/keski-suomen_vaalipiiri",
+      "area_id": "area/keski-suomen",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "kesk",
       "organization_id": "legislature",
@@ -65313,7 +65327,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/uudenmaan_vaalipiiri",
+      "area_id": "area/uudenmaan",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "kok",
       "organization_id": "legislature",
@@ -65434,11 +65448,6 @@
       "type": "constituency"
     },
     {
-      "id": "area/ahvenanmaan_maakunnan_vaalipiiri",
-      "name": "Ahvenanmaan maakunnan vaalipiiri",
-      "type": "constituency"
-    },
-    {
       "id": "area/etelä-savon",
       "name": "Etelä-Savon",
       "type": "constituency"
@@ -65449,33 +65458,18 @@
       "type": "constituency"
     },
     {
-      "id": "area/helsingin_vaalipiiri",
-      "name": "Helsingin vaalipiiri",
-      "type": "constituency"
-    },
-    {
       "id": "area/hämeen",
       "name": "Hämeen",
       "type": "constituency"
     },
     {
-      "id": "area/hämeen_vaalipiiri",
-      "name": "Hämeen vaalipiiri",
-      "type": "constituency"
-    },
-    {
-      "id": "area/kaakkois-suomen_vaalipiiri",
-      "name": "Kaakkois-Suomen vaalipiiri",
+      "id": "area/kaakkois-suomen",
+      "name": "Kaakkois-Suomen",
       "type": "constituency"
     },
     {
       "id": "area/keski-suomen",
       "name": "Keski-Suomen",
-      "type": "constituency"
-    },
-    {
-      "id": "area/keski-suomen_vaalipiiri",
-      "name": "Keski-Suomen vaalipiiri",
       "type": "constituency"
     },
     {
@@ -65494,11 +65488,6 @@
       "type": "constituency"
     },
     {
-      "id": "area/lapin_vaalipiiri",
-      "name": "Lapin vaalipiiri",
-      "type": "constituency"
-    },
-    {
       "id": "area/mikkelin",
       "name": "Mikkelin",
       "type": "constituency"
@@ -65509,18 +65498,8 @@
       "type": "constituency"
     },
     {
-      "id": "area/oulun_vaalipiiri",
-      "name": "Oulun vaalipiiri",
-      "type": "constituency"
-    },
-    {
       "id": "area/pirkanmaan",
       "name": "Pirkanmaan",
-      "type": "constituency"
-    },
-    {
-      "id": "area/pirkanmaan_vaalipiiri",
-      "name": "Pirkanmaan vaalipiiri",
       "type": "constituency"
     },
     {
@@ -65539,13 +65518,8 @@
       "type": "constituency"
     },
     {
-      "id": "area/satakunnan_vaalipiiri",
-      "name": "Satakunnan vaalipiiri",
-      "type": "constituency"
-    },
-    {
-      "id": "area/savo-karjalan_vaalipiiri",
-      "name": "Savo-Karjalan vaalipiiri",
+      "id": "area/savo-karjalan",
+      "name": "Savo-Karjalan",
       "type": "constituency"
     },
     {
@@ -65554,28 +65528,13 @@
       "type": "constituency"
     },
     {
-      "id": "area/uudenmaan_vaalipiiri",
-      "name": "Uudenmaan vaalipiiri",
-      "type": "constituency"
-    },
-    {
       "id": "area/vaasan",
       "name": "Vaasan",
       "type": "constituency"
     },
     {
-      "id": "area/vaasan_vaalipiiri",
-      "name": "Vaasan vaalipiiri",
-      "type": "constituency"
-    },
-    {
       "id": "area/varsinais-suomen",
       "name": "Varsinais-Suomen",
-      "type": "constituency"
-    },
-    {
-      "id": "area/varsinais-suomen_vaalipiiri",
-      "name": "Varsinais-Suomen vaalipiiri",
       "type": "constituency"
     }
   ]
