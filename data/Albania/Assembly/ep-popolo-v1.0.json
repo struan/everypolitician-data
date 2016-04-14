@@ -2574,6 +2574,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "bg",
+          "name": "Буяр Нишани",
+          "note": "multilingual"
+        },
+        {
           "lang": "br",
           "name": "Bujar Nishani",
           "note": "multilingual"
@@ -4726,6 +4731,7 @@
         }
       ],
       "email": "fatmir.mehdiu@parlament.al",
+      "gender": "male",
       "id": "8abd2a35-390e-46b5-84b3-8103f022a620",
       "identifiers": [
         {
@@ -7554,6 +7560,7 @@
         }
       ],
       "email": "keltis.kruja@parlament.al",
+      "gender": "male",
       "id": "8102e822-71ee-4e86-b2fb-3db87c0a0ba7",
       "identifiers": [
         {
@@ -7604,6 +7611,7 @@
         }
       ],
       "email": "klodiana.spahiu@parlament.al",
+      "gender": "female",
       "id": "d0b51aea-1d6c-40dc-9f7d-123c0fcfb2ec",
       "identifiers": [
         {
@@ -9648,6 +9656,7 @@
         }
       ],
       "email": "omer.mamo@parlament.al",
+      "gender": "male",
       "id": "f6da01e5-890b-4c0e-94d1-a6847bc25e71",
       "identifiers": [
         {
@@ -10268,12 +10277,32 @@
       "id": "970d4053-be83-41fa-8add-905ce2d7eb47",
       "identifiers": [
         {
+          "identifier": "p195350",
+          "scheme": "allmovie"
+        },
+        {
+          "identifier": "11961",
+          "scheme": "allocine"
+        },
+        {
           "identifier": "Q7286316",
           "scheme": "everypolitician_legacy"
         },
         {
           "identifier": "1062204735",
           "scheme": "gnd"
+        },
+        {
+          "identifier": "nm0119951",
+          "scheme": "imdb"
+        },
+        {
+          "identifier": "391821",
+          "scheme": "kinopoisk"
+        },
+        {
+          "identifier": "203242",
+          "scheme": "port"
         },
         {
           "identifier": "311697289",
