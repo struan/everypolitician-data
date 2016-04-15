@@ -4485,6 +4485,7 @@
       "patronymic_name": "Миколайович"
     },
     {
+      "birth_date": "1986-02-21",
       "family_name": "Білоцерковець",
       "given_name": "Дмитро",
       "id": "1eec8222-1a43-4087-b450-a7ab0c6d3cae",
@@ -4492,6 +4493,10 @@
         {
           "identifier": "16340",
           "scheme": "rada"
+        },
+        {
+          "identifier": "Q23783065",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://static.rada.gov.ua/dep_img8/bp76.jpg",
@@ -4500,7 +4505,20 @@
           "url": "http://static.rada.gov.ua/dep_img8/bp76.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Білоцерковець_Дмитро_Олександрович"
+        }
+      ],
       "name": "Білоцерковець Дмитро Олександрович",
+      "other_names": [
+        {
+          "lang": "uk",
+          "name": "Білоцерковець Дмитро Олександрович",
+          "note": "multilingual"
+        }
+      ],
       "patronymic_name": "Олександрович"
     },
     {
@@ -16436,7 +16454,7 @@
           "scheme": "rada"
         },
         {
-          "identifier": "Q17371977",
+          "identifier": "Q21106421",
           "scheme": "wikidata"
         }
       ],
@@ -16448,12 +16466,21 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Матейченко,_Константин_Владимирович"
+        },
+        {
           "note": "Wikipedia (uk)",
           "url": "https://uk.wikipedia.org/wiki/Матейченко_Костянтин_Володимирович"
         }
       ],
       "name": "Матейченко Костянтин Володимирович",
       "other_names": [
+        {
+          "lang": "ru",
+          "name": "Матейченко, Константин Владимирович",
+          "note": "multilingual"
+        },
         {
           "lang": "uk",
           "name": "Матейченко Костянтин Володимирович",
