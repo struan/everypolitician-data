@@ -158,6 +158,12 @@ namespace :merge_sources do
                 # Can't do much yet with these ones…
                 next if %i(source given_name family_name).include? h
 
+                # Accept multiple values for multi-lingual names
+                if h.to_s.start_with? 'name__'
+                  existing_row[h] += ";" + incoming_row[h]
+                  next
+                end
+
                 # TODO accept multiple values for :image, :website, etc.
                 next if %i(image website twitter facebook).include? h
 
