@@ -1,4 +1,7 @@
 {
+  "posts": [
+
+  ],
   "persons": [
     {
       "birth_date": "1958-12-12",
@@ -104,6 +107,20 @@
         }
       ],
       "name": "Abang Abu Bakar Abang Mustapha"
+    },
+    {
+      "id": "841f2b42-61a6-4e5f-b462-ecc069fc8f1e",
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Abd._Aziz_Sheikh_Fadzir"
+        },
+        {
+          "note": "wikipedia",
+          "url": "http://en.wikipedia.org/wiki/Abd._Aziz_Sheikh_Fadzir"
+        }
+      ],
+      "name": "Abd. Aziz Sheikh Fadzir"
     },
     {
       "id": "4dd4839e-043b-4794-88c8-3c61d0c7f289",
@@ -12975,6 +12992,20 @@
       ]
     },
     {
+      "id": "56102b27-1c6b-45dd-8f1c-72596d02c771",
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Gooi_Hsiao-Leung"
+        },
+        {
+          "note": "wikipedia",
+          "url": "http://en.wikipedia.org/wiki/Gooi_Hsiao-Leung"
+        }
+      ],
+      "name": "Gooi Hsiao-Leung"
+    },
+    {
       "id": "1e86667d-5855-4971-8ced-9045570b5676",
       "identifiers": [
         {
@@ -19003,6 +19034,20 @@
         }
       ],
       "name": "Kamarudin Ahmad"
+    },
+    {
+      "id": "101e0d2c-60d9-47fb-bf5b-73805fa9184a",
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Kamarudin_Jaffar"
+        },
+        {
+          "note": "wikipedia",
+          "url": "http://en.wikipedia.org/wiki/Kamarudin_Jaffar"
+        }
+      ],
+      "name": "Kamarudin Jaffar"
     },
     {
       "birth_date": "1947-06-12",
@@ -36050,12 +36095,8 @@
           "url": "http://en.wikipedia.org/wiki/Ramkarpal_Singh"
         }
       ],
-      "name": "Ramkarpal Singh Deo",
+      "name": "Ramkarpal Singh",
       "other_names": [
-        {
-          "name": "Ramkarpal Singh",
-          "note": "alternate"
-        },
         {
           "lang": "de",
           "name": "Ramkarpal Singh",
@@ -43633,6 +43674,12 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/63/Tengku-razaleigh.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Tengku-razaleigh.jpg"
+        }
+      ],
       "links": [
         {
           "note": "Wikipedia (en)",
@@ -44576,6 +44623,10 @@
         {
           "note": "Wikipedia (az)",
           "url": "https://az.wikipedia.org/wiki/Abdul_Rahman"
+        },
+        {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Tunku_Abdul_Rahman"
         },
         {
           "note": "Wikipedia (commons)",
@@ -50030,6 +50081,38 @@
       "role": "member"
     },
     {
+      "area_id": "P019-10",
+      "legislative_period_id": "term/10",
+      "on_behalf_of_id": "PAS",
+      "organization_id": "legislature",
+      "person_id": "101e0d2c-60d9-47fb-bf5b-73805fa9184a",
+      "role": "member"
+    },
+    {
+      "area_id": "P019-11",
+      "legislative_period_id": "term/11",
+      "on_behalf_of_id": "PAS",
+      "organization_id": "legislature",
+      "person_id": "101e0d2c-60d9-47fb-bf5b-73805fa9184a",
+      "role": "member"
+    },
+    {
+      "area_id": "P019-12",
+      "legislative_period_id": "term/12",
+      "on_behalf_of_id": "PAS",
+      "organization_id": "legislature",
+      "person_id": "101e0d2c-60d9-47fb-bf5b-73805fa9184a",
+      "role": "member"
+    },
+    {
+      "area_id": "P019-13",
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "PKR",
+      "organization_id": "legislature",
+      "person_id": "101e0d2c-60d9-47fb-bf5b-73805fa9184a",
+      "role": "member"
+    },
+    {
       "area_id": "P014-12",
       "legislative_period_id": "term/12",
       "on_behalf_of_id": "PKR",
@@ -54150,6 +54233,14 @@
       "role": "member"
     },
     {
+      "area_id": "P056-12",
+      "legislative_period_id": "term/12",
+      "on_behalf_of_id": "UMNO",
+      "organization_id": "legislature",
+      "person_id": "47a6ac62-cacb-4c8c-ab98-8f306ec0d128",
+      "role": "member"
+    },
+    {
       "area_id": "P056-13",
       "legislative_period_id": "term/13",
       "on_behalf_of_id": "UMNO",
@@ -55083,6 +55174,14 @@
       "on_behalf_of_id": "BUMIPUTERA",
       "organization_id": "legislature",
       "person_id": "556d607c-63ac-40f5-8137-ed6757eb3569",
+      "role": "member"
+    },
+    {
+      "area_id": "P009-13",
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "PKR",
+      "organization_id": "legislature",
+      "person_id": "56102b27-1c6b-45dd-8f1c-72596d02c771",
       "role": "member"
     },
     {
@@ -58291,6 +58390,14 @@
       "on_behalf_of_id": "UMNO",
       "organization_id": "legislature",
       "person_id": "83dc9cfe-7322-4b74-a333-3d5bc045cb96",
+      "role": "member"
+    },
+    {
+      "area_id": "P018-13",
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "UMNO",
+      "organization_id": "legislature",
+      "person_id": "841f2b42-61a6-4e5f-b462-ecc069fc8f1e",
       "role": "member"
     },
     {
