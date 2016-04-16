@@ -1,4 +1,7 @@
 {
+  "posts": [
+
+  ],
   "persons": [
     {
       "birth_date": "1959-11-29",
@@ -2760,6 +2763,11 @@
         {
           "lang": "ru",
           "name": "Владимир Бортко",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Vladimir Bortko",
           "note": "multilingual"
         },
         {
@@ -7231,7 +7239,7 @@
         },
         {
           "note": "Wikipedia (sq)",
-          "url": "https://sq.wikipedia.org/wiki/Vladimir_Zhirinovsky"
+          "url": "https://sq.wikipedia.org/wiki/Vladimir_Zhirinovski"
         },
         {
           "note": "Wikipedia (sr)",
@@ -8860,6 +8868,11 @@
         {
           "lang": "he",
           "name": "גנאדי זיוגאנוב",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Genadij Zjuganov",
           "note": "multilingual"
         },
         {
@@ -11392,6 +11405,21 @@
       "sources": [
         {
           "url": "http://www.duma.gov.ru/structure/deputies/131092/"
+        }
+      ]
+    },
+    {
+      "id": "3398a57b-a4d3-45e5-968e-726fcc63b7ec",
+      "image": "http://www.duma.gov.ru/bitrix/templates/duma2/img/no_photo_small.gif",
+      "images": [
+        {
+          "url": "http://www.duma.gov.ru/bitrix/templates/duma2/img/no_photo_small.gif"
+        }
+      ],
+      "name": "Ким Олег Чанбокович",
+      "sources": [
+        {
+          "url": "http://www.duma.gov.ru/structure/deputies/1627591/"
         }
       ]
     },
@@ -25643,6 +25671,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ba",
+          "name": "Третьяк Владислав Александрович",
+          "note": "multilingual"
+        },
+        {
           "lang": "be",
           "name": "Уладзіслаў Аляксандравіч Траццяк",
           "note": "multilingual"
@@ -27896,6 +27929,21 @@
       "sources": [
         {
           "url": "http://www.duma.gov.ru/structure/deputies/131335/"
+        }
+      ]
+    },
+    {
+      "id": "a955e57a-5f75-45ef-b333-92b34ffa2b33",
+      "image": "http://www.duma.gov.ru/bitrix/templates/duma2/img/no_photo_small.gif",
+      "images": [
+        {
+          "url": "http://www.duma.gov.ru/bitrix/templates/duma2/img/no_photo_small.gif"
+        }
+      ],
+      "name": "Шеин Олег Васильевич",
+      "sources": [
+        {
+          "url": "http://www.duma.gov.ru/structure/deputies/1627592/"
         }
       ]
     },
@@ -31673,6 +31721,14 @@
       "role": "member"
     },
     {
+      "area_id": "area/Республика_Татарстан_(Татарстан)_-_Московская,_Республика_Татарстан_(Татарстан)_-_Центральная",
+      "legislative_period_id": "term/6",
+      "on_behalf_of_id": "party/КПРФ",
+      "organization_id": "legislature",
+      "person_id": "3398a57b-a4d3-45e5-968e-726fcc63b7ec",
+      "role": "member"
+    },
+    {
       "area_id": "area/все_субъекты_Российской_Федерации,_Республика_Крым,_Город_Севастополь",
       "legislative_period_id": "term/6",
       "on_behalf_of_id": "party/КПРФ",
@@ -33262,6 +33318,14 @@
       "on_behalf_of_id": "party/КПРФ",
       "organization_id": "legislature",
       "person_id": "a8163d0c-197c-417b-a51c-a2510518344d",
+      "role": "member"
+    },
+    {
+      "area_id": "area/Республика_Калмыкия,_Астраханская_область",
+      "legislative_period_id": "term/6",
+      "on_behalf_of_id": "party/«СПРАВЕДЛИВАЯ_РОССИЯ»",
+      "organization_id": "legislature",
+      "person_id": "a955e57a-5f75-45ef-b333-92b34ffa2b33",
       "role": "member"
     },
     {
@@ -35005,6 +35069,11 @@
     {
       "id": "area/Республика_Калмыкия",
       "name": "Республика Калмыкия",
+      "type": "constituency"
+    },
+    {
+      "id": "area/Республика_Калмыкия,_Астраханская_область",
+      "name": "Республика Калмыкия, Астраханская область",
       "type": "constituency"
     },
     {
