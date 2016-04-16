@@ -5,7 +5,37 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/lativa-saeima",
-        "query": "SELECT * FROM data"
+        "query": "SELECT * FROM data WHERE term = '12'"
+      },
+      "source": "http://www.saeima.lv/",
+      "type": "membership"
+    },
+    {
+      "file": "morph/official-11.csv",
+      "create": {
+        "from": "morph",
+        "scraper": "tmtmtmtm/lativa-saeima",
+        "query": "SELECT * FROM data WHERE term = 11"
+      },
+      "merge": {
+        "incoming_field": "name",
+        "existing_field": "name",
+        "reconciliation_file": "reconciliation/official-11.csv"
+      },
+      "source": "http://www.saeima.lv/",
+      "type": "membership"
+    },
+    {
+      "file": "morph/official-10.csv",
+      "create": {
+        "from": "morph",
+        "scraper": "tmtmtmtm/lativa-saeima",
+        "query": "SELECT * FROM data WHERE term = 10"
+      },
+      "merge": {
+        "incoming_field": "name",
+        "existing_field": "name",
+        "reconciliation_file": "reconciliation/official-10.csv"
       },
       "source": "http://www.saeima.lv/",
       "type": "membership"
