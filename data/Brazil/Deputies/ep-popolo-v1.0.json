@@ -1,4 +1,7 @@
 {
+  "posts": [
+
+  ],
   "persons": [
     {
       "contact_details": [
@@ -10481,6 +10484,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/George_Hilton_(homme_politique)"
+        },
         {
           "note": "Wikipedia (pt)",
           "url": "https://pt.wikipedia.org/wiki/George_Hilton_(político)"
@@ -28909,6 +28916,11 @@
         },
         {
           "lang": "nb",
+          "name": "Wolney Queiroz",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Wolney Queiroz",
           "note": "multilingual"
         },
