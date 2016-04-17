@@ -1,4 +1,7 @@
 {
+  "posts": [
+
+  ],
   "persons": [
     {
       "id": "06634e78-2310-4f90-9e6f-a00fec42e92f",
@@ -222,6 +225,11 @@
       "name": "Cyril ROMNEY",
       "other_names": [
         {
+          "lang": "cy",
+          "name": "Cyril Romney",
+          "note": "multilingual"
+        },
+        {
           "lang": "da",
           "name": "Cyril Romney",
           "note": "multilingual"
@@ -243,6 +251,11 @@
         },
         {
           "lang": "fr",
+          "name": "Cyril Romney",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
           "name": "Cyril Romney",
           "note": "multilingual"
         },
@@ -438,6 +451,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "hu",
+          "name": "Hamilton Lavity Stoutt",
+          "note": "multilingual"
+        },
+        {
           "lang": "nb",
           "name": "Hamilton Lavity Stoutt",
           "note": "multilingual"
@@ -550,6 +568,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "dbd52887-cc31-49a0-a9af-c524e1159c54",
       "identifiers": [
         {
@@ -755,7 +774,7 @@
         },
         {
           "note": "Wikipedia (pl)",
-          "url": "https://pl.wikipedia.org/wiki/Ralph_T._O'Neal"
+          "url": "https://pl.wikipedia.org/wiki/Ralph_T._O’Neal"
         }
       ],
       "name": "Ralph T. O'NEAL",
@@ -1080,6 +1099,10 @@
           "url": "https://fr.wikipedia.org/wiki/Orlando_Smith"
         },
         {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Orlando_Smith"
+        },
+        {
           "note": "Wikipedia (pl)",
           "url": "https://pl.wikipedia.org/wiki/Orlando_Smith"
         }
@@ -1116,6 +1139,16 @@
           "note": "multilingual"
         },
         {
+          "lang": "hu",
+          "name": "Orlando Smith",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Orlando Smith",
+          "note": "multilingual"
+        },
+        {
           "lang": "nl",
           "name": "Orlando Smith",
           "note": "multilingual"
@@ -1142,6 +1175,10 @@
         {
           "identifier": "terrance_b._lettsome",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "1576182",
+          "scheme": "fast"
         },
         {
           "identifier": "4440397",
@@ -1177,6 +1214,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "ecfcc458-1092-4bdb-9926-de7bf14d30aa",
       "identifiers": [
         {
@@ -1262,6 +1300,11 @@
         },
         {
           "lang": "fr",
+          "name": "Willard Wheatley",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
           "name": "Willard Wheatley",
           "note": "multilingual"
         },
