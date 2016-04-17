@@ -1,4 +1,7 @@
 {
+  "posts": [
+
+  ],
   "persons": [
     {
       "gender": "male",
@@ -149,6 +152,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "70b26d38-ae65-4e90-9a99-15b948b9784b",
       "identifiers": [
         {
@@ -347,7 +351,7 @@
         },
         {
           "lang": "ro",
-          "name": "Politician independent",
+          "name": "politician independent",
           "note": "multilingual"
         },
         {
@@ -498,6 +502,11 @@
         {
           "lang": "sd",
           "name": "آزاد",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Politicus nullius factionis",
           "note": "multilingual"
         },
         {
@@ -703,11 +712,6 @@
         {
           "lang": "tr",
           "name": "Serbest siyasetçi",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ro",
-          "name": "Parteilos",
           "note": "multilingual"
         },
         {
