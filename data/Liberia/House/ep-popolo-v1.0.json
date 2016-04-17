@@ -1,4 +1,7 @@
 {
+  "posts": [
+
+  ],
   "persons": [
     {
       "contact_details": [
@@ -7,6 +10,7 @@
           "value": "0886-819606"
         }
       ],
+      "gender": "male",
       "id": "55638013-b25c-40c2-90a5-eb1ce61a1e65",
       "identifiers": [
         {
@@ -142,6 +146,7 @@
           "value": "0886-536707"
         }
       ],
+      "gender": "male",
       "id": "9b17d1ba-6bb1-4bd1-a533-edbc80022cc3",
       "identifiers": [
         {
@@ -535,6 +540,7 @@
           "value": "0886-516804"
         }
       ],
+      "gender": "male",
       "id": "9a1f7bf3-59d6-4e7a-af34-3658cc9a7fb7",
       "identifiers": [
         {
@@ -907,6 +913,7 @@
           "value": "0886-517-255"
         }
       ],
+      "gender": "male",
       "id": "114a0cc4-13c0-4d21-881f-60d341d07fb6",
       "identifiers": [
         {
@@ -1069,6 +1076,7 @@
           "value": "0886-806-505"
         }
       ],
+      "gender": "male",
       "id": "1f0f58f7-0506-4918-9abe-a61e425a2de6",
       "identifiers": [
         {
@@ -1819,6 +1827,7 @@
           "value": "0886-540600"
         }
       ],
+      "gender": "male",
       "id": "830904e0-f953-4a59-b6b8-2f369ac77094",
       "identifiers": [
         {
@@ -2022,6 +2031,31 @@
           "lang": "nl",
           "name": "Congress for Democratic Change",
           "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Congress for Democratic Change",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Congrès Pour Le Changement Démocratique",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Congres pour le changement democratique",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Kongres dla Demokratycznych Zmian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Congress for Democratic Change",
+          "note": "multilingual"
         }
       ]
     },
@@ -2075,6 +2109,11 @@
           "lang": "en",
           "name": "Liberia Transformation Party",
           "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "LTP",
+          "note": "multilingual"
         }
       ]
     },
@@ -2112,6 +2151,16 @@
         {
           "lang": "nl",
           "name": "Liberty Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Partia Niepodległości",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "自由党 (リベリア)",
           "note": "multilingual"
         }
       ]
@@ -2173,6 +2222,16 @@
         {
           "lang": "fr",
           "name": "National Patriotic Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Narodowa Partia Patriotyczna",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Nacional Patriotico",
           "note": "multilingual"
         }
       ]
