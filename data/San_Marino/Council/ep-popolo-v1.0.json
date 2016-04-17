@@ -1,4 +1,7 @@
 {
+  "posts": [
+
+  ],
   "persons": [
     {
       "birth_date": "1991-05-07",
@@ -3244,6 +3247,7 @@
     {
       "birth_date": "1978-07-26",
       "family_name": "Ugolini",
+      "gender": "male",
       "given_name": "Massimo Andrea",
       "id": "987cb89e-6a91-4357-8549-608b1d9d47e4",
       "identifiers": [
@@ -3287,6 +3291,11 @@
       "name": "Massimo Andrea Ugolini",
       "other_names": [
         {
+          "lang": "en",
+          "name": "Massimo Andrea Ugolini",
+          "note": "multilingual"
+        },
+        {
           "lang": "es",
           "name": "Massimo Andrea Ugolini",
           "note": "multilingual"
@@ -3299,6 +3308,11 @@
         {
           "lang": "it",
           "name": "Massimo Andrea Ugolini",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Massimo Ugolini",
           "note": "multilingual"
         }
       ],
