@@ -1,4 +1,7 @@
 {
+  "posts": [
+
+  ],
   "persons": [
     {
       "contact_details": [
@@ -1639,6 +1642,7 @@
       ],
       "email": "michele.boccardi@hotmail.it",
       "family_name": "Boccardi",
+      "gender": "male",
       "id": "396e96c0-a909-49b4-bf45-72d8e3393ac7",
       "identifiers": [
         {
@@ -13717,7 +13721,7 @@
     {
       "area_id": "area/puglia",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/forza_italia_-_il_popolo_della_libertà_-_berlusconi_presidente",
+      "on_behalf_of_id": "party/alleanza_liberalpopolare-autonomie",
       "organization_id": "legislature",
       "person_id": "2fa0c8b5-8965-4e75-8a27-fd1127dc51c6",
       "role": "member"
@@ -14277,7 +14281,7 @@
     {
       "area_id": "area/umbria",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/scelta_civica_per_l'italia",
+      "on_behalf_of_id": "party/partito_democratico",
       "organization_id": "legislature",
       "person_id": "595812c5-abfc-49c8-bfa5-cd84502bab20",
       "role": "member"
@@ -14469,7 +14473,7 @@
     {
       "area_id": "area/campania",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/forza_italia_-_il_popolo_della_libertà_-_berlusconi_presidente",
+      "on_behalf_of_id": "party/alleanza_liberalpopolare-autonomie",
       "organization_id": "legislature",
       "person_id": "72ef7095-f6d0-486c-b44c-f626539bb859",
       "role": "member"
@@ -14557,7 +14561,7 @@
     {
       "area_id": "area/marche",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/movimento_5_stelle",
+      "on_behalf_of_id": "party/gruppo_misto",
       "organization_id": "legislature",
       "person_id": "7a892965-0ac3-4e85-8241-c5a958c7b4d0",
       "role": "member"
@@ -14805,7 +14809,7 @@
     {
       "area_id": "area/friuli-venezia_giulia",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/scelta_civica_per_l'italia",
+      "on_behalf_of_id": "party/partito_democratico",
       "organization_id": "legislature",
       "person_id": "959ab80c-23ce-4529-9a00-a8a86cfaa6ea",
       "role": "member"
@@ -15637,7 +15641,7 @@
     {
       "area_id": "area/piemonte",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/scelta_civica_per_l'italia",
+      "on_behalf_of_id": "party/partito_democratico",
       "organization_id": "legislature",
       "person_id": "ee7e4468-8576-49cb-b6d4-d8121e56e3d3",
       "role": "member"
