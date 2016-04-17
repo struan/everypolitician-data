@@ -2554,6 +2554,10 @@
         {
           "identifier": "86",
           "scheme": "skupstina"
+        },
+        {
+          "identifier": "Q23836551",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://files.parldata.eu/me/skupstina/people/550a7f94273a3965683bd952/image.jpeg",
@@ -2562,7 +2566,20 @@
           "url": "http://files.parldata.eu/me/skupstina/people/550a7f94273a3965683bd952/image.jpeg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Tarzan_Milošević"
+        }
+      ],
       "name": "Tarzan Milošević",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Tarzan Milošević",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.skupstina.me/index.php/me/skupstina/poslanice-i-poslanici/parlamentarne-partije/26-skupstina/poslanice-i-poslanici/parlamentarne-partije/demokratska-partija-socijalista/86-tarzan-milosevic"
