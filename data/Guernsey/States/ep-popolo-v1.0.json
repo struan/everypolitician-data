@@ -1,4 +1,7 @@
 {
+  "posts": [
+
+  ],
   "persons": [
     {
       "contact_details": [
@@ -671,6 +674,7 @@
         }
       ],
       "email": "marylowe@cwgsy.net",
+      "gender": "female",
       "id": "2c4d1331-c726-4591-b50c-6e68bd526abc",
       "identifiers": [
         {
@@ -1090,6 +1094,7 @@
         }
       ],
       "email": "Arrun.Wilkie@deputies.gov.gg",
+      "gender": "male",
       "id": "ff2138c8-e8f8-4456-9c16-a4ed53fbb871",
       "identifiers": [
         {
@@ -1245,7 +1250,7 @@
         },
         {
           "lang": "ro",
-          "name": "Politician independent",
+          "name": "politician independent",
           "note": "multilingual"
         },
         {
@@ -1396,6 +1401,11 @@
         {
           "lang": "sd",
           "name": "آزاد",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Politicus nullius factionis",
           "note": "multilingual"
         },
         {
@@ -1601,11 +1611,6 @@
         {
           "lang": "tr",
           "name": "Serbest siyasetçi",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ro",
-          "name": "Parteilos",
           "note": "multilingual"
         },
         {
