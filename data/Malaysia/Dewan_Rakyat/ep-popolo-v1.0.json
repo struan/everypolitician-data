@@ -21578,20 +21578,6 @@
       ]
     },
     {
-      "id": "156f559a-cc52-40cb-b6bb-7d31293b2001",
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Lilah_Yasin"
-        },
-        {
-          "note": "wikipedia",
-          "url": "http://en.wikipedia.org/wiki/Lilah_Yasin"
-        }
-      ],
-      "name": "Lilah Yasin"
-    },
-    {
       "birth_date": "1957-03-26",
       "gender": "male",
       "id": "ccc8bf0d-f496-46fb-a344-7205644dd213",
@@ -21629,6 +21615,10 @@
       ],
       "name": "Lilah Yassin",
       "other_names": [
+        {
+          "name": "Lilah Yassin",
+          "note": "alternate"
+        },
         {
           "lang": "da",
           "name": "Lilah Yassin",
@@ -50603,14 +50593,6 @@
       "role": "member"
     },
     {
-      "area_id": "P127-12",
-      "legislative_period_id": "term/12",
-      "on_behalf_of_id": "UMNO",
-      "organization_id": "legislature",
-      "person_id": "156f559a-cc52-40cb-b6bb-7d31293b2001",
-      "role": "member"
-    },
-    {
       "area_id": "P119-5",
       "legislative_period_id": "term/5",
       "on_behalf_of_id": "BERJAYA",
@@ -63768,6 +63750,14 @@
       "on_behalf_of_id": "DAP",
       "organization_id": "legislature",
       "person_id": "cc2fe184-7d67-46dc-8f9e-208a76bbb11f",
+      "role": "member"
+    },
+    {
+      "area_id": "P127-12",
+      "legislative_period_id": "term/12",
+      "on_behalf_of_id": "UMNO",
+      "organization_id": "legislature",
+      "person_id": "ccc8bf0d-f496-46fb-a344-7205644dd213",
       "role": "member"
     },
     {
