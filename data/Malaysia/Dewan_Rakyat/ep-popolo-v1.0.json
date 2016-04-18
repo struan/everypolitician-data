@@ -20017,11 +20017,16 @@
       "name": "Khoo Soo Seang"
     },
     {
+      "gender": "male",
       "id": "8425cbce-ee61-431f-b11f-f4f1a423dad7",
       "identifiers": [
         {
           "identifier": "ko_chung_sen",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q23418806",
+          "scheme": "wikidata"
         }
       ],
       "links": [
@@ -20034,7 +20039,14 @@
           "url": "http://en.wikipedia.org/wiki/Ko_Chung_Sen"
         }
       ],
-      "name": "Ko Chung Sen"
+      "name": "Ko Chung Sen",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Ko Chung Sen",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1961-02-28",
@@ -26508,9 +26520,30 @@
         {
           "identifier": "mohamed_hanifah_abdul_ghani",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q20447761",
+          "scheme": "wikidata"
         }
       ],
-      "name": "Mohamed Hanifah Abdul Ghani"
+      "links": [
+        {
+          "note": "Wikipedia (ms)",
+          "url": "https://ms.wikipedia.org/wiki/Raja_Abu_Hanifah_Abdul_Ghani"
+        }
+      ],
+      "name": "Mohamed Hanifah Abdul Ghani",
+      "other_names": [
+        {
+          "name": "Raja Abu Hanifah Abdul Ghani",
+          "note": "alternate"
+        },
+        {
+          "lang": "ms",
+          "name": "Raja Abu Hanifah Abdul Ghani",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "5a77d153-908a-487b-a1d4-47a68a3aabbf",
@@ -31810,11 +31843,16 @@
       "name": "Ng Lip Yong"
     },
     {
+      "gender": "male",
       "id": "1634f920-b1c0-4426-ac71-ca2cd5e8f55d",
       "identifiers": [
         {
           "identifier": "ng_wei_aik",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q6651404",
+          "scheme": "wikidata"
         }
       ],
       "links": [
@@ -31823,11 +31861,36 @@
           "url": "https://en.wikipedia.org/wiki/Ng_Wei_Aik"
         },
         {
+          "note": "Wikipedia (ms)",
+          "url": "https://ms.wikipedia.org/wiki/Ng_Wei_Aik"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/黄伟益"
+        },
+        {
           "note": "wikipedia",
           "url": "http://en.wikipedia.org/wiki/Ng_Wei_Aik"
         }
       ],
-      "name": "Ng Wei Aik"
+      "name": "Ng Wei Aik",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Ng Wei Aik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "Ng Wei Aik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "黄伟益",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1946-04-06",
@@ -43785,11 +43848,16 @@
       "name": "Tengku Zaid Tengku Ahmad"
     },
     {
+      "gender": "male",
       "id": "30ce03d1-e7af-4209-bb1a-24d10361ae18",
       "identifiers": [
         {
           "identifier": "teo_kok_seong",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q12711360",
+          "scheme": "wikidata"
         }
       ],
       "links": [
@@ -43798,11 +43866,27 @@
           "url": "https://en.wikipedia.org/wiki/Teo_Kok_Seong"
         },
         {
+          "note": "Wikipedia (ms)",
+          "url": "https://ms.wikipedia.org/wiki/Teo_Kok_Seong"
+        },
+        {
           "note": "wikipedia",
           "url": "http://en.wikipedia.org/wiki/Teo_Kok_Seong"
         }
       ],
-      "name": "Teo Kok Seong"
+      "name": "Teo Kok Seong",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Teo Kok Seong",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "Teo Kok Seong",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1981-01-27",
