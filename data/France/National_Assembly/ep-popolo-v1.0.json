@@ -1,4 +1,7 @@
 {
+  "posts": [
+
+  ],
   "persons": [
     {
       "birth_date": "1954-02-19",
@@ -2923,6 +2926,7 @@
           "value": "AnneGrommerch"
         }
       ],
+      "death_date": "2016-04-15",
       "family_name": "Grommerch",
       "gender": "female",
       "given_name": "Anne",
@@ -2981,12 +2985,20 @@
           "url": "https://en.wikipedia.org/wiki/Anne_Grommerch"
         },
         {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Anne_Grommerch"
+        },
+        {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Anne_Grommerch"
         },
         {
           "note": "Wikipedia (pl)",
           "url": "https://pl.wikipedia.org/wiki/Anne_Grommerch"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Громер,_Анн"
         },
         {
           "note": "facebook",
@@ -3051,6 +3063,11 @@
         {
           "lang": "pl",
           "name": "Anne Grommerch",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Громер, Анн",
           "note": "multilingual"
         },
         {
@@ -3481,6 +3498,11 @@
         },
         {
           "lang": "pl",
+          "name": "Annick Girardin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
           "name": "Annick Girardin",
           "note": "multilingual"
         },
@@ -7064,6 +7086,11 @@
         },
         {
           "lang": "pl",
+          "name": "Bernard Cazeneuve",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
           "name": "Bernard Cazeneuve",
           "note": "multilingual"
         },
@@ -21130,6 +21157,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "de",
+          "name": "Fernand Siré",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "Fernand Siré",
           "note": "multilingual"
@@ -27290,6 +27322,11 @@
         },
         {
           "lang": "pl",
+          "name": "George Pau-Langevin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
           "name": "George Pau-Langevin",
           "note": "multilingual"
         },
@@ -33752,10 +33789,6 @@
       "name": "Jacques Alain Bénisti",
       "other_names": [
         {
-          "name": "Jacques-Alain Bénisti",
-          "note": "alternate"
-        },
-        {
           "lang": "da",
           "name": "Jacques-Alain Bénisti",
           "note": "multilingual"
@@ -33772,7 +33805,7 @@
         },
         {
           "lang": "fr",
-          "name": "Jacques-Alain Bénisti",
+          "name": "Jacques Alain Bénisti",
           "note": "multilingual"
         },
         {
@@ -39776,6 +39809,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "sco",
+          "name": "Jean-Jacques Urvoas",
+          "note": "multilingual"
+        },
+        {
           "lang": "sv",
           "name": "Jean-Jacques Urvoas",
           "note": "multilingual"
@@ -41546,6 +41584,11 @@
       "other_names": [
         {
           "lang": "da",
+          "name": "Jean-Luc Reitzer",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
           "name": "Jean-Luc Reitzer",
           "note": "multilingual"
         },
@@ -53405,6 +53448,10 @@
           "scheme": "assemblee_nationale"
         },
         {
+          "identifier": "129087167",
+          "scheme": "bnf"
+        },
+        {
           "identifier": "605076",
           "scheme": "everypolitician_legacy"
         },
@@ -55342,6 +55389,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "sco",
+          "name": "Marisol Touraine",
+          "note": "multilingual"
+        },
+        {
           "lang": "sv",
           "name": "Marisol Touraine",
           "note": "multilingual"
@@ -56256,6 +56308,11 @@
         },
         {
           "lang": "pl",
+          "name": "Marylise Lebranchu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
           "name": "Marylise Lebranchu",
           "note": "multilingual"
         },
@@ -60245,6 +60302,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "es",
+          "name": "Nathalie Appéré",
+          "note": "multilingual"
+        },
+        {
           "lang": "fr",
           "name": "Nathalie Appéré",
           "note": "multilingual"
@@ -61924,10 +61986,6 @@
       "name": "Olivier Audibert Troin",
       "other_names": [
         {
-          "name": "Olivier Audibert-Troin",
-          "note": "alternate"
-        },
-        {
           "lang": "da",
           "name": "Olivier Audibert-Troin",
           "note": "multilingual"
@@ -61939,7 +61997,7 @@
         },
         {
           "lang": "fr",
-          "name": "Olivier Audibert-Troin",
+          "name": "Olivier Audibert Troin",
           "note": "multilingual"
         },
         {
@@ -62314,6 +62372,10 @@
         {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Olivier_Dussopt"
+        },
+        {
+          "note": "Wikipedia (frwikiquote)",
+          "url": "https://frwikiquote.wikipedia.org/wiki/Olivier_Dussopt"
         },
         {
           "note": "facebook",
@@ -64632,6 +64694,10 @@
         {
           "identifier": "346",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "1053338430",
+          "scheme": "gnd"
         },
         {
           "identifier": "0000 0000 7779 1999",
@@ -75009,6 +75075,11 @@
         },
         {
           "lang": "pl",
+          "name": "Sylvia Pinel",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
           "name": "Sylvia Pinel",
           "note": "multilingual"
         },
