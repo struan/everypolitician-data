@@ -13353,6 +13353,26 @@
       "id": "70ee48b3-b9ad-444c-9947-3336f5b13964",
       "identifiers": [
         {
+          "identifier": "p240139",
+          "scheme": "allmovie"
+        },
+        {
+          "identifier": "13762",
+          "scheme": "allocine"
+        },
+        {
+          "identifier": "116226",
+          "scheme": "csfd"
+        },
+        {
+          "identifier": "146300",
+          "scheme": "dnf"
+        },
+        {
+          "identifier": "138805",
+          "scheme": "elonet"
+        },
+        {
           "identifier": "afddc160-d868-4f2e-b3a6-3da9da83104e",
           "scheme": "everypolitician_legacy"
         },
@@ -13361,8 +13381,16 @@
           "scheme": "imdb"
         },
         {
+          "identifier": "318022",
+          "scheme": "kinopoisk"
+        },
+        {
           "identifier": "afddc160-d868-4f2e-b3a6-3da9da83104e",
           "scheme": "riigikogu"
+        },
+        {
+          "identifier": "256659",
+          "scheme": "sfdb"
         },
         {
           "identifier": "Q12369838",
@@ -22474,6 +22502,10 @@
           "value": "Vilja.Savisaar-Toomast@riigikogu.ee"
         },
         {
+          "type": "email",
+          "value": "vilja.toomast@riigikogu.ee"
+        },
+        {
           "type": "phone",
           "value": "6316572"
         }
@@ -22910,6 +22942,10 @@
         {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Yana_Toom"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Yana_Toom"
         },
         {
           "note": "Wikipedia (et)",
