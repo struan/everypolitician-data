@@ -2243,7 +2243,38 @@
     {
       "id": "Q18912794",
       "label": "Member of the Australian House of Representatives",
-      "title": "Member of the Australian House of Representatives"
+      "title": "Member of the Australian House of Representatives",
+      "qualifiers": {
+        "P580": "1975-12-13",
+        "P582": "1980-10-18",
+        "P768": "Division of Henty",
+        "P1365": "Joan Child",
+        "P1366": "Joan Child"
+      }
+    },
+    {
+      "id": "Q18912794",
+      "label": "Member of the Australian House of Representatives",
+      "title": "Member of the Australian House of Representatives",
+      "qualifiers": {
+        "P580": "1983-05-28",
+        "P582": "1990-03-24",
+        "P768": "Bruce",
+        "P1365": "Billy Snedden",
+        "P1366": "Julian Beale"
+      }
+    },
+    {
+      "id": "Q18912794",
+      "label": "Member of the Australian House of Representatives",
+      "title": "Member of the Australian House of Representatives",
+      "qualifiers": {
+        "P580": "1990-03-24",
+        "P582": "1996-01-29",
+        "P768": "Deakin",
+        "P1365": "Julian Beale",
+        "P1366": "Phil Barresi"
+      }
     }
   ],
   "Q6196452": [
@@ -2479,6 +2510,17 @@
         "P1365": "Ian Macfarlane",
         "P1366": "Fran Bailey"
       }
+    },
+    {
+      "id": "Q23892240",
+      "label": "Australian Ambassador to the United States of America",
+      "title": "Australian Ambassador to the United States of America",
+      "qualifiers": {
+        "P580": "2016-01-29",
+        "P582": "",
+        "P1365": "Kim Beazley",
+        "P1366": ""
+      }
     }
   ],
   "Q6526624": [
@@ -2637,6 +2679,17 @@
       "id": "Q2660943",
       "label": "Minister for Foreign Affairs",
       "title": "Minister for Foreign Affairs"
+    },
+    {
+      "id": "Q23892240",
+      "label": "Australian Ambassador to the United States of America",
+      "title": "Australian Ambassador to the United States of America",
+      "qualifiers": {
+        "P580": "1997-02-02",
+        "P582": "1999-02",
+        "P1365": "John McCarthy",
+        "P1366": "Michael Thawley"
+      }
     }
   ],
   "Q6766947": [
@@ -3614,11 +3667,6 @@
   ],
   "Q4974135": [
     {
-      "id": "Q3315112",
-      "label": "Minister for Defence",
-      "title": "Minister for Defence"
-    },
-    {
       "id": "Q6814428",
       "label": "member of the Australian Senate",
       "title": "member of the Australian Senate",
@@ -3630,7 +3678,12 @@
     {
       "id": "Q18912794",
       "label": "Member of the Australian House of Representatives",
-      "title": "Member of the Australian House of Representatives"
+      "title": "Member of the Australian House of Representatives",
+      "qualifiers": {
+        "P580": "1994-03-26",
+        "P768": "Mackellar",
+        "P1365": "Jim Carlton"
+      }
     },
     {
       "id": "Q7574256",
@@ -3744,6 +3797,17 @@
         "P582": "1996-03-11",
         "P1365": "Ralph Willis",
         "P1366": "John Fahey"
+      }
+    },
+    {
+      "id": "Q23892240",
+      "label": "Australian Ambassador to the United States of America",
+      "title": "Australian Ambassador to the United States of America",
+      "qualifiers": {
+        "P580": "2010-02-17",
+        "P582": "2016-01-22",
+        "P1365": "Dennis Richardson",
+        "P1366": "Joe Hockey"
       }
     }
   ],
