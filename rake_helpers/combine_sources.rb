@@ -167,10 +167,13 @@ namespace :merge_sources do
                 # TODO accept multiple values for :image, :website, etc.
                 next if %i(image website twitter facebook).include? h
 
+                # Accept multiple values for incoming and existing emails
                 if h == :email
                   existing_emails = existing_row[h].split(';').map(&:strip)
-                  next if existing_emails.any? { |email| email.downcase == incoming_row[h].downcase }
-                  existing_row[h] += ";" + incoming_row[h]
+                  incoming_emails = incoming_row[h].split(';').map(&:strip).reject do |ie|
+                    existing_emails.any? { |ee| ee.downcase == ie.downcase }
+                  end
+                  existing_row[h] = (existing_emails + incoming_emails).join(';')
                   next
                 end
 
