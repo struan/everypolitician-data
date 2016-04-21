@@ -7753,6 +7753,7 @@
     {
       "birth_date": "1976-10-19",
       "gender": "male",
+      "given_name": "Bruno",
       "id": "6c4705f0-7b59-4cd0-bf04-fcf8692f68ec",
       "identifiers": [
         {
@@ -7762,6 +7763,10 @@
         {
           "identifier": "1715",
           "scheme": "parlamento"
+        },
+        {
+          "identifier": "Q9180431",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=1715&type=deputado",
@@ -7770,7 +7775,39 @@
           "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=1715&type=deputado"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Bruno_Dias"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Bruno_Dias"
+        }
+      ],
       "name": "Bruno Dias",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Bruno Dias",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Bruno Dias",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Bruno Dias",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Bruno Dias",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=1715"
@@ -10076,11 +10113,41 @@
     },
     {
       "birth_date": "1959-05-28",
+      "gender": "male",
+      "given_name": "Carlos",
       "id": "26048ea9-d969-4a6a-948b-ae4e2a988848",
       "identifiers": [
         {
+          "identifier": "124739",
+          "scheme": "europarlmep"
+        },
+        {
+          "identifier": "1057606723",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "0000 0000 6706 7809",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "n00037694",
+          "scheme": "lcauth"
+        },
+        {
           "identifier": "438",
           "scheme": "parlamento"
+        },
+        {
+          "identifier": "47530",
+          "scheme": "ptbnp"
+        },
+        {
+          "identifier": "50455714",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q15980671",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=438&type=deputado",
@@ -10089,7 +10156,71 @@
           "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=438&type=deputado"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Carlos_Zorrinho"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Carlos_Zorrinho"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Carlos_Zorrinho"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Carlos_Zorrinho"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Carlos_Zorrinho"
+        }
+      ],
       "name": "Carlos Zorrinho",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Carlos Zorrinho",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Carlos Zorrinho",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "José Carlos das Dôres Zorrinho",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Carlos Zorrinho",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "José Carlos das Dôres Zorrinho",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Carlos Zorrinho",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Carlos Zorrinho",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Carlos Zorrinho",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=438"
