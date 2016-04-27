@@ -4,8 +4,8 @@
       "file": "morph/data.csv",
       "create": {
         "from": "morph",
-        "scraper": "tmtmtmtm/uganda-parliament-scraper",
-        "query": "SELECT *, COALESCE(post, constituency) AS constituency, 9 AS term FROM data"
+        "scraper": "everypolitician-scrapers/uganda-parliament-scraper",
+        "query": "SELECT *, 9 AS term FROM data"
       },
       "source": "http://www.parliament.go.ug/mpdata/mps.hei",
       "type": "membership"
