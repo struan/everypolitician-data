@@ -1,8 +1,28 @@
 # everypolitician-data
 
-This repo contains the data powering [EveryPolitician.org](http://everypolitician.org/), and other sites such as [Gender-Balance.org](http://www.gender-balance.org/).
+This is the data repo for EveryPolitician. It contains the data powering [EveryPolitician.org](http://everypolitician.org/), and other sites such as [Gender-Balance.org](http://www.gender-balance.org/).
 
-Information on how to _use_ the data can be found at http://everypolitician.org/technical.html, and high-level information about how to contribute is at http://everypolitician.org/contribute.html
+## Want to use the data?
+
+* [general information about how to _use_ the data](http://everypolitician.org/technical.html)
+* if you want to download it, get it from:
+  - human? go via the [EveryPolitician website](http://everypolitician.org)
+  - program? use the RawGit CDN, via links in `countries.json`, which we [explain here](http://docs.everypolitician.org/repo_structure.html)
+
+
+* [what's in the data?](http://docs.everypolitician.org/data_summary.html)
+
+## What to contribute data?
+
+* [high-level information about how to contribute](http://everypolitician.org/contribute.html)
+
+This repo is where we store the data, but we have a process for adding it — please don't
+submit Pull Requests with data. Instead, if you know of data or data sources we are not
+using, please get in touch: here's
+[how to contribute](http://everypolitician.org/contribute.html). The bottom line is: we use
+[multiple online sources](http://docs.everypolitician.org/sources.html), and we regularly
+retrieve data from those sources so we can automatically keep up-to-date if and when they change.
+If you can help us by providing more sources, great!
 
 This document is for developers actively working _on_ the project, rather than consuming data from it.
 
