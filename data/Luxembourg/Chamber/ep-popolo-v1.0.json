@@ -1058,14 +1058,49 @@
       ],
       "email": "clamberty@chd.lu",
       "gender": "male",
+      "given_name": "Claude",
       "id": "ca069a78-261a-455a-8039-ff410a8021b5",
+      "identifiers": [
+        {
+          "identifier": "Q16439645",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.chd.lu/wps/PA_TbinoscopePersonne/FTSImageRetriever?ref=1760",
       "images": [
         {
           "url": "http://www.chd.lu/wps/PA_TbinoscopePersonne/FTSImageRetriever?ref=1760"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (lb)",
+          "url": "https://lb.wikipedia.org/wiki/Claude_Lamberty"
+        }
+      ],
       "name": "Claude Lamberty",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Claude Lamberty",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Claude Lamberty",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lb",
+          "name": "Claude Lamberty",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Claude Lamberty",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.chd.lu/wps/portal/public/FicheDepute?ref=25119"
@@ -3594,6 +3629,83 @@
       "sources": [
         {
           "url": "http://www.chd.lu/wps/portal/public/FicheDepute?ref=23882"
+        }
+      ]
+    },
+    {
+      "birth_date": "1978-06-11",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "mbaum@chd.lu"
+        }
+      ],
+      "email": "mbaum@chd.lu",
+      "gender": "male",
+      "given_name": "Marc",
+      "id": "a2084f73-e2b9-4673-9e8e-e4eab1ba589c",
+      "identifiers": [
+        {
+          "identifier": "Q6755376",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www.chd.lu/wps/PA_TbinoscopePersonne/FTSImageRetriever?ref=1769",
+      "images": [
+        {
+          "url": "http://www.chd.lu/wps/PA_TbinoscopePersonne/FTSImageRetriever?ref=1769"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Marc_Baum"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Marc_Baum"
+        },
+        {
+          "note": "Wikipedia (lb)",
+          "url": "https://lb.wikipedia.org/wiki/Marc_Baum"
+        }
+      ],
+      "name": "Marc Baum",
+      "other_names": [
+        {
+          "lang": "ca",
+          "name": "Marc Baum",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Marc Baum",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Marc Baum",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Marc Baum",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lb",
+          "name": "Marc Baum",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Marc Baum",
+          "note": "multilingual"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.chd.lu/wps/portal/public/FicheDepute?ref=25173"
         }
       ]
     },
@@ -7137,6 +7249,14 @@
       "person_id": "97c8ced4-5b41-4c89-81ce-798fe3f89f76",
       "role": "member",
       "start_date": "2013-12-05"
+    },
+    {
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "1361",
+      "organization_id": "legislature",
+      "person_id": "a2084f73-e2b9-4673-9e8e-e4eab1ba589c",
+      "role": "member",
+      "start_date": "2016-04-20"
     },
     {
       "legislative_period_id": "term/2013",
