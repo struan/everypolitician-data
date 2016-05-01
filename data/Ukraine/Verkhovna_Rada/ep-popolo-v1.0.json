@@ -10332,13 +10332,19 @@
       "patronymic_name": "Миколайович"
     },
     {
+      "birth_date": "1978-06-15",
       "family_name": "Карпунцов",
+      "gender": "male",
       "given_name": "Валерій",
       "id": "5c05c2da-2371-49ae-a1ee-d54a65f48c10",
       "identifiers": [
         {
           "identifier": "5142",
           "scheme": "rada"
+        },
+        {
+          "identifier": "Q12108844",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://static.rada.gov.ua/dep_img8/bp77.jpg",
@@ -10347,7 +10353,43 @@
           "url": "http://static.rada.gov.ua/dep_img8/bp77.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Valeriy_Karpuntsov"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Карпунцов,_Валерий_Витальевич"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Карпунцов_Валерій_Віталійович"
+        }
+      ],
       "name": "Карпунцов Валерій Віталійович",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Valeriy Karpuntsov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Valeriy Karpuntsov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Карпунцов, Валерий Витальевич",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Карпунцов Валерій Віталійович",
+          "note": "multilingual"
+        }
+      ],
       "patronymic_name": "Віталійович"
     },
     {
