@@ -8750,12 +8750,33 @@
       ]
     },
     {
+      "birth_date": "1962-02-21",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "imai_masato"
+        }
+      ],
+      "family_name": "Imai",
       "gender": "male",
+      "given_name": "Masato",
       "id": "a7509fb0-0b29-4058-a284-109de7a7362c",
       "identifiers": [
         {
           "identifier": "imai_masato",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "01005686",
+          "scheme": "ndl"
+        },
+        {
+          "identifier": "259437192",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q11376723",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.shugiin.go.jp/internet/itdb_giinprof.nsf/html/profile/057.jpg/$File/057.jpg",
@@ -8764,7 +8785,47 @@
           "url": "http://www.shugiin.go.jp/internet/itdb_giinprof.nsf/html/profile/057.jpg/$File/057.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Masato_Imai"
+        },
+        {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/今井雅人"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/imai_masato"
+        }
+      ],
       "name": "IMAI Masato",
+      "other_names": [
+        {
+          "name": "Masato Imai",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Masato Imai",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "今井雅人",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kana",
+          "name": "いまい まさと",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Имаи, Масато",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.shugiin.go.jp/internet/itdb_english.nsf/html/statics/member/mem_i.htm"
@@ -19078,12 +19139,19 @@
       ]
     },
     {
+      "birth_date": "1975-01-10",
+      "family_name": "Miyazawa",
       "gender": "male",
+      "given_name": "Hiroyuki",
       "id": "64a19869-6f84-47f0-ae5c-c518d8912fc0",
       "identifiers": [
         {
           "identifier": "miyazawa_hiroyuki",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q11455005",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.shugiin.go.jp/internet/itdb_giinprof.nsf/html/profile/423.jpg/$File/423.jpg",
@@ -19092,7 +19160,58 @@
           "url": "http://www.shugiin.go.jp/internet/itdb_giinprof.nsf/html/profile/423.jpg/$File/423.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Hiroyuki_Miyazawa_(Politiker)"
+        },
+        {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/宮澤博行"
+        }
+      ],
       "name": "MIYAZAWA Hiroyuki",
+      "other_names": [
+        {
+          "name": "Hiroyuki Miyazawa",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Hiroyuki Miyazawa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Hiroyuki Miyazawa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Hiroyuki Miyazawa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "宮沢博行",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kana",
+          "name": "みやざわ ひろゆき",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Hiroyuki Miyazawa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Миядзава, Хироюки",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.shugiin.go.jp/internet/itdb_english.nsf/html/statics/member/mem_m.htm"
