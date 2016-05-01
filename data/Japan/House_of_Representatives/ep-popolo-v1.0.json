@@ -8750,12 +8750,33 @@
       ]
     },
     {
+      "birth_date": "1962-02-21",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "imai_masato"
+        }
+      ],
+      "family_name": "Imai",
       "gender": "male",
+      "given_name": "Masato",
       "id": "a7509fb0-0b29-4058-a284-109de7a7362c",
       "identifiers": [
         {
           "identifier": "imai_masato",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "01005686",
+          "scheme": "ndl"
+        },
+        {
+          "identifier": "259437192",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q11376723",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.shugiin.go.jp/internet/itdb_giinprof.nsf/html/profile/057.jpg/$File/057.jpg",
@@ -8764,7 +8785,47 @@
           "url": "http://www.shugiin.go.jp/internet/itdb_giinprof.nsf/html/profile/057.jpg/$File/057.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Masato_Imai"
+        },
+        {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/今井雅人"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/imai_masato"
+        }
+      ],
       "name": "IMAI Masato",
+      "other_names": [
+        {
+          "name": "Masato Imai",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Masato Imai",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "今井雅人",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kana",
+          "name": "いまい まさと",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Имаи, Масато",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.shugiin.go.jp/internet/itdb_english.nsf/html/statics/member/mem_i.htm"
@@ -14401,6 +14462,22 @@
       ]
     },
     {
+      "gender": "male",
+      "id": "35c74300-6ad0-497b-bfdf-29b9a8066fc9",
+      "image": "http://www.shugiin.go.jp/internet/itdb_english.nsf/html/statics/member/mem_k.htm",
+      "images": [
+        {
+          "url": "http://www.shugiin.go.jp/internet/itdb_english.nsf/html/statics/member/mem_k.htm"
+        }
+      ],
+      "name": "KITAGAMI Keiro",
+      "sources": [
+        {
+          "url": "http://www.shugiin.go.jp/internet/itdb_english.nsf/html/statics/member/mem_k.htm"
+        }
+      ]
+    },
+    {
       "birth_date": "1953",
       "contact_details": [
         {
@@ -17294,6 +17371,10 @@
         {
           "note": "Wikipedia (ja)",
           "url": "https://ja.wikipedia.org/wiki/松本文明"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/松本文明"
         }
       ],
       "name": "MATSUMOTO Fumiaki",
@@ -17335,6 +17416,11 @@
         {
           "lang": "ru",
           "name": "Мацумото, Фумиаки",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "松本文明",
           "note": "multilingual"
         }
       ],
@@ -18507,6 +18593,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "nl",
+          "name": "Nobuhide Minorikawa",
+          "note": "multilingual"
+        },
+        {
           "lang": "sco",
           "name": "Nobuhide Minorikawa",
           "note": "multilingual"
@@ -19048,12 +19139,19 @@
       ]
     },
     {
+      "birth_date": "1975-01-10",
+      "family_name": "Miyazawa",
       "gender": "male",
+      "given_name": "Hiroyuki",
       "id": "64a19869-6f84-47f0-ae5c-c518d8912fc0",
       "identifiers": [
         {
           "identifier": "miyazawa_hiroyuki",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q11455005",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.shugiin.go.jp/internet/itdb_giinprof.nsf/html/profile/423.jpg/$File/423.jpg",
@@ -19062,7 +19160,58 @@
           "url": "http://www.shugiin.go.jp/internet/itdb_giinprof.nsf/html/profile/423.jpg/$File/423.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Hiroyuki_Miyazawa_(Politiker)"
+        },
+        {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/宮澤博行"
+        }
+      ],
       "name": "MIYAZAWA Hiroyuki",
+      "other_names": [
+        {
+          "name": "Hiroyuki Miyazawa",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Hiroyuki Miyazawa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Hiroyuki Miyazawa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Hiroyuki Miyazawa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "宮沢博行",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kana",
+          "name": "みやざわ ひろゆき",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Hiroyuki Miyazawa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Миядзава, Хироюки",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.shugiin.go.jp/internet/itdb_english.nsf/html/statics/member/mem_m.htm"
@@ -19416,6 +19565,11 @@
         {
           "lang": "ja",
           "name": "森山𥙿",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Hiroshi Moriyama",
           "note": "multilingual"
         },
         {
@@ -22929,6 +23083,11 @@
         {
           "lang": "sco",
           "name": "Yoshihiko Noda",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sgs",
+          "name": "Jošihiko Noda",
           "note": "multilingual"
         },
         {
@@ -27832,6 +27991,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "nl",
+          "name": "Takeshi Shina",
+          "note": "multilingual"
+        },
+        {
           "lang": "ru",
           "name": "Сина, Такэси",
           "note": "multilingual"
@@ -29185,6 +29349,11 @@
         {
           "lang": "kana",
           "name": "すずき かつまさ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Katsumasa Suzuki",
           "note": "multilingual"
         },
         {
@@ -30817,6 +30986,11 @@
         {
           "lang": "kana",
           "name": "たけもと なおかず",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Naokazu Takemoto",
           "note": "multilingual"
         },
         {
@@ -33883,6 +34057,22 @@
       ]
     },
     {
+      "gender": "male",
+      "id": "28640f67-63eb-4ebf-87a6-f9343a9a2187",
+      "image": "http://www.shugiin.go.jp/internet/itdb_english.nsf/html/statics/member/mem_w.htm",
+      "images": [
+        {
+          "url": "http://www.shugiin.go.jp/internet/itdb_english.nsf/html/statics/member/mem_w.htm"
+        }
+      ],
+      "name": "WADA Yoshiaki",
+      "sources": [
+        {
+          "url": "http://www.shugiin.go.jp/internet/itdb_english.nsf/html/statics/member/mem_w.htm"
+        }
+      ]
+    },
+    {
       "birth_date": "1961",
       "gender": "male",
       "given_name": "Kenji",
@@ -34746,6 +34936,11 @@
         {
           "lang": "ko",
           "name": "야마구치 츠요시",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Tsuyoshi Yamaguchi",
           "note": "multilingual"
         },
         {
@@ -36814,6 +37009,14 @@
       "role": "member"
     },
     {
+      "area_id": "area/hokkaido_5th_district",
+      "legislative_period_id": "term/46",
+      "on_behalf_of_id": "party/ldp",
+      "organization_id": "legislature",
+      "person_id": "28640f67-63eb-4ebf-87a6-f9343a9a2187",
+      "role": "member"
+    },
+    {
       "area_id": "area/kyushu_bloc",
       "legislative_period_id": "term/46",
       "on_behalf_of_id": "party/dp",
@@ -37051,6 +37254,14 @@
       "on_behalf_of_id": "party/dp",
       "organization_id": "legislature",
       "person_id": "3565f4e2-b75b-4694-bcc7-2a6f93ec9e69",
+      "role": "member"
+    },
+    {
+      "area_id": "area/kinki_bloc",
+      "legislative_period_id": "term/46",
+      "on_behalf_of_id": "party/dp",
+      "organization_id": "legislature",
+      "person_id": "35c74300-6ad0-497b-bfdf-29b9a8066fc9",
       "role": "member"
     },
     {
@@ -38063,6 +38274,14 @@
     },
     {
       "area_id": "area/kinki_bloc",
+      "legislative_period_id": "term/46",
+      "on_behalf_of_id": "party/dp",
+      "organization_id": "legislature",
+      "person_id": "777d4ed3-6de2-4772-b439-302c59bc7285",
+      "role": "member"
+    },
+    {
+      "area_id": "area/kyoto_3rd_district",
       "legislative_period_id": "term/46",
       "on_behalf_of_id": "party/dp",
       "organization_id": "legislature",
@@ -40448,6 +40667,11 @@
     {
       "id": "area/hokkaido_4th_district",
       "name": "Hokkaido 4th District",
+      "type": "constituency"
+    },
+    {
+      "id": "area/hokkaido_5th_district",
+      "name": "Hokkaido 5th District",
       "type": "constituency"
     },
     {
