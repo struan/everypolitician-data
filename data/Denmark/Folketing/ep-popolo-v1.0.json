@@ -1444,6 +1444,30 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "anders.johansson@ft.dk"
+        }
+      ],
+      "email": "anders.johansson@ft.dk",
+      "family_name": "Johansson",
+      "given_name": "Anders",
+      "id": "dac018ed-b46e-46ce-a07c-170dff80d15b",
+      "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/KF/Anders%20Johansson/Anders_Johansson_133.jpg.ashx",
+      "images": [
+        {
+          "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/KF/Anders%20Johansson/Anders_Johansson_133.jpg.ashx"
+        }
+      ],
+      "name": "Anders Johansson",
+      "sources": [
+        {
+          "url": "http://www.thedanishparliament.dk/Members/kfanjo.aspx"
+        }
+      ]
+    },
+    {
       "birth_date": "1958-08-09",
       "death_date": "2001-02-03",
       "gender": "male",
@@ -3545,6 +3569,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Astrid_Krag"
+        },
         {
           "note": "Wikipedia (da)",
           "url": "https://da.wikipedia.org/wiki/Astrid_Krag"
@@ -7871,6 +7899,11 @@
         },
         {
           "lang": "nn",
+          "name": "Christine Antorini",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
           "name": "Christine Antorini",
           "note": "multilingual"
         },
@@ -18639,7 +18672,7 @@
       ],
       "email": "jan.messmann@ft.dk",
       "family_name": "Messmann",
-      "gender": "female",
+      "gender": "male",
       "given_name": "Jan Erik",
       "id": "434a9f49-73e9-43df-bbf4-9187c7550a33",
       "identifiers": [
@@ -19328,6 +19361,11 @@
         },
         {
           "lang": "fr",
+          "name": "Jens Bilgrav-Nielsen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Jens Bilgrav-Nielsen",
           "note": "multilingual"
         },
@@ -24537,6 +24575,10 @@
           "url": "https://de.wikipedia.org/wiki/Karsten_Lauritzen"
         },
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Karsten_Lauritzen"
+        },
+        {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Karsten_Lauritzen"
         },
@@ -24745,6 +24787,10 @@
         {
           "note": "Wikipedia (da)",
           "url": "https://da.wikipedia.org/wiki/Kenneth_Kristensen_Berth"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Kenneth_Kristensen_Berth"
         },
         {
           "note": "website",
@@ -27033,6 +27079,10 @@
         {
           "identifier": "no2007139565",
           "scheme": "lcauth"
+        },
+        {
+          "identifier": "273/000203661",
+          "scheme": "nndb"
         },
         {
           "identifier": "vi3zbcg4powa",
@@ -31320,6 +31370,10 @@
         {
           "note": "Wikipedia (da)",
           "url": "https://da.wikipedia.org/wiki/Marcus_Knuth"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Marcus_Knuth"
         },
         {
           "note": "website",
@@ -36689,6 +36743,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "pl",
+          "name": "Nick Hækkerup",
+          "note": "multilingual"
+        },
+        {
           "lang": "sv",
           "name": "Nick Hækkerup",
           "note": "multilingual"
@@ -38261,6 +38320,11 @@
           "lang": "nb",
           "name": "Óli Breckmann",
           "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Óli Breckmann",
+          "note": "multilingual"
         }
       ]
     },
@@ -38402,6 +38466,12 @@
       "family_name": "Hvelplund",
       "given_name": "Peder",
       "id": "9f8d1b0e-9eee-4223-9a67-abc9d88c633a",
+      "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/EL/Peder%20Hvelplund/Peder_Hvelplund_133.jpg.ashx",
+      "images": [
+        {
+          "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/EL/Peder%20Hvelplund/Peder_Hvelplund_133.jpg.ashx"
+        }
+      ],
       "name": "Peder Hvelplund",
       "sources": [
         {
@@ -50097,7 +50167,7 @@
       "links": [
         {
           "note": "Wikipedia (commons)",
-          "url": "https://commons.wikipedia.org/wiki/Villy_Søvndal"
+          "url": "https://commons.wikipedia.org/wiki/Category:Villy_Søvndal"
         },
         {
           "note": "Wikipedia (da)",
@@ -60061,6 +60131,14 @@
       "role": "member"
     },
     {
+      "area_id": "area/funen",
+      "legislative_period_id": "term/2015",
+      "on_behalf_of_id": "AF65F1D8-0AFE-47DB-ADB1-7CA3C4550EC5",
+      "organization_id": "legislature",
+      "person_id": "dac018ed-b46e-46ce-a07c-170dff80d15b",
+      "role": "member"
+    },
+    {
       "legislative_period_id": "term/1990",
       "on_behalf_of_id": "S",
       "organization_id": "legislature",
@@ -60526,7 +60604,7 @@
     {
       "area_id": "area/north_zealand",
       "legislative_period_id": "term/2015",
-      "on_behalf_of_id": "F9E65D32-6F2F-4762-A7D5-56DCD0FC9BAF",
+      "on_behalf_of_id": "A726CCAA-9968-4DCE-A6CD-972D6BFA0934",
       "organization_id": "legislature",
       "person_id": "e963dbd7-fcc7-4b44-8fc2-96bd1611adb9",
       "role": "member"
