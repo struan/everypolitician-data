@@ -91,6 +91,10 @@
         "from": "wikidata-raw",
         "source": "reconciliation/wikidata.csv"
       }
+    },
+    {
+      "file": "manual/corrections.csv",
+      "type": "corrections"
     }
   ]
 }
