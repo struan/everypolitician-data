@@ -12,7 +12,10 @@
   },
   "include": {
     "self": [
-
+      {
+        "id": "Q12663218",
+        "name": "Speaker of the Seimas"
+      }
     ],
     "other_legislatures": [
       {
@@ -35,11 +38,7 @@
   },
   "unknown": {
     "unknown": [
-      {
-        "id": "Q12663218",
-        "name": "Speaker of the Seimas",
-        "count": 4
-      }
+
     ]
   }
 }
