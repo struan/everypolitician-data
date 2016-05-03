@@ -70,6 +70,14 @@
         "from": "wikidata-raw",
         "source": "reconciliation/wikidata.csv"
       }
+    },
+    {
+      "file": "ocd/divisions.csv",
+      "create": {
+        "url": "https://github.com/theyworkforyou/uganda_ocd_ids/raw/master/identifiers/country-ug.csv"
+      },
+      "type": "ocd",
+      "generate": "area"
     }
   ]
 }
