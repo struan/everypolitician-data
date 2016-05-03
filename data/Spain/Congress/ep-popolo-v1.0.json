@@ -3507,6 +3507,11 @@
           "lang": "es",
           "name": "Ana María Surra",
           "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Ana María Surra Spadea",
+          "note": "multilingual"
         }
       ],
       "sort_name": "Surra Spadea, Ana María",
@@ -10452,6 +10457,38 @@
       "id": "9fa0633e-8feb-45ca-a779-43d3b7af11bb",
       "identifiers": [
         {
+          "identifier": "XX891998",
+          "scheme": "bne"
+        },
+        {
+          "identifier": "137492381",
+          "scheme": "bnf"
+        },
+        {
+          "identifier": "1035106078",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "0000 0000 6021 5549",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "n2013048915",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "124312101",
+          "scheme": "nta"
+        },
+        {
+          "identifier": "067003621",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "87781107",
+          "scheme": "viaf"
+        },
+        {
           "identifier": "Q23413213",
           "scheme": "wikidata"
         }
@@ -10479,7 +10516,22 @@
       "name": "Emilio Del Río Sanz",
       "other_names": [
         {
+          "lang": "en",
+          "name": "Emilio del Río Sanz",
+          "note": "multilingual"
+        },
+        {
           "lang": "es",
+          "name": "Emilio del Río Sanz",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Emilio del Río Sanz",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
           "name": "Emilio del Río Sanz",
           "note": "multilingual"
         }
@@ -12573,6 +12625,26 @@
       ]
     },
     {
+      "birth_date": "1958-03-15",
+      "family_name": "Cabrera García",
+      "gender": "male",
+      "given_name": "Francisco Domingo",
+      "id": "912a11f5-741c-4937-8a40-ef884230d9b8",
+      "image": "http://www.congreso.es/wc/htdocs/web/img/diputados/351_11.jpg",
+      "images": [
+        {
+          "url": "http://www.congreso.es/wc/htdocs/web/img/diputados/351_11.jpg"
+        }
+      ],
+      "name": "Francisco Domingo Cabrera García",
+      "sort_name": "Cabrera García, Francisco Domingo",
+      "sources": [
+        {
+          "url": "http://www.congreso.es/portal/page/portal/Congreso/Congreso/Diputados/BusqForm?_piref73_1333155_73_1333154_1333154.next_page=/wc/fichaDiputado?idDiputado=351&idLegislatura=11"
+        }
+      ]
+    },
+    {
       "birth_date": "1957-10-12",
       "contact_details": [
         {
@@ -12876,6 +12948,10 @@
       "id": "b38c2ff9-bf03-4636-a65f-f26c9582678b",
       "identifiers": [
         {
+          "identifier": "XX1076676",
+          "scheme": "bne"
+        },
+        {
           "identifier": "123194609",
           "scheme": "bnf"
         },
@@ -12890,6 +12966,10 @@
         {
           "identifier": "/m/0tkcw16",
           "scheme": "freebase"
+        },
+        {
+          "identifier": "1057222062",
+          "scheme": "gnd"
         },
         {
           "identifier": "0000 0000 8111 1343",
@@ -14070,6 +14150,10 @@
         {
           "identifier": "140564349",
           "scheme": "gnd"
+        },
+        {
+          "identifier": "0000 0000 7825 7720",
+          "scheme": "isni"
         },
         {
           "identifier": "no2014024655",
@@ -21997,6 +22081,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "et",
+          "name": "José Manuel Soria",
+          "note": "multilingual"
+        },
+        {
           "lang": "fr",
           "name": "José Manuel Soria",
           "note": "multilingual"
@@ -22734,7 +22823,7 @@
           "scheme": "bne"
         },
         {
-          "identifier": "14620285",
+          "identifier": "14620285x",
           "scheme": "bnf"
         },
         {
@@ -24066,7 +24155,7 @@
       ]
     },
     {
-      "birth_date": "1956-08-19",
+      "birth_date": "1955-01-16",
       "family_name": "Vera Pró",
       "gender": "male",
       "given_name": "Juan Carlos",
@@ -24903,6 +24992,12 @@
         {
           "identifier": "Q5955861",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/23/Julio_Villarrubia_2012_(cropped).jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Julio_Villarrubia_2012_(cropped).jpg"
         }
       ],
       "links": [
@@ -27399,6 +27494,10 @@
           "scheme": "freebase"
         },
         {
+          "identifier": "0242444",
+          "scheme": "gnc"
+        },
+        {
           "identifier": "137037457",
           "scheme": "gnd"
         },
@@ -29667,10 +29766,15 @@
       "birth_date": "1965-12-13",
       "contact_details": [
         {
+          "type": "email",
+          "value": "mdc@congreso.es"
+        },
+        {
           "type": "twitter",
           "value": "mdcospedal"
         }
       ],
+      "email": "mdc@congreso.es",
       "family_name": "De Cospedal García",
       "gender": "female",
       "given_name": "María Dolores",
@@ -29723,6 +29827,10 @@
         {
           "note": "Wikipedia (eswikiquote)",
           "url": "https://eswikiquote.wikipedia.org/wiki/María_Dolores_de_Cospedal"
+        },
+        {
+          "note": "Wikipedia (eu)",
+          "url": "https://eu.wikipedia.org/wiki/María_Dolores_de_Cospedal"
         },
         {
           "note": "Wikipedia (fr)",
@@ -32976,6 +33084,10 @@
         {
           "type": "email",
           "value": "carmen.gonzalez@congreso.es"
+        },
+        {
+          "type": "twitter",
+          "value": "CarmenGGuinda"
         }
       ],
       "email": "carmen.gonzalez@congreso.es",
@@ -32987,6 +33099,12 @@
       "images": [
         {
           "url": "http://www.congreso.es/wc/htdocs/web/img/diputados/27_11.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/CarmenGGuinda"
         }
       ],
       "name": "María del Carmen González Guinda",
@@ -36143,8 +36261,20 @@
           "scheme": "lcauth"
         },
         {
+          "identifier": "pna2016906948",
+          "scheme": "nkc"
+        },
+        {
           "identifier": "133335283",
           "scheme": "nta"
+        },
+        {
+          "identifier": "138652",
+          "scheme": "ptbnp"
+        },
+        {
+          "identifier": "128872160",
+          "scheme": "sudoc"
         },
         {
           "identifier": "39187151",
@@ -37800,6 +37930,10 @@
           "url": "https://commons.wikipedia.org/wiki/Category:Pere_Macias_i_Arau"
         },
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Pere_Macias_i_Arau"
+        },
+        {
           "note": "Wikipedia (es)",
           "url": "https://es.wikipedia.org/wiki/Pere_Macias"
         },
@@ -39340,6 +39474,12 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/47/Ricardo_Sixto_en_la_Entrega_de_firmas_de_Europa_Laica.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Ricardo_Sixto_en_la_Entrega_de_firmas_de_Europa_Laica.jpg"
+        }
+      ],
       "links": [
         {
           "note": "Wikipedia (ca)",
@@ -40851,6 +40991,12 @@
         {
           "identifier": "Q6116537",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/32/Sabino_Cuadra.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Sabino_Cuadra.jpg"
         }
       ],
       "links": [
@@ -43781,6 +43927,12 @@
         {
           "identifier": "Q7925163",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a3/VicenteGuillen.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/VicenteGuillen.jpg"
         }
       ],
       "links": [
@@ -51843,6 +51995,15 @@
       "person_id": "908e2cc1-887c-42a3-b409-f6c9e0c84562",
       "role": "member",
       "start_date": "2011-12-09"
+    },
+    {
+      "area_id": "area/las_palmas",
+      "legislative_period_id": "term/11",
+      "on_behalf_of_id": "GP",
+      "organization_id": "legislature",
+      "person_id": "912a11f5-741c-4937-8a40-ef884230d9b8",
+      "role": "member",
+      "start_date": "2016-04-19"
     },
     {
       "area_id": "area/cádiz",
