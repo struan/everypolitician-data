@@ -297,11 +297,9 @@ namespace :merge_sources do
     end
 
     # Any local corrections in manual/corrections.csv
-    # TODO add this as a Source
-    corrections_file = 'sources/manual/corrections.csv'
-    if File.exist? corrections_file
-      warn "Applying local corrections from #{corrections_file}".green
-      CSV.table(corrections_file, converters: nil).each do |correction|
+    if corrs = sources.find { |src| src.type.downcase == 'corrections' }
+      warn "Applying local corrections from #{corrs.filename}".green
+      corrs.as_table.each do |correction|
         rows = merged_rows.select { |r| r[:uuid] == correction[:uuid] } 
         if rows.empty?
           warn "Can't correct #{correction[:uuid]} — no such person"
