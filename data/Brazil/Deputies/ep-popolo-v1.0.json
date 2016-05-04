@@ -19613,6 +19613,32 @@
       "contact_details": [
         {
           "type": "email",
+          "value": "dep.maurobenevides@camara.leg.br"
+        },
+        {
+          "type": "phone",
+          "value": "(61) 3215-5731 - 3215-2731"
+        }
+      ],
+      "email": "dep.maurobenevides@camara.leg.br",
+      "id": "fdab7071-ff04-41fe-ab8c-a6d64d497254",
+      "image": "http://www.camara.gov.br/internet/deputado/bandep/73588.jpg",
+      "images": [
+        {
+          "url": "http://www.camara.gov.br/internet/deputado/bandep/73588.jpg"
+        }
+      ],
+      "name": "MAURO BENEVIDES",
+      "sources": [
+        {
+          "url": "http://www.camara.gov.br/internet/deputado/Dep_Detalhe.asp?id=5830866"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
           "value": "dep.maurolopes@camara.leg.br"
         },
         {
@@ -34451,6 +34477,14 @@
       "on_behalf_of_id": "PP",
       "organization_id": "legislature",
       "person_id": "fd397340-8dff-4f8d-b368-58a1f48589ea",
+      "role": "member"
+    },
+    {
+      "area_id": "area/ce",
+      "legislative_period_id": "term/55",
+      "on_behalf_of_id": "PMDB",
+      "organization_id": "legislature",
+      "person_id": "fdab7071-ff04-41fe-ab8c-a6d64d497254",
       "role": "member"
     },
     {
