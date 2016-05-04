@@ -259,8 +259,16 @@ namespace :merge_sources do
 
       if area.generate == 'area'
         merged_rows.each do |r|
-          r[:area] = ocds[r[:area_id]].first[:name] rescue nil
+          if ocds.key?(r[:area_id])
+            r[:area] = ocds[r[:area_id]].first[:name]
+          elsif r[:area_id].to_s.empty?
+            warn_once "    No area_id given for #{r[:uuid]}"
+          else
+            # :area_id was given but didn't resolve to an OCD ID.
+            warn_once "    Could not resolve area_id #{r[:area_id]} for #{r[:uuid]}"
+          end
         end
+        output_warnings("OCD ID issues")
 
       else
         # Generate IDs from names
