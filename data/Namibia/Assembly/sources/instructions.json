@@ -32,7 +32,7 @@
         "file": "morph/terms.csv",
         "from": "morph",
         "scraper": "duncanparkes/namibia",
-        "query": "SELECT *, term_number AS id FROM terms"
+        "query": "SELECT term_number AS id, start_date, end_date, name FROM terms WHERE name LIKE '%assembly%'"
       }
     },
     {
