@@ -30,8 +30,8 @@ ocd-division/country:ug/region:central/subregion:buganda/district:kampala/consti
 ocd-division/country:ug/region:central/subregion:buganda/district:kampala/constituency:nakawa_division,Nakawa Division
 ocd-division/country:ug/region:central/subregion:buganda/district:kampala/constituency:rubaga_north,Rubaga North
 ocd-division/country:ug/region:central/subregion:buganda/district:kampala/constituency:rubaga_south,Rubaga South
-ocd-division/country:ug/region:central/subregion:buganda/district:kayunga,Kayunga
 ocd-division/country:ug/region:central/subregion:buganda/district:kayunga,kayunga
+ocd-division/country:ug/region:central/subregion:buganda/district:kayunga,Kayunga
 ocd-division/country:ug/region:central/subregion:buganda/district:kayunga/constituency:bbale_county,Bbale County
 ocd-division/country:ug/region:central/subregion:buganda/district:kayunga/constituency:ntenjeru_north,Ntenjeru North
 ocd-division/country:ug/region:central/subregion:buganda/district:kayunga/constituency:ntenjeru_south,Ntenjeru South
@@ -155,8 +155,8 @@ ocd-division/country:ug/region:eastern/subregion:busoga/district:iganga/constitu
 ocd-division/country:ug/region:eastern/subregion:busoga/district:iganga/constituency:iganga_municipality,Iganga Municipality
 ocd-division/country:ug/region:eastern/subregion:busoga/district:iganga/constituency:kigulu_north,Kigulu North
 ocd-division/country:ug/region:eastern/subregion:busoga/district:iganga/constituency:kigulu_south,Kigulu South
-ocd-division/country:ug/region:eastern/subregion:busoga/district:jinja,Jinja
 ocd-division/country:ug/region:eastern/subregion:busoga/district:jinja,JINJA
+ocd-division/country:ug/region:eastern/subregion:busoga/district:jinja,Jinja
 ocd-division/country:ug/region:eastern/subregion:busoga/district:jinja/constituency:butembe_county,Butembe County
 ocd-division/country:ug/region:eastern/subregion:busoga/district:jinja/constituency:jinja_municipality_east,Jinja Municipality East
 ocd-division/country:ug/region:eastern/subregion:busoga/district:jinja/constituency:jinja_west_municipality,Jinja West Municipality
@@ -272,6 +272,7 @@ ocd-division/country:ug/region:northern/subregion:karamoja/district:nakapiripiri
 ocd-division/country:ug/region:northern/subregion:karamoja/district:napak,Napak
 ocd-division/country:ug/region:northern/subregion:karamoja/district:napak/constituency:bokora_county,Bokora County
 ocd-division/country:ug/region:northern/subregion:lango,Lango
+ocd-division/country:ug/region:northern/subregion:lango/district:agago,Agago
 ocd-division/country:ug/region:northern/subregion:lango/district:alebtong,Alebtong
 ocd-division/country:ug/region:northern/subregion:lango/district:alebtong/constituency:ajuri_county,Ajuri County
 ocd-division/country:ug/region:northern/subregion:lango/district:alebtong/constituency:moroto_county,Moroto County
@@ -328,30 +329,6 @@ ocd-division/country:ug/region:northern/subregion:west_nile/district:yumbe/const
 ocd-division/country:ug/region:northern/subregion:west_nile/district:zombo,Zombo
 ocd-division/country:ug/region:northern/subregion:west_nile/district:zombo/constituency:okoro_county,Okoro County
 ocd-division/country:ug/region:northern/subregion:west_nile/district:zombo/constituency:ora_county,Ora County
-ocd-division/country:ug/region:nothern,Nothern
-ocd-division/country:ug/region:nothern/subregion:acholi,Acholi
-ocd-division/country:ug/region:nothern/subregion:acholi/district:gulu,Gulu
-ocd-division/country:ug/region:nothern/subregion:acholi/district:kitgum,Kitgum
-ocd-division/country:ug/region:nothern/subregion:acholi/district:lamwo,Lamwo
-ocd-division/country:ug/region:nothern/subregion:karamoja,Karamoja
-ocd-division/country:ug/region:nothern/subregion:karamoja/district:kaabong,Kaabong
-ocd-division/country:ug/region:nothern/subregion:karamoja/district:kotido,Kotido
-ocd-division/country:ug/region:nothern/subregion:karamoja/district:moroto,Moroto
-ocd-division/country:ug/region:nothern/subregion:karamoja/district:nakapiripirit,Nakapiripirit
-ocd-division/country:ug/region:nothern/subregion:karamoja/district:napak,Napak
-ocd-division/country:ug/region:nothern/subregion:lango,Lango
-ocd-division/country:ug/region:nothern/subregion:lango/district:agago,Agago
-ocd-division/country:ug/region:nothern/subregion:lango/district:alebtong,Alebtong
-ocd-division/country:ug/region:nothern/subregion:lango/district:apac,Apac
-ocd-division/country:ug/region:nothern/subregion:lango/district:kole,Kole
-ocd-division/country:ug/region:nothern/subregion:lango/district:lira,Lira
-ocd-division/country:ug/region:nothern/subregion:lango/district:oyam,Oyam
-ocd-division/country:ug/region:nothern/subregion:west_nile,West Nile
-ocd-division/country:ug/region:nothern/subregion:west_nile/district:arua,Arua
-ocd-division/country:ug/region:nothern/subregion:west_nile/district:koboko,Koboko
-ocd-division/country:ug/region:nothern/subregion:west_nile/district:maracha,Maracha
-ocd-division/country:ug/region:nothern/subregion:west_nile/district:moyo,Moyo
-ocd-division/country:ug/region:nothern/subregion:west_nile/district:zombo,Zombo
 ocd-division/country:ug/region:western,Western
 ocd-division/country:ug/region:western/subregion:ankole,Ankole
 ocd-division/country:ug/region:western/subregion:ankole/district:buhweju,Buhweju
