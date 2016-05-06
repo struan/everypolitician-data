@@ -4279,7 +4279,13 @@
       ]
     },
     {
-      "id": "4698ecff-1226-4d91-a137-6cf626dc88d0",
+      "id": "aed93680-4049-4bfd-b06b-33c50d199883",
+      "identifiers": [
+        {
+          "identifier": "Isaak-Willem-DECEASED",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
       "image": "http://www.parliament.gov.na/images/nationalassemblymembers/374_honisaacks.jpg",
       "images": [
         {
@@ -4381,14 +4387,101 @@
       ]
     },
     {
-      "id": "e0661de6-92b8-4c0b-85e0-cd34c2e080a3",
+      "birth_date": "1961-02-02",
+      "death_date": "2013-02-02",
+      "gender": "male",
+      "given_name": "Abraham",
+      "id": "67aa25d9-0ce9-4f8f-8b81-6d20eb9739bc",
+      "identifiers": [
+        {
+          "identifier": "Iyambo-Abraham-DECEASED",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/05fbm0j",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q4098431",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.gov.na/images/nationalassemblymembers/a_iyambo.jpg",
       "images": [
         {
           "url": "http://www.parliament.gov.na/images/nationalassemblymembers/a_iyambo.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Abraham_Iyambo"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Abraham_Iyambo"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Abraham_Iyambo"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Иямбо,_Абрахам"
+        }
+      ],
       "name": "Iyambo Abraham",
+      "other_names": [
+        {
+          "name": "Abraham Iyambo",
+          "note": "alternate"
+        },
+        {
+          "lang": "cy",
+          "name": "Abraham Iyambo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Abraham Iyambo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Abraham Iyambo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Abraham Iyambo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Abraham Iyambo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Abraham Iyambo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Abraham Iyambo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Abraham Iyambo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Иямбо, Абрахам",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.parliament.gov.na/index.php?option=com_contact&view=contact&id=952:iyambo-abraham-5th&catid=129&Itemid=1370"
@@ -7451,6 +7544,7 @@
       ]
     },
     {
+      "birth_date": "1943-04-11",
       "contact_details": [
         {
           "type": "email",
@@ -7458,14 +7552,62 @@
         }
       ],
       "email": "p.moongo@parliament.na",
-      "id": "ef9e576e-633f-4518-bd5e-9213246e97e5",
+      "gender": "male",
+      "id": "9aeef1f8-5a18-4e2c-8097-5b7031ae7dc1",
+      "identifiers": [
+        {
+          "identifier": "Moongo-Philemon-DECEASED",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q7183020",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.gov.na/images/nationalassemblymembers/476_moongo.jpg",
       "images": [
         {
           "url": "http://www.parliament.gov.na/images/nationalassemblymembers/476_moongo.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Philemon_Moongo"
+        }
+      ],
       "name": "Moongo Philemon",
+      "other_names": [
+        {
+          "name": "Philemon Moongo",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Philemon Moongo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Philemon Moongo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Philemon Moongo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Philemon Moongo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Philemon Moongo",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.parliament.gov.na/index.php?option=com_contact&view=contact&id=237:mphilemon1&catid=129&Itemid=1370"
@@ -9433,14 +9575,60 @@
       ]
     },
     {
-      "id": "354e9133-be94-4f2f-b0a5-678ca73d1a87",
+      "birth_date": "1950-07-30",
+      "death_date": "2008-03-14",
+      "gender": "male",
+      "given_name": "John",
+      "id": "7cf1d241-2037-48a6-bfc6-64fdd050917d",
+      "identifiers": [
+        {
+          "identifier": "Pandeni-John-Alphons-DECEASED",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q6251837",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.gov.na/images/nationalassemblymembers/j_pandeni.jpg",
       "images": [
         {
           "url": "http://www.parliament.gov.na/images/nationalassemblymembers/j_pandeni.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/John_Pandeni"
+        }
+      ],
       "name": "Pandeni John Alphons",
+      "other_names": [
+        {
+          "name": "John Pandeni",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "John Pandeni",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "John Pandeni",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "John Pandeni",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "John Pandeni",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.parliament.gov.na/index.php?option=com_contact&view=contact&id=874:pandeni-john-alphons&catid=125&Itemid=1371"
@@ -9889,14 +10077,87 @@
       ]
     },
     {
-      "id": "8852effc-5756-4aca-b03c-6744d31e09a3",
+      "birth_date": "1935-09-05",
+      "gender": "male",
+      "id": "2b593f2f-5df2-46a9-a025-fdc8ba33c247",
+      "identifiers": [
+        {
+          "identifier": "Pretorius-W-F-Jacobus-Kosie",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q6433172",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.gov.na/images/nationalassemblymembers/j_pretorius.jpg",
       "images": [
         {
           "url": "http://www.parliament.gov.na/images/nationalassemblymembers/j_pretorius.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Kosie_Pretorius"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Kosie_Pretorius"
+        }
+      ],
       "name": "Pretorius W.F. Jacobus",
+      "other_names": [
+        {
+          "name": "Kosie Pretorius",
+          "note": "alternate"
+        },
+        {
+          "lang": "da",
+          "name": "Kosie Pretorius",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Kosie Pretorius",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Kosie Pretorius",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Kosie Pretorius",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Kosie Pretorius",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Kosie Pretorius",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Kosie Pretorius",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Kosie Pretorius",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Kosie Pretorius",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.parliament.gov.na/index.php?option=com_contact&view=contact&id=528:pretorius-w-f-jacobus&catid=123&Itemid=1372"
@@ -9925,14 +10186,95 @@
       ]
     },
     {
-      "id": "48b4c72d-8196-4d94-ad75-c7e07e9a4341",
+      "birth_date": "1935-04-24",
+      "death_date": "2014-06-02",
+      "gender": "male",
+      "id": "10ed042d-51f0-490e-8a42-ddfd5112dbbf",
+      "identifiers": [
+        {
+          "identifier": "Riruako-Kuaima-DECEASED",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "36477979",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q4394773",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.gov.na/images/nationalassemblymembers/567_riruako..jpg",
       "images": [
         {
           "url": "http://www.parliament.gov.na/images/nationalassemblymembers/567_riruako..jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Kuaima_Riruako"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Kuaima_Riruako"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Рируако,_Куаима"
+        },
+        {
+          "note": "Wikipedia (simple)",
+          "url": "https://simple.wikipedia.org/wiki/Kuaima_Riruako"
+        }
+      ],
       "name": "Riruako Kuaima",
+      "other_names": [
+        {
+          "name": "Kuaima Riruako",
+          "note": "alternate"
+        },
+        {
+          "lang": "cy",
+          "name": "Kuaima Riruako",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Kuaima Riruako",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Kuaima Riruako",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Kuaima Riruako",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Kuaima Riruako",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Kuaima Riruako",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Kuaima Riruako",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Рируако, Куаима",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.parliament.gov.na/index.php?option=com_contact&view=contact&id=951:r-kuaima-5th&catid=129&Itemid=1370"
@@ -10434,7 +10776,13 @@
       ]
     },
     {
-      "id": "c09ac785-897e-4a2c-8f49-7f82a17ebfb8",
+      "id": "c1a75d9c-a493-416e-a727-c6323869c421",
+      "identifiers": [
+        {
+          "identifier": "Shihepo-D-Gabriel-DECEASED",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
       "image": "http://www.parliament.gov.na/images/nationalassemblymembers/g_shihepo.jpg",
       "images": [
         {
@@ -11999,14 +12347,63 @@
       ]
     },
     {
-      "id": "c5b4d966-ba67-4d64-8f0e-131a5c42c99b",
+      "gender": "male",
+      "given_name": "Festus",
+      "id": "2c1a4a23-56cb-4ee9-bdf6-f702e23cb4a8",
+      "identifiers": [
+        {
+          "identifier": "Ueitel-Festus-RESIGN",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q5445886",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.gov.na/images/no_image.jpg",
       "images": [
         {
           "url": "http://www.parliament.gov.na/images/no_image.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Festus_Ueitele"
+        }
+      ],
       "name": "Ueitel Festus",
+      "other_names": [
+        {
+          "name": "Festus Ueitele",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Festus Ueitele",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Festus Ueitele",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Festus Ueitele",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Festus Ueitele",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Festus Ueitele",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.parliament.gov.na/index.php?option=com_contact&view=contact&id=947:ueitel-festus&catid=129&Itemid=1370"
@@ -14220,6 +14617,34 @@
       "role": "member"
     },
     {
+      "legislative_period_id": "term/2",
+      "on_behalf_of_id": "DTA",
+      "organization_id": "legislature",
+      "person_id": "10ed042d-51f0-490e-8a42-ddfd5112dbbf",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/3",
+      "on_behalf_of_id": "DTA",
+      "organization_id": "legislature",
+      "person_id": "10ed042d-51f0-490e-8a42-ddfd5112dbbf",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/4",
+      "on_behalf_of_id": "NUDO",
+      "organization_id": "legislature",
+      "person_id": "10ed042d-51f0-490e-8a42-ddfd5112dbbf",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "NUDO",
+      "organization_id": "legislature",
+      "person_id": "10ed042d-51f0-490e-8a42-ddfd5112dbbf",
+      "role": "member"
+    },
+    {
       "legislative_period_id": "term/0",
       "on_behalf_of_id": "DTA",
       "organization_id": "legislature",
@@ -14647,6 +15072,34 @@
       "role": "member"
     },
     {
+      "legislative_period_id": "term/0",
+      "on_behalf_of_id": "ACN",
+      "organization_id": "legislature",
+      "person_id": "2b593f2f-5df2-46a9-a025-fdc8ba33c247",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/1",
+      "on_behalf_of_id": "ACN",
+      "organization_id": "legislature",
+      "person_id": "2b593f2f-5df2-46a9-a025-fdc8ba33c247",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2",
+      "on_behalf_of_id": "MAG",
+      "organization_id": "legislature",
+      "person_id": "2b593f2f-5df2-46a9-a025-fdc8ba33c247",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/3",
+      "on_behalf_of_id": "MAG",
+      "organization_id": "legislature",
+      "person_id": "2b593f2f-5df2-46a9-a025-fdc8ba33c247",
+      "role": "member"
+    },
+    {
       "legislative_period_id": "term/5",
       "on_behalf_of_id": "SWAPO",
       "organization_id": "legislature",
@@ -14665,6 +15118,13 @@
       "on_behalf_of_id": "SWAPO",
       "organization_id": "legislature",
       "person_id": "2c18b576-fd81-4881-ac6f-71d4fbc05ab7",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "SWAPO",
+      "organization_id": "legislature",
+      "person_id": "2c1a4a23-56cb-4ee9-bdf6-f702e23cb4a8",
       "role": "member"
     },
     {
@@ -14777,13 +15237,6 @@
       "on_behalf_of_id": "FCN",
       "organization_id": "legislature",
       "person_id": "33e81495-efe3-4394-8535-f482f05dff10",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/4",
-      "on_behalf_of_id": "SWAPO",
-      "organization_id": "legislature",
-      "person_id": "354e9133-be94-4f2f-b0a5-678ca73d1a87",
       "role": "member"
     },
     {
@@ -14962,13 +15415,6 @@
       "role": "member"
     },
     {
-      "legislative_period_id": "term/5",
-      "on_behalf_of_id": "SWAPO",
-      "organization_id": "legislature",
-      "person_id": "4698ecff-1226-4d91-a137-6cf626dc88d0",
-      "role": "member"
-    },
-    {
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "SWAPO",
       "organization_id": "legislature",
@@ -15043,34 +15489,6 @@
       "on_behalf_of_id": "SWAPO",
       "organization_id": "legislature",
       "person_id": "48a9a52a-beab-4bed-ba70-f93f456e5e3e",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/2",
-      "on_behalf_of_id": "DTA",
-      "organization_id": "legislature",
-      "person_id": "48b4c72d-8196-4d94-ad75-c7e07e9a4341",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/3",
-      "on_behalf_of_id": "DTA",
-      "organization_id": "legislature",
-      "person_id": "48b4c72d-8196-4d94-ad75-c7e07e9a4341",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/4",
-      "on_behalf_of_id": "NUDO",
-      "organization_id": "legislature",
-      "person_id": "48b4c72d-8196-4d94-ad75-c7e07e9a4341",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/5",
-      "on_behalf_of_id": "NUDO",
-      "organization_id": "legislature",
-      "person_id": "48b4c72d-8196-4d94-ad75-c7e07e9a4341",
       "role": "member"
     },
     {
@@ -15648,6 +16066,34 @@
       "role": "member"
     },
     {
+      "legislative_period_id": "term/2",
+      "on_behalf_of_id": "Appointed By President",
+      "organization_id": "legislature",
+      "person_id": "67aa25d9-0ce9-4f8f-8b81-6d20eb9739bc",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/3",
+      "on_behalf_of_id": "SWAPO",
+      "organization_id": "legislature",
+      "person_id": "67aa25d9-0ce9-4f8f-8b81-6d20eb9739bc",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/4",
+      "on_behalf_of_id": "SWAPO",
+      "organization_id": "legislature",
+      "person_id": "67aa25d9-0ce9-4f8f-8b81-6d20eb9739bc",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "SWAPO",
+      "organization_id": "legislature",
+      "person_id": "67aa25d9-0ce9-4f8f-8b81-6d20eb9739bc",
+      "role": "member"
+    },
+    {
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "SWAPO",
       "organization_id": "legislature",
@@ -15876,6 +16322,13 @@
       "on_behalf_of_id": "SWAPO",
       "organization_id": "legislature",
       "person_id": "797d612f-9c0c-4ab5-b46b-cd0b204968f6",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/4",
+      "on_behalf_of_id": "SWAPO",
+      "organization_id": "legislature",
+      "person_id": "7cf1d241-2037-48a6-bfc6-64fdd050917d",
       "role": "member"
     },
     {
@@ -16128,34 +16581,6 @@
       "on_behalf_of_id": "SWAPO",
       "organization_id": "legislature",
       "person_id": "8819bc9b-1066-4c15-b10d-6be76b734149",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/0",
-      "on_behalf_of_id": "ACN",
-      "organization_id": "legislature",
-      "person_id": "8852effc-5756-4aca-b03c-6744d31e09a3",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/1",
-      "on_behalf_of_id": "ACN",
-      "organization_id": "legislature",
-      "person_id": "8852effc-5756-4aca-b03c-6744d31e09a3",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/2",
-      "on_behalf_of_id": "MAG",
-      "organization_id": "legislature",
-      "person_id": "8852effc-5756-4aca-b03c-6744d31e09a3",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/3",
-      "on_behalf_of_id": "MAG",
-      "organization_id": "legislature",
-      "person_id": "8852effc-5756-4aca-b03c-6744d31e09a3",
       "role": "member"
     },
     {
@@ -16530,6 +16955,34 @@
       "role": "member"
     },
     {
+      "legislative_period_id": "term/2",
+      "on_behalf_of_id": "DTA",
+      "organization_id": "legislature",
+      "person_id": "9aeef1f8-5a18-4e2c-8097-5b7031ae7dc1",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/3",
+      "on_behalf_of_id": "DTA",
+      "organization_id": "legislature",
+      "person_id": "9aeef1f8-5a18-4e2c-8097-5b7031ae7dc1",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/4",
+      "on_behalf_of_id": "DTA",
+      "organization_id": "legislature",
+      "person_id": "9aeef1f8-5a18-4e2c-8097-5b7031ae7dc1",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "DTA",
+      "organization_id": "legislature",
+      "person_id": "9aeef1f8-5a18-4e2c-8097-5b7031ae7dc1",
+      "role": "member"
+    },
+    {
       "legislative_period_id": "term/5",
       "on_behalf_of_id": "SWAPO",
       "organization_id": "legislature",
@@ -16796,6 +17249,13 @@
       "role": "member"
     },
     {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "SWAPO",
+      "organization_id": "legislature",
+      "person_id": "aed93680-4049-4bfd-b06b-33c50d199883",
+      "role": "member"
+    },
+    {
       "legislative_period_id": "term/6",
       "on_behalf_of_id": "SWAPO",
       "organization_id": "legislature",
@@ -17009,7 +17469,7 @@
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "SWAPO",
       "organization_id": "legislature",
-      "person_id": "c09ac785-897e-4a2c-8f49-7f82a17ebfb8",
+      "person_id": "c1a75d9c-a493-416e-a727-c6323869c421",
       "role": "member"
     },
     {
@@ -17045,13 +17505,6 @@
       "on_behalf_of_id": "SWAPO",
       "organization_id": "legislature",
       "person_id": "c58025ad-8217-42bc-bc6e-b4930b41ce6b",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/5",
-      "on_behalf_of_id": "SWAPO",
-      "organization_id": "legislature",
-      "person_id": "c5b4d966-ba67-4d64-8f0e-131a5c42c99b",
       "role": "member"
     },
     {
@@ -17360,34 +17813,6 @@
       "on_behalf_of_id": "SWAPO",
       "organization_id": "legislature",
       "person_id": "df4f9f08-14c7-46f2-a096-5e3e0e3e774d",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/2",
-      "on_behalf_of_id": "Appointed By President",
-      "organization_id": "legislature",
-      "person_id": "e0661de6-92b8-4c0b-85e0-cd34c2e080a3",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/3",
-      "on_behalf_of_id": "SWAPO",
-      "organization_id": "legislature",
-      "person_id": "e0661de6-92b8-4c0b-85e0-cd34c2e080a3",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/4",
-      "on_behalf_of_id": "SWAPO",
-      "organization_id": "legislature",
-      "person_id": "e0661de6-92b8-4c0b-85e0-cd34c2e080a3",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/5",
-      "on_behalf_of_id": "SWAPO",
-      "organization_id": "legislature",
-      "person_id": "e0661de6-92b8-4c0b-85e0-cd34c2e080a3",
       "role": "member"
     },
     {
@@ -17850,34 +18275,6 @@
       "on_behalf_of_id": "SWAPO",
       "organization_id": "legislature",
       "person_id": "ef181eda-55b2-466f-8b53-9e817bda152d",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/2",
-      "on_behalf_of_id": "DTA",
-      "organization_id": "legislature",
-      "person_id": "ef9e576e-633f-4518-bd5e-9213246e97e5",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/3",
-      "on_behalf_of_id": "DTA",
-      "organization_id": "legislature",
-      "person_id": "ef9e576e-633f-4518-bd5e-9213246e97e5",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/4",
-      "on_behalf_of_id": "DTA",
-      "organization_id": "legislature",
-      "person_id": "ef9e576e-633f-4518-bd5e-9213246e97e5",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/5",
-      "on_behalf_of_id": "DTA",
-      "organization_id": "legislature",
-      "person_id": "ef9e576e-633f-4518-bd5e-9213246e97e5",
       "role": "member"
     },
     {
