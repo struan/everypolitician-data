@@ -9388,6 +9388,32 @@
       "contact_details": [
         {
           "type": "email",
+          "value": "dep.fabianohorta@camara.leg.br"
+        },
+        {
+          "type": "phone",
+          "value": "(61) 3215-5483 - 3215-2483"
+        }
+      ],
+      "email": "dep.fabianohorta@camara.leg.br",
+      "id": "0a3535d4-e6ac-491f-95f4-889e248753a6",
+      "image": "http://www.camara.gov.br/internet/deputado/bandep/146829.jpg",
+      "images": [
+        {
+          "url": "http://www.camara.gov.br/internet/deputado/bandep/146829.jpg"
+        }
+      ],
+      "name": "FABIANO HORTA",
+      "sources": [
+        {
+          "url": "http://www.camara.gov.br/internet/deputado/Dep_Detalhe.asp?id=5830305"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
           "value": "dep.fabiogarcia@camara.leg.br"
         },
         {
@@ -30277,6 +30303,14 @@
       "on_behalf_of_id": "DEM",
       "organization_id": "legislature",
       "person_id": "091caf11-899b-4e64-85a4-9db87015a415",
+      "role": "member"
+    },
+    {
+      "area_id": "area/rj",
+      "legislative_period_id": "term/55",
+      "on_behalf_of_id": "PT",
+      "organization_id": "legislature",
+      "person_id": "0a3535d4-e6ac-491f-95f4-889e248753a6",
       "role": "member"
     },
     {
