@@ -171,11 +171,8 @@ namespace :merge_sources do
 
                 # Accept multiple values for incoming and existing emails
                 if h == :email
-                  existing_emails = existing_row[h].split(';').map(&:strip)
-                  incoming_emails = incoming_row[h].split(';').map(&:strip).reject do |ie|
-                    existing_emails.any? { |ee| ee.downcase == ie.downcase }
-                  end
-                  existing_row[h] = (existing_emails + incoming_emails).join(';')
+                  emails = [existing_row[h], incoming_row[h]].join(';').split(';').map(&:strip).uniq(&:downcase)
+                  existing_row[h] = emails.join(';')
                   next
                 end
 
