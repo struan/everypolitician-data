@@ -1824,6 +1824,38 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "FranciscoHago"
+        }
+      ],
+      "gender": "male",
+      "id": "939dbe56-8fae-48d8-8aa8-cf7e721802fe",
+      "image": "http://www.asambleanacional.gob.ec/es/system/files/styles/asambleista/private/pictures/picture-15517-1462484027.png?itok=mUR4xmKf",
+      "images": [
+        {
+          "url": "http://www.asambleanacional.gob.ec/es/system/files/styles/asambleista/private/pictures/picture-15517-1462484027.png?itok=mUR4xmKf"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/francisco.hago"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/FranciscoHago"
+        }
+      ],
+      "name": "Francisco Hagó",
+      "sources": [
+        {
+          "url": "http://www.asambleanacional.gob.ec/es/blogs/franciscohago"
+        }
+      ]
+    },
+    {
       "birth_date": "1951-08-25",
       "contact_details": [
         {
@@ -8113,6 +8145,14 @@
       "on_behalf_of_id": "party/alianza_pais",
       "organization_id": "legislature",
       "person_id": "92366e0f-c62a-4575-91bd-f73e13afb25c",
+      "role": "member"
+    },
+    {
+      "area_id": "area/asambleísta_nacional",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "party/alianza_pais",
+      "organization_id": "legislature",
+      "person_id": "939dbe56-8fae-48d8-8aa8-cf7e721802fe",
       "role": "member"
     },
     {
