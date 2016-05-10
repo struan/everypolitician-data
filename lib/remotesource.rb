@@ -7,14 +7,15 @@ class RemoteSource
   # Instantiate correct subclass based on instructions
   def self.instantiate(i)
     c = i[:create]
-    return RemoteSource::URL.new(i)             if c.key? :url
-    return RemoteSource::Morph.new(i)           if c[:from] == 'morph'
-    return RemoteSource::Parlparse.new(i)       if c[:from] == 'parlparse'
-    return RemoteSource::OCD.new(i)             if c[:from] == 'ocd'
-    return RemoteSource::Wikidata::Group.new(i) if c[:from] == 'group-wikidata'
-    return RemoteSource::Wikidata::Area.new(i)  if c[:from] == 'area-wikidata'
-    return RemoteSource::Wikidata::Raw.new(i)   if c[:from] == 'wikidata-raw'
-    return RemoteSource::GenderBalance.new(i)   if c[:from] == 'gender-balance'
+    return RemoteSource::URL.new(i)                if c.key? :url
+    return RemoteSource::Morph.new(i)              if c[:from] == 'morph'
+    return RemoteSource::Parlparse.new(i)          if c[:from] == 'parlparse'
+    return RemoteSource::OCD.new(i)                if c[:from] == 'ocd'
+    return RemoteSource::Wikidata::Election.new(i) if c[:from] == 'election-wikidata'
+    return RemoteSource::Wikidata::Group.new(i)    if c[:from] == 'group-wikidata'
+    return RemoteSource::Wikidata::Area.new(i)     if c[:from] == 'area-wikidata'
+    return RemoteSource::Wikidata::Raw.new(i)      if c[:from] == 'wikidata-raw'
+    return RemoteSource::GenderBalance.new(i)      if c[:from] == 'gender-balance'
     raise "Don't know how to fetch #{i[:file]}" 
   end
 
@@ -127,6 +128,18 @@ end
 class RemoteSource::Wikidata::Group < RemoteSource::Wikidata
   def lookup_class
     GroupLookup
+  end
+end
+
+class RemoteSource::Wikidata::Election < RemoteSource::Wikidata
+  def lookup_class
+    ElectionLookup
+  end
+
+  # We don't have our own list of IDs to look up - instead pass through
+  # the `create` data so we can look those up from the base
+  def map_data
+    i(:create)
   end
 end
 

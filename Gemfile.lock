@@ -36,17 +36,23 @@ GEM
     colorize (0.7.7)
     crack (0.4.3)
       safe_yaml (~> 1.0.0)
+    domain_name (0.5.20160310)
+      unf (>= 0.0.5, < 1.0.0)
     facebook_username_extractor (0.1.0)
     fuzzy_match (2.1.0)
     hashdiff (0.2.3)
+    http-cookie (1.0.2)
+      domain_name (~> 0.5)
     iso_country_codes (0.7.2)
     json (1.8.3)
     json5 (0.0.1)
     method_source (0.8.2)
+    mime-types (2.99.1)
     mini_portile2 (2.0.0)
     minitest (5.8.3)
     minitest-around (0.3.2)
       minitest (~> 5.0)
+    netrc (0.11.0)
     nokogiri (1.6.7)
       mini_portile2 (~> 2.0.0.rc2)
     pry (0.10.3)
@@ -54,10 +60,17 @@ GEM
       method_source (~> 0.8.1)
       slop (~> 3.4)
     rake (10.4.2)
+    rest-client (1.8.0)
+      http-cookie (>= 1.0.2, < 2.0)
+      mime-types (>= 1.16, < 3.0)
+      netrc (~> 0.7)
     safe_yaml (1.0.4)
     sass (3.4.20)
     slop (3.6.0)
     twitter_username_extractor (0.1.0)
+    unf (0.1.4)
+      unf_ext
+    unf_ext (0.0.7.2)
     unicode_utils (1.4.0)
     vcr (3.0.0)
     webmock (1.22.3)
@@ -83,6 +96,7 @@ DEPENDENCIES
   nokogiri
   pry
   rake
+  rest-client
   sass
   slop (~> 3.6.0)
   unicode_utils

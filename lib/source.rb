@@ -13,6 +13,7 @@ module Source
       return Source::Area.new(i)        if i[:type] == 'area-wikidata'
       return Source::Gender.new(i)      if i[:type] == 'gender'
       return Source::Positions.new(i)   if i[:type] == 'wikidata-positions'
+      return Source::Elections.new(i)   if i[:type] == 'wikidata-elections'
       return Source::Term.new(i)        if i[:type] == 'term'
       return Source::Corrections.new(i) if i[:type] == 'corrections'
       raise "Don't know how to handle #{i[:type]} files (#{i})" 
@@ -201,6 +202,9 @@ module Source
   end
 
   class Area < JSON
+  end
+
+  class Elections < JSON
   end
 
   class Positions < JSON
