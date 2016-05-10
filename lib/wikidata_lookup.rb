@@ -1,4 +1,6 @@
 require 'wikisnakker'
+require 'json'
+require 'rest-client'
 
 # Takes an array of hashes containing an 'id' and 'wikidata' then returns
 # wikidata information about each item.
@@ -116,6 +118,39 @@ class P39sLookup < WikidataLookup
         qualifiers: qual_data,
       }.reject { |_,v| v.empty? } rescue {}
     end
+  end
+end
+
+class ElectionLookup < WikidataLookup
+
+  # We don't have the normal id => uuid Hash here, 
+  # but rather instructions for a WDQ lookup
+  def initialize(instructions)
+    q = 'CLAIM[31:%s]' % instructions[:base].sub(/^Q/,'')
+    ids = wdq(q)
+    @wikidata_id_lookup = Hash[ ids.map { |id| [id, id] } ]
+  end
+
+  def other_fields_for(result)
+    {
+      dates: result.P585s,
+      follows: result.P155,
+      followed_by: result.P156,
+      office: result.P541,
+      participants: result.P710s,
+      successful_candidates: result.P991s,
+      eligible_voters: result.P1867,
+      ballots_cast: result.P1868,
+    }.reject { |k, v| v.nil? || [*v].empty? }
+  end
+
+  private
+  WDQ_URL = 'https://wdq.wmflabs.org/api'
+
+  def wdq(query)
+    result = RestClient.get WDQ_URL, params: { q: query }
+    json = JSON.parse(result, symbolize_names: true)
+    json[:items].map { |id| "Q#{id}" }
   end
 end
 
