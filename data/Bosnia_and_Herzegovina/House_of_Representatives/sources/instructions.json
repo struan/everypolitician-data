@@ -27,6 +27,14 @@
         "from": "gender-balance",
         "source": "Bosnia-and-Herzegovina/House-of-Representatives"
       }
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "create": {
+        "from": "election-wikidata",
+        "base": "Q22276155"
+      }
     }
   ]
 }
