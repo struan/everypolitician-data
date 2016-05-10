@@ -6,6 +6,21 @@
       "type": "membership"
     },
     {
+      "file": "morph/term5.csv",
+      "create": {
+        "from": "morph",
+        "scraper": "tmtmtmtm/tanzania-parliament",
+        "query": "SELECT * FROM data"
+      },
+      "merge": {
+        "incoming_field": "name",
+        "existing_field": "name",
+        "reconciliation_file": "reconciliation/term5.csv"
+      },
+      "source": "http://www.parliament.go.tz",
+      "type": "membership"
+    },
+    {
       "file": "morph/wikidata.csv",
       "create": {
         "from": "morph",
