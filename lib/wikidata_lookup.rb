@@ -134,6 +134,8 @@ class ElectionLookup < WikidataLookup
   def other_fields_for(result)
     {
       dates: result.P585s,
+      start_date: result.P580,
+      end_date: result.P582,
       follows: result.P155,
       followed_by: result.P156,
       part_of: result.P361,
