@@ -136,6 +136,7 @@ class ElectionLookup < WikidataLookup
       dates: result.P585s,
       follows: result.P155,
       followed_by: result.P156,
+      part_of: result.P361,
       office: result.P541,
       participants: result.P710s,
       successful_candidates: result.P991s,
