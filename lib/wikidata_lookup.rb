@@ -141,6 +141,7 @@ class ElectionLookup < WikidataLookup
       part_of: result.P361,
       office: result.P541,
       participants: result.P710s,
+      candidates: candidates(result),
       successful_candidates: result.P991s,
       eligible_voters: result.P1867,
       ballots_cast: result.P1868,
@@ -155,5 +156,27 @@ class ElectionLookup < WikidataLookup
     json = JSON.parse(result, symbolize_names: true)
     json[:items].map { |id| "Q#{id}" }
   end
+
+  def candidates(result)
+    return nil if (candidates = result.P726s).empty?
+    candidates.map do |c|
+      qualifiers = c.qualifiers
+
+      titles = {
+        'P1111' => 'votes_received',
+        'P1410' => 'seats',
+      }
+      qual_data  = Hash[qualifiers.properties.map { |p| 
+        [titles[p] || p, qualifiers[p].value.to_s]
+      }]
+
+      {
+        id: c.value.id,
+        label: c.value.to_s,
+        qualifiers: qual_data,
+      }.reject { |_,v| v.empty? } rescue {}
+    end
+  end
+
 end
 
