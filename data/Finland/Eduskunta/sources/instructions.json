@@ -72,6 +72,14 @@
     {
       "file": "manual/corrections.csv",
       "type": "corrections"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "create": {
+        "from": "election-wikidata",
+        "base": "Q2112448"
+      }
     }
   ]
 }
