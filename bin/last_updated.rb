@@ -1,4 +1,4 @@
-#!/usr/bin/ruby 
+#!/usr/bin/env ruby
 
 # How long has it been since the data for a legislature changed?
 
