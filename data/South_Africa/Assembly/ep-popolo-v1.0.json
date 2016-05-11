@@ -1909,6 +1909,21 @@
           "lang": "nl",
           "name": "Blade Nzimande",
           "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "瑟頓聯",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "布莱德·恩齐曼德",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "布萊德·恩齊曼德",
+          "note": "multilingual"
         }
       ],
       "sources": [
@@ -7723,6 +7738,13 @@
     },
     {
       "birth_date": "1954-05-10",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "mareldia.chowglay@dhs.gov.za"
+        }
+      ],
+      "email": "mareldia.chowglay@dhs.gov.za",
       "gender": "female",
       "honorific_prefix": "Ms",
       "id": "4472ca07-98c0-49b1-858c-89ccbf0bd206",
@@ -12598,6 +12620,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "hy",
+          "name": "Վիննի Մանդելա",
+          "note": "multilingual"
+        },
+        {
           "lang": "id",
           "name": "Winnie Mandela",
           "note": "multilingual"
@@ -14378,10 +14405,10 @@
       "contact_details": [
         {
           "type": "email",
-          "value": "tmirubelela@parliament.gov.za"
+          "value": "tmarubelela@parliament.gov.za"
         }
       ],
-      "email": "tmirubelela@parliament.gov.za",
+      "email": "tmarubelela@parliament.gov.za",
       "honorific_prefix": "Ms",
       "id": "fc1428ac-abba-4042-a380-f3aa24940efe",
       "identifiers": [
@@ -14897,6 +14924,29 @@
       "sources": [
         {
           "url": "http://www.pa.org.za/person/seropane-senyane-alton-mphethi/"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "sbuthelezi@parliament.gov.za"
+        }
+      ],
+      "email": "sbuthelezi@parliament.gov.za",
+      "honorific_prefix": "Mr",
+      "id": "39c2e312-a983-4499-9463-75b1644ae2ab",
+      "image": "http://www.pa.org.za/media_root/cache/77/59/7759b97d1212b70fa5e849758f3d83ea.jpg",
+      "images": [
+        {
+          "url": "http://www.pa.org.za/media_root/cache/77/59/7759b97d1212b70fa5e849758f3d83ea.jpg"
+        }
+      ],
+      "name": "Sfiso Norbert Buthelezi",
+      "sources": [
+        {
+          "url": "http://www.pa.org.za/person/sfiso-norbert-buthelezi/"
         }
       ]
     },
@@ -16356,10 +16406,10 @@
       "contact_details": [
         {
           "type": "email",
-          "value": "dsa@saol.com"
+          "value": "scopa@saol.com"
         }
       ],
-      "email": "dsa@saol.com",
+      "email": "scopa@saol.com",
       "gender": "male",
       "honorific_prefix": "Mr",
       "id": "0bae3a19-06ea-4be7-a4a1-137388ea3eeb",
@@ -18203,6 +18253,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "hy",
+          "name": "Աֆրիկյան ազգային կոնգրես",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "ANC",
           "note": "multilingual"
@@ -19991,6 +20046,13 @@
       "on_behalf_of_id": "DA",
       "organization_id": "legislature",
       "person_id": "397d5eaa-9ea6-4b8d-82a6-9e34341f405b",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/26",
+      "on_behalf_of_id": "ANC",
+      "organization_id": "legislature",
+      "person_id": "39c2e312-a983-4499-9463-75b1644ae2ab",
       "role": "member"
     },
     {
