@@ -11039,6 +11039,27 @@
       "contact_details": [
         {
           "type": "phone",
+          "value": "0300-3660155,0310-2107938"
+        }
+      ],
+      "id": "64a62309-3689-463e-85a0-c0ff82922dcd",
+      "image": "http://www.na.gov.pk/uploads/images/New%20sMNA%20s245.jpg",
+      "images": [
+        {
+          "url": "http://www.na.gov.pk/uploads/images/New%20sMNA%20s245.jpg"
+        }
+      ],
+      "name": "Muhammad Kamal Malik",
+      "sources": [
+        {
+          "url": "http://www.na.gov.pk/en/profile.php?uid=1052"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "phone",
           "value": "0300-8444499"
         }
       ],
@@ -22239,6 +22260,15 @@
       "start_date": "2014-05-12"
     },
     {
+      "area_id": "area/na-245_(karachi-vii)",
+      "legislative_period_id": "term/14",
+      "on_behalf_of_id": "mqm",
+      "organization_id": "legislature",
+      "person_id": "64a62309-3689-463e-85a0-c0ff82922dcd",
+      "role": "member",
+      "start_date": "2016-05-09"
+    },
+    {
       "area_id": "area/na-49_(islamabad-ii)",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -22641,7 +22671,8 @@
       "on_behalf_of_id": "pmln",
       "organization_id": "legislature",
       "person_id": "8e6536f2-890d-495c-bc71-3639ddda2cbe",
-      "role": "member"
+      "role": "member",
+      "start_date": "2016-05-09"
     },
     {
       "area_id": "area/na-143_(okara-i)",
