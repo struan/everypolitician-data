@@ -2347,7 +2347,65 @@
     {
       "id": "Q10655178",
       "label": "Member of the Riksdag",
-      "title": "Member of the Riksdag"
+      "title": "Member of the Riksdag",
+      "qualifiers": {
+        "P580": "2006"
+      }
+    },
+    {
+      "id": "Q4018482",
+      "label": "education minister",
+      "title": "education minister",
+      "qualifiers": {
+        "P580": "2007-09-07",
+        "P582": "2014-10-03"
+      }
+    },
+    {
+      "id": "Q877955",
+      "label": "deputy prime minister",
+      "title": "deputy prime minister",
+      "qualifiers": {
+        "P580": "2010-10-05",
+        "P582": "2014-10-03"
+      }
+    },
+    {
+      "id": "Q1553195",
+      "label": "party leader",
+      "title": "party leader",
+      "qualifiers": {
+        "P102": "Liberal People's Party",
+        "P580": "2007-09-07"
+      }
+    },
+    {
+      "id": "Q10670469",
+      "label": "Minister of Education",
+      "title": "Minister of Education",
+      "qualifiers": {
+        "P580": "2006",
+        "P582": "2007-09-07"
+      }
+    },
+    {
+      "id": "Q3154693",
+      "label": "city council",
+      "title": "city council",
+      "qualifiers": {
+        "P131": "Stockholm Municipality",
+        "P580": "1994",
+        "P582": "2006"
+      }
+    },
+    {
+      "id": "Q24040621",
+      "label": "Q24040621",
+      "title": "Q24040621",
+      "qualifiers": {
+        "P580": "2002",
+        "P582": "2006"
+      }
     }
   ],
   "Q4609816": [
@@ -6051,8 +6109,8 @@
     },
     {
       "id": "Q24039887",
-      "label": "Q24039887",
-      "title": "Q24039887",
+      "label": "City Commissioner for Finance",
+      "title": "City Commissioner for Finance",
       "qualifiers": {
         "P580": "2008-04-28",
         "P582": "2014-10-20",
