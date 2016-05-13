@@ -595,6 +595,13 @@
     },
     {
       "birth_date": "1952-01-08",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "AlexMaskeyMLA"
+        }
+      ],
+      "family_name": "Maskey",
       "gender": "male",
       "given_name": "Alex",
       "id": "416ad2eb-10fb-4e0c-9c12-7013af005218",
@@ -602,6 +609,18 @@
         {
           "identifier": "13816",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "1586834",
+          "scheme": "fast"
+        },
+        {
+          "identifier": "0000 0000 5316 5598",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "nr2004002503",
+          "scheme": "lcauth"
         },
         {
           "identifier": "41788422",
@@ -630,6 +649,10 @@
         {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Мэски,_Алекс"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/AlexMaskeyMLA"
         }
       ],
       "name": "Alex Maskey",
@@ -650,7 +673,22 @@
           "note": "multilingual"
         },
         {
+          "lang": "fi",
+          "name": "Alex Maskey",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fit",
+          "name": "Alex Maskey",
+          "note": "multilingual"
+        },
+        {
           "lang": "fr",
+          "name": "Alex Maskey",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
           "name": "Alex Maskey",
           "note": "multilingual"
         },
@@ -662,6 +700,11 @@
         {
           "lang": "ru",
           "name": "Мэски, Алекс",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Alex Maskey",
           "note": "multilingual"
         }
       ]
@@ -1603,6 +1646,12 @@
         {
           "identifier": "Q4960688",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Brendahale.jpeg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Brendahale.jpeg"
         }
       ],
       "links": [
@@ -5266,6 +5315,12 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Emmalittlepengellyimage.jpeg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Emmalittlepengellyimage.jpeg"
+        }
+      ],
       "links": [
         {
           "note": "Wikipedia (en)",
@@ -8765,6 +8820,12 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Jimmy_Spratt,_MLA.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Jimmy_Spratt,_MLA.jpg"
+        }
+      ],
       "links": [
         {
           "note": "Wikipedia (en)",
@@ -8817,6 +8878,12 @@
         {
           "identifier": "Q6203978",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Joannedobson.jpeg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Joannedobson.jpeg"
         }
       ],
       "links": [
@@ -15601,6 +15668,12 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Robnewt.png",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Robnewt.png"
+        }
+      ],
       "links": [
         {
           "note": "Wikipedia (en)",
@@ -16193,6 +16266,12 @@
         {
           "identifier": "Q7416726",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Sandraoverend.jpeg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Sandraoverend.jpeg"
         }
       ],
       "links": [
@@ -17337,6 +17416,12 @@
         {
           "identifier": "Q7815715",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/38/Tomelliott.jpeg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Tomelliott.jpeg"
         }
       ],
       "links": [
