@@ -104,7 +104,26 @@
     },
     {
       "id": "bdb3a845-dbd3-4b0f-b0da-50c408e41c1b",
-      "name": "Alan Chambers"
+      "identifiers": [
+        {
+          "identifier": "Q24052783",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Alan_Chambers_(Northern_Ireland_politician)"
+        }
+      ],
+      "name": "Alan Chambers",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Alan Chambers",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1949-08-09",
@@ -595,6 +614,13 @@
     },
     {
       "birth_date": "1952-01-08",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "AlexMaskeyMLA"
+        }
+      ],
+      "family_name": "Maskey",
       "gender": "male",
       "given_name": "Alex",
       "id": "416ad2eb-10fb-4e0c-9c12-7013af005218",
@@ -602,6 +628,18 @@
         {
           "identifier": "13816",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "1586834",
+          "scheme": "fast"
+        },
+        {
+          "identifier": "0000 0000 5316 5598",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "nr2004002503",
+          "scheme": "lcauth"
         },
         {
           "identifier": "41788422",
@@ -630,6 +668,10 @@
         {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Мэски,_Алекс"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/AlexMaskeyMLA"
         }
       ],
       "name": "Alex Maskey",
@@ -650,7 +692,22 @@
           "note": "multilingual"
         },
         {
+          "lang": "fi",
+          "name": "Alex Maskey",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fit",
+          "name": "Alex Maskey",
+          "note": "multilingual"
+        },
+        {
           "lang": "fr",
+          "name": "Alex Maskey",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
           "name": "Alex Maskey",
           "note": "multilingual"
         },
@@ -662,6 +719,11 @@
         {
           "lang": "ru",
           "name": "Мэски, Алекс",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Alex Maskey",
           "note": "multilingual"
         }
       ]
@@ -1605,6 +1667,12 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Brendahale.jpeg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Brendahale.jpeg"
+        }
+      ],
       "links": [
         {
           "note": "Wikipedia (en)",
@@ -1904,11 +1972,49 @@
     },
     {
       "id": "842ba138-726d-43c2-80a7-5c9af1d4f1ae",
-      "name": "Caoimhe Archibald"
+      "identifiers": [
+        {
+          "identifier": "Q24052784",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Caoimhe_Archibald"
+        }
+      ],
+      "name": "Caoimhe Archibald",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Caoimhe Archibald",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "16156825-5fdd-4670-a3d3-631155804064",
-      "name": "Carla Lockhart"
+      "identifiers": [
+        {
+          "identifier": "Q24052782",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Carla_Lockhart"
+        }
+      ],
+      "name": "Carla Lockhart",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Carla Lockhart",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1946-03-26",
@@ -2173,7 +2279,26 @@
     },
     {
       "id": "8e5d1da7-3f03-4725-80c4-1d5fdf1e1eff",
-      "name": "Catherine Seeley"
+      "identifiers": [
+        {
+          "identifier": "Q24052781",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Catherine_Seeley"
+        }
+      ],
+      "name": "Catherine Seeley",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Catherine Seeley",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1948-06-06",
@@ -2352,7 +2477,26 @@
     },
     {
       "id": "5b783951-2f65-453e-81c3-508d3e32449d",
-      "name": "Christopher Stalford"
+      "identifiers": [
+        {
+          "identifier": "Q24052778",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Christopher_Stalford"
+        }
+      ],
+      "name": "Christopher Stalford",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Christopher Stalford",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1980-06-19",
@@ -2501,7 +2645,26 @@
     },
     {
       "id": "acb3c417-49a5-4b3a-a30f-0a0727d2eeec",
-      "name": "Clare Bailey"
+      "identifiers": [
+        {
+          "identifier": "Q24052779",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Clare_Bailey"
+        }
+      ],
+      "name": "Clare Bailey",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Clare Bailey",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "c18be940-4edb-421a-a977-f15dc5ba736e",
@@ -4257,7 +4420,26 @@
     },
     {
       "id": "6460f296-8470-4c2a-ac33-6765a7cd515c",
-      "name": "Declan Kearney"
+      "identifiers": [
+        {
+          "identifier": "Q24052777",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Declan_Kearney"
+        }
+      ],
+      "name": "Declan Kearney",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Declan Kearney",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1973-07-10",
@@ -4902,8 +5084,33 @@
       ]
     },
     {
+      "gender": "male",
+      "given_name": "Doug",
       "id": "c837d1e3-06c7-4e68-bf1f-aeaf15cbcca7",
-      "name": "Doug Beattie"
+      "identifiers": [
+        {
+          "identifier": "Q20675966",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Doug_Beattie"
+        }
+      ],
+      "name": "Doug Beattie",
+      "other_names": [
+        {
+          "name": "Doug Beattie, British Army Officer",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Doug Beattie, British Army Officer",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1970-11-07",
@@ -5264,6 +5471,12 @@
         {
           "identifier": "Q21234823",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Emmalittlepengellyimage.jpeg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Emmalittlepengellyimage.jpeg"
         }
       ],
       "links": [
@@ -6704,8 +6917,54 @@
       ]
     },
     {
+      "birth_date": "1987-04-27",
+      "gender": "male",
+      "given_name": "Gerry",
       "id": "4d69cd9f-7781-4f15-a48b-f580e627e5a7",
-      "name": "Gerry Carroll"
+      "identifiers": [
+        {
+          "identifier": "Q20979152",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Gerry_Carroll"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Gerry_Carroll_(politician)"
+        }
+      ],
+      "name": "Gerry Carroll",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Gerry Carroll",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Gerry Carroll",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Gerry Carroll",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Gerry Carroll",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Gerry Carroll",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1953-04-05",
@@ -8765,6 +9024,12 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Jimmy_Spratt,_MLA.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Jimmy_Spratt,_MLA.jpg"
+        }
+      ],
       "links": [
         {
           "note": "Wikipedia (en)",
@@ -8817,6 +9082,12 @@
         {
           "identifier": "Q6203978",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Joannedobson.jpeg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Joannedobson.jpeg"
         }
       ],
       "links": [
@@ -8907,7 +9178,26 @@
     },
     {
       "id": "a6438492-e99f-4c97-b407-0be52328ca4f",
-      "name": "Joanne Bunting"
+      "identifiers": [
+        {
+          "identifier": "Q24052786",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Joanne_Bunting"
+        }
+      ],
+      "name": "Joanne Bunting",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Joanne Bunting",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1953-11-29",
@@ -10276,8 +10566,39 @@
       ]
     },
     {
+      "gender": "male",
+      "given_name": "Justin",
       "id": "a3af3cc9-67e1-49cd-ab67-7d1c408f9fdf",
-      "name": "Justin McNulty"
+      "identifiers": [
+        {
+          "identifier": "Q6317891",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Justin_McNulty"
+        }
+      ],
+      "name": "Justin McNulty",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Justin McNulty",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Justin McNulty",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Justin McNulty",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1971-07-09",
@@ -10410,7 +10731,26 @@
     },
     {
       "id": "fd6c3aec-216a-4bea-98b4-742f76fe2223",
-      "name": "Kellie Armstrong"
+      "identifiers": [
+        {
+          "identifier": "Q24052787",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Kellie_Armstrong"
+        }
+      ],
+      "name": "Kellie Armstrong",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Kellie Armstrong",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1942",
@@ -13232,8 +13572,44 @@
       ]
     },
     {
+      "birth_date": "1979",
+      "gender": "female",
       "id": "4a5001ab-99f1-4725-8f9f-8c9a073012de",
-      "name": "Nichola Mallon"
+      "identifiers": [
+        {
+          "identifier": "Q17306227",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Nichola_Mallon"
+        }
+      ],
+      "name": "Nichola Mallon",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Nichola Mallon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Nichola Mallon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Nichola Mallon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Nichola Mallon",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1958-08-20",
@@ -14730,7 +15106,26 @@
     },
     {
       "id": "968f7537-1db9-4047-9a72-3ca030491a88",
-      "name": "Paula Bradshaw"
+      "identifiers": [
+        {
+          "identifier": "Q24052780",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Paula_Bradshaw"
+        }
+      ],
+      "name": "Paula Bradshaw",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Paula Bradshaw",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "female",
@@ -15601,6 +15996,12 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Robnewt.png",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Robnewt.png"
+        }
+      ],
       "links": [
         {
           "note": "Wikipedia (en)",
@@ -15808,7 +16209,26 @@
     },
     {
       "id": "ef8a2199-98b6-41da-a5db-6af54f6d7eb9",
-      "name": "Rosemary Barton"
+      "identifiers": [
+        {
+          "identifier": "Q24052788",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Rosemary_Barton_(politician)"
+        }
+      ],
+      "name": "Rosemary Barton",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Rosemary Barton",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1959-02-25",
@@ -16193,6 +16613,12 @@
         {
           "identifier": "Q7416726",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Sandraoverend.jpeg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Sandraoverend.jpeg"
         }
       ],
       "links": [
@@ -16838,7 +17264,26 @@
     },
     {
       "id": "8eb5afd9-f2b3-4686-9fc7-2ce2966df15c",
-      "name": "Steve Aiken"
+      "identifiers": [
+        {
+          "identifier": "Q24052789",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Steve_Aiken"
+        }
+      ],
+      "name": "Steve Aiken",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Steve Aiken",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1979-10-12",
@@ -17337,6 +17782,12 @@
         {
           "identifier": "Q7815715",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/38/Tomelliott.jpeg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Tomelliott.jpeg"
         }
       ],
       "links": [
