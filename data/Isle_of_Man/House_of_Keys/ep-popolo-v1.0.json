@@ -392,6 +392,16 @@
       ]
     },
     {
+      "id": "24286645-3760-4529-adc6-a74976de606a",
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Christopher_Thomas"
+        }
+      ],
+      "name": "Christopher Thomas"
+    },
+    {
       "birth_date": "1954-02-06",
       "gender": "male",
       "given_name": "David",
@@ -450,6 +460,10 @@
           "note": "multilingual"
         }
       ]
+    },
+    {
+      "id": "d63084cf-1b4c-45a4-b049-09edd4befd74",
+      "name": "David Anderson"
     },
     {
       "birth_date": "1953-03-17",
@@ -872,6 +886,10 @@
           "url": "http://www.tynwald.org.im/memoff/member/Pages/ShimminJP.aspx"
         }
       ]
+    },
+    {
+      "id": "2772c913-226a-40e8-a3a2-fc14d413d9c9",
+      "name": "Jonathan Joughin"
     },
     {
       "birth_date": "1980-07-04",
@@ -1354,6 +1372,10 @@
           "url": "http://www.tynwald.org.im/memoff/member/Pages/PEAKEGR.aspx"
         }
       ]
+    },
+    {
+      "id": "833668d6-4aaf-4f9c-83d7-0939a18fb5ca",
+      "name": "Ray Harmer"
     },
     {
       "birth_date": "1963-05-16",
@@ -2277,11 +2299,27 @@
       "role": "member"
     },
     {
+      "area_id": "area/douglas_west",
+      "legislative_period_id": "term/2011",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "24286645-3760-4529-adc6-a74976de606a",
+      "role": "member"
+    },
+    {
       "area_id": "area/ramsey",
       "legislative_period_id": "term/2011",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "2555bb98-9e10-451d-8b5d-86c2ca2b43f3",
+      "role": "member"
+    },
+    {
+      "area_id": "area/douglas_east",
+      "legislative_period_id": "term/2011",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "2772c913-226a-40e8-a3a2-fc14d413d9c9",
       "role": "member"
     },
     {
@@ -2349,6 +2387,14 @@
       "role": "member"
     },
     {
+      "area_id": "area/peel",
+      "legislative_period_id": "term/2011",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "833668d6-4aaf-4f9c-83d7-0939a18fb5ca",
+      "role": "member"
+    },
+    {
       "area_id": "area/malew_and_santon",
       "legislative_period_id": "term/2011",
       "on_behalf_of_id": "party/independent",
@@ -2386,6 +2432,14 @@
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "c6d90d22-2511-4c36-8361-7366fe881c01",
+      "role": "member"
+    },
+    {
+      "area_id": "area/glenfaba",
+      "legislative_period_id": "term/2011",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "d63084cf-1b4c-45a4-b049-09edd4befd74",
       "role": "member"
     },
     {
