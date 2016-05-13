@@ -82,8 +82,64 @@
       ]
     },
     {
+      "gender": "male",
+      "given_name": "Adam",
       "id": "2ca0b963-d5ec-401f-bb00-e098d80caf10",
-      "name": "Adam Tomkins"
+      "identifiers": [
+        {
+          "identifier": "125362316",
+          "scheme": "bnf"
+        },
+        {
+          "identifier": "0000 0000 5511 2078",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "214203158",
+          "scheme": "nta"
+        },
+        {
+          "identifier": "034625984",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "12418225",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q4679900",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Adam_Tomkins"
+        }
+      ],
+      "name": "Adam Tomkins",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Adam Tomkins",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Adam Tomkins",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Adam Tomkins",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Adam Tomkins",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1980-05-18",
@@ -440,8 +496,37 @@
       ]
     },
     {
+      "gender": "male",
       "id": "57fed160-66a8-4daa-a9fc-0322b40ee898",
-      "name": "Alex Cole-Hamilton"
+      "identifiers": [
+        {
+          "identifier": "Q24045406",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Alex_Cole-Hamilton"
+        },
+        {
+          "note": "Wikipedia (gd)",
+          "url": "https://gd.wikipedia.org/wiki/Alex_Cole-Hamilton"
+        }
+      ],
+      "name": "Alex Cole-Hamilton",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Alex Cole-Hamilton",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Alex Cole-Hamilton",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1949-04-08",
@@ -1262,16 +1347,75 @@
       ]
     },
     {
+      "gender": "male",
       "id": "7fc87b06-dfdd-4f5d-a0e3-056fe0506167",
-      "name": "Alexander Burnett"
+      "identifiers": [
+        {
+          "identifier": "Q24034422",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Alexander_Burnett_(politician)"
+        }
+      ],
+      "name": "Alexander Burnett",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Alexander Burnett",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "c5551922-dbd1-4804-b58d-7a546e84576a",
-      "name": "Alexander Stewart"
+      "identifiers": [
+        {
+          "identifier": "Q24052680",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Alexander_Stewart_(MSP)"
+        }
+      ],
+      "name": "Alexander Stewart",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Alexander Stewart",
+          "note": "multilingual"
+        }
+      ]
     },
     {
+      "gender": "female",
       "id": "16e2407b-c800-43b9-a994-fb32c34644a6",
-      "name": "Alison Harris"
+      "identifiers": [
+        {
+          "identifier": "Q24039903",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Alison_Harris"
+        }
+      ],
+      "name": "Alison Harris",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Alison Harris",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1965-10-11",
@@ -1486,14 +1630,90 @@
       ]
     },
     {
+      "birth_date": "1983-03-14",
+      "gender": "male",
+      "given_name": "Anas",
       "id": "764119b3-e498-4e4a-b72b-f801c0eaab5b",
       "identifiers": [
         {
           "identifier": "3981",
           "scheme": "datadotparl"
+        },
+        {
+          "identifier": "anas_sarwar",
+          "scheme": "publicwhip"
+        },
+        {
+          "identifier": "anas_sarwar",
+          "scheme": "twfy"
+        },
+        {
+          "identifier": "Q478812",
+          "scheme": "wikidata"
         }
       ],
-      "name": "Anas Sarwar"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/AnasSarwarMP-crop.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/AnasSarwarMP-crop.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Anas_Sarwar"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Anas_Sarwar"
+        },
+        {
+          "note": "Wikipedia (mg)",
+          "url": "https://mg.wikipedia.org/wiki/Anas_Sarwar"
+        },
+        {
+          "note": "website",
+          "url": "http://www.anassarwar.org"
+        }
+      ],
+      "name": "Anas Sarwar",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Anas Sarwar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Anas Sarwar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Anas Sarwar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Anas Sarwar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Anas Sarwar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mg",
+          "name": "Anas Sarwar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Anas Sarwar",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1944-04-12",
@@ -1760,8 +1980,45 @@
       ]
     },
     {
+      "gender": "male",
+      "given_name": "Andy",
       "id": "1079c664-6e1b-4d2c-8b02-1f2106f1d160",
-      "name": "Andy Wightman"
+      "identifiers": [
+        {
+          "identifier": "1021904554",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "0000 0000 4619 0584",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "no97077276",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "34067761",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q19667404",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Andy_Wightman"
+        }
+      ],
+      "name": "Andy Wightman",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Andy Wightman",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1970-07-15",
@@ -2341,11 +2598,49 @@
     },
     {
       "id": "88be7c68-18b0-4a55-b6fb-8f7aae9242f0",
-      "name": "Annie Wells"
+      "identifiers": [
+        {
+          "identifier": "Q24052671",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Annie_Wells_(politician)"
+        }
+      ],
+      "name": "Annie Wells",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Annie Wells",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "9af503f6-1850-4f3d-99b0-2cb955e431ac",
-      "name": "Ash Denham"
+      "identifiers": [
+        {
+          "identifier": "Q24052667",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ash_Denham"
+        }
+      ],
+      "name": "Ash Denham",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Ash Denham",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1940-02-12",
@@ -2413,7 +2708,26 @@
     },
     {
       "id": "c727fbd9-3e5b-4677-b74b-868994a54947",
-      "name": "Ben Macpherson"
+      "identifiers": [
+        {
+          "identifier": "Q24052665",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ben_Macpherson_(politician)"
+        }
+      ],
+      "name": "Ben Macpherson",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Ben Macpherson",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1970-05-15",
@@ -3214,8 +3528,100 @@
       ]
     },
     {
+      "birth_date": "1964-04-26",
+      "gender": "male",
+      "given_name": "Brian",
       "id": "48e0fb7f-5a5f-4c75-85f9-015bed1891ba",
-      "name": "Brian Whittle"
+      "identifiers": [
+        {
+          "identifier": "/m/0crf185",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "3106",
+          "scheme": "iiaf"
+        },
+        {
+          "identifier": "Q514743",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Brian_Whittle"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Brian_Whittle"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Brian_Whittle"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Brian_Whittle"
+        }
+      ],
+      "name": "Brian Whittle",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Brian Whittle",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Brian Whittle",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Brian Whittle",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Brian Whittle",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Brian Whittle",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Brian Whittle",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Brian Whittle",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Brian Whittle",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Brian Whittle",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Brian Whittle",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Brian Whittle",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1964-03-19",
@@ -4667,8 +5073,28 @@
       ]
     },
     {
+      "gender": "female",
       "id": "d6bfedb2-1c84-464c-9053-d61a6e938210",
-      "name": "Clare Haughey"
+      "identifiers": [
+        {
+          "identifier": "Q24025938",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Clare_Haughey"
+        }
+      ],
+      "name": "Clare Haughey",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Clare Haughey",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "4bae600b-3cbc-458a-9b3b-02f2f0e04c64",
@@ -5086,12 +5512,51 @@
       ]
     },
     {
+      "gender": "male",
       "id": "114ccf84-6453-44a7-8ac3-b1a57271291c",
-      "name": "Colin Smyth"
+      "identifiers": [
+        {
+          "identifier": "Q24036539",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Colin_Smyth"
+        }
+      ],
+      "name": "Colin Smyth",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Colin Smyth",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "cc7bf3a8-e733-4764-abe3-914693d2eed5",
-      "name": "Daniel Johnson"
+      "identifiers": [
+        {
+          "identifier": "Q24052669",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Daniel_Johnson_(politician)"
+        }
+      ],
+      "name": "Daniel Johnson",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Daniel Johnson",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1946-12-10",
@@ -5785,7 +6250,26 @@
     },
     {
       "id": "ff10e1c4-ee3a-43eb-a136-a07a9af9c701",
-      "name": "Dean Lockhart"
+      "identifiers": [
+        {
+          "identifier": "Q24052679",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Dean_Lockhart"
+        }
+      ],
+      "name": "Dean Lockhart",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Dean Lockhart",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1942-08-08",
@@ -6145,7 +6629,26 @@
     },
     {
       "id": "ca00e8c6-93f1-4fef-b8a3-81f05e4dc13c",
-      "name": "Donald Cameron"
+      "identifiers": [
+        {
+          "identifier": "Q24052673",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Donald_Cameron_(Scottish_politician)"
+        }
+      ],
+      "name": "Donald Cameron",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Donald Cameron",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1937-08-21",
@@ -6571,8 +7074,28 @@
       ]
     },
     {
+      "gender": "male",
       "id": "a82f486e-40db-4df7-b554-f7de18b26b6a",
-      "name": "Douglas Ross"
+      "identifiers": [
+        {
+          "identifier": "Q24039769",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Douglas_Ross_(Scottish_politician)"
+        }
+      ],
+      "name": "Douglas Ross",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Douglas Ross",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "family_name": "Smith",
@@ -6833,8 +7356,28 @@
       ]
     },
     {
+      "gender": "male",
       "id": "ce6317a5-55c6-4b8f-a218-755467a84cd7",
-      "name": "Edward Mountain"
+      "identifiers": [
+        {
+          "identifier": "Q24039768",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Edward_Mountain_(politician)"
+        }
+      ],
+      "name": "Edward Mountain",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Edward Mountain",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1954-12-22",
@@ -7199,8 +7742,28 @@
       ]
     },
     {
+      "gender": "female",
       "id": "22b5768b-7b8b-4e3f-b896-d7c7ae47521c",
-      "name": "Emma Harper"
+      "identifiers": [
+        {
+          "identifier": "Q24034416",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Emma_Harper"
+        }
+      ],
+      "name": "Emma Harper",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Emma Harper",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1954-02-17",
@@ -7355,8 +7918,28 @@
       ]
     },
     {
+      "gender": "male",
       "id": "3285071d-0bba-420d-8173-a521386a60f9",
-      "name": "Finlay Carson"
+      "identifiers": [
+        {
+          "identifier": "Q24034357",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Finlay_Carson"
+        }
+      ],
+      "name": "Finlay Carson",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Finlay Carson",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1964-08-01",
@@ -7709,11 +8292,50 @@
     },
     {
       "id": "f09fe6a3-9acd-443f-94d1-4ca629bb8895",
-      "name": "Fulton MacGregor"
+      "identifiers": [
+        {
+          "identifier": "Q24052668",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Fulton_MacGregor"
+        }
+      ],
+      "name": "Fulton MacGregor",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Fulton MacGregor",
+          "note": "multilingual"
+        }
+      ]
     },
     {
+      "gender": "female",
       "id": "f7b75aa6-aeda-4cbd-b6ae-746a49fcdb68",
-      "name": "Gail Ross"
+      "identifiers": [
+        {
+          "identifier": "Q23982037",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Gail_Ross"
+        }
+      ],
+      "name": "Gail Ross",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Gail Ross",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1975-06-04",
@@ -8165,8 +8787,28 @@
       ]
     },
     {
+      "gender": "female",
       "id": "7993467b-bf8e-4bfe-a3c9-42cdd4770f51",
-      "name": "Gillian Martin"
+      "identifiers": [
+        {
+          "identifier": "Q24014282",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Gillian_Martin"
+        }
+      ],
+      "name": "Gillian Martin",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Gillian Martin",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1948-08-05",
@@ -8244,8 +8886,28 @@
       ]
     },
     {
+      "gender": "male",
       "id": "725cf566-26ca-492a-8880-d455cab6a9b8",
-      "name": "Gordon Lindhurst"
+      "identifiers": [
+        {
+          "identifier": "Q24034371",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Gordon_Lindhurst"
+        }
+      ],
+      "name": "Gordon Lindhurst",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Gordon Lindhurst",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1960-01-02",
@@ -8452,8 +9114,28 @@
       ]
     },
     {
+      "gender": "male",
       "id": "6465d8c8-9d25-482e-ac4f-471e7abbed06",
-      "name": "Graham Simpson"
+      "identifiers": [
+        {
+          "identifier": "Q24039900",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Graham_Simpson_(Scottish_politician)"
+        }
+      ],
+      "name": "Graham Simpson",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Graham Simpson",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1956-11-26",
@@ -9535,7 +10217,26 @@
     },
     {
       "id": "d25820f4-bacf-4f6e-8193-9153c82c08fb",
-      "name": "Ivan McKee"
+      "identifiers": [
+        {
+          "identifier": "Q24052670",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ivan_McKee"
+        }
+      ],
+      "name": "Ivan McKee",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Ivan McKee",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1960-06-30",
@@ -10026,8 +10727,28 @@
       ]
     },
     {
+      "gender": "female",
       "id": "fd6c2fca-54ac-4a63-90e2-f56b74033737",
-      "name": "Jamie Greene"
+      "identifiers": [
+        {
+          "identifier": "Q24039791",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Jamie_Greene"
+        }
+      ],
+      "name": "Jamie Greene",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Jamie Greene",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1979-05-21",
@@ -10477,12 +11198,62 @@
       ]
     },
     {
+      "gender": "female",
       "id": "c03f5e1d-3b77-4358-b595-eceb462f96f9",
-      "name": "Jeane Freeman"
+      "identifiers": [
+        {
+          "identifier": "Q16250806",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Jeane_Freeman"
+        }
+      ],
+      "name": "Jeane Freeman",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Jeane Freeman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Jeane Freeman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Jeane Freeman",
+          "note": "multilingual"
+        }
+      ]
     },
     {
+      "gender": "female",
       "id": "4c31a72f-4dab-458e-8963-f7f5b7f93b49",
-      "name": "Jenny Gilruth"
+      "identifiers": [
+        {
+          "identifier": "Q24026044",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Jenny_Gilruth"
+        }
+      ],
+      "name": "Jenny Gilruth",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Jenny Gilruth",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1977-11-06",
@@ -10551,7 +11322,26 @@
     },
     {
       "id": "92236e8c-1819-4e31-9004-a88b3da2065d",
-      "name": "Jeremy Balfour"
+      "identifiers": [
+        {
+          "identifier": "Q24052677",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Jeremy_Balfour"
+        }
+      ],
+      "name": "Jeremy Balfour",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Jeremy Balfour",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1974-01-15",
@@ -12566,7 +13356,26 @@
     },
     {
       "id": "671519f2-e977-4320-865a-15440802450d",
-      "name": "Kate Forbes"
+      "identifiers": [
+        {
+          "identifier": "Q24039479",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Kate_Forbes"
+        }
+      ],
+      "name": "Kate Forbes",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Kate Forbes",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1958-02-16",
@@ -13502,7 +14311,26 @@
     },
     {
       "id": "7584943f-49bd-43a6-9370-6f5c99879f3b",
-      "name": "Liam Kerr"
+      "identifiers": [
+        {
+          "identifier": "Q24052676",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Liam_Kerr"
+        }
+      ],
+      "name": "Liam Kerr",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Liam Kerr",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1967-08-08",
@@ -14219,8 +15047,28 @@
       ]
     },
     {
+      "gender": "female",
       "id": "ae4372c0-e866-4291-a3e6-90954facc361",
-      "name": "Mairi Evans"
+      "identifiers": [
+        {
+          "identifier": "Q24014894",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Mairi_Evans"
+        }
+      ],
+      "name": "Mairi Evans",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Mairi Evans",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1949-03-07",
@@ -14357,8 +15205,28 @@
       ]
     },
     {
+      "gender": "female",
       "id": "7c980635-6489-4ec5-87ff-d953c9cc3b6f",
-      "name": "Maree Todd"
+      "identifiers": [
+        {
+          "identifier": "Q24034387",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Maree_Todd"
+        }
+      ],
+      "name": "Maree Todd",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Maree Todd",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1949-12-07",
@@ -15955,12 +16823,52 @@
       ]
     },
     {
+      "gender": "male",
       "id": "87a0e641-8cbd-47de-a898-ceb3372bbfc4",
-      "name": "Maurice Corry"
+      "identifiers": [
+        {
+          "identifier": "Q24039805",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Maurice_Corry"
+        }
+      ],
+      "name": "Maurice Corry",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Maurice Corry",
+          "note": "multilingual"
+        }
+      ]
     },
     {
+      "gender": "male",
       "id": "37e3bcfd-4659-4220-9ec4-6b40433aa5e7",
-      "name": "Maurice Golden"
+      "identifiers": [
+        {
+          "identifier": "Q24039803",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Maurice_Golden"
+        }
+      ],
+      "name": "Maurice Golden",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Maurice Golden",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1970-09-08",
@@ -16529,11 +17437,50 @@
     },
     {
       "id": "82d9cf13-9af7-418d-85ec-5b3892c1aba8",
-      "name": "Miles Briggs"
+      "identifiers": [
+        {
+          "identifier": "Q24052672",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Miles_Briggs"
+        }
+      ],
+      "name": "Miles Briggs",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Miles Briggs",
+          "note": "multilingual"
+        }
+      ]
     },
     {
+      "gender": "female",
       "id": "d9c6dde7-f2be-4dca-a645-0f4f1d02d526",
-      "name": "Monica Lennon"
+      "identifiers": [
+        {
+          "identifier": "Q24039899",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Monica_Lennon"
+        }
+      ],
+      "name": "Monica Lennon",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Monica Lennon",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1965-09-05",
@@ -17665,8 +18612,28 @@
       ]
     },
     {
+      "gender": "male",
       "id": "9fc5eb84-4ab7-4900-8ae1-c5a865f4ee7a",
-      "name": "Oliver Mundell"
+      "identifiers": [
+        {
+          "identifier": "Q24034308",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Oliver_Mundell"
+        }
+      ],
+      "name": "Oliver Mundell",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Oliver Mundell",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1958-09-24",
@@ -18075,7 +19042,26 @@
     },
     {
       "id": "2e3e2ca1-d04f-4472-80f9-af59eed27f3d",
-      "name": "Peter Chapman"
+      "identifiers": [
+        {
+          "identifier": "Q24052675",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Peter_Chapman_(politician)"
+        }
+      ],
+      "name": "Peter Chapman",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Peter Chapman",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1952-05-27",
@@ -18246,8 +19232,28 @@
       ]
     },
     {
+      "gender": "female",
       "id": "20bc766a-d3d5-4208-8cec-55de0364e95a",
-      "name": "Rachael Hamilton"
+      "identifiers": [
+        {
+          "identifier": "Q24034267",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Rachael_Hamilton"
+        }
+      ],
+      "name": "Rachael Hamilton",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Rachael Hamilton",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1963-06-26",
@@ -18516,8 +19522,28 @@
       ]
     },
     {
+      "gender": "female",
       "id": "9236de2f-301a-46c8-856d-56fccef1b78a",
-      "name": "Richard Leonard"
+      "identifiers": [
+        {
+          "identifier": "Q24039896",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Richard_Leonard_(Scottish_politician)"
+        }
+      ],
+      "name": "Richard Leonard",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Richard Leonard",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1969-05-24",
@@ -19049,8 +20075,28 @@
       ]
     },
     {
+      "gender": "female",
       "id": "fde159e6-c4b1-442c-b2fc-5d35a188104c",
-      "name": "Rona Mackay"
+      "identifiers": [
+        {
+          "identifier": "Q24039795",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Rona_Mackay"
+        }
+      ],
+      "name": "Rona Mackay",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Rona Mackay",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1951-07-27",
@@ -19396,12 +20442,56 @@
       ]
     },
     {
+      "gender": "male",
       "id": "fe847ffa-25fc-433d-b1d5-3d9cdc480dd4",
-      "name": "Ross Greer"
+      "identifiers": [
+        {
+          "identifier": "Q24034374",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ross_Greer_(politician)"
+        },
+        {
+          "note": "Wikipedia (gd)",
+          "url": "https://gd.wikipedia.org/wiki/Ross_Greer"
+        }
+      ],
+      "name": "Ross Greer",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Ross Greer",
+          "note": "multilingual"
+        }
+      ]
     },
     {
+      "gender": "male",
       "id": "7ff45e4e-a7f8-4816-b532-abe6fd0e46ae",
-      "name": "Ross Thomson"
+      "identifiers": [
+        {
+          "identifier": "Q24034678",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ross_Thomson"
+        }
+      ],
+      "name": "Ross Thomson",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Ross Thomson",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1978-11-10",
@@ -19481,8 +20571,28 @@
       ]
     },
     {
+      "gender": "female",
       "id": "dd3b9044-e321-446b-a518-19f91343e60d",
-      "name": "Ruth Maguire"
+      "identifiers": [
+        {
+          "identifier": "Q24034376",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ruth_Maguire"
+        }
+      ],
+      "name": "Ruth Maguire",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Ruth Maguire",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1945-10-18",
@@ -20836,8 +21946,28 @@
       ]
     },
     {
+      "gender": "male",
       "id": "f807078e-87d3-4ce4-8c3e-c296d653021e",
-      "name": "Tom Arthur"
+      "identifiers": [
+        {
+          "identifier": "Q24039804",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Tom_Arthur_(Scottish_politician)"
+        }
+      ],
+      "name": "Tom Arthur",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Tom Arthur",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1954-04-28",
