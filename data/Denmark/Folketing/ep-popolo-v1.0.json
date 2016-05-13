@@ -21638,6 +21638,24 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "johannes.lebech@ft.dk"
+        }
+      ],
+      "email": "johannes.lebech@ft.dk",
+      "family_name": "Lebech",
+      "given_name": "Johannes",
+      "id": "7bb67570-fa0f-4e10-aa02-09bd9cb3ecce",
+      "name": "Johannes Lebech",
+      "sources": [
+        {
+          "url": "http://www.thedanishparliament.dk/Members/johannes%20lebech.aspx"
+        }
+      ]
+    },
+    {
       "gender": "male",
       "given_name": "Johannes",
       "id": "e7389235-7abf-46d6-b026-ecec1d6458f2",
@@ -56157,6 +56175,14 @@
       "on_behalf_of_id": "V",
       "organization_id": "legislature",
       "person_id": "7b498c29-99f6-47a6-a0c6-62db9b2f8128",
+      "role": "member"
+    },
+    {
+      "area_id": "area/western_jutland",
+      "legislative_period_id": "term/2015",
+      "on_behalf_of_id": "FD18DB48-CB3E-40EA-98B5-1CE0AFA56E69",
+      "organization_id": "legislature",
+      "person_id": "7bb67570-fa0f-4e10-aa02-09bd9cb3ecce",
       "role": "member"
     },
     {
