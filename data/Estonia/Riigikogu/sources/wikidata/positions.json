@@ -8,17 +8,29 @@
     {
       "id": "Q6866431",
       "label": "Minister of the Interior",
-      "title": "Minister of the Interior"
+      "title": "Minister of the Interior",
+      "qualifiers": {
+        "P580": "2009-07-03",
+        "P582": "2011-04-05"
+      }
     },
     {
       "id": "Q16402881",
       "label": "Minister of Social Affairs",
-      "title": "Minister of Social Affairs"
+      "title": "Minister of Social Affairs",
+      "qualifiers": {
+        "P580": "2003-04-10",
+        "P582": "2005-04-13"
+      }
     },
     {
       "id": "Q12361541",
-      "label": "Environment Minister",
-      "title": "Environment Minister"
+      "label": "Minister of the Environment",
+      "title": "Minister of the Environment",
+      "qualifiers": {
+        "P580": "2015-04-09",
+        "P1365": "Mati Raidma"
+      }
     }
   ],
   "Q12373839": [
@@ -26,6 +38,16 @@
       "id": "Q21100241",
       "label": "member of the Estonian Riigikogu",
       "title": "member of the Estonian Riigikogu"
+    }
+  ],
+  "Q17446918": [
+    {
+      "id": "Q3741249",
+      "label": "Minister of Defence",
+      "title": "Minister of Defence",
+      "qualifiers": {
+        "P580": "2015-09-14"
+      }
     }
   ],
   "Q704436": [
@@ -48,8 +70,9 @@
       "label": "Mayor of Tartu",
       "title": "Mayor of Tartu",
       "qualifiers": {
-        "P580": "1998",
-        "P582": "2004"
+        "P580": "1998-09-10",
+        "P582": "2004-09-23",
+        "P1366": "Laine Randjärv"
       }
     },
     {
@@ -86,8 +109,8 @@
       "label": "Minister of Economic Affairs and Communications",
       "title": "Minister of Economic Affairs and Communications",
       "qualifiers": {
-        "P580": "2004-09",
-        "P582": "2005-04",
+        "P580": "2004-09-13",
+        "P582": "2005-04-13",
         "P1365": "Meelis Atonen",
         "P1366": "Edgar Savisaar"
       }
@@ -171,7 +194,8 @@
       "title": "Minister of Culture",
       "qualifiers": {
         "P580": "1996-01-01",
-        "P582": "1999-03-25"
+        "P582": "1999-03-25",
+        "P1365": "Peeter Olesk"
       }
     }
   ],
@@ -207,7 +231,20 @@
     {
       "id": "Q6866110",
       "label": "Minister of Education and Research",
-      "title": "Minister of Education and Research"
+      "title": "Minister of Education and Research",
+      "qualifiers": {
+        "P580": "2005-04-13",
+        "P582": "2007-04-05"
+      }
+    },
+    {
+      "id": "Q6866110",
+      "label": "Minister of Education and Research",
+      "title": "Minister of Education and Research",
+      "qualifiers": {
+        "P580": "2002-01-28",
+        "P582": "2003-04-10"
+      }
     }
   ],
   "Q724437": [
@@ -219,7 +256,11 @@
     {
       "id": "Q16405106",
       "label": "Minister of Agriculture",
-      "title": "Minister of Agriculture"
+      "title": "Minister of Agriculture",
+      "qualifiers": {
+        "P580": "2007-04-06",
+        "P582": "2014-03-26"
+      }
     },
     {
       "id": "Q21103025",
@@ -252,11 +293,47 @@
       "title": "member of the Estonian Riigikogu"
     }
   ],
+  "Q3741429": [
+    {
+      "id": "Q24060082",
+      "label": "Minister of Health and Labour",
+      "title": "Minister of Health and Labour",
+      "qualifiers": {
+        "P580": "2014-03-26",
+        "P582": "2015-03-30"
+      }
+    },
+    {
+      "id": "Q6627739",
+      "label": "Mayor of Tartu",
+      "title": "Mayor of Tartu",
+      "qualifiers": {
+        "P580": "2007-04-26",
+        "P582": "2014-03-26"
+      }
+    },
+    {
+      "id": "Q24060239",
+      "label": "Minister of Rural Affairs",
+      "title": "Minister of Rural Affairs",
+      "qualifiers": {
+        "P580": "2015-04-09"
+      }
+    }
+  ],
   "Q13607430": [
     {
       "id": "Q21100241",
       "label": "member of the Estonian Riigikogu",
       "title": "member of the Estonian Riigikogu"
+    },
+    {
+      "id": "Q6627739",
+      "label": "Mayor of Tartu",
+      "title": "Mayor of Tartu",
+      "qualifiers": {
+        "P580": "2014-04-08"
+      }
     }
   ],
   "Q12372781": [
@@ -299,7 +376,11 @@
     {
       "id": "Q27169",
       "label": "member of the European Parliament",
-      "title": "member of the European Parliament"
+      "title": "member of the European Parliament",
+      "qualifiers": {
+        "P580": "2014-11-03",
+        "P102": "Group of the Alliance of Liberals and Democrats for Europe"
+      }
     },
     {
       "id": "Q16402952",
@@ -307,13 +388,20 @@
       "title": "Minister of Culture",
       "qualifiers": {
         "P580": "2003-04-10",
-        "P582": "2005-04-12"
+        "P582": "2005-04-12",
+        "P1365": "Signe Kivi"
       }
     },
     {
       "id": "Q1760777",
       "label": "Minister of Foreign Affairs",
-      "title": "Minister of Foreign Affairs"
+      "title": "Minister of Foreign Affairs",
+      "qualifiers": {
+        "P580": "2005-04-13",
+        "P582": "2014-11-03",
+        "P1365": "Rein Lang",
+        "P1366": "Keit Pentus-Rosimannus"
+      }
     }
   ],
   "Q12369996": [
@@ -321,6 +409,15 @@
       "id": "Q21100241",
       "label": "member of the Estonian Riigikogu",
       "title": "member of the Estonian Riigikogu"
+    },
+    {
+      "id": "Q12361541",
+      "label": "Minister of the Environment",
+      "title": "Minister of the Environment",
+      "qualifiers": {
+        "P580": "2014-11-17",
+        "P582": "2015-04-09"
+      }
     }
   ],
   "Q13608089": [
@@ -426,17 +523,30 @@
     {
       "id": "Q20528230",
       "label": "Minister of Justice",
-      "title": "Minister of Justice"
+      "title": "Minister of Justice",
+      "qualifiers": {
+        "P580": "2012-12-10",
+        "P582": "2014-03-26",
+        "P1365": "Kristen Michal",
+        "P1366": "Andres Anvelt"
+      }
     },
     {
       "id": "Q6866431",
       "label": "Minister of the Interior",
-      "title": "Minister of the Interior"
+      "title": "Minister of the Interior",
+      "qualifiers": {
+        "P580": "2014-03-26"
+      }
     },
     {
       "id": "Q16402881",
       "label": "Minister of Social Affairs",
-      "title": "Minister of Social Affairs"
+      "title": "Minister of Social Affairs",
+      "qualifiers": {
+        "P580": "2009-02-23",
+        "P582": "2012-12-10"
+      }
     }
   ],
   "Q1149033": [
@@ -453,6 +563,24 @@
       "id": "Q21100241",
       "label": "member of the Estonian Riigikogu",
       "title": "member of the Estonian Riigikogu"
+    },
+    {
+      "id": "Q6866110",
+      "label": "Minister of Education and Research",
+      "title": "Minister of Education and Research",
+      "qualifiers": {
+        "P580": "2007-04-05",
+        "P582": "2011-04-05"
+      }
+    },
+    {
+      "id": "Q6627739",
+      "label": "Mayor of Tartu",
+      "title": "Mayor of Tartu",
+      "qualifiers": {
+        "P580": "1996-10-31",
+        "P582": "1997-04-03"
+      }
     }
   ],
   "Q12366252": [
@@ -483,7 +611,12 @@
     {
       "id": "Q20528230",
       "label": "Minister of Justice",
-      "title": "Minister of Justice"
+      "title": "Minister of Justice",
+      "qualifiers": {
+        "P580": "1994-11-08",
+        "P582": "1995-04-17",
+        "P1365": "Urmas Arumäe"
+      }
     }
   ],
   "Q12372206": [
@@ -543,6 +676,15 @@
       "id": "Q21100241",
       "label": "member of the Estonian Riigikogu",
       "title": "member of the Estonian Riigikogu"
+    },
+    {
+      "id": "Q20528404",
+      "label": "Minister of Public Administration",
+      "title": "Minister of Public Administration",
+      "qualifiers": {
+        "P580": "2015-04-09",
+        "P1365": ""
+      }
     }
   ],
   "Q788525": [
@@ -564,6 +706,15 @@
         "P580": "1992-10-21",
         "P582": "1994-06-21"
       }
+    },
+    {
+      "id": "Q24061775",
+      "label": "Minister of Population and Ethnic Affairs",
+      "title": "Minister of Population and Ethnic Affairs",
+      "qualifiers": {
+        "P580": "2003-04-10",
+        "P582": "2007-04-05"
+      }
     }
   ],
   "Q998617": [
@@ -584,7 +735,8 @@
       "title": "Minister of Justice",
       "qualifiers": {
         "P580": "2005-04-12",
-        "P582": "2011-04-06"
+        "P582": "2011-04-06",
+        "P1365": "Ken-Marti Vaher"
       }
     },
     {
@@ -592,8 +744,10 @@
       "label": "Minister of Foreign Affairs",
       "title": "Minister of Foreign Affairs",
       "qualifiers": {
-        "P580": "2005-02",
-        "P582": "2005-04"
+        "P580": "2005-02-21",
+        "P582": "2005-04-13",
+        "P1365": "Jaak Jõerüüt",
+        "P1366": "Urmas Paet"
       }
     }
   ],
@@ -631,12 +785,19 @@
     {
       "id": "Q6866110",
       "label": "Minister of Education and Research",
-      "title": "Minister of Education and Research"
+      "title": "Minister of Education and Research",
+      "qualifiers": {
+        "P580": "2015-04-09"
+      }
     },
     {
       "id": "Q3741249",
       "label": "Minister of Defence",
-      "title": "Minister of Defence"
+      "title": "Minister of Defence",
+      "qualifiers": {
+        "P580": "2005-10-10",
+        "P582": "2007-04-05"
+      }
     }
   ],
   "Q743341": [
@@ -648,7 +809,11 @@
     {
       "id": "Q23268238",
       "label": "Minister of Regional Affairs",
-      "title": "Minister of Regional Affairs"
+      "title": "Minister of Regional Affairs",
+      "qualifiers": {
+        "P580": "2008-01-23",
+        "P582": "2014-03-26"
+      }
     }
   ],
   "Q12369884": [
@@ -709,7 +874,11 @@
     {
       "id": "Q16405106",
       "label": "Minister of Agriculture",
-      "title": "Minister of Agriculture"
+      "title": "Minister of Agriculture",
+      "qualifiers": {
+        "P580": "2003-04-10",
+        "P582": "2004-04-02"
+      }
     }
   ],
   "Q3785077": [
@@ -730,7 +899,11 @@
     {
       "id": "Q16402881",
       "label": "Minister of Social Affairs",
-      "title": "Minister of Social Affairs"
+      "title": "Minister of Social Affairs",
+      "qualifiers": {
+        "P580": "2012-12-11",
+        "P582": "2014-03-26"
+      }
     }
   ],
   "Q438802": [
@@ -747,7 +920,13 @@
     {
       "id": "Q1760777",
       "label": "Minister of Foreign Affairs",
-      "title": "Minister of Foreign Affairs"
+      "title": "Minister of Foreign Affairs",
+      "qualifiers": {
+        "P580": "2002-01",
+        "P582": "2005-02-10",
+        "P1365": "Toomas Hendrik Ilves",
+        "P1366": "Jaak Jõerüüt"
+      }
     }
   ],
   "Q12369838": [
@@ -778,7 +957,10 @@
     {
       "id": "Q16405106",
       "label": "Minister of Agriculture",
-      "title": "Minister of Agriculture"
+      "title": "Minister of Agriculture",
+      "qualifiers": {
+        "P580": "2014-04-07"
+      }
     },
     {
       "id": "Q21103025",
@@ -807,12 +989,20 @@
     {
       "id": "Q20528230",
       "label": "Minister of Justice",
-      "title": "Minister of Justice"
+      "title": "Minister of Justice",
+      "qualifiers": {
+        "P580": "2015-04-09",
+        "P1365": "Andres Anvelt"
+      }
     },
     {
       "id": "Q3741249",
       "label": "Minister of Defence",
-      "title": "Minister of Defence"
+      "title": "Minister of Defence",
+      "qualifiers": {
+        "P580": "2012-05-11",
+        "P582": "2014-03-26"
+      }
     }
   ],
   "Q12379326": [
@@ -878,7 +1068,11 @@
     {
       "id": "Q21121665",
       "label": "Minister of Economic Affairs and Communications",
-      "title": "Minister of Economic Affairs and Communications"
+      "title": "Minister of Economic Affairs and Communications",
+      "qualifiers": {
+        "P580": "2007-04-06",
+        "P582": "2014-03-26"
+      }
     }
   ],
   "Q16407052": [
@@ -896,8 +1090,13 @@
     },
     {
       "id": "Q12361541",
-      "label": "Environment Minister",
-      "title": "Environment Minister"
+      "label": "Minister of the Environment",
+      "title": "Minister of the Environment",
+      "qualifiers": {
+        "P580": "2007-04-05",
+        "P582": "2011-04-05",
+        "P1365": "Rein Randver"
+      }
     }
   ],
   "Q509232": [
@@ -909,7 +1108,11 @@
     {
       "id": "Q16402881",
       "label": "Minister of Social Affairs",
-      "title": "Minister of Social Affairs"
+      "title": "Minister of Social Affairs",
+      "qualifiers": {
+        "P580": "2007-04-05",
+        "P582": "2009-02-23"
+      }
     }
   ],
   "Q12368506": [
@@ -942,7 +1145,11 @@
     {
       "id": "Q23268238",
       "label": "Minister of Regional Affairs",
-      "title": "Minister of Regional Affairs"
+      "title": "Minister of Regional Affairs",
+      "qualifiers": {
+        "P580": "2003-04-10",
+        "P582": "2007-04-05"
+      }
     }
   ],
   "Q12366157": [
@@ -1031,7 +1238,11 @@
     {
       "id": "Q3741249",
       "label": "Minister of Defence",
-      "title": "Minister of Defence"
+      "title": "Minister of Defence",
+      "qualifiers": {
+        "P580": "2003-04-10",
+        "P582": "2004-11-22"
+      }
     }
   ],
   "Q11716283": [
@@ -1039,6 +1250,15 @@
       "id": "Q21100241",
       "label": "member of the Estonian Riigikogu",
       "title": "member of the Estonian Riigikogu"
+    },
+    {
+      "id": "Q24060088",
+      "label": "Minister of Social Protection",
+      "title": "Minister of Social Protection",
+      "qualifiers": {
+        "P580": "2015-04-09",
+        "P1365": "Helmen Kütt"
+      }
     }
   ],
   "Q14542629": [
@@ -1049,8 +1269,12 @@
     },
     {
       "id": "Q12361541",
-      "label": "Environment Minister",
-      "title": "Environment Minister"
+      "label": "Minister of the Environment",
+      "title": "Minister of the Environment",
+      "qualifiers": {
+        "P580": "2006-10-11",
+        "P582": "2007-04-05"
+      }
     }
   ],
   "Q12364518": [
@@ -1146,8 +1370,8 @@
       "label": "Minister of the Interior",
       "title": "Minister of the Interior",
       "qualifiers": {
-        "P580": "2005",
-        "P582": "2007",
+        "P580": "2005-04-12",
+        "P582": "2005-10-10",
         "P155": "Kaido Kama",
         "P156": "Märt Rask"
       }
@@ -1157,8 +1381,8 @@
       "label": "Minister of Economic Affairs and Communications",
       "title": "Minister of Economic Affairs and Communications",
       "qualifiers": {
-        "P580": "2005",
-        "P582": "2007",
+        "P580": "2005-04-13",
+        "P582": "2007-04-05",
         "P155": "Andrus Ansip",
         "P156": "Juhan Parts"
       }
@@ -1185,7 +1409,12 @@
     {
       "id": "Q6866431",
       "label": "Minister of the Interior",
-      "title": "Minister of the Interior"
+      "title": "Minister of the Interior",
+      "qualifiers": {
+        "P580": "2005-04-13",
+        "P582": "2007-04-05",
+        "P1365": "Margus Leivo"
+      }
     }
   ],
   "Q12369879": [
@@ -1200,6 +1429,19 @@
       "id": "Q21100241",
       "label": "member of the Estonian Riigikogu",
       "title": "member of the Estonian Riigikogu"
+    }
+  ],
+  "Q15983657": [
+    {
+      "id": "Q24058803",
+      "label": "Minister of Foreign Trade and Entrepreneurship",
+      "title": "Minister of Foreign Trade and Entrepreneurship",
+      "qualifiers": {
+        "P580": "2014-03-26",
+        "P582": "2015-04-09",
+        "P1365": "",
+        "P1366": "Urve Palo"
+      }
     }
   ],
   "Q16405534": [
@@ -1228,6 +1470,37 @@
       "id": "Q21100241",
       "label": "member of the Estonian Riigikogu",
       "title": "member of the Estonian Riigikogu"
+    },
+    {
+      "id": "Q16403845",
+      "label": "Minister of Economic Affairs and Infrastructure",
+      "title": "Minister of Economic Affairs and Infrastructure",
+      "qualifiers": {
+        "P580": "2014-03-26",
+        "P582": "2015-04-09",
+        "P1365": "",
+        "P1366": "Kristen Michal"
+      }
+    },
+    {
+      "id": "Q20933474",
+      "label": "Minister of Entrepreneurship",
+      "title": "Minister of Entrepreneurship",
+      "qualifiers": {
+        "P580": "2015-04-09",
+        "P582": "2015-08-30",
+        "P1365": "Anne Sulling",
+        "P1366": "Liisa Oviir"
+      }
+    },
+    {
+      "id": "Q24061775",
+      "label": "Minister of Population and Ethnic Affairs",
+      "title": "Minister of Population and Ethnic Affairs",
+      "qualifiers": {
+        "P580": "2007-04-05",
+        "P582": "2009-05-21"
+      }
     }
   ],
   "Q12366267": [
@@ -1302,12 +1575,20 @@
     {
       "id": "Q6866110",
       "label": "Minister of Education and Research",
-      "title": "Minister of Education and Research"
+      "title": "Minister of Education and Research",
+      "qualifiers": {
+        "P580": "2011-04-06",
+        "P582": "2014-03-26"
+      }
     },
     {
       "id": "Q3741249",
       "label": "Minister of Defence",
-      "title": "Minister of Defence"
+      "title": "Minister of Defence",
+      "qualifiers": {
+        "P580": "2007-04-05",
+        "P582": "2011-04-06"
+      }
     }
   ],
   "Q1385792": [
@@ -1319,12 +1600,21 @@
     {
       "id": "Q20528230",
       "label": "Minister of Justice",
-      "title": "Minister of Justice"
+      "title": "Minister of Justice",
+      "qualifiers": {
+        "P580": "2003-04-10",
+        "P582": "2005-04-13",
+        "P1365": "Märt Rask"
+      }
     },
     {
       "id": "Q6866431",
       "label": "Minister of the Interior",
-      "title": "Minister of the Interior"
+      "title": "Minister of the Interior",
+      "qualifiers": {
+        "P580": "2011-04-06",
+        "P582": "2014-03-26"
+      }
     }
   ],
   "Q12364480": [
@@ -1350,7 +1640,13 @@
     {
       "id": "Q20528230",
       "label": "Minister of Justice",
-      "title": "Minister of Justice"
+      "title": "Minister of Justice",
+      "qualifiers": {
+        "P580": "2014-03-26",
+        "P582": "2015-04-09",
+        "P1365": "Hanno Pevkur",
+        "P1366": "Urmas Reinsalu"
+      }
     }
   ],
   "Q14188964": [
@@ -1369,7 +1665,11 @@
     {
       "id": "Q16405106",
       "label": "Minister of Agriculture",
-      "title": "Minister of Agriculture"
+      "title": "Minister of Agriculture",
+      "qualifiers": {
+        "P580": "2004-04-05",
+        "P582": "2007-04-05"
+      }
     }
   ],
   "Q16403448": [
@@ -1391,15 +1691,18 @@
       "title": "Minister of Justice",
       "qualifiers": {
         "P580": "2011-04-05",
-        "P582": "2012-12-10"
+        "P582": "2012-12-10",
+        "P1365": "Rein Lang",
+        "P1366": "Hanno Pevkur"
       }
     },
     {
-      "id": "Q21121665",
-      "label": "Minister of Economic Affairs and Communications",
-      "title": "Minister of Economic Affairs and Communications",
+      "id": "Q16403845",
+      "label": "Minister of Economic Affairs and Infrastructure",
+      "title": "Minister of Economic Affairs and Infrastructure",
       "qualifiers": {
-        "P580": "2015-04-09"
+        "P580": "2015-04-09",
+        "P1365": "Urve Palo"
       }
     }
   ],
@@ -1410,7 +1713,7 @@
       "title": "Minister of Finance",
       "qualifiers": {
         "P580": "2014-11-03",
-        "P582": "2015-04-09"
+        "P582": "2015-03-30"
       }
     }
   ],
@@ -1423,12 +1726,22 @@
     {
       "id": "Q1760777",
       "label": "Minister of Foreign Affairs",
-      "title": "Minister of Foreign Affairs"
+      "title": "Minister of Foreign Affairs",
+      "qualifiers": {
+        "P580": "2014-11-17",
+        "P582": "2015-07-01",
+        "P1365": "Urmas Paet",
+        "P1366": "Marina Kaljurand"
+      }
     },
     {
       "id": "Q12361541",
-      "label": "Environment Minister",
-      "title": "Environment Minister"
+      "label": "Minister of the Environment",
+      "title": "Minister of the Environment",
+      "qualifiers": {
+        "P580": "2011-04-06",
+        "P582": "2014-11-17"
+      }
     }
   ],
   "Q449939": [
@@ -1493,6 +1806,15 @@
       "id": "Q21100241",
       "label": "member of the Estonian Riigikogu",
       "title": "member of the Estonian Riigikogu"
+    },
+    {
+      "id": "Q24060088",
+      "label": "Minister of Social Protection",
+      "title": "Minister of Social Protection",
+      "qualifiers": {
+        "P580": "2014-03-26",
+        "P582": "2015-03-30"
+      }
     }
   ],
   "Q2097451": [
@@ -1504,7 +1826,20 @@
     {
       "id": "Q3741249",
       "label": "Minister of Defence",
-      "title": "Minister of Defence"
+      "title": "Minister of Defence",
+      "qualifiers": {
+        "P580": "2014-03-26",
+        "P582": "2015-09-14"
+      }
+    },
+    {
+      "id": "Q3741249",
+      "label": "Minister of Defence",
+      "title": "Minister of Defence",
+      "qualifiers": {
+        "P580": "2002-01-28",
+        "P582": "2003-04-10"
+      }
     }
   ],
   "Q11158997": [
@@ -1531,7 +1866,7 @@
       "qualifiers": {
         "P580": "2011-04-06",
         "P582": "2012-05-11",
-        "P156": "Urmas Reinsalu"
+        "P1366": "Urmas Reinsalu"
       }
     },
     {
@@ -1585,7 +1920,20 @@
     {
       "id": "Q6866110",
       "label": "Minister of Education and Research",
-      "title": "Minister of Education and Research"
+      "title": "Minister of Education and Research",
+      "qualifiers": {
+        "P580": "2014-03-26",
+        "P582": "2015-04-09"
+      }
+    },
+    {
+      "id": "Q24060082",
+      "label": "Minister of Health and Labour",
+      "title": "Minister of Health and Labour",
+      "qualifiers": {
+        "P580": "2015-09-14",
+        "P1365": "Rannar Vassiljev"
+      }
     }
   ],
   "Q12373774": [
@@ -1607,6 +1955,15 @@
       "id": "Q21100241",
       "label": "member of the Estonian Riigikogu",
       "title": "member of the Estonian Riigikogu"
+    },
+    {
+      "id": "Q24060082",
+      "label": "Minister of Health and Labour",
+      "title": "Minister of Health and Labour",
+      "qualifiers": {
+        "P580": "2015-04-09",
+        "P582": "2015-09-14"
+      }
     }
   ]
 }
