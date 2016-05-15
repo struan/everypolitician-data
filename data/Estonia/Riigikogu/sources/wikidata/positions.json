@@ -197,6 +197,15 @@
         "P582": "1999-03-25",
         "P1365": "Peeter Olesk"
       }
+    },
+    {
+      "id": "Q24067751",
+      "label": "minister without portfolio",
+      "title": "minister without portfolio",
+      "qualifiers": {
+        "P580": "1995-11-06",
+        "P582": "1996-01-01"
+      }
     }
   ],
   "Q4755832": [
@@ -490,7 +499,11 @@
     {
       "id": "Q16402881",
       "label": "Minister of Social Affairs",
-      "title": "Minister of Social Affairs"
+      "title": "Minister of Social Affairs",
+      "qualifiers": {
+        "P580": "1999-03-25",
+        "P582": "2002-01-28"
+      }
     }
   ],
   "Q3741812": [
@@ -517,6 +530,15 @@
       "id": "Q23268238",
       "label": "Minister of Regional Affairs",
       "title": "Minister of Regional Affairs"
+    },
+    {
+      "id": "Q24067751",
+      "label": "minister without portfolio",
+      "title": "minister without portfolio",
+      "qualifiers": {
+        "P580": "1997-04-07",
+        "P582": "1999-03-25"
+      }
     }
   ],
   "Q1399218": [
@@ -599,7 +621,11 @@
     {
       "id": "Q16405106",
       "label": "Minister of Agriculture",
-      "title": "Minister of Agriculture"
+      "title": "Minister of Agriculture",
+      "qualifiers": {
+        "P580": "2002-01-28",
+        "P582": "2003-04-10"
+      }
     }
   ],
   "Q12365796": [
@@ -863,6 +889,15 @@
       "id": "Q21100241",
       "label": "member of the Estonian Riigikogu",
       "title": "member of the Estonian Riigikogu"
+    },
+    {
+      "id": "Q24061775",
+      "label": "Minister of Population and Ethnic Affairs",
+      "title": "Minister of Population and Ethnic Affairs",
+      "qualifiers": {
+        "P580": "2002-01-28",
+        "P582": "2003-04-10"
+      }
     }
   ],
   "Q12376940": [
@@ -922,7 +957,7 @@
       "label": "Minister of Foreign Affairs",
       "title": "Minister of Foreign Affairs",
       "qualifiers": {
-        "P580": "2002-01",
+        "P580": "2002-01-28",
         "P582": "2005-02-10",
         "P1365": "Toomas Hendrik Ilves",
         "P1366": "Jaak Jõerüüt"
@@ -970,6 +1005,15 @@
         "P580": "2007-04-05",
         "P582": "2009-05-21",
         "P1366": "Jürgen Ligi"
+      }
+    },
+    {
+      "id": "Q16405106",
+      "label": "Minister of Agriculture",
+      "title": "Minister of Agriculture",
+      "qualifiers": {
+        "P580": "1999-03-25",
+        "P582": "2002-01-28"
       }
     }
   ],
@@ -1588,6 +1632,15 @@
       "qualifiers": {
         "P580": "2007-04-05",
         "P582": "2011-04-06"
+      }
+    },
+    {
+      "id": "Q6866110",
+      "label": "Minister of Education and Research",
+      "title": "Minister of Education and Research",
+      "qualifiers": {
+        "P580": "1996-01-01",
+        "P582": "1996-11-30"
       }
     }
   ],
