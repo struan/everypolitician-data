@@ -47,8 +47,16 @@
         "name": "Minister of Economic Affairs and Communications"
       },
       {
+        "id": "Q16403845",
+        "name": "Minister of Economic Affairs and Infrastructure"
+      },
+      {
         "id": "Q6866110",
         "name": "Minister of Education and Research"
+      },
+      {
+        "id": "Q20933474",
+        "name": "Minister of Entrepreneurship"
       },
       {
         "id": "Q21103025",
@@ -59,16 +67,40 @@
         "name": "Minister of Foreign Affairs"
       },
       {
+        "id": "Q24058803",
+        "name": "Minister of Foreign Trade and Entrepreneurship"
+      },
+      {
+        "id": "Q24060082",
+        "name": "Minister of Health and Labour"
+      },
+      {
         "id": "Q20528230",
         "name": "Minister of Justice"
+      },
+      {
+        "id": "Q24061775",
+        "name": "Minister of Population and Ethnic Affairs"
+      },
+      {
+        "id": "Q20528404",
+        "name": "Minister of Public Administration"
       },
       {
         "id": "Q23268238",
         "name": "Minister of Regional Affairs"
       },
       {
+        "id": "Q24060239",
+        "name": "Minister of Rural Affairs"
+      },
+      {
         "id": "Q16402881",
         "name": "Minister of Social Affairs"
+      },
+      {
+        "id": "Q24060088",
+        "name": "Minister of Social Protection"
       },
       {
         "id": "Q6866431",
@@ -96,46 +128,7 @@
   },
   "unknown": {
     "unknown": [
-      {
-        "id": "Q16403845",
-        "name": "Minister of Economic Affairs and Infrastructure",
-        "count": 2
-      },
-      {
-        "id": "Q20933474",
-        "name": "Minister of Entrepreneurship",
-        "count": 1
-      },
-      {
-        "id": "Q24058803",
-        "name": "Minister of Foreign Trade and Entrepreneurship",
-        "count": 1
-      },
-      {
-        "id": "Q24060082",
-        "name": "Minister of Health and Labour",
-        "count": 3
-      },
-      {
-        "id": "Q24061775",
-        "name": "Minister of Population and Ethnic Affairs",
-        "count": 2
-      },
-      {
-        "id": "Q20528404",
-        "name": "Minister of Public Administration",
-        "count": 1
-      },
-      {
-        "id": "Q24060239",
-        "name": "Minister of Rural Affairs",
-        "count": 1
-      },
-      {
-        "id": "Q24060088",
-        "name": "Minister of Social Protection",
-        "count": 2
-      }
+
     ]
   }
 }
