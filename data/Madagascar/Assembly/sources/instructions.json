@@ -4,7 +4,7 @@
       "file": "morph/data.csv",
       "create": {
         "from": "morph",
-        "scraper": "duncanparkes/madagascar",
+        "scraper": "mhl/madagascar",
         "query": "SELECT *, term_id AS term, null AS term_id FROM data"
       },
       "source": "http://www.assemblee-nationale.mg/",
@@ -31,7 +31,7 @@
       "create": {
         "file": "morph/terms.csv",
         "from": "morph",
-        "scraper": "duncanparkes/madagascar",
+        "scraper": "mhl/madagascar",
         "query": "SELECT * FROM terms"
       }
     },
