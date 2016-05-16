@@ -37,6 +37,8 @@ class RemoteSource
 
   def copy_url(url)
     IO.copy_stream(open(url), i(:file))
+  rescue => e
+    abort "Failed to GET #{url}: #{e.message}"
   end
   
   def regenerate
