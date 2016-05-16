@@ -651,13 +651,7 @@
       "birth_date": "1949-04-14",
       "family_name": "Casali",
       "given_name": "Augusto",
-      "id": "c90ea54c-4e44-45f2-b766-32f0e7884076",
-      "identifiers": [
-        {
-          "identifier": "17016604",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
+      "id": "0886016d-34ef-4057-9b44-09f3b394508e",
       "image": "http://www.consigliograndeegenerale.sm/contents/instance18/files/photo/17021239_17000062_11CasaliAugusto.jpg",
       "images": [
         {
@@ -4351,6 +4345,31 @@
       ]
     },
     {
+      "birth_date": "1975-03-01",
+      "family_name": "Fabbri",
+      "given_name": "Rossano",
+      "id": "c90ea54c-4e44-45f2-b766-32f0e7884076",
+      "identifiers": [
+        {
+          "identifier": "17016604-old",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.consigliograndeegenerale.sm/contents/instance18/files/photo/17016569_17000062_24FabbriRossano.jpg",
+      "images": [
+        {
+          "url": "http://www.consigliograndeegenerale.sm/contents/instance18/files/photo/17016569_17000062_24FabbriRossano.jpg"
+        }
+      ],
+      "name": "Rossano Fabbri",
+      "sort_name": "Fabbri, Rossano",
+      "sources": [
+        {
+          "url": "http://www.consigliograndeegenerale.sm/on-line/home/composizione/elenco-consiglieri/scheda17016604.html"
+        }
+      ]
+    },
+    {
       "birth_date": "1982-09-10",
       "family_name": "Celli",
       "given_name": "Simone",
@@ -4736,6 +4755,13 @@
       "on_behalf_of_id": "party/partito_dei_socialisti_e_dei_democratici",
       "organization_id": "legislature",
       "person_id": "03e1107c-ecad-4c71-add3-8eabd78c6d3d",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2012",
+      "on_behalf_of_id": "party/partito_socialista",
+      "organization_id": "legislature",
+      "person_id": "0886016d-34ef-4057-9b44-09f3b394508e",
       "role": "member"
     },
     {
