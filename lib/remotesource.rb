@@ -60,7 +60,11 @@ class RemoteSource::Morph < RemoteSource
     key = ERB::Util.url_encode(morph_api_key)
     query = ERB::Util.url_encode(qs.gsub(/\s+/, ' ').strip)
     url = "https://api.morph.io/#{src}/data.csv?key=#{key}&query=#{query}"
-    open(url).read
+    begin
+      open(url).read
+    rescue => e
+      abort "Failed to perform morph query #{qs.inspect}: #{e.message}"
+    end
   end
 
   def write
