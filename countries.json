@@ -2149,22 +2149,23 @@
         "slug": "House-of-Representatives",
         "sources_directory": "data/Cyprus/House_of_Representatives/sources",
         "popolo": "data/Cyprus/House_of_Representatives/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/8f90a66/data/Cyprus/House_of_Representatives/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/35e4362/data/Cyprus/House_of_Representatives/ep-popolo-v1.0.json",
         "names": "data/Cyprus/House_of_Representatives/names.csv",
-        "lastmod": "1462864222",
+        "lastmod": "1463411362",
         "person_count": 63,
-        "sha": "8f90a66",
+        "sha": "35e4362",
         "legislative_periods": [
           {
+            "end_date": "2016-04-14",
             "id": "term/2011",
             "name": "2011–",
             "start_date": "2011-06-02",
             "slug": "2011",
             "csv": "data/Cyprus/House_of_Representatives/term-2011.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/8f90a66/data/Cyprus/House_of_Representatives/term-2011.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/35e4362/data/Cyprus/House_of_Representatives/term-2011.csv"
           }
         ],
-        "statement_count": 3494
+        "statement_count": 3495
       }
     ]
   },
