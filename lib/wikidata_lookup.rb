@@ -154,6 +154,8 @@ class ElectionLookup < WikidataLookup
     result = RestClient.get WDQ_URL, params: { q: query }
     json = JSON.parse(result, symbolize_names: true)
     json[:items].map { |id| "Q#{id}" }
+  rescue RestClient::Exception => e
+    abort "Wikidata query #{query.inspect} failed: #{e.message}"
   end
 end
 
