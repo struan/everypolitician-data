@@ -6539,6 +6539,11 @@
           "lang": "sv",
           "name": "Jeff Radebe",
           "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "傑夫·拉德貝",
+          "note": "multilingual"
         }
       ],
       "sources": [
@@ -11046,6 +11051,11 @@
         {
           "lang": "sv",
           "name": "Mosiuoa Lekota",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "莫司奧·萊科塔",
           "note": "multilingual"
         }
       ],
@@ -16924,6 +16934,29 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "wnewhoudt@parliament.gov.za"
+        }
+      ],
+      "email": "wnewhoudt@parliament.gov.za",
+      "honorific_prefix": "Mrs",
+      "id": "97db0b3d-b72c-4317-aff0-5b7351bf253b",
+      "image": "http://www.pa.org.za/media_root/cache/bf/e0/bfe0a90c5f4cfa5189ee4576c7dea56e.jpg",
+      "images": [
+        {
+          "url": "http://www.pa.org.za/media_root/cache/bf/e0/bfe0a90c5f4cfa5189ee4576c7dea56e.jpg"
+        }
+      ],
+      "name": "Wilma Susan Newhoudt-Druchen",
+      "sources": [
+        {
+          "url": "http://www.pa.org.za/person/wilma-susan-newhoudt-druchen/"
+        }
+      ]
+    },
+    {
       "birth_date": "1953-07-05",
       "contact_details": [
         {
@@ -21083,6 +21116,13 @@
       "on_behalf_of_id": "ANC",
       "organization_id": "legislature",
       "person_id": "97a36231-f258-4900-87f6-9f8bb48b03f4",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/26",
+      "on_behalf_of_id": "ANC",
+      "organization_id": "legislature",
+      "person_id": "97db0b3d-b72c-4317-aff0-5b7351bf253b",
       "role": "member"
     },
     {
