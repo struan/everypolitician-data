@@ -27,11 +27,11 @@
         "name": "Minister of Agriculture"
       },
       {
-        "id": "Q23005920",
+        "id": "Q16402952",
         "name": "Minister of Culture"
       },
       {
-        "id": "Q16402952",
+        "id": "Q23005920",
         "name": "Minister of Culture"
       },
       {
@@ -109,6 +109,10 @@
       {
         "id": "Q737115",
         "name": "Prime Minister of Estonia"
+      },
+      {
+        "id": "Q24067751",
+        "name": "minister without portfolio"
       }
     ],
     "other": [
@@ -128,11 +132,7 @@
   },
   "unknown": {
     "unknown": [
-      {
-        "id": "Q24067751",
-        "name": "minister without portfolio",
-        "count": 2
-      }
+
     ]
   }
 }
