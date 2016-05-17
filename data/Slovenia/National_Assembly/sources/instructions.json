@@ -66,6 +66,11 @@
         "from": "election-wikidata",
         "base": "Q22160120"
       }
+    },
+    {
+      "file": "manual/memberships.csv",
+      "source": "http://www.dz-rs.si/",
+      "type": "membership"
     }
   ]
 }
