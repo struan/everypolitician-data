@@ -66,6 +66,27 @@
         "from": "election-wikidata",
         "base": "Q22160120"
       }
+    },
+    {
+      "file": "manual/memberships.csv",
+      "source": "http://www.dz-rs.si/",
+      "type": "membership"
+    },
+    {
+      "file": "manual/facebook.csv",
+      "type": "person",
+      "merge": {
+        "incoming_field": "uuid",
+        "existing_field": "uuid"
+      }
+    },
+    {
+      "file": "manual/twitter.csv",
+      "type": "person",
+      "merge": {
+        "incoming_field": "uuid",
+        "existing_field": "uuid"
+      }
     }
   ]
 }
