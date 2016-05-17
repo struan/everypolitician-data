@@ -76,16 +76,16 @@
       "file": "manual/facebook.csv",
       "type": "person",
       "merge": {
-        "incoming_field": "id",
-        "existing_field": "id"
+        "incoming_field": "uuid",
+        "existing_field": "uuid"
       }
     },
     {
       "file": "manual/twitter.csv",
       "type": "person",
       "merge": {
-        "incoming_field": "id",
-        "existing_field": "id"
+        "incoming_field": "uuid",
+        "existing_field": "uuid"
       }
     }
   ]
