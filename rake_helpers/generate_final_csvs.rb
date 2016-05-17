@@ -103,12 +103,12 @@ namespace :term_csvs do
       partition { |p| (p[:identifiers] || []).find { |i| i[:scheme] == 'wikidata' } 
     }
     matched, unmatched = wikidata_persons.map(&:count)
-    warn "Wikidata Persons matched: #{matched} ✓ #{unmatched.zero? ? '' : "| #{unmatched} ✘"}"
-    wikidata_persons.last.shuffle.take(10).each { |p| warn "  Missing: #{ p[:name] }" } unless matched.zero?
+    warn "Persons matched to Wikidata: #{matched} ✓ #{unmatched.zero? ? '' : "| #{unmatched} ✘"}"
+    wikidata_persons.last.shuffle.take(10).each { |p| warn "  No wikidata: #{ p[:name] }" } unless matched.zero?
 
     matched, unmatched = wikidata_parties.map(&:count)
-    warn "Wikidata Parties matched: #{matched} ✓ #{unmatched.zero? ? '' : "| #{unmatched} ✘"}"
-    wikidata_parties.last.shuffle.take(5).each { |p| warn "  Missing: #{p[:name]} (#{p[:id]})" } unless matched.zero?
+    warn "Parties matched to Wikidata: #{matched} ✓ #{unmatched.zero? ? '' : "| #{unmatched} ✘"}"
+    wikidata_parties.last.shuffle.take(5).each { |p| warn "  No wikidata: #{p[:name]} (#{p[:id]})" } unless matched.zero?
   end
 
   desc 'Build the Positions file'
