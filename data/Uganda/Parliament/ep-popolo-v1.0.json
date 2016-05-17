@@ -26024,7 +26024,7 @@
       "role": "member"
     },
     {
-      "area_id": "ocd-division/country:ug/region:eastern/subregion:busoga/district:namayigo/constituency:bukooli_south",
+      "area_id": "ocd-division/country:ug/region:eastern/subregion:busoga/district:namayingo/constituency:bukooli_south",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "NRM",
       "organization_id": "legislature",
@@ -26811,7 +26811,7 @@
       "role": "member"
     },
     {
-      "area_id": "ocd-division/country:ug/region:western/subregion:ankole/district:kirunura",
+      "area_id": "ocd-division/country:ug/region:western/subregion:ankole/district:kiruhura",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "NRM",
       "organization_id": "legislature",
@@ -26820,7 +26820,7 @@
       "role": "member"
     },
     {
-      "area_id": "ocd-division/country:ug/region:western/subregion:bunyoro/district:kiryadongo",
+      "area_id": "ocd-division/country:ug/region:western/subregion:bunyoro/district:kiryandongo",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "NRM",
       "organization_id": "legislature",
@@ -27408,7 +27408,7 @@
       "role": "member"
     },
     {
-      "area_id": "ocd-division/country:ug/region:northern/subregion:west_nile/district:adjuman",
+      "area_id": "ocd-division/country:ug/region:northern/subregion:west_nile/district:adjumani",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "NRM",
       "organization_id": "legislature",
@@ -30113,7 +30113,7 @@
       "role": "member"
     },
     {
-      "area_id": "ocd-division/country:ug/region:central/subregion:buganda/district:lyatonde",
+      "area_id": "ocd-division/country:ug/region:central/subregion:buganda/district:lyantonde",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "NRM",
       "organization_id": "legislature",
@@ -31618,11 +31618,6 @@
       "type": "constituency"
     },
     {
-      "id": "ocd-division/country:ug/region:central/subregion:buganda/district:lyatonde",
-      "name": "Lyatonde",
-      "type": "constituency"
-    },
-    {
       "id": "ocd-division/country:ug/region:central/subregion:buganda/district:masaka",
       "name": "Masaka",
       "type": "constituency"
@@ -32218,11 +32213,6 @@
       "type": "constituency"
     },
     {
-      "id": "ocd-division/country:ug/region:eastern/subregion:busoga/district:namayigo/constituency:bukooli_south",
-      "name": "Bukooli South",
-      "type": "constituency"
-    },
-    {
       "id": "ocd-division/country:ug/region:eastern/subregion:busoga/district:namayingo",
       "name": "Namayingo",
       "type": "constituency"
@@ -32230,6 +32220,11 @@
     {
       "id": "ocd-division/country:ug/region:eastern/subregion:busoga/district:namayingo/constituency:bukooli_island",
       "name": "Bukooli Island",
+      "type": "constituency"
+    },
+    {
+      "id": "ocd-division/country:ug/region:eastern/subregion:busoga/district:namayingo/constituency:bukooli_south",
+      "name": "Bukooli South",
       "type": "constituency"
     },
     {
@@ -32753,11 +32748,6 @@
       "type": "constituency"
     },
     {
-      "id": "ocd-division/country:ug/region:northern/subregion:west_nile/district:adjuman",
-      "name": "Adjuman",
-      "type": "constituency"
-    },
-    {
       "id": "ocd-division/country:ug/region:northern/subregion:west_nile/district:adjumani",
       "name": "Adjumani",
       "type": "constituency"
@@ -33003,11 +32993,6 @@
       "type": "constituency"
     },
     {
-      "id": "ocd-division/country:ug/region:western/subregion:ankole/district:kirunura",
-      "name": "Kirunura",
-      "type": "constituency"
-    },
-    {
       "id": "ocd-division/country:ug/region:western/subregion:ankole/district:mbarara",
       "name": "Mbarara",
       "type": "constituency"
@@ -33180,6 +33165,11 @@
     {
       "id": "ocd-division/country:ug/region:western/subregion:bunyoro/district:kiryadongo",
       "name": "Kiryadongo",
+      "type": "constituency"
+    },
+    {
+      "id": "ocd-division/country:ug/region:western/subregion:bunyoro/district:kiryandongo",
+      "name": "Kiryandongo",
       "type": "constituency"
     },
     {
