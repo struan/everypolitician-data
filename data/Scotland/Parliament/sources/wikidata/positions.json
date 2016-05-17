@@ -340,9 +340,12 @@
   ],
   "Q2581473": [
     {
-      "id": "Q3250438",
-      "label": "Scottish Liberal Democrats",
-      "title": "Scottish Liberal Democrats"
+      "id": "Q24081901",
+      "label": "Leader of the Scottish Liberal Democrats",
+      "title": "Leader of the Scottish Liberal Democrats",
+      "qualifiers": {
+        "P580": "2011-05-17"
+      }
     },
     {
       "id": "Q16707842",
@@ -432,9 +435,9 @@
       }
     },
     {
-      "id": "Q10658",
-      "label": "Scottish National Party",
-      "title": "Scottish National Party",
+      "id": "Q24081904",
+      "label": "Leader of the Scottish National Party",
+      "title": "Leader of the Scottish National Party",
       "qualifiers": {
         "P580": "2000-09-26",
         "P582": "2004-09-03",
@@ -470,9 +473,9 @@
   ],
   "Q1953630": [
     {
-      "id": "Q3243587",
-      "label": "Scottish Conservative Party",
-      "title": "Scottish Conservative Party"
+      "id": "Q24082166",
+      "label": "Deputy Leader of the Scottish Conservative Party",
+      "title": "Deputy Leader of the Scottish Conservative Party"
     },
     {
       "id": "Q1711695",
@@ -569,9 +572,9 @@
   ],
   "Q544742": [
     {
-      "id": "Q3243587",
-      "label": "Scottish Conservative Party",
-      "title": "Scottish Conservative Party"
+      "id": "Q24081896",
+      "label": "Leader of the Scottish Conservative Party",
+      "title": "Leader of the Scottish Conservative Party"
     },
     {
       "id": "Q1711695",
@@ -649,6 +652,14 @@
       "title": "Member of the Scottish Parliament",
       "qualifiers": {
         "P580": "2011"
+      }
+    },
+    {
+      "id": "Q24081896",
+      "label": "Leader of the Scottish Conservative Party",
+      "title": "Leader of the Scottish Conservative Party",
+      "qualifiers": {
+        "P580": "2011-11-04"
       }
     }
   ],
@@ -1111,6 +1122,15 @@
         "P1365": "Donald Dewar",
         "P1366": "Henry McLeish"
       }
+    },
+    {
+      "id": "Q24081901",
+      "label": "Leader of the Scottish Liberal Democrats",
+      "title": "Leader of the Scottish Liberal Democrats",
+      "qualifiers": {
+        "P580": "1992-04-18",
+        "P582": "2005-06-23"
+      }
     }
   ],
   "Q2057182": [
@@ -1286,9 +1306,9 @@
   ],
   "Q570298": [
     {
-      "id": "Q10658",
-      "label": "Scottish National Party",
-      "title": "Scottish National Party"
+      "id": "Q24081904",
+      "label": "Leader of the Scottish National Party",
+      "title": "Leader of the Scottish National Party"
     },
     {
       "id": "Q1711695",
@@ -1322,9 +1342,13 @@
   ],
   "Q333630": [
     {
-      "id": "Q3250438",
-      "label": "Scottish Liberal Democrats",
-      "title": "Scottish Liberal Democrats"
+      "id": "Q24081901",
+      "label": "Leader of the Scottish Liberal Democrats",
+      "title": "Leader of the Scottish Liberal Democrats",
+      "qualifiers": {
+        "P580": "2005-06-27",
+        "P582": "2008-07-02"
+      }
     },
     {
       "id": "Q5261035",
@@ -1806,9 +1830,13 @@
   ],
   "Q1339371": [
     {
-      "id": "Q3250438",
-      "label": "Scottish Liberal Democrats",
-      "title": "Scottish Liberal Democrats"
+      "id": "Q24081901",
+      "label": "Leader of the Scottish Liberal Democrats",
+      "title": "Leader of the Scottish Liberal Democrats",
+      "qualifiers": {
+        "P580": "2008-08-26",
+        "P582": "2011-05-07"
+      }
     },
     {
       "id": "Q6865983",
@@ -2726,9 +2754,9 @@
   ],
   "Q1175613": [
     {
-      "id": "Q3243587",
-      "label": "Scottish Conservative Party",
-      "title": "Scottish Conservative Party",
+      "id": "Q24081896",
+      "label": "Leader of the Scottish Conservative Party",
+      "title": "Leader of the Scottish Conservative Party",
       "qualifiers": {
         "P580": "1999-05-06",
         "P582": "2005-10-31",
@@ -2761,9 +2789,9 @@
   ],
   "Q544698": [
     {
-      "id": "Q3179541",
-      "label": "Scottish Labour Party",
-      "title": "Scottish Labour Party"
+      "id": "Q23766514",
+      "label": "Leader of the Scottish Labour Party",
+      "title": "Leader of the Scottish Labour Party"
     },
     {
       "id": "Q1711695",
