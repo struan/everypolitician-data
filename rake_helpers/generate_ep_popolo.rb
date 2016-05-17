@@ -100,6 +100,13 @@ namespace :transform do
       m.delete :start_date if m[:start_date].to_s.empty? || (!e[:start_date].to_s.empty? && m[:start_date].to_s <= e[:start_date].to_s)
       m.delete :end_date   if m[:end_date].to_s.empty?   || (!e[:end_date].to_s.empty?   && m[:end_date].to_s   >= e[:end_date].to_s)
     end
+    duplicates = @json[:memberships].group_by { |m| m }.select { |_, ms| ms.size > 1 }.map(&:first)
+    if duplicates.any?
+      duplicates.each do |dupe|
+        warn "Discarding duplicate membership: #{dupe}".yellow
+      end
+      @json[:memberships].uniq!
+    end
   end
 
   #---------------------------------------------------------------------
