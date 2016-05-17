@@ -99,10 +99,6 @@
       ]
     },
     {
-      "id": "6521f319-79d2-48a3-832b-cbe8d21217ed",
-      "name": "Adrian McQuillan"
-    },
-    {
       "id": "bdb3a845-dbd3-4b0f-b0da-50c408e41c1b",
       "identifiers": [
         {
@@ -609,10 +605,6 @@
       ]
     },
     {
-      "id": "3a267a23-179b-4788-b485-055f78084d8e",
-      "name": "Alex Maskey"
-    },
-    {
       "birth_date": "1952-01-08",
       "contact_details": [
         {
@@ -727,16 +719,6 @@
           "note": "multilingual"
         }
       ]
-    },
-    {
-      "id": "9cc9caac-db3d-42f9-9c8b-0a91841db6df",
-      "identifiers": [
-        {
-          "identifier": "1665",
-          "scheme": "historichansard"
-        }
-      ],
-      "name": "Alfred Gathorne-Hardy"
     },
     {
       "birth_date": "1945-08-16",
@@ -8684,7 +8666,7 @@
     },
     {
       "id": "af14bcf6-6191-4a13-a79c-4a40313ae768",
-      "name": "Jenny Palmer"
+      "name": "Jennifer Palmer"
     },
     {
       "birth_date": "1953-04-02",
@@ -12333,16 +12315,6 @@
       ]
     },
     {
-      "id": "a245cfb1-bf75-4d48-82ec-409be1943823",
-      "identifiers": [
-        {
-          "identifier": "1663",
-          "scheme": "historichansard"
-        }
-      ],
-      "name": "Mervyn Archdall"
-    },
-    {
       "birth_date": "1946-02-13",
       "gender": "male",
       "given_name": "Mervyn",
@@ -12740,10 +12712,6 @@
           "note": "multilingual"
         }
       ]
-    },
-    {
-      "id": "1950eae8-113f-4e46-88e3-b69de5321ab9",
-      "name": "Michelle Gildernew"
     },
     {
       "birth_date": "1970-03-28",
@@ -13380,10 +13348,6 @@
           "note": "multilingual"
         }
       ]
-    },
-    {
-      "id": "5e4c8277-c711-4bdd-a3ee-721997873985",
-      "name": "Naomi Long"
     },
     {
       "birth_date": "1971-12-13",
@@ -15583,10 +15547,6 @@
       ]
     },
     {
-      "id": "2b2d5cbe-04be-4e9f-a6fb-15116151e89c",
-      "name": "Philip Logan"
-    },
-    {
       "birth_date": "1973",
       "gender": "male",
       "given_name": "Philip",
@@ -15644,6 +15604,10 @@
     {
       "id": "25ed20d9-b9d3-40ec-ae5d-73a0174d452b",
       "name": "Philip Smith"
+    },
+    {
+      "id": "2b2d5cbe-04be-4e9f-a6fb-15116151e89c",
+      "name": "Phillip Logan"
     },
     {
       "gender": "male",
@@ -21579,7 +21543,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/519-NI",
-      "end_date": "2016-05-12",
+      "end_date": "2016-05-11",
       "legislative_period_id": "term/5",
       "on_behalf_of_id": "sinn-fein",
       "organization_id": "legislature",
@@ -21756,6 +21720,15 @@
       "role": "member"
     },
     {
+      "area_id": "uk.org.publicwhip/cons/197-NI",
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "dup",
+      "organization_id": "legislature",
+      "person_id": "1074213b-e6f1-4427-bb85-176ab389a305",
+      "role": "member",
+      "start_date": "2016-05-07"
+    },
+    {
       "area_id": "uk.org.publicwhip/cons/325-NI",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "dup",
@@ -21891,15 +21864,6 @@
       "person_id": "18b41c2a-dc9f-412e-a84e-37dd4cb5677b",
       "role": "member",
       "start_date": "2001-01-17"
-    },
-    {
-      "area_id": "uk.org.publicwhip/cons/231-NI",
-      "legislative_period_id": "term/5",
-      "on_behalf_of_id": "sinn-fein",
-      "organization_id": "legislature",
-      "person_id": "1950eae8-113f-4e46-88e3-b69de5321ab9",
-      "role": "member",
-      "start_date": "2016-05-07"
     },
     {
       "area_id": "uk.org.publicwhip/cons/400-NI",
@@ -22215,6 +22179,15 @@
       "organization_id": "legislature",
       "person_id": "2909e041-ac33-4de1-b119-f47d9d6acd99",
       "role": "member"
+    },
+    {
+      "area_id": "uk.org.publicwhip/cons/375-NI",
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "uup",
+      "organization_id": "legislature",
+      "person_id": "2909e041-ac33-4de1-b119-f47d9d6acd99",
+      "role": "member",
+      "start_date": "2016-05-07"
     },
     {
       "area_id": "uk.org.publicwhip/cons/235-NI",
@@ -22666,15 +22639,6 @@
       "role": "member"
     },
     {
-      "area_id": "uk.org.publicwhip/cons/38-NI",
-      "legislative_period_id": "term/5",
-      "on_behalf_of_id": "sinn-fein",
-      "organization_id": "legislature",
-      "person_id": "3a267a23-179b-4788-b485-055f78084d8e",
-      "role": "member",
-      "start_date": "2016-05-07"
-    },
-    {
       "area_id": "uk.org.publicwhip/cons/629-NI",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "sinn-fein",
@@ -22764,6 +22728,15 @@
       "person_id": "416ad2eb-10fb-4e0c-9c12-7013af005218",
       "role": "member",
       "start_date": "2014-11-04"
+    },
+    {
+      "area_id": "uk.org.publicwhip/cons/38-NI",
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "sinn-fein",
+      "organization_id": "legislature",
+      "person_id": "416ad2eb-10fb-4e0c-9c12-7013af005218",
+      "role": "member",
+      "start_date": "2016-05-07"
     },
     {
       "area_id": "uk.org.publicwhip/cons/235-NI",
@@ -23448,15 +23421,6 @@
       "start_date": "2016-01-27"
     },
     {
-      "area_id": "uk.org.publicwhip/cons/35-NI",
-      "legislative_period_id": "term/5",
-      "on_behalf_of_id": "alliance",
-      "organization_id": "legislature",
-      "person_id": "5e4c8277-c711-4bdd-a3ee-721997873985",
-      "role": "member",
-      "start_date": "2016-05-07"
-    },
-    {
       "area_id": "uk.org.publicwhip/cons/515-NI",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "social-democratic-and-labour-party",
@@ -23629,15 +23593,6 @@
       "start_date": "2016-05-07"
     },
     {
-      "area_id": "uk.org.publicwhip/cons/197-NI",
-      "legislative_period_id": "term/5",
-      "on_behalf_of_id": "dup",
-      "organization_id": "legislature",
-      "person_id": "6521f319-79d2-48a3-832b-cbe8d21217ed",
-      "role": "member",
-      "start_date": "2016-05-07"
-    },
-    {
       "area_id": "uk.org.publicwhip/cons/593-NI",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "social-democratic-and-labour-party",
@@ -23777,6 +23732,15 @@
       "organization_id": "legislature",
       "person_id": "70f90b8a-61cc-4ccb-8f74-af51a81a8739",
       "role": "member"
+    },
+    {
+      "area_id": "uk.org.publicwhip/cons/231-NI",
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "sinn-fein",
+      "organization_id": "legislature",
+      "person_id": "70f90b8a-61cc-4ccb-8f74-af51a81a8739",
+      "role": "member",
+      "start_date": "2016-05-07"
     },
     {
       "area_id": "uk.org.publicwhip/cons/231-NI",
@@ -24453,15 +24417,6 @@
       "start_date": "2015-06-30"
     },
     {
-      "area_id": "uk.org.publicwhip/cons/375-NI",
-      "legislative_period_id": "term/5",
-      "on_behalf_of_id": "uup",
-      "organization_id": "legislature",
-      "person_id": "9cc9caac-db3d-42f9-9c8b-0a91841db6df",
-      "role": "member",
-      "start_date": "2016-05-07"
-    },
-    {
       "area_id": "uk.org.publicwhip/cons/519-NI",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "uup",
@@ -24577,15 +24532,6 @@
       "organization_id": "legislature",
       "person_id": "a1aa1b78-03b3-414b-94cc-1a6877228871",
       "role": "member"
-    },
-    {
-      "area_id": "uk.org.publicwhip/cons/192-NI",
-      "legislative_period_id": "term/5",
-      "on_behalf_of_id": "sinn-fein",
-      "organization_id": "legislature",
-      "person_id": "a245cfb1-bf75-4d48-82ec-409be1943823",
-      "role": "member",
-      "start_date": "2016-05-07"
     },
     {
       "area_id": "uk.org.publicwhip/cons/406-NI",
@@ -25562,6 +25508,15 @@
       "role": "member"
     },
     {
+      "area_id": "uk.org.publicwhip/cons/35-NI",
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "alliance",
+      "organization_id": "legislature",
+      "person_id": "d0c18645-0b75-47de-96f6-6536e8b1aa60",
+      "role": "member",
+      "start_date": "2016-05-07"
+    },
+    {
       "area_id": "uk.org.publicwhip/cons/37-NI",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "social-democratic-and-labour-party",
@@ -26034,7 +25989,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/375-NI",
-      "end_date": "2016-05-12",
+      "end_date": "2016-05-11",
       "legislative_period_id": "term/5",
       "on_behalf_of_id": "social-democratic-and-labour-party",
       "organization_id": "legislature",
@@ -26195,7 +26150,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/400-NI",
-      "end_date": "2016-05-12",
+      "end_date": "2016-05-11",
       "legislative_period_id": "term/5",
       "on_behalf_of_id": "uup",
       "organization_id": "legislature",
@@ -26495,6 +26450,15 @@
       "organization_id": "legislature",
       "person_id": "fbe6def9-0295-499e-aeff-2819058c0a4b",
       "role": "member"
+    },
+    {
+      "area_id": "uk.org.publicwhip/cons/192-NI",
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "sinn-fein",
+      "organization_id": "legislature",
+      "person_id": "fbe6def9-0295-499e-aeff-2819058c0a4b",
+      "role": "member",
+      "start_date": "2016-05-07"
     },
     {
       "area_id": "uk.org.publicwhip/cons/400-NI",
