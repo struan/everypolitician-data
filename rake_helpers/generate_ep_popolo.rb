@@ -100,6 +100,11 @@ namespace :transform do
       m.delete :start_date if m[:start_date].to_s.empty? || (!e[:start_date].to_s.empty? && m[:start_date].to_s <= e[:start_date].to_s)
       m.delete :end_date   if m[:end_date].to_s.empty?   || (!e[:end_date].to_s.empty?   && m[:end_date].to_s   >= e[:end_date].to_s)
     end
+    duplicates = @json[:memberships].size - @json[:memberships].uniq.size
+    if duplicates > 0
+      warn "Discarding #{duplicates} duplicate membership#{duplicates != 1 ? 's' : ''} from Popolo".yellow
+      @json[:memberships].uniq!
+    end
   end
 
   #---------------------------------------------------------------------
