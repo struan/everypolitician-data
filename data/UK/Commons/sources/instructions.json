@@ -24,6 +24,24 @@
       }
     },
     {
+      "file": "morph/twitter.csv",
+      "create": {
+        "from": "morph",
+        "scraper": "everypolitician-scrapers/twitter-gov-uk-mps",
+        "query": "SELECT *, REPLACE(name, ' MP','') AS name FROM data"
+      },
+      "type": "person",
+      "source": "https://twitter.com/gov/lists/uk-mps",
+      "merge": {
+        "incoming_field": "name",
+        "existing_field": "name",
+        "reconciliation_file": "reconciliation/twitter.csv",
+        "patch": {
+          "ignore": [ "name", "image" ]
+        }
+      }
+    },
+    {
       "file": "YNMP/winners.csv",
       "type": "person",
       "source": "https://yournextmp.com/",
@@ -85,24 +103,6 @@
       "create": {
         "from": "election-wikidata",
         "base": "Q15283424"
-      }
-    },
-    {
-      "file": "morph/twitter.csv",
-      "create": {
-        "from": "morph",
-        "scraper": "everypolitician-scrapers/twitter-gov-uk-mps",
-        "query": "SELECT *, REPLACE(name, ' MP','') AS name FROM data"
-      },
-      "type": "person",
-      "source": "https://twitter.com/gov/lists/uk-mps",
-      "merge": {
-        "incoming_field": "name",
-        "existing_field": "name",
-        "reconciliation_file": "reconciliation/twitter.csv",
-        "patch": {
-          "ignore": [ "name" ]
-        }
       }
     }
   ]
