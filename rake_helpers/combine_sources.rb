@@ -143,7 +143,9 @@ namespace :merge_sources do
             to_patch.each do |existing_row|
               # In general, we take the first value we see — other than short dates
               # TODO: have a 'clobber' flag (or list of values to trust the latter source for)
-              incoming_row.keys.reject { |h| h == :id }.each do |h|
+
+              to_ignore = (merge_instructions[:patch] || {})[:ignore].to_a.map(&:to_sym).to_set
+              incoming_row.keys.reject { |h| h == :id || to_ignore.include?(h) }.each do |h|
                 next if incoming_row[h].to_s.empty?
 
                 # If we didn't have anything before, take the new version
