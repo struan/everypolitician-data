@@ -167,10 +167,10 @@ namespace :merge_sources do
                 end
 
                 # TODO accept multiple values for :image, :website, etc.
-                next if %i(image website facebook).include? h
+                next if %i(image website twitter facebook).include? h
 
-                # Accept multiple values for incoming and existing email + twitter
-                if %i(email twitter).include? h
+                # Accept multiple values for incoming and existing email 
+                if %i(email).include? h
                   existing_row[h] = [existing_row[h], incoming_row[h]].join(';').split(';').map(&:strip).uniq(&:downcase).join(';')
                   next
                 end
