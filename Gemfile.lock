@@ -1,18 +1,18 @@
 GIT
   remote: git://github.com/tmtmtmtm/csv_to_popolo.git
-  revision: 5a90dfd917256ef1a47f820c244778215d0dc763
+  revision: eedfd7fc30cbcea1f047d0bb788c2bea10e2fbc1
   specs:
-    csv_to_popolo (0.23.0)
+    csv_to_popolo (0.24.0)
       facebook_username_extractor
       json
       twitter_username_extractor
 
 GIT
   remote: https://github.com/everypolitician/everypolitician-popolo
-  revision: d9415242846ef06e5b498e318711d01ea6575b59
+  revision: 057374a814b636861f5ea3ecfa3b5d3835f32e71
   branch: master
   specs:
-    everypolitician-popolo (0.1.0)
+    everypolitician-popolo (0.3.1)
 
 GIT
   remote: https://github.com/everypolitician/everypolitician-ruby
@@ -40,40 +40,40 @@ GEM
       unf (>= 0.0.5, < 1.0.0)
     facebook_username_extractor (0.1.0)
     fuzzy_match (2.1.0)
-    hashdiff (0.2.3)
+    hashdiff (0.3.0)
     http-cookie (1.0.2)
       domain_name (~> 0.5)
-    iso_country_codes (0.7.2)
+    iso_country_codes (0.7.5)
     json (1.8.3)
     json5 (0.0.1)
     method_source (0.8.2)
     mime-types (2.99.1)
     mini_portile2 (2.0.0)
-    minitest (5.8.3)
+    minitest (5.9.0)
     minitest-around (0.3.2)
       minitest (~> 5.0)
     netrc (0.11.0)
-    nokogiri (1.6.7)
+    nokogiri (1.6.7.2)
       mini_portile2 (~> 2.0.0.rc2)
     pry (0.10.3)
       coderay (~> 1.1.0)
       method_source (~> 0.8.1)
       slop (~> 3.4)
-    rake (10.4.2)
+    rake (11.1.2)
     rest-client (1.8.0)
       http-cookie (>= 1.0.2, < 2.0)
       mime-types (>= 1.16, < 3.0)
       netrc (~> 0.7)
     safe_yaml (1.0.4)
-    sass (3.4.20)
+    sass (3.4.22)
     slop (3.6.0)
     twitter_username_extractor (0.1.0)
     unf (0.1.4)
       unf_ext
     unf_ext (0.0.7.2)
     unicode_utils (1.4.0)
-    vcr (3.0.0)
-    webmock (1.22.3)
+    vcr (3.0.1)
+    webmock (2.0.2)
       addressable (>= 2.3.6)
       crack (>= 0.3.2)
       hashdiff
@@ -84,7 +84,7 @@ PLATFORMS
 
 DEPENDENCIES
   colorize
-  csv_to_popolo (~> 0.23.0)!
+  csv_to_popolo (~> 0.24.0)!
   everypolitician!
   everypolitician-popolo!
   fuzzy_match
