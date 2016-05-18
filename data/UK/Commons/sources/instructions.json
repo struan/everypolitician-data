@@ -104,6 +104,20 @@
         "from": "election-wikidata",
         "base": "Q15283424"
       }
+    },
+    {
+      "notes": "Images from twitter are lowest priority",
+      "file": "morph/twitter.csv",
+      "type": "person",
+      "source": "https://twitter.com/gov/lists/uk-mps",
+      "merge": {
+        "incoming_field": "name",
+        "existing_field": "name",
+        "reconciliation_file": "reconciliation/twitter.csv",
+        "patch": {
+          "ignore": [ "name", "twitter" ]
+        }
+      }
     }
   ]
 }
