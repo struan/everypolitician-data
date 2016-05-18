@@ -57,7 +57,7 @@ def json_write(file, json)
   json[:persons].sort_by!       { |p| [ p[:name].to_s, p[:id] ] }
   json[:persons].each do |p|
     p[:identifiers].sort_by!     { |i| [ i[:scheme], i[:identifier] ] } if p.key?(:identifiers)
-    p[:contact_details].sort_by! { |d| [ d[:type], d[:value] ] }        if p.key?(:contact_details)
+    p[:contact_details].sort_by! { |d| [ d[:type] ] }                   if p.key?(:contact_details)
     p[:links].sort_by!           { |l| [ l[:note], l[:url] ] }          if p.key?(:links)
     p[:other_names].sort_by!     { |n| [ n[:lang].to_s, n[:name] ] }    if p.key?(:other_names)
   end
