@@ -92,7 +92,7 @@
       "create": {
         "from": "morph",
         "scraper": "everypolitician-scrapers/twitter-gov-uk-mps",
-        "query": "SELECT * FROM data"
+        "query": "SELECT *, REPLACE(name, ' MP','') AS name FROM data"
       },
       "type": "person",
       "source": "https://twitter.com/gov/lists/uk-mps",
