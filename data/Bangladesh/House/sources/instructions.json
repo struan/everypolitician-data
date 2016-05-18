@@ -4,7 +4,7 @@
       "file": "morph/data.csv",
       "create": {
         "from": "morph",
-        "scraper": "tmtmtmtm/bangladesh-parliament-scraper",
+        "scraper": "everypolitician-scrapers/bangladesh-parliament-scraper",
         "query": "SELECT * FROM data ORDER BY term DESC, id"
       },
       "source": "http://www.parliament.gov.bd",
