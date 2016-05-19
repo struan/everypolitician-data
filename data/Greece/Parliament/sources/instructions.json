@@ -25,6 +25,21 @@
       }
     },
     {
+      "file": "morph/wikidata.csv",
+      "create": {
+        "from": "morph",
+        "scraper": "tmtmtmtm/hellenic-parliament-wikidata",
+        "query": "SELECT * FROM data WHERE identifier__hellenic_parliament != '' ORDER BY id"
+      },
+      "source": "http://wikidata.org/",
+      "type": "wikidata",
+      "merge": {
+        "incoming_field": "identifier__hellenic_parliament",
+        "existing_field": "id",
+        "reconciliation_file": "reconciliation/wikidata.csv"
+      }
+    },
+    {
       "file": "morph/terms.csv",
       "type": "term",
       "create": {
