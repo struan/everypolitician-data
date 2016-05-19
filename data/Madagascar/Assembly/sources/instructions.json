@@ -26,14 +26,8 @@
       }
     },
     {
-      "file": "morph/terms.csv",
-      "type": "term",
-      "create": {
-        "file": "morph/terms.csv",
-        "from": "morph",
-        "scraper": "mhl/madagascar",
-        "query": "SELECT * FROM terms"
-      }
+      "file": "manual/terms.csv",
+      "type": "term"
     },
     {
       "file": "gender-balance/results.csv",
