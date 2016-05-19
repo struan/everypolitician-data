@@ -697,6 +697,7 @@
           "value": "0886-599-666"
         }
       ],
+      "gender": "male",
       "id": "40ec8cdd-9b89-444c-b7f5-161f17112015",
       "identifiers": [
         {
@@ -751,6 +752,7 @@
           "value": "0886-565624"
         }
       ],
+      "gender": "male",
       "id": "3b9e9854-23b4-4ed2-b4f4-c4d0acd5be20",
       "identifiers": [
         {
@@ -859,6 +861,7 @@
           "value": "0886-520722"
         }
       ],
+      "gender": "male",
       "id": "6c50eadc-fb64-49ec-9b0b-bcbd95249fa3",
       "identifiers": [
         {
@@ -1320,6 +1323,7 @@
           "value": "0886-738540"
         }
       ],
+      "gender": "female",
       "id": "73b9fa49-8984-4ab6-8294-8cee9112206b",
       "identifiers": [
         {
@@ -1368,6 +1372,7 @@
           "value": "0886-443857"
         }
       ],
+      "gender": "male",
       "id": "60cccfb8-178a-4acc-b33d-39e1e83a9d2c",
       "identifiers": [
         {
@@ -2346,6 +2351,16 @@
         {
           "lang": "ru",
           "name": "Партия единства",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Unity Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Strana jednoty",
           "note": "multilingual"
         }
       ]
