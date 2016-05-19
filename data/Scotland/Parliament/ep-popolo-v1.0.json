@@ -811,6 +811,12 @@
     },
     {
       "birth_date": "1954-12-31",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "AlexSalmond"
+        }
+      ],
       "gender": "male",
       "given_name": "Alex",
       "id": "b9cae27b-aab7-4a9b-bf65-d413515f0d8c",
@@ -1088,8 +1094,16 @@
           "url": "https://zh.wikipedia.org/wiki/亚历克斯·萨尔蒙德"
         },
         {
+          "note": "facebook",
+          "url": "https://facebook.com/AlexSalmond"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/AlexSalmond"
+        },
+        {
           "note": "website",
-          "url": "http://www.alexsalmond.org"
+          "url": "http://www.alexsalmond.scot/"
         }
       ],
       "name": "Alex Salmond",
@@ -23755,6 +23769,11 @@
         },
         {
           "lang": "nl",
+          "name": "Scottish Liberal Democrats",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
           "name": "Scottish Liberal Democrats",
           "note": "multilingual"
         }
