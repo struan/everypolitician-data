@@ -21,9 +21,11 @@ namespace :verify do
       warn msg
     }
 
+    date_fields = @csv.headers.select { |k| k.to_s.include? '_date' }
+
     @csv.each do |r|
       abort "No `name` in #{r}" if r[:name].to_s.empty?
-      r.to_hash.keys.select { |k| k.to_s.include? '_date' }.each do |d|
+      date_fields.each do |d|
         next if r[d].nil? || r[d].empty?
         if r[d].match(/^\d{4}$/) or r[d].match(/^\d{4}-\d{2}$/)
           # TODO make this warning configurable
