@@ -4,8 +4,8 @@
       "file": "morph/data.csv",
       "create": {
         "from": "morph",
-        "scraper": "duncanparkes/madagascar",
-        "query": "SELECT *, term_id AS term, null AS term_id FROM data"
+        "scraper": "mhl/madagascar",
+        "query": "SELECT *, term_id AS term, null AS term_id, district AS constituency FROM data"
       },
       "source": "http://www.assemblee-nationale.mg/",
       "type": "membership"
@@ -26,14 +26,8 @@
       }
     },
     {
-      "file": "morph/terms.csv",
-      "type": "term",
-      "create": {
-        "file": "morph/terms.csv",
-        "from": "morph",
-        "scraper": "duncanparkes/madagascar",
-        "query": "SELECT * FROM terms"
-      }
+      "file": "manual/terms.csv",
+      "type": "term"
     },
     {
       "file": "gender-balance/results.csv",
