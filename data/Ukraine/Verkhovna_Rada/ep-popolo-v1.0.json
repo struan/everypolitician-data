@@ -4555,13 +4555,23 @@
       "patronymic_name": "Миколайович"
     },
     {
+      "birth_date": "1957-05-30",
       "family_name": "Білозір",
+      "gender": "female",
       "given_name": "Оксана",
       "id": "31d81fe8-e327-4c8f-9089-33d183447e8e",
       "identifiers": [
         {
+          "identifier": "/m/0h96sr_",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "5503",
           "scheme": "rada"
+        },
+        {
+          "identifier": "Q444942",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://static.rada.gov.ua/dep_img8/bp80.jpg",
@@ -4570,7 +4580,80 @@
           "url": "http://static.rada.gov.ua/dep_img8/bp80.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Oksana_Bilozir"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Oksana_Bilosir"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Oksana_Bilozir"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Oksana_Biłozir"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Билозир,_Оксана_Владимировна"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Білозір_Оксана_Володимирівна"
+        }
+      ],
       "name": "Білозір Оксана Володимирівна",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Oksana Bilosir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Oksana Bilozir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Oksana Bilozir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Oksana Bilozir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Oksana Volodymyrivna Bilozir<br>Оксана Володимирівна Білозір",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Oksana Bilozir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Oksana Biłozir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Оксана Владимировна Билозир",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Білозір Оксана Володимирівна",
+          "note": "multilingual"
+        }
+      ],
       "patronymic_name": "Володимирівна"
     },
     {
