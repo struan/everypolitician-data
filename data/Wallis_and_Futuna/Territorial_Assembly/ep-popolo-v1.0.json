@@ -1,4 +1,7 @@
 {
+  "posts": [
+
+  ],
   "persons": [
     {
       "id": "27a7925a-8a28-48f6-bd70-e2f5ec326beb",
@@ -64,6 +67,11 @@
         },
         {
           "lang": "fr",
+          "name": "David Vergé",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
           "name": "David Vergé",
           "note": "multilingual"
         },
@@ -415,7 +423,7 @@
   },
   "memberships": [
     {
-      "area_id": "area/mua,_wallis",
+      "area_id": "area/m'ua,_wallis",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/non-inscrits_divers_gauche",
       "organization_id": "legislature",
@@ -519,7 +527,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/mua,_wallis",
+      "area_id": "area/m'ua,_wallis",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/non-inscrits_divers_droite",
       "organization_id": "legislature",
@@ -527,7 +535,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/mua,_wallis",
+      "area_id": "area/m'ua,_wallis",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/non-inscrits_divers_droite",
       "organization_id": "legislature",
@@ -543,7 +551,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/mua,_wallis",
+      "area_id": "area/m'ua,_wallis",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/non-inscrits_divers_gauche",
       "organization_id": "legislature",
@@ -551,7 +559,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/mua,_wallis",
+      "area_id": "area/m'ua,_wallis",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/groupe_rpwf-ump",
       "organization_id": "legislature",
@@ -567,7 +575,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/mua,_wallis",
+      "area_id": "area/m'ua,_wallis",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/non-inscrits_divers_gauche",
       "organization_id": "legislature",
@@ -601,8 +609,8 @@
       "type": "constituency"
     },
     {
-      "id": "area/mua,_wallis",
-      "name": "Mua, Wallis",
+      "id": "area/m'ua,_wallis",
+      "name": "M'ua, Wallis",
       "type": "constituency"
     },
     {
