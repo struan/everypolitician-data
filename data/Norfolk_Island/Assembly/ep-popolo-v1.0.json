@@ -1,4 +1,7 @@
 {
+  "posts": [
+
+  ],
   "persons": [
     {
       "gender": "male",
@@ -33,6 +36,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "8096d99f-f121-4162-92e8-5ab43be8ef5b",
       "identifiers": [
         {
@@ -48,6 +52,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "6408bc28-6862-4791-b51e-74f0b34f7244",
       "identifiers": [
         {
@@ -281,7 +286,7 @@
         },
         {
           "lang": "ro",
-          "name": "Politician independent",
+          "name": "politician independent",
           "note": "multilingual"
         },
         {
@@ -432,6 +437,11 @@
         {
           "lang": "sd",
           "name": "آزاد",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Politicus nullius factionis",
           "note": "multilingual"
         },
         {
@@ -637,11 +647,6 @@
         {
           "lang": "tr",
           "name": "Serbest siyasetçi",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ro",
-          "name": "Parteilos",
           "note": "multilingual"
         },
         {
