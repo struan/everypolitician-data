@@ -11,11 +11,11 @@ namespace :verify do
 
   task :load => 'merge_sources:sources/merged.csv' do
     csv_data = File.read('sources/merged.csv')
-    headers = Rcsv.raw_parse(StringIO.new(csv_data.each_line.first)).first
+    @csv_headers = Rcsv.raw_parse(StringIO.new(csv_data.each_line.first)).first
     @csv = Rcsv.parse(
       csv_data,
       row_as_hash: true,
-      columns: Hash[headers.map { |h| [h, { alias: h.to_sym }] }]
+      columns: Hash[@csv_headers.map { |h| [h, { alias: h.to_sym }] }]
     )
   end
 
@@ -27,7 +27,7 @@ namespace :verify do
       warn msg
     }
 
-    date_fields = @csv.first.keys.select { |k| k.to_s.include? '_date' }
+    date_fields = @csv_headers.select { |k| k.include? '_date' }
 
     @csv.each do |r|
       abort "No `name` in #{r}" if r[:name].to_s.empty?
