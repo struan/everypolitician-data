@@ -19,6 +19,7 @@ gem 'everypolitician', git: 'https://github.com/everypolitician/everypolitician-
 gem 'everypolitician-popolo', git: 'https://github.com/everypolitician/everypolitician-popolo', branch: 'master'
 gem 'json5'
 gem 'slop', '~> 3.6.0' # tied to pry version
+gem 'rcsv'
 
 group :test do
   gem 'minitest'
