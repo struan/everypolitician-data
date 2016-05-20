@@ -2366,6 +2366,21 @@
       ]
     },
     {
+      "id": "9741c45f-e80c-479a-bf46-fc463941d054",
+      "image": "http://www.duma.gov.ru/bitrix/templates/duma2/img/no_photo_small.gif",
+      "images": [
+        {
+          "url": "http://www.duma.gov.ru/bitrix/templates/duma2/img/no_photo_small.gif"
+        }
+      ],
+      "name": "Бережная Елена Викторовна",
+      "sources": [
+        {
+          "url": "http://www.duma.gov.ru/structure/deputies/1681460/"
+        }
+      ]
+    },
+    {
       "birth_date": "1950-08-03",
       "gender": "male",
       "given_name": "Mikhail",
@@ -30855,6 +30870,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "eo",
+          "name": "Komunista partio de la Rusia Federacio",
+          "note": "multilingual"
+        },
+        {
           "lang": "zh",
           "name": "俄罗斯共产党",
           "note": "multilingual"
@@ -31307,6 +31327,11 @@
         {
           "lang": "hy",
           "name": "Ռուսաստանի Լիբերալ-դեմոկրատական կուսակցություն",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Liberal-demokratia partio de Rusio",
           "note": "multilingual"
         },
         {
@@ -33639,6 +33664,14 @@
       "on_behalf_of_id": "party/«ЕДИНАЯ_РОССИЯ»",
       "organization_id": "legislature",
       "person_id": "9676ba76-0077-448d-9459-d451930a2b29",
+      "role": "member"
+    },
+    {
+      "area_id": "area/Ставропольский_край",
+      "legislative_period_id": "term/6",
+      "on_behalf_of_id": "party/«ЕДИНАЯ_РОССИЯ»",
+      "organization_id": "legislature",
+      "person_id": "9741c45f-e80c-479a-bf46-fc463941d054",
       "role": "member"
     },
     {
