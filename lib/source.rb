@@ -31,9 +31,13 @@ module Source
       i(:type)
     end
 
-    def fields
+    def headers
       header_line = File.open(filename, &:gets) or abort "#{filename} is empty!".red
-      Rcsv.parse(header_line, header: :none).first.map { |h| remap(h.downcase) }
+      Rcsv.parse(header_line, header: :none).first
+    end
+
+    def fields
+      headers.map { |h| remap(h.downcase) }
     end
 
     def merge_instructions
@@ -84,15 +88,25 @@ module Source
     def filename
       i(:file)
     end
+
+    def file_contents
+      File.read(filename)
+    end
   end
 
   class CSV < Base
+    def header_converters
+      @header_converters ||= Hash[headers.map do |h|
+        [h, { alias: h.downcase.strip.gsub(/\s+/, '_').gsub(/\W+/, '').to_sym }]
+      end]
+    end
+
     def as_table
       rows = []
-      ::CSV.table(filename, converters: nil).each do |row|
+      Rcsv.parse(file_contents, row_as_hash: true, columns: header_converters).each do |row|
         # Need to make a copy in case there are multiple source columns
         # mapping to the same term (e.g. with areas)
-        rows << Hash[ row.headers.each.map { |h| [ remap(h), row[h].nil? ? nil : row[h].tidy ] } ]
+        rows << Hash[ row.keys.each.map { |h| [ remap(h), row[h].nil? ? nil : row[h].tidy ] } ]
       end
       rows
     end
@@ -118,7 +132,7 @@ module Source
     end
 
     def as_json
-      ::JSON.parse(File.read(filename), symbolize_names: true)
+      ::JSON.parse(file_contents, symbolize_names: true)
     end
   end
 
