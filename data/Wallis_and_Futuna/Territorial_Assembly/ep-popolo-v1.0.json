@@ -1,4 +1,7 @@
 {
+  "posts": [
+
+  ],
   "persons": [
     {
       "id": "27a7925a-8a28-48f6-bd70-e2f5ec326beb",
@@ -64,6 +67,11 @@
         },
         {
           "lang": "fr",
+          "name": "David Vergé",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
           "name": "David Vergé",
           "note": "multilingual"
         },
@@ -415,6 +423,14 @@
   },
   "memberships": [
     {
+      "area_id": "area/m'ua,_wallis",
+      "legislative_period_id": "term/2012",
+      "on_behalf_of_id": "party/non-inscrits_divers_gauche",
+      "organization_id": "legislature",
+      "person_id": "004d331c-886c-4ee9-8b5c-0960d464c497",
+      "role": "member"
+    },
+    {
       "area_id": "area/mua,_wallis",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/non-inscrits_divers_gauche",
@@ -519,11 +535,27 @@
       "role": "member"
     },
     {
+      "area_id": "area/m'ua,_wallis",
+      "legislative_period_id": "term/2012",
+      "on_behalf_of_id": "party/non-inscrits_divers_droite",
+      "organization_id": "legislature",
+      "person_id": "bf7400dc-d5d0-4654-b778-31d102a15a28",
+      "role": "member"
+    },
+    {
       "area_id": "area/mua,_wallis",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/non-inscrits_divers_droite",
       "organization_id": "legislature",
       "person_id": "bf7400dc-d5d0-4654-b778-31d102a15a28",
+      "role": "member"
+    },
+    {
+      "area_id": "area/m'ua,_wallis",
+      "legislative_period_id": "term/2012",
+      "on_behalf_of_id": "party/non-inscrits_divers_droite",
+      "organization_id": "legislature",
+      "person_id": "c4409077-d6dc-459a-a04d-fa64166d4cc8",
       "role": "member"
     },
     {
@@ -543,11 +575,27 @@
       "role": "member"
     },
     {
+      "area_id": "area/m'ua,_wallis",
+      "legislative_period_id": "term/2012",
+      "on_behalf_of_id": "party/non-inscrits_divers_gauche",
+      "organization_id": "legislature",
+      "person_id": "d3004f1c-3337-40ee-9df2-724d66a18060",
+      "role": "member"
+    },
+    {
       "area_id": "area/mua,_wallis",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/non-inscrits_divers_gauche",
       "organization_id": "legislature",
       "person_id": "d3004f1c-3337-40ee-9df2-724d66a18060",
+      "role": "member"
+    },
+    {
+      "area_id": "area/m'ua,_wallis",
+      "legislative_period_id": "term/2012",
+      "on_behalf_of_id": "party/groupe_rpwf-ump",
+      "organization_id": "legislature",
+      "person_id": "d674f7fb-51e8-4228-94aa-a7c7700038cf",
       "role": "member"
     },
     {
@@ -564,6 +612,14 @@
       "on_behalf_of_id": "party/groupe_centriste",
       "organization_id": "legislature",
       "person_id": "df04c47d-defa-4cea-8b77-0b9c117cdd25",
+      "role": "member"
+    },
+    {
+      "area_id": "area/m'ua,_wallis",
+      "legislative_period_id": "term/2012",
+      "on_behalf_of_id": "party/non-inscrits_divers_gauche",
+      "organization_id": "legislature",
+      "person_id": "eef98109-a6a7-4efc-842a-11f5e9a5aa58",
       "role": "member"
     },
     {
@@ -598,6 +654,11 @@
     {
       "id": "area/hihifo,_wallis",
       "name": "Hihifo, Wallis",
+      "type": "constituency"
+    },
+    {
+      "id": "area/m'ua,_wallis",
+      "name": "M'ua, Wallis",
       "type": "constituency"
     },
     {
