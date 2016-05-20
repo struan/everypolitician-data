@@ -1,4 +1,7 @@
 {
+  "posts": [
+
+  ],
   "persons": [
     {
       "contact_details": [
@@ -88,6 +91,7 @@
       ]
     },
     {
+      "birth_date": "1969-01-20",
       "contact_details": [
         {
           "type": "email",
@@ -96,11 +100,16 @@
       ],
       "email": "nicole.bouteau@assemblee.pf",
       "gender": "female",
+      "given_name": "Nicole",
       "id": "33fa963c-f9fe-407f-b4ed-bdc0285b4020",
       "identifiers": [
         {
           "identifier": "74",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q3341009",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.assemblee.pf/_bdd/photos_elus/300x400/BOUTEAU-Nicole.jpg",
@@ -109,7 +118,54 @@
           "url": "http://www.assemblee.pf/_bdd/photos_elus/300x400/BOUTEAU-Nicole.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Nicole_Bouteau"
+        }
+      ],
       "name": "BOUTEAU Nicole",
+      "other_names": [
+        {
+          "name": "Nicole Bouteau",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Nicole Bouteau",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Nicole Bouteau",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Nicole Bouteau",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Nicole Bouteau",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Nicole Bouteau",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Nicole Bouteau",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Nicole Bouteau",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.assemblee.pf/en/representants/vos-representants/trouvez-un-representant?rep=74"
@@ -204,6 +260,7 @@
       ]
     },
     {
+      "birth_date": "1944-11-22",
       "contact_details": [
         {
           "type": "email",
@@ -212,11 +269,28 @@
       ],
       "email": "jacqui.drollet@assemblee.pf",
       "gender": "male",
+      "given_name": "Jacqui",
       "id": "9e0ae2d6-ff22-44cc-8b60-fcb7ef0d2019",
       "identifiers": [
         {
+          "identifier": "16712909g",
+          "scheme": "bnf"
+        },
+        {
           "identifier": "62",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "171660986",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "305247587",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q3160384",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.assemblee.pf/_bdd/photos_elus/300x400/DROLLET-Jacqui.jpg",
@@ -225,7 +299,70 @@
           "url": "http://www.assemblee.pf/_bdd/photos_elus/300x400/DROLLET-Jacqui.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Jacqui_Drollet"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Jacqui_Drollet"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Jacqui_Drollet"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Jacqui_Drollet"
+        },
+        {
+          "note": "Wikipedia (ty)",
+          "url": "https://ty.wikipedia.org/wiki/Jacqui_Drollet"
+        }
+      ],
       "name": "DROLLET Jacqui",
+      "other_names": [
+        {
+          "name": "Jacqui Drollet",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Jacqui Drollet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Jacqui Drollet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Jacqui Drollet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Jacqui Drollet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Jacqui Drollet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Jacqui Drollet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ty",
+          "name": "Jacqui Drollet",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.assemblee.pf/en/representants/vos-representants/trouvez-un-representant?rep=62"
@@ -357,11 +494,16 @@
       ],
       "email": "joelle.frebault@assemblee.pf",
       "gender": "female",
+      "given_name": "Joëlle",
       "id": "6be153d6-fe52-4227-9279-49a658975c47",
       "identifiers": [
         {
           "identifier": "66",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q18214789",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.assemblee.pf/_bdd/photos_elus/300x400/FREBAULT-Joelle.jpg",
@@ -370,7 +512,34 @@
           "url": "http://www.assemblee.pf/_bdd/photos_elus/300x400/FREBAULT-Joelle.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Joëlle_Frébault"
+        }
+      ],
       "name": "FREBAULT Joëlle",
+      "other_names": [
+        {
+          "name": "Joëlle Frébault",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Joëlle Frébault",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Joëlle Frébault",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Joëlle Frébault",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.assemblee.pf/en/representants/vos-representants/trouvez-un-representant?rep=66"
@@ -436,6 +605,7 @@
       ]
     },
     {
+      "birth_date": "1956-07-22",
       "contact_details": [
         {
           "type": "email",
@@ -444,11 +614,16 @@
       ],
       "email": "antony.geros@assemblee.pf",
       "gender": "male",
+      "given_name": "Antony",
       "id": "cc1dae15-257a-4494-aeee-e04d915c13cd",
       "identifiers": [
         {
           "identifier": "68",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q2857540",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.assemblee.pf/_bdd/photos_elus/300x400/GEROS-Antony.jpg",
@@ -457,7 +632,34 @@
           "url": "http://www.assemblee.pf/_bdd/photos_elus/300x400/GEROS-Antony.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Antony_Géros"
+        }
+      ],
       "name": "GÉROS Antony",
+      "other_names": [
+        {
+          "name": "Antony Géros",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Antony Géros",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Antony Géros",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Antony Géros",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.assemblee.pf/en/representants/vos-representants/trouvez-un-representant?rep=68"
@@ -494,6 +696,7 @@
       ]
     },
     {
+      "birth_date": "1965-01-07",
       "contact_details": [
         {
           "type": "email",
@@ -502,11 +705,20 @@
       ],
       "email": "teura.iriti@assemblee.pf",
       "gender": "female",
+      "given_name": "Teura",
       "id": "e57381e9-2595-4e9b-8489-6f3ad1479956",
       "identifiers": [
         {
           "identifier": "94",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "senateur/iriti_teura14044w",
+          "scheme": "senatdotfr"
+        },
+        {
+          "identifier": "Q18214955",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.assemblee.pf/_bdd/photos_elus/300x400/IRITI-Teura.jpg",
@@ -515,7 +727,39 @@
           "url": "http://www.assemblee.pf/_bdd/photos_elus/300x400/IRITI-Teura.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Teura_Iriti"
+        }
+      ],
       "name": "IRITI Teura",
+      "other_names": [
+        {
+          "name": "Teura Iriti",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Teura Iriti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Teura Iriti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Teura Iriti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Teura Iriti",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.assemblee.pf/en/representants/vos-representants/trouvez-un-representant?rep=94"
@@ -618,11 +862,16 @@
       ],
       "email": "victor.m@assemblee.pf",
       "gender": "male",
+      "given_name": "Victor",
       "id": "c5e3ccc2-ad84-49bb-83ee-de250b36ffc2",
       "identifiers": [
         {
           "identifier": "69",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q16682589",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.assemblee.pf/_bdd/photos_elus/300x400/MAAMAATUAIAHUTAPU-Victor.jpg",
@@ -631,7 +880,34 @@
           "url": "http://www.assemblee.pf/_bdd/photos_elus/300x400/MAAMAATUAIAHUTAPU-Victor.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Victor_Maamaatuaiahutapu"
+        }
+      ],
       "name": "MAAMAATUAIAHUTAPU Victor",
+      "other_names": [
+        {
+          "name": "Victor Maamaatuaiahutapu",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Victor Maamaatuaiahutapu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Victor Maamaatuaiahutapu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Victor Maamaatuaiahutapu",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.assemblee.pf/en/representants/vos-representants/trouvez-un-representant?rep=69"
@@ -676,11 +952,16 @@
       ],
       "email": "emma.maraea@assemblee.pf",
       "gender": "female",
+      "given_name": "Emma",
       "id": "13153440-692f-46c3-a622-33512150fd95",
       "identifiers": [
         {
           "identifier": "75",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q16631934",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.assemblee.pf/_bdd/photos_elus/300x400/MARAEA-Emma.jpg",
@@ -689,7 +970,39 @@
           "url": "http://www.assemblee.pf/_bdd/photos_elus/300x400/MARAEA-Emma.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Emma_Maraea"
+        }
+      ],
       "name": "MARAEA Emma",
+      "other_names": [
+        {
+          "name": "Emma Maraea",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Emma Maraea",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Emma Maraea",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Emma Maraea",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Emma Maraea",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.assemblee.pf/en/representants/vos-representants/trouvez-un-representant?rep=75"
@@ -726,6 +1039,7 @@
       ]
     },
     {
+      "birth_date": "1950-05-03",
       "contact_details": [
         {
           "type": "email",
@@ -734,11 +1048,16 @@
       ],
       "email": "armelle.merceron@assemblee.pf",
       "gender": "female",
+      "given_name": "Armelle",
       "id": "547318b6-8ea5-4fdc-8c07-3982a03c39c5",
       "identifiers": [
         {
           "identifier": "76",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q2862180",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.assemblee.pf/_bdd/photos_elus/300x400/MERCERON-Armelle.jpg",
@@ -747,7 +1066,44 @@
           "url": "http://www.assemblee.pf/_bdd/photos_elus/300x400/MERCERON-Armelle.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Armelle_Merceron"
+        }
+      ],
       "name": "MERCERON Armelle",
+      "other_names": [
+        {
+          "name": "Armelle Merceron",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Armelle Merceron",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Armelle Merceron",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Armelle Merceron",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Armelle Merceron",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Armelle Merceron",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.assemblee.pf/en/representants/vos-representants/trouvez-un-representant?rep=76"
@@ -792,11 +1148,16 @@
       ],
       "email": "antonio.perez@assemblee.pf",
       "gender": "male",
+      "given_name": "Antonio",
       "id": "d62006bc-0611-44d2-85a7-5e844218b915",
       "identifiers": [
         {
           "identifier": "77",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q2857395",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.assemblee.pf/_bdd/photos_elus/300x400/PEREZ-Antonio.jpg",
@@ -805,7 +1166,44 @@
           "url": "http://www.assemblee.pf/_bdd/photos_elus/300x400/PEREZ-Antonio.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Antonio_Perez"
+        }
+      ],
       "name": "PEREZ Antonio",
+      "other_names": [
+        {
+          "name": "Antonio Perez",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Antonio Perez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Antonio Perez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Antonio Perez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Antonio Perez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Антонио Перес",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.assemblee.pf/en/representants/vos-representants/trouvez-un-representant?rep=77"
@@ -958,10 +1356,15 @@
       ]
     },
     {
+      "birth_date": "1975-05-10",
       "contact_details": [
         {
           "type": "email",
           "value": "maina.sage@assemblee.pf"
+        },
+        {
+          "type": "twitter",
+          "value": "MainaSage"
         }
       ],
       "email": "maina.sage@assemblee.pf",
@@ -971,6 +1374,10 @@
         {
           "identifier": "105",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q17350905",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.assemblee.pf/_bdd/photos_elus/300x400/SAGE-Maina.jpg",
@@ -979,7 +1386,51 @@
           "url": "http://www.assemblee.pf/_bdd/photos_elus/300x400/SAGE-Maina.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Maina_Sage"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/MainaSageDeputee"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/MainaSage"
+        },
+        {
+          "note": "website",
+          "url": "http://mainasage.fr/"
+        }
+      ],
       "name": "SAGE Maina",
+      "other_names": [
+        {
+          "name": "Maina Sage",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Maina Sage",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Maina Sage",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Maina Sage",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Maina Sage",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.assemblee.pf/en/representants/vos-representants/trouvez-un-representant?rep=105"
@@ -1016,6 +1467,7 @@
       ]
     },
     {
+      "birth_date": "1962-09-15",
       "contact_details": [
         {
           "type": "email",
@@ -1024,11 +1476,16 @@
       ],
       "email": "philip.schyle@assemblee.pf",
       "gender": "male",
+      "given_name": "Philip",
       "id": "2543eb1b-c26c-48d7-8e48-83b5afc1b546",
       "identifiers": [
         {
           "identifier": "79",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q3379075",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.assemblee.pf/_bdd/photos_elus/300x400/SCHYLE-Philip.jpg",
@@ -1037,7 +1494,62 @@
           "url": "http://www.assemblee.pf/_bdd/photos_elus/300x400/SCHYLE-Philip.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Philip_Schyle"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Philip_Schyle"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Philip_Schyle"
+        }
+      ],
       "name": "SCHYLE Philip",
+      "other_names": [
+        {
+          "name": "Philip Schyle",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Philip Schyle",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Philip Schyle",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Philip Schyle",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Philip Schyle",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Philip Schyle",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Philip Schyle",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Philip Schyle",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.assemblee.pf/en/representants/vos-representants/trouvez-un-representant?rep=79"
@@ -1111,11 +1623,16 @@
       ],
       "email": "teura.tarahu@assemblee.pf",
       "gender": "female",
+      "given_name": "Teura",
       "id": "17490af1-c556-4774-bf41-0f382dd5e7f6",
       "identifiers": [
         {
           "identifier": "80",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q16679400",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.assemblee.pf/_bdd/photos_elus/300x400/TARAHU-Teura.jpg",
@@ -1124,7 +1641,39 @@
           "url": "http://www.assemblee.pf/_bdd/photos_elus/300x400/TARAHU-Teura.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Teura_Tarahu-Atuahiva"
+        }
+      ],
       "name": "TARAHU-ATUAHIVA Teura",
+      "other_names": [
+        {
+          "name": "Teura Tarahu-Atuahiva",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Teura Tarahu-Atuahiva",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Teura Tarahu-Atuahiva",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Teura Tarahu-Atuahiva",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Teura Tarahu-Atuahiva",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.assemblee.pf/en/representants/vos-representants/trouvez-un-representant?rep=80"
@@ -1190,6 +1739,7 @@
       ]
     },
     {
+      "birth_date": "1944-11-01",
       "contact_details": [
         {
           "type": "email",
@@ -1198,11 +1748,40 @@
       ],
       "email": "oscar.temaru@assemblee.pf",
       "gender": "male",
+      "given_name": "Oscar",
       "id": "04db9403-324d-4a91-b25f-990863894b4b",
       "identifiers": [
         {
+          "identifier": "140514185",
+          "scheme": "bnf"
+        },
+        {
           "identifier": "70",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "1614997",
+          "scheme": "fast"
+        },
+        {
+          "identifier": "/m/036p99",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "0000 0000 9692 8452",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "079443265",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "143306967",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q936654",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.assemblee.pf/_bdd/photos_elus/300x400/TEMARU-Oscar.jpg",
@@ -1211,7 +1790,206 @@
           "url": "http://www.assemblee.pf/_bdd/photos_elus/300x400/TEMARU-Oscar.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Oscar_Temaru"
+        },
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Oscar_Temaru"
+        },
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Όσκαρ_Τεμαρού"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Oscar_Temaru"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Oscar_Temaru"
+        },
+        {
+          "note": "Wikipedia (et)",
+          "url": "https://et.wikipedia.org/wiki/Oscar_Temaru"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Oscar_Temaru"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Oscar_Temaru"
+        },
+        {
+          "note": "Wikipedia (hr)",
+          "url": "https://hr.wikipedia.org/wiki/Oscar_Temaru"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Oscar_Temaru"
+        },
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/오스카르_테마루"
+        },
+        {
+          "note": "Wikipedia (la)",
+          "url": "https://la.wikipedia.org/wiki/Anscharius_Manutahi_Temaru"
+        },
+        {
+          "note": "Wikipedia (lt)",
+          "url": "https://lt.wikipedia.org/wiki/Oscar_Temaru"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Oscar_Temaru"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Oscar_Temaru"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Oscar_Temaru"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Темару,_Оскар"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Oscar_Temaru"
+        },
+        {
+          "note": "Wikipedia (ty)",
+          "url": "https://ty.wikipedia.org/wiki/Oscar_Temaru"
+        }
+      ],
       "name": "TEMARU Oscar",
+      "other_names": [
+        {
+          "name": "Oscar Temaru",
+          "note": "alternate"
+        },
+        {
+          "lang": "ca",
+          "name": "Oscar Temaru",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Oscar Temaru",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Oscar Temaru",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Όσκαρ Τεμαρού",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Oscar Temaru",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Oscar Temaru",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Oscar Temaru",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Oscar Temaru",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Oscar Temaru",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Oscar Temaru",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Oscar Temaru",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Oscar Temaru",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "오스카르 테마루",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Anscharius Manutahi Temaru",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Oscar Temaru",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Oscar Temaru",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Oscar Temaru",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Oscar Temaru",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Oscar Temaru",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Oscar Temaru",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Темару, Оскар",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Oscar Temaru",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ty",
+          "name": "Oscar Temaru",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.assemblee.pf/en/representants/vos-representants/trouvez-un-representant?rep=70"
@@ -1393,6 +2171,7 @@
       ]
     },
     {
+      "birth_date": "1949-08-07",
       "contact_details": [
         {
           "type": "email",
@@ -1401,11 +2180,20 @@
       ],
       "email": "gaston.tongsang@assemblee.pf",
       "gender": "male",
+      "given_name": "Gaston",
       "id": "3f32e9d6-1456-4195-8e5b-192886238c92",
       "identifiers": [
         {
           "identifier": "81",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/027bgnx",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q2109562",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.assemblee.pf/_bdd/photos_elus/300x400/TONG-SANG-Gaston.jpg",
@@ -1414,7 +2202,144 @@
           "url": "http://www.assemblee.pf/_bdd/photos_elus/300x400/TONG-SANG-Gaston.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Gaston_Tong_Sang"
+        },
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Γκαστόν_Τονγκ_Σανγκ"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Gaston_Tong_Sang"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Gaston_Tong_Sang"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Gaston_Tong_Sang"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Gaston_Tong_Sang"
+        },
+        {
+          "note": "Wikipedia (lt)",
+          "url": "https://lt.wikipedia.org/wiki/Gaston_Tong_Sang"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Gaston_Tong_Sang"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Gaston_Tong_Sang"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Gaston_Tong_Sang"
+        },
+        {
+          "note": "Wikipedia (vi)",
+          "url": "https://vi.wikipedia.org/wiki/Gaston_Tong_Sang"
+        }
+      ],
       "name": "TONG SANG Gaston",
+      "other_names": [
+        {
+          "name": "Gaston Tong Sang",
+          "note": "alternate"
+        },
+        {
+          "lang": "ca",
+          "name": "Gaston Tong Sang",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Gaston Tong Sang",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Gaston Tong Sang",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Γκαστόν Τονγκ Σανγκ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Gaston Tong Sang",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Gaston Tong Sang",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Gaston Tong Sang",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Gaston Tong Sang",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Gaston Tong Sang",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Gaston Tong Sang",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Gaston Tong Sang",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Gaston Tong Sang",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Gaston Tong Sang",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Gaston Tong Sang",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Gaston Tong Sang",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Gaston Tong Sang",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Gaston Tong Sang",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.assemblee.pf/en/representants/vos-representants/trouvez-un-representant?rep=81"
@@ -1480,6 +2405,7 @@
       ]
     },
     {
+      "birth_date": "1971",
       "contact_details": [
         {
           "type": "email",
@@ -1488,11 +2414,16 @@
       ],
       "email": "president@assemblee.pf",
       "gender": "male",
+      "given_name": "Marcel",
       "id": "16a2a30c-56bf-4d2e-a9eb-a706d7764e0f",
       "identifiers": [
         {
           "identifier": "128",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q18414743",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.assemblee.pf/_bdd/photos_elus/300x400/TUIHANI-Marcel.jpg",
@@ -1501,7 +2432,38 @@
           "url": "http://www.assemblee.pf/_bdd/photos_elus/300x400/TUIHANI-Marcel.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Marcel_Tuihani"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Marcel_Tuihani"
+        }
+      ],
       "name": "TUIHANI Marcel",
+      "other_names": [
+        {
+          "name": "Marcel Tuihani",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Marcel Tuihani",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Marcel Tuihani",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Marcel Tuihani",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.assemblee.pf/en/representants/vos-representants/trouvez-un-representant?rep=128"
@@ -1870,7 +2832,8 @@
   ],
   "meta": {
     "sources": [
-      "http://www.assemblee.pf"
+      "http://www.assemblee.pf",
+      "http://wikidata.org/"
     ]
   },
   "memberships": [
