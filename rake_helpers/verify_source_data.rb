@@ -1,3 +1,4 @@
+require 'rcsv'
 
 # After generating the merged CSV, ensure that it contains what we need
 # and is well-formed
@@ -9,8 +10,13 @@ desc "Verify merged data"
 namespace :verify do
 
   task :load => 'merge_sources:sources/merged.csv' do
-    # plain CSV read — no need for the (much slower) csv_table remapping
-    @csv = CSV.read('sources/merged.csv', headers: true, header_converters: :symbol)
+    csv_data = File.read('sources/merged.csv')
+    headers = Rcsv.raw_parse(StringIO.new(csv_data.each_line.first)).first
+    @csv = Rcsv.parse(
+      csv_data,
+      row_as_hash: true,
+      columns: Hash[headers.map { |h| [h, { alias: h.to_sym }] }]
+    )
   end
 
   task :check_data => :load do
@@ -21,7 +27,7 @@ namespace :verify do
       warn msg
     }
 
-    date_fields = @csv.headers.select { |k| k.to_s.include? '_date' }
+    date_fields = @csv.first.keys.select { |k| k.to_s.include? '_date' }
 
     @csv.each do |r|
       abort "No `name` in #{r}" if r[:name].to_s.empty?
