@@ -92,7 +92,7 @@ module Source
 
     def rcsv_column_options
       @header_converters ||= Hash[headers.map do |h|
-        [h, { alias: h.downcase.strip.gsub(/\s+/, '_').gsub(/\W+/, '').to_sym, type: converters }]
+        [h, { alias: h.downcase.strip.gsub(/\s+/, '_').gsub(/\W+/, '').to_sym, type: converter(h) }]
       end]
     end
 
@@ -105,7 +105,7 @@ module Source
       []
     end
 
-    def converters
+    def converter(h)
       :string
     end
   end
@@ -200,8 +200,8 @@ module Source
   end
 
   class Gender < PlainCSV
-    def converters
-      :int
+    def converter(h)
+      h == 'uuid' ? :string : :int
     end
 
     def fields 
