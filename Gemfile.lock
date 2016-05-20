@@ -1,10 +1,11 @@
 GIT
   remote: git://github.com/tmtmtmtm/csv_to_popolo.git
-  revision: eedfd7fc30cbcea1f047d0bb788c2bea10e2fbc1
+  revision: a38c69ce43c458dd9c1d40ef015fcc8044546d86
   specs:
-    csv_to_popolo (0.24.0)
+    csv_to_popolo (0.25.0)
       facebook_username_extractor
       json
+      rcsv
       twitter_username_extractor
 
 GIT
@@ -85,7 +86,7 @@ PLATFORMS
 
 DEPENDENCIES
   colorize
-  csv_to_popolo (~> 0.24.0)!
+  csv_to_popolo (~> 0.25.0)!
   everypolitician!
   everypolitician-popolo!
   fuzzy_match
