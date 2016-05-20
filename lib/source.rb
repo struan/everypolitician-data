@@ -1,4 +1,4 @@
-require 'csv'
+require 'rcsv'
 
 module Source
 
@@ -29,11 +29,6 @@ module Source
 
     def type
       i(:type)
-    end
-
-    def fields
-      header_line = File.open(filename, &:gets) or abort "#{filename} is empty!".red
-      ::CSV.parse_line(header_line).map { |h| remap(h.downcase) } 
     end
 
     def merge_instructions
@@ -84,31 +79,50 @@ module Source
     def filename
       i(:file)
     end
-  end
 
-  class CSV < Base
-    def as_table
-      rows = []
-      ::CSV.table(filename, converters: nil).each do |row|
-        # Need to make a copy in case there are multiple source columns
-        # mapping to the same term (e.g. with areas)
-        rows << Hash[ row.headers.each.map { |h| [ remap(h), row[h].nil? ? nil : row[h].tidy ] } ]
-      end
-      rows
+    def file_contents
+      File.read(filename)
     end
   end
 
   class PlainCSV < Base
-    def fields 
+    def as_table
+      Rcsv.parse(file_contents, row_as_hash: true, columns: rcsv_column_options)
+    end
+
+    def rcsv_column_options
+      @header_converters ||= Hash[headers.map do |h|
+        [h, { alias: h.downcase.strip.gsub(/\s+/, '_').gsub(/\W+/, '').to_sym, type: converter(h) }]
+      end]
+    end
+
+    def headers
+      header_line = File.open(filename, &:gets) or abort "#{filename} is empty!".red
+      Rcsv.parse(header_line, header: :none).first
+    end
+
+    def fields
       []
     end
 
-    def as_table
-      ::CSV.table(filename, converters: converters)
+    def converter(h)
+      :string
     end
-    
-    def converters
-      nil
+  end
+
+  class CSV < PlainCSV
+    def fields
+      headers.map { |h| remap(h.downcase) }
+    end
+
+    def as_table
+      rows = []
+      super.each do |row|
+        # Need to make a copy in case there are multiple source columns
+        # mapping to the same term (e.g. with areas)
+        rows << Hash[ row.keys.each.map { |h| [ remap(h), row[h].nil? ? nil : row[h].tidy ] } ]
+      end
+      rows
     end
   end
 
@@ -118,7 +132,7 @@ module Source
     end
 
     def as_json
-      ::JSON.parse(File.read(filename), symbolize_names: true)
+      ::JSON.parse(file_contents, symbolize_names: true)
     end
   end
 
@@ -134,7 +148,7 @@ module Source
 
     def id_map
       return {} unless File.exists?(id_map_file)
-      Hash[::CSV.table(id_map_file, converters: nil).map { |r| [r[:id], r[:uuid]] }]
+      Hash[Rcsv.parse(File.read(id_map_file), row_as_hash: true, columns: {}).map { |r| [r['id'], r['uuid']] }]
     end
 
     def write_id_map_file!(data)
@@ -186,8 +200,8 @@ module Source
   end
 
   class Gender < PlainCSV
-    def converters
-      :integer
+    def converter(h)
+      h == 'uuid' ? :string : :int
     end
 
     def fields 
