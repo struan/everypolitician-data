@@ -12831,6 +12831,12 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Fran_Bailey.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Fran_Bailey.jpg"
+        }
+      ],
       "links": [
         {
           "note": "Wikipedia (en)",
@@ -39265,6 +39271,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "fa",
+          "name": "باب هاوک",
+          "note": "multilingual"
+        },
+        {
           "lang": "fi",
           "name": "Bob Hawke",
           "note": "multilingual"
@@ -39400,6 +39411,10 @@
       "given_name": "Robert",
       "id": "cdda6599-192b-470c-916f-14bbbf04ef70",
       "identifiers": [
+        {
+          "identifier": "katter-robert-cummin-bob-12716",
+          "scheme": "audb"
+        },
         {
           "identifier": "10353",
           "scheme": "everypolitician_legacy"
@@ -44421,8 +44436,16 @@
           "scheme": "gnd"
         },
         {
+          "identifier": "0000 0001 1466 4201",
+          "scheme": "isni"
+        },
+        {
           "identifier": "n96014338",
           "scheme": "lcauth"
+        },
+        {
+          "identifier": "35376901",
+          "scheme": "nla"
         },
         {
           "identifier": "10001",
