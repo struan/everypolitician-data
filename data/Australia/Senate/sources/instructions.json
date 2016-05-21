@@ -5,7 +5,7 @@
       "create": {
         "from": "morph",
         "scraper": "everypolitician-scrapers/australia-openaustralia-senators",
-        "query": "SELECT *, id AS identifier__openaustralia, identifier__aph AS id FROM data WHERE term IN ('43', '44') ORDER BY id"
+        "query": "SELECT *, id AS identifier__openaustralia, identifier__aph AS id FROM data ORDER BY id"
       },
       "source": "http://data.openaustralia.org/",
       "type": "membership"
