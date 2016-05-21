@@ -339,6 +339,11 @@
       "id": "Q1815344",
       "label": "Defence Minister of Denmark",
       "title": "Defence Minister of Denmark"
+    },
+    {
+      "id": "Q5449541",
+      "label": "Finance Minister of Denmark",
+      "title": "Finance Minister of Denmark"
     }
   ],
   "Q4994622": [
@@ -1389,7 +1394,11 @@
     {
       "id": "Q5449541",
       "label": "Finance Minister of Denmark",
-      "title": "Finance Minister of Denmark"
+      "title": "Finance Minister of Denmark",
+      "qualifiers": {
+        "P580": "2001-11-27",
+        "P582": "2007-11-23"
+      }
     }
   ],
   "Q1799046": [
@@ -1572,6 +1581,25 @@
       "id": "Q12311817",
       "label": "member of the Folketing",
       "title": "member of the Folketing"
+    }
+  ],
+  "Q2978598": [
+    {
+      "id": "Q5449541",
+      "label": "Finance Minister of Denmark",
+      "title": "Finance Minister of Denmark",
+      "qualifiers": {
+        "P580": "2015-06-28"
+      }
+    },
+    {
+      "id": "Q5449541",
+      "label": "Finance Minister of Denmark",
+      "title": "Finance Minister of Denmark",
+      "qualifiers": {
+        "P580": "2009-04-07",
+        "P582": "2011-10-03"
+      }
     }
   ],
   "Q558865": [
@@ -2246,6 +2274,11 @@
       "id": "Q1815344",
       "label": "Defence Minister of Denmark",
       "title": "Defence Minister of Denmark"
+    },
+    {
+      "id": "Q5449541",
+      "label": "Finance Minister of Denmark",
+      "title": "Finance Minister of Denmark"
     }
   ],
   "Q20181359": [
@@ -2309,6 +2342,13 @@
       }
     }
   ],
+  "Q273942": [
+    {
+      "id": "Q5449541",
+      "label": "Finance Minister of Denmark",
+      "title": "Finance Minister of Denmark"
+    }
+  ],
   "Q327190": [
     {
       "id": "Q27169",
@@ -2341,7 +2381,11 @@
     {
       "id": "Q5449541",
       "label": "Finance Minister of Denmark",
-      "title": "Finance Minister of Denmark"
+      "title": "Finance Minister of Denmark",
+      "qualifiers": {
+        "P580": "2011-10-03",
+        "P582": "2015-06-28"
+      }
     },
     {
       "id": "Q12311817",
@@ -2371,6 +2415,13 @@
       "id": "Q27169",
       "label": "member of the European Parliament",
       "title": "member of the European Parliament"
+    }
+  ],
+  "Q12316220": [
+    {
+      "id": "Q5449541",
+      "label": "Finance Minister of Denmark",
+      "title": "Finance Minister of Denmark"
     }
   ],
   "Q20175365": [
