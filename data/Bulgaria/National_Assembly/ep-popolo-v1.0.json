@@ -11455,6 +11455,10 @@
           "url": "https://bgwikiquote.wikipedia.org/wiki/Георги_Близнашки"
         },
         {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Georgi_Bliznashki"
+        },
+        {
           "note": "Wikipedia (cs)",
           "url": "https://cs.wikipedia.org/wiki/Georgi_Bliznaški"
         },
@@ -21584,6 +21588,47 @@
       ]
     },
     {
+      "birth_date": "1959-06-25",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "ivan.stoynov@parliament.bg"
+        }
+      ],
+      "email": "ivan.stoynov@parliament.bg",
+      "id": "c601fb02-8444-4c5a-965a-51137e2094c5",
+      "identifiers": [
+        {
+          "identifier": "2636",
+          "scheme": "parliament_bg"
+        }
+      ],
+      "image": "http://www.parliament.bg/images/Assembly/2636.png",
+      "images": [
+        {
+          "url": "http://www.parliament.bg/images/Assembly/2636.png"
+        }
+      ],
+      "name": "ИВАН ДИМИТРОВ СТОЙНОВ",
+      "other_names": [
+        {
+          "lang": "bg",
+          "name": "ИВАН ДИМИТРОВ СТОЙНОВ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "IVAN DIMITROV STOYNOV",
+          "note": "multilingual"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.parliament.bg/export.php/bg/xml/MP/2636"
+        }
+      ]
+    },
+    {
       "birth_date": "1956-06-23",
       "contact_details": [
         {
@@ -24057,6 +24102,11 @@
         {
           "lang": "he",
           "name": "אירינה בוקובה",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Irina Bokova",
           "note": "multilingual"
         },
         {
@@ -61621,6 +61671,15 @@
       "start_date": "2015-09-28"
     },
     {
+      "area_id": "25",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "party/abv",
+      "organization_id": "legislature",
+      "person_id": "838e9f5f-b63b-4d1c-acac-094797410249",
+      "role": "member",
+      "start_date": "2016-05-20"
+    },
+    {
       "area_id": "5",
       "end_date": "2009-12-09",
       "legislative_period_id": "term/41",
@@ -65713,6 +65772,15 @@
       "person_id": "c55c1567-b626-4e1d-bbab-1391296b9edc",
       "role": "member",
       "start_date": "2004-02-25"
+    },
+    {
+      "area_id": "26",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "party/political_party_gerb",
+      "organization_id": "legislature",
+      "person_id": "c601fb02-8444-4c5a-965a-51137e2094c5",
+      "role": "member",
+      "start_date": "2016-05-18"
     },
     {
       "area_id": "23",
