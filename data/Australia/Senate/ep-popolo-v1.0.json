@@ -4,6 +4,7 @@
   ],
   "persons": [
     {
+      "birth_date": "1941-12-30",
       "contact_details": [
         {
           "type": "email",
@@ -27,6 +28,10 @@
         {
           "identifier": "10193",
           "scheme": "openaustralia"
+        },
+        {
+          "identifier": "Q4706579",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/4L6/upload_ref_binary/4L6.JPG",
@@ -37,6 +42,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Alan_Eggleston"
+        },
+        {
           "note": "website",
           "url": "http://www.senatoralaneggleston.com/"
         }
@@ -46,9 +55,62 @@
         {
           "name": "Senator Alan Eggleston",
           "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Alan Eggleston",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Alan Eggleston",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Alan Eggleston",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Alan Eggleston",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Alan Eggleston",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Alan Eggleston",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Alan Eggleston",
+          "note": "multilingual"
         }
       ],
       "sort_name": "Eggleston, Alan",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
+    },
+    {
+      "family_name": "Ferguson",
+      "given_name": "Alan",
+      "id": "9dd3a970-1895-4d6f-b486-fc9ec1a71e3b",
+      "identifiers": [
+        {
+          "identifier": "10216",
+          "scheme": "openaustralia"
+        }
+      ],
+      "name": "Alan Ferguson",
+      "sort_name": "Ferguson, Alan",
       "sources": [
         {
           "url": "http://data.openaustralia.org/members/senators.xml"
@@ -403,6 +465,24 @@
       ]
     },
     {
+      "family_name": "Hurley",
+      "given_name": "Annette",
+      "id": "4604aa20-0792-4611-881f-3d1fcd30b2fc",
+      "identifiers": [
+        {
+          "identifier": "10322",
+          "scheme": "openaustralia"
+        }
+      ],
+      "name": "Annette Hurley",
+      "sort_name": "Hurley, Annette",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
+    },
+    {
       "birth_date": "1957-02-25",
       "contact_details": [
         {
@@ -504,6 +584,122 @@
         }
       ],
       "sort_name": "Sinodinos, Arthur",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
+    },
+    {
+      "birth_date": "1967-04-17",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "Barnaby_Joyce"
+        }
+      ],
+      "family_name": "Joyce",
+      "gender": "male",
+      "given_name": "Barnaby",
+      "id": "b7aa3154-8a36-48a2-b600-1d170b41bca0",
+      "identifiers": [
+        {
+          "identifier": "E5D",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "10350",
+          "scheme": "openaustralia"
+        },
+        {
+          "identifier": "Q4861362",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/96/Senator_Barnaby_Joyce.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Senator_Barnaby_Joyce.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Barnaby_Joyce"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Barnaby_Joyce"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Barnaby_Joyce"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Barnaby_Joyce"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/巴納比·喬伊斯"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/BarnabyJoyceMP"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/Barnaby_Joyce"
+        },
+        {
+          "note": "website",
+          "url": "http://www.barnabyjoyce.com.au/"
+        }
+      ],
+      "name": "Barnaby Joyce",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Barnaby Joyce",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Barnaby Joyce",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Barnaby Joyce",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Barnaby Joyce",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Barnaby Joyce",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Barnaby Joyce",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Barnaby Joyce",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "巴納比·喬伊斯",
+          "note": "multilingual"
+        }
+      ],
+      "sort_name": "Joyce, Barnaby",
       "sources": [
         {
           "url": "http://data.openaustralia.org/members/senators.xml"
@@ -678,16 +874,379 @@
       ]
     },
     {
+      "birth_date": "1944-12-27",
+      "family_name": "Brown",
+      "gender": "male",
+      "given_name": "Bob",
+      "id": "dc2d214f-1eb7-4201-8ea8-01e22d42fac5",
+      "identifiers": [
+        {
+          "identifier": "130282",
+          "scheme": "fast"
+        },
+        {
+          "identifier": "/m/01yx5t",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "0000 0000 8152 886X",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "n84084102",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "75523026-f144-4380-8b1a-46a4484e07c7",
+          "scheme": "musicbrainz"
+        },
+        {
+          "identifier": "10696",
+          "scheme": "openaustralia"
+        },
+        {
+          "identifier": "72558568",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q24598",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c3/BobBrown3.png",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/BobBrown3.png"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Bob_Brown"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Bob_Brown"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Bob_Brown"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Bob_Brown"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Bob_Brown_(homme_politique_australien)"
+        },
+        {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/ボブ・ブラウン"
+        },
+        {
+          "note": "Wikipedia (la)",
+          "url": "https://la.wikipedia.org/wiki/Robertus_Iacobus_Brown"
+        },
+        {
+          "note": "Wikipedia (mg)",
+          "url": "https://mg.wikipedia.org/wiki/Bob_Brown"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Bob_Brown"
+        },
+        {
+          "note": "Wikipedia (plwikiquote)",
+          "url": "https://plwikiquote.wikipedia.org/wiki/Bob_Brown"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Браун,_Роберт_Джеймс"
+        },
+        {
+          "note": "Wikipedia (simple)",
+          "url": "https://simple.wikipedia.org/wiki/Bob_Brown"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/鮑伯·布朗"
+        }
+      ],
+      "name": "Bob Brown",
+      "other_names": [
+        {
+          "lang": "ca",
+          "name": "Bob Brown",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Bob Brown",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Bob Brown",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Μπομπ Μπράουν",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Bob Brown",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "Bob Brown",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Bob Brown",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "باب براون",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Bob Brown",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Bob Brown",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Bob Brown",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Bob Brown",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ボブ・ブラウン",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "밥 브라운",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Robertus Iacobus Brown",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mg",
+          "name": "Bob Brown",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Bob Brown",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Bob Brown",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Bob Brown",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Bob Brown",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Bob Brown",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Браун, Роберт Джеймс",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Bob Brown",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "鮑伯·布朗",
+          "note": "multilingual"
+        }
+      ],
+      "sort_name": "Brown, Bob",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
+    },
+    {
+      "birth_date": "1947-09-28",
       "family_name": "Carr",
+      "gender": "male",
       "given_name": "Bob",
       "id": "a84574bb-4f51-4c4d-98d7-5ba05b502278",
       "identifiers": [
         {
+          "identifier": "495943",
+          "scheme": "fast"
+        },
+        {
+          "identifier": "/m/0g53dq",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "10767",
           "scheme": "openaustralia"
+        },
+        {
+          "identifier": "087889935",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "1979637",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q541217",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Bob_Carr_in_2009.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Bob_Carr_in_2009.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (cs)",
+          "url": "https://cs.wikipedia.org/wiki/Bob_Carr"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Bob_Carr"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Bob_Carr"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Bob_Carr"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Bob_Carr"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Bob_Carr"
+        },
+        {
+          "note": "Wikipedia (simple)",
+          "url": "https://simple.wikipedia.org/wiki/Bob_Carr"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Bob_Carr"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/鲍勃·卡尔"
         }
       ],
       "name": "Bob Carr",
+      "other_names": [
+        {
+          "lang": "cs",
+          "name": "Bob Carr",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Bob Carr",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Bob Carr",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Bob Carr",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Bob Carr",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Bob Carr",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Bob Carr",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Bob Carr",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Bob Carr",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Bob Carr",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Bob Carr",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Bob Carr",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "鲍勃·卡尔",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Carr, Bob",
       "sources": [
         {
@@ -1133,6 +1692,114 @@
         }
       ],
       "sort_name": "Bilyk, Catryna",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
+    },
+    {
+      "birth_date": "1958-05-14",
+      "family_name": "Evans",
+      "gender": "male",
+      "given_name": "Chris",
+      "id": "04b83926-3eb9-4620-ada4-391542de8356",
+      "identifiers": [
+        {
+          "identifier": "/m/06mhpx",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "10204",
+          "scheme": "openaustralia"
+        },
+        {
+          "identifier": "Q466583",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Christopher_Evans_(Politiker)"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Chris_Evans_(Australian_politician)"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Chris_Evans_(homme_politique_australien)"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Chris_Evans_(polityk)"
+        }
+      ],
+      "name": "Chris Evans",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Chris Evans",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Christopher Evans",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Chris Evans",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Chris Evans",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Chris Evans",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Chris Evans",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Chris Evans",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Chris Evans",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Chris Evans",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Chris Evans",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Крис Эванс",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Chris Evans",
+          "note": "multilingual"
+        }
+      ],
+      "sort_name": "Evans, Chris",
       "sources": [
         {
           "url": "http://data.openaustralia.org/members/senators.xml"
@@ -1744,6 +2411,24 @@
       ]
     },
     {
+      "family_name": "Wortley",
+      "given_name": "Dana",
+      "id": "3b28b7dc-b177-4c44-aa75-ce627e9b7fd8",
+      "identifiers": [
+        {
+          "identifier": "10686",
+          "scheme": "openaustralia"
+        }
+      ],
+      "name": "Dana Wortley",
+      "sort_name": "Wortley, Dana",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
+    },
+    {
       "birth_date": "1965-07-17",
       "family_name": "Bushby",
       "gender": "male",
@@ -1963,6 +2648,76 @@
         }
       ],
       "sort_name": "Fawcett, David",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
+    },
+    {
+      "birth_date": "1970-03-05",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "Feeney4Batman"
+        }
+      ],
+      "family_name": "Feeney",
+      "gender": "male",
+      "given_name": "David",
+      "id": "e69a7709-cfe4-4b78-9433-4324eed6622e",
+      "identifiers": [
+        {
+          "identifier": "I0O",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "10709",
+          "scheme": "openaustralia"
+        },
+        {
+          "identifier": "Q16213376",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/David_Feeney"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/Feeney4Batman"
+        },
+        {
+          "note": "website",
+          "url": "http://www.davidfeeney.com.au"
+        }
+      ],
+      "name": "David Feeney",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "David Feeney",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "David Feeney",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "David Feeney",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "David Feeney",
+          "note": "multilingual"
+        }
+      ],
+      "sort_name": "Feeney, David",
       "sources": [
         {
           "url": "http://data.openaustralia.org/members/senators.xml"
@@ -2461,6 +3216,7 @@
       ]
     },
     {
+      "birth_date": "1954-06-06",
       "family_name": "Farrell",
       "gender": "male",
       "given_name": "Don",
@@ -2477,6 +3233,10 @@
         {
           "identifier": "10708",
           "scheme": "openaustralia"
+        },
+        {
+          "identifier": "Q5292594",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/I0N/upload_ref_binary/I0N.JPG",
@@ -2485,11 +3245,72 @@
           "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/I0N/upload_ref_binary/I0N.JPG"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Don_Farrell"
+        }
+      ],
       "name": "Don Farrell",
       "other_names": [
         {
           "name": "Senator the Hon Don Farrell",
           "note": "alternate"
+        },
+        {
+          "lang": "da",
+          "name": "Don Farrell",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Don Farrell",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Don Farrell",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Don Farrell",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Don Farrell",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Don Farrell",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Don Farrell",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Don Farrell",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Don Farrell",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Don Farrell",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Don Farrell",
+          "note": "multilingual"
         }
       ],
       "sort_name": "Farrell, Don",
@@ -2806,6 +3627,78 @@
         }
       ],
       "sort_name": "Nash, Fiona",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
+    },
+    {
+      "birth_date": "1958-07-06",
+      "family_name": "Humphries",
+      "gender": "male",
+      "given_name": "Gary",
+      "id": "448b3399-2de4-4078-83f8-7141d763ff2d",
+      "identifiers": [
+        {
+          "identifier": "10318",
+          "scheme": "openaustralia"
+        },
+        {
+          "identifier": "Q1494887",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/02/Gary_Humphries_2010.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Gary_Humphries_2010.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Gary_Humphries"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Gary_Humphries"
+        }
+      ],
+      "name": "Gary Humphries",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Gary Humphries",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Gary Humphries",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Gary Humphries",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Gary Humphries",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Gary Humphries",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Gary Humphries",
+          "note": "multilingual"
+        }
+      ],
+      "sort_name": "Humphries, Gary",
       "sources": [
         {
           "url": "http://data.openaustralia.org/members/senators.xml"
@@ -3235,6 +4128,135 @@
       ]
     },
     {
+      "family_name": "Barnett",
+      "given_name": "Guy",
+      "id": "b424105b-4341-40f8-840e-b419f5aee1a7",
+      "identifiers": [
+        {
+          "identifier": "10027",
+          "scheme": "openaustralia"
+        }
+      ],
+      "name": "Guy Barnett",
+      "sort_name": "Barnett, Guy",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
+    },
+    {
+      "birth_date": "1947-10-29",
+      "family_name": "Coonan",
+      "gender": "female",
+      "given_name": "Helen",
+      "id": "c85f9d82-4b30-45ef-ac06-58b8fc37cff6",
+      "identifiers": [
+        {
+          "identifier": "10144",
+          "scheme": "openaustralia"
+        },
+        {
+          "identifier": "Q475045",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/97/Helen_Coonan.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Helen_Coonan.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Helen_Coonan"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Helen_Coonan"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Helen_Coonan"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/海倫·庫南"
+        }
+      ],
+      "name": "Helen Coonan",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Helen Coonan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Helen Coonan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Helen Coonan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Helen Coonan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Helen Coonan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Helen Coonan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Helen Coonan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Helen Coonan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Helen Coonan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Helen Coonan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Helen Coonan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "海倫·庫南",
+          "note": "multilingual"
+        }
+      ],
+      "sort_name": "Coonan, Helen",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
+    },
+    {
+      "birth_date": "1959-03-11",
       "family_name": "Kroger",
       "gender": "female",
       "given_name": "Helen",
@@ -3251,6 +4273,10 @@
         {
           "identifier": "10712",
           "scheme": "openaustralia"
+        },
+        {
+          "identifier": "Q5702622",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/G1N/upload_ref_binary/G1N.JPG",
@@ -3259,11 +4285,51 @@
           "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/G1N/upload_ref_binary/G1N.JPG"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Helen_Kroger"
+        },
+        {
+          "note": "website",
+          "url": "http://www.helenkroger.com.au"
+        }
+      ],
       "name": "Helen Kroger",
       "other_names": [
         {
           "name": "Senator Helen Kroger",
           "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Helen Kroger",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Helen Kroger",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Helen Kroger",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Helen Kroger",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Helen Kroger",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Helen Kroger",
+          "note": "multilingual"
         }
       ],
       "sort_name": "Kroger, Helen",
@@ -4433,6 +5499,7 @@
       ]
     },
     {
+      "birth_date": "1949-03-19",
       "contact_details": [
         {
           "type": "email",
@@ -4456,6 +5523,10 @@
         {
           "identifier": "10309",
           "scheme": "openaustralia"
+        },
+        {
+          "identifier": "Q6239528",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/7L6/upload_ref_binary/7L6.JPG",
@@ -4464,11 +5535,89 @@
           "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/7L6/upload_ref_binary/7L6.JPG"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/John_Hogg_(Politiker)"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/John_Hogg"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/John_Hogg"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Хогг,_Джон"
+        }
+      ],
       "name": "John Hogg",
       "other_names": [
         {
           "name": "Senator the Hon John Hogg",
           "note": "alternate"
+        },
+        {
+          "lang": "da",
+          "name": "John Hogg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "John Hogg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "John Hogg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "John Hogg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "John Hogg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "John Hogg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "John Hogg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "John Hogg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "John Hogg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "John Hogg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Хогг, Джон",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "John Hogg",
+          "note": "multilingual"
         }
       ],
       "sort_name": "Hogg, John",
@@ -4645,6 +5794,119 @@
         }
       ],
       "sort_name": "Williams, John",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
+    },
+    {
+      "birth_date": "1943-04-11",
+      "death_date": "2012-03-31",
+      "family_name": "Adams",
+      "gender": "female",
+      "given_name": "Judith",
+      "id": "72c1dd84-c19a-4446-9efc-d279444acd49",
+      "identifiers": [
+        {
+          "identifier": "10005",
+          "scheme": "openaustralia"
+        },
+        {
+          "identifier": "Q379072",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Judith_Adams"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Judith_Adams"
+        }
+      ],
+      "name": "Judith Adams",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Judith Adams",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Judith Adams",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Judith Adams",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Judith Adams",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Judith Adams",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Judith Adams",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Judith Adams",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Джудит Адамс",
+          "note": "multilingual"
+        }
+      ],
+      "sort_name": "Adams, Judith",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
+    },
+    {
+      "family_name": "Troeth",
+      "given_name": "Judith",
+      "id": "2962bdc4-b099-469c-85a7-21d713ec6c75",
+      "identifiers": [
+        {
+          "identifier": "10639",
+          "scheme": "openaustralia"
+        }
+      ],
+      "name": "Judith Troeth",
+      "sort_name": "Troeth, Judith",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
+    },
+    {
+      "family_name": "McGauran",
+      "given_name": "Julian",
+      "id": "6acbc5f1-a626-4332-b9ad-8ceed10b9ec3",
+      "identifiers": [
+        {
+          "identifier": "10435",
+          "scheme": "openaustralia"
+        }
+      ],
+      "name": "Julian McGauran",
+      "sort_name": "McGauran, Julian",
       "sources": [
         {
           "url": "http://data.openaustralia.org/members/senators.xml"
@@ -4907,6 +6169,24 @@
         }
       ],
       "sort_name": "Gallagher, Katy",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
+    },
+    {
+      "family_name": "O'Brien",
+      "given_name": "Kerry",
+      "id": "36bbc12d-b4ac-437f-84fc-3130785daca6",
+      "identifiers": [
+        {
+          "identifier": "10492",
+          "scheme": "openaustralia"
+        }
+      ],
+      "name": "Kerry O'Brien",
+      "sort_name": "O'Brien, Kerry",
       "sources": [
         {
           "url": "http://data.openaustralia.org/members/senators.xml"
@@ -5236,6 +6516,7 @@
       ]
     },
     {
+      "birth_date": "1953-11-04",
       "contact_details": [
         {
           "type": "email",
@@ -5259,6 +6540,14 @@
         {
           "identifier": "10769",
           "scheme": "openaustralia"
+        },
+        {
+          "identifier": "160558880",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q6550105",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/183342/upload_ref_binary/183342.jpg",
@@ -5267,11 +6556,52 @@
           "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/183342/upload_ref_binary/183342.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Lin_Thorp"
+        }
+      ],
       "name": "Lin Thorp",
       "other_names": [
         {
           "name": "Senator the Hon Lin Thorp",
           "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Lin Thorp",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Lin Thorp",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Lin Thorp",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Lin Thorp",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Lin Thorp",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Lin Thorp",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Lin Thorp",
+          "note": "multilingual"
         }
       ],
       "sort_name": "Thorp, Lin",
@@ -5449,6 +6779,7 @@
       ]
     },
     {
+      "birth_date": "1972-04-18",
       "family_name": "Pratt",
       "gender": "female",
       "given_name": "Louise",
@@ -5465,6 +6796,14 @@
         {
           "identifier": "10714",
           "scheme": "openaustralia"
+        },
+        {
+          "identifier": "305105021",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q1872184",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/I0T/upload_ref_binary/I0T.JPG",
@@ -5473,11 +6812,51 @@
           "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/I0T/upload_ref_binary/I0T.JPG"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Louise_Pratt"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Louise_Pratt"
+        }
+      ],
       "name": "Louise Pratt",
       "other_names": [
         {
           "name": "Senator Louise Pratt",
           "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Louise Pratt",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Louise Pratt",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Louise Pratt",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Louise Pratt",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Louise Pratt",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Louise Pratt",
+          "note": "multilingual"
         }
       ],
       "sort_name": "Pratt, Louise",
@@ -5587,6 +6966,85 @@
       ]
     },
     {
+      "birth_date": "1971-11-09",
+      "family_name": "Arbib",
+      "gender": "male",
+      "given_name": "Mark",
+      "id": "d4984fc3-38d0-4418-a266-de414f60e1f6",
+      "identifiers": [
+        {
+          "identifier": "10704",
+          "scheme": "openaustralia"
+        },
+        {
+          "identifier": "Q6766585",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/MarkArbibJerilderieLibraryOpening.JPG",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/MarkArbibJerilderieLibraryOpening.JPG"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Mark_Arbib"
+        }
+      ],
+      "name": "Mark Arbib",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Mark Arbib",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Mark Arbib",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Mark Arbib",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Mark Arbib",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Mark Arbib",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Mark Arbib",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "馬克·阿比布",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "馬克·阿比布",
+          "note": "multilingual"
+        }
+      ],
+      "sort_name": "Arbib, Mark",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
+    },
+    {
+      "birth_date": "1954-06-29",
       "contact_details": [
         {
           "type": "email",
@@ -5610,6 +7068,10 @@
         {
           "identifier": "10048",
           "scheme": "openaustralia"
+        },
+        {
+          "identifier": "Q6766745",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/2L6/upload_ref_binary/2L6.jpg",
@@ -5620,6 +7082,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Mark_Bishop"
+        },
+        {
           "note": "website",
           "url": "http://www.senatormarkbishop.com.au"
         }
@@ -5629,6 +7095,61 @@
         {
           "name": "Senator Mark Bishop",
           "note": "alternate"
+        },
+        {
+          "lang": "da",
+          "name": "Mark Bishop",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Mark Bishop",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Mark Bishop",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Mark Bishop",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Mark Bishop",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Mark Bishop",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Mark Bishop",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Mark Bishop",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Mark Bishop",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Марк Бишоп",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Mark Bishop",
+          "note": "multilingual"
         }
       ],
       "sort_name": "Bishop, Mark",
@@ -5639,6 +7160,7 @@
       ]
     },
     {
+      "birth_date": "1958-04-11",
       "family_name": "Furner",
       "gender": "male",
       "given_name": "Mark",
@@ -5655,6 +7177,10 @@
         {
           "identifier": "10710",
           "scheme": "openaustralia"
+        },
+        {
+          "identifier": "Q6767697",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/I0P/upload_ref_binary/I0P.JPG",
@@ -5665,6 +7191,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Mark_Furner"
+        },
+        {
           "note": "website",
           "url": "http://www.markfurner.com/"
         }
@@ -5674,9 +7204,89 @@
         {
           "name": "Senator Mark Furner",
           "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Mark Furner",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Mark Furner",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Mark Furner",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Mark Furner",
+          "note": "multilingual"
         }
       ],
       "sort_name": "Furner, Mark",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
+    },
+    {
+      "birth_date": "1962-12-25",
+      "family_name": "Fisher",
+      "gender": "female",
+      "given_name": "Mary",
+      "id": "a23e9f77-dd98-4b95-bfa1-ccb54daf48a3",
+      "identifiers": [
+        {
+          "identifier": "774088",
+          "scheme": "nlatrove"
+        },
+        {
+          "identifier": "10227",
+          "scheme": "openaustralia"
+        },
+        {
+          "identifier": "Q6779926",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Mary_Jo_Fisher"
+        }
+      ],
+      "name": "Mary Fisher",
+      "other_names": [
+        {
+          "name": "Mary Jo Fisher",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Mary Jo Fisher",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Mary Jo Fisher",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Mary Jo Fisher",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Mary Jo Fisher",
+          "note": "multilingual"
+        }
+      ],
+      "sort_name": "Fisher, Mary",
       "sources": [
         {
           "url": "http://data.openaustralia.org/members/senators.xml"
@@ -5822,6 +7432,110 @@
       ]
     },
     {
+      "birth_date": "1972-09-06",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Matt.Thistlethwaite.MP@aph.gov.au"
+        },
+        {
+          "type": "twitter",
+          "value": "MThistlethwaite"
+        }
+      ],
+      "email": "Matt.Thistlethwaite.MP@aph.gov.au",
+      "family_name": "Thistlethwaite",
+      "gender": "male",
+      "given_name": "Matt",
+      "id": "0df2b935-09c4-4ca9-a4e6-5f55dce57423",
+      "identifiers": [
+        {
+          "identifier": "182468",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "10762",
+          "scheme": "openaustralia"
+        },
+        {
+          "identifier": "Q6789423",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Matt_Thistlethwaite.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Matt_Thistlethwaite.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Matt_Thistlethwaite"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/馬特·齊索斯威特"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/ThistlethwaiteM"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/MThistlethwaite"
+        },
+        {
+          "note": "website",
+          "url": "http://www.mattthistlethwaite.com.au/"
+        }
+      ],
+      "name": "Matt Thistlethwaite",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Matt Thistlethwaite",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Matt Thistlethwaite",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Matt Thistlethwaite",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Matt Thistlethwaite",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Matt Thistlethwaite",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Matt Thistlethwaite",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "馬特·齊索斯威特",
+          "note": "multilingual"
+        }
+      ],
+      "sort_name": "Thistlethwaite, Matt",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
+    },
+    {
       "birth_date": "1980-12-17",
       "contact_details": [
         {
@@ -5912,6 +7626,7 @@
       ]
     },
     {
+      "birth_date": "1974-09-10",
       "family_name": "Tillem",
       "gender": "male",
       "given_name": "Mehmet",
@@ -5926,8 +7641,16 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "1537812",
+          "scheme": "nlatrove"
+        },
+        {
           "identifier": "10821",
           "scheme": "openaustralia"
+        },
+        {
+          "identifier": "Q16215128",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/249499/upload_ref_binary/249499.jpg",
@@ -5936,14 +7659,63 @@
           "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/249499/upload_ref_binary/249499.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Mehmet_Tillem"
+        }
+      ],
       "name": "Mehmet Tillem",
       "other_names": [
         {
           "name": "Senator Mehmet Tillem",
           "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Mehmet Tillem",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Mehmet Tillem",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Mehmet Tillem",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Mehmet Tillem",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Mehmet Tillem",
+          "note": "multilingual"
         }
       ],
       "sort_name": "Tillem, Mehmet",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
+    },
+    {
+      "family_name": "Forshaw",
+      "given_name": "Michael",
+      "id": "e210e560-6f97-4b7a-8dd9-aec0dcb8b44c",
+      "identifiers": [
+        {
+          "identifier": "10235",
+          "scheme": "openaustralia"
+        }
+      ],
+      "name": "Michael Forshaw",
+      "sort_name": "Forshaw, Michael",
       "sources": [
         {
           "url": "http://data.openaustralia.org/members/senators.xml"
@@ -6387,6 +8159,86 @@
         }
       ],
       "sort_name": "McKim, Nick",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
+    },
+    {
+      "family_name": "Minchin",
+      "given_name": "Nick",
+      "id": "e73ba683-a92a-4e37-bc7d-6ffd69a6c235",
+      "identifiers": [
+        {
+          "identifier": "10460",
+          "scheme": "openaustralia"
+        }
+      ],
+      "name": "Nick Minchin",
+      "sort_name": "Minchin, Nick",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
+    },
+    {
+      "birth_date": "1955-11-19",
+      "family_name": "Sherry",
+      "gender": "male",
+      "given_name": "Nick",
+      "id": "cd1fb059-6bd4-4536-976e-a7b20f3e589c",
+      "identifiers": [
+        {
+          "identifier": "10576",
+          "scheme": "openaustralia"
+        },
+        {
+          "identifier": "Q7027920",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Nick_Sherry"
+        }
+      ],
+      "name": "Nick Sherry",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Nick Sherry",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Nick Sherry",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Nick Sherry",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Nick Sherry",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Nick Sherry",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Nick Sherry",
+          "note": "multilingual"
+        }
+      ],
+      "sort_name": "Sherry, Nick",
       "sources": [
         {
           "url": "http://data.openaustralia.org/members/senators.xml"
@@ -7810,6 +9662,7 @@
       ]
     },
     {
+      "birth_date": "1940-12-09",
       "contact_details": [
         {
           "type": "email",
@@ -7833,6 +9686,10 @@
         {
           "identifier": "10057",
           "scheme": "openaustralia"
+        },
+        {
+          "identifier": "Q7363550",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/YE4/upload_ref_binary/YE4.JPG",
@@ -7843,6 +9700,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ron_Boswell"
+        },
+        {
           "note": "website",
           "url": "http://www.ronboswell.com/"
         }
@@ -7852,9 +9713,57 @@
         {
           "name": "Senator the Hon Ronald Boswell",
           "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Ron Boswell",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Ron Boswell",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Ron Boswell",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Ron Boswell",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Ron Boswell",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Ron Boswell",
+          "note": "multilingual"
         }
       ],
       "sort_name": "Boswell, Ron",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
+    },
+    {
+      "family_name": "Trood",
+      "given_name": "Russell",
+      "id": "4285a720-c88c-4072-a737-0208717c1ffe",
+      "identifiers": [
+        {
+          "identifier": "10640",
+          "scheme": "openaustralia"
+        }
+      ],
+      "name": "Russell Trood",
+      "sort_name": "Trood, Russell",
       "sources": [
         {
           "url": "http://data.openaustralia.org/members/senators.xml"
@@ -8700,6 +10609,43 @@
       ]
     },
     {
+      "family_name": "Fielding",
+      "given_name": "Steve",
+      "id": "34a8425e-043b-4bab-8f4f-8ccf75b4fb5d",
+      "identifiers": [
+        {
+          "identifier": "10221",
+          "scheme": "openaustralia"
+        }
+      ],
+      "name": "Steve Fielding",
+      "sort_name": "Fielding, Steve",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
+    },
+    {
+      "family_name": "Hutchins",
+      "given_name": "Steve",
+      "id": "49195ce9-61a3-4a8b-bb1b-ae72378dad06",
+      "identifiers": [
+        {
+          "identifier": "10323",
+          "scheme": "openaustralia"
+        }
+      ],
+      "name": "Steve Hutchins",
+      "sort_name": "Hutchins, Steve",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
+    },
+    {
+      "birth_date": "1951-03-15",
       "family_name": "Boyce",
       "gender": "female",
       "given_name": "Sue",
@@ -8716,6 +10662,10 @@
         {
           "identifier": "10062",
           "scheme": "openaustralia"
+        },
+        {
+          "identifier": "Q16148043",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/H6V/upload_ref_binary/H6V.jpg",
@@ -8726,6 +10676,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Sue_Boyce"
+        },
+        {
           "note": "website",
           "url": "http://www.sueboyce.com.au/"
         }
@@ -8735,6 +10689,26 @@
         {
           "name": "Senator Sue Boyce",
           "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Sue Boyce",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Sue Boyce",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Sue Boyce",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Sue Boyce",
+          "note": "multilingual"
         }
       ],
       "sort_name": "Boyce, Sue",
@@ -8820,6 +10794,68 @@
       ]
     },
     {
+      "birth_date": "1956-03-21",
+      "family_name": "Crossin",
+      "gender": "female",
+      "given_name": "Trish",
+      "id": "3e120b8f-97b8-4895-86ed-36db30e04643",
+      "identifiers": [
+        {
+          "identifier": "10161",
+          "scheme": "openaustralia"
+        },
+        {
+          "identifier": "92406054",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q16187030",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Trish_Crossin"
+        }
+      ],
+      "name": "Trish Crossin",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Trish Crossin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Trish Crossin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Trish Crossin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Trish Crossin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Trish Crossin",
+          "note": "multilingual"
+        }
+      ],
+      "sort_name": "Crossin, Trish",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
+    },
+    {
+      "birth_date": "1954-07-07",
       "contact_details": [
         {
           "type": "email",
@@ -8843,6 +10879,10 @@
         {
           "identifier": "10609",
           "scheme": "openaustralia"
+        },
+        {
+          "identifier": "Q7901281",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/00AOS/upload_ref_binary/00AOS.jpg",
@@ -8853,6 +10893,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ursula_Stephens"
+        },
+        {
           "note": "website",
           "url": "http://www.ursulastephens.com/"
         }
@@ -8862,6 +10906,41 @@
         {
           "name": "Senator the Hon Ursula Stephens",
           "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Ursula Stephens",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Ursula Stephens",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Ursula Stephens",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Ursula Stephens",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Ursula Stephens",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Ursula Stephens",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Ursula Stephens",
+          "note": "multilingual"
         }
       ],
       "sort_name": "Stephens, Ursula",
@@ -8978,6 +11057,251 @@
     {
       "classification": "party",
       "id": "australian_greens",
+      "identifiers": [
+        {
+          "identifier": "Q781486",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/AustralianGreensLogo_historical.svg",
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.greens.org.au/"
+        }
+      ],
+      "name": "Australian Greens",
+      "other_names": [
+        {
+          "lang": "el",
+          "name": "Πράσινοι (Αυστραλία)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Aŭstraliaj Verduloj",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Australian Greens",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "澳大利亚绿党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be",
+          "name": "Аўстралійская партыя зялёных",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Đảng Xanh Úc",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Australian Greens",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Verdi Australiani",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Verts australiens",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Australian vihreät",
+          "note": "multilingual"
+        },
+        {
+          "lang": "az",
+          "name": "Avstraliya Yaşıllar Partiyası",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "オーストラリア緑の党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Verdes Australianos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Австралийская партия зелёных",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "ავსტრალიის მწვანეთა პარტია",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Australian Greens",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Verdes Australianos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "오스트레일리아 녹색당",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Avustralya Yeşilleri",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tl",
+          "name": "Partido ng mga Luntian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Австралійська партія зелених",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "ஆத்திரேலியப் பசுமைக் கட்சி",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Australian Greens",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nan",
+          "name": "Australia Le̍k Tóng",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ckb",
+          "name": "سەوزەکانی ئوسترالیا",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "澳大利亚清绿党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "澳洲綠黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "The Greens (Australien)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "ავსტრალიელი მწვანეები",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "მწვანე პარტია (ავსტრალია)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "მწვანეთა პარტია (ავსტრალია)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Australian Greens",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Avustralya yeşilleri",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tl",
+          "name": "Green Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Australian Greens",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "緑の党 (オーストラリア)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "オーストラリアン・グリーンズ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "オーストラリアの緑の党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "オーストラリア・グリーンズ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "オーストラリア・グリーン党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "オーストラリア・グリーンズ党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "オーストラリアみどりの党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Australian Greens",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Australian Greens",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "The Greens",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "classification": "party",
+      "id": "party/australian_greens",
       "identifiers": [
         {
           "identifier": "Q781486",
@@ -10319,7 +12643,116 @@
     },
     {
       "classification": "party",
+      "id": "party/dpres",
+      "name": "DPRES"
+    },
+    {
+      "classification": "party",
       "id": "family_first_party",
+      "identifiers": [
+        {
+          "identifier": "Q1395400",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.familyfirst.org.au/"
+        }
+      ],
+      "name": "Family First Party",
+      "other_names": [
+        {
+          "lang": "ru",
+          "name": "Семья прежде всего (Австралия)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti Famille d'abord",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Family First Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Family First Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Родина передусім (Австралія)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be",
+          "name": "Сям'я перш за ўсё, Аўстралія",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Family First Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "家族優先党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Family First Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Family First Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "가족우선당",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nan",
+          "name": "Ka-cho̍k Iu-sian Tóng",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "家庭第一黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "家庭第一党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Family First Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be",
+          "name": "Family First Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Partito Prima la Famiglia",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "classification": "party",
+      "id": "party/family_first_party",
       "identifiers": [
         {
           "identifier": "Q1395400",
@@ -10509,6 +12942,380 @@
       "classification": "party",
       "id": "liberal_party_of_australia",
       "name": "Liberal Party"
+    },
+    {
+      "classification": "party",
+      "id": "party/liberal_party",
+      "identifiers": [
+        {
+          "identifier": "Q241149",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.liberal.org.au"
+        }
+      ],
+      "name": "Liberal Party",
+      "other_names": [
+        {
+          "lang": "zh-hans",
+          "name": "澳大利亚自由党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "澳大利亞自由黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "澳洲自由黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "澳洲自由党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-sg",
+          "name": "澳洲自由党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-tw",
+          "name": "澳洲自由黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Liberalna Partia Australii",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be",
+          "name": "Ліберальная партыя Аўстраліі",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti libéral australien",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Liberal de Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "லிபரல் கட்சி",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "Parti Liberal Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Partito Liberale d'Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Partai Liberal Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Liberal Party of Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "オーストラリア自由党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Đảng Tự do Úc",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Liberal Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Liberalna stranka Australije",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Australiens liberala parti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Liberal Party of Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Partido Liberal da Austrália",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Liberala Partio de Aŭstralio",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Либеральная партия Австралии",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "พรรคเสรีนิยมแห่งออสเตรเลีย",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Partit Liberal d'Austràlia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Australian liberaalipuolue",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Ліберальна партія Австралії",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Factio Liberalis Australiana",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Plaid Ryddfrydol Awstralia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "حزب لیبرال استرالیا",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "Leeberal Pairty o Australie",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "ავსტრალიის ლიბერალური პარტია",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Liberal Party of Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "澳大利亚自由党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Liberální strana Austrálie",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Либерална странка Аустралије",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Liberal Party of Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "Либерална партија",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "המפלגה הליברלית של אוסטרליה",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "오스트레일리아 자유당",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Φιλελεύθερο Κόμμα της Αυστραλίας",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nan",
+          "name": "Australia Chū-iû Tóng",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ckb",
+          "name": "پارتی لیبراڵی ئوسترالیا",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "澳洲自由黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Liberal Party of Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Australijska Partia Liberalna",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti libéral",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti libéral d'australie",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Liberal Party of Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti liberal d'Australie",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "ஆஸ்திரேலிய லிபரல் கட்சி",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "Parti Liberal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Liberal Party of Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Partito Liberale Australiano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Partito Liberale dell'Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Liberal Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Liberal Party of Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Partai Liberal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "自由党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Liberal Party of Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Liberalna partija Australije",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Liberal Party of Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Liberal Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Австралийская либеральная партия",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Liberal Party of Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Liberal Party of Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Plaid Ryddfrydol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "ლიბერალური პარტია",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Liberal Party",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "classification": "party",
+      "id": "party/national_party",
+      "name": "National Party"
     },
     {
       "classification": "party",
@@ -10745,10 +13552,26 @@
     },
     {
       "area_id": "area/queensland",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "liberal_party_of_australia",
+      "organization_id": "legislature",
+      "person_id": "011f00b2-70b7-49c4-a55e-8cbda1ab3a38",
+      "role": "member"
+    },
+    {
+      "area_id": "area/queensland",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "legislature",
       "person_id": "011f00b2-70b7-49c4-a55e-8cbda1ab3a38",
+      "role": "member"
+    },
+    {
+      "area_id": "area/tasmania",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "australian_greens",
+      "organization_id": "legislature",
+      "person_id": "044c2835-1a7b-4652-9df4-189d26a458e1",
       "role": "member"
     },
     {
@@ -10758,6 +13581,15 @@
       "on_behalf_of_id": "australian_greens",
       "organization_id": "legislature",
       "person_id": "044c2835-1a7b-4652-9df4-189d26a458e1",
+      "role": "member"
+    },
+    {
+      "area_id": "area/wa",
+      "end_date": "2013-04-12",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "australian_labor_party",
+      "organization_id": "legislature",
+      "person_id": "04b83926-3eb9-4620-ada4-391542de8356",
       "role": "member"
     },
     {
@@ -10771,12 +13603,39 @@
     },
     {
       "area_id": "area/wa",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "australian_labor_party",
+      "organization_id": "legislature",
+      "person_id": "092e4ca5-d575-4f04-9d1d-66f6ba1e8203",
+      "role": "member"
+    },
+    {
+      "area_id": "area/wa",
       "end_date": "2014-06-30",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "legislature",
       "person_id": "092e4ca5-d575-4f04-9d1d-66f6ba1e8203",
       "role": "member"
+    },
+    {
+      "area_id": "area/nsw",
+      "end_date": "2013-08-09",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "australian_labor_party",
+      "organization_id": "legislature",
+      "person_id": "0df2b935-09c4-4ca9-a4e6-5f55dce57423",
+      "role": "member",
+      "start_date": "2011-07-01"
+    },
+    {
+      "area_id": "area/victoria",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "the_nationals",
+      "organization_id": "legislature",
+      "person_id": "0e0fb1ae-b324-4018-aebc-ff9ef55b16e0",
+      "role": "member",
+      "start_date": "2011-07-01"
     },
     {
       "area_id": "area/victoria",
@@ -10788,10 +13647,27 @@
     },
     {
       "area_id": "area/tasmania",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "australian_labor_party",
+      "organization_id": "legislature",
+      "person_id": "0eaac078-912d-492f-8f4a-c3cfaa50d6f9",
+      "role": "member",
+      "start_date": "2011-07-01"
+    },
+    {
+      "area_id": "area/tasmania",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "legislature",
       "person_id": "0eaac078-912d-492f-8f4a-c3cfaa50d6f9",
+      "role": "member"
+    },
+    {
+      "area_id": "area/nsw",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "liberal_party_of_australia",
+      "organization_id": "legislature",
+      "person_id": "143868a4-a562-4d3b-b50c-e134e4eb2b5b",
       "role": "member"
     },
     {
@@ -10804,10 +13680,26 @@
     },
     {
       "area_id": "area/victoria",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "liberal_party_of_australia",
+      "organization_id": "legislature",
+      "person_id": "1e2862d9-66e0-4d93-aea4-3927c14e5b8a",
+      "role": "member"
+    },
+    {
+      "area_id": "area/victoria",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "legislature",
       "person_id": "1e2862d9-66e0-4d93-aea4-3927c14e5b8a",
+      "role": "member"
+    },
+    {
+      "area_id": "area/sa",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "liberal_party_of_australia",
+      "organization_id": "legislature",
+      "person_id": "21da000d-f8ca-41a2-bcf8-0bbf45547fcb",
       "role": "member"
     },
     {
@@ -10820,6 +13712,14 @@
     },
     {
       "area_id": "area/tasmania",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "australian_labor_party",
+      "organization_id": "legislature",
+      "person_id": "221d6348-d4a1-4406-b908-d45edd9327c7",
+      "role": "member"
+    },
+    {
+      "area_id": "area/tasmania",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "legislature",
@@ -10828,11 +13728,28 @@
     },
     {
       "area_id": "area/sa",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "australian_greens",
+      "organization_id": "legislature",
+      "person_id": "237d09ec-a732-4191-b19b-8b4c7dd064b5",
+      "role": "member",
+      "start_date": "2011-07-01"
+    },
+    {
+      "area_id": "area/sa",
       "end_date": "2015-09-10",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_greens",
       "organization_id": "legislature",
       "person_id": "237d09ec-a732-4191-b19b-8b4c7dd064b5",
+      "role": "member"
+    },
+    {
+      "area_id": "area/queensland",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "liberal_party_of_australia",
+      "organization_id": "legislature",
+      "person_id": "2634d1ca-7e38-4458-a8f3-ae6da74a29b4",
       "role": "member"
     },
     {
@@ -10846,10 +13763,35 @@
     },
     {
       "area_id": "area/wa",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "liberal_party_of_australia",
+      "organization_id": "legislature",
+      "person_id": "26c73bfa-9bd8-43e0-99d7-9183da991280",
+      "role": "member"
+    },
+    {
+      "area_id": "area/wa",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "legislature",
       "person_id": "26c73bfa-9bd8-43e0-99d7-9183da991280",
+      "role": "member"
+    },
+    {
+      "area_id": "area/victoria",
+      "end_date": "2011-06-30",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "liberal_party_of_australia",
+      "organization_id": "legislature",
+      "person_id": "2962bdc4-b099-469c-85a7-21d713ec6c75",
+      "role": "member"
+    },
+    {
+      "area_id": "area/queensland",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "australian_labor_party",
+      "organization_id": "legislature",
+      "person_id": "2b2081df-2fe3-43d5-9886-c8d01bef443e",
       "role": "member"
     },
     {
@@ -10908,10 +13850,35 @@
     },
     {
       "area_id": "area/nsw",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "the_nationals",
+      "organization_id": "legislature",
+      "person_id": "3375e2b5-b29f-48b4-a5c0-b30b6b703745",
+      "role": "member"
+    },
+    {
+      "area_id": "area/nsw",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "the_nationals",
       "organization_id": "legislature",
       "person_id": "3375e2b5-b29f-48b4-a5c0-b30b6b703745",
+      "role": "member"
+    },
+    {
+      "area_id": "area/victoria",
+      "end_date": "2011-06-30",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "party/family_first_party",
+      "organization_id": "legislature",
+      "person_id": "34a8425e-043b-4bab-8f4f-8ccf75b4fb5d",
+      "role": "member"
+    },
+    {
+      "area_id": "area/nsw",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "liberal_party_of_australia",
+      "organization_id": "legislature",
+      "person_id": "34b7af42-fa68-4e04-9a16-92a7cdd1082b",
       "role": "member"
     },
     {
@@ -10924,10 +13891,27 @@
     },
     {
       "area_id": "area/nsw",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "australian_labor_party",
+      "organization_id": "legislature",
+      "person_id": "355601ad-54e5-4732-8388-fa8db4fb199f",
+      "role": "member",
+      "start_date": "2013-08-21"
+    },
+    {
+      "area_id": "area/nsw",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "legislature",
       "person_id": "355601ad-54e5-4732-8388-fa8db4fb199f",
+      "role": "member"
+    },
+    {
+      "area_id": "area/wa",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "australian_labor_party",
+      "organization_id": "legislature",
+      "person_id": "35c2098f-a631-4248-8c75-03f01efaac43",
       "role": "member"
     },
     {
@@ -10937,6 +13921,15 @@
       "organization_id": "legislature",
       "person_id": "35c2098f-a631-4248-8c75-03f01efaac43",
       "role": "member"
+    },
+    {
+      "area_id": "area/sa",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "australian_labor_party",
+      "organization_id": "legislature",
+      "person_id": "35c3024e-a6a3-4ce3-837b-e849ff8c98e2",
+      "role": "member",
+      "start_date": "2011-07-01"
     },
     {
       "area_id": "area/sa",
@@ -10956,6 +13949,15 @@
       "start_date": "2014-07-01"
     },
     {
+      "area_id": "area/tasmania",
+      "end_date": "2011-06-30",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "australian_labor_party",
+      "organization_id": "legislature",
+      "person_id": "36bbc12d-b4ac-437f-84fc-3130785daca6",
+      "role": "member"
+    },
+    {
       "area_id": "area/queensland",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
@@ -10963,6 +13965,24 @@
       "person_id": "3812108f-9ee7-4972-948e-44e3d23a3982",
       "role": "member",
       "start_date": "2015-05-21"
+    },
+    {
+      "area_id": "area/tasmania",
+      "end_date": "2011-07-03",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "liberal_party_of_australia",
+      "organization_id": "legislature",
+      "person_id": "39dd4c49-f329-4fb3-976d-fd8cbb563b9f",
+      "role": "member"
+    },
+    {
+      "area_id": "area/tasmania",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "liberal_party_of_australia",
+      "organization_id": "legislature",
+      "person_id": "39dd4c49-f329-4fb3-976d-fd8cbb563b9f",
+      "role": "member",
+      "start_date": "2011-07-04"
     },
     {
       "area_id": "area/tasmania",
@@ -10981,6 +14001,32 @@
       "person_id": "39dd4c49-f329-4fb3-976d-fd8cbb563b9f",
       "role": "member",
       "start_date": "2014-07-07"
+    },
+    {
+      "area_id": "area/sa",
+      "end_date": "2011-06-30",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "australian_labor_party",
+      "organization_id": "legislature",
+      "person_id": "3b28b7dc-b177-4c44-aa75-ce627e9b7fd8",
+      "role": "member"
+    },
+    {
+      "area_id": "area/nt",
+      "end_date": "2013-09-06",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "australian_labor_party",
+      "organization_id": "legislature",
+      "person_id": "3e120b8f-97b8-4895-86ed-36db30e04643",
+      "role": "member"
+    },
+    {
+      "area_id": "area/sa",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "australian_greens",
+      "organization_id": "legislature",
+      "person_id": "3eb39a18-244c-4539-8dbd-be417ff3fa97",
+      "role": "member"
     },
     {
       "area_id": "area/sa",
@@ -11010,10 +14056,55 @@
     },
     {
       "area_id": "area/victoria",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "australian_greens",
+      "organization_id": "legislature",
+      "person_id": "41e4f552-da12-45d9-b849-0bc36e1bb006",
+      "role": "member",
+      "start_date": "2011-07-01"
+    },
+    {
+      "area_id": "area/victoria",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_greens",
       "organization_id": "legislature",
       "person_id": "41e4f552-da12-45d9-b849-0bc36e1bb006",
+      "role": "member"
+    },
+    {
+      "area_id": "area/queensland",
+      "end_date": "2011-06-30",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "liberal_party_of_australia",
+      "organization_id": "legislature",
+      "person_id": "4285a720-c88c-4072-a737-0208717c1ffe",
+      "role": "member"
+    },
+    {
+      "area_id": "area/act",
+      "end_date": "2013-09-06",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "liberal_party_of_australia",
+      "organization_id": "legislature",
+      "person_id": "448b3399-2de4-4078-83f8-7141d763ff2d",
+      "role": "member"
+    },
+    {
+      "area_id": "area/sa",
+      "end_date": "2011-06-30",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "australian_labor_party",
+      "organization_id": "legislature",
+      "person_id": "4604aa20-0792-4611-881f-3d1fcd30b2fc",
+      "role": "member"
+    },
+    {
+      "area_id": "area/nsw",
+      "end_date": "2011-06-30",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "australian_labor_party",
+      "organization_id": "legislature",
+      "person_id": "49195ce9-61a3-4a8b-bb1b-ae72378dad06",
       "role": "member"
     },
     {
@@ -11027,6 +14118,14 @@
     },
     {
       "area_id": "area/victoria",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "liberal_party_of_australia",
+      "organization_id": "legislature",
+      "person_id": "4c341988-b484-4e11-9383-11f3770a22d8",
+      "role": "member"
+    },
+    {
+      "area_id": "area/victoria",
       "end_date": "2014-06-30",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
@@ -11036,10 +14135,26 @@
     },
     {
       "area_id": "area/tasmania",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "liberal_party_of_australia",
+      "organization_id": "legislature",
+      "person_id": "4cf9b2ae-54c9-4fce-82a3-84e71ede51ca",
+      "role": "member"
+    },
+    {
+      "area_id": "area/tasmania",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "legislature",
       "person_id": "4cf9b2ae-54c9-4fce-82a3-84e71ede51ca",
+      "role": "member"
+    },
+    {
+      "area_id": "area/sa",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "australian_labor_party",
+      "organization_id": "legislature",
+      "person_id": "4d24a721-a2c3-411e-bf4b-6bcbdb9876ba",
       "role": "member"
     },
     {
@@ -11053,10 +14168,27 @@
     },
     {
       "area_id": "area/nsw",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "australian_greens",
+      "organization_id": "legislature",
+      "person_id": "4d6a8209-95b4-481e-ac94-2d60743a59f4",
+      "role": "member",
+      "start_date": "2011-07-01"
+    },
+    {
+      "area_id": "area/nsw",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_greens",
       "organization_id": "legislature",
       "person_id": "4d6a8209-95b4-481e-ac94-2d60743a59f4",
+      "role": "member"
+    },
+    {
+      "area_id": "area/queensland",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "australian_labor_party",
+      "organization_id": "legislature",
+      "person_id": "4e6d719a-6717-4f0a-b738-5709f4c98b99",
       "role": "member"
     },
     {
@@ -11069,10 +14201,26 @@
     },
     {
       "area_id": "area/sa",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "liberal_party_of_australia",
+      "organization_id": "legislature",
+      "person_id": "507def8c-f3fd-4be5-8937-4ceaa26520ae",
+      "role": "member"
+    },
+    {
+      "area_id": "area/sa",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "legislature",
       "person_id": "507def8c-f3fd-4be5-8937-4ceaa26520ae",
+      "role": "member"
+    },
+    {
+      "area_id": "area/sa",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "australian_labor_party",
+      "organization_id": "legislature",
+      "person_id": "50bb2c37-2937-4120-9d5b-8fab706c09d6",
       "role": "member"
     },
     {
@@ -11103,11 +14251,37 @@
     },
     {
       "area_id": "area/victoria",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "australian_labor_party",
+      "organization_id": "legislature",
+      "person_id": "5f5d2117-0942-4dca-841c-1720d1ace335",
+      "role": "member",
+      "start_date": "2013-08-21"
+    },
+    {
+      "area_id": "area/victoria",
       "end_date": "2014-06-30",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "legislature",
       "person_id": "5f5d2117-0942-4dca-841c-1720d1ace335",
+      "role": "member"
+    },
+    {
+      "area_id": "area/victoria",
+      "end_date": "2011-06-30",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "the_nationals",
+      "organization_id": "legislature",
+      "person_id": "6acbc5f1-a626-4332-b9ad-8ceed10b9ec3",
+      "role": "member"
+    },
+    {
+      "area_id": "area/queensland",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "australian_labor_party",
+      "organization_id": "legislature",
+      "person_id": "6c2433de-08d7-402d-b2ac-d60b9f4d01df",
       "role": "member"
     },
     {
@@ -11121,11 +14295,29 @@
     },
     {
       "area_id": "area/tasmania",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "australian_greens",
+      "organization_id": "legislature",
+      "person_id": "6f4e7a8b-be1e-4176-97be-e411e4ddc6b5",
+      "role": "member",
+      "start_date": "2012-06-20"
+    },
+    {
+      "area_id": "area/tasmania",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_greens",
       "organization_id": "legislature",
       "person_id": "6f4e7a8b-be1e-4176-97be-e411e4ddc6b5",
       "role": "member"
+    },
+    {
+      "area_id": "area/wa",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "liberal_party_of_australia",
+      "organization_id": "legislature",
+      "person_id": "6fe2104d-e89f-4709-89eb-f5b9c78ffca4",
+      "role": "member",
+      "start_date": "2012-05-02"
     },
     {
       "area_id": "area/wa",
@@ -11136,12 +14328,37 @@
       "role": "member"
     },
     {
+      "area_id": "area/wa",
+      "end_date": "2012-03-31",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "liberal_party_of_australia",
+      "organization_id": "legislature",
+      "person_id": "72c1dd84-c19a-4446-9efc-d279444acd49",
+      "role": "member"
+    },
+    {
+      "area_id": "area/nsw",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "australian_labor_party",
+      "organization_id": "legislature",
+      "person_id": "72d03e5d-8c81-492e-8dfe-914f5889c62a",
+      "role": "member"
+    },
+    {
       "area_id": "area/nsw",
       "end_date": "2014-06-30",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "legislature",
       "person_id": "72d03e5d-8c81-492e-8dfe-914f5889c62a",
+      "role": "member"
+    },
+    {
+      "area_id": "area/victoria",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "australian_labor_party",
+      "organization_id": "legislature",
+      "person_id": "798bb3bc-e9a4-4faa-9694-3a2ed4ce0bed",
       "role": "member"
     },
     {
@@ -11163,10 +14380,27 @@
     },
     {
       "area_id": "area/nsw",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "liberal_party_of_australia",
+      "organization_id": "legislature",
+      "person_id": "800fed41-c946-4010-a910-41c820bf3ca2",
+      "role": "member",
+      "start_date": "2011-10-31"
+    },
+    {
+      "area_id": "area/nsw",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "legislature",
       "person_id": "800fed41-c946-4010-a910-41c820bf3ca2",
+      "role": "member"
+    },
+    {
+      "area_id": "area/sa",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "australian_labor_party",
+      "organization_id": "legislature",
+      "person_id": "824ec8ce-676f-45fa-ace6-73503dd0ff20",
       "role": "member"
     },
     {
@@ -11179,10 +14413,26 @@
     },
     {
       "area_id": "area/wa",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "liberal_party_of_australia",
+      "organization_id": "legislature",
+      "person_id": "88876a8a-2909-4fc9-8211-047df1bc43ef",
+      "role": "member"
+    },
+    {
+      "area_id": "area/wa",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "legislature",
       "person_id": "88876a8a-2909-4fc9-8211-047df1bc43ef",
+      "role": "member"
+    },
+    {
+      "area_id": "area/tasmania",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "australian_labor_party",
+      "organization_id": "legislature",
+      "person_id": "8a8151a7-e7e7-4790-a763-2afe995d2a02",
       "role": "member"
     },
     {
@@ -11192,6 +14442,15 @@
       "organization_id": "legislature",
       "person_id": "8a8151a7-e7e7-4790-a763-2afe995d2a02",
       "role": "member"
+    },
+    {
+      "area_id": "area/victoria",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "independent",
+      "organization_id": "legislature",
+      "person_id": "8b0c6b42-84f5-4886-a026-0353b6a32cf4",
+      "role": "member",
+      "start_date": "2011-07-01"
     },
     {
       "area_id": "area/victoria",
@@ -11213,6 +14472,14 @@
     },
     {
       "area_id": "area/queensland",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "australian_labor_party",
+      "organization_id": "legislature",
+      "person_id": "8b0eb988-e462-4b8a-a947-4970b143b8de",
+      "role": "member"
+    },
+    {
+      "area_id": "area/queensland",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "legislature",
@@ -11221,10 +14488,27 @@
     },
     {
       "area_id": "area/sa",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "liberal_party_of_australia",
+      "organization_id": "legislature",
+      "person_id": "8b96a7d6-f769-49d4-b577-1c6a76de1d88",
+      "role": "member",
+      "start_date": "2011-07-01"
+    },
+    {
+      "area_id": "area/sa",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "legislature",
       "person_id": "8b96a7d6-f769-49d4-b577-1c6a76de1d88",
+      "role": "member"
+    },
+    {
+      "area_id": "area/nsw",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "australian_labor_party",
+      "organization_id": "legislature",
+      "person_id": "91ed0aba-03e0-40df-a1bf-95b1c3128f48",
       "role": "member"
     },
     {
@@ -11247,10 +14531,26 @@
     },
     {
       "area_id": "area/wa",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "australian_greens",
+      "organization_id": "legislature",
+      "person_id": "986b86ca-13a6-4aad-8290-95bd9993b6b8",
+      "role": "member"
+    },
+    {
+      "area_id": "area/wa",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_greens",
       "organization_id": "legislature",
       "person_id": "986b86ca-13a6-4aad-8290-95bd9993b6b8",
+      "role": "member"
+    },
+    {
+      "area_id": "area/victoria",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "australian_labor_party",
+      "organization_id": "legislature",
+      "person_id": "9a016d4d-f26b-4b85-a026-f2eba23de3b8",
       "role": "member"
     },
     {
@@ -11263,10 +14563,36 @@
     },
     {
       "area_id": "area/wa",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "australian_labor_party",
+      "organization_id": "legislature",
+      "person_id": "9cc86928-c79f-4c35-860b-671c72205585",
+      "role": "member",
+      "start_date": "2013-05-15"
+    },
+    {
+      "area_id": "area/wa",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "legislature",
       "person_id": "9cc86928-c79f-4c35-860b-671c72205585",
+      "role": "member"
+    },
+    {
+      "area_id": "area/sa",
+      "end_date": "2011-06-30",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "party/dpres",
+      "organization_id": "legislature",
+      "person_id": "9dd3a970-1895-4d6f-b486-fc9ec1a71e3b",
+      "role": "member"
+    },
+    {
+      "area_id": "area/act",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "australian_labor_party",
+      "organization_id": "legislature",
+      "person_id": "a00901e6-0ecd-474a-bd0b-25e476fb6676",
       "role": "member"
     },
     {
@@ -11276,6 +14602,23 @@
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "legislature",
       "person_id": "a00901e6-0ecd-474a-bd0b-25e476fb6676",
+      "role": "member"
+    },
+    {
+      "area_id": "area/sa",
+      "end_date": "2012-08-14",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "liberal_party_of_australia",
+      "organization_id": "legislature",
+      "person_id": "a23e9f77-dd98-4b95-bfa1-ccb54daf48a3",
+      "role": "member"
+    },
+    {
+      "area_id": "area/victoria",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "liberal_party_of_australia",
+      "organization_id": "legislature",
+      "person_id": "a263008a-ea71-4dd7-b348-8e73a6289b54",
       "role": "member"
     },
     {
@@ -11289,6 +14632,14 @@
     },
     {
       "area_id": "area/tasmania",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "liberal_party_of_australia",
+      "organization_id": "legislature",
+      "person_id": "a411ea63-c0a8-4df7-b88b-872390ceff4d",
+      "role": "member"
+    },
+    {
+      "area_id": "area/tasmania",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "legislature",
@@ -11297,11 +14648,28 @@
     },
     {
       "area_id": "area/nsw",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "australian_labor_party",
+      "organization_id": "legislature",
+      "person_id": "a84574bb-4f51-4c4d-98d7-5ba05b502278",
+      "role": "member",
+      "start_date": "2012-03-06"
+    },
+    {
+      "area_id": "area/nsw",
       "end_date": "2013-10-24",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "legislature",
       "person_id": "a84574bb-4f51-4c4d-98d7-5ba05b502278",
+      "role": "member"
+    },
+    {
+      "area_id": "area/nt",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "country_liberal_party",
+      "organization_id": "legislature",
+      "person_id": "aa4699f5-7e99-4b4e-9a86-aabeaa3af028",
       "role": "member"
     },
     {
@@ -11322,10 +14690,35 @@
     },
     {
       "area_id": "area/wa",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "australian_greens",
+      "organization_id": "legislature",
+      "person_id": "b308602d-a4fa-4859-af3b-fa524e7dd228",
+      "role": "member"
+    },
+    {
+      "area_id": "area/wa",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_greens",
       "organization_id": "legislature",
       "person_id": "b308602d-a4fa-4859-af3b-fa524e7dd228",
+      "role": "member"
+    },
+    {
+      "area_id": "area/tasmania",
+      "end_date": "2011-06-30",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "liberal_party_of_australia",
+      "organization_id": "legislature",
+      "person_id": "b424105b-4341-40f8-840e-b419f5aee1a7",
+      "role": "member"
+    },
+    {
+      "area_id": "area/queensland",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "liberal_party_of_australia",
+      "organization_id": "legislature",
+      "person_id": "b5a7d866-6f2c-4cf6-a04e-d26e3213335d",
       "role": "member"
     },
     {
@@ -11339,12 +14732,38 @@
     },
     {
       "area_id": "area/wa",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "liberal_party_of_australia",
+      "organization_id": "legislature",
+      "person_id": "b6b705a5-0355-4f1c-8951-273aed19156d",
+      "role": "member"
+    },
+    {
+      "area_id": "area/wa",
       "end_date": "2014-06-30",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "legislature",
       "person_id": "b6b705a5-0355-4f1c-8951-273aed19156d",
       "role": "member"
+    },
+    {
+      "area_id": "area/queensland",
+      "end_date": "2013-08-08",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "the_nationals",
+      "organization_id": "legislature",
+      "person_id": "b7aa3154-8a36-48a2-b600-1d170b41bca0",
+      "role": "member"
+    },
+    {
+      "area_id": "area/sa",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "liberal_party_of_australia",
+      "organization_id": "legislature",
+      "person_id": "bb533f2a-e62d-4fae-acf7-cfe317d08cd6",
+      "role": "member",
+      "start_date": "2011-07-01"
     },
     {
       "area_id": "area/sa",
@@ -11356,10 +14775,27 @@
     },
     {
       "area_id": "area/queensland",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "australian_greens",
+      "organization_id": "legislature",
+      "person_id": "bba7f0df-b8ab-43e5-97cd-a0dc8814adc3",
+      "role": "member",
+      "start_date": "2011-07-01"
+    },
+    {
+      "area_id": "area/queensland",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_greens",
       "organization_id": "legislature",
       "person_id": "bba7f0df-b8ab-43e5-97cd-a0dc8814adc3",
+      "role": "member"
+    },
+    {
+      "area_id": "area/queensland",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "australian_labor_party",
+      "organization_id": "legislature",
+      "person_id": "bc3e14b5-ca1f-47cb-89ef-9f2d0febbb6d",
       "role": "member"
     },
     {
@@ -11398,6 +14834,33 @@
       "role": "member"
     },
     {
+      "area_id": "area/nsw",
+      "end_date": "2011-08-22",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "liberal_party_of_australia",
+      "organization_id": "legislature",
+      "person_id": "c85f9d82-4b30-45ef-ac06-58b8fc37cff6",
+      "role": "member"
+    },
+    {
+      "area_id": "area/tasmania",
+      "end_date": "2012-06-01",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "australian_labor_party",
+      "organization_id": "legislature",
+      "person_id": "cd1fb059-6bd4-4536-976e-a7b20f3e589c",
+      "role": "member"
+    },
+    {
+      "area_id": "area/tasmania",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "australian_labor_party",
+      "organization_id": "legislature",
+      "person_id": "cdbd90ad-9f19-4c7a-bf47-dc9bbda4367e",
+      "role": "member",
+      "start_date": "2012-06-20"
+    },
+    {
       "area_id": "area/tasmania",
       "end_date": "2014-06-30",
       "legislative_period_id": "term/44",
@@ -11408,10 +14871,27 @@
     },
     {
       "area_id": "area/tasmania",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "liberal_party_of_australia",
+      "organization_id": "legislature",
+      "person_id": "d4053204-d523-40fd-a661-b19e362ceccc",
+      "role": "member"
+    },
+    {
+      "area_id": "area/tasmania",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "legislature",
       "person_id": "d4053204-d523-40fd-a661-b19e362ceccc",
+      "role": "member"
+    },
+    {
+      "area_id": "area/nsw",
+      "end_date": "2012-03-05",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "australian_labor_party",
+      "organization_id": "legislature",
+      "person_id": "d4984fc3-38d0-4418-a266-de414f60e1f6",
       "role": "member"
     },
     {
@@ -11425,10 +14905,26 @@
     },
     {
       "area_id": "area/sa",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "independent",
+      "organization_id": "legislature",
+      "person_id": "d954072d-7cc3-4b81-81f7-124cf02695a1",
+      "role": "member"
+    },
+    {
+      "area_id": "area/sa",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "independent",
       "organization_id": "legislature",
       "person_id": "d954072d-7cc3-4b81-81f7-124cf02695a1",
+      "role": "member"
+    },
+    {
+      "area_id": "area/nsw",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "liberal_party_of_australia",
+      "organization_id": "legislature",
+      "person_id": "db131740-9538-4a24-8c83-9b0eab0bea22",
       "role": "member"
     },
     {
@@ -11441,10 +14937,27 @@
     },
     {
       "area_id": "area/nsw",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "australian_labor_party",
+      "organization_id": "legislature",
+      "person_id": "db4b072e-fcd2-48b6-a5f4-751f68b03eab",
+      "role": "member"
+    },
+    {
+      "area_id": "area/nsw",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "legislature",
       "person_id": "db4b072e-fcd2-48b6-a5f4-751f68b03eab",
+      "role": "member"
+    },
+    {
+      "area_id": "area/tasmania",
+      "end_date": "2012-06-15",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "australian_greens",
+      "organization_id": "legislature",
+      "person_id": "dc2d214f-1eb7-4201-8ea8-01e22d42fac5",
       "role": "member"
     },
     {
@@ -11458,6 +14971,23 @@
       "start_date": "2014-07-01"
     },
     {
+      "area_id": "area/nsw",
+      "end_date": "2011-06-30",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "australian_labor_party",
+      "organization_id": "legislature",
+      "person_id": "e210e560-6f97-4b7a-8dd9-aec0dcb8b44c",
+      "role": "member"
+    },
+    {
+      "area_id": "area/wa",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "liberal_party_of_australia",
+      "organization_id": "legislature",
+      "person_id": "e388765c-3863-4c00-8a68-8de159bd4bd0",
+      "role": "member"
+    },
+    {
       "area_id": "area/wa",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
@@ -11467,10 +14997,44 @@
     },
     {
       "area_id": "area/victoria",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "australian_labor_party",
+      "organization_id": "legislature",
+      "person_id": "e5965652-0ceb-4f21-a435-5883c8207885",
+      "role": "member"
+    },
+    {
+      "area_id": "area/victoria",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "legislature",
       "person_id": "e5965652-0ceb-4f21-a435-5883c8207885",
+      "role": "member"
+    },
+    {
+      "area_id": "area/victoria",
+      "end_date": "2013-08-12",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "australian_labor_party",
+      "organization_id": "legislature",
+      "person_id": "e69a7709-cfe4-4b78-9433-4324eed6622e",
+      "role": "member"
+    },
+    {
+      "area_id": "area/sa",
+      "end_date": "2011-06-30",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "liberal_party_of_australia",
+      "organization_id": "legislature",
+      "person_id": "e73ba683-a92a-4e37-bc7d-6ffd69a6c235",
+      "role": "member"
+    },
+    {
+      "area_id": "area/queensland",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "liberal_party_of_australia",
+      "organization_id": "legislature",
+      "person_id": "e79ae9c0-a9e1-45a0-a6d5-45d295169a10",
       "role": "member"
     },
     {
@@ -11483,10 +15047,26 @@
     },
     {
       "area_id": "area/victoria",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "liberal_party_of_australia",
+      "organization_id": "legislature",
+      "person_id": "e930bdf9-1e7b-472b-adb2-9816c9f1cef8",
+      "role": "member"
+    },
+    {
+      "area_id": "area/victoria",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "legislature",
       "person_id": "e930bdf9-1e7b-472b-adb2-9816c9f1cef8",
+      "role": "member"
+    },
+    {
+      "area_id": "area/wa",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "australian_labor_party",
+      "organization_id": "legislature",
+      "person_id": "f0fdc1b6-97cd-400e-9270-1d33dc92ed59",
       "role": "member"
     },
     {
@@ -11500,6 +15080,14 @@
     },
     {
       "area_id": "area/tasmania",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "australian_labor_party",
+      "organization_id": "legislature",
+      "person_id": "f2d05b01-1472-4872-af70-7477dae18722",
+      "role": "member"
+    },
+    {
+      "area_id": "area/tasmania",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "legislature",
@@ -11508,10 +15096,26 @@
     },
     {
       "area_id": "area/nsw",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "the_nationals",
+      "organization_id": "legislature",
+      "person_id": "f4009041-9614-4e28-bbaf-6f465093d887",
+      "role": "member"
+    },
+    {
+      "area_id": "area/nsw",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "the_nationals",
       "organization_id": "legislature",
       "person_id": "f4009041-9614-4e28-bbaf-6f465093d887",
+      "role": "member"
+    },
+    {
+      "area_id": "area/victoria",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "australian_labor_party",
+      "organization_id": "legislature",
+      "person_id": "f733205a-e6b5-466e-a111-87b773f576b6",
       "role": "member"
     },
     {
@@ -11534,6 +15138,14 @@
     },
     {
       "area_id": "area/queensland",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "the_nationals",
+      "organization_id": "legislature",
+      "person_id": "f93a480f-8e42-4a7b-99d7-20f9a5cc096a",
+      "role": "member"
+    },
+    {
+      "area_id": "area/queensland",
       "end_date": "2014-06-30",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "the_nationals",
@@ -11543,11 +15155,28 @@
     },
     {
       "area_id": "area/wa",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "liberal_party_of_australia",
+      "organization_id": "legislature",
+      "person_id": "fa6d6ed9-90d9-4225-a8c6-95cbe7528c39",
+      "role": "member"
+    },
+    {
+      "area_id": "area/wa",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "legislature",
       "person_id": "fa6d6ed9-90d9-4225-a8c6-95cbe7528c39",
       "role": "member"
+    },
+    {
+      "area_id": "area/sa",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "liberal_party_of_australia",
+      "organization_id": "legislature",
+      "person_id": "fbbaa6ca-68ea-4093-94c4-28fe8eb9a5e7",
+      "role": "member",
+      "start_date": "2012-09-05"
     },
     {
       "area_id": "area/sa",
@@ -11587,6 +15216,15 @@
     },
     {
       "area_id": "area/tasmania",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "australian_labor_party",
+      "organization_id": "legislature",
+      "person_id": "fe076b5f-04a7-44c4-931f-de8aa2635f46",
+      "role": "member",
+      "start_date": "2011-07-01"
+    },
+    {
+      "area_id": "area/tasmania",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "legislature",
@@ -11595,6 +15233,14 @@
     }
   ],
   "events": [
+    {
+      "classification": "legislative period",
+      "end_date": "2013-09-07",
+      "id": "term/43",
+      "name": "43rd Parliament",
+      "organization_id": "legislature",
+      "start_date": "2010-08-21"
+    },
     {
       "classification": "legislative period",
       "id": "term/44",
