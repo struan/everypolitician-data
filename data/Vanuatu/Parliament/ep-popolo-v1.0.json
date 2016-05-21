@@ -40,11 +40,18 @@
       ]
     },
     {
+      "birth_date": "1961",
+      "gender": "male",
+      "given_name": "Bob",
       "id": "7938edf0-062d-4e7d-bb32-a401ac8364d5",
       "identifiers": [
         {
           "identifier": "76",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q16190741",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://parliament.gov.vu/images/bio/bob.jpg",
@@ -53,7 +60,35 @@
           "url": "http://parliament.gov.vu/images/bio/bob.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Bob_Loughman"
+        }
+      ],
       "name": "Bob Loughman",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Bob Loughman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Bob Loughman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Bob Loughman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Bob Loughman",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://parliament.gov.vu/index.php/members/76-hon-bob-loughman"
@@ -61,14 +96,47 @@
       ]
     },
     {
+      "gender": "male",
+      "given_name": "Robert",
       "id": "fdc0fcc2-0af1-4714-a5b8-2d4b3cffa3b6",
       "identifiers": [
         {
           "identifier": "bohn._m._robert",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q17019552",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Robert_Bohn_Sikol"
         }
       ],
       "name": "Bohn. M. Robert",
+      "other_names": [
+        {
+          "name": "Robert Bohn Sikol",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Robert Bohn Sikol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Robert Bohn Sikol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Robert Bohn Sikol",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://parliament.gov.vu/index.php/2015-01-20-00-02-35"
@@ -76,11 +144,22 @@
       ]
     },
     {
+      "birth_date": "1963-01-28",
+      "gender": "male",
+      "given_name": "Moana",
       "id": "f5978e43-2a5b-4eef-a577-7fc01528ea36",
       "identifiers": [
         {
           "identifier": "102",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/03kgb8",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q3317554",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://parliament.gov.vu/images/bio/moana.jpg",
@@ -89,7 +168,163 @@
           "url": "http://parliament.gov.vu/images/bio/moana.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Moana_Carcasses_Kalosil"
+        },
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Μοάνα_Καρκάσις_Καλόζιλ"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Moana_Carcasses_Kalosil"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Moana_Carcasses_Kalosil"
+        },
+        {
+          "note": "Wikipedia (et)",
+          "url": "https://et.wikipedia.org/wiki/Moana_Carcasses_Kalosil"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Moana_Carcasses_Kalosil"
+        },
+        {
+          "note": "Wikipedia (oc)",
+          "url": "https://oc.wikipedia.org/wiki/Moana_Carcassés_Kalosil"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Moana_Carcasses_Kalosil"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Моана_Каркассес_Калосил"
+        },
+        {
+          "note": "Wikipedia (tr)",
+          "url": "https://tr.wikipedia.org/wiki/Moana_Carcasses_Kalosil"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Моана_Каркассес_Калосіль"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/莫阿纳·卡凯塞斯"
+        }
+      ],
       "name": "Carcasses K. Moana",
+      "other_names": [
+        {
+          "name": "Moana Carcasses Kalosil",
+          "note": "alternate"
+        },
+        {
+          "lang": "da",
+          "name": "Moana Carcasses Kalosil",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Moana Carcasses Kalosil",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de-ch",
+          "name": "Moana Carcasses Kalosil",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Μοάνα Καρκάσις Καλόζιλ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Moana Carcasses Kalosil",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "Moana Carcasses Kalosil",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "Moana Carcasses Kalosil",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Moana Carcasses Kalosil",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Moana Carcasses Kalosil",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Moana Carcasses Kalosil",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Moana Carcasses Kalosil",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Moana Carcasses Kalosil",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Moana Carcasses Kalosil",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Moana Carcassés Kalosil",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Moana Carcasses Kalosil",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Моана Каркассес Калосил",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Moana Carcasses Kalosil",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Moana Carcasses Kalosil",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Моана Каркассес Калосіль",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "莫阿纳·卡凯塞斯",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://parliament.gov.vu/index.php/members/102-hon-carcasses-k-moana"
@@ -169,11 +404,17 @@
       ]
     },
     {
+      "gender": "male",
+      "given_name": "David",
       "id": "eba1d2cf-d586-4e11-accf-6c5ac455f493",
       "identifiers": [
         {
           "identifier": "129",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q17059118",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://parliament.gov.vu/images/bio/tosul.jpg",
@@ -182,7 +423,35 @@
           "url": "http://parliament.gov.vu/images/bio/tosul.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/David_Tosul"
+        }
+      ],
       "name": "David Tosul",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "David Tosul",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "David Tosul",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "David Tosul",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "David Tosul",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://parliament.gov.vu/index.php/members/129-hon-david-tosul"
@@ -211,11 +480,16 @@
       ]
     },
     {
+      "gender": "male",
       "id": "ca6c3c6d-c416-4bea-b3b7-218f36d46585",
       "identifiers": [
         {
           "identifier": "83",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q5398549",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://parliament.gov.vu/images/bio/esmon.jpg",
@@ -224,7 +498,35 @@
           "url": "http://parliament.gov.vu/images/bio/esmon.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Esmon_Saimon"
+        }
+      ],
       "name": "Esmon Saimon",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Esmon Saimon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Esmon Saimon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Esmon Saimon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Esmon Saimon",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://parliament.gov.vu/index.php/members/83-hon-esmon-saimon"
@@ -253,11 +555,21 @@
       ]
     },
     {
+      "birth_date": "1951-12-08",
+      "gender": "male",
       "id": "f33ca411-e3c8-45bf-88a6-b3e7ea0e4390",
       "identifiers": [
         {
           "identifier": "85",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/03plc8",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q469851",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://parliament.gov.vu/images/bio/ham.jpg",
@@ -266,7 +578,225 @@
           "url": "http://parliament.gov.vu/images/bio/ham.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (bi)",
+          "url": "https://bi.wikipedia.org/wiki/Ham_Lini"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Ham_Lini"
+        },
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Χαμ_Λίνι"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ham_Lini"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Ham_Lini"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Ham_Lini"
+        },
+        {
+          "note": "Wikipedia (gl)",
+          "url": "https://gl.wikipedia.org/wiki/Ham_Lini"
+        },
+        {
+          "note": "Wikipedia (id)",
+          "url": "https://id.wikipedia.org/wiki/Ham_Lini"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Ham_Lini"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Лини,_Хам"
+        },
+        {
+          "note": "Wikipedia (sh)",
+          "url": "https://sh.wikipedia.org/wiki/Ham_Lini"
+        },
+        {
+          "note": "Wikipedia (sr)",
+          "url": "https://sr.wikipedia.org/wiki/Хам_Лини"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Ham_Lini"
+        },
+        {
+          "note": "Wikipedia (tpi)",
+          "url": "https://tpi.wikipedia.org/wiki/Ham_Lini"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Гам_Ліні"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/汉姆·利尼"
+        }
+      ],
       "name": "Ham Lini",
+      "other_names": [
+        {
+          "lang": "bi",
+          "name": "Ham Lini",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Ham Lini",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Ham Lini",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Χαμ Λίνι",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Ham Lini",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Ham Lini",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Ham Lini",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Ham Lini",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Ham Lini",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Ham Lini",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Ham Lini",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Ham Lini",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Ham Lini",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Ham Lini",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Ham Lini",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Лини, Хам",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Ham Lini",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Хам Лини",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-ec",
+          "name": "Хам Лини",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-el",
+          "name": "Ham Lini",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Ham Lini",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tpi",
+          "name": "Ham Lini",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Гам Ліні",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "汉姆·利尼",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "汉姆·利尼",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hans",
+          "name": "汉姆·利尼",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "漢姆·利尼",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "漢姆·利尼",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-sg",
+          "name": "汉姆·利尼",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-tw",
+          "name": "漢姆·利尼",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://parliament.gov.vu/index.php/members/85-hon-ham-lini"
@@ -382,11 +912,18 @@
       ]
     },
     {
+      "birth_date": "1952-11-24",
+      "gender": "male",
+      "given_name": "Joe",
       "id": "aee4adc6-a000-4017-9a48-6ce4b7799bcc",
       "identifiers": [
         {
           "identifier": "92",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q58222",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://parliament.gov.vu/images/bio/joe_natuman.jpg",
@@ -395,7 +932,170 @@
           "url": "http://parliament.gov.vu/images/bio/joe_natuman.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Joe_Natuman"
+        },
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Τζο_Νάτουμαν"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Joe_Natuman"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Joe_Natuman"
+        },
+        {
+          "note": "Wikipedia (et)",
+          "url": "https://et.wikipedia.org/wiki/Joe_Natuman"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Joe_Natuman"
+        },
+        {
+          "note": "Wikipedia (na)",
+          "url": "https://na.wikipedia.org/wiki/Joe_Natuman"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Joe_Natuman"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Натуман,_Джо"
+        },
+        {
+          "note": "Wikipedia (tr)",
+          "url": "https://tr.wikipedia.org/wiki/Joe_Natuman"
+        },
+        {
+          "note": "Wikipedia (vi)",
+          "url": "https://vi.wikipedia.org/wiki/Joe_Natuman"
+        }
+      ],
       "name": "Joe Natuman",
+      "other_names": [
+        {
+          "lang": "ca",
+          "name": "Joe Natuman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Joe Natuman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Joe Natuman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de-ch",
+          "name": "Joe Natuman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Τζο Νάτουμαν",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Joe Natuman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "Joe Natuman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "Joe Natuman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Joe Natuman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Joe Natuman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Joe Natuman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "na",
+          "name": "Joe Natuman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Joe Natuman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Joe Natuman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Joe Natuman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Joe Natuman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Joe Natuman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Натуман, Джо",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Joe Natuman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Joe Natuman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Joe Natuman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "乔·纳图曼",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "喬·納圖曼",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://parliament.gov.vu/index.php/members/92-hon-joe-natuman"
@@ -481,11 +1181,17 @@
       ]
     },
     {
+      "birth_date": "1972-03-03",
+      "gender": "male",
       "id": "128b0495-6e1a-4388-a560-de11a5eec673",
       "identifiers": [
         {
           "identifier": "119",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q16191275",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://parliament.gov.vu/images/bio/simelum.jpg",
@@ -494,7 +1200,29 @@
           "url": "http://parliament.gov.vu/images/bio/simelum.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Maki_Simelum"
+        }
+      ],
       "name": "Maki Standley Simelum",
+      "other_names": [
+        {
+          "name": "Maki Simelum",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Maki Simelum",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Maki Simelum",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://parliament.gov.vu/index.php/members/119-hon-maki-standley-simelum"
@@ -523,11 +1251,29 @@
       ]
     },
     {
+      "birth_date": "1957-12-30",
+      "gender": "male",
       "id": "03572aca-8ec9-4fd9-aee8-a0015dc7000f",
       "identifiers": [
         {
           "identifier": "117",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/04pn9w",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "n2014063164",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "310715182",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q469823",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://parliament.gov.vu/images/bio/sato.jpg",
@@ -536,7 +1282,183 @@
           "url": "http://parliament.gov.vu/images/bio/sato.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (bi)",
+          "url": "https://bi.wikipedia.org/wiki/Sato_Kilman"
+        },
+        {
+          "note": "Wikipedia (da)",
+          "url": "https://da.wikipedia.org/wiki/Sato_Kilman"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Sato_Kilman"
+        },
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Σάτο_Κίλμαν"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Sato_Kilman"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Sato_Kilman"
+        },
+        {
+          "note": "Wikipedia (et)",
+          "url": "https://et.wikipedia.org/wiki/Sato_Kilman"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Sato_Kilman"
+        },
+        {
+          "note": "Wikipedia (hr)",
+          "url": "https://hr.wikipedia.org/wiki/Sato_Kilman"
+        },
+        {
+          "note": "Wikipedia (lt)",
+          "url": "https://lt.wikipedia.org/wiki/Sato_Kilman"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Sato_Kilman"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Sato_Kilman"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Килман,_Сато"
+        },
+        {
+          "note": "Wikipedia (tr)",
+          "url": "https://tr.wikipedia.org/wiki/Sato_Kilman"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Сато_Кілман"
+        },
+        {
+          "note": "Wikipedia (vi)",
+          "url": "https://vi.wikipedia.org/wiki/Sato_Kilman"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/萨托·基尔曼"
+        }
+      ],
       "name": "Meltek Sato Kilman Livtunvanu",
+      "other_names": [
+        {
+          "name": "Sato Kilman",
+          "note": "alternate"
+        },
+        {
+          "lang": "bi",
+          "name": "Sato Kilman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Sato Kilman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Sato Kilman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Σάτο Κίλμαν",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Sato Kilman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Sato Kilman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Sato Kilman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Sato Kilman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Sato Kilman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Sato Kilman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Sato Kilman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Sato Kilman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Sato Kilman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Sato Kilman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Килман, Сато",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Sato Kilman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Sato Kilman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Сато Кілман",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Sato Kilman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "萨托·基尔曼",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://parliament.gov.vu/index.php/members/117-hon-meltek-sato-kilman-livtunvanu"
@@ -544,14 +1466,47 @@
       ]
     },
     {
+      "birth_date": "1962-06-09",
+      "death_date": "2016-02-23",
+      "gender": "male",
       "id": "b3d884b9-7273-4be3-83a3-48626bd069ac",
       "identifiers": [
         {
           "identifier": "molisale_havo",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q22963618",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Havo_Molisale"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Havo_Molisale"
         }
       ],
       "name": "Molisale Havo",
+      "other_names": [
+        {
+          "name": "Havo Molisale",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Havo Molisale",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Havo Molisale",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://parliament.gov.vu/index.php/2015-01-20-00-02-35"
@@ -589,11 +1544,17 @@
       ]
     },
     {
+      "gender": "male",
+      "given_name": "Paul",
       "id": "41afbef3-3fc2-4ff1-966a-58595d16e2de",
       "identifiers": [
         {
           "identifier": "108",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q7153951",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://parliament.gov.vu/images/bio/paul.jpg",
@@ -602,7 +1563,30 @@
           "url": "http://parliament.gov.vu/images/bio/paul.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Paul_Telukluk"
+        }
+      ],
       "name": "Paul Telukluk",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Paul Telukluk",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Paul Telukluk",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Paul Telukluk",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://parliament.gov.vu/index.php/members/108-hon-paul-telukluk"
@@ -694,11 +1678,18 @@
       ]
     },
     {
+      "birth_date": "1970-09-20",
+      "gender": "male",
+      "given_name": "Ralph",
       "id": "69f95e80-2f2c-44d2-b61f-55c1f2ae64c2",
       "identifiers": [
         {
           "identifier": "111",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q578951",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://parliament.gov.vu/images/bio/ralph.jpg",
@@ -707,7 +1698,64 @@
           "url": "http://parliament.gov.vu/images/bio/ralph.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ralph_Regenvanu"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Ralph_Regenvanu"
+        }
+      ],
       "name": "Ralph Regenvanu",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Ralph Regenvanu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Ralph Regenvanu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Ralph Regenvanu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Ralph Regenvanu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Ralph Regenvanu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Ralph Regenvanu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Ralph Regenvanu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Ralph Regenvanu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Ralph Regenvanu",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://parliament.gov.vu/index.php/members/111-hon-ralph-regenvanu"
@@ -838,11 +1886,18 @@
       ]
     },
     {
+      "birth_date": "1972-03-03",
+      "gender": "male",
+      "given_name": "Thomas",
       "id": "d8e4d828-51f1-40f5-957f-e0876910a4b3",
       "identifiers": [
         {
           "identifier": "97",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q16731174",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://parliament.gov.vu/images/bio/laken.jpg",
@@ -851,7 +1906,30 @@
           "url": "http://parliament.gov.vu/images/bio/laken.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Thomas_Laken"
+        }
+      ],
       "name": "Thomas Laken",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Thomas Laken",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Thomas Laken",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Thomas Laken",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://parliament.gov.vu/index.php/members/97-hon-thomas-laken"
@@ -910,11 +1988,26 @@
       ]
     },
     {
+      "birth_date": "1955",
+      "gender": "male",
+      "given_name": "Serge",
       "id": "9d0d05d6-8c65-4b30-892a-c39e004792ec",
       "identifiers": [
         {
+          "identifier": "biography/Serge-Vohor",
+          "scheme": "britannica"
+        },
+        {
           "identifier": "130",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/03jtm1",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q736823",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://parliament.gov.vu/images/bio/vohor.jpg",
@@ -923,7 +2016,167 @@
           "url": "http://parliament.gov.vu/images/bio/vohor.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (bi)",
+          "url": "https://bi.wikipedia.org/wiki/Serge_Vohor"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Serge_Vohor"
+        },
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Σερζ_Βοχόρ"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Serge_Vohor"
+        },
+        {
+          "note": "Wikipedia (eo)",
+          "url": "https://eo.wikipedia.org/wiki/Serge_Vohor"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Serge_Vohor"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Serge_Vohor"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Serge_Vohor"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Serge_Vohor"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Вохор,_Серж"
+        },
+        {
+          "note": "Wikipedia (sh)",
+          "url": "https://sh.wikipedia.org/wiki/Serge_Vohor"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Rialuth_Serge_Vohor"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Серж_Вохор"
+        }
+      ],
       "name": "Vohor Serge Rialuth",
+      "other_names": [
+        {
+          "name": "Serge Vohor",
+          "note": "alternate"
+        },
+        {
+          "lang": "bi",
+          "name": "Serge Vohor",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Serge Vohor",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Serge Vohor",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Σερζ Βοχόρ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Serge Vohor",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Serge Vohor",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Serge Vohor",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Serge Vohor",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Serge Vohor",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Serge Vohor",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Serge Vohor",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Serge Vohor",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Serge Vohor",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Серж Вохор",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Serge Vohor",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Rialuth Serge Vohor",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Серж Вохор",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "渥荷",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "瑟奇·沃霍尔",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "瑟奇·沃霍爾",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://parliament.gov.vu/index.php/members/130-vohor"
@@ -946,14 +2199,52 @@
       ]
     },
     {
+      "birth_date": "1960-03-04",
+      "gender": "male",
+      "given_name": "Antoine",
       "id": "4dc9d1bd-4dca-4643-8b18-e6c276747ab9",
       "identifiers": [
         {
           "identifier": "wright_antoine_tonny",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q15459326",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Antoine_Wright_(politician)"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Antoine_Wright"
         }
       ],
       "name": "Wright Antoine Tonny",
+      "other_names": [
+        {
+          "name": "Antoine Wright",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Antoine Wright",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Antoine Wright",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Antoine Wright",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://parliament.gov.vu/index.php/2015-01-20-00-02-35"
@@ -961,14 +2252,43 @@
       ]
     },
     {
+      "birth_date": "1986-05-16",
+      "gender": "male",
+      "given_name": "Pascal",
       "id": "e6c840ca-d8f9-40d0-9b9c-5d5ba9dd22dd",
       "identifiers": [
         {
           "identifier": "yauko_pascal",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q16231327",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Pascal_Iauko"
         }
       ],
       "name": "Yauko Pascal",
+      "other_names": [
+        {
+          "name": "Pascal Iauko",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Pascal Iauko",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Pascal Iauko",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://parliament.gov.vu/index.php/2015-01-20-00-02-35"
@@ -1092,7 +2412,8 @@
   ],
   "meta": {
     "sources": [
-      "http://parliament.gov.vu/"
+      "http://parliament.gov.vu/",
+      "http://wikidata.org/"
     ]
   },
   "memberships": [
