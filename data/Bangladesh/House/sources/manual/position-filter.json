@@ -1,0 +1,41 @@
+{
+  "exclude": {
+    "self": [
+      {
+        "id": "Q21272758",
+        "name": "Member of the Jatiyo Sangshad",
+        "count": 22
+      }
+    ],
+    "other": [
+
+    ]
+  },
+  "include": {
+    "self": [
+
+    ],
+    "other_legislatures": [
+
+    ],
+    "executive": [
+      {
+        "id": "Q14565638",
+        "name": "Prime Minister of Bangladesh",
+        "count": 2
+      }
+    ],
+    "party": [
+
+    ],
+    "other": [
+      {
+        "id": "Q17068161",
+        "name": "Leader of the Opposition",
+        "count": 1
+      }
+    ]
+  },
+  "unknown": {
+  }
+}
