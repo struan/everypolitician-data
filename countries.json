@@ -651,11 +651,11 @@
         "slug": "Senate",
         "sources_directory": "data/Australia/Senate/sources",
         "popolo": "data/Australia/Senate/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/7114143/data/Australia/Senate/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/95636e0/data/Australia/Senate/ep-popolo-v1.0.json",
         "names": "data/Australia/Senate/names.csv",
-        "lastmod": "1463831841",
-        "person_count": 96,
-        "sha": "7114143",
+        "lastmod": "1463837762",
+        "person_count": 244,
+        "sha": "95636e0",
         "legislative_periods": [
           {
             "id": "term/44",
@@ -663,10 +663,91 @@
             "start_date": "2013-09-07",
             "slug": "44",
             "csv": "data/Australia/Senate/term-44.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/7114143/data/Australia/Senate/term-44.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/95636e0/data/Australia/Senate/term-44.csv"
+          },
+          {
+            "end_date": "2013-09-07",
+            "id": "term/43",
+            "name": "43rd Parliament",
+            "start_date": "2010-08-21",
+            "slug": "43",
+            "csv": "data/Australia/Senate/term-43.csv",
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/95636e0/data/Australia/Senate/term-43.csv"
+          },
+          {
+            "end_date": "2010-08-21",
+            "id": "term/42",
+            "name": "42nd Parliament",
+            "start_date": "2007-11-24",
+            "slug": "42",
+            "csv": "data/Australia/Senate/term-42.csv",
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/95636e0/data/Australia/Senate/term-42.csv"
+          },
+          {
+            "end_date": "2007-11-24",
+            "id": "term/41",
+            "name": "41st Parliament",
+            "start_date": "2004-10-09",
+            "slug": "41",
+            "csv": "data/Australia/Senate/term-41.csv",
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/95636e0/data/Australia/Senate/term-41.csv"
+          },
+          {
+            "end_date": "2004-10-09",
+            "id": "term/40",
+            "name": "40th Parliament",
+            "start_date": "2001-11-10",
+            "slug": "40",
+            "csv": "data/Australia/Senate/term-40.csv",
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/95636e0/data/Australia/Senate/term-40.csv"
+          },
+          {
+            "end_date": "2001-11-10",
+            "id": "term/39",
+            "name": "39th Parliament",
+            "start_date": "1998-10-03",
+            "slug": "39",
+            "csv": "data/Australia/Senate/term-39.csv",
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/95636e0/data/Australia/Senate/term-39.csv"
+          },
+          {
+            "end_date": "1998-10-03",
+            "id": "term/38",
+            "name": "38th Parliament",
+            "start_date": "1996-03-02",
+            "slug": "38",
+            "csv": "data/Australia/Senate/term-38.csv",
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/95636e0/data/Australia/Senate/term-38.csv"
+          },
+          {
+            "end_date": "1996-03-02",
+            "id": "term/37",
+            "name": "37th Parliament",
+            "start_date": "1993-03-13",
+            "slug": "37",
+            "csv": "data/Australia/Senate/term-37.csv",
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/95636e0/data/Australia/Senate/term-37.csv"
+          },
+          {
+            "end_date": "1993-03-13",
+            "id": "term/36",
+            "name": "36th Parliament",
+            "start_date": "1990-03-24",
+            "slug": "36",
+            "csv": "data/Australia/Senate/term-36.csv",
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/95636e0/data/Australia/Senate/term-36.csv"
+          },
+          {
+            "end_date": "1990-03-24",
+            "id": "term/35",
+            "name": "35th Parliament",
+            "start_date": "1987-07-11",
+            "slug": "35",
+            "csv": "data/Australia/Senate/term-35.csv",
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/95636e0/data/Australia/Senate/term-35.csv"
           }
         ],
-        "statement_count": 6138
+        "statement_count": 18018
       }
     ]
   },
