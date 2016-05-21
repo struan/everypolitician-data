@@ -1,17 +1,36 @@
 {
   "sources": [
     {
+      "file": "morph/openaustralia.csv",
+      "create": {
+        "from": "morph",
+        "scraper": "everypolitician-scrapers/australia-openaustralia-senators",
+        "query": "SELECT *, id AS identifier__openaustralia, identifier__aph AS id FROM data WHERE term = '44' ORDER BY id"
+      },
+      "source": "http://data.openaustralia.org/",
+      "type": "membership"
+    },
+    {
       "file": "morph/data.csv",
       "create": {
         "from": "morph",
         "scraper": "openaustralia/aus_mp_contact_details",
-        "query": "SELECT aph_id AS id, full_name AS name, electorate AS constituency, photo_url AS photo, REPLACE(LOWER(party),' ','_') AS party_id, 44 AS term, *, null AS chamber FROM data WHERE house = 'senate'"
+        "query": "SELECT aph_id AS id, full_name AS name, electorate AS constituency, photo_url AS photo, REPLACE(LOWER(party),' ','_') AS party_id FROM data WHERE house = 'senate' ORDER BY aph_id"
       },
-      "source": "https://morph.io/openaustralia/aus_mp_contact_details",
-      "type": "membership"
+      "merge": {
+        "incoming_field": "id",
+        "existing_field": "identifier__aph"
+      },
+      "source": "http://data.openaustralia.org/",
+      "type": "person"
     },
     {
-      "file": "manual/terms.csv",
+      "file": "morph/terms.csv",
+      "create": {
+        "from": "morph",
+        "scraper": "tmtmtmtm/australia-openaustralia",
+        "query": "SELECT * FROM terms"
+      },
       "type": "term"
     },
     {
