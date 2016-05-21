@@ -3629,6 +3629,66 @@
       "contact_details": [
         {
           "type": "email",
+          "value": "senator.wright@aph.gov.au"
+        },
+        {
+          "type": "twitter",
+          "value": "pennywrites"
+        }
+      ],
+      "email": "senator.wright@aph.gov.au",
+      "family_name": "Wright",
+      "gender": "female",
+      "given_name": "Penny",
+      "id": "237d09ec-a732-4191-b19b-8b4c7dd064b5",
+      "identifiers": [
+        {
+          "identifier": "200287",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "200287",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "10765",
+          "scheme": "openaustralia"
+        }
+      ],
+      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/200287/upload_ref_binary/200287.jpg",
+      "images": [
+        {
+          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/200287/upload_ref_binary/200287.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/SenatorPennyWright"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/pennywrites"
+        }
+      ],
+      "name": "Penny Wright",
+      "other_names": [
+        {
+          "name": "Senator Penny Wright",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Wright, Penny",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
           "value": "senator.whish-wilson@aph.gov.au"
         },
         {
@@ -6464,6 +6524,15 @@
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "legislature",
       "person_id": "221d6348-d4a1-4406-b908-d45edd9327c7",
+      "role": "member"
+    },
+    {
+      "area_id": "area/sa",
+      "end_date": "2015-09-10",
+      "legislative_period_id": "term/44",
+      "on_behalf_of_id": "australian_greens",
+      "organization_id": "legislature",
+      "person_id": "237d09ec-a732-4191-b19b-8b4c7dd064b5",
       "role": "member"
     },
     {
