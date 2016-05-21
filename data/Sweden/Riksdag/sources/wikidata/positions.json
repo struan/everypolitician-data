@@ -3912,12 +3912,29 @@
     {
       "id": "Q10655178",
       "label": "Member of the Riksdag",
-      "title": "Member of the Riksdag"
+      "title": "Member of the Riksdag",
+      "qualifiers": {
+        "P580": "2002",
+        "P582": "2012"
+      }
     },
     {
       "id": "Q18176984",
       "label": "Minister for Culture",
-      "title": "Minister for Culture"
+      "title": "Minister for Culture",
+      "qualifiers": {
+        "P580": "2004",
+        "P582": "2006-10-06"
+      }
+    },
+    {
+      "id": "Q10686263",
+      "label": "Minister for Education and Science",
+      "title": "Minister for Education and Science",
+      "qualifiers": {
+        "P580": "2004",
+        "P582": "2006-10-06"
+      }
     }
   ],
   "Q5781951": [
