@@ -11,12 +11,22 @@
         }
       ],
       "email": "senator.eggleston@aph.gov.au",
+      "family_name": "Eggleston",
       "gender": "male",
+      "given_name": "Alan",
       "id": "b6b705a5-0355-4f1c-8951-273aed19156d",
       "identifiers": [
         {
           "identifier": "4L6",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "4L6",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "10193",
+          "scheme": "openaustralia"
         }
       ],
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/4L6/upload_ref_binary/4L6.JPG",
@@ -31,7 +41,19 @@
           "url": "http://www.senatoralaneggleston.com/"
         }
       ],
-      "name": "Senator Alan Eggleston"
+      "name": "Alan Eggleston",
+      "other_names": [
+        {
+          "name": "Senator Alan Eggleston",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Eggleston, Alan",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -41,12 +63,22 @@
         }
       ],
       "email": "senator.gallacher@aph.gov.au",
+      "family_name": "Gallacher",
       "gender": "male",
+      "given_name": "Alex",
       "id": "35c3024e-a6a3-4ce3-837b-e849ff8c98e2",
       "identifiers": [
         {
           "identifier": "204953",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "204953",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "10757",
+          "scheme": "openaustralia"
         }
       ],
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/204953/upload_ref_binary/204953.jpg",
@@ -55,7 +87,19 @@
           "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/204953/upload_ref_binary/204953.jpg"
         }
       ],
-      "name": "Senator Alex Gallacher"
+      "name": "Alex Gallacher",
+      "other_names": [
+        {
+          "name": "Senator Alex Gallacher",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Gallacher, Alex",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -65,12 +109,22 @@
         }
       ],
       "email": "senator.mcewen@aph.gov.au",
+      "family_name": "McEwen",
       "gender": "female",
+      "given_name": "Anne",
       "id": "50bb2c37-2937-4120-9d5b-8fab706c09d6",
       "identifiers": [
         {
           "identifier": "e5e",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "e5e",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "10433",
+          "scheme": "openaustralia"
         }
       ],
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/E5E/upload_ref_binary/E5E.jpg",
@@ -79,7 +133,58 @@
           "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/E5E/upload_ref_binary/E5E.jpg"
         }
       ],
-      "name": "Senator Anne McEwen"
+      "name": "Anne McEwen",
+      "other_names": [
+        {
+          "name": "Senator Anne McEwen",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "McEwen, Anne",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
+    },
+    {
+      "family_name": "Ruston",
+      "gender": "female",
+      "given_name": "Anne",
+      "id": "fbbaa6ca-68ea-4093-94c4-28fe8eb9a5e7",
+      "identifiers": [
+        {
+          "identifier": "243273",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "243273",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "10781",
+          "scheme": "openaustralia"
+        }
+      ],
+      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/243273/upload_ref_binary/243273.jpg",
+      "images": [
+        {
+          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/243273/upload_ref_binary/243273.jpg"
+        }
+      ],
+      "name": "Anne Ruston",
+      "other_names": [
+        {
+          "name": "Senator the Hon Anne Ruston",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Ruston, Anne",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -89,12 +194,22 @@
         }
       ],
       "email": "senator.urquhart@aph.gov.au",
+      "family_name": "Urquhart",
       "gender": "female",
+      "given_name": "Anne",
       "id": "0eaac078-912d-492f-8f4a-c3cfaa50d6f9",
       "identifiers": [
         {
           "identifier": "231199",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "231199",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "10763",
+          "scheme": "openaustralia"
         }
       ],
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/231199/upload_ref_binary/231199.jpg",
@@ -109,15 +224,89 @@
           "url": "http://anneurquhart.com.au/"
         }
       ],
-      "name": "Senator Anne Urquhart"
+      "name": "Anne Urquhart",
+      "other_names": [
+        {
+          "name": "Senator Anne Urquhart",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Urquhart, Anne",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "senator.sinodinos@aph.gov.au"
+        }
+      ],
+      "email": "senator.sinodinos@aph.gov.au",
+      "family_name": "Sinodinos",
       "gender": "male",
+      "given_name": "Arthur",
+      "id": "800fed41-c946-4010-a910-41c820bf3ca2",
+      "identifiers": [
+        {
+          "identifier": "bv7",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "bv7",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "10766",
+          "scheme": "openaustralia"
+        }
+      ],
+      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/BV7/upload_ref_binary/bv7.jpg",
+      "images": [
+        {
+          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/BV7/upload_ref_binary/bv7.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.arthursinodinos.com.au/"
+        }
+      ],
+      "name": "Arthur Sinodinos",
+      "other_names": [
+        {
+          "name": "Senator the Hon Arthur Sinodinos AO",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Sinodinos, Arthur",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
+    },
+    {
+      "family_name": "O'Sullivan",
+      "gender": "male",
+      "given_name": "Barry",
       "id": "c4341e91-11b2-42ea-9664-643fa32fb102",
       "identifiers": [
         {
           "identifier": "247871",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "247871",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "10824",
+          "scheme": "openaustralia"
         }
       ],
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/247871/upload_ref_binary/247871.jpg",
@@ -126,7 +315,82 @@
           "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/247871/upload_ref_binary/247871.jpg"
         }
       ],
-      "name": "Senator Barry O'Sullivan"
+      "name": "Barry O'Sullivan",
+      "other_names": [
+        {
+          "name": "Senator Barry O'Sullivan",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "O'Sullivan, Barry",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
+    },
+    {
+      "family_name": "Heffernan",
+      "gender": "male",
+      "given_name": "Bill",
+      "id": "143868a4-a562-4d3b-b50c-e134e4eb2b5b",
+      "identifiers": [
+        {
+          "identifier": "C16",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "C16",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "10296",
+          "scheme": "openaustralia"
+        }
+      ],
+      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/C16/upload_ref_binary/C16.jpg",
+      "images": [
+        {
+          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/C16/upload_ref_binary/C16.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.billheffernan.com.au/"
+        }
+      ],
+      "name": "Bill Heffernan",
+      "other_names": [
+        {
+          "name": "Senator the Hon Bill Heffernan",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Heffernan, Bill",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
+    },
+    {
+      "family_name": "Carr",
+      "given_name": "Bob",
+      "id": "a84574bb-4f51-4c4d-98d7-5ba05b502278",
+      "identifiers": [
+        {
+          "identifier": "10767",
+          "scheme": "openaustralia"
+        }
+      ],
+      "name": "Bob Carr",
+      "sort_name": "Carr, Bob",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -140,12 +404,22 @@
         }
       ],
       "email": "senator.day@aph.gov.au",
+      "family_name": "Day",
       "gender": "male",
+      "given_name": "Bob",
       "id": "7ddaf281-92a1-4554-9aab-0f09f804af77",
       "identifiers": [
         {
           "identifier": "HYG",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "HYG",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "10828",
+          "scheme": "openaustralia"
         }
       ],
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/HYG/upload_ref_binary/HYG.jpg",
@@ -168,7 +442,65 @@
           "url": "http://www.senatorbobday.com.au"
         }
       ],
-      "name": "Senator Bob Day AO"
+      "name": "Bob Day",
+      "other_names": [
+        {
+          "name": "Senator Bob Day AO",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Day, Bob",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "senator.mason@aph.gov.au"
+        }
+      ],
+      "email": "senator.mason@aph.gov.au",
+      "family_name": "Mason",
+      "gender": "male",
+      "given_name": "Brett",
+      "id": "2634d1ca-7e38-4458-a8f3-ae6da74a29b4",
+      "identifiers": [
+        {
+          "identifier": "84M",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "84M",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "10423",
+          "scheme": "openaustralia"
+        }
+      ],
+      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/84M/upload_ref_binary/84M.JPG",
+      "images": [
+        {
+          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/84M/upload_ref_binary/84M.JPG"
+        }
+      ],
+      "name": "Brett Mason",
+      "other_names": [
+        {
+          "name": "Senator the Hon Brett Mason",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Mason, Brett",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -178,12 +510,22 @@
         }
       ],
       "email": "senator.mckenzie@aph.gov.au",
+      "family_name": "McKenzie",
       "gender": "female",
+      "given_name": "Bridget",
       "id": "0e0fb1ae-b324-4018-aebc-ff9ef55b16e0",
       "identifiers": [
         {
           "identifier": "207825",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "207825",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "10758",
+          "scheme": "openaustralia"
         }
       ],
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/207825/upload_ref_binary/207825.jpg",
@@ -192,7 +534,19 @@
           "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/207825/upload_ref_binary/207825.jpg"
         }
       ],
-      "name": "Senator Bridget McKenzie"
+      "name": "Bridget McKenzie",
+      "other_names": [
+        {
+          "name": "Senator Bridget McKenzie",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "McKenzie, Bridget",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -202,12 +556,22 @@
         }
       ],
       "email": "senator.carol.brown@aph.gov.au",
+      "family_name": "Brown",
       "gender": "female",
+      "given_name": "Carol",
       "id": "221d6348-d4a1-4406-b908-d45edd9327c7",
       "identifiers": [
         {
           "identifier": "F49",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "F49",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "10071",
+          "scheme": "openaustralia"
         }
       ],
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/F49/upload_ref_binary/F49.JPG",
@@ -222,15 +586,37 @@
           "url": "http://www.alp.org.au/carol_brown"
         }
       ],
-      "name": "Senator Carol Brown"
+      "name": "Carol Brown",
+      "other_names": [
+        {
+          "name": "Senator Carol Brown",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Brown, Carol",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
     },
     {
+      "family_name": "Bilyk",
       "gender": "female",
+      "given_name": "Catryna",
       "id": "f2d05b01-1472-4872-af70-7477dae18722",
       "identifiers": [
         {
           "identifier": "HZB",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "HZB",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "10705",
+          "scheme": "openaustralia"
         }
       ],
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/HZB/upload_ref_binary/HZB.JPG",
@@ -245,32 +631,37 @@
           "url": "http://www.catrynabilyk.com"
         }
       ],
-      "name": "Senator Catryna Bilyk"
-    },
-    {
-      "gender": "male",
-      "id": "e388765c-3863-4c00-8a68-8de159bd4bd0",
-      "identifiers": [
+      "name": "Catryna Bilyk",
+      "other_names": [
         {
-          "identifier": "J7Q",
-          "scheme": "everypolitician_legacy"
+          "name": "Senator Catryna Bilyk",
+          "note": "alternate"
         }
       ],
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/J7Q/upload_ref_binary/J7Q.JPG",
-      "images": [
+      "sort_name": "Bilyk, Catryna",
+      "sources": [
         {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/J7Q/upload_ref_binary/J7Q.JPG"
+          "url": "http://data.openaustralia.org/members/senators.xml"
         }
-      ],
-      "name": "Senator Chris Back"
+      ]
     },
     {
+      "family_name": "Ketter",
       "gender": "male",
+      "given_name": "Chris",
       "id": "35fb4043-6d9f-4bfd-8130-1284b7ea8e02",
       "identifiers": [
         {
           "identifier": "244247",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "244247",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "10829",
+          "scheme": "openaustralia"
         }
       ],
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/244247/upload_ref_binary/244247.jpg",
@@ -279,7 +670,19 @@
           "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/244247/upload_ref_binary/244247.jpg"
         }
       ],
-      "name": "Senator Chris Ketter"
+      "name": "Chris Ketter",
+      "other_names": [
+        {
+          "name": "Senator Chris Ketter",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Ketter, Chris",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -289,12 +692,22 @@
         }
       ],
       "email": "senator.milne@aph.gov.au",
+      "family_name": "Milne",
       "gender": "female",
+      "given_name": "Christine",
       "id": "044c2835-1a7b-4652-9df4-189d26a458e1",
       "identifiers": [
         {
           "identifier": "ka5",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "ka5",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "10458",
+          "scheme": "openaustralia"
         }
       ],
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/KA5/upload_ref_binary/KA5.JPG",
@@ -309,15 +722,76 @@
           "url": "http://www.christinemilne.org.au/"
         }
       ],
-      "name": "Senator Christine Milne"
+      "name": "Christine Milne",
+      "other_names": [
+        {
+          "name": "Senator Christine Milne",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Milne, Christine",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
     },
     {
+      "family_name": "Back",
+      "gender": "male",
+      "given_name": "Christopher",
+      "id": "e388765c-3863-4c00-8a68-8de159bd4bd0",
+      "identifiers": [
+        {
+          "identifier": "J7Q",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "J7Q",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "10722",
+          "scheme": "openaustralia"
+        }
+      ],
+      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/J7Q/upload_ref_binary/J7Q.JPG",
+      "images": [
+        {
+          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/J7Q/upload_ref_binary/J7Q.JPG"
+        }
+      ],
+      "name": "Christopher Back",
+      "other_names": [
+        {
+          "name": "Senator Chris Back",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Back, Christopher",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
+    },
+    {
+      "family_name": "Moore",
       "gender": "female",
+      "given_name": "Claire",
       "id": "4e6d719a-6717-4f0a-b738-5709f4c98b99",
       "identifiers": [
         {
           "identifier": "00AOQ",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "00AOQ",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "10463",
+          "scheme": "openaustralia"
         }
       ],
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/00AOQ/upload_ref_binary/00AOQ.JPG",
@@ -332,15 +806,89 @@
           "url": "http://www.clairemoore.net/"
         }
       ],
-      "name": "Senator Claire Moore"
+      "name": "Claire Moore",
+      "other_names": [
+        {
+          "name": "Senator Claire Moore",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Moore, Claire",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Concetta.Fierravanti-Wells@dfat.gov.au"
+        }
+      ],
+      "email": "Concetta.Fierravanti-Wells@dfat.gov.au",
+      "family_name": "Fierravanti-Wells",
+      "gender": "female",
+      "given_name": "Concetta",
+      "id": "db131740-9538-4a24-8c83-9b0eab0bea22",
+      "identifiers": [
+        {
+          "identifier": "e4t",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "e4t",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "10222",
+          "scheme": "openaustralia"
+        }
+      ],
+      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/E4T/upload_ref_binary/E4T.JPG",
+      "images": [
+        {
+          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/E4T/upload_ref_binary/E4T.JPG"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://ministers.dfat.gov.au/fierravanti-wells/Pages/default.aspx"
+        }
+      ],
+      "name": "Concetta Fierravanti-Wells",
+      "other_names": [
+        {
+          "name": "Senator the Hon Concetta Fierravanti-Wells",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Fierravanti-Wells, Concetta",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
+    },
+    {
+      "family_name": "Bernardi",
       "gender": "male",
+      "given_name": "Cory",
       "id": "507def8c-f3fd-4be5-8937-4ceaa26520ae",
       "identifiers": [
         {
           "identifier": "G0D",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "G0D",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "10038",
+          "scheme": "openaustralia"
         }
       ],
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/G0D/upload_ref_binary/G0D.JPG",
@@ -355,15 +903,37 @@
           "url": "http://www.senatorbernardi.com/"
         }
       ],
-      "name": "Senator Cory Bernardi"
+      "name": "Cory Bernardi",
+      "other_names": [
+        {
+          "name": "Senator Cory Bernardi",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Bernardi, Cory",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
     },
     {
+      "family_name": "Bushby",
       "gender": "male",
+      "given_name": "David",
       "id": "4cf9b2ae-54c9-4fce-82a3-84e71ede51ca",
       "identifiers": [
         {
           "identifier": "HLL",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "HLL",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "10085",
+          "scheme": "openaustralia"
         }
       ],
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/HLL/upload_ref_binary/HLL.jpg",
@@ -378,7 +948,19 @@
           "url": "http://www.davidbushby.com.au/"
         }
       ],
-      "name": "Senator David Bushby"
+      "name": "David Bushby",
+      "other_names": [
+        {
+          "name": "Senator David Bushby",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Bushby, David",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -388,12 +970,22 @@
         }
       ],
       "email": "senator.fawcett@aph.gov.au",
+      "family_name": "Fawcett",
       "gender": "male",
+      "given_name": "David",
       "id": "bb533f2a-e62d-4fae-acf7-cfe317d08cd6",
       "identifiers": [
         {
           "identifier": "DYU",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "DYU",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "10215",
+          "scheme": "openaustralia"
         }
       ],
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/DYU/upload_ref_binary/DYU.jpg",
@@ -406,9 +998,64 @@
         {
           "note": "website",
           "url": "http://www.senator.fawcett.net.au"
+        },
+        {
+          "note": "wikipedia",
+          "url": "http://en.wikipedia.org/wiki/David_Fawcett"
         }
       ],
-      "name": "Senator David Fawcett"
+      "name": "David Fawcett",
+      "other_names": [
+        {
+          "name": "Senator David Fawcett",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Fawcett, David",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
+    },
+    {
+      "family_name": "Johnston",
+      "gender": "male",
+      "given_name": "David",
+      "id": "fa6d6ed9-90d9-4225-a8c6-95cbe7528c39",
+      "identifiers": [
+        {
+          "identifier": "00AON",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "00AON",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "10344",
+          "scheme": "openaustralia"
+        }
+      ],
+      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/00AON/upload_ref_binary/00AON.JPG",
+      "images": [
+        {
+          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/00AON/upload_ref_binary/00AON.JPG"
+        }
+      ],
+      "name": "David Johnston",
+      "other_names": [
+        {
+          "name": "Senator the Hon David Johnston",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Johnston, David",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -422,12 +1069,22 @@
         }
       ],
       "email": "senator.leyonhjelm@aph.gov.au",
+      "family_name": "Leyonhjelm",
       "gender": "male",
+      "given_name": "David",
       "id": "08d1256c-cb2d-4115-bca3-88d19a2bb414",
       "identifiers": [
         {
           "identifier": "111206",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "111206",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "10832",
+          "scheme": "openaustralia"
         }
       ],
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/111206/upload_ref_binary/111206.jpg",
@@ -446,7 +1103,19 @@
           "url": "https://twitter.com/DavidLeyonhjelm"
         }
       ],
-      "name": "Senator David Leyonhjelm"
+      "name": "David Leyonhjelm",
+      "other_names": [
+        {
+          "name": "Senator David Leyonhjelm",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Leyonhjelm, David",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -456,12 +1125,22 @@
         }
       ],
       "email": "senator.smith@aph.gov.au",
+      "family_name": "Smith",
       "gender": "male",
+      "given_name": "Dean",
       "id": "6fe2104d-e89f-4709-89eb-f5b9c78ffca4",
       "identifiers": [
         {
           "identifier": "241710",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "241710",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "10768",
+          "scheme": "openaustralia"
         }
       ],
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/241710/upload_ref_binary/241710.jpg",
@@ -476,15 +1155,37 @@
           "url": "http://www.deansmithwa.com.au/"
         }
       ],
-      "name": "Senator Dean Smith"
+      "name": "Dean Smith",
+      "other_names": [
+        {
+          "name": "Senator Dean Smith",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Smith, Dean",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
     },
     {
+      "family_name": "O'Neill",
       "gender": "female",
+      "given_name": "Deborah",
       "id": "d78e6905-f642-405e-991c-b81a8f8449ad",
       "identifiers": [
         {
           "identifier": "140651",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "140651",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "10747",
+          "scheme": "openaustralia"
         }
       ],
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/140651/upload_ref_binary/140651.jpg",
@@ -493,1027 +1194,19 @@
           "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/140651/upload_ref_binary/140651.jpg"
         }
       ],
-      "name": "Senator Deborah O'Neill"
-    },
-    {
-      "contact_details": [
+      "name": "Deborah O'Neill",
+      "other_names": [
         {
-          "type": "email",
-          "value": "senator.marshall@aph.gov.au"
+          "name": "Senator Deborah O'Neill",
+          "note": "alternate"
         }
       ],
-      "email": "senator.marshall@aph.gov.au",
-      "gender": "male",
-      "id": "f733205a-e6b5-466e-a111-87b773f576b6",
-      "identifiers": [
+      "sort_name": "O'Neill, Deborah",
+      "sources": [
         {
-          "identifier": "00AOP",
-          "scheme": "everypolitician_legacy"
+          "url": "http://data.openaustralia.org/members/senators.xml"
         }
-      ],
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/00AOP/upload_ref_binary/00AOP.jpg",
-      "images": [
-        {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/00AOP/upload_ref_binary/00AOP.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "website",
-          "url": "http://www.gavinmarshall.org/"
-        }
-      ],
-      "name": "Senator Gavin Marshall"
-    },
-    {
-      "gender": "male",
-      "id": "2c087853-b69c-4677-adad-e8fc9b099d9f",
-      "identifiers": [
-        {
-          "identifier": "108616",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/108616/upload_ref_binary/108616.jpg",
-      "images": [
-        {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/108616/upload_ref_binary/108616.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "website",
-          "url": "http://senatorlazarus.com/"
-        }
-      ],
-      "name": "Senator Glenn Lazarus"
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "senator.sterle@aph.gov.au"
-        }
-      ],
-      "email": "senator.sterle@aph.gov.au",
-      "gender": "male",
-      "id": "35c2098f-a631-4248-8c75-03f01efaac43",
-      "identifiers": [
-        {
-          "identifier": "e68",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/E68/upload_ref_binary/E68.JPG",
-      "images": [
-        {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/E68/upload_ref_binary/E68.JPG"
-        }
-      ],
-      "name": "Senator Glenn Sterle"
-    },
-    {
-      "gender": "female",
-      "id": "4c341988-b484-4e11-9383-11f3770a22d8",
-      "identifiers": [
-        {
-          "identifier": "G1N",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/G1N/upload_ref_binary/G1N.JPG",
-      "images": [
-        {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/G1N/upload_ref_binary/G1N.JPG"
-        }
-      ],
-      "name": "Senator Helen Kroger"
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "senator.polley@aph.gov.au"
-        }
-      ],
-      "email": "senator.polley@aph.gov.au",
-      "gender": "female",
-      "id": "8a8151a7-e7e7-4790-a763-2afe995d2a02",
-      "identifiers": [
-        {
-          "identifier": "e5x",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/E5X/upload_ref_binary/E5X.JPG",
-      "images": [
-        {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/E5X/upload_ref_binary/E5X.JPG"
-        }
-      ],
-      "links": [
-        {
-          "note": "website",
-          "url": "http://www.senatorhelenpolley.com.au/"
-        }
-      ],
-      "name": "Senator Helen Polley"
-    },
-    {
-      "gender": "female",
-      "id": "fc2d7e6d-55ef-41a8-9ea9-18e79b52dbca",
-      "identifiers": [
-        {
-          "identifier": "250026",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/250026/upload_ref_binary/250026.jpg",
-      "images": [
-        {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/250026/upload_ref_binary/250026.jpg"
-        }
-      ],
-      "name": "Senator Jacqui Lambie"
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "senator.paterson@aph.gov.au"
-        },
-        {
-          "type": "twitter",
-          "value": "senpaterson"
-        }
-      ],
-      "email": "senator.paterson@aph.gov.au",
-      "gender": "male",
-      "id": "32ca3a6f-c19d-465c-a1ad-a53564e7fade",
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/144138/upload_ref_binary/144138.jpg",
-      "images": [
-        {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/144138/upload_ref_binary/144138.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "facebook",
-          "url": "https://facebook.com/senatorpaterson"
-        },
-        {
-          "note": "twitter",
-          "url": "https://twitter.com/senpaterson"
-        }
-      ],
-      "name": "Senator James Paterson"
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "senator.rice@aph.gov.au"
-        },
-        {
-          "type": "twitter",
-          "value": "janet_rice"
-        }
-      ],
-      "email": "senator.rice@aph.gov.au",
-      "gender": "female",
-      "id": "bf2b14d0-d33a-481f-a165-1138b097f861",
-      "identifiers": [
-        {
-          "identifier": "155410",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/155410/upload_ref_binary/155410.jpg",
-      "images": [
-        {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/155410/upload_ref_binary/155410.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "facebook",
-          "url": "https://facebook.com/Janet.Rice.Greens"
-        },
-        {
-          "note": "twitter",
-          "url": "https://twitter.com/janet_rice"
-        },
-        {
-          "note": "website",
-          "url": "http://janet-rice.greensmps.org.au/"
-        }
-      ],
-      "name": "Senator Janet Rice"
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "jennifer.mcallister@aph.gov.au"
-        }
-      ],
-      "email": "jennifer.mcallister@aph.gov.au",
-      "gender": "female",
-      "id": "3f7e5adc-979c-418b-950b-4731079c2cf7",
-      "identifiers": [
-        {
-          "identifier": "121628",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/121628/upload_ref_binary/121628.jpg",
-      "images": [
-        {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/121628/upload_ref_binary/121628.jpg"
-        }
-      ],
-      "name": "Senator Jenny McAllister"
-    },
-    {
-      "gender": "female",
-      "id": "3812108f-9ee7-4972-948e-44e3d23a3982",
-      "identifiers": [
-        {
-          "identifier": "258337",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/258337/upload_ref_binary/258337.jpg",
-      "images": [
-        {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/258337/upload_ref_binary/258337.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "facebook",
-          "url": "https://facebook.com/SenatorLindgren"
-        },
-        {
-          "note": "website",
-          "url": "http://www.joannalindgren.com.au/"
-        }
-      ],
-      "name": "Senator Joanna Lindgren"
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "senator.bullock@aph.gov.au"
-        }
-      ],
-      "email": "senator.bullock@aph.gov.au",
-      "gender": "male",
-      "id": "dd773e82-9df9-4d82-9b56-165af6a07f38",
-      "identifiers": [
-        {
-          "identifier": "243237",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/243237/upload_ref_binary/243237.jpg",
-      "images": [
-        {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/243237/upload_ref_binary/243237.jpg"
-        }
-      ],
-      "name": "Senator Joe Bullock"
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "senator.madigan@aph.gov.au"
-        }
-      ],
-      "email": "senator.madigan@aph.gov.au",
-      "gender": "male",
-      "id": "8b0c6b42-84f5-4886-a026-0353b6a32cf4",
-      "identifiers": [
-        {
-          "identifier": "217571",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/217571/upload_ref_binary/217571.jpg",
-      "images": [
-        {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/217571/upload_ref_binary/217571.jpg"
-        }
-      ],
-      "name": "Senator John Madigan"
-    },
-    {
-      "gender": "male",
-      "id": "3375e2b5-b29f-48b4-a5c0-b30b6b703745",
-      "identifiers": [
-        {
-          "identifier": "I0V",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/I0V/upload_ref_binary/I0V.JPG",
-      "images": [
-        {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/I0V/upload_ref_binary/I0V.JPG"
-        }
-      ],
-      "links": [
-        {
-          "note": "website",
-          "url": "http://www.johnwilliams.com.au/"
-        }
-      ],
-      "name": "Senator John Williams"
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "senator.katy.gallagher@aph.gov.au"
-        }
-      ],
-      "email": "senator.katy.gallagher@aph.gov.au",
-      "gender": "female",
-      "id": "92c436dd-812d-4b8d-8e75-e810236027a8",
-      "identifiers": [
-        {
-          "identifier": "ING",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/ING/upload_ref_binary/ING.jpg",
-      "images": [
-        {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/ING/upload_ref_binary/ING.jpg"
-        }
-      ],
-      "name": "Senator Katy Gallagher"
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "senator.waters@aph.gov.au"
-        }
-      ],
-      "email": "senator.waters@aph.gov.au",
-      "gender": "female",
-      "id": "bba7f0df-b8ab-43e5-97cd-a0dc8814adc3",
-      "identifiers": [
-        {
-          "identifier": "192970",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/192970/upload_ref_binary/192970.jpg",
-      "images": [
-        {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/192970/upload_ref_binary/192970.jpg"
-        }
-      ],
-      "name": "Senator Larissa Waters"
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "senator.rhiannon@aph.gov.au"
-        }
-      ],
-      "email": "senator.rhiannon@aph.gov.au",
-      "gender": "female",
-      "id": "4d6a8209-95b4-481e-ac94-2d60743a59f4",
-      "identifiers": [
-        {
-          "identifier": "CPR",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/CPR/upload_ref_binary/cpr.jpg",
-      "images": [
-        {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/CPR/upload_ref_binary/cpr.jpg"
-        }
-      ],
-      "name": "Senator Lee Rhiannon"
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "senator.reynolds@aph.gov.au"
-        }
-      ],
-      "email": "senator.reynolds@aph.gov.au",
-      "gender": "female",
-      "id": "0010f971-580b-4161-a67e-7d5991e127fc",
-      "identifiers": [
-        {
-          "identifier": "250216",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/250216/upload_ref_binary/250216.jpg",
-      "images": [
-        {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/250216/upload_ref_binary/250216.jpg"
-        }
-      ],
-      "name": "Senator Linda Reynolds CSC"
-    },
-    {
-      "gender": "female",
-      "id": "f0fdc1b6-97cd-400e-9270-1d33dc92ed59",
-      "identifiers": [
-        {
-          "identifier": "I0T",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/I0T/upload_ref_binary/I0T.JPG",
-      "images": [
-        {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/I0T/upload_ref_binary/I0T.JPG"
-        }
-      ],
-      "name": "Senator Louise Pratt"
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "senator.bishop@aph.gov.au"
-        }
-      ],
-      "email": "senator.bishop@aph.gov.au",
-      "gender": "male",
-      "id": "092e4ca5-d575-4f04-9d1d-66f6ba1e8203",
-      "identifiers": [
-        {
-          "identifier": "2L6",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/2L6/upload_ref_binary/2L6.jpg",
-      "images": [
-        {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/2L6/upload_ref_binary/2L6.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "website",
-          "url": "http://www.senatormarkbishop.com.au"
-        }
-      ],
-      "name": "Senator Mark Bishop"
-    },
-    {
-      "gender": "male",
-      "id": "bc3e14b5-ca1f-47cb-89ef-9f2d0febbb6d",
-      "identifiers": [
-        {
-          "identifier": "I0P",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/I0P/upload_ref_binary/I0P.JPG",
-      "images": [
-        {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/I0P/upload_ref_binary/I0P.JPG"
-        }
-      ],
-      "links": [
-        {
-          "note": "website",
-          "url": "http://www.markfurner.com/"
-        }
-      ],
-      "name": "Senator Mark Furner"
-    },
-    {
-      "gender": "male",
-      "id": "5f5d2117-0942-4dca-841c-1720d1ace335",
-      "identifiers": [
-        {
-          "identifier": "249499",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/249499/upload_ref_binary/249499.jpg",
-      "images": [
-        {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/249499/upload_ref_binary/249499.jpg"
-        }
-      ],
-      "name": "Senator Mehmet Tillem"
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "senator.mckim@aph.gov.au"
-        },
-        {
-          "type": "twitter",
-          "value": "nickmckim"
-        }
-      ],
-      "email": "senator.mckim@aph.gov.au",
-      "gender": "male",
-      "id": "3f2957c5-fe0a-45d5-b1ce-872b2bdc6d44",
-      "identifiers": [
-        {
-          "identifier": "JKM",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/JKM/upload_ref_binary/JKM.jpg",
-      "images": [
-        {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/JKM/upload_ref_binary/JKM.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "facebook",
-          "url": "https://facebook.com/nickmckim"
-        },
-        {
-          "note": "twitter",
-          "url": "https://twitter.com/nickmckim"
-        },
-        {
-          "note": "website",
-          "url": "http://nick-mckim.greensmps.org.au/"
-        }
-      ],
-      "name": "Senator Nick McKim"
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "senator.xenophon@aph.gov.au"
-        }
-      ],
-      "email": "senator.xenophon@aph.gov.au",
-      "gender": "male",
-      "id": "d954072d-7cc3-4b81-81f7-124cf02695a1",
-      "identifiers": [
-        {
-          "identifier": "8IV",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/8IV/upload_ref_binary/8IV.JPG",
-      "images": [
-        {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/8IV/upload_ref_binary/8IV.JPG"
-        }
-      ],
-      "links": [
-        {
-          "note": "website",
-          "url": "http://www.nickxenophon.com.au"
-        }
-      ],
-      "name": "Senator Nick Xenophon"
-    },
-    {
-      "gender": "female",
-      "id": "aba5ca15-f15d-4e27-8a42-efa664aa4c0c",
-      "identifiers": [
-        {
-          "identifier": "CDK",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/CDK/upload_ref_binary/CDK.jpg",
-      "images": [
-        {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/CDK/upload_ref_binary/CDK.jpg"
-        }
-      ],
-      "name": "Senator Nova Peris OAM"
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "senator.wright@aph.gov.au"
-        },
-        {
-          "type": "twitter",
-          "value": "pennywrites"
-        }
-      ],
-      "email": "senator.wright@aph.gov.au",
-      "gender": "female",
-      "id": "237d09ec-a732-4191-b19b-8b4c7dd064b5",
-      "identifiers": [
-        {
-          "identifier": "200287",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/200287/upload_ref_binary/200287.jpg",
-      "images": [
-        {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/200287/upload_ref_binary/200287.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "facebook",
-          "url": "https://facebook.com/SenatorPennyWright"
-        },
-        {
-          "note": "twitter",
-          "url": "https://twitter.com/pennywrites"
-        }
-      ],
-      "name": "Senator Penny Wright"
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "senator.whish-wilson@aph.gov.au"
-        },
-        {
-          "type": "twitter",
-          "value": "SenatorSurfer"
-        }
-      ],
-      "email": "senator.whish-wilson@aph.gov.au",
-      "gender": "male",
-      "id": "6f4e7a8b-be1e-4176-97be-e411e4ddc6b5",
-      "identifiers": [
-        {
-          "identifier": "195565",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/195565/upload_ref_binary/195565.jpg",
-      "images": [
-        {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/195565/upload_ref_binary/195565.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "facebook",
-          "url": "https://facebook.com/senator.peter.whish.wilson"
-        },
-        {
-          "note": "twitter",
-          "url": "https://twitter.com/SenatorSurfer"
-        }
-      ],
-      "name": "Senator Peter Whish-Wilson"
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "senator.siewert@aph.gov.au"
-        }
-      ],
-      "email": "senator.siewert@aph.gov.au",
-      "gender": "female",
-      "id": "b308602d-a4fa-4859-af3b-fa524e7dd228",
-      "identifiers": [
-        {
-          "identifier": "e5z",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/E5Z/upload_ref_binary/E5Z.JPG",
-      "images": [
-        {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/E5Z/upload_ref_binary/E5Z.JPG"
-        }
-      ],
-      "links": [
-        {
-          "note": "website",
-          "url": "http://www.rachelsiewert.org.au/"
-        }
-      ],
-      "name": "Senator Rachel Siewert"
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "senator.dinatale@aph.gov.au"
-        },
-        {
-          "type": "twitter",
-          "value": "RichardDiNatale"
-        }
-      ],
-      "email": "senator.dinatale@aph.gov.au",
-      "gender": "male",
-      "id": "41e4f552-da12-45d9-b849-0bc36e1bb006",
-      "identifiers": [
-        {
-          "identifier": "53369",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/53369/upload_ref_binary/53369.jpg",
-      "images": [
-        {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/53369/upload_ref_binary/53369.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "facebook",
-          "url": "https://facebook.com/SenatorDiNatale"
-        },
-        {
-          "note": "twitter",
-          "url": "https://twitter.com/RichardDiNatale"
-        }
-      ],
-      "name": "Senator Richard Di Natale"
-    },
-    {
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "Ricky_Muir"
-        }
-      ],
-      "gender": "male",
-      "id": "4abf00d1-54c9-4396-9430-0d44e3f06866",
-      "identifiers": [
-        {
-          "identifier": "250024",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/250024/upload_ref_binary/250024.jpg",
-      "images": [
-        {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/250024/upload_ref_binary/250024.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "facebook",
-          "url": "https://facebook.com/SenatorRickyMuir"
-        },
-        {
-          "note": "twitter",
-          "url": "https://twitter.com/Ricky_Muir"
-        },
-        {
-          "note": "website",
-          "url": "http://www.senatormuir.org.au/"
-        }
-      ],
-      "name": "Senator Ricky Muir"
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "senator.simms@aph.gov.au"
-        },
-        {
-          "type": "twitter",
-          "value": "SimmsRobert"
-        }
-      ],
-      "email": "senator.simms@aph.gov.au",
-      "gender": "male",
-      "id": "5beff085-580f-4893-8f58-ffd637b8cc1b",
-      "identifiers": [
-        {
-          "identifier": "170166",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/170166/upload_ref_binary/170166.jpg",
-      "images": [
-        {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/170166/upload_ref_binary/170166.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "facebook",
-          "url": "https://facebook.com/SenatorRobertSimms"
-        },
-        {
-          "note": "twitter",
-          "url": "https://twitter.com/SimmsRobert"
-        }
-      ],
-      "name": "Senator Robert Simms"
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "senator.dastyari@aph.gov.au"
-        }
-      ],
-      "email": "senator.dastyari@aph.gov.au",
-      "gender": "male",
-      "id": "355601ad-54e5-4732-8388-fa8db4fb199f",
-      "identifiers": [
-        {
-          "identifier": "225099",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/225099/upload_ref_binary/225099.jpg",
-      "images": [
-        {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/225099/upload_ref_binary/225099.jpg"
-        }
-      ],
-      "name": "Senator Sam Dastyari"
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "senator.hanson-young@aph.gov.au"
-        }
-      ],
-      "email": "senator.hanson-young@aph.gov.au",
-      "gender": "female",
-      "id": "3eb39a18-244c-4539-8dbd-be417ff3fa97",
-      "identifiers": [
-        {
-          "identifier": "I0U",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/I0U/upload_ref_binary/I0U.JPG",
-      "images": [
-        {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/I0U/upload_ref_binary/I0U.JPG"
-        }
-      ],
-      "name": "Senator Sarah Hanson-Young"
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "senator.ludlam@aph.gov.au"
-        }
-      ],
-      "email": "senator.ludlam@aph.gov.au",
-      "gender": "male",
-      "id": "986b86ca-13a6-4aad-8290-95bd9993b6b8",
-      "identifiers": [
-        {
-          "identifier": "I07",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/I07/upload_ref_binary/I07.JPG",
-      "images": [
-        {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/I07/upload_ref_binary/I07.JPG"
-        }
-      ],
-      "name": "Senator Scott Ludlam"
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "senator.edwards@aph.gov.au"
-        },
-        {
-          "type": "twitter",
-          "value": "SeanC_Edwards"
-        }
-      ],
-      "email": "senator.edwards@aph.gov.au",
-      "gender": "male",
-      "id": "8b96a7d6-f769-49d4-b577-1c6a76de1d88",
-      "identifiers": [
-        {
-          "identifier": "225307",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/225307/upload_ref_binary/225307.jpg",
-      "images": [
-        {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/225307/upload_ref_binary/225307.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "facebook",
-          "url": "https://facebook.com/Sean.Edwards.Clare"
-        },
-        {
-          "note": "twitter",
-          "url": "https://twitter.com/SeanC_Edwards"
-        },
-        {
-          "note": "website",
-          "url": "http://www.senatoredwards.com.au/Home.aspx"
-        }
-      ],
-      "name": "Senator Sean Edwards"
-    },
-    {
-      "gender": "female",
-      "id": "b5a7d866-6f2c-4cf6-a04e-d26e3213335d",
-      "identifiers": [
-        {
-          "identifier": "H6V",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/H6V/upload_ref_binary/H6V.jpg",
-      "images": [
-        {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/H6V/upload_ref_binary/H6V.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "website",
-          "url": "http://www.sueboyce.com.au/"
-        }
-      ],
-      "name": "Senator Sue Boyce"
-    },
-    {
-      "gender": "female",
-      "id": "9cc86928-c79f-4c35-860b-671c72205585",
-      "identifiers": [
-        {
-          "identifier": "112096",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/112096/upload_ref_binary/112096.jpg",
-      "images": [
-        {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/112096/upload_ref_binary/112096.jpg"
-        }
-      ],
-      "name": "Senator Sue Lines"
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "senator.seselja@aph.gov.au"
-        },
-        {
-          "type": "twitter",
-          "value": "zedseselja"
-        }
-      ],
-      "email": "senator.seselja@aph.gov.au",
-      "gender": "male",
-      "id": "c43e89a3-e635-4eae-a186-1b0d4802e0fa",
-      "identifiers": [
-        {
-          "identifier": "HZE",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/HZE/upload_ref_binary/HZE.jpg",
-      "images": [
-        {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/HZE/upload_ref_binary/HZE.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "facebook",
-          "url": "https://facebook.com/zed.seselja"
-        },
-        {
-          "note": "twitter",
-          "url": "https://twitter.com/zedseselja"
-        }
-      ],
-      "name": "Senator Zed Seselja"
+      ]
     },
     {
       "contact_details": [
@@ -1527,12 +1220,22 @@
         }
       ],
       "email": "senator.wang@aph.gov.au",
+      "family_name": "Wang",
       "gender": "male",
+      "given_name": "Dio",
       "id": "2c029580-c7cf-4f76-99da-b0beb3f265f4",
       "identifiers": [
         {
           "identifier": "250045",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "250045",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "10837",
+          "scheme": "openaustralia"
         }
       ],
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/250045/upload_ref_binary/250045.jpg",
@@ -1547,156 +1250,37 @@
           "url": "https://twitter.com/SenatorZWang"
         }
       ],
-      "name": "Senator Zhenya Wang"
+      "name": "Dio Wang",
+      "other_names": [
+        {
+          "name": "Senator Zhenya Wang",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Wang, Dio",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
     },
     {
-      "gender": "female",
-      "id": "fbbaa6ca-68ea-4093-94c4-28fe8eb9a5e7",
-      "identifiers": [
-        {
-          "identifier": "243273",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/243273/upload_ref_binary/243273.jpg",
-      "images": [
-        {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/243273/upload_ref_binary/243273.jpg"
-        }
-      ],
-      "name": "Senator the Hon Anne Ruston"
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "senator.sinodinos@aph.gov.au"
-        }
-      ],
-      "email": "senator.sinodinos@aph.gov.au",
+      "family_name": "Farrell",
       "gender": "male",
-      "id": "800fed41-c946-4010-a910-41c820bf3ca2",
-      "identifiers": [
-        {
-          "identifier": "bv7",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/BV7/upload_ref_binary/bv7.jpg",
-      "images": [
-        {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/BV7/upload_ref_binary/bv7.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "website",
-          "url": "http://www.arthursinodinos.com.au/"
-        }
-      ],
-      "name": "Senator the Hon Arthur Sinodinos AO"
-    },
-    {
-      "gender": "male",
-      "id": "143868a4-a562-4d3b-b50c-e134e4eb2b5b",
-      "identifiers": [
-        {
-          "identifier": "C16",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/C16/upload_ref_binary/C16.jpg",
-      "images": [
-        {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/C16/upload_ref_binary/C16.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "website",
-          "url": "http://www.billheffernan.com.au/"
-        }
-      ],
-      "name": "Senator the Hon Bill Heffernan"
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "senator.mason@aph.gov.au"
-        }
-      ],
-      "email": "senator.mason@aph.gov.au",
-      "gender": "male",
-      "id": "2634d1ca-7e38-4458-a8f3-ae6da74a29b4",
-      "identifiers": [
-        {
-          "identifier": "84M",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/84M/upload_ref_binary/84M.JPG",
-      "images": [
-        {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/84M/upload_ref_binary/84M.JPG"
-        }
-      ],
-      "name": "Senator the Hon Brett Mason"
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Concetta.Fierravanti-Wells@dfat.gov.au"
-        }
-      ],
-      "email": "Concetta.Fierravanti-Wells@dfat.gov.au",
-      "gender": "female",
-      "id": "db131740-9538-4a24-8c83-9b0eab0bea22",
-      "identifiers": [
-        {
-          "identifier": "e4t",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/E4T/upload_ref_binary/E4T.JPG",
-      "images": [
-        {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/E4T/upload_ref_binary/E4T.JPG"
-        }
-      ],
-      "links": [
-        {
-          "note": "website",
-          "url": "http://ministers.dfat.gov.au/fierravanti-wells/Pages/default.aspx"
-        }
-      ],
-      "name": "Senator the Hon Concetta Fierravanti-Wells"
-    },
-    {
-      "gender": "male",
-      "id": "fa6d6ed9-90d9-4225-a8c6-95cbe7528c39",
-      "identifiers": [
-        {
-          "identifier": "00AON",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/00AON/upload_ref_binary/00AON.JPG",
-      "images": [
-        {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/00AON/upload_ref_binary/00AON.JPG"
-        }
-      ],
-      "name": "Senator the Hon David Johnston"
-    },
-    {
-      "gender": "male",
+      "given_name": "Don",
       "id": "4d24a721-a2c3-411e-bf4b-6bcbdb9876ba",
       "identifiers": [
         {
           "identifier": "I0N",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "I0N",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "10708",
+          "scheme": "openaustralia"
         }
       ],
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/I0N/upload_ref_binary/I0N.JPG",
@@ -1705,7 +1289,19 @@
           "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/I0N/upload_ref_binary/I0N.JPG"
         }
       ],
-      "name": "Senator the Hon Don Farrell"
+      "name": "Don Farrell",
+      "other_names": [
+        {
+          "name": "Senator the Hon Don Farrell",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Farrell, Don",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -1715,12 +1311,22 @@
         }
       ],
       "email": "senator.cameron@aph.gov.au",
+      "family_name": "Cameron",
       "gender": "male",
+      "given_name": "Doug",
       "id": "db4b072e-fcd2-48b6-a5f4-751f68b03eab",
       "identifiers": [
         {
           "identifier": "AI6",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "AI6",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "10706",
+          "scheme": "openaustralia"
         }
       ],
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/AI6/upload_ref_binary/AI6.JPG",
@@ -1739,7 +1345,19 @@
           "url": "http://dougcameron.com.au"
         }
       ],
-      "name": "Senator the Hon Doug Cameron"
+      "name": "Doug Cameron",
+      "other_names": [
+        {
+          "name": "Senator the Hon Doug Cameron",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Cameron, Doug",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -1748,12 +1366,22 @@
           "value": "SenatorAbetz"
         }
       ],
+      "family_name": "Abetz",
       "gender": "male",
+      "given_name": "Eric",
       "id": "d4053204-d523-40fd-a661-b19e362ceccc",
       "identifiers": [
         {
           "identifier": "N26",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "N26",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "10003",
+          "scheme": "openaustralia"
         }
       ],
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/N26/upload_ref_binary/N26.jpg",
@@ -1776,15 +1404,37 @@
           "url": "http://abetz.com.au/"
         }
       ],
-      "name": "Senator the Hon Eric Abetz"
+      "name": "Eric Abetz",
+      "other_names": [
+        {
+          "name": "Senator the Hon Eric Abetz",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Abetz, Eric",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
     },
     {
+      "family_name": "Nash",
       "gender": "female",
+      "given_name": "Fiona",
       "id": "f4009041-9614-4e28-bbaf-6f465093d887",
       "identifiers": [
         {
           "identifier": "e5g",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "e5g",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "10478",
+          "scheme": "openaustralia"
         }
       ],
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/E5G/upload_ref_binary/E5G.jpg",
@@ -1799,7 +1449,71 @@
           "url": "http://www.fionanash.com.au/"
         }
       ],
-      "name": "Senator the Hon Fiona Nash"
+      "name": "Fiona Nash",
+      "other_names": [
+        {
+          "name": "Senator the Hon Fiona Nash",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Nash, Fiona",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "senator.marshall@aph.gov.au"
+        }
+      ],
+      "email": "senator.marshall@aph.gov.au",
+      "family_name": "Marshall",
+      "gender": "male",
+      "given_name": "Gavin",
+      "id": "f733205a-e6b5-466e-a111-87b773f576b6",
+      "identifiers": [
+        {
+          "identifier": "00AOP",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "00AOP",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "10419",
+          "scheme": "openaustralia"
+        }
+      ],
+      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/00AOP/upload_ref_binary/00AOP.jpg",
+      "images": [
+        {
+          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/00AOP/upload_ref_binary/00AOP.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.gavinmarshall.org/"
+        }
+      ],
+      "name": "Gavin Marshall",
+      "other_names": [
+        {
+          "name": "Senator Gavin Marshall",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Marshall, Gavin",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -1809,12 +1523,22 @@
         }
       ],
       "email": "senator.brandis@aph.gov.au",
+      "family_name": "Brandis",
       "gender": "male",
+      "given_name": "George",
       "id": "011f00b2-70b7-49c4-a55e-8cbda1ab3a38",
       "identifiers": [
         {
           "identifier": "008W7",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "008W7",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "10067",
+          "scheme": "openaustralia"
         }
       ],
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/008W7/upload_ref_binary/008W7.jpg",
@@ -1823,15 +1547,219 @@
           "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/008W7/upload_ref_binary/008W7.jpg"
         }
       ],
-      "name": "Senator the Hon George Brandis QC"
+      "name": "George Brandis",
+      "other_names": [
+        {
+          "name": "Senator the Hon George Brandis QC",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Brandis, George",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
     },
     {
+      "family_name": "Lazarus",
       "gender": "male",
+      "given_name": "Glenn",
+      "id": "2c087853-b69c-4677-adad-e8fc9b099d9f",
+      "identifiers": [
+        {
+          "identifier": "108616",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "108616",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "10831",
+          "scheme": "openaustralia"
+        }
+      ],
+      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/108616/upload_ref_binary/108616.jpg",
+      "images": [
+        {
+          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/108616/upload_ref_binary/108616.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://senatorlazarus.com/"
+        }
+      ],
+      "name": "Glenn Lazarus",
+      "other_names": [
+        {
+          "name": "Senator Glenn Lazarus",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Lazarus, Glenn",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "senator.sterle@aph.gov.au"
+        }
+      ],
+      "email": "senator.sterle@aph.gov.au",
+      "family_name": "Sterle",
+      "gender": "male",
+      "given_name": "Glenn",
+      "id": "35c2098f-a631-4248-8c75-03f01efaac43",
+      "identifiers": [
+        {
+          "identifier": "e68",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "e68",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "10610",
+          "scheme": "openaustralia"
+        }
+      ],
+      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/E68/upload_ref_binary/E68.JPG",
+      "images": [
+        {
+          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/E68/upload_ref_binary/E68.JPG"
+        }
+      ],
+      "name": "Glenn Sterle",
+      "other_names": [
+        {
+          "name": "Senator Glenn Sterle",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Sterle, Glenn",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
+    },
+    {
+      "family_name": "Kroger",
+      "gender": "female",
+      "given_name": "Helen",
+      "id": "4c341988-b484-4e11-9383-11f3770a22d8",
+      "identifiers": [
+        {
+          "identifier": "G1N",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "G1N",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "10712",
+          "scheme": "openaustralia"
+        }
+      ],
+      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/G1N/upload_ref_binary/G1N.JPG",
+      "images": [
+        {
+          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/G1N/upload_ref_binary/G1N.JPG"
+        }
+      ],
+      "name": "Helen Kroger",
+      "other_names": [
+        {
+          "name": "Senator Helen Kroger",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Kroger, Helen",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "senator.polley@aph.gov.au"
+        }
+      ],
+      "email": "senator.polley@aph.gov.au",
+      "family_name": "Polley",
+      "gender": "female",
+      "given_name": "Helen",
+      "id": "8a8151a7-e7e7-4790-a763-2afe995d2a02",
+      "identifiers": [
+        {
+          "identifier": "e5x",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "e5x",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "10515",
+          "scheme": "openaustralia"
+        }
+      ],
+      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/E5X/upload_ref_binary/E5X.JPG",
+      "images": [
+        {
+          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/E5X/upload_ref_binary/E5X.JPG"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.senatorhelenpolley.com.au/"
+        }
+      ],
+      "name": "Helen Polley",
+      "other_names": [
+        {
+          "name": "Senator Helen Polley",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Polley, Helen",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
+    },
+    {
+      "family_name": "Macdonald",
+      "gender": "male",
+      "given_name": "Ian",
       "id": "e79ae9c0-a9e1-45a0-a6d5-45d295169a10",
       "identifiers": [
         {
           "identifier": "YW4",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "YW4",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "10401",
+          "scheme": "openaustralia"
         }
       ],
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/YW4/upload_ref_binary/YW4.JPG",
@@ -1846,15 +1774,37 @@
           "url": "http://www.senatormacdonald.org/"
         }
       ],
-      "name": "Senator the Hon Ian Macdonald"
+      "name": "Ian Macdonald",
+      "other_names": [
+        {
+          "name": "Senator the Hon Ian Macdonald",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Macdonald, Ian",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
     },
     {
+      "family_name": "Collins",
       "gender": "female",
+      "given_name": "Jacinta",
       "id": "798bb3bc-e9a4-4faa-9694-3a2ed4ce0bed",
       "identifiers": [
         {
           "identifier": "GB6",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "GB6",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "10135",
+          "scheme": "openaustralia"
         }
       ],
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/GB6/upload_ref_binary/GB6.JPG",
@@ -1863,7 +1813,58 @@
           "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/GB6/upload_ref_binary/GB6.JPG"
         }
       ],
-      "name": "Senator the Hon Jacinta Collins"
+      "name": "Jacinta Collins",
+      "other_names": [
+        {
+          "name": "Senator the Hon Jacinta Collins",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Collins, Jacinta",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
+    },
+    {
+      "family_name": "Lambie",
+      "gender": "female",
+      "given_name": "Jacqui",
+      "id": "fc2d7e6d-55ef-41a8-9ea9-18e79b52dbca",
+      "identifiers": [
+        {
+          "identifier": "250026",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "250026",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "10830",
+          "scheme": "openaustralia"
+        }
+      ],
+      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/250026/upload_ref_binary/250026.jpg",
+      "images": [
+        {
+          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/250026/upload_ref_binary/250026.jpg"
+        }
+      ],
+      "name": "Jacqui Lambie",
+      "other_names": [
+        {
+          "name": "Senator Jacqui Lambie",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Lambie, Jacqui",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -1872,12 +1873,22 @@
           "value": "JamesMcGrathLNP"
         }
       ],
+      "family_name": "McGrath",
       "gender": "male",
+      "given_name": "James",
       "id": "fcff592e-b0d0-4fb2-a62b-056ded632c34",
       "identifiers": [
         {
           "identifier": "217241",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "217241",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "10833",
+          "scheme": "openaustralia"
         }
       ],
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/217241/upload_ref_binary/217241.jpg",
@@ -1896,7 +1907,75 @@
           "url": "https://twitter.com/JamesMcGrathLNP"
         }
       ],
-      "name": "Senator the Hon James McGrath"
+      "name": "James McGrath",
+      "other_names": [
+        {
+          "name": "Senator the Hon James McGrath",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "McGrath, James",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "senator.paterson@aph.gov.au"
+        },
+        {
+          "type": "twitter",
+          "value": "senpaterson"
+        }
+      ],
+      "email": "senator.paterson@aph.gov.au",
+      "family_name": "Paterson",
+      "gender": "male",
+      "given_name": "James",
+      "id": "32ca3a6f-c19d-465c-a1ad-a53564e7fade",
+      "identifiers": [
+        {
+          "identifier": "144138",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "10845",
+          "scheme": "openaustralia"
+        }
+      ],
+      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/144138/upload_ref_binary/144138.jpg",
+      "images": [
+        {
+          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/144138/upload_ref_binary/144138.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/senatorpaterson"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/senpaterson"
+        }
+      ],
+      "name": "James Paterson",
+      "other_names": [
+        {
+          "name": "Senator James Paterson",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Paterson, James",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -1906,12 +1985,22 @@
         }
       ],
       "email": "senator.mclucas@aph.gov.au",
+      "family_name": "McLucas",
       "gender": "female",
+      "given_name": "Jan",
       "id": "2b2081df-2fe3-43d5-9886-c8d01bef443e",
       "identifiers": [
         {
           "identifier": "84L",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "84L",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "10447",
+          "scheme": "openaustralia"
         }
       ],
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/84L/upload_ref_binary/84L.JPG",
@@ -1926,69 +2015,242 @@
           "url": "http://www.janmclucas.net/"
         }
       ],
-      "name": "Senator the Hon Jan McLucas"
+      "name": "Jan McLucas",
+      "other_names": [
+        {
+          "name": "Senator the Hon Jan McLucas",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "McLucas, Jan",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
     },
     {
       "contact_details": [
         {
           "type": "email",
-          "value": "senator.faulkner@aph.gov.au"
+          "value": "senator.rice@aph.gov.au"
+        },
+        {
+          "type": "twitter",
+          "value": "janet_rice"
         }
       ],
-      "email": "senator.faulkner@aph.gov.au",
-      "gender": "male",
-      "id": "91ed0aba-03e0-40df-a1bf-95b1c3128f48",
+      "email": "senator.rice@aph.gov.au",
+      "family_name": "Rice",
+      "gender": "female",
+      "given_name": "Janet",
+      "id": "bf2b14d0-d33a-481f-a165-1138b097f861",
       "identifiers": [
         {
-          "identifier": "5K4",
+          "identifier": "155410",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "155410",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "10836",
+          "scheme": "openaustralia"
         }
       ],
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/5K4/upload_ref_binary/5K4.jpg",
+      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/155410/upload_ref_binary/155410.jpg",
       "images": [
         {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/5K4/upload_ref_binary/5K4.jpg"
+          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/155410/upload_ref_binary/155410.jpg"
         }
       ],
       "links": [
         {
+          "note": "facebook",
+          "url": "https://facebook.com/Janet.Rice.Greens"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/janet_rice"
+        },
+        {
           "note": "website",
-          "url": "http://www.senatorjohnfaulkner.com.au"
+          "url": "http://janet-rice.greensmps.org.au/"
         }
       ],
-      "name": "Senator the Hon John Faulkner"
+      "name": "Janet Rice",
+      "other_names": [
+        {
+          "name": "Senator Janet Rice",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Rice, Janet",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
     },
     {
       "contact_details": [
         {
           "type": "email",
-          "value": "senator.hogg@aph.gov.au"
+          "value": "jennifer.mcallister@aph.gov.au"
         }
       ],
-      "email": "senator.hogg@aph.gov.au",
-      "gender": "male",
-      "id": "6c2433de-08d7-402d-b2ac-d60b9f4d01df",
+      "email": "jennifer.mcallister@aph.gov.au",
+      "family_name": "McAllister",
+      "gender": "female",
+      "given_name": "Jenny",
+      "id": "3f7e5adc-979c-418b-950b-4731079c2cf7",
       "identifiers": [
         {
-          "identifier": "7L6",
+          "identifier": "121628",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "121628",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "10839",
+          "scheme": "openaustralia"
         }
       ],
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/7L6/upload_ref_binary/7L6.JPG",
+      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/121628/upload_ref_binary/121628.jpg",
       "images": [
         {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/7L6/upload_ref_binary/7L6.JPG"
+          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/121628/upload_ref_binary/121628.jpg"
         }
       ],
-      "name": "Senator the Hon John Hogg"
+      "name": "Jenny McAllister",
+      "other_names": [
+        {
+          "name": "Senator Jenny McAllister",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "McAllister, Jenny",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
     },
     {
+      "family_name": "Lindgren",
+      "gender": "female",
+      "given_name": "Jo",
+      "id": "3812108f-9ee7-4972-948e-44e3d23a3982",
+      "identifiers": [
+        {
+          "identifier": "258337",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "258337",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "10840",
+          "scheme": "openaustralia"
+        }
+      ],
+      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/258337/upload_ref_binary/258337.jpg",
+      "images": [
+        {
+          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/258337/upload_ref_binary/258337.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/SenatorLindgren"
+        },
+        {
+          "note": "website",
+          "url": "http://www.joannalindgren.com.au/"
+        }
+      ],
+      "name": "Jo Lindgren",
+      "other_names": [
+        {
+          "name": "Senator Joanna Lindgren",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Lindgren, Jo",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "senator.bullock@aph.gov.au"
+        }
+      ],
+      "email": "senator.bullock@aph.gov.au",
+      "family_name": "Bullock",
       "gender": "male",
+      "given_name": "Joe",
+      "id": "dd773e82-9df9-4d82-9b56-165af6a07f38",
+      "identifiers": [
+        {
+          "identifier": "243237",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "243237",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "10826",
+          "scheme": "openaustralia"
+        }
+      ],
+      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/243237/upload_ref_binary/243237.jpg",
+      "images": [
+        {
+          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/243237/upload_ref_binary/243237.jpg"
+        }
+      ],
+      "name": "Joe Bullock",
+      "other_names": [
+        {
+          "name": "Senator Joe Bullock",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Bullock, Joe",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
+    },
+    {
+      "family_name": "Ludwig",
+      "gender": "male",
+      "given_name": "Joe",
       "id": "8b0eb988-e462-4b8a-a947-4970b143b8de",
       "identifiers": [
         {
           "identifier": "84N",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "84N",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "10397",
+          "scheme": "openaustralia"
         }
       ],
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/84N/upload_ref_binary/84N.jpg",
@@ -2003,7 +2265,208 @@
           "url": "http://www.joeludwig.org"
         }
       ],
-      "name": "Senator the Hon Joseph Ludwig"
+      "name": "Joe Ludwig",
+      "other_names": [
+        {
+          "name": "Senator the Hon Joseph Ludwig",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Ludwig, Joe",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "senator.faulkner@aph.gov.au"
+        }
+      ],
+      "email": "senator.faulkner@aph.gov.au",
+      "family_name": "Faulkner",
+      "gender": "male",
+      "given_name": "John",
+      "id": "91ed0aba-03e0-40df-a1bf-95b1c3128f48",
+      "identifiers": [
+        {
+          "identifier": "5K4",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "5K4",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "10214",
+          "scheme": "openaustralia"
+        }
+      ],
+      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/5K4/upload_ref_binary/5K4.jpg",
+      "images": [
+        {
+          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/5K4/upload_ref_binary/5K4.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.senatorjohnfaulkner.com.au"
+        }
+      ],
+      "name": "John Faulkner",
+      "other_names": [
+        {
+          "name": "Senator the Hon John Faulkner",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Faulkner, John",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "senator.hogg@aph.gov.au"
+        }
+      ],
+      "email": "senator.hogg@aph.gov.au",
+      "family_name": "Hogg",
+      "gender": "male",
+      "given_name": "John",
+      "id": "6c2433de-08d7-402d-b2ac-d60b9f4d01df",
+      "identifiers": [
+        {
+          "identifier": "7L6",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "7L6",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "10309",
+          "scheme": "openaustralia"
+        }
+      ],
+      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/7L6/upload_ref_binary/7L6.JPG",
+      "images": [
+        {
+          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/7L6/upload_ref_binary/7L6.JPG"
+        }
+      ],
+      "name": "John Hogg",
+      "other_names": [
+        {
+          "name": "Senator the Hon John Hogg",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Hogg, John",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "senator.madigan@aph.gov.au"
+        }
+      ],
+      "email": "senator.madigan@aph.gov.au",
+      "family_name": "Madigan",
+      "gender": "male",
+      "given_name": "John",
+      "id": "8b0c6b42-84f5-4886-a026-0353b6a32cf4",
+      "identifiers": [
+        {
+          "identifier": "217571",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "217571",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "10759",
+          "scheme": "openaustralia"
+        }
+      ],
+      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/217571/upload_ref_binary/217571.jpg",
+      "images": [
+        {
+          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/217571/upload_ref_binary/217571.jpg"
+        }
+      ],
+      "name": "John Madigan",
+      "other_names": [
+        {
+          "name": "Senator John Madigan",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Madigan, John",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
+    },
+    {
+      "family_name": "Williams",
+      "gender": "male",
+      "given_name": "John",
+      "id": "3375e2b5-b29f-48b4-a5c0-b30b6b703745",
+      "identifiers": [
+        {
+          "identifier": "I0V",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "I0V",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "10716",
+          "scheme": "openaustralia"
+        }
+      ],
+      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/I0V/upload_ref_binary/I0V.JPG",
+      "images": [
+        {
+          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/I0V/upload_ref_binary/I0V.JPG"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.johnwilliams.com.au/"
+        }
+      ],
+      "name": "John Williams",
+      "other_names": [
+        {
+          "name": "Senator John Williams",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Williams, John",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -2013,12 +2476,22 @@
         }
       ],
       "email": "senator.lundy@aph.gov.au",
+      "family_name": "Lundy",
       "gender": "female",
+      "given_name": "Kate",
       "id": "a00901e6-0ecd-474a-bd0b-25e476fb6676",
       "identifiers": [
         {
           "identifier": "7G6",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "7G6",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "10398",
+          "scheme": "openaustralia"
         }
       ],
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/7G6/upload_ref_binary/7G6.JPG",
@@ -2033,7 +2506,65 @@
           "url": "http://www.katelundy.com.au/"
         }
       ],
-      "name": "Senator the Hon Kate Lundy"
+      "name": "Kate Lundy",
+      "other_names": [
+        {
+          "name": "Senator the Hon Kate Lundy",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Lundy, Kate",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "senator.katy.gallagher@aph.gov.au"
+        }
+      ],
+      "email": "senator.katy.gallagher@aph.gov.au",
+      "family_name": "Gallagher",
+      "gender": "female",
+      "given_name": "Katy",
+      "id": "92c436dd-812d-4b8d-8e75-e810236027a8",
+      "identifiers": [
+        {
+          "identifier": "ING",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "ING",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "10838",
+          "scheme": "openaustralia"
+        }
+      ],
+      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/ING/upload_ref_binary/ING.jpg",
+      "images": [
+        {
+          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/ING/upload_ref_binary/ING.jpg"
+        }
+      ],
+      "name": "Katy Gallagher",
+      "other_names": [
+        {
+          "name": "Senator Katy Gallagher",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Gallagher, Katy",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -2043,12 +2574,22 @@
         }
       ],
       "email": "senator.carr@aph.gov.au",
+      "family_name": "Carr",
       "gender": "male",
+      "given_name": "Kim",
       "id": "e5965652-0ceb-4f21-a435-5883c8207885",
       "identifiers": [
         {
           "identifier": "AW5",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "AW5",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "10103",
+          "scheme": "openaustralia"
         }
       ],
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/AW5/upload_ref_binary/AW5.JPG",
@@ -2057,7 +2598,125 @@
           "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/AW5/upload_ref_binary/AW5.JPG"
         }
       ],
-      "name": "Senator the Hon Kim Carr"
+      "name": "Kim Carr",
+      "other_names": [
+        {
+          "name": "Senator the Hon Kim Carr",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Carr, Kim",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "senator.waters@aph.gov.au"
+        },
+        {
+          "type": "twitter",
+          "value": "larissawaters"
+        }
+      ],
+      "email": "senator.waters@aph.gov.au",
+      "family_name": "Waters",
+      "gender": "female",
+      "given_name": "Larissa",
+      "id": "bba7f0df-b8ab-43e5-97cd-a0dc8814adc3",
+      "identifiers": [
+        {
+          "identifier": "192970",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "192970",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "10764",
+          "scheme": "openaustralia"
+        }
+      ],
+      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/192970/upload_ref_binary/192970.jpg",
+      "images": [
+        {
+          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/192970/upload_ref_binary/192970.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/larissawaters"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/larissawaters"
+        }
+      ],
+      "name": "Larissa Waters",
+      "other_names": [
+        {
+          "name": "Senator Larissa Waters",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Waters, Larissa",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "senator.rhiannon@aph.gov.au"
+        }
+      ],
+      "email": "senator.rhiannon@aph.gov.au",
+      "family_name": "Rhiannon",
+      "gender": "female",
+      "given_name": "Lee",
+      "id": "4d6a8209-95b4-481e-ac94-2d60743a59f4",
+      "identifiers": [
+        {
+          "identifier": "CPR",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "CPR",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "10760",
+          "scheme": "openaustralia"
+        }
+      ],
+      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/CPR/upload_ref_binary/cpr.jpg",
+      "images": [
+        {
+          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/CPR/upload_ref_binary/cpr.jpg"
+        }
+      ],
+      "name": "Lee Rhiannon",
+      "other_names": [
+        {
+          "name": "Senator Lee Rhiannon",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Rhiannon, Lee",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -2067,12 +2726,22 @@
         }
       ],
       "email": "senator.thorp@aph.gov.au",
+      "family_name": "Thorp",
       "gender": "female",
+      "given_name": "Lin",
       "id": "cdbd90ad-9f19-4c7a-bf47-dc9bbda4367e",
       "identifiers": [
         {
           "identifier": "183342",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "183342",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "10769",
+          "scheme": "openaustralia"
         }
       ],
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/183342/upload_ref_binary/183342.jpg",
@@ -2081,7 +2750,65 @@
           "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/183342/upload_ref_binary/183342.jpg"
         }
       ],
-      "name": "Senator the Hon Lin Thorp"
+      "name": "Lin Thorp",
+      "other_names": [
+        {
+          "name": "Senator the Hon Lin Thorp",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Thorp, Lin",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "senator.reynolds@aph.gov.au"
+        }
+      ],
+      "email": "senator.reynolds@aph.gov.au",
+      "family_name": "Reynolds",
+      "gender": "female",
+      "given_name": "Linda",
+      "id": "0010f971-580b-4161-a67e-7d5991e127fc",
+      "identifiers": [
+        {
+          "identifier": "250216",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "250216",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "10835",
+          "scheme": "openaustralia"
+        }
+      ],
+      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/250216/upload_ref_binary/250216.jpg",
+      "images": [
+        {
+          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/250216/upload_ref_binary/250216.jpg"
+        }
+      ],
+      "name": "Linda Reynolds",
+      "other_names": [
+        {
+          "name": "Senator Linda Reynolds CSC",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Reynolds, Linda",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -2091,12 +2818,22 @@
         }
       ],
       "email": "senator.singh@aph.gov.au",
+      "family_name": "Singh",
       "gender": "female",
+      "given_name": "Lisa",
       "id": "fe076b5f-04a7-44c4-931f-de8aa2635f46",
       "identifiers": [
         {
           "identifier": "M0R",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "M0R",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "10761",
+          "scheme": "openaustralia"
         }
       ],
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/M0R/upload_ref_binary/m0r.jpg",
@@ -2111,7 +2848,58 @@
           "url": "http://www.lisasingh.com.au/main/"
         }
       ],
-      "name": "Senator the Hon Lisa Singh"
+      "name": "Lisa Singh",
+      "other_names": [
+        {
+          "name": "Senator the Hon Lisa Singh",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Singh, Lisa",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
+    },
+    {
+      "family_name": "Pratt",
+      "gender": "female",
+      "given_name": "Louise",
+      "id": "f0fdc1b6-97cd-400e-9270-1d33dc92ed59",
+      "identifiers": [
+        {
+          "identifier": "I0T",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "I0T",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "10714",
+          "scheme": "openaustralia"
+        }
+      ],
+      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/I0T/upload_ref_binary/I0T.JPG",
+      "images": [
+        {
+          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/I0T/upload_ref_binary/I0T.JPG"
+        }
+      ],
+      "name": "Louise Pratt",
+      "other_names": [
+        {
+          "name": "Senator Louise Pratt",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Pratt, Louise",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -2121,12 +2909,22 @@
         }
       ],
       "email": "minister@defence.gov.au",
+      "family_name": "Payne",
       "gender": "female",
+      "given_name": "Marise",
       "id": "34b7af42-fa68-4e04-9a16-92a7cdd1082b",
       "identifiers": [
         {
           "identifier": "M56",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "M56",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "10509",
+          "scheme": "openaustralia"
         }
       ],
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/M56/upload_ref_binary/M56.JPG",
@@ -2141,15 +2939,134 @@
           "url": "http://www.marisepayne.com/"
         }
       ],
-      "name": "Senator the Hon Marise Payne"
+      "name": "Marise Payne",
+      "other_names": [
+        {
+          "name": "Senator the Hon Marise Payne",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Payne, Marise",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "senator.bishop@aph.gov.au"
+        }
+      ],
+      "email": "senator.bishop@aph.gov.au",
+      "family_name": "Bishop",
       "gender": "male",
+      "given_name": "Mark",
+      "id": "092e4ca5-d575-4f04-9d1d-66f6ba1e8203",
+      "identifiers": [
+        {
+          "identifier": "2L6",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "2L6",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "10048",
+          "scheme": "openaustralia"
+        }
+      ],
+      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/2L6/upload_ref_binary/2L6.jpg",
+      "images": [
+        {
+          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/2L6/upload_ref_binary/2L6.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.senatormarkbishop.com.au"
+        }
+      ],
+      "name": "Mark Bishop",
+      "other_names": [
+        {
+          "name": "Senator Mark Bishop",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Bishop, Mark",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
+    },
+    {
+      "family_name": "Furner",
+      "gender": "male",
+      "given_name": "Mark",
+      "id": "bc3e14b5-ca1f-47cb-89ef-9f2d0febbb6d",
+      "identifiers": [
+        {
+          "identifier": "I0P",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "I0P",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "10710",
+          "scheme": "openaustralia"
+        }
+      ],
+      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/I0P/upload_ref_binary/I0P.JPG",
+      "images": [
+        {
+          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/I0P/upload_ref_binary/I0P.JPG"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.markfurner.com/"
+        }
+      ],
+      "name": "Mark Furner",
+      "other_names": [
+        {
+          "name": "Senator Mark Furner",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Furner, Mark",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
+    },
+    {
+      "family_name": "Cormann",
+      "gender": "male",
+      "given_name": "Mathias",
       "id": "88876a8a-2909-4fc9-8211-047df1bc43ef",
       "identifiers": [
         {
           "identifier": "HDA",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "HDA",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "10148",
+          "scheme": "openaustralia"
         }
       ],
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/HDA/upload_ref_binary/HDA.JPG",
@@ -2164,7 +3081,19 @@
           "url": "http://www.mathiascormann.com.au"
         }
       ],
-      "name": "Senator the Hon Mathias Cormann"
+      "name": "Mathias Cormann",
+      "other_names": [
+        {
+          "name": "Senator the Hon Mathias Cormann",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Cormann, Mathias",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -2174,12 +3103,22 @@
         }
       ],
       "email": "minister.canavan@industry.gov.au",
+      "family_name": "Canavan",
       "gender": "male",
+      "given_name": "Matthew",
       "id": "59ae5aa3-637b-4d84-94cf-9609854dd6c8",
       "identifiers": [
         {
           "identifier": "245212",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "245212",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "10827",
+          "scheme": "openaustralia"
         }
       ],
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/245212/upload_ref_binary/245212.jpg",
@@ -2194,7 +3133,58 @@
           "url": "http://www.minister.industry.gov.au/ministers/canavan"
         }
       ],
-      "name": "Senator the Hon Matthew Canavan"
+      "name": "Matthew Canavan",
+      "other_names": [
+        {
+          "name": "Senator the Hon Matthew Canavan",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Canavan, Matthew",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
+    },
+    {
+      "family_name": "Tillem",
+      "gender": "male",
+      "given_name": "Mehmet",
+      "id": "5f5d2117-0942-4dca-841c-1720d1ace335",
+      "identifiers": [
+        {
+          "identifier": "249499",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "249499",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "10821",
+          "scheme": "openaustralia"
+        }
+      ],
+      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/249499/upload_ref_binary/249499.jpg",
+      "images": [
+        {
+          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/249499/upload_ref_binary/249499.jpg"
+        }
+      ],
+      "name": "Mehmet Tillem",
+      "other_names": [
+        {
+          "name": "Senator Mehmet Tillem",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Tillem, Mehmet",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -2203,12 +3193,22 @@
           "value": "senronno"
         }
       ],
+      "family_name": "Ronaldson",
       "gender": "male",
+      "given_name": "Michael",
       "id": "a263008a-ea71-4dd7-b348-8e73a6289b54",
       "identifiers": [
         {
           "identifier": "xt4",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "xt4",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "10550",
+          "scheme": "openaustralia"
         }
       ],
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/XT4/upload_ref_binary/XT4.JPG",
@@ -2227,15 +3227,37 @@
           "url": "https://twitter.com/senronno"
         }
       ],
-      "name": "Senator the Hon Michael Ronaldson"
+      "name": "Michael Ronaldson",
+      "other_names": [
+        {
+          "name": "Senator the Hon Michael Ronaldson",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Ronaldson, Michael",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
     },
     {
+      "family_name": "Cash",
       "gender": "female",
+      "given_name": "Michaelia",
       "id": "26c73bfa-9bd8-43e0-99d7-9183da991280",
       "identifiers": [
         {
           "identifier": "I0M",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "I0M",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "10707",
+          "scheme": "openaustralia"
         }
       ],
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/I0M/upload_ref_binary/I0M.jpg",
@@ -2244,7 +3266,19 @@
           "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/I0M/upload_ref_binary/I0M.jpg"
         }
       ],
-      "name": "Senator the Hon Michaelia Cash"
+      "name": "Michaelia Cash",
+      "other_names": [
+        {
+          "name": "Senator the Hon Michaelia Cash",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Cash, Michaelia",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -2253,12 +3287,22 @@
           "value": "SenatorFifield"
         }
       ],
+      "family_name": "Fifield",
       "gender": "male",
+      "given_name": "Mitch",
       "id": "e930bdf9-1e7b-472b-adb2-9816c9f1cef8",
       "identifiers": [
         {
           "identifier": "D2I",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "D2I",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "10224",
+          "scheme": "openaustralia"
         }
       ],
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/D2I/upload_ref_binary/D2I.JPG",
@@ -2281,7 +3325,135 @@
           "url": "http://www.mitchfifield.com/"
         }
       ],
-      "name": "Senator the Hon Mitch Fifield"
+      "name": "Mitch Fifield",
+      "other_names": [
+        {
+          "name": "Senator the Hon Mitch Fifield",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Fifield, Mitch",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "senator.mckim@aph.gov.au"
+        },
+        {
+          "type": "twitter",
+          "value": "nickmckim"
+        }
+      ],
+      "email": "senator.mckim@aph.gov.au",
+      "family_name": "McKim",
+      "gender": "male",
+      "given_name": "Nick",
+      "id": "3f2957c5-fe0a-45d5-b1ce-872b2bdc6d44",
+      "identifiers": [
+        {
+          "identifier": "JKM",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "JKM",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "10841",
+          "scheme": "openaustralia"
+        }
+      ],
+      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/JKM/upload_ref_binary/JKM.jpg",
+      "images": [
+        {
+          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/JKM/upload_ref_binary/JKM.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/nickmckim"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/nickmckim"
+        },
+        {
+          "note": "website",
+          "url": "http://nick-mckim.greensmps.org.au/"
+        }
+      ],
+      "name": "Nick McKim",
+      "other_names": [
+        {
+          "name": "Senator Nick McKim",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "McKim, Nick",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "senator.xenophon@aph.gov.au"
+        }
+      ],
+      "email": "senator.xenophon@aph.gov.au",
+      "family_name": "Xenophon",
+      "gender": "male",
+      "given_name": "Nick",
+      "id": "d954072d-7cc3-4b81-81f7-124cf02695a1",
+      "identifiers": [
+        {
+          "identifier": "8IV",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "8IV",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "10717",
+          "scheme": "openaustralia"
+        }
+      ],
+      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/8IV/upload_ref_binary/8IV.JPG",
+      "images": [
+        {
+          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/8IV/upload_ref_binary/8IV.JPG"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.nickxenophon.com.au"
+        }
+      ],
+      "name": "Nick Xenophon",
+      "other_names": [
+        {
+          "name": "Senator Nick Xenophon",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Xenophon, Nick",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -2291,12 +3463,22 @@
         }
       ],
       "email": "senator.scullion@aph.gov.au",
+      "family_name": "Scullion",
       "gender": "male",
+      "given_name": "Nigel",
       "id": "aa4699f5-7e99-4b4e-9a86-aabeaa3af028",
       "identifiers": [
         {
           "identifier": "00AOM",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "00AOM",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "10569",
+          "scheme": "openaustralia"
         }
       ],
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/00AOM/upload_ref_binary/00AOM.JPG",
@@ -2311,15 +3493,110 @@
           "url": "http://www.nigelscullion.com/"
         }
       ],
-      "name": "Senator the Hon Nigel Scullion"
+      "name": "Nigel Scullion",
+      "other_names": [
+        {
+          "name": "Senator the Hon Nigel Scullion",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Scullion, Nigel",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
     },
     {
+      "family_name": "Peris",
       "gender": "female",
+      "given_name": "Nova",
+      "id": "aba5ca15-f15d-4e27-8a42-efa664aa4c0c",
+      "identifiers": [
+        {
+          "identifier": "CDK",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "CDK",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "10820",
+          "scheme": "openaustralia"
+        }
+      ],
+      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/CDK/upload_ref_binary/CDK.jpg",
+      "images": [
+        {
+          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/CDK/upload_ref_binary/CDK.jpg"
+        }
+      ],
+      "name": "Nova Peris",
+      "other_names": [
+        {
+          "name": "Senator Nova Peris OAM",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Peris, Nova",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
+    },
+    {
+      "family_name": "Dodson",
+      "given_name": "Patrick",
+      "id": "2b42c839-2f04-4d0d-b803-bdae7e428341",
+      "identifiers": [
+        {
+          "identifier": "SR5",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "10846",
+          "scheme": "openaustralia"
+        }
+      ],
+      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/SR5/upload_ref_binary/SR5.jpg",
+      "images": [
+        {
+          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/SR5/upload_ref_binary/SR5.jpg"
+        }
+      ],
+      "name": "Patrick Dodson",
+      "other_names": [
+        {
+          "name": "Senator Patrick Dodson",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Dodson, Patrick",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
+    },
+    {
+      "family_name": "Wong",
+      "gender": "female",
+      "given_name": "Penny",
       "id": "824ec8ce-676f-45fa-ace6-73503dd0ff20",
       "identifiers": [
         {
           "identifier": "00AOU",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "00AOU",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "10678",
+          "scheme": "openaustralia"
         }
       ],
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/00AOU/upload_ref_binary/00AOU.jpg",
@@ -2334,7 +3611,131 @@
           "url": "http://www.pennywong.com.au/"
         }
       ],
-      "name": "Senator the Hon Penny Wong"
+      "name": "Penny Wong",
+      "other_names": [
+        {
+          "name": "Senator the Hon Penny Wong",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Wong, Penny",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "senator.whish-wilson@aph.gov.au"
+        },
+        {
+          "type": "twitter",
+          "value": "SenatorSurfer"
+        }
+      ],
+      "email": "senator.whish-wilson@aph.gov.au",
+      "family_name": "Whish-Wilson",
+      "gender": "male",
+      "given_name": "Peter",
+      "id": "6f4e7a8b-be1e-4176-97be-e411e4ddc6b5",
+      "identifiers": [
+        {
+          "identifier": "195565",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "195565",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "10780",
+          "scheme": "openaustralia"
+        }
+      ],
+      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/195565/upload_ref_binary/195565.jpg",
+      "images": [
+        {
+          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/195565/upload_ref_binary/195565.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/senator.peter.whish.wilson"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/SenatorSurfer"
+        }
+      ],
+      "name": "Peter Whish-Wilson",
+      "other_names": [
+        {
+          "name": "Senator Peter Whish-Wilson",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Whish-Wilson, Peter",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "senator.siewert@aph.gov.au"
+        }
+      ],
+      "email": "senator.siewert@aph.gov.au",
+      "family_name": "Siewert",
+      "gender": "female",
+      "given_name": "Rachel",
+      "id": "b308602d-a4fa-4859-af3b-fa524e7dd228",
+      "identifiers": [
+        {
+          "identifier": "e5z",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "e5z",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "10584",
+          "scheme": "openaustralia"
+        }
+      ],
+      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/E5Z/upload_ref_binary/E5Z.JPG",
+      "images": [
+        {
+          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/E5Z/upload_ref_binary/E5Z.JPG"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.rachelsiewert.org.au/"
+        }
+      ],
+      "name": "Rachel Siewert",
+      "other_names": [
+        {
+          "name": "Senator Rachel Siewert",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Siewert, Rachel",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -2344,12 +3745,22 @@
         }
       ],
       "email": "senator.colbeck@aph.gov.au",
+      "family_name": "Colbeck",
       "gender": "male",
+      "given_name": "Richard",
       "id": "a411ea63-c0a8-4df7-b88b-872390ceff4d",
       "identifiers": [
         {
           "identifier": "00AOL",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "00AOL",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "10131",
+          "scheme": "openaustralia"
         }
       ],
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/00AOL/upload_ref_binary/00AOL.JPG",
@@ -2358,7 +3769,198 @@
           "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/00AOL/upload_ref_binary/00AOL.JPG"
         }
       ],
-      "name": "Senator the Hon Richard Colbeck"
+      "name": "Richard Colbeck",
+      "other_names": [
+        {
+          "name": "Senator the Hon Richard Colbeck",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Colbeck, Richard",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "senator.dinatale@aph.gov.au"
+        },
+        {
+          "type": "twitter",
+          "value": "RichardDiNatale"
+        }
+      ],
+      "email": "senator.dinatale@aph.gov.au",
+      "family_name": "Di Natale",
+      "gender": "male",
+      "given_name": "Richard",
+      "id": "41e4f552-da12-45d9-b849-0bc36e1bb006",
+      "identifiers": [
+        {
+          "identifier": "53369",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "53369",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "10755",
+          "scheme": "openaustralia"
+        }
+      ],
+      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/53369/upload_ref_binary/53369.jpg",
+      "images": [
+        {
+          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/53369/upload_ref_binary/53369.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/SenatorDiNatale"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/RichardDiNatale"
+        }
+      ],
+      "name": "Richard Di Natale",
+      "other_names": [
+        {
+          "name": "Senator Richard Di Natale",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Di Natale, Richard",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "Ricky_Muir"
+        }
+      ],
+      "family_name": "Muir",
+      "gender": "male",
+      "given_name": "Ricky",
+      "id": "4abf00d1-54c9-4396-9430-0d44e3f06866",
+      "identifiers": [
+        {
+          "identifier": "250024",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "250024",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "10834",
+          "scheme": "openaustralia"
+        }
+      ],
+      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/250024/upload_ref_binary/250024.jpg",
+      "images": [
+        {
+          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/250024/upload_ref_binary/250024.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/SenatorRickyMuir"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/Ricky_Muir"
+        },
+        {
+          "note": "website",
+          "url": "http://www.senatormuir.org.au/"
+        }
+      ],
+      "name": "Ricky Muir",
+      "other_names": [
+        {
+          "name": "Senator Ricky Muir",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Muir, Ricky",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "senator.simms@aph.gov.au"
+        },
+        {
+          "type": "twitter",
+          "value": "SimmsRobert"
+        }
+      ],
+      "email": "senator.simms@aph.gov.au",
+      "family_name": "Simms",
+      "gender": "male",
+      "given_name": "Robert",
+      "id": "5beff085-580f-4893-8f58-ffd637b8cc1b",
+      "identifiers": [
+        {
+          "identifier": "170166",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "170166",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "10842",
+          "scheme": "openaustralia"
+        }
+      ],
+      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/170166/upload_ref_binary/170166.jpg",
+      "images": [
+        {
+          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/170166/upload_ref_binary/170166.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/SenatorRobertSimms"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/SimmsRobert"
+        }
+      ],
+      "name": "Robert Simms",
+      "other_names": [
+        {
+          "name": "Senator Robert Simms",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Simms, Robert",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -2368,12 +3970,22 @@
         }
       ],
       "email": "senator.boswell@aph.gov.au",
+      "family_name": "Boswell",
       "gender": "male",
+      "given_name": "Ron",
       "id": "f93a480f-8e42-4a7b-99d7-20f9a5cc096a",
       "identifiers": [
         {
           "identifier": "YE4",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "YE4",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "10057",
+          "scheme": "openaustralia"
         }
       ],
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/YE4/upload_ref_binary/YE4.JPG",
@@ -2388,15 +4000,175 @@
           "url": "http://www.ronboswell.com/"
         }
       ],
-      "name": "Senator the Hon Ronald Boswell"
+      "name": "Ron Boswell",
+      "other_names": [
+        {
+          "name": "Senator the Hon Ronald Boswell",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Boswell, Ron",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "senator.dastyari@aph.gov.au"
+        }
+      ],
+      "email": "senator.dastyari@aph.gov.au",
+      "family_name": "Dastyari",
       "gender": "male",
+      "given_name": "Sam",
+      "id": "355601ad-54e5-4732-8388-fa8db4fb199f",
+      "identifiers": [
+        {
+          "identifier": "225099",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "225099",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "10819",
+          "scheme": "openaustralia"
+        }
+      ],
+      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/225099/upload_ref_binary/225099.jpg",
+      "images": [
+        {
+          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/225099/upload_ref_binary/225099.jpg"
+        }
+      ],
+      "name": "Sam Dastyari",
+      "other_names": [
+        {
+          "name": "Senator Sam Dastyari",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Dastyari, Sam",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "senator.hanson-young@aph.gov.au"
+        }
+      ],
+      "email": "senator.hanson-young@aph.gov.au",
+      "family_name": "Hanson-Young",
+      "gender": "female",
+      "given_name": "Sarah",
+      "id": "3eb39a18-244c-4539-8dbd-be417ff3fa97",
+      "identifiers": [
+        {
+          "identifier": "I0U",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "I0U",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "10711",
+          "scheme": "openaustralia"
+        }
+      ],
+      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/I0U/upload_ref_binary/I0U.JPG",
+      "images": [
+        {
+          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/I0U/upload_ref_binary/I0U.JPG"
+        }
+      ],
+      "name": "Sarah Hanson-Young",
+      "other_names": [
+        {
+          "name": "Senator Sarah Hanson-Young",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Hanson-Young, Sarah",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "senator.ludlam@aph.gov.au"
+        }
+      ],
+      "email": "senator.ludlam@aph.gov.au",
+      "family_name": "Ludlam",
+      "gender": "male",
+      "given_name": "Scott",
+      "id": "986b86ca-13a6-4aad-8290-95bd9993b6b8",
+      "identifiers": [
+        {
+          "identifier": "I07",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "I07",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "10713",
+          "scheme": "openaustralia"
+        }
+      ],
+      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/I07/upload_ref_binary/I07.JPG",
+      "images": [
+        {
+          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/I07/upload_ref_binary/I07.JPG"
+        }
+      ],
+      "name": "Scott Ludlam",
+      "other_names": [
+        {
+          "name": "Senator Scott Ludlam",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Ludlam, Scott",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
+    },
+    {
+      "family_name": "Ryan",
+      "gender": "male",
+      "given_name": "Scott",
       "id": "1e2862d9-66e0-4d93-aea4-3927c14e5b8a",
       "identifiers": [
         {
           "identifier": "I0Q",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "I0Q",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "10715",
+          "scheme": "openaustralia"
         }
       ],
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/I0Q/upload_ref_binary/I0Q.JPG",
@@ -2411,7 +4183,83 @@
           "url": "http://www.scottryan.com.au"
         }
       ],
-      "name": "Senator the Hon Scott Ryan"
+      "name": "Scott Ryan",
+      "other_names": [
+        {
+          "name": "Senator the Hon Scott Ryan",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Ryan, Scott",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "senator.edwards@aph.gov.au"
+        },
+        {
+          "type": "twitter",
+          "value": "SeanC_Edwards"
+        }
+      ],
+      "email": "senator.edwards@aph.gov.au",
+      "family_name": "Edwards",
+      "gender": "male",
+      "given_name": "Sean",
+      "id": "8b96a7d6-f769-49d4-b577-1c6a76de1d88",
+      "identifiers": [
+        {
+          "identifier": "225307",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "225307",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "10756",
+          "scheme": "openaustralia"
+        }
+      ],
+      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/225307/upload_ref_binary/225307.jpg",
+      "images": [
+        {
+          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/225307/upload_ref_binary/225307.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/Sean.Edwards.Clare"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/SeanC_Edwards"
+        },
+        {
+          "note": "website",
+          "url": "http://www.senatoredwards.com.au/Home.aspx"
+        }
+      ],
+      "name": "Sean Edwards",
+      "other_names": [
+        {
+          "name": "Senator Sean Edwards",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Edwards, Sean",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -2420,12 +4268,22 @@
           "value": "Birmo"
         }
       ],
+      "family_name": "Birmingham",
       "gender": "male",
+      "given_name": "Simon",
       "id": "21da000d-f8ca-41a2-bcf8-0bbf45547fcb",
       "identifiers": [
         {
           "identifier": "H6X",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "H6X",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "10044",
+          "scheme": "openaustralia"
         }
       ],
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/H6X/upload_ref_binary/H6X.jpg",
@@ -2448,7 +4306,19 @@
           "url": "http://www.senatorbirmingham.com.au/"
         }
       ],
-      "name": "Senator the Hon Simon Birmingham"
+      "name": "Simon Birmingham",
+      "other_names": [
+        {
+          "name": "Senator the Hon Simon Birmingham",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Birmingham, Simon",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -2458,12 +4328,22 @@
         }
       ],
       "email": "senator.conroy@aph.gov.au",
+      "family_name": "Conroy",
       "gender": "male",
+      "given_name": "Stephen",
       "id": "9a016d4d-f26b-4b85-a026-f2eba23de3b8",
       "identifiers": [
         {
           "identifier": "3L6",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "3L6",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "10142",
+          "scheme": "openaustralia"
         }
       ],
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/3L6/upload_ref_binary/3L6.jpg",
@@ -2472,7 +4352,19 @@
           "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/3L6/upload_ref_binary/3L6.jpg"
         }
       ],
-      "name": "Senator the Hon Stephen Conroy"
+      "name": "Stephen Conroy",
+      "other_names": [
+        {
+          "name": "Senator the Hon Stephen Conroy",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Conroy, Stephen",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -2482,12 +4374,22 @@
         }
       ],
       "email": "senator.parry@aph.gov.au",
+      "family_name": "Parry",
       "gender": "male",
+      "given_name": "Stephen",
       "id": "39dd4c49-f329-4fb3-976d-fd8cbb563b9f",
       "identifiers": [
         {
           "identifier": "e5v",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "e5v",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "10507",
+          "scheme": "openaustralia"
         }
       ],
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/E5V/upload_ref_binary/E5V.JPG",
@@ -2502,7 +4404,103 @@
           "url": "http://www.stephenparry.com.au"
         }
       ],
-      "name": "Senator the Hon Stephen Parry"
+      "name": "Stephen Parry",
+      "other_names": [
+        {
+          "name": "Senator the Hon Stephen Parry",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Parry, Stephen",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
+    },
+    {
+      "family_name": "Boyce",
+      "gender": "female",
+      "given_name": "Sue",
+      "id": "b5a7d866-6f2c-4cf6-a04e-d26e3213335d",
+      "identifiers": [
+        {
+          "identifier": "H6V",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "H6V",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "10062",
+          "scheme": "openaustralia"
+        }
+      ],
+      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/H6V/upload_ref_binary/H6V.jpg",
+      "images": [
+        {
+          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/H6V/upload_ref_binary/H6V.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.sueboyce.com.au/"
+        }
+      ],
+      "name": "Sue Boyce",
+      "other_names": [
+        {
+          "name": "Senator Sue Boyce",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Boyce, Sue",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
+    },
+    {
+      "family_name": "Lines",
+      "gender": "female",
+      "given_name": "Sue",
+      "id": "9cc86928-c79f-4c35-860b-671c72205585",
+      "identifiers": [
+        {
+          "identifier": "112096",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "112096",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "10782",
+          "scheme": "openaustralia"
+        }
+      ],
+      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/112096/upload_ref_binary/112096.jpg",
+      "images": [
+        {
+          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/112096/upload_ref_binary/112096.jpg"
+        }
+      ],
+      "name": "Sue Lines",
+      "other_names": [
+        {
+          "name": "Senator Sue Lines",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Lines, Sue",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -2512,12 +4510,22 @@
         }
       ],
       "email": "senator.stephens@aph.gov.au",
+      "family_name": "Stephens",
       "gender": "female",
+      "given_name": "Ursula",
       "id": "72d03e5d-8c81-492e-8dfe-914f5889c62a",
       "identifiers": [
         {
           "identifier": "00AOS",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "00AOS",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "10609",
+          "scheme": "openaustralia"
         }
       ],
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/00AOS/upload_ref_binary/00AOS.jpg",
@@ -2532,7 +4540,79 @@
           "url": "http://www.ursulastephens.com/"
         }
       ],
-      "name": "Senator the Hon Ursula Stephens"
+      "name": "Ursula Stephens",
+      "other_names": [
+        {
+          "name": "Senator the Hon Ursula Stephens",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Stephens, Ursula",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "senator.seselja@aph.gov.au"
+        },
+        {
+          "type": "twitter",
+          "value": "zedseselja"
+        }
+      ],
+      "email": "senator.seselja@aph.gov.au",
+      "family_name": "Seselja",
+      "gender": "male",
+      "given_name": "Zed",
+      "id": "c43e89a3-e635-4eae-a186-1b0d4802e0fa",
+      "identifiers": [
+        {
+          "identifier": "HZE",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "HZE",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "10822",
+          "scheme": "openaustralia"
+        }
+      ],
+      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/HZE/upload_ref_binary/HZE.jpg",
+      "images": [
+        {
+          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/HZE/upload_ref_binary/HZE.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/zed.seselja"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/zedseselja"
+        }
+      ],
+      "name": "Zed Seselja",
+      "other_names": [
+        {
+          "name": "Senator Zed Seselja",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Seselja, Zed",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
     }
   ],
   "organizations": [
@@ -3272,6 +5352,495 @@
     },
     {
       "classification": "party",
+      "id": "party/australian_labor_party",
+      "identifiers": [
+        {
+          "identifier": "Q216082",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.alp.org.au/"
+        }
+      ],
+      "name": "Australian Labor Party",
+      "other_names": [
+        {
+          "lang": "nan",
+          "name": "Australia Lô-tōng Tóng",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hans",
+          "name": "澳大利亚工党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "澳大利亞工黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "澳洲工黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "澳大利亚工党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-sg",
+          "name": "澳大利亚工党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-tw",
+          "name": "澳洲工黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Australijska Partia Pracy",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "오스트레일리아 노동당",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be",
+          "name": "Аўстралійская лейбарысцкая партыя",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti travailliste australien",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Laborista Australiano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "தொழிற் கட்சி",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "Parti Buruh Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Partito Laburista Australiano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Australian Labor Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Partai Buruh Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "オーストラリア労働党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Đảng Lao động Úc",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Αυστραλιανό Εργατικό Κόμμα",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yue",
+          "name": "澳洲工黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Australian Labor Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Australijska laburistička partija",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "حزب العمال الأسترالي",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Australian Labor Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Australiens arbetarparti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Partido Trabalhista Australiano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Aŭstralia Laborista Partio",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Австралийская лейбористская партия",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Avustralya İşçi Partisi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Australian työväenpuolue",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Лейбористська партія",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Australská strana práce",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "حزب کارگر استرالیا",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "Australie Labor Pairty",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "ავსტრალიის ლეიბორისტული პარტია",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Australijos darbininkų partija",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Australian Labor Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de-ch",
+          "name": "Australian Labor Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "Australian Labor Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "Australian Labor Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt-br",
+          "name": "Partido Trabalhista Australiano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "澳大利亚工党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Аустралијска лабуристичка партија",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Partit trabalhista australian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Australian Labor Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "מפלגת הלייבור האוסטרלית",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hy",
+          "name": "Ավստրալիական լեյբորիստական կուսակցություն",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "พรรคแรงงาน",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Ausztrál Munkáspárt",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ckb",
+          "name": "پارتی کرێکاری ئوسترالیا",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nan",
+          "name": "Australia Lô-tōng-tóng",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "澳大利亞勞工黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "澳州工黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "澳洲工黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Australian Labor Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "호주 노동당",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Australian Labor Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Laborista de Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Laborista",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Australian Labor Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "ஆஸ்திரேலியத் தொழிற் கட்சி",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Labour Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Partai Buruh",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Australian Labor Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "労働党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "Australian Labor Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Công đảng Úc",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Đảng Lao động Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yue",
+          "name": "澳大利亞工黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Australska laburistička partija",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Australska laburistička stranka",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "حزب العمل الأسترالي",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Australian Labour Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Australian Labor Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Partido Trabalhista",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Aŭstralia Labora Partio",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Лейбористская партия Австралии",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Australian Labor Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Лейбористська партія Австралії",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Australian Labor Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Australská labouristická strana",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "Australian Labor Pairty",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "Australien Labor Pairty",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "ALP",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "ლეიბორისტული პარტია",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "ALP",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Labor",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Labor Environment Action Network",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Australian Labour Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Australian Labor Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "ALP",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Labour Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Australske arbeiderpartiet",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "classification": "party",
       "id": "australian_motoring_enthusiast_party",
       "identifiers": [
         {
@@ -3376,6 +5945,16 @@
           "lang": "nan",
           "name": "Kok-ka Chū-iû Tóng",
           "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "鄉村自由黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "乡村自由党",
+          "note": "multilingual"
         }
       ]
     },
@@ -3457,6 +6036,16 @@
           "note": "multilingual"
         },
         {
+          "lang": "zh-hant",
+          "name": "家庭第一黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "家庭第一党",
+          "note": "multilingual"
+        },
+        {
           "lang": "fr",
           "name": "Family First Party",
           "note": "multilingual"
@@ -3472,11 +6061,6 @@
           "note": "multilingual"
         }
       ]
-    },
-    {
-      "classification": "party",
-      "id": "glenn_lazarus_team",
-      "name": "Glenn Lazarus Team"
     },
     {
       "classification": "party",
@@ -3521,6 +6105,16 @@
           "note": "multilingual"
         },
         {
+          "lang": "zh-hant",
+          "name": "自由民主黨 (澳大利亞)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "自由民主党",
+          "note": "multilingual"
+        },
+        {
           "lang": "sr",
           "name": "Либерално-демократска партија Аустралије",
           "note": "multilingual"
@@ -3529,69 +6123,33 @@
           "lang": "sr",
           "name": "The Liberty & Democracy Party",
           "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "自民黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "自由民主黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "自由民主党 (澳大利亚)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "自民党",
+          "note": "multilingual"
         }
       ]
     },
     {
       "classification": "party",
       "id": "liberal_party_of_australia",
-      "name": "Liberal Party of Australia"
-    },
-    {
-      "classification": "party",
-      "id": "palmer_united_party",
-      "identifiers": [
-        {
-          "identifier": "Q15130081",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "website",
-          "url": "http://palmerunited.com/"
-        }
-      ],
-      "name": "Palmer United Party",
-      "other_names": [
-        {
-          "lang": "en",
-          "name": "Palmer United Party",
-          "note": "multilingual"
-        },
-        {
-          "lang": "zh",
-          "name": "帕爾默聯合黨",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Parti unifié de Palmer",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ko",
-          "name": "파머 통합당",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nan",
-          "name": "Palmer Liân-ha̍p Tóng",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "classification": "legislature",
-      "id": "legislature",
-      "identifiers": [
-        {
-          "identifier": "Q783330",
-          "scheme": "wikidata"
-        }
-      ],
-      "name": "Senate",
-      "seats": 76
+      "name": "Liberal Party"
     },
     {
       "classification": "party",
@@ -3609,7 +6167,7 @@
           "url": "http://www.nationals.org.au/"
         }
       ],
-      "name": "The Nationals",
+      "name": "National Party",
       "other_names": [
         {
           "lang": "pl",
@@ -3747,21 +6305,83 @@
           "note": "multilingual"
         }
       ]
+    },
+    {
+      "classification": "party",
+      "id": "glenn_lazarus_team",
+      "name": "Palmer United Party"
+    },
+    {
+      "classification": "party",
+      "id": "palmer_united_party",
+      "identifiers": [
+        {
+          "identifier": "Q15130081",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://palmerunited.com/"
+        }
+      ],
+      "name": "Palmer United Party",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Palmer United Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "帕爾默聯合黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti unifié de Palmer",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "파머 통합당",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nan",
+          "name": "Palmer Liân-ha̍p Tóng",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "classification": "legislature",
+      "id": "legislature",
+      "identifiers": [
+        {
+          "identifier": "Q783330",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Senate",
+      "seats": 76
     }
   ],
   "meta": {
     "sources": [
-      "https://morph.io/openaustralia/aus_mp_contact_details"
+      "http://data.openaustralia.org/"
     ]
   },
   "memberships": [
     {
-      "area_id": "area/western_australia",
+      "area_id": "area/wa",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "legislature",
       "person_id": "0010f971-580b-4161-a67e-7d5991e127fc",
-      "role": "member"
+      "role": "member",
+      "start_date": "2014-07-01"
     },
     {
       "area_id": "area/queensland",
@@ -3773,6 +6393,7 @@
     },
     {
       "area_id": "area/tasmania",
+      "end_date": "2015-08-10",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_greens",
       "organization_id": "legislature",
@@ -3780,15 +6401,17 @@
       "role": "member"
     },
     {
-      "area_id": "area/new_south_wales",
+      "area_id": "area/nsw",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_democratic_party",
       "organization_id": "legislature",
       "person_id": "08d1256c-cb2d-4115-bca3-88d19a2bb414",
-      "role": "member"
+      "role": "member",
+      "start_date": "2014-07-01"
     },
     {
-      "area_id": "area/western_australia",
+      "area_id": "area/wa",
+      "end_date": "2014-06-30",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "legislature",
@@ -3812,7 +6435,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/new_south_wales",
+      "area_id": "area/nsw",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "legislature",
@@ -3828,7 +6451,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/south_australia",
+      "area_id": "area/sa",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "legislature",
@@ -3844,15 +6467,8 @@
       "role": "member"
     },
     {
-      "area_id": "area/south_australia",
-      "legislative_period_id": "term/44",
-      "on_behalf_of_id": "australian_greens",
-      "organization_id": "legislature",
-      "person_id": "237d09ec-a732-4191-b19b-8b4c7dd064b5",
-      "role": "member"
-    },
-    {
       "area_id": "area/queensland",
+      "end_date": "2015-04-15",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "legislature",
@@ -3860,7 +6476,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/western_australia",
+      "area_id": "area/wa",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "legislature",
@@ -3876,12 +6492,32 @@
       "role": "member"
     },
     {
-      "area_id": "area/western_australia",
+      "area_id": "area/wa",
+      "legislative_period_id": "term/44",
+      "on_behalf_of_id": "australian_labor_party",
+      "organization_id": "legislature",
+      "person_id": "2b42c839-2f04-4d0d-b803-bdae7e428341",
+      "role": "member",
+      "start_date": "2016-04-28"
+    },
+    {
+      "area_id": "area/wa",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "palmer_united_party",
       "organization_id": "legislature",
       "person_id": "2c029580-c7cf-4f76-99da-b0beb3f265f4",
-      "role": "member"
+      "role": "member",
+      "start_date": "2014-07-01"
+    },
+    {
+      "area_id": "area/queensland",
+      "end_date": "2015-03-12",
+      "legislative_period_id": "term/44",
+      "on_behalf_of_id": "glenn_lazarus_team",
+      "organization_id": "legislature",
+      "person_id": "2c087853-b69c-4677-adad-e8fc9b099d9f",
+      "role": "member",
+      "start_date": "2014-07-01"
     },
     {
       "area_id": "area/queensland",
@@ -3889,7 +6525,8 @@
       "on_behalf_of_id": "glenn_lazarus_team",
       "organization_id": "legislature",
       "person_id": "2c087853-b69c-4677-adad-e8fc9b099d9f",
-      "role": "member"
+      "role": "member",
+      "start_date": "2015-03-13"
     },
     {
       "area_id": "area/victoria",
@@ -3897,10 +6534,11 @@
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "legislature",
       "person_id": "32ca3a6f-c19d-465c-a1ad-a53564e7fade",
-      "role": "member"
+      "role": "member",
+      "start_date": "2016-03-09"
     },
     {
-      "area_id": "area/new_south_wales",
+      "area_id": "area/nsw",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "the_nationals",
       "organization_id": "legislature",
@@ -3908,7 +6546,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/new_south_wales",
+      "area_id": "area/nsw",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "legislature",
@@ -3916,7 +6554,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/new_south_wales",
+      "area_id": "area/nsw",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "legislature",
@@ -3924,7 +6562,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/western_australia",
+      "area_id": "area/wa",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "legislature",
@@ -3932,7 +6570,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/south_australia",
+      "area_id": "area/sa",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "legislature",
@@ -3945,7 +6583,8 @@
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "legislature",
       "person_id": "35fb4043-6d9f-4bfd-8130-1284b7ea8e02",
-      "role": "member"
+      "role": "member",
+      "start_date": "2014-07-01"
     },
     {
       "area_id": "area/queensland",
@@ -3953,6 +6592,16 @@
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "legislature",
       "person_id": "3812108f-9ee7-4972-948e-44e3d23a3982",
+      "role": "member",
+      "start_date": "2015-05-21"
+    },
+    {
+      "area_id": "area/tasmania",
+      "end_date": "2014-07-06",
+      "legislative_period_id": "term/44",
+      "on_behalf_of_id": "liberal_party_of_australia",
+      "organization_id": "legislature",
+      "person_id": "39dd4c49-f329-4fb3-976d-fd8cbb563b9f",
       "role": "member"
     },
     {
@@ -3961,10 +6610,11 @@
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "legislature",
       "person_id": "39dd4c49-f329-4fb3-976d-fd8cbb563b9f",
-      "role": "member"
+      "role": "member",
+      "start_date": "2014-07-07"
     },
     {
-      "area_id": "area/south_australia",
+      "area_id": "area/sa",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_greens",
       "organization_id": "legislature",
@@ -3977,15 +6627,17 @@
       "on_behalf_of_id": "australian_greens",
       "organization_id": "legislature",
       "person_id": "3f2957c5-fe0a-45d5-b1ce-872b2bdc6d44",
-      "role": "member"
+      "role": "member",
+      "start_date": "2015-08-19"
     },
     {
-      "area_id": "area/new_south_wales",
+      "area_id": "area/nsw",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "legislature",
       "person_id": "3f7e5adc-979c-418b-950b-4731079c2cf7",
-      "role": "member"
+      "role": "member",
+      "start_date": "2015-05-06"
     },
     {
       "area_id": "area/victoria",
@@ -4001,10 +6653,12 @@
       "on_behalf_of_id": "australian_motoring_enthusiast_party",
       "organization_id": "legislature",
       "person_id": "4abf00d1-54c9-4396-9430-0d44e3f06866",
-      "role": "member"
+      "role": "member",
+      "start_date": "2014-07-01"
     },
     {
       "area_id": "area/victoria",
+      "end_date": "2014-06-30",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "legislature",
@@ -4020,7 +6674,8 @@
       "role": "member"
     },
     {
-      "area_id": "area/south_australia",
+      "area_id": "area/sa",
+      "end_date": "2014-06-30",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "legislature",
@@ -4028,7 +6683,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/new_south_wales",
+      "area_id": "area/nsw",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_greens",
       "organization_id": "legislature",
@@ -4044,7 +6699,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/south_australia",
+      "area_id": "area/sa",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "legislature",
@@ -4052,7 +6707,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/south_australia",
+      "area_id": "area/sa",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "legislature",
@@ -4065,18 +6720,21 @@
       "on_behalf_of_id": "the_nationals",
       "organization_id": "legislature",
       "person_id": "59ae5aa3-637b-4d84-94cf-9609854dd6c8",
-      "role": "member"
+      "role": "member",
+      "start_date": "2014-07-01"
     },
     {
-      "area_id": "area/south_australia",
+      "area_id": "area/sa",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_greens",
       "organization_id": "legislature",
       "person_id": "5beff085-580f-4893-8f58-ffd637b8cc1b",
-      "role": "member"
+      "role": "member",
+      "start_date": "2015-09-22"
     },
     {
       "area_id": "area/victoria",
+      "end_date": "2014-06-30",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "legislature",
@@ -4085,6 +6743,7 @@
     },
     {
       "area_id": "area/queensland",
+      "end_date": "2014-06-30",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "legislature",
@@ -4100,7 +6759,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/western_australia",
+      "area_id": "area/wa",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "legislature",
@@ -4108,7 +6767,8 @@
       "role": "member"
     },
     {
-      "area_id": "area/new_south_wales",
+      "area_id": "area/nsw",
+      "end_date": "2014-06-30",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "legislature",
@@ -4124,15 +6784,16 @@
       "role": "member"
     },
     {
-      "area_id": "area/south_australia",
+      "area_id": "area/sa",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "family_first_party",
       "organization_id": "legislature",
       "person_id": "7ddaf281-92a1-4554-9aab-0f09f804af77",
-      "role": "member"
+      "role": "member",
+      "start_date": "2014-07-01"
     },
     {
-      "area_id": "area/new_south_wales",
+      "area_id": "area/nsw",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "legislature",
@@ -4140,7 +6801,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/south_australia",
+      "area_id": "area/sa",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "legislature",
@@ -4148,7 +6809,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/western_australia",
+      "area_id": "area/wa",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "legislature",
@@ -4165,11 +6826,21 @@
     },
     {
       "area_id": "area/victoria",
+      "end_date": "2014-09-04",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "independent",
       "organization_id": "legislature",
       "person_id": "8b0c6b42-84f5-4886-a026-0353b6a32cf4",
       "role": "member"
+    },
+    {
+      "area_id": "area/victoria",
+      "legislative_period_id": "term/44",
+      "on_behalf_of_id": "independent",
+      "organization_id": "legislature",
+      "person_id": "8b0c6b42-84f5-4886-a026-0353b6a32cf4",
+      "role": "member",
+      "start_date": "2014-09-04"
     },
     {
       "area_id": "area/queensland",
@@ -4180,7 +6851,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/south_australia",
+      "area_id": "area/sa",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "legislature",
@@ -4188,7 +6859,8 @@
       "role": "member"
     },
     {
-      "area_id": "area/new_south_wales",
+      "area_id": "area/nsw",
+      "end_date": "2015-02-06",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "legislature",
@@ -4196,15 +6868,16 @@
       "role": "member"
     },
     {
-      "area_id": "area/australian_capital_territory",
+      "area_id": "area/act",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "legislature",
       "person_id": "92c436dd-812d-4b8d-8e75-e810236027a8",
-      "role": "member"
+      "role": "member",
+      "start_date": "2015-03-26"
     },
     {
-      "area_id": "area/western_australia",
+      "area_id": "area/wa",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_greens",
       "organization_id": "legislature",
@@ -4220,7 +6893,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/western_australia",
+      "area_id": "area/wa",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "legislature",
@@ -4228,7 +6901,8 @@
       "role": "member"
     },
     {
-      "area_id": "area/australian_capital_territory",
+      "area_id": "area/act",
+      "end_date": "2015-03-24",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "legislature",
@@ -4237,6 +6911,7 @@
     },
     {
       "area_id": "area/victoria",
+      "end_date": "2016-02-28",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "legislature",
@@ -4252,7 +6927,16 @@
       "role": "member"
     },
     {
-      "area_id": "area/northern_territory",
+      "area_id": "area/nsw",
+      "end_date": "2013-10-24",
+      "legislative_period_id": "term/44",
+      "on_behalf_of_id": "australian_labor_party",
+      "organization_id": "legislature",
+      "person_id": "a84574bb-4f51-4c4d-98d7-5ba05b502278",
+      "role": "member"
+    },
+    {
+      "area_id": "area/nt",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "country_liberal_party",
       "organization_id": "legislature",
@@ -4260,7 +6944,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/northern_territory",
+      "area_id": "area/nt",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "legislature",
@@ -4268,7 +6952,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/western_australia",
+      "area_id": "area/wa",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_greens",
       "organization_id": "legislature",
@@ -4277,6 +6961,7 @@
     },
     {
       "area_id": "area/queensland",
+      "end_date": "2014-06-30",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "legislature",
@@ -4284,7 +6969,8 @@
       "role": "member"
     },
     {
-      "area_id": "area/western_australia",
+      "area_id": "area/wa",
+      "end_date": "2014-06-30",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "legislature",
@@ -4292,7 +6978,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/south_australia",
+      "area_id": "area/sa",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "legislature",
@@ -4309,6 +6995,7 @@
     },
     {
       "area_id": "area/queensland",
+      "end_date": "2014-06-30",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "legislature",
@@ -4321,7 +7008,8 @@
       "on_behalf_of_id": "australian_greens",
       "organization_id": "legislature",
       "person_id": "bf2b14d0-d33a-481f-a165-1138b097f861",
-      "role": "member"
+      "role": "member",
+      "start_date": "2014-07-01"
     },
     {
       "area_id": "area/queensland",
@@ -4329,10 +7017,11 @@
       "on_behalf_of_id": "the_nationals",
       "organization_id": "legislature",
       "person_id": "c4341e91-11b2-42ea-9664-643fa32fb102",
-      "role": "member"
+      "role": "member",
+      "start_date": "2014-02-11"
     },
     {
-      "area_id": "area/australian_capital_territory",
+      "area_id": "area/act",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "legislature",
@@ -4341,6 +7030,7 @@
     },
     {
       "area_id": "area/tasmania",
+      "end_date": "2014-06-30",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "legislature",
@@ -4356,15 +7046,16 @@
       "role": "member"
     },
     {
-      "area_id": "area/new_south_wales",
+      "area_id": "area/nsw",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "legislature",
       "person_id": "d78e6905-f642-405e-991c-b81a8f8449ad",
-      "role": "member"
+      "role": "member",
+      "start_date": "2013-11-13"
     },
     {
-      "area_id": "area/south_australia",
+      "area_id": "area/sa",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "independent",
       "organization_id": "legislature",
@@ -4372,7 +7063,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/new_south_wales",
+      "area_id": "area/nsw",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "legislature",
@@ -4380,7 +7071,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/new_south_wales",
+      "area_id": "area/nsw",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "legislature",
@@ -4388,15 +7079,17 @@
       "role": "member"
     },
     {
-      "area_id": "area/western_australia",
+      "area_id": "area/wa",
+      "end_date": "2016-04-13",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "legislature",
       "person_id": "dd773e82-9df9-4d82-9b56-165af6a07f38",
-      "role": "member"
+      "role": "member",
+      "start_date": "2014-07-01"
     },
     {
-      "area_id": "area/western_australia",
+      "area_id": "area/wa",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "legislature",
@@ -4428,7 +7121,8 @@
       "role": "member"
     },
     {
-      "area_id": "area/western_australia",
+      "area_id": "area/wa",
+      "end_date": "2014-06-30",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "legislature",
@@ -4444,7 +7138,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/new_south_wales",
+      "area_id": "area/nsw",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "the_nationals",
       "organization_id": "legislature",
@@ -4453,6 +7147,7 @@
     },
     {
       "area_id": "area/victoria",
+      "end_date": "2014-07-06",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "legislature",
@@ -4460,7 +7155,17 @@
       "role": "member"
     },
     {
+      "area_id": "area/victoria",
+      "legislative_period_id": "term/44",
+      "on_behalf_of_id": "australian_labor_party",
+      "organization_id": "legislature",
+      "person_id": "f733205a-e6b5-466e-a111-87b773f576b6",
+      "role": "member",
+      "start_date": "2014-07-07"
+    },
+    {
       "area_id": "area/queensland",
+      "end_date": "2014-06-30",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "the_nationals",
       "organization_id": "legislature",
@@ -4468,7 +7173,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/western_australia",
+      "area_id": "area/wa",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "legislature",
@@ -4476,7 +7181,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/south_australia",
+      "area_id": "area/sa",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "legislature",
@@ -4485,11 +7190,22 @@
     },
     {
       "area_id": "area/tasmania",
+      "end_date": "2014-11-23",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "independent",
       "organization_id": "legislature",
       "person_id": "fc2d7e6d-55ef-41a8-9ea9-18e79b52dbca",
-      "role": "member"
+      "role": "member",
+      "start_date": "2014-07-01"
+    },
+    {
+      "area_id": "area/tasmania",
+      "legislative_period_id": "term/44",
+      "on_behalf_of_id": "independent",
+      "organization_id": "legislature",
+      "person_id": "fc2d7e6d-55ef-41a8-9ea9-18e79b52dbca",
+      "role": "member",
+      "start_date": "2014-11-24"
     },
     {
       "area_id": "area/queensland",
@@ -4497,7 +7213,8 @@
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "legislature",
       "person_id": "fcff592e-b0d0-4fb2-a62b-056ded632c34",
-      "role": "member"
+      "role": "member",
+      "start_date": "2014-07-01"
     },
     {
       "area_id": "area/tasmania",
@@ -4519,18 +7236,18 @@
   ],
   "areas": [
     {
-      "id": "area/australian_capital_territory",
-      "name": "Australian Capital Territory",
+      "id": "area/act",
+      "name": "ACT",
       "type": "constituency"
     },
     {
-      "id": "area/new_south_wales",
-      "name": "New South Wales",
+      "id": "area/nsw",
+      "name": "NSW",
       "type": "constituency"
     },
     {
-      "id": "area/northern_territory",
-      "name": "Northern Territory",
+      "id": "area/nt",
+      "name": "NT",
       "type": "constituency"
     },
     {
@@ -4539,8 +7256,8 @@
       "type": "constituency"
     },
     {
-      "id": "area/south_australia",
-      "name": "South Australia",
+      "id": "area/sa",
+      "name": "SA",
       "type": "constituency"
     },
     {
@@ -4554,8 +7271,8 @@
       "type": "constituency"
     },
     {
-      "id": "area/western_australia",
-      "name": "Western Australia",
+      "id": "area/wa",
+      "name": "WA",
       "type": "constituency"
     }
   ]
