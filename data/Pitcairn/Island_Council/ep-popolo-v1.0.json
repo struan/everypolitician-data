@@ -1,14 +1,98 @@
 {
+  "posts": [
+
+  ],
   "persons": [
     {
+      "birth_date": "1953-02-25",
+      "gender": "female",
+      "given_name": "Brenda",
       "id": "acec7b6e-2397-4abf-b4f1-1bd51e081201",
       "identifiers": [
         {
           "identifier": "brenda_christian",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/04b8jq",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q936685",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Brenda_Christian"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Brenda_Christian"
+        },
+        {
+          "note": "Wikipedia (oc)",
+          "url": "https://oc.wikipedia.org/wiki/Brenda_Christian"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Brenda_Christian"
         }
       ],
       "name": "Brenda Christian",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Brenda Christian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Brenda Christian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Brenda Christian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Brenda Christian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Brenda Christian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Brenda Christian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Brenda Christian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Brenda Christian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "布兰达·克里斯坦",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "布蘭達·克里斯坦",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/Pitcairn_Islands_general_election,_2011"
@@ -91,14 +175,133 @@
       ]
     },
     {
+      "birth_date": "1956-07-29",
+      "gender": "male",
+      "given_name": "Jay",
       "id": "f9da457d-2acc-4106-b1b7-bad598eb9132",
       "identifiers": [
         {
           "identifier": "jay_warren",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/046h6f",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "159863266",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q3163279",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Jay_Warren"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Jay_Warren"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Jay_Warren"
+        },
+        {
+          "note": "Wikipedia (oc)",
+          "url": "https://oc.wikipedia.org/wiki/Jay_Warren"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Jay_Warren"
         }
       ],
       "name": "Jay Warren",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Jay Warren",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Jay Warren",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Jay Warren",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Jay Warren",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "جی وارن",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Jay Warren",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Jay Warren",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Jay Warren",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Jay Warren",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Jay Warren",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Jay Warren",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Jay Warren",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Jay Warren",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Jay Warren",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "杰伊·沃伦",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "傑伊·沃倫",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/Pitcairn_Islands_general_election,_2011"
@@ -790,7 +993,8 @@
   ],
   "meta": {
     "sources": [
-      "https://en.wikipedia.org"
+      "https://en.wikipedia.org",
+      "http://wikidata.org/"
     ]
   },
   "memberships": [
