@@ -16427,15 +16427,34 @@
       "sort_name": "Fantuzzi"
     },
     {
+      "birth_date": "1949-07-18",
       "gender": "male",
+      "given_name": "Miguel",
       "id": "8fe58ee8-afab-4dd1-a0d0-fab534d45dd0",
       "identifiers": [
         {
           "identifier": "42",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q21823062",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Miguel_Hernández_Saffirio"
         }
       ],
       "name": "Miguel Hernández Saffirio",
+      "other_names": [
+        {
+          "lang": "es",
+          "name": "Miguel Hernández Saffirio",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Hernández"
     },
     {
