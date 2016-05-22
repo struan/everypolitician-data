@@ -1236,6 +1236,13 @@
     },
     {
       "birth_date": "1967-11-22",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "annemie.turtelboom@dekamer.be"
+        }
+      ],
+      "email": "annemie.turtelboom@dekamer.be",
       "gender": "female",
       "given_name": "Annemie",
       "id": "8eface70-0ebd-40c0-a4a6-a5989e5e7a20",
@@ -1261,10 +1268,10 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Annemie-turtelboom-1379350142.jpg",
+      "image": "http://www.lachambre.be/site/wwwroot/images/cv/01102.gif",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Annemie-turtelboom-1379350142.jpg"
+          "url": "http://www.lachambre.be/site/wwwroot/images/cv/01102.gif"
         }
       ],
       "links": [
@@ -1291,6 +1298,10 @@
         {
           "note": "Wikipedia (vls)",
           "url": "https://vls.wikipedia.org/wiki/Annemie_Turtelboom"
+        },
+        {
+          "note": "website",
+          "url": "http://www.annemieturtelboom.be"
         }
       ],
       "name": "Annemie Turtelboom",
@@ -1359,6 +1370,12 @@
           "lang": "vls",
           "name": "Annemie Turtelboom",
           "note": "multilingual"
+        }
+      ],
+      "sort_name": "Turtelboom Annemie",
+      "sources": [
+        {
+          "url": "http://www.lachambre.be/kvvcr/showpage.cfm?section=/depute&language=fr&cfm=cvview54.cfm?key=01102&lactivity=54"
         }
       ]
     },
@@ -11125,8 +11142,84 @@
       ]
     },
     {
+      "birth_date": "1960-12-11",
+      "gender": "female",
+      "given_name": "Marijke",
       "id": "b7e9207b-9643-49cb-a0bd-da00363b31ba",
-      "name": "Marijke Dillen"
+      "identifiers": [
+        {
+          "identifier": "Q3293055",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Marijke_Dillen"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Marijke_Dillen"
+        }
+      ],
+      "name": "Marijke Dillen",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Marijke Dillen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Marijke Dillen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Marijke Dillen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Marijke Dillen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Marijke Dillen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Marijke Dillen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Marijke Dillen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Marijke Dillen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Marijke Dillen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Marijke Dillen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Marijke Dillen",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1967-08-30",
@@ -14926,15 +15019,93 @@
       ]
     },
     {
-      "gender": "female",
-      "id": "63ad1f51-9e1d-485c-b89b-47a9a792501d",
-      "identifiers": [
+      "birth_date": "1975-01-15",
+      "contact_details": [
         {
-          "identifier": "sophie_wilmès",
-          "scheme": "everypolitician_legacy"
+          "type": "email",
+          "value": "eb.erbmahcal@semliw.eihpos"
         }
       ],
-      "name": "Sophie Wilmès"
+      "email": "eb.erbmahcal@semliw.eihpos",
+      "gender": "female",
+      "given_name": "Sophie",
+      "id": "d4333f8f-4f3b-40a4-92e4-92c091c08fdf",
+      "identifiers": [
+        {
+          "identifier": "06619",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q18434995",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www.lachambre.be/site/wwwroot/images/cv/6619.gif",
+      "images": [
+        {
+          "url": "http://www.lachambre.be/site/wwwroot/images/cv/6619.gif"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Sophie_Wilmès"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Sophie_Wilmès"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Sophie_Wilmès"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Sophie_Wilmès"
+        },
+        {
+          "note": "website",
+          "url": "http://www.sophiewilmes.be"
+        }
+      ],
+      "name": "Sophie Wilmès",
+      "other_names": [
+        {
+          "name": "Sophie Wilmes",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Sophie Wilmès",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Sophie Wilmes",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Sophie Wilmes",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Sophie Wilmes",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Sophie Wilmès",
+          "note": "multilingual"
+        }
+      ],
+      "sort_name": "Wilmès Sophie",
+      "sources": [
+        {
+          "url": "http://www.lachambre.be/kvvcr/showpage.cfm?section=/depute&language=fr&cfm=cvview54.cfm?key=06619&lactivity=54"
+        }
+      ]
     },
     {
       "birth_date": "1973-01-04",
@@ -18167,16 +18338,6 @@
     },
     {
       "area_id": "area/brussel-hoofdstad",
-      "end_date": "2015-09-22",
-      "legislative_period_id": "term/54",
-      "on_behalf_of_id": "party/mr",
-      "organization_id": "legislature",
-      "person_id": "63ad1f51-9e1d-485c-b89b-47a9a792501d",
-      "role": "member",
-      "start_date": "2014-10-11"
-    },
-    {
-      "area_id": "area/brussel-hoofdstad",
       "end_date": "2014-10-11",
       "legislative_period_id": "term/54",
       "on_behalf_of_id": "party/mr",
@@ -18959,6 +19120,16 @@
       "person_id": "d303762e-65f6-4258-98bc-b3c2ad76c562",
       "role": "member",
       "start_date": "2014-06-19"
+    },
+    {
+      "area_id": "area/brussel-hoofdstad",
+      "end_date": "2015-09-22",
+      "legislative_period_id": "term/54",
+      "on_behalf_of_id": "party/mr",
+      "organization_id": "legislature",
+      "person_id": "d4333f8f-4f3b-40a4-92e4-92c091c08fdf",
+      "role": "member",
+      "start_date": "2014-10-11"
     },
     {
       "area_id": "area/west-vlaanderen",
