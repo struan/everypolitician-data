@@ -460,9 +460,9 @@
   ],
   "Q6430246": [
     {
-      "id": "Q98964",
-      "label": "Sejm of the Republic of Poland",
-      "title": "Sejm of the Republic of Poland"
+      "id": "Q21328636",
+      "label": "Member of the Sejm of the Republic of Poland",
+      "title": "Member of the Sejm of the Republic of Poland"
     }
   ],
   "Q890426": [
@@ -712,9 +712,9 @@
   ],
   "Q11718343": [
     {
-      "id": "Q15686806",
-      "label": "senator",
-      "title": "senator"
+      "id": "Q20066605",
+      "label": "senator of Poland",
+      "title": "senator of Poland"
     }
   ],
   "Q932054": [
@@ -1380,59 +1380,6 @@
       "title": "member of the European Parliament"
     }
   ],
-  "Q9152767": [
-    {
-      "id": "Q1837227",
-      "label": "Bishop of Lutsk",
-      "title": "Bishop of Lutsk",
-      "qualifiers": {
-        "P580": "1617"
-      }
-    },
-    {
-      "id": "Q128960",
-      "label": "Bishop of Kujawy",
-      "title": "Bishop of Kujawy",
-      "qualifiers": {
-        "P580": "1623"
-      }
-    },
-    {
-      "id": "Q17375334",
-      "label": "Archbishop of Kraków",
-      "title": "Archbishop of Kraków",
-      "qualifiers": {
-        "P580": "1630-12-02"
-      }
-    },
-    {
-      "id": "Q7925004",
-      "label": "Vice-Chancellor of the Crown",
-      "title": "Vice-Chancellor of the Crown",
-      "qualifiers": {
-        "P580": "1618"
-      }
-    },
-    {
-      "id": "Q2070965",
-      "label": "Chancellor of Poland",
-      "title": "Chancellor of Poland",
-      "qualifiers": {
-        "P580": "1620",
-        "P582": "1623",
-        "P1365": "Stanisław Żółkiewski",
-        "P1366": "Q9369744"
-      }
-    },
-    {
-      "id": "Q7374818",
-      "label": "Royal Secretary",
-      "title": "Royal Secretary",
-      "qualifiers": {
-        "P580": "1601"
-      }
-    }
-  ],
   "Q1773780": [
     {
       "id": "Q27169",
@@ -1480,9 +1427,9 @@
   ],
   "Q143520": [
     {
-      "id": "Q486839",
-      "label": "member of parliament",
-      "title": "member of parliament"
+      "id": "Q21328636",
+      "label": "Member of the Sejm of the Republic of Poland",
+      "title": "Member of the Sejm of the Republic of Poland"
     },
     {
       "id": "Q736559",
@@ -1533,6 +1480,16 @@
       "id": "Q27169",
       "label": "member of the European Parliament",
       "title": "member of the European Parliament"
+    }
+  ],
+  "Q21809450": [
+    {
+      "id": "Q21328636",
+      "label": "Member of the Sejm of the Republic of Poland",
+      "title": "Member of the Sejm of the Republic of Poland",
+      "qualifiers": {
+        "P580": "2015"
+      }
     }
   ],
   "Q328635": [
