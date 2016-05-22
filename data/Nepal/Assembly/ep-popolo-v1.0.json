@@ -1,4 +1,7 @@
 {
+  "posts": [
+
+  ],
   "persons": [
     {
       "contact_details": [
@@ -253,21 +256,76 @@
       ]
     },
     {
+      "birth_date": "1960-03-07",
       "contact_details": [
         {
           "type": "cell",
           "value": "9841321287 9851110501"
         }
       ],
+      "gender": "male",
       "id": "8f8174e8-4ca4-42f8-b700-fdc7f72e0565",
       "identifiers": [
         {
           "identifier": "agni_prasad_sapkota",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q4693207",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/Agni_Spkta.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Agni_Spkta.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (bn)",
+          "url": "https://bn.wikipedia.org/wiki/অগ্নি_সাপকোতা"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Agni_Sapkota"
+        },
+        {
+          "note": "Wikipedia (ne)",
+          "url": "https://ne.wikipedia.org/wiki/अग्नी_प्रसाद_सापकोटा"
         }
       ],
       "name": "Agni Prasad Sapkota",
       "other_names": [
+        {
+          "name": "अग्नी प्रसाद सापकोटा",
+          "note": "alternate"
+        },
+        {
+          "lang": "bn",
+          "name": "অগ্নি সাপকোতা",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Agni Sapkota",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Agni Sapkota",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Agni Sapkota",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "अग्नी प्रसाद सापकोटा",
+          "note": "multilingual"
+        },
         {
           "lang": "ne",
           "name": "मा.अग्नि प्रसाद सापकोटा",
@@ -1416,10 +1474,29 @@
         {
           "identifier": "bal_krishna_khand",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q13183947",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ne)",
+          "url": "https://ne.wikipedia.org/wiki/बालकृष्ण_खाण"
         }
       ],
       "name": "Bal Krishna khand",
       "other_names": [
+        {
+          "name": "बालकृष्ण खाण",
+          "note": "alternate"
+        },
+        {
+          "lang": "ne",
+          "name": "बालकृष्ण खाण",
+          "note": "multilingual"
+        },
         {
           "lang": "ne",
           "name": "मा.बालकृष्ण खाण",
@@ -1483,6 +1560,7 @@
       ]
     },
     {
+      "birth_date": "1944-07-11",
       "contact_details": [
         {
           "type": "cell",
@@ -1494,18 +1572,79 @@
         }
       ],
       "email": "bmdgautam@gmail.com",
+      "gender": "male",
       "id": "1ba4ec8b-f612-4cfa-9640-fece0e00aee0",
       "identifiers": [
         {
           "identifier": "bamdev_gautam",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q2881717",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Bam_Dev_Gautam"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Bam_Dev_Gautam"
+        },
+        {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/バムデヴ・ガウタム"
+        },
+        {
+          "note": "Wikipedia (ne)",
+          "url": "https://ne.wikipedia.org/wiki/बामदेव_गौतम"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Bamdev_Gautam"
         }
       ],
       "name": "Bamdev Gautam",
       "other_names": [
         {
+          "name": "बामदेव गौतम",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Bam Dev Gautam",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Bam Dev Gautam",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "バムデヴ・ガウタム",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Bamdev Gautam",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "बामदेव गौतम",
+          "note": "multilingual"
+        },
+        {
           "lang": "ne",
           "name": "मा.बामदेब गौतम",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Bam Dev Gautam",
           "note": "multilingual"
         }
       ]
@@ -2090,6 +2229,7 @@
       ]
     },
     {
+      "birth_date": "1961-06-19",
       "contact_details": [
         {
           "type": "cell",
@@ -2100,18 +2240,487 @@
           "value": "4484322"
         }
       ],
+      "gender": "female",
       "id": "1c085e0d-a13c-4231-85eb-d5f15551a1fe",
       "identifiers": [
         {
           "identifier": "bidhya_devi_bhandari",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q16193958",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/47/Bidya_bhandaRi.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Bidya_bhandaRi.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Bidhya_Devi_Bhandari"
+        },
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/بيديا_ديفي_بنداري"
+        },
+        {
+          "note": "Wikipedia (az)",
+          "url": "https://az.wikipedia.org/wiki/Bidhya_Devi_Bhandari"
+        },
+        {
+          "note": "Wikipedia (bh)",
+          "url": "https://bh.wikipedia.org/wiki/बिद्या_देवी_भंडारी"
+        },
+        {
+          "note": "Wikipedia (bn)",
+          "url": "https://bn.wikipedia.org/wiki/বিদ্যা_ভণ্ডারী"
+        },
+        {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Bidhya_Devi_Bhandari"
+        },
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Bidhya_Devi_Bhandari"
+        },
+        {
+          "note": "Wikipedia (cs)",
+          "url": "https://cs.wikipedia.org/wiki/Bidhjá_Déví_Bhandáríová"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Bidhya_Devi_Bhandari"
+        },
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Μπίντια_Ντεβί_Μπαντάρι"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Bidhya_Devi_Bhandari"
+        },
+        {
+          "note": "Wikipedia (eo)",
+          "url": "https://eo.wikipedia.org/wiki/Bidhya_Devi_Bhandari"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Bidhya_Devi_Bhandari"
+        },
+        {
+          "note": "Wikipedia (fa)",
+          "url": "https://fa.wikipedia.org/wiki/بیدیا_دوی_بانداری"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Bidhya_Devi_Bhandari"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Bidhya_Devi_Bhandari"
+        },
+        {
+          "note": "Wikipedia (hi)",
+          "url": "https://hi.wikipedia.org/wiki/बिद्या_देवी_भंडारी"
+        },
+        {
+          "note": "Wikipedia (hif)",
+          "url": "https://hif.wikipedia.org/wiki/Bidhya_Devi_Bhandari"
+        },
+        {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/Bindhádévi_Bhandári"
+        },
+        {
+          "note": "Wikipedia (id)",
+          "url": "https://id.wikipedia.org/wiki/Bidhya_Devi_Bhandari"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Bidhya_Devi_Bhandari"
+        },
+        {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/ビドヤ・デビ・バンダリ"
+        },
+        {
+          "note": "Wikipedia (ka)",
+          "url": "https://ka.wikipedia.org/wiki/ბიდჰია_დევი_ბჰანდარი"
+        },
+        {
+          "note": "Wikipedia (la)",
+          "url": "https://la.wikipedia.org/wiki/Vidyādevī_Bhaṇḍārī"
+        },
+        {
+          "note": "Wikipedia (lb)",
+          "url": "https://lb.wikipedia.org/wiki/Bidhya_Devi_Bhandari"
+        },
+        {
+          "note": "Wikipedia (lv)",
+          "url": "https://lv.wikipedia.org/wiki/Bidhja_Devi_Bhandari"
+        },
+        {
+          "note": "Wikipedia (mai)",
+          "url": "https://mai.wikipedia.org/wiki/विद्या_देवी_भण्डारी"
+        },
+        {
+          "note": "Wikipedia (ml)",
+          "url": "https://ml.wikipedia.org/wiki/ബിദ്യാദേവി_ഭണ്ഡാരി"
+        },
+        {
+          "note": "Wikipedia (ms)",
+          "url": "https://ms.wikipedia.org/wiki/Bidhya_Devi_Bhandari"
+        },
+        {
+          "note": "Wikipedia (ne)",
+          "url": "https://ne.wikipedia.org/wiki/विद्यादेवी_भण्डारी"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Bidhya_Devi_Bhandari"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Bidhya_Devi_Bhandari"
+        },
+        {
+          "note": "Wikipedia (oc)",
+          "url": "https://oc.wikipedia.org/wiki/Bidhya_Devi_Bhandari"
+        },
+        {
+          "note": "Wikipedia (pa)",
+          "url": "https://pa.wikipedia.org/wiki/ਵਿਦਿਆ_ਦੇਵੀ_ਭੰਡਾਰੀ"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Bidhya_Devi_Bhandari"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Bidhya_Devi_Bhandari"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Бхандари,_Бидхья_Деви"
+        },
+        {
+          "note": "Wikipedia (sa)",
+          "url": "https://sa.wikipedia.org/wiki/विद्यादेवी_भण्डारी"
+        },
+        {
+          "note": "Wikipedia (sk)",
+          "url": "https://sk.wikipedia.org/wiki/Vidjádéví_Bhandáríová"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Bidhya_Devi_Bhandari"
+        },
+        {
+          "note": "Wikipedia (ta)",
+          "url": "https://ta.wikipedia.org/wiki/வித்யா_தேவி_பண்டாரி"
+        },
+        {
+          "note": "Wikipedia (tr)",
+          "url": "https://tr.wikipedia.org/wiki/Bidhya_Devi_Bhandari"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Бідх'я_Деві_Бхандарі"
+        },
+        {
+          "note": "Wikipedia (uz)",
+          "url": "https://uz.wikipedia.org/wiki/Bidhya_Devi_Bhandari"
+        },
+        {
+          "note": "Wikipedia (vi)",
+          "url": "https://vi.wikipedia.org/wiki/Bidhya_Devi_Bhandari"
+        },
+        {
+          "note": "Wikipedia (xmf)",
+          "url": "https://xmf.wikipedia.org/wiki/ბიდჰია_დევი_ბჰანდარი"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/比迪娅·戴维·班达里"
+        },
+        {
+          "note": "website",
+          "url": "http://www.presidentofnepal.gov.np/"
         }
       ],
       "name": "Bidhya Devi Bhandari",
       "other_names": [
         {
+          "name": "विद्यादेवी भण्डारी",
+          "note": "alternate"
+        },
+        {
+          "lang": "af",
+          "name": "Bidhya Devi Bhandari",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "بيدهيا ديفي بهانداري",
+          "note": "multilingual"
+        },
+        {
+          "lang": "az",
+          "name": "Bidhya Devi Bhandari",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bn",
+          "name": "বিদ্যা ভণ্ডারী",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Bidhya Devi Bhandari",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Bidhjá Déví Bhandáríová",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Bidhya Bhandari",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Bidhya Bhandari",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de-ch",
+          "name": "Bidhya Devi Bhandari",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Μπίντια Ντεβί Μπαντάρι",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Bidhya Bhandari",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "Bidhya Devi Bhandari",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "Bidhya Devi Bhandari",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Bidhya Devi Bhandari",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Bidhya Devi Bhandari",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "بیدیا دوی بانداری",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Bidhya Devi Bhandari",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Bidhya Bhandari",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hi",
+          "name": "बिद्या देवी भंडारी",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hif",
+          "name": "Bidhya Devi Bhandari",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Bindhádévi Bhandári",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Bidhya Devi Bhandari",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Bidhya Devi Bhandari",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ビドヤ・デビ・バンダリ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "ბიდჰია დევი ბჰანდარი",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Vidyādevī Bhaṇḍārī",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lb",
+          "name": "Bidhya Devi Bhandari",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lv",
+          "name": "Bidhja Devi Bhandari",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mai",
+          "name": "विद्या देवी भण्डारी",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "Бидја Деви Бандари",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ml",
+          "name": "ബിദ്യാദേവി ഭണ്ഡാരി",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "Bidhya Devi Bhandari",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Bidhya Devi Bhandari",
+          "note": "multilingual"
+        },
+        {
           "lang": "ne",
           "name": "मा.विधा देवी भण्डारी",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "विद्यादेवी भण्डारी",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Bidhya Bhandari",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Bidhya Bhandari",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Bidhya Devi Bhandari",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pa",
+          "name": "ਵਿਦਿਆ ਦੇਵੀ ਭੰਡਾਰੀ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Bidhya Devi Bhandari",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Bidhya Devi Bhandari",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt-br",
+          "name": "Bidhya Devi Bhandari",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Бидхья Деви Бхандари",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sa",
+          "name": "विद्यादेवी भण्डारी",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Vidjádéví Bhandáríová",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Bidhya Devi Bhandari",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "வித்யா தேவி பண்டாரி",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Bidhya Devi Bhandari",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Бідх'я Деві Бхандарі",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uz",
+          "name": "Bidhya Devi Bhandari",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Bidhya Devi Bhandari",
+          "note": "multilingual"
+        },
+        {
+          "lang": "xmf",
+          "name": "ბიდჰია დევი ბჰანდარი",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "比迪娅·戴维·班达里",
           "note": "multilingual"
         }
       ]
@@ -2582,13 +3191,32 @@
         {
           "identifier": "bishnu_prasad_poudel",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q19683842",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ne)",
+          "url": "https://ne.wikipedia.org/wiki/विष्णु_प्रसाद_पौडेल"
         }
       ],
       "name": "Bishnu Prasad Poudel",
       "other_names": [
         {
+          "name": "विष्णु प्रसाद पौडेल",
+          "note": "alternate"
+        },
+        {
           "lang": "ne",
           "name": "मा.विष्णु प्रसाद पौडेल",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "विष्णु प्रसाद पौडेल",
           "note": "multilingual"
         }
       ]
@@ -2793,10 +3421,29 @@
         {
           "identifier": "chandra_bahadur_gurung",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q13179346",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ne)",
+          "url": "https://ne.wikipedia.org/wiki/इन्द्रबहादुर_गुरुङ"
         }
       ],
       "name": "Chandra Bahadur Gurung",
       "other_names": [
+        {
+          "name": "इन्द्रबहादुर गुरुङ",
+          "note": "alternate"
+        },
+        {
+          "lang": "ne",
+          "name": "इन्द्रबहादुर गुरुङ",
+          "note": "multilingual"
+        },
         {
           "lang": "ne",
           "name": "मा. चन्द्र बहादुर गुरुङ",
@@ -2882,6 +3529,7 @@
       ]
     },
     {
+      "birth_date": "1951-08-22",
       "contact_details": [
         {
           "type": "cell",
@@ -2892,18 +3540,108 @@
           "value": "4486280"
         }
       ],
+      "gender": "male",
+      "given_name": "Chandra",
       "id": "01f6413c-8aa2-45f5-924b-8ebd8f083ba5",
       "identifiers": [
         {
           "identifier": "chandra_prakash_cp_mainali",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/0ccrb1",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q206268",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Chandra_Prakash_Mainali"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Chandra_Prakash_Mainali"
+        },
+        {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/チャンドラ・プラカシュ・マイナリ"
+        },
+        {
+          "note": "Wikipedia (ne)",
+          "url": "https://ne.wikipedia.org/wiki/चन्द्रप्रकाश_मैनाली"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Chandra_Prakash_Mainali"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/钱德拉·普拉喀什·麦纳里"
         }
       ],
       "name": "Chandra Prakash CP Mainali",
       "other_names": [
         {
+          "name": "चन्द्रप्रकाश मैनाली",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Chandra Prakash Mainali",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Chandra Prakash Mainali",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Chandra Prakash Mainali",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Chandra Prakash Mainali",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Chandra Prakash Mainali",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "チャンドラ・プラカシュ・マイナリ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Chandra Prakash Mainali",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "चन्द्रप्रकाश मैनाली",
+          "note": "multilingual"
+        },
+        {
           "lang": "ne",
           "name": "मा.चन्द्र प्रकाश(सिपी )मैनाली",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Chandra Prakash Mainali",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "钱德拉·普拉喀什·麦纳里",
           "note": "multilingual"
         }
       ]
@@ -3613,18 +4351,56 @@
           "value": "4254955"
         }
       ],
+      "gender": "male",
       "id": "7b7b9cff-207c-4d77-a9e2-bd4046f00c57",
       "identifiers": [
         {
           "identifier": "dhyan_govinda_ranjit",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q3430224",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Dhyan_Govinda_Ranjit"
+        },
+        {
+          "note": "Wikipedia (ne)",
+          "url": "https://ne.wikipedia.org/wiki/ध्यानगोविन्द_रञ्जित"
+        },
+        {
+          "note": "Wikipedia (new)",
+          "url": "https://new.wikipedia.org/wiki/ध्‍यान_गोबिन्‍द_रञ्‍जित"
         }
       ],
       "name": "Dhyan Govinda Ranjit",
       "other_names": [
         {
+          "name": "ध् यान गोबिन् द रञ् जित",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Dhyan Govinda Ranjit",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "ध् यान गोबिन् द रञ् जित",
+          "note": "multilingual"
+        },
+        {
           "lang": "ne",
           "name": "मा.ध्यान गोविन्द रंजित",
+          "note": "multilingual"
+        },
+        {
+          "lang": "new",
+          "name": "ध् यान गोबिन् द रञ् जित",
           "note": "multilingual"
         }
       ]
@@ -4330,6 +5106,7 @@
       ]
     },
     {
+      "birth_date": "1962-01-26",
       "contact_details": [
         {
           "type": "cell",
@@ -4340,18 +5117,67 @@
           "value": "4374236"
         }
       ],
+      "gender": "female",
+      "given_name": "Arzu",
       "id": "ce8dd406-2262-428b-b151-ae681ae13bae",
       "identifiers": [
         {
           "identifier": "dr._aarju_rana_deuwa",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "7062618",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q4802770",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Arzu_Rana_Deuba"
+        },
+        {
+          "note": "Wikipedia (ne)",
+          "url": "https://ne.wikipedia.org/wiki/आरजु_राणा_देउवा"
         }
       ],
       "name": "Dr. Aarju Rana Deuwa",
       "other_names": [
         {
+          "name": "आरजु राणा देउवा",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Arzu Rana Deuba",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Arzu Rana Deuba",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Arzu Rana Deuba",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "आरजु राणा देउवा",
+          "note": "multilingual"
+        },
+        {
           "lang": "ne",
           "name": "मा.डा आरजु राणा देउवा",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Arzu Rana Deuba",
           "note": "multilingual"
         }
       ]
@@ -4380,6 +5206,7 @@
       ]
     },
     {
+      "birth_date": "1954-06-18",
       "contact_details": [
         {
           "type": "cell",
@@ -4391,18 +5218,258 @@
         }
       ],
       "email": "brb.1954@gmail.com",
+      "gender": "male",
+      "given_name": "Baburam",
       "id": "4b3e228e-4f58-4865-8faf-34479bad5a21",
       "identifiers": [
         {
           "identifier": "dr._baburam_bhattarai",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "1549129",
+          "scheme": "fast"
+        },
+        {
+          "identifier": "/m/022wp3",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "13148964X",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "0000 0000 7874 3956",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "no99030755",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "00000029290",
+          "scheme": "munzinger"
+        },
+        {
+          "identifier": "11646609X",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "56245054",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q57816",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/47/Baburam_bhattarai.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Baburam_bhattarai.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Baburam_Bhattarai"
+        },
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Μπαμπουράμ_Μπαταράι"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Baburam_Bhattarai"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Baburam_Bhattarai"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Baburam_Bhattarai"
+        },
+        {
+          "note": "Wikipedia (hi)",
+          "url": "https://hi.wikipedia.org/wiki/बाबुराम_भट्टराई"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Baburam_Bhattarai"
+        },
+        {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/バーブラーム・バッタライ"
+        },
+        {
+          "note": "Wikipedia (ml)",
+          "url": "https://ml.wikipedia.org/wiki/ബാബുറാം_ഭട്ടറായി"
+        },
+        {
+          "note": "Wikipedia (mr)",
+          "url": "https://mr.wikipedia.org/wiki/बाबुराम_भट्टराई"
+        },
+        {
+          "note": "Wikipedia (ms)",
+          "url": "https://ms.wikipedia.org/wiki/Baburam_Bhattarai"
+        },
+        {
+          "note": "Wikipedia (ne)",
+          "url": "https://ne.wikipedia.org/wiki/बाबुराम_भट्टराई"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Baburam_Bhattarai"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Baburam_Bhattarai"
+        },
+        {
+          "note": "Wikipedia (plwikiquote)",
+          "url": "https://plwikiquote.wikipedia.org/wiki/Baburam_Bhattarai"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Бхаттараи,_Бабурам"
+        },
+        {
+          "note": "Wikipedia (ta)",
+          "url": "https://ta.wikipedia.org/wiki/பாபுராம்_பட்டாராய்"
+        },
+        {
+          "note": "Wikipedia (tr)",
+          "url": "https://tr.wikipedia.org/wiki/Baburam_Bhattarai"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/巴布拉姆·巴特拉伊"
+        },
+        {
+          "note": "website",
+          "url": "http://www.baburambhattarai.com/"
         }
       ],
       "name": "Dr. Baburam Bhattarai",
       "other_names": [
         {
+          "name": "बाबुराम भट्टराई",
+          "note": "alternate"
+        },
+        {
+          "lang": "ca",
+          "name": "Baburam Bhattarai",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Baburam Bhattarai",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Μπαμπουράμ Μπαταράι",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Baburam Bhattarai",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Baburam Bhattarai",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Baburam Bhattarai",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hi",
+          "name": "बाबुराम भट्टराई",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Baburam Bhattarai",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Baburam Bhattarai",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "バブラム・バッタライ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ml",
+          "name": "ബാബുറാം ഭട്ടറായി",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mr",
+          "name": "बाबुराम भट्टराई",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "Baburam Bhattarai",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Baburam Bhattarai",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "बाबुराम भट्टराई",
+          "note": "multilingual"
+        },
+        {
           "lang": "ne",
           "name": "मा.डा बाबुराम भट्टराई",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Baburam Bhattarai",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Baburam Bhattarai",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Baburam Bhattarai",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Бабурам Бхаттараи",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "பாபுராம் பட்டாராய்",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Baburam Bhattarai",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "巴布拉姆·巴特拉伊",
           "note": "multilingual"
         }
       ]
@@ -4492,10 +5559,29 @@
         {
           "identifier": "dr._narayan_khadka",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q13181537",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ne)",
+          "url": "https://ne.wikipedia.org/wiki/नारायण_खड्का"
         }
       ],
       "name": "Dr. Narayan Khadka",
       "other_names": [
+        {
+          "name": "डा. नारायण खड्का",
+          "note": "alternate"
+        },
+        {
+          "lang": "ne",
+          "name": "डा. नारायण खड्का",
+          "note": "multilingual"
+        },
         {
           "lang": "ne",
           "name": "मा.डा नारायण खड्का",
@@ -4524,10 +5610,29 @@
         {
           "identifier": "dr._ramsaran_mahat",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q13181551",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ne)",
+          "url": "https://ne.wikipedia.org/wiki/रामशरण_महत"
         }
       ],
       "name": "Dr. Ramsaran Mahat",
       "other_names": [
+        {
+          "name": "डा रामशरण महत",
+          "note": "alternate"
+        },
+        {
+          "lang": "ne",
+          "name": "डा रामशरण महत",
+          "note": "multilingual"
+        },
         {
           "lang": "ne",
           "name": "मा.डा रामशरण महत",
@@ -4756,6 +5861,7 @@
       ]
     },
     {
+      "birth_date": "1976-07-06",
       "contact_details": [
         {
           "type": "cell",
@@ -4766,18 +5872,100 @@
           "value": "4434975"
         }
       ],
+      "gender": "male",
       "id": "14307fee-4f6d-43fe-ba61-175726d27eba",
       "identifiers": [
         {
           "identifier": "gagan_kumar_thapa",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q3757183",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/GAGAN.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/GAGAN.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Gagan_Thapa"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Gagan_Thapa"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Gagan_Thapa"
+        },
+        {
+          "note": "Wikipedia (ne)",
+          "url": "https://ne.wikipedia.org/wiki/गगन_थापा"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Gagan_Thapa"
         }
       ],
       "name": "Gagan Kumar Thapa",
       "other_names": [
         {
+          "name": "गगन थापा",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Gagan Thapa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Gagan Thapa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Gagan Thapa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Gagan Thapa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Gagan Thapa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Gagan Thapa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Gagan Thapa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "गगन थापा",
+          "note": "multilingual"
+        },
+        {
           "lang": "ne",
           "name": "मा.गगन कुमार थापा",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Gagan Thapa",
           "note": "multilingual"
         }
       ]
@@ -5332,18 +6520,58 @@
           "value": "4287099"
         }
       ],
+      "gender": "male",
+      "given_name": "Gopala",
       "id": "8d0daede-6767-4ca9-9699-8cad60d403fb",
       "identifiers": [
         {
           "identifier": "gopalman_shrestha",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q5584184",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Gopal_Man_Shrestha"
+        },
+        {
+          "note": "Wikipedia (ne)",
+          "url": "https://ne.wikipedia.org/wiki/गोपाल_मान_श्रेष्ठ"
         }
       ],
       "name": "Gopalman Shrestha",
       "other_names": [
         {
+          "name": "गोपाल मान श्रेष्ठ",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Gopal Man Shrestha",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Gopal Man Shrestha",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "गोपाल मान श्रेष्ठ",
+          "note": "multilingual"
+        },
+        {
           "lang": "ne",
           "name": "मा.गोपालमान श्रेष्ठ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Gopal Man Shrestha",
           "note": "multilingual"
         }
       ]
@@ -5886,6 +7114,7 @@
       ]
     },
     {
+      "birth_date": "1950-05-20",
       "contact_details": [
         {
           "type": "cell",
@@ -5901,18 +7130,289 @@
         }
       ],
       "email": "jhalanath1950@gmail.com",
+      "gender": "male",
       "id": "111a7aa5-7585-45ad-b2ce-2f4765d5eaab",
       "identifiers": [
         {
           "identifier": "jhalanath_khanal",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/04gq46d",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "no2001015561",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "11950873",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q57819",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/da/J.n_(2).jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/J.n_(2).jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/جهالاناث_خانال"
+        },
+        {
+          "note": "Wikipedia (cy)",
+          "url": "https://cy.wikipedia.org/wiki/Jhala_Nath_Khanal"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Jhala_Nath_Khanal"
+        },
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Τζάλα_Νατ_Χανάλ"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Jhala_Nath_Khanal"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Jhala_Nath_Khanal"
+        },
+        {
+          "note": "Wikipedia (hi)",
+          "url": "https://hi.wikipedia.org/wiki/झलनाथ_खनाल"
+        },
+        {
+          "note": "Wikipedia (id)",
+          "url": "https://id.wikipedia.org/wiki/Jhala_Nath_Khanal"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Jhala_Nath_Khanal"
+        },
+        {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/ジャラ・ナート・カナール"
+        },
+        {
+          "note": "Wikipedia (lb)",
+          "url": "https://lb.wikipedia.org/wiki/Jhala_Nath_Khanal"
+        },
+        {
+          "note": "Wikipedia (mai)",
+          "url": "https://mai.wikipedia.org/wiki/झलनाथ_खनाल"
+        },
+        {
+          "note": "Wikipedia (mr)",
+          "url": "https://mr.wikipedia.org/wiki/झलनाथ_खनाल"
+        },
+        {
+          "note": "Wikipedia (ms)",
+          "url": "https://ms.wikipedia.org/wiki/Jhala_Nath_Khanal"
+        },
+        {
+          "note": "Wikipedia (ne)",
+          "url": "https://ne.wikipedia.org/wiki/झलनाथ_खनाल"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Jhala_Nath_Khanal"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Jhala_Nath_Khanal"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Натх_Кханал,_Джала"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Jhala_Nath_Khanal"
+        },
+        {
+          "note": "Wikipedia (ta)",
+          "url": "https://ta.wikipedia.org/wiki/சாலா_நாத்_கனால்"
+        },
+        {
+          "note": "Wikipedia (tr)",
+          "url": "https://tr.wikipedia.org/wiki/Jhala_Nath_Khanal"
+        },
+        {
+          "note": "Wikipedia (yo)",
+          "url": "https://yo.wikipedia.org/wiki/Jhala_Nath_Khanal"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/贾拉·纳特·卡纳尔"
         }
       ],
       "name": "Jhalanath Khanal",
       "other_names": [
         {
+          "name": "झलनाथ खनाल",
+          "note": "alternate"
+        },
+        {
+          "lang": "ar",
+          "name": "جهالاناث خانال",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Jhala Nath Khanal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Jhala Nath Khanal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Jhala Nath Khanal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Τζάλα Νατ Χανάλ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Jhala Nath Khanal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "Jhala Nath Khanal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "Jhala Nath Khanal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Jhala Nath Khanal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Jhala Nath Khanal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hi",
+          "name": "झलनाथ खनाल",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Jhala Nath Khanal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Jhala Nath Khanal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Jhala Nath Khanal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ジャラ・ナト・カナル",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lb",
+          "name": "Jhala Nath Khanal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mai",
+          "name": "झलनाथ खनाल",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mr",
+          "name": "झलनाथ खनाल",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "Jhala Nath Khanal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Jhala Nath Khanal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "झलनाथ खनाल",
+          "note": "multilingual"
+        },
+        {
           "lang": "ne",
           "name": "मा झलनाथ खनाल",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Jhala Nath Khanal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Jhala Nath Khanal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Jhala Nath Khanal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Натх Кханал, Джала",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Jhala Nath Khanal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "சாலா நாத் கனால்",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Jhala Nath Khanal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yo",
+          "name": "Jhala Nath Khanal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "贾拉·纳特·卡纳尔",
           "note": "multilingual"
         }
       ]
@@ -6848,10 +8348,29 @@
         {
           "identifier": "keshav_kumar_budhathoki",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q13180245",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ne)",
+          "url": "https://ne.wikipedia.org/wiki/केशव_कुमार_बुढाथोकी"
         }
       ],
       "name": "Keshav Kumar Budhathoki",
       "other_names": [
+        {
+          "name": "केशव कुमार बुढाथोकी",
+          "note": "alternate"
+        },
+        {
+          "lang": "ne",
+          "name": "केशव कुमार बुढाथोकी",
+          "note": "multilingual"
+        },
         {
           "lang": "ne",
           "name": "मा.केशब कुमार बुढाथोकी",
@@ -6926,10 +8445,29 @@
         {
           "identifier": "khadga_bahadur_basyal",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q13180384",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ne)",
+          "url": "https://ne.wikipedia.org/wiki/खड्क_बहादुर_बस्याल_(सार्की)"
         }
       ],
       "name": "Khadga Bahadur Basyal",
       "other_names": [
+        {
+          "name": "खड्क बहादुर बस्याल",
+          "note": "alternate"
+        },
+        {
+          "lang": "ne",
+          "name": "खड्क बहादुर बस्याल",
+          "note": "multilingual"
+        },
         {
           "lang": "ne",
           "name": "मा.खड्ग बहादुर बस्याल",
@@ -7209,6 +8747,7 @@
       ]
     },
     {
+      "birth_date": "1935-11-23",
       "contact_details": [
         {
           "type": "cell",
@@ -7219,18 +8758,66 @@
           "value": "5539335"
         }
       ],
+      "gender": "male",
       "id": "626e7e6b-e467-4a7c-ae5d-83994303751d",
       "identifiers": [
         {
           "identifier": "kul_bahadur_gurung",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q6442643",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Kul_Bahadur_Gurung"
+        },
+        {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/クル・バハドゥール・グルング"
+        },
+        {
+          "note": "Wikipedia (ne)",
+          "url": "https://ne.wikipedia.org/wiki/कुल_बहादुर_गुरुङ"
         }
       ],
       "name": "Kul Bahadur Gurung",
       "other_names": [
         {
+          "name": "कुल बहादुर गुरुङ",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Kul Bahadur Gurung",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Kul Bahadur Gurung",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "クル・バハドゥール・グルング",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "कुल बहादुर गुरुङ",
+          "note": "multilingual"
+        },
+        {
           "lang": "ne",
           "name": "मा.कुल बहादुर गुरुङ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Kul Bahadur Gurung",
           "note": "multilingual"
         }
       ]
@@ -7651,13 +9238,32 @@
         {
           "identifier": "laxmi_kumari_chaudhary",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q13185693",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ne)",
+          "url": "https://ne.wikipedia.org/wiki/लक्ष्मीकुमारी_चौधरी"
         }
       ],
       "name": "Laxmi Kumari Chaudhary",
       "other_names": [
         {
+          "name": "लक्ष्मीकुमारी चौधरी",
+          "note": "alternate"
+        },
+        {
           "lang": "ne",
           "name": "मा.लक्ष्मी कुमारी चौधरी",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "लक्ष्मीकुमारी चौधरी",
           "note": "multilingual"
         }
       ]
@@ -8113,10 +9719,29 @@
         {
           "identifier": "mahendra_yadav",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q19682364",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ne)",
+          "url": "https://ne.wikipedia.org/wiki/महेन्द्र_यादव"
         }
       ],
       "name": "Mahendra Yadav",
       "other_names": [
+        {
+          "name": "महेन्द्र यादव",
+          "note": "alternate"
+        },
+        {
+          "lang": "ne",
+          "name": "महेन्द्र यादव",
+          "note": "multilingual"
+        },
         {
           "lang": "ne",
           "name": "मा.महेन्द्र यादव",
@@ -8689,18 +10314,66 @@
         }
       ],
       "email": "mrijal@hotmail.com",
+      "gender": "male",
       "id": "9f8a294f-0694-4081-bfb2-fdfe0889ee65",
       "identifiers": [
         {
           "identifier": "minendra_prasad_rijal",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q17388671",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Minendra_Rijal"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Minendra_Rijal"
+        },
+        {
+          "note": "Wikipedia (ne)",
+          "url": "https://ne.wikipedia.org/wiki/मिनेन्द्र_प्रसाद_रिजाल"
         }
       ],
       "name": "Minendra prasad Rijal",
       "other_names": [
         {
+          "name": "मिनेन्द्र प्रसाद रिजाल",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Minendra Rijal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Minendra Rijal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Minendra Rijal",
+          "note": "multilingual"
+        },
+        {
           "lang": "ne",
           "name": "मा.मिनेन्द्र प्रसाद रिजाल",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "मिनेन्द्र प्रसाद रिजाल",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Minendra Rijal",
           "note": "multilingual"
         }
       ]
@@ -9087,10 +10760,29 @@
         {
           "identifier": "nabindra_raj_joshi",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q19679577",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ne)",
+          "url": "https://ne.wikipedia.org/wiki/नविन्द्र_राज_जोशी"
         }
       ],
       "name": "Nabindra Raj Joshi",
       "other_names": [
+        {
+          "name": "नविन्द्र राज जोशी",
+          "note": "alternate"
+        },
+        {
+          "lang": "ne",
+          "name": "नविन्द्र राज जोशी",
+          "note": "multilingual"
+        },
         {
           "lang": "ne",
           "name": "मा.नविन्द्र राज जोशी",
@@ -9198,10 +10890,29 @@
         {
           "identifier": "narahari_acharya",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q13182524",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ne)",
+          "url": "https://ne.wikipedia.org/wiki/नरहरि_आचार्य"
         }
       ],
       "name": "Narahari Acharya",
       "other_names": [
+        {
+          "name": "नरहरि आचार्य",
+          "note": "alternate"
+        },
+        {
+          "lang": "ne",
+          "name": "नरहरि आचार्य",
+          "note": "multilingual"
+        },
         {
           "lang": "ne",
           "name": "मा.नरहरि आचार्य",
@@ -9988,10 +11699,29 @@
         {
           "identifier": "prakash_man_singh",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q13183461",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ne)",
+          "url": "https://ne.wikipedia.org/wiki/प्रकाश_मान_सिंह"
         }
       ],
       "name": "Prakash Man SIngh",
       "other_names": [
+        {
+          "name": "प्रकाश मान सिंह",
+          "note": "alternate"
+        },
+        {
+          "lang": "ne",
+          "name": "प्रकाश मान सिंह",
+          "note": "multilingual"
+        },
         {
           "lang": "ne",
           "name": "मा. प्रकाशमान सिंह",
@@ -10309,10 +12039,29 @@
         {
           "identifier": "purna_bahadur_khadka",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q19680304",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ne)",
+          "url": "https://ne.wikipedia.org/wiki/पूर्णबहादुर_खड्का"
         }
       ],
       "name": "Purna Bahadur Khadka",
       "other_names": [
+        {
+          "name": "पूर्णबहादुर खड्का",
+          "note": "alternate"
+        },
+        {
+          "lang": "ne",
+          "name": "पूर्णबहादुर खड्का",
+          "note": "multilingual"
+        },
         {
           "lang": "ne",
           "name": "मा पूर्ण बहादुर खड्का",
@@ -11133,13 +12882,32 @@
         {
           "identifier": "ram_chandra_chaudhary",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q19683105",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ne)",
+          "url": "https://ne.wikipedia.org/wiki/रामचन्द्र_चौधरी_(थारु)"
         }
       ],
       "name": "Ram Chandra Chaudhary",
       "other_names": [
         {
+          "name": "रामचन्द्र चौधरी",
+          "note": "alternate"
+        },
+        {
           "lang": "ne",
           "name": "मा.रामचन्द्र चौधरी",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "रामचन्द्र चौधरी",
           "note": "multilingual"
         }
       ]
@@ -11177,6 +12945,7 @@
       ]
     },
     {
+      "birth_date": "1944-09",
       "contact_details": [
         {
           "type": "cell",
@@ -11192,18 +12961,104 @@
         }
       ],
       "email": "nc_poudelr@hotmail.com",
+      "gender": "male",
+      "given_name": "Ram",
       "id": "8efc23eb-846c-4024-9b87-4be851c01d51",
       "identifiers": [
         {
           "identifier": "ram_chandra_poudel",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/043rc1q",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q3183124",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Ramchandra_paudel.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Ramchandra_paudel.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ram_Chandra_Poudel"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Ram_Chandra_Poudel"
+        },
+        {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/ラム・チャンドラ・パウデル"
+        },
+        {
+          "note": "Wikipedia (ne)",
+          "url": "https://ne.wikipedia.org/wiki/रामचन्द्र_पौडेल"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Ram_Chandra_Poudel"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Ram_Chandra_Poudel"
         }
       ],
       "name": "Ram Chandra Poudel",
       "other_names": [
         {
+          "name": "रामचन्द्र पौडेल",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Ram Chandra Poudel",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Ram Chandra Poudel",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Ram Chandra Poudel",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ラム・チャンドラ・パウデル",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Ram Chandra Poudel",
+          "note": "multilingual"
+        },
+        {
           "lang": "ne",
           "name": "मा.रामचन्द्र पौडेल",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "रामचन्द्र पौडेल",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Ram Chandra Poudel",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Ram Chandra Poudel",
           "note": "multilingual"
         }
       ]
@@ -11522,13 +13377,32 @@
         {
           "identifier": "ram_kumar_rai",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q13185425",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ne)",
+          "url": "https://ne.wikipedia.org/wiki/राम_कुमार_राई"
         }
       ],
       "name": "Ram Kumar Rai",
       "other_names": [
         {
+          "name": "राम कुमार राई",
+          "note": "alternate"
+        },
+        {
           "lang": "ne",
           "name": "मा.राम कुमार राई",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "राम कुमार राई",
           "note": "multilingual"
         }
       ]
@@ -12410,13 +14284,32 @@
         {
           "identifier": "santa_kumar_tharu",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q13186632",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ne)",
+          "url": "https://ne.wikipedia.org/wiki/सन्तकुमार_थारु"
         }
       ],
       "name": "Santa Kumar Tharu",
       "other_names": [
         {
+          "name": "सन्तकुमार थारु",
+          "note": "alternate"
+        },
+        {
           "lang": "ne",
           "name": "मा.सन्त कुमार थारु",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "सन्तकुमार थारु",
           "note": "multilingual"
         }
       ]
@@ -12913,13 +14806,32 @@
         {
           "identifier": "shatrudhan_mahato",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q19683961",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ne)",
+          "url": "https://ne.wikipedia.org/wiki/शत्रुधन_महतो"
         }
       ],
       "name": "Shatrudhan Mahato",
       "other_names": [
         {
+          "name": "शत्रुधन महतो",
+          "note": "alternate"
+        },
+        {
           "lang": "ne",
           "name": "मा.शत्रुधन महतो",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "शत्रुधन महतो",
           "note": "multilingual"
         }
       ]
@@ -12976,6 +14888,7 @@
       ]
     },
     {
+      "birth_date": "1946-06-13",
       "contact_details": [
         {
           "type": "cell",
@@ -12986,18 +14899,213 @@
           "value": "4374237"
         }
       ],
+      "gender": "male",
       "id": "d6950f02-11a7-4c10-889c-6e3f10a3d848",
       "identifiers": [
         {
           "identifier": "sher_bahadur_deuwa",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/02xrk1",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q470903",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Sherbahadurdeuba.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Sherbahadurdeuba.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Sher_Bahadur_Deuba"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Sher_Bahadur_Deuba"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Sher_Bahadur_Deuba"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Sher_Bahadur_Deuba"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Sher_Bahadur_Deuba"
+        },
+        {
+          "note": "Wikipedia (hi)",
+          "url": "https://hi.wikipedia.org/wiki/शेर_बहादुर_देउवा"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Sher_Bahadur_Deuba"
+        },
+        {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/シェール・バハドゥル・デウバ"
+        },
+        {
+          "note": "Wikipedia (ne)",
+          "url": "https://ne.wikipedia.org/wiki/शेरबहादुर_देउवा"
+        },
+        {
+          "note": "Wikipedia (new)",
+          "url": "https://new.wikipedia.org/wiki/शेरबहादुर_देउवा"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Sher_Bahadur_Deuba"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Sher_Bahadur_Deuba"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Sher_Bahadur_Deuba"
+        },
+        {
+          "note": "Wikipedia (plwikiquote)",
+          "url": "https://plwikiquote.wikipedia.org/wiki/Sher_Bahadur_Deuba"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Деуба,_Шер_Бахадур"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/謝爾·巴哈杜爾·德烏帕"
         }
       ],
       "name": "Sher Bahadur Deuwa",
       "other_names": [
         {
+          "name": "शेरबहादुर देउवा",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Sher Bahadur Deuba",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Sher Bahadur Deuba",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Sher Bahadur Deuba",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Sher Bahadur Deuba",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Sher Bahadur Deuba",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hi",
+          "name": "शेर बहादुर देउवा",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Sher Bahadur Deuba",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Sher Bahadur Deuba",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "シェル・バハドゥール・デウバ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Sher Bahadur Deuba",
+          "note": "multilingual"
+        },
+        {
           "lang": "ne",
           "name": "मा. शेर बहादुर देउवा",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "शेरबहादुर देउवा",
+          "note": "multilingual"
+        },
+        {
+          "lang": "new",
+          "name": "शेरबहादुर देउवा",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Sher Bahadur Deuba",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Sher Bahadur Deuba",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Шер Бахадур Деуба",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "謝爾·巴哈杜爾·德烏帕",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "谢尔·巴哈杜尔·德乌帕",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hans",
+          "name": "谢尔·巴哈杜尔·德乌帕",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "謝爾·巴哈杜爾·德烏帕",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "謝爾·巴哈杜爾·德烏帕",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-sg",
+          "name": "谢尔·巴哈杜尔·德乌帕",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-tw",
+          "name": "謝爾·巴哈杜爾·德烏帕",
           "note": "multilingual"
         }
       ]
@@ -13659,24 +15767,97 @@
       ]
     },
     {
+      "birth_date": "1953-03-11",
       "contact_details": [
         {
           "type": "cell",
           "value": "9851070322"
         }
       ],
+      "gender": "male",
       "id": "b2bf4c33-98ff-42a3-bbce-db8034f9b1fe",
       "identifiers": [
         {
           "identifier": "subash_chandra_nemwang",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q7630835",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/83/Subash_Nemwang.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Subash_Nemwang.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Subash_Chandra_Nembang"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Subash_Chandra_Nemwang"
+        },
+        {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/スバス・ネムバン"
+        },
+        {
+          "note": "Wikipedia (mai)",
+          "url": "https://mai.wikipedia.org/wiki/सुवासचन्द्र_नेम्बाङ"
+        },
+        {
+          "note": "Wikipedia (ne)",
+          "url": "https://ne.wikipedia.org/wiki/सुवासचन्द्र_नेम्बाङ"
         }
       ],
       "name": "Subash Chandra Nemwang",
       "other_names": [
         {
+          "name": "सुवासचन्द्र नेम्बाङ",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Subash Nemwang",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Subash Nemwang",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Subash Chandra Nemwang",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "スバス・ネムバン",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mai",
+          "name": "सुवासचन्द्र नेम्बाङ",
+          "note": "multilingual"
+        },
+        {
           "lang": "ne",
           "name": "मा.सुवाष चन्द्र नेवांङ्",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "सुवासचन्द्र नेम्बाङ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Subash Chandra Nembang",
           "note": "multilingual"
         }
       ]
@@ -13710,6 +15891,7 @@
       ]
     },
     {
+      "birth_date": "1954-02-09",
       "contact_details": [
         {
           "type": "cell",
@@ -13725,18 +15907,124 @@
         }
       ],
       "email": "sujatakoi@hotmail.com",
+      "gender": "female",
+      "given_name": "Sujata",
       "id": "4db8424a-51d6-47de-8aab-76ca70a22047",
       "identifiers": [
         {
           "identifier": "sujata_koirala",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/080dqp5",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q58299",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Sujata_Koirala.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Sujata_Koirala.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Sujata_Koirala"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Sujata_Koirala"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Sujata_Koirala"
+        },
+        {
+          "note": "Wikipedia (ml)",
+          "url": "https://ml.wikipedia.org/wiki/സുജാത_കൊയ്‌രാള"
+        },
+        {
+          "note": "Wikipedia (ne)",
+          "url": "https://ne.wikipedia.org/wiki/सुजाता_कोइराला"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Sujata_Koirala"
         }
       ],
       "name": "Sujata Koirala",
       "other_names": [
         {
+          "name": "सुजाता कोइराला",
+          "note": "alternate"
+        },
+        {
+          "lang": "ca",
+          "name": "Sujata Koirala",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Sujata Koirala",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Sujata Koirala",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Sujata Koirala",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Sujata Koirala",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Sujata Koirala",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Sujata Koirala",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ml",
+          "name": "സുജാത കൊയ്‌രാള",
+          "note": "multilingual"
+        },
+        {
           "lang": "ne",
           "name": "मा.सुजाता कोइराला",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "सुजाता कोइराला",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Sujata Koirala",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Sujata Koirala",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Sujata Koirala",
           "note": "multilingual"
         }
       ]
@@ -13921,6 +16209,7 @@
       ]
     },
     {
+      "birth_date": "1958-08-25",
       "contact_details": [
         {
           "type": "cell",
@@ -13936,18 +16225,57 @@
         }
       ],
       "email": "surendra.pandey8@gmail.com",
+      "gender": "male",
       "id": "cbe094b1-774b-44f9-ae8b-5341f6a5f3d5",
       "identifiers": [
         {
           "identifier": "surendra_prasad_pandey",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q17355706",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Surendra_Pandey"
+        },
+        {
+          "note": "Wikipedia (ne)",
+          "url": "https://ne.wikipedia.org/wiki/सुरेन्द्र_पाण्डे"
         }
       ],
       "name": "Surendra Prasad Pandey",
       "other_names": [
         {
+          "name": "सुरेन्द्र पाण्डे",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Surendra Pandey",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Surendra Pandey",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Surendra Pandey",
+          "note": "multilingual"
+        },
+        {
           "lang": "ne",
           "name": "मा.सुरेन्द्र प्रसाद पाण्डे",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "सुरेन्द्र पाण्डे",
           "note": "multilingual"
         }
       ]
@@ -14056,13 +16384,32 @@
         {
           "identifier": "suryaman_gurung",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q19714133",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ne)",
+          "url": "https://ne.wikipedia.org/wiki/सूर्यमान_गुरुङ"
         }
       ],
       "name": "Suryaman Gurung",
       "other_names": [
         {
+          "name": "सूर्यमान गुरुङ",
+          "note": "alternate"
+        },
+        {
           "lang": "ne",
           "name": "मा.सूर्यमान गुरुङ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "सूर्यमान गुरुङ",
           "note": "multilingual"
         }
       ]
@@ -14458,10 +16805,29 @@
         {
           "identifier": "tek_bahadur_basnet",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q13181479",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ne)",
+          "url": "https://ne.wikipedia.org/wiki/टेक_बहादुर_बस्नेत"
         }
       ],
       "name": "Tek Bahadur Basnet",
       "other_names": [
+        {
+          "name": "टेक बहादुर बस्नेत",
+          "note": "alternate"
+        },
+        {
+          "lang": "ne",
+          "name": "टेक बहादुर बस्नेत",
+          "note": "multilingual"
+        },
         {
           "lang": "ne",
           "name": "मा.टेक बहादुर बस्नेत",
@@ -14532,10 +16898,29 @@
         {
           "identifier": "top_bahadur_rayamajhi",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q19678456",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ne)",
+          "url": "https://ne.wikipedia.org/wiki/टोप_बहादुर_रायमाझी"
         }
       ],
       "name": "Top Bahadur Rayamajhi",
       "other_names": [
+        {
+          "name": "टोप बहादुर रायमाझी",
+          "note": "alternate"
+        },
+        {
+          "lang": "ne",
+          "name": "टोप बहादुर रायमाझी",
+          "note": "multilingual"
+        },
         {
           "lang": "ne",
           "name": "मा.तोप बहादुर रायमाझी",
@@ -15245,7 +17630,8 @@
   ],
   "meta": {
     "sources": [
-      "http://www.leadnepal.com/contactyourleader"
+      "http://www.leadnepal.com/contactyourleader",
+      "http://wikidata.org/"
     ]
   },
   "memberships": [
