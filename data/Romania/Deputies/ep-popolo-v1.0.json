@@ -7575,11 +7575,17 @@
       ]
     },
     {
+      "birth_date": "1964-09-22",
+      "death_date": "2015-07-28",
       "id": "994bb381-f994-4a34-a6d9-681fb3d2d789",
       "identifiers": [
         {
           "identifier": "66",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q24005173",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.cdep.ro/parlamentari/l2012/Ciobanu_Gheorghe.jpg",
@@ -7588,7 +7594,29 @@
           "url": "http://www.cdep.ro/parlamentari/l2012/Ciobanu_Gheorghe.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Gheorghe_Ciobanu"
+        }
+      ],
       "name": "Ciobanu Gheorghe",
+      "other_names": [
+        {
+          "name": "Gheorghe Ciobanu",
+          "note": "alternate"
+        },
+        {
+          "lang": "fr",
+          "name": "Gheorghe Ciobanu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Gheorghe Ciobanu",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Gheorghe CIOBANU",
       "sources": [
         {
@@ -20787,6 +20815,10 @@
         {
           "identifier": "240",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q24018488",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.cdep.ro/parlamentari/l2012/Munteanu_Ioan.jpg",
@@ -20795,7 +20827,24 @@
           "url": "http://www.cdep.ro/parlamentari/l2012/Munteanu_Ioan.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Ioan_Munteanu"
+        }
+      ],
       "name": "Munteanu Ioan",
+      "other_names": [
+        {
+          "name": "Ioan Munteanu",
+          "note": "alternate"
+        },
+        {
+          "lang": "ro",
+          "name": "Ioan Munteanu",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Ioan MUNTEANU",
       "sources": [
         {
