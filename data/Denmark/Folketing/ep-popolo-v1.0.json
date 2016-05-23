@@ -13655,8 +13655,28 @@
       ]
     },
     {
+      "death_date": "2004-07-19",
       "id": "5f60506a-72e5-43b5-a5dd-cab2821b73f4",
-      "name": "Hans E. Erenbjerg"
+      "identifiers": [
+        {
+          "identifier": "Q24034026",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (da)",
+          "url": "https://da.wikipedia.org/wiki/Hans_E._Erenbjerg"
+        }
+      ],
+      "name": "Hans E. Erenbjerg",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Hans E. Erenbjerg",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1948-10-08",
@@ -42885,6 +42905,10 @@
         {
           "note": "Wikipedia (no)",
           "url": "https://no.wikipedia.org/wiki/Rasmus_Helveg_Petersen"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Rasmus_Helveg_Petersen"
         },
         {
           "note": "twitter",
