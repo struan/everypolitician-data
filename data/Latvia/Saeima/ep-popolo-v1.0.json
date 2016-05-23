@@ -8634,6 +8634,10 @@
         {
           "identifier": "703A6CA2CB0B9790C2257D7B0032D949",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q24175223",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://titania.saeima.lv/personal/deputati/saeima12_depweb_public.nsf/0/703a6ca2cb0b9790c2257d7b0032d949/Foto/0.84?OpenElement&FieldElemFormat=jpg",
@@ -8642,7 +8646,20 @@
           "url": "http://titania.saeima.lv/personal/deputati/saeima12_depweb_public.nsf/0/703a6ca2cb0b9790c2257d7b0032d949/Foto/0.84?OpenElement&FieldElemFormat=jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (lv)",
+          "url": "https://lv.wikipedia.org/wiki/Edgars_Putra"
+        }
+      ],
       "name": "Edgars Putra",
+      "other_names": [
+        {
+          "lang": "lv",
+          "name": "Edgars Putra",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://titania.saeima.lv/personal/deputati/saeima12_depweb_public.nsf/0/703A6CA2CB0B9790C2257D7B0032D949?OpenDocument&lang=EN"
@@ -12481,6 +12498,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/غونيتس_أولمانيس"
+        },
+        {
           "note": "Wikipedia (be)",
           "url": "https://be.wikipedia.org/wiki/Гунтыс_Улманіс"
         },
@@ -12611,6 +12632,11 @@
       ],
       "name": "Guntis Ulmanis",
       "other_names": [
+        {
+          "lang": "ar",
+          "name": "غونيتس أولمانيس",
+          "note": "multilingual"
+        },
         {
           "lang": "be",
           "name": "Гунціс Улманіс",
@@ -39263,6 +39289,11 @@
       ],
       "name": "Veiko Spolītis",
       "other_names": [
+        {
+          "lang": "en",
+          "name": "Veiko Spolītis",
+          "note": "multilingual"
+        },
         {
           "lang": "et",
           "name": "Veiko Spolītis",
