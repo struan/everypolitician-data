@@ -113,6 +113,13 @@
       "title": "Minister of Education"
     }
   ],
+  "Q24088043": [
+    {
+      "id": "Q3272410",
+      "label": "Member of the Legislative Assembly of Northern Ireland",
+      "title": "Member of the Legislative Assembly of Northern Ireland"
+    }
+  ],
   "Q6900013": [
     {
       "id": "Q3272410",
@@ -484,6 +491,13 @@
       }
     }
   ],
+  "Q24083706": [
+    {
+      "id": "Q3272410",
+      "label": "Member of the Legislative Assembly of Northern Ireland",
+      "title": "Member of the Legislative Assembly of Northern Ireland"
+    }
+  ],
   "Q16214843": [
     {
       "id": "Q3272410",
@@ -591,6 +605,13 @@
     }
   ],
   "Q7051992": [
+    {
+      "id": "Q3272410",
+      "label": "Member of the Legislative Assembly of Northern Ireland",
+      "title": "Member of the Legislative Assembly of Northern Ireland"
+    }
+  ],
+  "Q24083708": [
     {
       "id": "Q3272410",
       "label": "Member of the Legislative Assembly of Northern Ireland",
@@ -839,6 +860,13 @@
     }
   ],
   "Q6203978": [
+    {
+      "id": "Q3272410",
+      "label": "Member of the Legislative Assembly of Northern Ireland",
+      "title": "Member of the Legislative Assembly of Northern Ireland"
+    }
+  ],
+  "Q24083702": [
     {
       "id": "Q3272410",
       "label": "Member of the Legislative Assembly of Northern Ireland",
@@ -1635,6 +1663,13 @@
       "title": "Member of the Legislative Assembly of Northern Ireland"
     }
   ],
+  "Q24083705": [
+    {
+      "id": "Q3272410",
+      "label": "Member of the Legislative Assembly of Northern Ireland",
+      "title": "Member of the Legislative Assembly of Northern Ireland"
+    }
+  ],
   "Q6247430": [
     {
       "id": "Q3272410",
@@ -1777,9 +1812,15 @@
   ],
   "Q7609180": [
     {
-      "id": "Q3044710",
-      "label": "Department for Employment and Learning",
-      "title": "Department for Employment and Learning"
+      "id": "Q22979248",
+      "label": "Minister for Employment and Learning",
+      "title": "Minister for Employment and Learning",
+      "qualifiers": {
+        "P580": "2011-05-05",
+        "P582": "2016-05-06",
+        "P1365": "Danny Kennedy",
+        "P1366": ""
+      }
     },
     {
       "id": "Q3272410",
@@ -2314,6 +2355,11 @@
       "id": "Q3272410",
       "label": "Member of the Legislative Assembly of Northern Ireland",
       "title": "Member of the Legislative Assembly of Northern Ireland"
+    },
+    {
+      "id": "Q24198089",
+      "label": "Minister for Regional Development",
+      "title": "Minister for Regional Development"
     }
   ],
   "Q5549740": [
@@ -2393,6 +2439,20 @@
       "title": "Member of the Legislative Assembly of Northern Ireland"
     }
   ],
+  "Q24083697": [
+    {
+      "id": "Q3272410",
+      "label": "Member of the Legislative Assembly of Northern Ireland",
+      "title": "Member of the Legislative Assembly of Northern Ireland"
+    }
+  ],
+  "Q24088044": [
+    {
+      "id": "Q3272410",
+      "label": "Member of the Legislative Assembly of Northern Ireland",
+      "title": "Member of the Legislative Assembly of Northern Ireland"
+    }
+  ],
   "Q7817099": [
     {
       "id": "Q3272410",
@@ -2402,9 +2462,9 @@
   ],
   "Q578710": [
     {
-      "id": "Q3044778",
-      "label": "Department for Regional Development",
-      "title": "Department for Regional Development"
+      "id": "Q24198089",
+      "label": "Minister for Regional Development",
+      "title": "Minister for Regional Development"
     },
     {
       "id": "Q16707842",
@@ -2418,6 +2478,13 @@
     }
   ],
   "Q16114174": [
+    {
+      "id": "Q3272410",
+      "label": "Member of the Legislative Assembly of Northern Ireland",
+      "title": "Member of the Legislative Assembly of Northern Ireland"
+    }
+  ],
+  "Q24083699": [
     {
       "id": "Q3272410",
       "label": "Member of the Legislative Assembly of Northern Ireland",
@@ -2573,7 +2640,23 @@
     {
       "id": "Q22979248",
       "label": "Minister for Employment and Learning",
-      "title": "Minister for Employment and Learning"
+      "title": "Minister for Employment and Learning",
+      "qualifiers": {
+        "P580": "2010-10-27",
+        "P582": "2011-05-05",
+        "P1365": "Reg Empey"
+      }
+    },
+    {
+      "id": "Q24198089",
+      "label": "Minister for Regional Development",
+      "title": "Minister for Regional Development",
+      "qualifiers": {
+        "P580": "2011-05-16",
+        "P582": "2015-09-01",
+        "P1365": "Conor Murphy",
+        "P1366": "Michelle McIlveen"
+      }
     }
   ],
   "Q4716637": [
