@@ -46,10 +46,6 @@
         "name": "Prime Minister of Hungary"
       },
       {
-        "id": "Q736559",
-        "name": "Secretary of State"
-      },
-      {
         "id": "Q23645104",
         "name": "Secretary of State for Territorial Public Administration"
       }
@@ -66,6 +62,11 @@
   },
   "unknown": {
     "unknown": [
+      {
+        "id": "Q736559",
+        "name": "Secretary of State",
+        "count": 13
+      },
       {
         "id": "Q30185",
         "name": "mayor",
