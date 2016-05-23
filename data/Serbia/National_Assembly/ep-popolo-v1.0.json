@@ -1168,14 +1168,52 @@
     },
     {
       "birth_date": "1963",
+      "gender": "male",
+      "given_name": "Dragan",
       "id": "a69c51e2-49d4-47f5-be6d-5f6c981f2927",
       "identifiers": [
         {
           "identifier": "829",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q16442061",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Dragan_Aleksić_(politician)"
         }
       ],
       "name": "DRAGAN ALEKSIC",
+      "other_names": [
+        {
+          "name": "Dragan Aleksić",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Dragan Aleksić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Dragan Aleksić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Dragan Aleksić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Dragan Aleksić",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "DRAGAN ALEKSIC",
       "sources": [
         {
@@ -5392,6 +5430,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/سلافيتسا_جوكيتش_ديانوفيتش"
+        },
         {
           "note": "Wikipedia (be)",
           "url": "https://be.wikipedia.org/wiki/Славіца_Джукіч-Дэянавіч"
