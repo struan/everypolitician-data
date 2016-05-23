@@ -104,7 +104,7 @@ namespace :term_csvs do
     }
     matched, unmatched = wikidata_persons.map(&:count)
     warn "Persons matched to Wikidata: #{matched} ✓ #{unmatched.zero? ? '' : "| #{unmatched} ✘"}"
-    wikidata_persons.last.shuffle.take(10).each { |p| warn "  No wikidata: #{ p[:name] }" } unless matched.zero?
+    wikidata_persons.last.shuffle.take(10).each { |p| warn "  No wikidata: #{p[:name]} (#{p[:id]})" } unless matched.zero?
 
     matched, unmatched = wikidata_parties.map(&:count)
     warn "Parties matched to Wikidata: #{matched} ✓ #{unmatched.zero? ? '' : "| #{unmatched} ✘"}"
