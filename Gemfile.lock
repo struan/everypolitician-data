@@ -17,9 +17,9 @@ GIT
 
 GIT
   remote: https://github.com/everypolitician/everypolitician-ruby
-  revision: 2867f271808c70ed65816efb957340ac6135991a
+  revision: 75766f09eab7e7166cff27136f3e880696367ff7
   specs:
-    everypolitician (0.6.0)
+    everypolitician (0.6.1)
       everypolitician-popolo
 
 GIT
@@ -109,4 +109,4 @@ DEPENDENCIES
   yajl-ruby
 
 BUNDLED WITH
-   1.11.2
+   1.12.3
