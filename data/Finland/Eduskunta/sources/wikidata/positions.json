@@ -220,6 +220,11 @@
       "id": "Q27169",
       "label": "member of the European Parliament",
       "title": "member of the European Parliament"
+    },
+    {
+      "id": "Q24205201",
+      "label": "Minister of Agriculture and Forestry",
+      "title": "Minister of Agriculture and Forestry"
     }
   ],
   "Q11858319": [
@@ -790,6 +795,11 @@
       "id": "Q17592486",
       "label": "member of the Parliament of Finland",
       "title": "member of the Parliament of Finland"
+    },
+    {
+      "id": "Q24205201",
+      "label": "Minister of Agriculture and Forestry",
+      "title": "Minister of Agriculture and Forestry"
     }
   ],
   "Q17385002": [
@@ -1068,6 +1078,19 @@
         "P582": "2015-04-21",
         "P1365": "Henna Virkkunen",
         "P768": "Central Finland"
+      }
+    }
+  ],
+  "Q596737": [
+    {
+      "id": "Q10563305",
+      "label": "Minister of Labour",
+      "title": "Minister of Labour",
+      "qualifiers": {
+        "P580": "2011-06-22",
+        "P582": "2015-05-29",
+        "P1365": "Anni Sinnemäki",
+        "P1366": "Jari Lindström"
       }
     }
   ],
@@ -1423,6 +1446,16 @@
       "id": "Q17592486",
       "label": "member of the Parliament of Finland",
       "title": "member of the Parliament of Finland"
+    },
+    {
+      "id": "Q10563305",
+      "label": "Minister of Labour",
+      "title": "Minister of Labour",
+      "qualifiers": {
+        "P580": "2007-04-19",
+        "P582": "2009-06-25",
+        "P1365": "Tarja Filatov"
+      }
     }
   ],
   "Q16299720": [
@@ -2021,6 +2054,11 @@
       "id": "Q17592486",
       "label": "member of the Parliament of Finland",
       "title": "member of the Parliament of Finland"
+    },
+    {
+      "id": "Q24205201",
+      "label": "Minister of Agriculture and Forestry",
+      "title": "Minister of Agriculture and Forestry"
     }
   ],
   "Q591312": [
@@ -2238,6 +2276,13 @@
       "title": "member of the Parliament of Finland"
     }
   ],
+  "Q964549": [
+    {
+      "id": "Q24205201",
+      "label": "Minister of Agriculture and Forestry",
+      "title": "Minister of Agriculture and Forestry"
+    }
+  ],
   "Q11896965": [
     {
       "id": "Q17592486",
@@ -2358,6 +2403,18 @@
       "id": "Q17592486",
       "label": "member of the Parliament of Finland",
       "title": "member of the Parliament of Finland"
+    }
+  ],
+  "Q260391": [
+    {
+      "id": "Q10563305",
+      "label": "Minister of Labour",
+      "title": "Minister of Labour",
+      "qualifiers": {
+        "P580": "2009-06-26",
+        "P582": "2011-06-22",
+        "P1365": "Tarja Cronberg"
+      }
     }
   ],
   "Q11885203": [
@@ -2768,6 +2825,43 @@
       "id": "Q17592486",
       "label": "member of the Parliament of Finland",
       "title": "member of the Parliament of Finland"
+    },
+    {
+      "id": "Q10563305",
+      "label": "Minister of Labour",
+      "title": "Minister of Labour",
+      "qualifiers": {
+        "P580": "1999-04-15",
+        "P582": "2000-02-24",
+        "P1365": "Liisa Jaakonsaari"
+      }
+    },
+    {
+      "id": "Q18694348",
+      "label": "Minister of Health and Social Services",
+      "title": "Minister of Health and Social Services",
+      "qualifiers": {
+        "P580": "2003-04-17",
+        "P582": "2007-04-19"
+      }
+    },
+    {
+      "id": "Q24205195",
+      "label": "Minister of Trade and Industry",
+      "title": "Minister of Trade and Industry",
+      "qualifiers": {
+        "P580": "2000-02-25",
+        "P582": "2003-04-16"
+      }
+    },
+    {
+      "id": "Q18694348",
+      "label": "Minister of Health and Social Services",
+      "title": "Minister of Health and Social Services",
+      "qualifiers": {
+        "P580": "1995-04-13",
+        "P582": "1999-04-14"
+      }
     }
   ],
   "Q11868890": [
@@ -3143,6 +3237,18 @@
       }
     }
   ],
+  "Q2565423": [
+    {
+      "id": "Q10563305",
+      "label": "Minister of Labour",
+      "title": "Minister of Labour",
+      "qualifiers": {
+        "P580": "2000-02-25",
+        "P582": "2007-04-19",
+        "P1365": "Sinikka Mönkäre"
+      }
+    }
+  ],
   "Q6029546": [
     {
       "id": "Q17592486",
@@ -3154,9 +3260,9 @@
       }
     },
     {
-      "id": "Q1845777",
-      "label": "Q1845777",
-      "title": "Q1845777",
+      "id": "Q24205201",
+      "label": "Minister of Agriculture and Forestry",
+      "title": "Minister of Agriculture and Forestry",
       "qualifiers": {
         "P580": "2014-06-24",
         "P582": "2015-05-28",
