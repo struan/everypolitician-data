@@ -50,15 +50,25 @@ end
 
 desc 'Install country-list locally'
 task 'countries.json' do
-  countries = @HOUSES.group_by { |h| h.split('/')[1] }
+  # By default we build every country, but if EP_COUNTRY_REFRESH is set
+  # we only build any country that contains that string. For example:
+  #    EP_COUNTRY_REFRESH=Latvia be rake countries.json
+
+  to_build = ENV['EP_COUNTRY_REFRESH'] || 'data'
   
-  data = countries.map do |c, hs|
+  countries = @HOUSES.group_by { |h| h.split('/')[1] }.select do |c, hs|
+    hs.any? { |h| h.include? to_build } 
+  end
+
+  data, _ = json_from('countries.json') rescue {}
+  
+  countries.each do |c, hs|
     meta_file = hs.first + '/../meta.json'
     meta = File.exist?(meta_file) ? JSON.load(File.open meta_file) : {}
     name = meta['name'] || c.tr('_', ' ')
     slug = c.tr('_', '-')
 
-    {
+    country = {
       name: name,
       # Deprecated — will be removed soon!
       country: name,
@@ -89,6 +99,7 @@ task 'countries.json' do
         }
       }
     }
+    data[ data.find_index { |c| c[:name] == country[:name] } ] = country
   end
   File.write('countries.json', JSON.pretty_generate(data.sort_by { |c| c[:name] }.to_a))
 end
