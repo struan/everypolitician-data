@@ -126,7 +126,7 @@ class ElectionLookup < WikidataLookup
   # We don't have the normal id => uuid Hash here, 
   # but rather instructions for a WDQ lookup
   def initialize(instructions)
-    q = 'CLAIM[31:%s]' % instructions[:base].sub(/^Q/,'')
+    q = "SELECT ?item WHERE { ?item wdt:P31 wd:#{instructions[:base]} . }"
     ids = wdq(q)
     @wikidata_id_lookup = Hash[ ids.map { |id| [id, id] } ]
   end
@@ -148,12 +148,12 @@ class ElectionLookup < WikidataLookup
   end
 
   private
-  WDQ_URL = 'https://wdq.wmflabs.org/api'
+  WDQ_URL = 'https://query.wikidata.org/sparql'
 
   def wdq(query)
-    result = RestClient.get WDQ_URL, params: { q: query }
+    result = RestClient.get WDQ_URL, params: { query: query, format: 'json' }
     json = JSON.parse(result, symbolize_names: true)
-    json[:items].map { |id| "Q#{id}" }
+    json[:results][:bindings].map { |res| res[:item][:value].split('/').last }
   rescue RestClient::Exception => e
     abort "Wikidata query #{query.inspect} failed: #{e.message}"
   end
