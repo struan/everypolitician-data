@@ -13,6 +13,7 @@ end
 
 file = ARGV.shift or abort "Usage: echo CSV | #$0 <filter file>"
 json = json_from(file)
+%i(self other_legislatures executive party other).each { |i| json[:include][i] ||= [] }
 
 csv = Hash[ARGF.readlines.map { |l| l.chomp.split(',') }]
 
