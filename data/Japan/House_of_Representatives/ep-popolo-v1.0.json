@@ -36516,7 +36516,532 @@
     {
       "classification": "party",
       "id": "party/dp",
-      "name": "DP"
+      "identifiers": [
+        {
+          "identifier": "Q200314",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Democratic_Party_of_Japan_Logo.svg",
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.dpj.or.jp/"
+        }
+      ],
+      "name": "DP",
+      "other_names": [
+        {
+          "lang": "nan",
+          "name": "Bîn-chú Tóng",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hans",
+          "name": "民主党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "民主黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "民主黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "民主党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-sg",
+          "name": "民主党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-tw",
+          "name": "民主黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Partia Demokratyczna",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "민주당",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "המפלגה הדמוקרטית",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti démocrate du Japon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Democrático de Japón",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Demokrata Párt",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "Parti Demokratik Jepun",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Partito Democratico del Giappone",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Partai Demokratik Jepang",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Demokratische Partei",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "民主党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sq",
+          "name": "Partia Demokratike",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Đảng Dân chủ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yue",
+          "name": "民主黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Demokratska partija Japana",
+          "note": "multilingual"
+        },
+        {
+          "lang": "my",
+          "name": "ဂျပန်ဒီမိုကရက်တစ်ပါတီ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Demokratiska partiet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Democratische Partij van Japan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "الحزب الديمقراطي الياباني",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Partido Democrático do Japão",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Demokrata Partio de Japanio",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Демократическая партия Японии",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-el",
+          "name": "Demokratska partija Japana",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-ec",
+          "name": "Демократска партија Јапана",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Democratic Party of Japan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Partidul Democrat din Japonia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Partit Demòcrata del Japó",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Japanin demokraattinen puolue",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Демократична партія",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Democratica Factio Iaponiae",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Demokratická strana Japonska",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "იაპონიის დემოკრატიული პარტია",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Demokratska stranka Japana",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Demokratų partija",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tl",
+          "name": "Partido Demokratiko ng Hapon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Демократска партија Јапана",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Демократическа партия на Япония",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "民主党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Det demokratiske parti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "حزب دموکرات (ژاپن)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tt",
+          "name": "Demokratik firqä",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "Democratic Pairty o Japan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Δημοκρατικό Κόμμα της Ιαπωνίας",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "พรรคประชาธิปไตยญี่ปุ่น",
+          "note": "multilingual"
+        },
+        {
+          "lang": "az",
+          "name": "Yaponiya Demokratlar Partiyası",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nan",
+          "name": "Bîn-chú-tóng",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "일본민주당",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "일본 민주당",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "המפלגה הדמוקרטית של יפן",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti democrate du Japon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "PDJ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Minshutō",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Democrático",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Democratico",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Democrata de Japon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Democrático Japones",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Democrático Japonés",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Democrata de Japón",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Democratico de Japon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Democrático de Japon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Demócrata de Japón",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Democratico Japones",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Minshuto",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Democratico Japonés",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Partito Democratico Giapponese",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Partito Democratico",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Partai Demokrat",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Partai Demokratik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Demokratische Partei Japans",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Minshutō",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "DPJ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Minshuto",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "DPJ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Đảng Dân chủ Nhật Bản",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yue",
+          "name": "日本民主黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Demokratska stranka Japana",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Japans demokratiska parti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Minshutō",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Minshuto",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "DPJ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Democratische Partij Japan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "DJP",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Minshuto",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Democratische Partij",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "الحزب الديمقراطي",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Partido Democrata do Japão",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Demokrata Partio",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "ДПЯ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Демократическая партия",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Partit Demòcrata de Japó",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "ДПЯ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Демократична партія Японії",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "DFI",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Japonijos demokratų partija",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Minshu-tō",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
@@ -36526,37 +37051,2385 @@
     {
       "classification": "party",
       "id": "party/ind",
-      "name": "Ind"
+      "identifiers": [
+        {
+          "identifier": "Q327591",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Ind",
+      "other_names": [
+        {
+          "lang": "zh-hans",
+          "name": "无党籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "無黨籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "無黨籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "无党籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-sg",
+          "name": "无党籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-tw",
+          "name": "無黨籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Sans étiquette",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "무소속",
+          "note": "multilingual"
+        },
+        {
+          "lang": "arz",
+          "name": "سياسى مستقل",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidato independiente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "சுயேட்சை",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Parteiloser",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Independen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "無所属",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "ανεξάρτητος",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "independent politician",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yue",
+          "name": "獨立人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "onafhankelijk politicus",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Partilös",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "سياسي مستقل",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "político sem partido",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "беспартийный",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mn",
+          "name": "Бие даагч",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-ec",
+          "name": "независни политичар",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Bağımsız siyasetçi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "politician independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Sitoutumaton",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Annibynnwr",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ur",
+          "name": "آزاد",
+          "note": "multilingual"
+        },
+        {
+          "lang": "az",
+          "name": "Partiyasız",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "løsgænger",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "無黨籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "независни политичар",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "کنشگر سیاسی مستقل",
+          "note": "multilingual"
+        },
+        {
+          "lang": "war",
+          "name": "Independente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-el",
+          "name": "nezavisni političar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "indipendente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be",
+          "name": "Беспартыйны",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "polityk niezrzeszony",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mr",
+          "name": "अपक्ष",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be-tarask",
+          "name": "Беспартыйны",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "פוליטיקאי עצמאי",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "partiløs",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "nezávislý",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "független politikus",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Sendependa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hi",
+          "name": "निर्दलीय",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Nezavisni",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "independent politeecian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Nezávislý politik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hak",
+          "name": "Mò-tóng-sit",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "นักการเมืองอิสระ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Незалежний політик",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sd",
+          "name": "آزاد",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Politicus nullius factionis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "無黨派",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "无党派人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "獨立人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "獨立候選人",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Sans etiquette",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Indépendant",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Non-inscrits",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Non-inscrit",
+          "note": "multilingual"
+        },
+        {
+          "lang": "arz",
+          "name": "Independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidato civico",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Movimientos cívicos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Independientes",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidatos cívicos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidato Cívico",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidatura independiente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Movimiento Cívico",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidatura cívica",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidata cívica",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "சுயேச்சை",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Unabhängiger",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "freier Abgeordneter",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Politikus independen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "無所属議員",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "onafhankelijke",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "partijloos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "partijloze",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "partijlozen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Vänstervilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Liberal vilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Moderat vilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Politiska vildar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Obunden",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Politisk vilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Frisinnad vilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Högervilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "سياسيون مستقلون",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Sem partido",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Político independente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Candidato independente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Bağımsız Politikacı",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Serbest siyasetçi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Politicieni independenţi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Politicieni independenți",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Gwleidydd annibynnol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Annibynnol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Annibynol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Uden for partierne",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Frigænger",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Udenfor partierne",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Uafhængig",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Partiløs",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "nonpartisan politician",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "candidato indipendente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "politico indipendente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be-tarask",
+          "name": "Беспартыйны палітык",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "uavhengig",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "bezpartajní",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "bez stranické příslušnosti",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/jcp",
-      "name": "JCP"
+      "identifiers": [
+        {
+          "identifier": "Q641600",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Japanese_Communist_Party_logo.gif",
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.jcp.or.jp/"
+        }
+      ],
+      "name": "JCP",
+      "other_names": [
+        {
+          "lang": "nan",
+          "name": "Ji̍t-pún Kiōng-sán Tóng",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hans",
+          "name": "日本共产党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "日本共產黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "日本共產黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Japońska Partia Komunistyczna",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "일본공산당",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "המפלגה הקומוניסטית של יפן",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti communiste japonais",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Comunista Japonés",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lad",
+          "name": "Partito Komunista Japonezo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Japán Kommunista Párt",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Partito Comunista Giapponese",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Kommunistische Partei Japans",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "日本共産党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Đảng Cộng sản Nhật Bản",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "الحزب الشيوعي الياباني",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Japanse Communistische Partij",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Japans kommunistiska parti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Partido Comunista Japonês",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Japana Komunista Partio",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Коммунистическая партия Японии",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-el",
+          "name": "Komunistička partija Japana",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-ec",
+          "name": "Комунистичка партија Јапана",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Japanese Communist Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Japon Komünist Partisi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Japanin kommunistinen puolue",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Комуністична партія Японії",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Japonijos komunistų partija",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "日本共产党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "日本共产党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Partai Komunis Jepang",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Комунистичка партија Јапана",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Factio Communistica Iaponica",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kk",
+          "name": "Жапония коммунистік партиясы",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hy",
+          "name": "Ճապոնիայի կոմունիստական կուսակցություն",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nan",
+          "name": "Ji̍t-pún Kiōng-sán-tóng",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "日共",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "日本共產黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "일본 공산당",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "일 공산당",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Comunista de Japón",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Comunista Japones",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Comunista de Japon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Nihon Kyosanto",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Nihon Kyōsantō",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "JCP",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "共産党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Jkp",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Japana Komunisma Partio",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "КПЯ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "КП Японии",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "КПЯ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Японська комуністична партія",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Komunistų partija",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/jip",
-      "name": "JIP"
+      "identifiers": [
+        {
+          "identifier": "Q18116909",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "JIP",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Ishin no Tō",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Japan Innovation Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "维新党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "維新の党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "유신당",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti de la restauration",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Partai Inovasi Jepang",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido de la Innovación",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Японская партия инноваций",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/km",
-      "name": "KM"
+      "identifiers": [
+        {
+          "identifier": "Q1061354",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Komeito_logo.svg",
+      "links": [
+        {
+          "note": "website",
+          "url": "https://www.komei.or.jp/"
+        }
+      ],
+      "name": "KM",
+      "other_names": [
+        {
+          "lang": "zh-hans",
+          "name": "公明党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "公明黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "公明黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Novo Komeito",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Nouveau Kōmeitō",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Комэйто",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "공명당",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "מפלגת קומייטו החדשה",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Komeito",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Nuevo Kōmeitō",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "พรรคโคเม",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Kōmeitō",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Партія «Нова Комейто»",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Kōmeitō",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "公明党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Đảng Tân Kōmeitō",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Nya Komeitopartiet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "حزب كوميتو الجديد",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "公明黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Kōmeitō",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Komeito Baru",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Komeito",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Komeito",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Kōmeitō",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Komeito",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Kōmeitō",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Nouveau Komeito",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Komeitô",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Nouveau Komeitō",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Nouveau Kōmeito",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Партия чистого правительства",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Комейто",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Партия чистой политики",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "일본 공명당",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Nuevo Partido Komeitō",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Nuevo Komeito",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Nuevo Partido Komeito",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Nuevo Partido Kōmei",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Nuevo Komeitō",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Nuevo Komeitō",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Nuevo Kōmei",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Nuevo Kōmeitō",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Nuevo Partido Komei",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Nuevo Komeito",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Nuevo Partido Kōmeitō",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Nuevo Komei",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "พรรคโคเมอิโตะ ใหม่",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Komeito",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Uusi Komeito",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Нова Комейто",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Комейто",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Партія \"Нова Комейто\"",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Neue Komeito",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "New Kōmeitō",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Neue Kōmei-Partei",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Komeito",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Komeitō",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "New Komeito",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Neue Kōmeitō",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Neue Komei-Partei",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Partei für eine saubere Regierung",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "新党平和",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "黎明クラブ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "公明政治連盟",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "公明新党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "公明党選挙政治連盟",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "公明党最高幹部",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Đảng Tân Komei",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Nya Komeito partiet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Komeito",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Kōmeitō",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Nya Komeito-partiet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Kōmeitō",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "New Kōmei Party",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/ldp",
-      "name": "LDP"
+      "identifiers": [
+        {
+          "identifier": "Q232595",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.jimin.jp/english/"
+        }
+      ],
+      "name": "LDP",
+      "other_names": [
+        {
+          "lang": "nan",
+          "name": "Chū-iû Bîn-chú Tóng",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hans",
+          "name": "自由民主党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "自由民主黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "自由民主黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "自由民主党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-sg",
+          "name": "自由民主党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-tw",
+          "name": "自由民主黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Partia Liberalno-Demokratyczna",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "המפלגה הליברלית-דמוקרטית",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "자유민주당",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti libéral-démocrate",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Liberal Democrático",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Liberális Demokrata Párt",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Partito Liberal Democratico",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Liberaaldemokraatlik Partei",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Partai Demokratik Liberal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Liberaldemokratische Partei",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "自由民主党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Đảng Dân chủ Tự do",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Liberalna demokratska partija",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Liberaldemokratiska partiet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "الحزب الليبرالي الديمقراطي الياباني",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Liberaal-Democratische Partij",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Partido Liberal Democrata",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Liberal-Demokrata Partio",
+          "note": "multilingual"
+        },
+        {
+          "lang": "is",
+          "name": "Frjálslyndi lýðræðisflokkurinn",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lzh",
+          "name": "自由民主黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "xmf",
+          "name": "ლიბერალურ-დემოკრატიული პარტია",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Либерально-демократическая партия",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mn",
+          "name": "Японы Либерал Ардчилсан Нам",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Liberal Democratic Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Liberal Demokrat Parti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Partidul Liberal Democrat din Japonia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Japanin liberaalidemokraattinen puolue",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Ліберально-демократична партія Японії",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Liberalis Democratica Factio",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "ლიბერალურ-დემოკრატიული პარტია",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Liberalna demokratska stranka",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Liberalų demokratų partija",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tl",
+          "name": "Partido Liberal Demokratiko ng Hapon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "Liberal Democratic Pairty",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Partit liberal-democrata",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Det liberaldemokratiske parti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Либерално-демократическа партия",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "自由民主党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Либерално-демократска партија",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tt",
+          "name": "Liberal-demokratik firqä",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "حزب لیبرال دموکرات (ژاپن)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "my",
+          "name": "လစ်ဘရယ် ဒီမိုကရက်တစ်ပါတီ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ml",
+          "name": "ലിബെറെൽ ഡെമെക്രാറ്റിക് പാർട്ടി",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "พรรคเสรีประชาธิปไตย",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tg",
+          "name": "Ҳизби либерал-демократ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Liberálně demokratická strana",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hy",
+          "name": "Ճապոնիայի Լիբերալ-դեմոկրատական կուսակցություն",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Φιλελεύθερο Δημοκρατικό Κόμμα της Ιαπωνίας",
+          "note": "multilingual"
+        },
+        {
+          "lang": "az",
+          "name": "Yaponiya Liberal-Demokratlar Partiyası",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nan",
+          "name": "Chū-bîn-tóng",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nan",
+          "name": "Chū-iû-bîn-chú-tóng",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "日本自由民主黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "日本自民黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "日本自民党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "自民黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "日本自由民主党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "המפלגה הליברלית הדמוקרטית",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "המפלגה הליברלית דמוקרטית",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "המפלגה הליברלית דמוקרטית של יפן",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "המפלגה הליברל דמוקרטית",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "일본자민당",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "일본 자민당",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "일본 자유민주당",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti libéral démocrate",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti liberal democrate",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Jiyû Minshutô",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Jiyū Minshuto",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Jimintō",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Liberal Democratico",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Liberal Democrático de Japon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Jimintou",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Jimintô",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Jiyu Minshuto",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Liberal Democrático de Japón",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Jiyu Minshutō",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Jiminto",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Liberal Democratico de Japon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Liberal Democratico de Japón",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Jiyū Minshutō",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Partito liberaldemocratico",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Jiyū-Minshutō",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Partai Demokrat Liberal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "LDP",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Partai Demokrat Liberal Jepang",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Liberaldemokratische Partei Japan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Jiyūminshutō",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Jiminto",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Jimintō",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Jiyuminshuto",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "自民",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "自民党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Đảng Dân chủ Tự do Nhật Bản",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Đảng Tự do Dân chủ Nhật Bản",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Liberalno-demokratska stranka",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Liberalna demokratska stranka",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Japans liberaldemokratiska parti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "الحزب الليبرالي الديمقراطي",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "الحزب الديمقراطي الليبرالي",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Liberale Democratische Partij",
+          "note": "multilingual"
+        },
+        {
+          "lang": "is",
+          "name": "Japanski Frjálslyndi Demókrataflokkurinn",
+          "note": "multilingual"
+        },
+        {
+          "lang": "is",
+          "name": "Frjálslynda lýðræðisflokkurinn",
+          "note": "multilingual"
+        },
+        {
+          "lang": "is",
+          "name": "Frjálslyndi demókrataflokkurinn",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lzh",
+          "name": "自民黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Демократическая партия Японии",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "ЛДПЯ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Либерально-демократическая партия Японии",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Japonya Liberal Demokrat Partisi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Partidul Liberal Democrat",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Partidul Liber Democrat",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Jiyū-Minshūtō",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Ліберал-демократична партія Японії",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "ЛДПЯ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Ліберально-демократична партія",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "LDF",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "ლიბერალ-დემოკრატიული პარტია",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "იაპონიის ლიბერალდემოკრატიული პარტია",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "იაპონიის ლიბერალურ-დემოკრატიული პარტია",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "იაპონიის ლიბერალ-დემოკრატიული პარტია",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Liberalno-demokratska stranka",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Liberalna demokratska stranka Japana",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Japonijos liberalų demokratų partija",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Japonijos liberaldemokratų partija",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Liberaldemokratų partija",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Liberal Democratic Party",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/plptyf",
-      "name": "PLPTYF"
+      "identifiers": [
+        {
+          "identifier": "Q2164308",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://lifeparty.jp/"
+        }
+      ],
+      "name": "PLPTYF",
+      "other_names": [
+        {
+          "lang": "zh-hans",
+          "name": "生活党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "生活黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "生活黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "生活の党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "People's Life Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Seikatsu no Tō",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "生活黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "생활당",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido de la Vida del Pueblo, Tarō Yamamoto y Amigos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "生活の党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Seikatsu no To",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/sdp",
-      "name": "SDP"
+      "identifiers": [
+        {
+          "identifier": "Q835109",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www5.sdp.or.jp"
+        }
+      ],
+      "name": "SDP",
+      "other_names": [
+        {
+          "lang": "pt",
+          "name": "Partido Social Democrata",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hans",
+          "name": "社会民主党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "社會民主黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "社會民主黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "사회민주당",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "parti social-démocrate",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Социал-демократическая партия",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "המפלגה הסוציאל-דמוקרטית",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Social Democratic Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Socialdemócrata",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Japon Sosyal Demokrat Parti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Sosiaalidemokraattinen puolue",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Szociáldemokrata Párt",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Соціал-демократична партія",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Sozialdemokratische Partei",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "社会民主党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Đảng Xã hội Dân chủ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Socialdemokratų partija",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Socialdemokratiska partiet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "الحزب الاشتراكي الديمقراطي الياباني",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Det sosialdemokratiske parti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "حزب سوسیال دموکرات (ژاپن)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "社会民主党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-tw",
+          "name": "社會民主黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "社会民主党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Partai Demokratik Sosial",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Partido Socialista Japonês",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "社會民主黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "日本社会民主党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "日本社民党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "일본 사민당",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "일본 사회민주당",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti social démocrate",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti social-democrate",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Социалистическая партия Японии",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Социал-демократическая партия Японии",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Social Democrata de Japón",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Socialdemocrata",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Socialdemocrata de Japon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Socialdemócrata de Japón",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Social Demócrata de Japón",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Socialdemocrata de Japón",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Social Democrata de Japon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Japanin sosialistinen puolue",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Соціал-демократична партія Японії",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "СДПЯ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Shaminto",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Shamintō",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Sozialdemokratische Partei Japans",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "社民党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "社会民主党・護憲連合",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "社会民主党 (日本 1996-)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Đảng Xã hội Dân chủ Nhật Bản",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Japonijos socialdemokratų partija",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Japans socialdemokratiska parti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "الحزب الاشتراكى الديمقراطي الياباني",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Social Democratic Party of Japan",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "legislature",
