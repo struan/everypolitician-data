@@ -1268,12 +1268,195 @@
     {
       "classification": "party",
       "id": "party/df",
-      "name": "DF"
+      "identifiers": [
+        {
+          "identifier": "Q13231807",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "DF",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Demokratska fronta",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Democratic Front (Bosnia and Herzegovina)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Demokratska fronta",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bs",
+          "name": "Demokratska fronta",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ie",
+          "name": "Democratic Fronte",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Демократски фронт",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Fronte Democratico",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/hdz_bih_-_hrvatski_narodni_sabor",
-      "name": "HDZ BiH - Hrvatski narodni sabor"
+      "identifiers": [
+        {
+          "identifier": "Q16792",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Logo_of_the_HDZ_BiH.svg",
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.hdzbih.org"
+        }
+      ],
+      "name": "HDZ BiH - Hrvatski narodni sabor",
+      "other_names": [
+        {
+          "lang": "fr",
+          "name": "Union démocratique croate de Bosnie et Herzégovine",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Croatian Democratic Union of Bosnia and Herzegovina",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Kroatische Demokratische Union in Bosnien und Herzegowina",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bs",
+          "name": "Hrvatska demokratska zajednica Bosne i Hercegovine",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Unió Democràtica Croata de Bòsnia i Hercegovina",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de-ch",
+          "name": "Kroatische Demokratische Union in Bosnien und Herzegowina",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "Croatian Democratic Union of Bosnia and Herzegovina",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "Croatian Democratic Union of Bosnia and Herzegovina",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Unión Democrática Croata de Bosnia y Herzegovina",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Hrvatska demokratska zajednica Bosne i Hercegovine",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Hrvatska demokratska zajednica Bosne i Hercegovine",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Unione Democratica Croata di Bosnia ed Erzegovina",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "クロアチア民主同盟",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Хорватское демократическое содружество Боснии и Герцеговины",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Hrvatska demokratska zajednica Bosne i Hercegovine",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Хрватска демократска заједница Босне и Херцеговине",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Kroatiska demokratiska unionen i Bosnien och Hercegovina",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Хорватська демократична співдружність Боснії і Герцеговини",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "波黑克罗地亚民主联盟",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Kroatische Democratische Unie van Bosnië en Herzegovina",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "ბოსნიისა და ჰერცეგოვინის ხორვატების დემოკრატიული გაერთიანება",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Hrvatska demokratska zajednica Bosne i Hercegovine",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Hrvatska Demokratska Zajednica Bosne i Hercegovine",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Kroatisk demokratisk union i Bosnia og Hercegovina",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "HDZBiH",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "legislature",
@@ -1290,27 +1473,942 @@
     {
       "classification": "party",
       "id": "party/sbbbih",
-      "name": "SBBBiH"
+      "identifiers": [
+        {
+          "identifier": "Q3612403",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.sbbbh.ba/"
+        }
+      ],
+      "name": "SBBBiH",
+      "other_names": [
+        {
+          "lang": "sr",
+          "name": "Савез за бољу будућност Босне и Херцеговине",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Union for a Better Future of BiH",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Alleanza per un Futuro Migliore della Bosnia ed Erzegovina",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Savez za bolju budućnost Bosne i Hercegovine",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Savez za bolju budućnost Bosne i Hercegovine",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bs",
+          "name": "Savez za bolju budućnost Bosne i Hercegovine",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Союз за краще майбутнє Боснії і Герцеговини",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ie",
+          "name": "Alliantie por un Melior Futur de Bosnia e Herzegovina",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Union for a Better Future of BiH",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Alleanza per un Futuro Migliore della Bosnia-Erzegovina",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "SBB BiH",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/sda",
-      "name": "SDA"
+      "identifiers": [
+        {
+          "identifier": "Q1132677",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.sda.ba"
+        }
+      ],
+      "name": "SDA",
+      "other_names": [
+        {
+          "lang": "pl",
+          "name": "Partia Akcji Demokratycznej",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti d'action démocratique",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bs",
+          "name": "Stranka demokratske akcije",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Партия демократического действия",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "מפלגת הפעולה הדמוקרטית",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido de Acción Democrática",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-el",
+          "name": "Stranka demokratske akcije",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-ec",
+          "name": "Странка демократске акције",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Party of Democratic Action",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Partit d'Acció Democràtica",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Stranka demokratske akcije",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Партія демократичної дії",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Partito d'Azione Democratica",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Partei der demokratischen Aktion",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "民主行動党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Stranka demokratske akcije",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Stranka demokratske akcije",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Partiet för demokratisk aktion",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Partij voor Democratische Actie",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Странка демократске акције",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ie",
+          "name": "Partise del Democratic Action",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "حزب العمل الديمقراطي",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "დემოკრატიული მოქმედების პარტია",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Partiet for demokratisk aksjon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti d'action democratique",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bs",
+          "name": "SDA",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido de Accion Democrática",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido de Acción Democratica",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido de Accion Democratica",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Partito dell'Azione Democratica",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Stranka demokratske akcije",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Stranka Demokratske Akcije",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "SDA",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "SDA",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "SDA",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Stranka demokratske akcije",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/sdpbih",
-      "name": "SDPBiH"
+      "identifiers": [
+        {
+          "identifier": "Q1143161",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.sdp.ba"
+        }
+      ],
+      "name": "SDPBiH",
+      "other_names": [
+        {
+          "lang": "fr",
+          "name": "parti social-démocrate",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Социал-демократическая партия Боснии и Герцеговины",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "המפלגה הסוציאל-דמוקרטית של בוסניה והרצגובינה",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bs",
+          "name": "Socijaldemokratska partija Bosne i Hercegovine",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Socialdemócrata de Bosnia y Herzegovina",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-el",
+          "name": "Socijaldemokratska partija Bosne i Hercegovine",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-ec",
+          "name": "Социјалдемократска партија Босне и Херцеговине",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Social Democratic Party of Bosnia and Herzegovina",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Partit Socialdemòcrata de Bòsnia i Hercegovina",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Socijaldemokratska partija Bosne i Hercegovine",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Det sosialdemokratiske partiet i Bosnia og Herzegovina - Sosialdemokratane",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Социалдемократическа партия на Босна и Херцеговина",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Socijaldemokratska partija Bosne i Hercegovine",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Socijaldemokratska partija Bosne i Hercegovine",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Bosnijos ir Hercegovinos socialdemokratų partija",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Socialdemokratiska partiet i Bosnien och Hercegovina",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Социјалдемократска партија Босне и Херцеговине",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Partito Social Democratico della Bosnia ed Erzegovina",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Bosnia ja Hertsegovinan sosiaalidemokraattinen puolue",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Socijaldemokratska partija Bosne i Hercegovine",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ボスニア・ヘルツェゴビナ社会民主党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Socjaldemokratyczna Partia Bośni i Hercegowiny",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Соціал-демократична партія Боснії і Герцеговини",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ie",
+          "name": "Socialdemocratic Partise de Bosnia e Herzegovina",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Σοσιαλιστικό Δημοκρατικό Κόμμα της Βοσνίας Ερζεγοβίνης",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "波士尼亞與赫塞哥維納社會民主黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Social Democratic Party of Bosnia and Herzegovina",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti social-democrate",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "המפלגה הסוציל-דמוקרטית של בוסניה והרצגובינה",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bs",
+          "name": "SDP BIH",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bs",
+          "name": "Socijaldemokratska Partija BiH",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Socialdemocrata de Bosnia y Herzegovina",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Социјалдемократска партија БиХ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "СДП БиХ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Socijaldemokratska Partija BiH",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "SDP BiH",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Sozialdemokratische Partei von Bosnien und Herzegowina",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Det sosialdemokratiske partiet i Bosnia og Herzegovina",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Socijaldemokratska partija BiH",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "SDP BiH",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "SDPBiH",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "SDP BiH",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Socijaldemokratska partija Bosne i Hercegovine",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/sds",
-      "name": "SDS"
+      "identifiers": [
+        {
+          "identifier": "Q1164533",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.sdsrs.com/"
+        }
+      ],
+      "name": "SDS",
+      "other_names": [
+        {
+          "lang": "ru",
+          "name": "Сербская демократическая партия",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bs",
+          "name": "Srpska demokratska stranka",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti démocratique serbe",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "המפלגה הדמוקרטית הסרבית",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Serbian Democratic Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-el",
+          "name": "Srpska demokratska stranka",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-ec",
+          "name": "Српска демократска странка",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Democrático Serbio",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Partit Democràtic Serbi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Сербська демократична партія",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Partito Democratico Serbo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Srpska Demokratska Stranka",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "セルビア民主党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Srpska demokratska stranka",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Сръбска демократическа партия",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Srpska demokratska stranka",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Srpska demokratska stranka",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Srpska Demokratska Stranka",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Српска демократска странка",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "塞族民主党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Σερβικό Δημοκρατικό Κόμμα",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Det serbiske demokratiske parti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Serbian Democratic Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bs",
+          "name": "SDS",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Српска демократска сранка",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Democratico Serbio",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Srpska demokratska stranka",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Serbische Demokratische Partei",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Stranka Demokratska Srpska",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Srbská demokratická strana",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "SDS BiH",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "SDS",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Srpska demokratska stranka BiH",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "SDS",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Srpska demokratska stranka BiH",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/snsd",
-      "name": "SNSD"
+      "identifiers": [
+        {
+          "identifier": "Q1258283",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.snsd.org/"
+        }
+      ],
+      "name": "SNSD",
+      "other_names": [
+        {
+          "lang": "ru",
+          "name": "Союз независимых социал-демократов",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bs",
+          "name": "Savez nezavisnih socijaldemokrata",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Alliance des sociaux-démocrates indépendants",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-el",
+          "name": "Savez nezavisnih socijaldemokrata",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-ec",
+          "name": "Савез независних социјалдемократа",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Alliance of Independent Social Democrats",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Alianza de Socialdemócratas Independientes",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Aliança dels Socialdemòcrates Independents",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Союз незалежних соціал-демократів",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Alleanza dei Social Democratici Indipendenti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Savez nezavisnih socijaldemokrata",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "独立社会民主同盟",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Съюз на независимите социалдемократи",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Savez nezavisnih socijaldemokrata Republike Srpske",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Savez nezavisnih socijaldemokrata",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Alliansen av Oberoende socialdemokrater",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "독립사회민주연대",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "دختران جنراتور",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Савез независних социјалдемократа",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "独立社会民主联盟",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "დამოუკიდებელი სოციალ-დემოკრატების კავშირი",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "Сојуз на независните социјалдемократи",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Alliansen av uavhengige sosialdemokrater",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Savez nezavisnih socijaldemokrata",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bs",
+          "name": "SNSD",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Alliance des sociaux-democrates independants",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "СНСД",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Странка независних социјалдемократа",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Савез независних социјал-демократа",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Савез независних социјалдемократа Републике Српске",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Alianza de Socialdemocratas Independientes",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Savez nezavisnih socijaldemokrata",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "SNSD",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Alleanza degli Indipendenti Socialdemocratici",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Partito dei Social Democratici Indipendenti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "SNSD",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Savez nacionalnih socijaldemokrata",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Allianz der Unabhängigen Sozialdemokraten",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Stranka nezavisnih socijaldemokrata",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Bund der Unabhängigen Sozialdemokraten",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Savez nezavisnih socijaldemokrata",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "SNSD",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "SNSD",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Savez nezavisnih socijaldemokrata",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
