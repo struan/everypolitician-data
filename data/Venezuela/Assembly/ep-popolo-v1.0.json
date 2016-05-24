@@ -7992,12 +7992,324 @@
     {
       "classification": "party",
       "id": "13",
-      "name": "ABP"
+      "identifiers": [
+        {
+          "identifier": "Q5439493",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "ABP",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Fearless People's Alliance",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "बहादुर जनताको गठबन्धन",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Alianza Bravo Pueblo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Альянс смелых людей",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Alianza Bravo Pueblo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Alianza Bravo Pueblo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "ABP",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "8",
-      "name": "AD"
+      "identifiers": [
+        {
+          "identifier": "Q339183",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.acciondemocratica.org.ve/"
+        }
+      ],
+      "name": "AD",
+      "other_names": [
+        {
+          "lang": "fr",
+          "name": "Action démocratique (Venezuela)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Democratic Action",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Democratische Actie",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Ação Democrática",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Acción Democrática",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Acción Democrática",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "प्रजातान्त्रिक कार्यबाही",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Acción Democrática",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Venesuelos demokratinis veikimas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Azione Democratica",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bn",
+          "name": "আক্‌সিওন দেমোক্রাতিকা",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Acción Democrática",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Acción Democrática",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Acción Democrática",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Демократична дія (Венесуела)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "민주행동당",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Acción Democrática",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Демократическое действие",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Action Démocratique (Venezuela)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Acción Democrática",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Action démocratique (venezuela)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Action democratique (Venezuela)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Accion Democrática",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Accion Democratica",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Acción democrática",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Acción Democrática",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Ação democrática",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Acción Democratica",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Partido de Ação Democrática",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bn",
+          "name": "Democratic Action",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bn",
+          "name": "Acción Democrática",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bn",
+          "name": "Democratic Action (Venezuela)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bn",
+          "name": "Accion Democratica",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bn",
+          "name": "Acción Democrática (Venezuela)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bn",
+          "name": "Accion Democratica (Venezuela)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bn",
+          "name": "Partido Democrático Nacional",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bn",
+          "name": "National Democratic Party (Venezuela)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Acción Democratica",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Accion Democratica",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Azione Democratica (Venezuela)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Acción Democrática",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Acció Democràtica",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Acción Democrática (Venezuela)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Accion Democratica",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Accion democratica",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Accion democratica (venezuela)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Accion Democratica (Venezuela)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Acción Democratica",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Accion Democrática",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Acción Democratica (Venezuela)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Accion Democrática (Venezuela)",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
@@ -8007,12 +8319,312 @@
     {
       "classification": "party",
       "id": "15",
-      "name": "CONVERGENCIA"
+      "identifiers": [
+        {
+          "identifier": "Q388554",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/42/Logo_Convergencia.png",
+      "links": [
+        {
+          "note": "website",
+          "url": "http://web.archive.org/web/http://www.convergencia.org.ve/"
+        }
+      ],
+      "name": "CONVERGENCIA",
+      "other_names": [
+        {
+          "lang": "es",
+          "name": "Convergencia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "National Convergence",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "राष्ट्रिय अभिसरण",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Convergencia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Національна конвергенція",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Convergència (Veneçuela)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Конвергенция (Венесуэла)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Convergència (Venezuela)",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "7",
-      "name": "COPEI"
+      "identifiers": [
+        {
+          "identifier": "Q1114939",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/53/COPEI.svg",
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.partidocopei.net"
+        }
+      ],
+      "name": "COPEI",
+      "other_names": [
+        {
+          "lang": "fr",
+          "name": "Comité d'organisation politique électorale indépendante",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Partido Centro Libertad",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Copei",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Comitê de Organização Política Eleitoral Independente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Comitè Organitzat de Participació Político Electoral Independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "COPEI",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "COPEI",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Copei",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "КОПЕІ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "기독사회당",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Социал-христианская партия",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "Partido Centro Libertad",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "COPEI",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Comité d'organisation politique électorale indépendante (venezuela)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Comite d'organisation politique electorale independante (Venezuela)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Comité d'organisation politique électorale indépendante (Venezuela)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Partido Social Cristiano de Venezuela",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "COPEI",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "COPEI-Sociaal-Christelijke Partij van Venezuela",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Copei",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "COPEI",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Partido Social Cristiano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Comité de Organización Política Electoral Independiente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "COPEI",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Comité Organizado de Participación Político Electoral Independiente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "COPEI (Venezuela)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Copei",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "COPEI",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Comite de Organizacion Politica Electoral Independiente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Comité de Organización Política Electoral Independiente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "COPEI (Comité de Organización Política Electoral Independiente)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "COPEI (Comite de Organizacion Politica Electoral Independiente)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "COPEI (Comite de Organización Política Electoral Independiente)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "COPEI (Comité de Organización Politica Electoral Independiente)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "COPEI (Comité de Organizacion Política Electoral Independiente)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "COPEI (Comite de Organización Politica Electoral Independiente)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "COPEI (Comite de Organizacion Política Electoral Independiente)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "COPEI (Comité de Organizacion Politica Electoral Independiente)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Comite de Organización Política Electoral Independiente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Comité de Organización Politica Electoral Independiente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Comité de Organizacion Política Electoral Independiente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Comite de Organización Politica Electoral Independiente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Comite de Organizacion Política Electoral Independiente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Comité de Organizacion Politica Electoral Independiente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Copei",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "COPEI",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
@@ -8022,22 +8634,813 @@
     {
       "classification": "party",
       "id": "4",
-      "name": "INDEPENDIENTE"
+      "identifiers": [
+        {
+          "identifier": "Q327591",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "INDEPENDIENTE",
+      "other_names": [
+        {
+          "lang": "zh-hans",
+          "name": "无党籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "無黨籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "無黨籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "无党籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-sg",
+          "name": "无党籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-tw",
+          "name": "無黨籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Sans étiquette",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "무소속",
+          "note": "multilingual"
+        },
+        {
+          "lang": "arz",
+          "name": "سياسى مستقل",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidato independiente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "சுயேட்சை",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Parteiloser",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Independen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "無所属",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "ανεξάρτητος",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "independent politician",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yue",
+          "name": "獨立人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "onafhankelijk politicus",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Partilös",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "سياسي مستقل",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "político sem partido",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "беспартийный",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mn",
+          "name": "Бие даагч",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-ec",
+          "name": "независни политичар",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Bağımsız siyasetçi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "politician independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Sitoutumaton",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Annibynnwr",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ur",
+          "name": "آزاد",
+          "note": "multilingual"
+        },
+        {
+          "lang": "az",
+          "name": "Partiyasız",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "løsgænger",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "無黨籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "независни политичар",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "کنشگر سیاسی مستقل",
+          "note": "multilingual"
+        },
+        {
+          "lang": "war",
+          "name": "Independente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-el",
+          "name": "nezavisni političar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "indipendente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be",
+          "name": "Беспартыйны",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "polityk niezrzeszony",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mr",
+          "name": "अपक्ष",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be-tarask",
+          "name": "Беспартыйны",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "פוליטיקאי עצמאי",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "partiløs",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "nezávislý",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "független politikus",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Sendependa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hi",
+          "name": "निर्दलीय",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Nezavisni",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "independent politeecian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Nezávislý politik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hak",
+          "name": "Mò-tóng-sit",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "นักการเมืองอิสระ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Незалежний політик",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sd",
+          "name": "آزاد",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Politicus nullius factionis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "無黨派",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "无党派人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "獨立人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "獨立候選人",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Sans etiquette",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Indépendant",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Non-inscrits",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Non-inscrit",
+          "note": "multilingual"
+        },
+        {
+          "lang": "arz",
+          "name": "Independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidato civico",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Movimientos cívicos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Independientes",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidatos cívicos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidato Cívico",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidatura independiente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Movimiento Cívico",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidatura cívica",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidata cívica",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "சுயேச்சை",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Unabhängiger",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "freier Abgeordneter",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Politikus independen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "無所属議員",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "onafhankelijke",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "partijloos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "partijloze",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "partijlozen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Vänstervilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Liberal vilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Moderat vilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Politiska vildar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Obunden",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Politisk vilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Frisinnad vilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Högervilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "سياسيون مستقلون",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Sem partido",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Político independente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Candidato independente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Bağımsız Politikacı",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Serbest siyasetçi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Politicieni independenţi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Politicieni independenți",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Gwleidydd annibynnol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Annibynnol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Annibynol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Uden for partierne",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Frigænger",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Udenfor partierne",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Uafhængig",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Partiløs",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "nonpartisan politician",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "candidato indipendente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "politico indipendente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be-tarask",
+          "name": "Беспартыйны палітык",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "uavhengig",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "bezpartajní",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "bez stranické příslušnosti",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "10",
-      "name": "LCR"
+      "identifiers": [
+        {
+          "identifier": "Q506107",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/48/La_Causa_Radical_Logo.png",
+      "links": [
+        {
+          "note": "website",
+          "url": "http://lacausarbolivar.com/"
+        }
+      ],
+      "name": "LCR",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "La Causa Radical",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "La Causa Radical",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Radical Cause",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "La Causa Radical",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Causa Radicale",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Радикальная причина",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Radical Cause",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "La Causa R",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "La Causa R",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Causa Radical",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Causa R",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "La Causa R",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "21",
-      "name": "MUD"
+      "identifiers": [
+        {
+          "identifier": "Q1629486",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.unidadvenezuela.org/"
+        }
+      ],
+      "name": "MUD",
+      "other_names": [
+        {
+          "lang": "cs",
+          "name": "Mesa de la Unidad Democrática",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Democratic Unity Roundtable",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Unidad Nacional",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Unità Nazionale",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Mesa da Unidade Democrática",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "table de l'unité démocratique",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Mesa de la Unidad Democrática",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "민주연합 원탁회의",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "Тркалезна маса за демократско единство",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Круглый стол демократического единства",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Liên minh bàn tròn Thống nhất Dân chủ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "民主團結圓桌會議",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "民主統一会議",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Democratic Unity Roundtable",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "民主團結平臺",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "民主团结平台",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Acuerdo de unidad nacional",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Mesa de la Unidad",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Mesa de la Unidad Democrática",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "18",
-      "name": "Movimiento Progresista de Venezuela"
+      "identifiers": [
+        {
+          "identifier": "Q6025217",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://movimientoprogresista.org.ve/"
+        }
+      ],
+      "name": "Movimiento Progresista de Venezuela",
+      "other_names": [
+        {
+          "lang": "es",
+          "name": "Movimiento Progresista de Venezuela",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "legislature",
@@ -8054,27 +9457,889 @@
     {
       "classification": "party",
       "id": "2",
-      "name": "PCV"
+      "identifiers": [
+        {
+          "identifier": "Q847914",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.pcv-venezuela.org/"
+        }
+      ],
+      "name": "PCV",
+      "other_names": [
+        {
+          "lang": "hi",
+          "name": "वेनेज़ुएला की कम्युनिस्ट पार्टी",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Partido Comunista da Venezuela",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pms",
+          "name": "PCV",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Komunistyczna Partia Wenezueli",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti communiste du Venezuela",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Коммунистическая партия Венесуэлы",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Comunista de Venezuela",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Communist Party of Venezuela",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Venezuela Komünist Partisi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "வெனீசூலா கம்யூனிஸ்ட் கட்சி",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Partidul Comunist al Venezuelei",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Venezuelan kommunistinen puolue",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Partido Comunista de Venezuela",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Partai Komunis Venezuela",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ベネズエラ共産党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bn",
+          "name": "ভেনেজুয়েলার কমিউনিস্ট পার্টি",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "حزب کمونیست ونزوئلا",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "भेनेजुएला कम्युनिष्ट पार्टी",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tl",
+          "name": "Partido Komunista ng Venezuela",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "الحزب الشيوعي الفنزويلي",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Venezuelas Kommunistiske Parti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Communistische Partij van Venezuela",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Partito Comunista del Venezuela",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Комуністична партія Венесуели",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Комунистичка партија Венецуеле",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "委內瑞拉共產黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Partit Comunista de Veneçuela",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "베네수엘라 공산당",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hi",
+          "name": "PCV",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "PCV",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Komunistyczna Partia Wenezuela",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti Communiste vénézuélien",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "КП Венесуэллы",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Venezuela Komünist Parti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Partidul Comunist al Venezuela",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Kommunistische Partei Venezuelas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bn",
+          "name": "Communist Party of Venezuela",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bn",
+          "name": "Partido Comunista de Venezuela",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bn",
+          "name": "Venezuelan Communist Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "PCV",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "वेनेस़ुएला कम्युनिष्ट पार्टी",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "حزب شيوعي فنزويلا",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "حزب فنزويلا الشيوعي",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Partit Comunista de Venezuela",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "PCV",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "5",
-      "name": "PJ"
+      "identifiers": [
+        {
+          "identifier": "Q8794",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Emblema_Primero_Justicia.svg",
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.primerojusticia.org.ve/"
+        }
+      ],
+      "name": "PJ",
+      "other_names": [
+        {
+          "lang": "fr",
+          "name": "Primero Justicia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Justice First",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Primero Justicia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Primer Justícia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "Justice First",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "Justice First",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Primero Justicia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Primero Justicia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Prima la Giustizia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "न्याय प्रथम",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Rechtvaardigheid Eerst",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Primeira Justiça",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt-br",
+          "name": "Primeira Justiça",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Primero Justicia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "正义第一党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "정의제일당",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "正義第一党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Сначала справедливость",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Primero Justicia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Primero Justicia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Първо справедливост",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "Primero Justicia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ast",
+          "name": "Primero Xusticia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "an",
+          "name": "Primero Justicia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Justice First Movement",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "1",
-      "name": "PSUV"
+      "identifiers": [
+        {
+          "identifier": "Q197864",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.psuv.org.ve"
+        }
+      ],
+      "name": "PSUV",
+      "other_names": [
+        {
+          "lang": "pt",
+          "name": "Partido Socialista Unido da Venezuela",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hans",
+          "name": "委内瑞拉社会主义统一党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "委內瑞拉社會主義統一黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "委內瑞拉社會主義統一黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "委内瑞拉社会主义统一党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-sg",
+          "name": "委内瑞拉社会主义统一党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-tw",
+          "name": "委內瑞拉社會主義統一黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Zjednoczona Partia Socjalistyczna Wenezueli",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti socialiste unifié du Venezuela",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Единая социалистическая партия Венесуэлы",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Socialista Unido de Venezuela",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "United Socialist Party of Venezuela",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-el",
+          "name": "Ujedinjena socijalistička partija Venecuele",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-ec",
+          "name": "Уједињена социјалистичка партија Венецуеле",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Venezuela Birleşik Sosyalist Partisi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Partito Socialista Unito del Venezuela",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Vereinigte Sozialistische Partei Venezuelas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ベネズエラ統一社会党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "os",
+          "name": "Венесуэлæйы иугонд социалистон парти",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Обединена социалистическа партия на Венецуела",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Venezuelas Socialistiske Enhedsparti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Verenigde Socialistische Partij van Venezuela",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be",
+          "name": "Адзіная сацыялістычная партыя Венесуэлы",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "委内瑞拉社会主义统一党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Đảng Xã hội Chủ nghĩa Thống nhất Venezuela",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Partido Socialista Unido de Venezuela",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Venezuelas förenade socialistiska parti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "الحزب الاشتراكي الموحد الفنزويلي",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Об'єднана соціалістична партія Венесуели",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Уједињена социјалистичка партија Венецуеле",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Venezuelan yhdistynyt sosialistinen puolue",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Partit Socialista Unit de Veneçuela",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "베네수엘라 연합사회당",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "Venezuelako Alderdi Sozialista Batua",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Partido Socialista Unificado Venezuelano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Partido Socialista Unido de Venezuela",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "PSUV",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "委内瑞拉统一社会主义党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Zjednoczona Socjalistyczna Partia Wenezueli",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti socialiste unifie du Venezuela",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "PSUV",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Объединенная социалистическая партия Венесуэлы",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "PSUVE",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "PASUV",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Psuv",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Socialista Unido",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "PSUV",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "PSUV",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Partito Socialista Unito di Venezuela",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "PSUV",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Sozialistische Einheitspartei Venezuelas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "PSUV",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "PSUV",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Verenigde Socialistische Partij Venezuela",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "9",
-      "name": "PV"
+      "identifiers": [
+        {
+          "identifier": "Q3179082",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Sol_Venezuela_Proyect_No1.svg",
+      "links": [
+        {
+          "note": "website",
+          "url": "http://proyectovenezuela.com/wppv/"
+        }
+      ],
+      "name": "PV",
+      "other_names": [
+        {
+          "lang": "pt",
+          "name": "Projeto Venezuela",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Projet Venezuela",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "योजना भेनेजुएला",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Proyecto Venezuela",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Project Venezuela",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "مشروع فنزويلا",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Progetto Venezuela",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "委内瑞拉计划党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Проект Венесуэла",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Project Venezuela",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "Proyecto Venezuela",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "6",
-      "name": "UNT"
+      "identifiers": [
+        {
+          "identifier": "Q1641259",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.partidounnuevotiempo.org"
+        }
+      ],
+      "name": "UNT",
+      "other_names": [
+        {
+          "lang": "gl",
+          "name": "Un Novo Tempo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Um Novo Tempo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Un Nuevo Tiempo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Un Nuevo Tiempo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Un nouveau temps",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ast",
+          "name": "Un Nuevo Tiempo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "A New Era",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Un Nuevo Tiempo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Un Nou Temps",
+          "note": "multilingual"
+        },
+        {
+          "lang": "an",
+          "name": "Un Nuevo Tiempo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Un Nuovo Tempo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "새 시대",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Новое время",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "A New Era",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Un Nuevo Tiempo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Hoje é um novo dia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "A Festa é Sua",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Un nuevo tiempo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Un Nuevo Tiempo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Un Nuevo Tiempo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Un Nuevo Tiempo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "an",
+          "name": "Un Nuebo Tiempo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Un Nuevo Tiempo",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
