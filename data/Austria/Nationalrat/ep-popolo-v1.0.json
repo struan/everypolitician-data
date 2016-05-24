@@ -17533,6 +17533,14 @@
         {
           "identifier": "PAD_83130",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "83130",
+          "scheme": "parlaments_at"
+        },
+        {
+          "identifier": "Q23929155",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parlament.gv.at/WWER/PAD_83130/4387429_180.jpg",
@@ -17541,7 +17549,30 @@
           "url": "http://www.parlament.gv.at/WWER/PAD_83130/4387429_180.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Walter_Rauch_(FPÖ)"
+        }
+      ],
       "name": "Walter Rauch",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Walter Rauch",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Walter Rauch",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Walter Rauch",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.parlament.gv.at/WWER/PAD_83130/index.shtml"
