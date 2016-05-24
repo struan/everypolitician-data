@@ -1887,42 +1887,347 @@
     {
       "classification": "party",
       "id": "party/abc",
-      "name": "ABC"
+      "identifiers": [
+        {
+          "identifier": "Q1346132",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "ABC",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "All Basotho Convention",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "全バソト会議",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Общобасотски конвент",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "All Basotho Convention",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "All Basotho Convention",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "全巴蘇陀大會黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "全巴索托大会党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "全巴索托大會黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "全巴苏陀大会党",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/bcp",
-      "name": "BCP"
+      "identifiers": [
+        {
+          "identifier": "Q512488",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "BCP",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Basotho Congress Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Basutoland Congress Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Basotho Congress Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "巴蘇陀蘭大會黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "巴苏陀兰大会党",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/bnp",
-      "name": "BNP"
+      "identifiers": [
+        {
+          "identifier": "Q304032",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "BNP",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Basotho National Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "الحزب الوطني الباسوتي",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Basotho National Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "バソト国民党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Basotho National Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Basotho National Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "巴蘇陀蘭國民黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "巴索托国民党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "巴索托國民黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "巴苏陀兰国民党",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/dc",
-      "name": "DC"
+      "identifiers": [
+        {
+          "identifier": "Q1185836",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "DC",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Democratic Congress",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Democratic Congress",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Демократичен конгрес",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/lcd",
-      "name": "LCD"
+      "identifiers": [
+        {
+          "identifier": "Q939391",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.lcd2012.org.ls/"
+        }
+      ],
+      "name": "LCD",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Lesotho Congress for Democracy",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Лесотски конгрес за демокрация",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Lesotho Congress for Democracy",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Lesotho Vabaduskongress",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Congrès du Lesotho pour la démocratie",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "レソト民主会議",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Lesotho Congress for Democracy",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Congresul pentru Democrație din Lesotho",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "萊索托民主大會黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "莱索托民主大会党",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/lpc",
-      "name": "LPC"
+      "identifiers": [
+        {
+          "identifier": "Q19289142",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "LPC",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Lesotho People’s Congress",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Lesotho Peoples' Congress",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/mfp",
-      "name": "MFP"
+      "identifiers": [
+        {
+          "identifier": "Q1314792",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "MFP",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Marematlou Freedom Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Marematlou Freedom Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "マレマトロウ自由党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Marematlou Freedom Party",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/nip",
-      "name": "NIP"
+      "identifiers": [
+        {
+          "identifier": "Q6973497",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "NIP",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "National Independent Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "National Independent Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "民族獨立黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "民族独立党",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "legislature",
@@ -1939,12 +2244,43 @@
     {
       "classification": "party",
       "id": "party/pfd",
-      "name": "PFD"
+      "identifiers": [
+        {
+          "identifier": "Q2104299",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "PFD",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Popular Front for Democracy",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Popular Front for Democracy",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/rcl",
-      "name": "RCL"
+      "identifiers": [
+        {
+          "identifier": "Q24233197",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "RCL",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Reformed Congress of Lesotho",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
