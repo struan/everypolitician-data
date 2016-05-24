@@ -855,6 +855,7 @@
       ]
     },
     {
+      "birth_date": "1976-07-13",
       "contact_details": [
         {
           "type": "email",
@@ -870,6 +871,9 @@
         }
       ],
       "email": "garychk@dab.org.hk",
+      "family_name": "Chen",
+      "gender": "male",
+      "given_name": "Gary",
       "honorific_prefix": "Hon",
       "honorific_suffix": "JP",
       "id": "70e60cf6-048f-4323-b61d-2cc282bf4332",
@@ -877,6 +881,10 @@
         {
           "identifier": "chk",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q5524836",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.legco.gov.hk/images/mem_1216/chk.jpg",
@@ -885,7 +893,62 @@
           "url": "http://www.legco.gov.hk/images/mem_1216/chk.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Gary_Chan"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/陳克勤"
+        },
+        {
+          "note": "Wikipedia (zh_yue)",
+          "url": "https://zh_yue.wikipedia.org/wiki/陳克勤"
+        }
+      ],
       "name": "CHAN Hak-kan",
+      "other_names": [
+        {
+          "name": "Gary Chan",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Gary Chan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Gary Chan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Gary Chan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Gary Chan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Gary Chan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yue",
+          "name": "陳克勤",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "陳克勤",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.legco.gov.hk/general/english/members/yr12-16/chk.htm"
@@ -1475,6 +1538,7 @@
       ]
     },
     {
+      "birth_date": "1964-11-04",
       "contact_details": [
         {
           "type": "email",
@@ -1490,12 +1554,18 @@
         }
       ],
       "email": "info@felixchunghk.com",
+      "gender": "male",
+      "given_name": "Felix",
       "honorific_prefix": "Hon",
       "id": "a56b24f4-d072-48b2-acef-ce4e8f440bdd",
       "identifiers": [
         {
           "identifier": "ckpf",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q13634462",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.legco.gov.hk/images/mem_1216/ckpf.jpg",
@@ -1506,11 +1576,69 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Felix_Chung"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/鍾國斌"
+        },
+        {
+          "note": "Wikipedia (zh_yue)",
+          "url": "https://zh_yue.wikipedia.org/wiki/鍾國斌"
+        },
+        {
           "note": "website",
           "url": "http://www.felixchunghk.com"
         }
       ],
       "name": "CHUNG Kwok-pan",
+      "other_names": [
+        {
+          "name": "Felix Chung",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Felix Chung",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Felix Chung",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Felix Chung",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Felix Chung",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Felix Chung",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Felix Chung",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yue",
+          "name": "鍾國斌",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "鍾國斌",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.legco.gov.hk/general/english/members/yr12-16/ckpf.htm"
