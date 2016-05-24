@@ -6282,6 +6282,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "ff10e1c4-ee3a-43eb-a136-a07a9af9c701",
       "identifiers": [
         {
@@ -10885,7 +10886,7 @@
         },
         {
           "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Jamie_McGrigor"
+          "url": "https://en.wikipedia.org/wiki/Sir_Jamie_McGrigor,_6th_Baronet"
         }
       ],
       "name": "Jamie McGrigor",
@@ -27590,15 +27591,6 @@
       "role": "member"
     },
     {
-      "area_id": "uk.org.publicwhip/cons/10716",
-      "legislative_period_id": "term/5",
-      "on_behalf_of_id": "conservative",
-      "organization_id": "legislature",
-      "person_id": "8de5b986-89e1-4d44-ac8e-dedfcb7f91ab",
-      "role": "member",
-      "start_date": "2016-05-07"
-    },
-    {
       "area_id": "uk.org.publicwhip/cons/10822",
       "legislative_period_id": "term/5",
       "on_behalf_of_id": "scottish-national-party",
@@ -27987,6 +27979,15 @@
       "organization_id": "legislature",
       "person_id": "9edc5760-89d5-4309-83ed-05e7a2411946",
       "role": "member"
+    },
+    {
+      "area_id": "uk.org.publicwhip/cons/10716",
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "conservative",
+      "organization_id": "legislature",
+      "person_id": "9edc5760-89d5-4309-83ed-05e7a2411946",
+      "role": "member",
+      "start_date": "2016-05-07"
     },
     {
       "area_id": "uk.org.publicwhip/cons/10808",
