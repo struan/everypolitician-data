@@ -124,10 +124,10 @@ end
 class ElectionLookup < WikidataLookup
 
   # We don't have the normal id => uuid Hash here, 
-  # but rather instructions for a WDQ lookup
+  # but rather instructions for a Wikidata SPARQL lookup
   def initialize(instructions)
     q = "SELECT ?item WHERE { ?item wdt:P31 wd:#{instructions[:base]} . }"
-    ids = wdq(q)
+    ids = wikidata_sparql(q)
     @wikidata_id_lookup = Hash[ ids.map { |id| [id, id] } ]
   end
 
@@ -148,10 +148,10 @@ class ElectionLookup < WikidataLookup
   end
 
   private
-  WDQ_URL = 'https://query.wikidata.org/sparql'
+  WIKIDATA_SPARQL_URL = 'https://query.wikidata.org/sparql'
 
-  def wdq(query)
-    result = RestClient.get WDQ_URL, params: { query: query, format: 'json' }
+  def wikidata_sparql(query)
+    result = RestClient.get WIKIDATA_SPARQL_URL, params: { query: query, format: 'json' }
     json = JSON.parse(result, symbolize_names: true)
     json[:results][:bindings].map { |res| res[:item][:value].split('/').last }
   rescue RestClient::Exception => e
