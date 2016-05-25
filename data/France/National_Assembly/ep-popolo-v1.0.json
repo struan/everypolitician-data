@@ -5,6 +5,12 @@
   "persons": [
     {
       "birth_date": "1954-02-19",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "alainballay"
+        }
+      ],
       "family_name": "Ballay",
       "gender": "male",
       "given_name": "Alain",
@@ -13,6 +19,10 @@
         {
           "identifier": "642699",
           "scheme": "assemblee_nationale"
+        },
+        {
+          "identifier": "Q23001641",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www2.assemblee-nationale.fr/static/tribun/14/photos/642699.jpg",
@@ -23,11 +33,36 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Alain_Ballay"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/alainballay"
+        },
+        {
           "note": "website",
           "url": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA642699"
         }
       ],
       "name": "Alain Ballay",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Alain Ballay",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Alain Ballay",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Alain Ballay",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.nosdeputes.fr/alain-ballay/json"
@@ -34937,6 +34972,10 @@
         {
           "identifier": "642965",
           "scheme": "assemblee_nationale"
+        },
+        {
+          "identifier": "Q22687825",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www2.assemblee-nationale.fr/static/tribun/14/photos/642965.jpg",
@@ -34947,11 +34986,42 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Jacques_Dellerie"
+        },
+        {
           "note": "website",
           "url": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA642965"
         }
       ],
       "name": "Jacques Dellerie",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Jacques Dellerie",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Jacques Dellerie",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Jacques Dellerie",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Jacques Dellerie",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Jacques Dellerie",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.nosdeputes.fr/jacques-dellerie/json"
@@ -70886,6 +70956,10 @@
         {
           "identifier": "643157",
           "scheme": "assemblee_nationale"
+        },
+        {
+          "identifier": "Q22683833",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www2.assemblee-nationale.fr/static/tribun/14/photos/643157.jpg",
@@ -70896,11 +70970,36 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Philippe_Naillet"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/philippe.naillet"
+        },
+        {
           "note": "website",
           "url": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA643157"
         }
       ],
       "name": "Philippe Naillet",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Philippe Naillet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Philippe Naillet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Philippe Naillet",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.nosdeputes.fr/philippe-naillet/json"
