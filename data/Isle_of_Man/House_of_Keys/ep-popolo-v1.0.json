@@ -392,14 +392,42 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "chris.thomas@parliament.org.im"
+        },
+        {
+          "type": "phone",
+          "value": "07624 415820"
+        }
+      ],
+      "email": "chris.thomas@parliament.org.im",
       "id": "24286645-3760-4529-adc6-a74976de606a",
+      "image": "http://www.tynwald.org.im/SiteCollectionImages/thomasCC.jpg",
+      "images": [
+        {
+          "url": "http://www.tynwald.org.im/SiteCollectionImages/thomasCC.jpg"
+        }
+      ],
       "links": [
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Christopher_Thomas"
         }
       ],
-      "name": "Christopher Thomas"
+      "name": "Christopher Thomas",
+      "other_names": [
+        {
+          "name": "Christopher Charles THOMAS MHK",
+          "note": "alternate"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.tynwald.org.im/memoff/member/Pages/ThomasCC.aspx"
+        }
+      ]
     },
     {
       "birth_date": "1954-02-06",
@@ -888,8 +916,37 @@
       ]
     },
     {
+      "birth_date": "1959-12-06",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Jon.Joughin@gov.im"
+        },
+        {
+          "type": "phone",
+          "value": "01624 626090"
+        }
+      ],
+      "email": "Jon.Joughin@gov.im",
       "id": "2772c913-226a-40e8-a3a2-fc14d413d9c9",
-      "name": "Jonathan Joughin"
+      "image": "http://www.tynwald.org.im/SiteCollectionImages/JoughinJ.JPG",
+      "images": [
+        {
+          "url": "http://www.tynwald.org.im/SiteCollectionImages/JoughinJ.JPG"
+        }
+      ],
+      "name": "Jonathan Joughin",
+      "other_names": [
+        {
+          "name": "Jonathan JOUGHIN MHK",
+          "note": "alternate"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.tynwald.org.im/memoff/member/Pages/JOUGHINJ.aspx"
+        }
+      ]
     },
     {
       "birth_date": "1980-07-04",
@@ -1374,8 +1431,31 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "phone",
+          "value": "01624 685596"
+        }
+      ],
       "id": "833668d6-4aaf-4f9c-83d7-0939a18fb5ca",
-      "name": "Ray Harmer"
+      "image": "http://www.tynwald.org.im/SiteCollectionImages/HarmerRK.png",
+      "images": [
+        {
+          "url": "http://www.tynwald.org.im/SiteCollectionImages/HarmerRK.png"
+        }
+      ],
+      "name": "Ray Harmer",
+      "other_names": [
+        {
+          "name": "Raymond Karl HARMER MHK",
+          "note": "alternate"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.tynwald.org.im/memoff/member/Pages/HarmerRK.aspx"
+        }
+      ]
     },
     {
       "birth_date": "1963-05-16",
