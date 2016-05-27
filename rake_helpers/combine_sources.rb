@@ -71,13 +71,6 @@ namespace :merge_sources do
       incoming_data = src.filtered_table
       id_map = src.id_map
 
-      # If the row has no ID, we'll need something we can treate as one
-      # This 'pseudo id' defaults to slugified 'name' 
-      # TODO: do this in `filtered_table`
-      incoming_data.select { |r| r[:id].to_s.empty? }.each do |row|
-        row[:id] = row[:name].downcase.gsub(/\s+/, '_') 
-      end
-
       if merging = src.merge_instructions.first
         reconciler = Reconciler.new(merging)
         raise "Can't reconciler memberships with a Reconciliation file yet" unless reconciler.filename

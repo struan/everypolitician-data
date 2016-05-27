@@ -158,6 +158,13 @@ module Source
       end
     end
 
+    def as_table
+      super.each do |r|
+        # if the source has no ID, generate one
+        r[:id] = r[:name].downcase.gsub(/\s+/, '_') if r[:id].to_s.empty?
+      end
+    end
+
     # Currently we just recognise a hash of k:v pairs to accept if matching
     # TODO: add 'reject' and more complex expressions
     def filtered_table
