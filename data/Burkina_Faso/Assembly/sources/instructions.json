@@ -6,6 +6,21 @@
       "type": "membership"
     },
     {
+      "file": "morph/official-2015.csv",
+      "create": {
+        "from": "morph",
+        "scraper": "tmtmtmtm/burkina-faso-national-assembly",
+        "query": "SELECT * FROM data WHERE term = 7 ORDER BY id"
+      },
+      "source": "http://www.assembleenationale.bf",
+      "type": "membership",
+      "merge": {
+        "incoming_field": "name",
+        "existing_field": "name",
+        "reconciliation_file": "reconciliation/official-2015.csv"
+      }
+    },
+    {
       "file": "manual/terms.csv",
       "type": "term"
     },
