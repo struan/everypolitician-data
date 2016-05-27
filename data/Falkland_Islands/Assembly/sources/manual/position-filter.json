@@ -1,7 +1,10 @@
 {
   "exclude": {
     "self": [
-
+      {
+        "id": "Q24232020",
+        "name": "Member of the Legislative Assembly of the Falkland Islands"
+      }
     ],
     "other": [
 
@@ -26,16 +29,7 @@
   },
   "unknown": {
     "unknown": [
-      {
-        "id": "Q5230427",
-        "name": "Member of the Legislative Assembly",
-        "count": 3
-      },
-      {
-        "id": "Q24232020",
-        "name": "Member of the Legislative Assembly of the Falkland Islands",
-        "count": 4
-      }
+
     ]
   }
 }
