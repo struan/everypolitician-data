@@ -71,8 +71,8 @@ namespace :merge_sources do
       incoming_data = src.filtered_table
       id_map = src.id_map
 
-      if merging = src.merge_instructions.first
-        reconciler = Reconciler.new(merging)
+      if merge_instructions = src.merge_instructions.first
+        reconciler = Reconciler.new(merge_instructions)
         raise "Can't reconciler memberships with a Reconciliation file yet" unless reconciler.filename
 
         if ENV['GENERATE_RECONCILIATION_INTERFACE'] && reconciler.triggered_by?(ENV['GENERATE_RECONCILIATION_INTERFACE'])
