@@ -767,6 +767,10 @@
       "id": "98f2cb04-3fd8-49cc-adab-62d5214e0562",
       "identifiers": [
         {
+          "identifier": "p270030",
+          "scheme": "allmovie"
+        },
+        {
           "identifier": "11087",
           "scheme": "allocine"
         },
@@ -781,6 +785,14 @@
         {
           "identifier": "nm1344955",
           "scheme": "imdb"
+        },
+        {
+          "identifier": "797838",
+          "scheme": "kinopoisk"
+        },
+        {
+          "identifier": "175340",
+          "scheme": "port"
         },
         {
           "identifier": "Q3576977",
@@ -22822,6 +22834,11 @@
           "lang": "nl",
           "name": "Liberal Party",
           "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "智利自由黨",
+          "note": "multilingual"
         }
       ]
     },
@@ -23137,6 +23154,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "zh",
+          "name": "獨立地方黨",
+          "note": "multilingual"
+        },
+        {
           "lang": "es",
           "name": "Partido Regional de los Independientes",
           "note": "multilingual"
@@ -23154,6 +23176,11 @@
         {
           "lang": "es",
           "name": "PRI (Chile)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "PRI獨立運動",
           "note": "multilingual"
         }
       ]
