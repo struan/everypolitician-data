@@ -102,7 +102,7 @@ namespace :merge_sources do
       incoming_data = pd.as_table
 
       abort "No merge instructions for #{pd.filename}" if (approaches = pd.merge_instructions).empty?
-      approaches.each_with_index do |merge_instructions, i|
+      if merge_instructions = approaches.first
         reconciler = Reconciler.new(merge_instructions)
 
         if reconciler.filename
