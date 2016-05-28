@@ -15727,6 +15727,11 @@
           "lang": "ru",
           "name": "Шакед, Аелет",
           "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Ayelet Shaked",
+          "note": "multilingual"
         }
       ],
       "sources": [
@@ -19345,8 +19350,16 @@
           "scheme": "freebase"
         },
         {
+          "identifier": "1032200367",
+          "scheme": "gnd"
+        },
+        {
           "identifier": "0000 0001 0956 7781",
           "scheme": "isni"
+        },
+        {
+          "identifier": "no91016545",
+          "scheme": "lcauth"
         },
         {
           "identifier": "000085449",
@@ -19355,6 +19368,10 @@
         {
           "identifier": "OL2157676A",
           "scheme": "olid"
+        },
+        {
+          "identifier": "238921",
+          "scheme": "selibr"
         },
         {
           "identifier": "16789020",
@@ -30330,6 +30347,10 @@
           "scheme": "freebase"
         },
         {
+          "identifier": "0282641",
+          "scheme": "gnc"
+        },
+        {
           "identifier": "135736080",
           "scheme": "gnd"
         },
@@ -33314,13 +33335,19 @@
       ]
     },
     {
+      "birth_date": "1913",
       "death_date": "1990-06-29",
       "gender": "male",
+      "given_name": "Elias",
       "id": "502861fa-359d-4391-84fc-34b0abf1fb03",
       "identifiers": [
         {
           "identifier": "520",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q2900445",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.knesset.gov.il/mk/images/members/nachle_elias.jpg",
@@ -33329,7 +33356,76 @@
           "url": "http://www.knesset.gov.il/mk/images/members/nachle_elias.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/إلياس_نخلة"
+        },
+        {
+          "note": "Wikipedia (cs)",
+          "url": "https://cs.wikipedia.org/wiki/Elias_Nachla"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Elias_Nakhleh"
+        },
+        {
+          "note": "Wikipedia (he)",
+          "url": "https://he.wikipedia.org/wiki/אליאס_נח'לה"
+        }
+      ],
       "name": "Elias Nahale",
+      "other_names": [
+        {
+          "name": "אליאס נח'לה",
+          "note": "alternate"
+        },
+        {
+          "lang": "ar",
+          "name": "إلياس نخلة",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Elias Nachla",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Elias Nakhleh",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Elias Nakhleh",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Elias Nakhleh",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Elias Nakhleh",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "אליאס נח'לה",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Elias Nakhleh",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Elias Nakhleh",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.knesset.gov.il/mk/eng/mk_print_eng.asp?mk_individual_id_t=520"
@@ -37109,6 +37205,10 @@
           "url": "https://he.wikipedia.org/wiki/אראל_מרגלית"
         },
         {
+          "note": "Wikipedia (hewikiquote)",
+          "url": "https://hewikiquote.wikipedia.org/wiki/אראל_מרגלית"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/ErelMargalit"
         }
@@ -39167,6 +39267,11 @@
         {
           "lang": "nl",
           "name": "Gad Yaacobi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Яакоби, Гад",
           "note": "multilingual"
         }
       ],
@@ -43466,7 +43571,7 @@
         },
         {
           "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Haim_Yellin"
+          "url": "https://en.wikipedia.org/wiki/Haim_Jelin"
         },
         {
           "note": "Wikipedia (he)",
@@ -43499,7 +43604,7 @@
         },
         {
           "lang": "en",
-          "name": "Haim Yellin",
+          "name": "Haim Jelin",
           "note": "multilingual"
         },
         {
@@ -48429,6 +48534,10 @@
           "url": "https://he.wikipedia.org/wiki/ישראל_אייכלר"
         },
         {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Yisrael_Eichler"
+        },
+        {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Эйхлер,_Исраэль"
         },
@@ -48674,6 +48783,11 @@
         {
           "lang": "ru",
           "name": "Исраэль Галили",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "以色列·加利利",
           "note": "multilingual"
         }
       ],
@@ -62294,6 +62408,14 @@
         {
           "note": "Wikipedia (he)",
           "url": "https://he.wikipedia.org/wiki/מיקי_רוזנטל"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Mickey_Rosenthal"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Розенталь,_Мики"
         }
       ],
       "name": "Micky Rosenthal",
@@ -62592,6 +62714,11 @@
         {
           "lang": "ru",
           "name": "Регев, Мири",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Miri Regev",
           "note": "multilingual"
         }
       ],
@@ -77298,6 +77425,16 @@
           "lang": "yi",
           "name": "פנחס לבון",
           "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "平哈斯·拉冯",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "平哈斯·拉馮",
+          "note": "multilingual"
         }
       ],
       "sources": [
@@ -85281,6 +85418,10 @@
         {
           "identifier": "/m/0d0tst",
           "scheme": "freebase"
+        },
+        {
+          "identifier": "no2015038418",
+          "scheme": "lcauth"
         },
         {
           "identifier": "000274380",
@@ -102349,6 +102490,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "tr",
+          "name": "Yaakov Litzman",
+          "note": "multilingual"
+        },
+        {
           "lang": "yi",
           "name": "יעקב ליצמאן",
           "note": "multilingual"
@@ -104317,6 +104463,148 @@
       ]
     },
     {
+      "birth_date": "1965-11-20",
+      "gender": "male",
+      "given_name": "Yehuda",
+      "id": "e630ff0e-5acd-4a32-bd89-c9499f139630",
+      "identifiers": [
+        {
+          "identifier": "0000 0004 0309 9501",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "000322170‏",
+          "scheme": "nli"
+        },
+        {
+          "identifier": "299527705",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q18368428",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www.knesset.gov.il/mk/images/members/Yehuda_Glick.jpg",
+      "images": [
+        {
+          "url": "http://www.knesset.gov.il/mk/images/members/Yehuda_Glick.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/يهودا_غليك"
+        },
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Yehuda_Glick"
+        },
+        {
+          "note": "Wikipedia (cs)",
+          "url": "https://cs.wikipedia.org/wiki/Jehuda_Glick"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Jehuda_Glick"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Yehuda_Glick"
+        },
+        {
+          "note": "Wikipedia (fa)",
+          "url": "https://fa.wikipedia.org/wiki/یهودا_گلیک"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Yehuda_Glick"
+        },
+        {
+          "note": "Wikipedia (he)",
+          "url": "https://he.wikipedia.org/wiki/יהודה_גליק"
+        },
+        {
+          "note": "Wikipedia (id)",
+          "url": "https://id.wikipedia.org/wiki/Yehuda_Glick"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Yehuda_Glick"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Yehuda_Glick"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/yehudah.glick"
+        }
+      ],
+      "name": "Yehuda Joshua Glick",
+      "other_names": [
+        {
+          "name": "יהודה גליק",
+          "note": "alternate"
+        },
+        {
+          "lang": "ar",
+          "name": "يهودا غليك",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Jehuda Glick",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Jehuda Glick",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Yehuda Glick",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "یهودا گلیک",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Yehuda Glick",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "יהודה גליק",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Yehuda Glick",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Yehuda Glick",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Yehuda Glick",
+          "note": "multilingual"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.knesset.gov.il/mk/eng/mk_print_eng.asp?mk_individual_id_t=955"
+        }
+      ]
+    },
+    {
       "birth_date": "1947-09-25",
       "gender": "male",
       "given_name": "Yehuda",
@@ -106082,6 +106370,11 @@
           "lang": "yi",
           "name": "יגאל ידין",
           "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "以加勒·雅丁",
+          "note": "multilingual"
         }
       ],
       "sources": [
@@ -106384,6 +106677,21 @@
         {
           "lang": "yi",
           "name": "יגאל אלון",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "伊加爾·阿隆",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "以加勒·阿龙",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "以加勒·阿龍",
           "note": "multilingual"
         }
       ],
@@ -116992,6 +117300,11 @@
         {
           "lang": "ru",
           "name": "Штайниц, Юваль",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Yuval Steinitz",
           "note": "multilingual"
         },
         {
@@ -127702,6 +128015,7 @@
       "role": "member"
     },
     {
+      "end_date": "2016-01-29",
       "legislative_period_id": "term/20",
       "on_behalf_of_id": "party/kulanu_chaired_by_moshe_kahlon",
       "organization_id": "legislature",
@@ -132841,6 +133155,7 @@
       "role": "member"
     },
     {
+      "end_date": "2016-05-23",
       "legislative_period_id": "term/20",
       "on_behalf_of_id": "party/likud",
       "organization_id": "legislature",
@@ -134355,6 +134670,14 @@
       "organization_id": "legislature",
       "person_id": "a709e113-c216-46d8-ac67-78fa1ee9667e",
       "role": "member"
+    },
+    {
+      "legislative_period_id": "term/20",
+      "on_behalf_of_id": "party/united_torah_judaism",
+      "organization_id": "legislature",
+      "person_id": "a709e113-c216-46d8-ac67-78fa1ee9667e",
+      "role": "member",
+      "start_date": "2016-05-24"
     },
     {
       "legislative_period_id": "term/1",
@@ -138736,6 +139059,14 @@
       "role": "member"
     },
     {
+      "legislative_period_id": "term/20",
+      "on_behalf_of_id": "party/likud",
+      "organization_id": "legislature",
+      "person_id": "e630ff0e-5acd-4a32-bd89-c9499f139630",
+      "role": "member",
+      "start_date": "2016-05-23"
+    },
+    {
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/national_democratic_assembly",
       "organization_id": "legislature",
@@ -141033,7 +141364,7 @@
     },
     {
       "classification": "legislative period",
-      "end_date": "2016-01-29",
+      "end_date": "2016-05-24",
       "id": "term/20",
       "name": "Knesset 20",
       "organization_id": "legislature",
