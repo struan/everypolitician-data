@@ -68,7 +68,7 @@ namespace :merge_sources do
     sources.select(&:is_memberships?).each do |src|
       warn "Add memberships from #{src.filename}".green
       
-      incoming_data = src.filtered_table
+      incoming_data = src.as_table
       id_map = src.id_map
 
       if merge_instructions = src.merge_instructions.first
