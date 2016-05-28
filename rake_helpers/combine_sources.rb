@@ -96,12 +96,12 @@ namespace :merge_sources do
 
     # Then merge with Biographical data files
 
-    sources.select(&:is_bios?).each do |pd|
-      warn "Merging with #{pd.filename}".green
+    sources.select(&:is_bios?).each do |src|
+      warn "Merging with #{src.filename}".green
 
-      incoming_data = pd.as_table
+      incoming_data = src.as_table
 
-      abort "No merge instructions for #{pd.filename}" if (approaches = pd.merge_instructions).empty?
+      abort "No merge instructions for #{src.filename}" if (approaches = src.merge_instructions).empty?
       if merge_instructions = approaches.first
         reconciler = Reconciler.new(merge_instructions)
 
@@ -121,7 +121,7 @@ namespace :merge_sources do
         unmatched = []
         incoming_data.each do |incoming_row|
 
-          incoming_row[:identifier__wikidata] ||= incoming_row[:id] if pd.i(:type) == 'wikidata'
+          incoming_row[:identifier__wikidata] ||= incoming_row[:id] if src.i(:type) == 'wikidata'
 
           # TODO factor this out to a Patcher again
           to_patch = matcher.find_all(incoming_row)
