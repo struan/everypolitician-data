@@ -44,6 +44,10 @@ module Source
       false
     end
 
+    def has_people?
+      false
+    end
+
     # private
     REMAP = {
       area: %w(constituency region district place),
@@ -146,6 +150,10 @@ module Source
       true
     end
 
+    def has_people?
+      true
+    end
+
     def id_map_file
       filename.sub(/.csv$/, '-ids.csv')
     end
@@ -182,13 +190,13 @@ module Source
     def is_bios?
       true
     end
-  end
 
-  class Wikidata < CSV
-    def is_bios?
+    def has_people
       true
     end
+  end
 
+  class Wikidata < Person
     def fields
       super << :identifier__wikidata
     end
