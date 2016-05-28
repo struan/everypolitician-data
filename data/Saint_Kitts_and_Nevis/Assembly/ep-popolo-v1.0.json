@@ -80,11 +80,22 @@
       ]
     },
     {
+      "given_name": "Mark",
       "id": "886e92df-972a-49eb-8d0c-90dcfcd6f3bc",
       "identifiers": [
         {
           "identifier": "mark_brantley",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q23664146",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Mark_Brantley"
         }
       ],
       "name": "Brantly, Mark AG",
@@ -92,6 +103,15 @@
         {
           "name": "Mark Brantley",
           "note": "alternate"
+        },
+        {
+          "name": "Mark Brantley",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Mark Brantley",
+          "note": "multilingual"
         }
       ]
     },
@@ -303,6 +323,11 @@
         {
           "lang": "et",
           "name": "Denzil Douglas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "دنزل داگلاس",
           "note": "multilingual"
         },
         {
@@ -1223,6 +1248,16 @@
         {
           "lang": "ar",
           "name": "حركة العمل الشعبية",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "人民行動運動",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "人民行动运动",
           "note": "multilingual"
         },
         {
