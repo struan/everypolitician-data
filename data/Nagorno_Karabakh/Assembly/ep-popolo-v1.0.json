@@ -1,4 +1,7 @@
 {
+  "posts": [
+
+  ],
   "persons": [
     {
       "birth_date": "1948-01-01",
@@ -402,10 +405,10 @@
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "http://nankr.am/images/deputy/5597c8cfc842e.jpg",
+      "image": "http://nankr.am/images/deputy/56150a159dbed.jpg",
       "images": [
         {
-          "url": "http://nankr.am/images/deputy/5597c8cfc842e.jpg"
+          "url": "http://nankr.am/images/deputy/56150a159dbed.jpg"
         }
       ],
       "name": "Ashot V. Ghoulyan",
@@ -429,52 +432,6 @@
       "sources": [
         {
           "url": "http://nankr.am/deputy/1/"
-        }
-      ]
-    },
-    {
-      "birth_date": "1980-10-29",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "dmelkumyan@nankr.am"
-        }
-      ],
-      "email": "dmelkumyan@nankr.am",
-      "id": "c56f2bb7-6b05-4e12-a886-639ca324eb06",
-      "identifiers": [
-        {
-          "identifier": "43",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://nankr.am/images/deputy/55e0731ad2258.png",
-      "images": [
-        {
-          "url": "http://nankr.am/images/deputy/55e0731ad2258.png"
-        }
-      ],
-      "name": "David H. Melkumyan",
-      "other_names": [
-        {
-          "lang": "en",
-          "name": "David H. Melkumyan",
-          "note": "multilingual"
-        },
-        {
-          "lang": "hy",
-          "name": "Մելքումյան Դավիթ Հայկի",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ru",
-          "name": "Мелкумян Давид Айкович",
-          "note": "multilingual"
-        }
-      ],
-      "sources": [
-        {
-          "url": "http://nankr.am/deputy/43/"
         }
       ]
     },
@@ -514,6 +471,52 @@
       "sources": [
         {
           "url": "http://nankr.am/deputy/44/"
+        }
+      ]
+    },
+    {
+      "birth_date": "1980-10-29",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "dmelkumyan@nankr.am"
+        }
+      ],
+      "email": "dmelkumyan@nankr.am",
+      "id": "c56f2bb7-6b05-4e12-a886-639ca324eb06",
+      "identifiers": [
+        {
+          "identifier": "43",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://nankr.am/images/deputy/55e0731ad2258.png",
+      "images": [
+        {
+          "url": "http://nankr.am/images/deputy/55e0731ad2258.png"
+        }
+      ],
+      "name": "Davit H. Melkumyan",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Davit H. Melkumyan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hy",
+          "name": "Մելքումյան Դավիթ Հայկի",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Мелкумян Давид Айкович",
+          "note": "multilingual"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://nankr.am/deputy/43/"
         }
       ]
     },
@@ -1472,6 +1475,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "nl",
+          "name": "Free Motherland",
+          "note": "multilingual"
+        },
+        {
           "lang": "hy",
           "name": "Ազատ հայրենիք կուսակցություն",
           "note": "multilingual"
@@ -1507,6 +1515,11 @@
         {
           "lang": "it",
           "name": "Movimento 88",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Movement 88",
           "note": "multilingual"
         }
       ]
