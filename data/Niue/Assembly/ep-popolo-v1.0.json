@@ -1,4 +1,7 @@
 {
+  "posts": [
+
+  ],
   "persons": [
     {
       "gender": "male",
@@ -29,6 +32,11 @@
         },
         {
           "lang": "en",
+          "name": "Bill Vakaafi Motufoou",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Bill Vakaafi Motufoou",
           "note": "multilingual"
         }
@@ -188,6 +196,11 @@
           "lang": "fr",
           "name": "Joan Viliamu",
           "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Joan Viliamu",
+          "note": "multilingual"
         }
       ],
       "sources": [
@@ -320,6 +333,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "hu",
+          "name": "Young Vivian",
+          "note": "multilingual"
+        },
+        {
           "lang": "it",
           "name": "Young Vivian",
           "note": "multilingual"
@@ -337,6 +355,16 @@
         {
           "lang": "ru",
           "name": "Янг Вивиан",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "扬·维维安",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "揚·維維安",
           "note": "multilingual"
         }
       ],
@@ -413,6 +441,11 @@
         },
         {
           "lang": "fr",
+          "name": "Pokotoa Sipeli",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Pokotoa Sipeli",
           "note": "multilingual"
         }
@@ -627,6 +660,10 @@
           "url": "https://it.wikipedia.org/wiki/Toke_Talagi"
         },
         {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/トケ・タランギ"
+        },
+        {
           "note": "Wikipedia (nl)",
           "url": "https://nl.wikipedia.org/wiki/Toke_Talagi"
         },
@@ -686,6 +723,11 @@
         {
           "lang": "it",
           "name": "Toke Talagi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "トケ・タランギ",
           "note": "multilingual"
         },
         {
@@ -914,7 +956,7 @@
         },
         {
           "lang": "ro",
-          "name": "Politician independent",
+          "name": "politician independent",
           "note": "multilingual"
         },
         {
@@ -1065,6 +1107,16 @@
         {
           "lang": "sd",
           "name": "آزاد",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Politicus nullius factionis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nan",
+          "name": "Bû-tóng-che̍k",
           "note": "multilingual"
         },
         {
@@ -1270,11 +1322,6 @@
         {
           "lang": "tr",
           "name": "Serbest siyasetçi",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ro",
-          "name": "Parteilos",
           "note": "multilingual"
         },
         {
