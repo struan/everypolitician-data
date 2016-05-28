@@ -29,17 +29,11 @@
       },
       "source": "https://scrapers.herokuapp.com/represent/ca",
       "type": "person",
-      "merge": [
-        {
-          "incoming_field": "id",
-          "existing_field": "id"
-        },
-        {
-          "incoming_field": "name",
-          "existing_field": "name",
-          "reconciliation_file": "reconciliation/represent-42.csv"
-        }
-      ]
+      "merge": {
+        "incoming_field": "name",
+        "existing_field": "name",
+        "reconciliation_file": "reconciliation/represent-42.csv"
+      }
     },
     {
       "file": "morph/wikidata.csv",
