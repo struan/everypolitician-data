@@ -68,18 +68,11 @@ namespace :merge_sources do
     sources.select(&:is_memberships?).each do |src|
       warn "Add memberships from #{src.filename}".green
       
-      incoming_data = src.filtered_table
+      incoming_data = src.as_table
       id_map = src.id_map
 
-      # If the row has no ID, we'll need something we can treate as one
-      # This 'pseudo id' defaults to slugified 'name' 
-      # TODO: do this in `filtered_table`
-      incoming_data.select { |r| r[:id].to_s.empty? }.each do |row|
-        row[:id] = row[:name].downcase.gsub(/\s+/, '_') 
-      end
-
-      if merging = src.merge_instructions.first
-        reconciler = Reconciler.new(merging)
+      if merge_instructions = src.merge_instructions.first
+        reconciler = Reconciler.new(merge_instructions)
         raise "Can't reconciler memberships with a Reconciliation file yet" unless reconciler.filename
 
         if ENV['GENERATE_RECONCILIATION_INTERFACE'] && reconciler.triggered_by?(ENV['GENERATE_RECONCILIATION_INTERFACE'])
@@ -103,13 +96,13 @@ namespace :merge_sources do
 
     # Then merge with Biographical data files
 
-    sources.select(&:is_bios?).each do |pd|
-      warn "Merging with #{pd.filename}".green
+    sources.select(&:is_bios?).each do |src|
+      warn "Merging with #{src.filename}".green
 
-      incoming_data = pd.as_table
+      incoming_data = src.as_table
 
-      abort "No merge instructions for #{pd.filename}" if (approaches = pd.merge_instructions).empty?
-      approaches.each_with_index do |merge_instructions, i|
+      abort "No merge instructions for #{src.filename}" if (approaches = src.merge_instructions).empty?
+      if merge_instructions = approaches.first
         reconciler = Reconciler.new(merge_instructions)
 
         if reconciler.filename
@@ -128,7 +121,7 @@ namespace :merge_sources do
         unmatched = []
         incoming_data.each do |incoming_row|
 
-          incoming_row[:identifier__wikidata] ||= incoming_row[:id] if pd.i(:type) == 'wikidata'
+          incoming_row[:identifier__wikidata] ||= incoming_row[:id] if src.i(:type) == 'wikidata'
 
           # TODO factor this out to a Patcher again
           to_patch = matcher.find_all(incoming_row)

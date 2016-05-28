@@ -44,6 +44,10 @@ module Source
       false
     end
 
+    def has_people?
+      false
+    end
+
     # private
     REMAP = {
       area: %w(constituency region district place),
@@ -86,8 +90,12 @@ module Source
   end
 
   class PlainCSV < Base
-    def as_table
+    def raw_table
       Rcsv.parse(file_contents, row_as_hash: true, columns: rcsv_column_options)
+    end
+
+    def as_table
+      raw_table
     end
 
     def rcsv_column_options
@@ -115,7 +123,7 @@ module Source
       headers.map { |h| remap(h.downcase) }
     end
 
-    def as_table
+    def raw_table
       rows = []
       super.each do |row|
         # Need to make a copy in case there are multiple source columns
@@ -142,6 +150,10 @@ module Source
       true
     end
 
+    def has_people?
+      true
+    end
+
     def id_map_file
       filename.sub(/.csv$/, '-ids.csv')
     end
@@ -158,12 +170,19 @@ module Source
       end
     end
 
+    def raw_table
+      super.each do |r|
+        # if the source has no ID, generate one
+        r[:id] = r[:name].downcase.gsub(/\s+/, '_') if r[:id].to_s.empty?
+      end
+    end
+
     # Currently we just recognise a hash of k:v pairs to accept if matching
     # TODO: add 'reject' and more complex expressions
-    def filtered_table
-      return as_table unless i(:filter)
+    def as_table
+      return raw_table unless i(:filter)
       filter = ->(row) { i(:filter)[:accept].all? { |k, v| row[k] == v } }
-      @_filtered ||= as_table.select { |row| filter.call(row) }
+      @_filtered ||= raw_table.select { |row| filter.call(row) }
     end
   end
 
@@ -171,13 +190,13 @@ module Source
     def is_bios?
       true
     end
-  end
 
-  class Wikidata < CSV
-    def is_bios?
+    def has_people
       true
     end
+  end
 
+  class Wikidata < Person
     def fields
       super << :identifier__wikidata
     end
