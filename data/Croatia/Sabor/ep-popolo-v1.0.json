@@ -12243,6 +12243,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ja",
+          "name": "自由民主党 (クロアチア)",
+          "note": "multilingual"
+        },
+        {
           "lang": "pt",
           "name": "Partido Popular Croata",
           "note": "multilingual"
@@ -12787,6 +12792,11 @@
           "lang": "fi",
           "name": "Kroatian talonpoikaispuolue",
           "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "クロアチア農民党",
+          "note": "multilingual"
         }
       ]
     },
@@ -12871,6 +12881,11 @@
         {
           "lang": "uk",
           "name": "Хорватська партія пенсіонерів",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "クロアチア年金者党",
           "note": "multilingual"
         }
       ]
@@ -17288,12 +17303,68 @@
   ],
   "events": [
     {
+      "classification": "general election",
+      "end_date": "1990",
+      "id": "Q1286953",
+      "name": "Croatian parliamentary election, 1990",
+      "start_date": "1990"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1992-08-02",
+      "id": "Q1276980",
+      "name": "Croatian parliamentary election, 1992",
+      "start_date": "1992-08-02"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1995-10-29",
+      "id": "Q1276987",
+      "name": "Croatian parliamentary election, 1995",
+      "start_date": "1995-10-29"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2000-01-03",
+      "id": "Q1285120",
+      "name": "Croatian parliamentary election, 2000",
+      "start_date": "2000-01-03"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2003-11-23",
+      "id": "Q1278811",
+      "name": "Croatian parliamentary election, 2003",
+      "start_date": "2003-11-23"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2007-11-25",
+      "id": "Q1266665",
+      "name": "Croatian parliamentary election, 2007",
+      "start_date": "2007-11-25"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2011-12-04",
+      "id": "Q426752",
+      "name": "Croatian parliamentary election, 2011",
+      "start_date": "2011-12-04"
+    },
+    {
       "classification": "legislative period",
       "end_date": "2015-09-28",
       "id": "term/7",
       "name": "7th Assembly",
       "organization_id": "legislature",
       "start_date": "2011-12-22"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2015-11-08",
+      "id": "Q7020969",
+      "name": "Croatian parliamentary election, 2015",
+      "start_date": "2015-11-08"
     },
     {
       "classification": "legislative period",
