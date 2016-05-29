@@ -3318,6 +3318,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ja",
+          "name": "ムハマド・ジャミルディン・シルカル",
+          "note": "multilingual"
+        },
+        {
           "lang": "nl",
           "name": "Muhammad Jamiruddin Sircar",
           "note": "multilingual"
@@ -5825,6 +5830,10 @@
           "url": "https://fr.wikipedia.org/wiki/Ataur_Rahman_Khan"
         },
         {
+          "note": "Wikipedia (hi)",
+          "url": "https://hi.wikipedia.org/wiki/अताउर_रहमान_खान"
+        },
+        {
           "note": "Wikipedia (pt)",
           "url": "https://pt.wikipedia.org/wiki/Ataur_Rahman_Khan"
         },
@@ -7831,6 +7840,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Abdul_Malek_Ukil"
+        },
+        {
+          "note": "Wikipedia (hi)",
+          "url": "https://hi.wikipedia.org/wiki/अब्दुल_मालिक_वकील"
         },
         {
           "note": "website",
@@ -17791,6 +17804,21 @@
           "note": "multilingual"
         },
         {
+          "lang": "zh",
+          "name": "伊斯蘭大會黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "孟加拉伊斯蘭賈馬特",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "伊斯兰大会党",
+          "note": "multilingual"
+        },
+        {
           "lang": "bn",
           "name": "Jamaat-e-Islami Bangladesh",
           "note": "multilingual"
@@ -18285,6 +18313,11 @@
         {
           "lang": "la",
           "name": "Politicus nullius factionis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nan",
+          "name": "Bû-tóng-che̍k",
           "note": "multilingual"
         },
         {
@@ -24438,12 +24471,82 @@
   ],
   "events": [
     {
+      "classification": "general election",
+      "end_date": "1973",
+      "id": "Q4855466",
+      "name": "Bangladeshi general election, 1973",
+      "start_date": "1973"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1979",
+      "id": "Q4855467",
+      "name": "Bangladeshi general election, 1979",
+      "start_date": "1979"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1986",
+      "id": "Q4855468",
+      "name": "Bangladeshi general election, 1986",
+      "start_date": "1986"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1988",
+      "id": "Q4855469",
+      "name": "Bangladeshi general election, 1988",
+      "start_date": "1988"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1991",
+      "id": "Q4855471",
+      "name": "Bangladeshi general election, 1991",
+      "start_date": "1991"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1996-02",
+      "id": "Q4855474",
+      "name": "Bangladeshi general election, February 1996",
+      "start_date": "1996-02"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1996-06",
+      "id": "Q4855475",
+      "name": "Bangladeshi general election, June 1996",
+      "start_date": "1996-06"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2001",
+      "id": "Q4855473",
+      "name": "Bangladeshi general election, 2001",
+      "start_date": "2001"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2008-12-29",
+      "id": "Q2412850",
+      "name": "Bangladeshi general election, 2008",
+      "start_date": "2008-12-29"
+    },
+    {
       "classification": "legislative period",
       "end_date": "2014-01-24",
       "id": "term/9",
       "name": "9th Parliament",
       "organization_id": "legislature",
       "start_date": "2009-01-25"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2014-01-05",
+      "id": "Q14942753",
+      "name": "Bangladeshi general election, 2014",
+      "start_date": "2014-01-05"
     },
     {
       "classification": "legislative period",
