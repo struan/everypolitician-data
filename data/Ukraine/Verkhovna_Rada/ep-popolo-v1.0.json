@@ -32526,6 +32526,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ja",
+          "name": "野党ブロック党",
+          "note": "multilingual"
+        },
+        {
           "lang": "it",
           "name": "Opozycijnyn Blok",
           "note": "multilingual"
@@ -32967,6 +32972,11 @@
         {
           "lang": "ja",
           "name": "全ウクライナ同盟「祖国」",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "全ウクライナ連合「祖国",
           "note": "multilingual"
         },
         {
@@ -37841,11 +37851,74 @@
   ],
   "events": [
     {
+      "classification": "general election",
+      "end_date": "1990",
+      "id": "Q3824117",
+      "name": "Ukrainian parliamentary election, 1990",
+      "start_date": "1990"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1994-03-24",
+      "id": "Q959218",
+      "name": "Ukrainian parliamentary election, 1994",
+      "start_date": "1994-03-24"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1998-03-29",
+      "id": "Q2721129",
+      "name": "Ukrainian parliamentary election, 1998",
+      "start_date": "1998-03-29"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2002-03-31",
+      "id": "Q2348010",
+      "name": "Ukrainian parliamentary election, 2002",
+      "start_date": "2002-03-31"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2006-03-26",
+      "id": "Q328353",
+      "name": "Ukrainian parliamentary election, 2006",
+      "start_date": "2006-03-26"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2007-09-30",
+      "id": "Q328438",
+      "name": "Ukrainian parliamentary election, 2007",
+      "start_date": "2007-09-30"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2012",
+      "id": "Q4358",
+      "name": "Ukrainian parliamentary election, 2012",
+      "start_date": "2012"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2014-10-26",
+      "id": "Q15077606",
+      "name": "Ukrainian parliamentary election, 2014",
+      "start_date": "2014-10-26"
+    },
+    {
       "classification": "legislative period",
       "id": "term/8",
       "name": "8th Verkhovna Rada",
       "organization_id": "legislature",
       "start_date": "2014-11-27"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2019",
+      "id": "Q20071491",
+      "name": "Ukrainian parliamentary election, 2019",
+      "start_date": "2019"
     }
   ],
   "areas": [
