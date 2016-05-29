@@ -19369,6 +19369,7 @@
       ]
     },
     {
+      "birth_date": "1964-09-21",
       "contact_details": [
         {
           "type": "email",
@@ -19386,6 +19387,10 @@
         {
           "identifier": "5830794",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q19705878",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.br/internet/deputado/bandep/160535.jpg",
@@ -19394,7 +19399,24 @@
           "url": "http://www.camara.gov.br/internet/deputado/bandep/160535.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Dionilso_Mateus_Marcon"
+        }
+      ],
       "name": "MARCON",
+      "other_names": [
+        {
+          "name": "Dionilso Mateus Marcon",
+          "note": "alternate"
+        },
+        {
+          "lang": "pt",
+          "name": "Dionilso Mateus Marcon",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.camara.gov.br/internet/deputado/Dep_Detalhe.asp?id=5830794"
@@ -19708,6 +19730,7 @@
       ]
     },
     {
+      "birth_date": "1960-06-13",
       "contact_details": [
         {
           "type": "email",
@@ -19720,11 +19743,16 @@
       ],
       "email": "dep.marcuspestana@camara.leg.br",
       "gender": "male",
+      "given_name": "Marcus",
       "id": "80feaab9-88f5-4876-9e36-8af29e04eda7",
       "identifiers": [
         {
           "identifier": "5830743",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q10325542",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.br/internet/deputado/bandep/159238.jpg",
@@ -19733,7 +19761,39 @@
           "url": "http://www.camara.gov.br/internet/deputado/bandep/159238.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Marcus_Vinícius_Caetano_Pestana_da_Silva"
+        }
+      ],
       "name": "MARCUS PESTANA",
+      "other_names": [
+        {
+          "name": "Marcus Vinícius Caetano Pestana da Silva",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Marcus Vinícius Caetano Pestana da Silva",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Marcus Vinícius Caetano Pestana da Silva",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Marcus Vinícius Caetano Pestana da Silva",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Marcus Vinícius Caetano Pestana da Silva",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.camara.gov.br/internet/deputado/Dep_Detalhe.asp?id=5830743"
@@ -23112,6 +23172,7 @@
       ]
     },
     {
+      "birth_date": "1955-02-14",
       "contact_details": [
         {
           "type": "email",
@@ -23120,15 +23181,24 @@
         {
           "type": "phone",
           "value": "(61) 3215-5416 - 3215-2416"
+        },
+        {
+          "type": "twitter",
+          "value": "df_paulofreire"
         }
       ],
       "email": "dep.paulofreire@camara.leg.br",
       "gender": "male",
+      "given_name": "Paulo",
       "id": "b43356ee-604f-43f7-99da-9e23432d5d26",
       "identifiers": [
         {
           "identifier": "5830701",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q20059223",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.br/internet/deputado/bandep/160558.jpg",
@@ -23137,7 +23207,32 @@
           "url": "http://www.camara.gov.br/internet/deputado/bandep/160558.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Paulo_Roberto_Freire_da_Costa"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/df_paulofreire"
+        },
+        {
+          "note": "website",
+          "url": "http://www.deputadopaulofreire.com.br/www/index.php"
+        }
+      ],
       "name": "PAULO FREIRE",
+      "other_names": [
+        {
+          "name": "Paulo Roberto Freire da Costa",
+          "note": "alternate"
+        },
+        {
+          "lang": "pt",
+          "name": "Paulo Roberto Freire da Costa",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.camara.gov.br/internet/deputado/Dep_Detalhe.asp?id=5830701"
