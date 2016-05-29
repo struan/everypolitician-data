@@ -1,5 +1,9 @@
 ﻿# This file documents substantial changes to the format of data files
 
+2016-05-29
+
+* Some Election data is now available as Popolo `Event`s.
+
 2016-01-09
 
 * Twitter handles are now standardised into a bare handle in
