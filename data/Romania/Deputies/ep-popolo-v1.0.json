@@ -15112,6 +15112,10 @@
         {
           "note": "Wikipedia (ro)",
           "url": "https://ro.wikipedia.org/wiki/Slavomir_Gvozdenovici"
+        },
+        {
+          "note": "Wikipedia (sr)",
+          "url": "https://sr.wikipedia.org/wiki/Славомир_Гвозденовић"
         }
       ],
       "name": "Gvozdenovici Slavomir",
@@ -29970,6 +29974,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Neculai_Rățoi"
+        },
+        {
           "note": "Wikipedia (ro)",
           "url": "https://ro.wikipedia.org/wiki/Neculai_Rățoi"
         }
@@ -40991,11 +40999,214 @@
   ],
   "events": [
     {
+      "classification": "general election",
+      "end_date": "1919",
+      "id": "Q7362601",
+      "name": "Romanian general election, 1919",
+      "start_date": "1919"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1920",
+      "id": "Q7362603",
+      "name": "Romanian general election, 1920",
+      "start_date": "1920"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1922",
+      "id": "Q7362604",
+      "name": "Romanian general election, 1922",
+      "start_date": "1922"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1926",
+      "id": "Q7362606",
+      "name": "Romanian general election, 1926",
+      "start_date": "1926"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1927",
+      "id": "Q7362605",
+      "name": "Romanian general election, 1927",
+      "start_date": "1927"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1928",
+      "id": "Q7362607",
+      "name": "Romanian general election, 1928",
+      "start_date": "1928"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1931",
+      "id": "Q7362608",
+      "name": "Romanian general election, 1931",
+      "start_date": "1931"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1932",
+      "id": "Q7362609",
+      "name": "Romanian general election, 1932",
+      "start_date": "1932"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1933",
+      "id": "Q7362610",
+      "name": "Romanian general election, 1933",
+      "start_date": "1933"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1937",
+      "id": "Q3826796",
+      "name": "Romanian general election, 1937",
+      "start_date": "1937"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1939",
+      "id": "Q7362611",
+      "name": "Romanian general election, 1939",
+      "start_date": "1939"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1946",
+      "id": "Q3827067",
+      "name": "Romanian general election of 1946",
+      "start_date": "1946"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1948",
+      "id": "Q7362616",
+      "name": "Romanian legislative election, 1948",
+      "start_date": "1948"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1952",
+      "id": "Q7362615",
+      "name": "Romanian legislative election, 1952",
+      "start_date": "1952"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1957",
+      "id": "Q7362617",
+      "name": "Romanian legislative election, 1957",
+      "start_date": "1957"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1961",
+      "id": "Q16969868",
+      "name": "Romanian legislative election, 1961",
+      "start_date": "1961"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1965",
+      "id": "Q7362619",
+      "name": "Romanian legislative election, 1965",
+      "start_date": "1965"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1969",
+      "id": "Q7362620",
+      "name": "Romanian legislative election, 1969",
+      "start_date": "1969"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1975",
+      "id": "Q7362622",
+      "name": "Romanian legislative election, 1975",
+      "start_date": "1975"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1980",
+      "id": "Q7362624",
+      "name": "Romanian legislative election, 1980",
+      "start_date": "1980"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1985",
+      "id": "Q17418439",
+      "name": "Romanian legislative election, 1985",
+      "start_date": "1985"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1990-05-20",
+      "id": "Q1702253",
+      "name": "Romanian general election, 1990",
+      "start_date": "1990-05-20"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1992",
+      "id": "Q961675",
+      "name": "Romanian general election, 1992",
+      "start_date": "1992"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1996",
+      "id": "Q740835",
+      "name": "Romanian general election, 1996",
+      "start_date": "1996"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2000",
+      "id": "Q1848687",
+      "name": "Romanian general election, 2000",
+      "start_date": "2000"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2004",
+      "id": "Q1640380",
+      "name": "Romanian general election, 2004",
+      "start_date": "2004"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2008",
+      "id": "Q1084932",
+      "name": "Romanian legislative election, 2008",
+      "start_date": "2008"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2012",
+      "id": "Q276732",
+      "name": "Romanian legislative election, 2012",
+      "start_date": "2012"
+    },
+    {
       "classification": "legislative period",
       "id": "term/2012",
       "name": "7th Legislature",
       "organization_id": "legislature",
       "start_date": "2012-12-12"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2016",
+      "id": "Q7362626",
+      "name": "Romanian legislative election, 2016",
+      "start_date": "2016"
     }
   ],
   "areas": [
