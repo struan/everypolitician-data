@@ -2759,6 +2759,11 @@
           "lang": "sv",
           "name": "Arlindo Chinaglia",
           "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "阿林多·基納利亞",
+          "note": "multilingual"
         }
       ],
       "sources": [
@@ -6921,6 +6926,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ja",
+          "name": "ダンルレイ",
+          "note": "multilingual"
+        },
+        {
           "lang": "nb",
           "name": "Danrlei",
           "note": "multilingual"
@@ -8517,6 +8527,11 @@
         {
           "lang": "sv",
           "name": "Eduardo Cunha",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "愛德華多·阿爾維斯",
           "note": "multilingual"
         }
       ],
@@ -19268,6 +19283,11 @@
           "lang": "yo",
           "name": "Marco Maia",
           "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "馬爾科·馬亞",
+          "note": "multilingual"
         }
       ],
       "sources": [
@@ -28921,6 +28941,32 @@
       "contact_details": [
         {
           "type": "email",
+          "value": "dep.valamelio@camara.leg.br"
+        },
+        {
+          "type": "phone",
+          "value": "(61) -"
+        }
+      ],
+      "email": "dep.valamelio@camara.leg.br",
+      "id": "72e35473-d263-4e52-ac9e-376365d2fa9f",
+      "image": "http://www.camara.gov.br/internet/deputado/bandep/194340.jpg",
+      "images": [
+        {
+          "url": "http://www.camara.gov.br/internet/deputado/bandep/194340.jpg"
+        }
+      ],
+      "name": "VAL AMÉLIO",
+      "sources": [
+        {
+          "url": "http://www.camara.gov.br/internet/deputado/Dep_Detalhe.asp?id=5830899"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
           "value": "dep.valadaresfilho@camara.leg.br"
         },
         {
@@ -30870,6 +30916,11 @@
       "classification": "party",
       "id": "PRP",
       "name": "PRP"
+    },
+    {
+      "classification": "party",
+      "id": "PRTB",
+      "name": "PRTB"
     },
     {
       "classification": "party",
@@ -32848,6 +32899,14 @@
       "on_behalf_of_id": "PSB",
       "organization_id": "legislature",
       "person_id": "71bd82b7-67ed-401f-b0e4-c9226f1f85a0",
+      "role": "member"
+    },
+    {
+      "area_id": "area/al",
+      "legislative_period_id": "term/55",
+      "on_behalf_of_id": "PRTB",
+      "organization_id": "legislature",
+      "person_id": "72e35473-d263-4e52-ac9e-376365d2fa9f",
       "role": "member"
     },
     {
