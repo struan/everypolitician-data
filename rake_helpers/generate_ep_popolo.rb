@@ -160,6 +160,31 @@ namespace :transform do
   end
 
   #---------------------------------------------------------------------
+  # Add Election information
+  #---------------------------------------------------------------------
+  task :write => :election_info
+  task :election_info => :load do
+    instructions(:sources).find_all { |src| src[:type].to_s.downcase == 'wikidata-elections' }.each do |src|
+      elections = JSON.parse(File.read(src[:file]), symbolize_names: true)
+      elections.each do |id, data|
+        name = data[:other_names].find { |h| h[:lang] == 'en' } or abort "no English name for #{data}"
+        dates = [ data[:dates], data[:start_date], data[:end_date] ].flatten.compact.sort 
+        next warn "No dates for election #{id} (#{name[:name]})" if dates.empty?
+
+        info = { 
+          id: id,
+          name: name[:name],
+          start_date: dates.first,
+          end_date: dates.last,
+          classification: 'general election',
+        }
+
+        @json[:events] << info
+      end
+    end
+  end
+
+  #---------------------------------------------------------------------
   # Add area wikidata information
   #---------------------------------------------------------------------
   task :write => :area_wikidata
