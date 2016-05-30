@@ -7068,6 +7068,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ja",
+          "name": "ウェールズ労働党",
+          "note": "multilingual"
+        },
+        {
           "lang": "it",
           "name": "Wales Labour Party",
           "note": "multilingual"
@@ -7654,11 +7659,46 @@
   ],
   "events": [
     {
+      "classification": "general election",
+      "end_date": "1999-05-06",
+      "id": "Q842113",
+      "name": "National Assembly for Wales election, 1999",
+      "start_date": "1999-05-06"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2003-05-01",
+      "id": "Q1655536",
+      "name": "National Assembly for Wales election, 2003",
+      "start_date": "2003-05-01"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2007-05-03",
+      "id": "Q111715",
+      "name": "National Assembly for Wales election, 2007",
+      "start_date": "2007-05-03"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2011-05-05",
+      "id": "Q111713",
+      "name": "National Assembly for Wales election 2011",
+      "start_date": "2011-05-05"
+    },
+    {
       "classification": "legislative period",
       "id": "term/4",
       "name": "Fourth Assembly",
       "organization_id": "legislature",
       "start_date": "2011-09-15"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2016-05-05",
+      "id": "Q16258007",
+      "name": "National Assembly for Wales election, 2016",
+      "start_date": "2016-05-05"
     }
   ],
   "areas": [
