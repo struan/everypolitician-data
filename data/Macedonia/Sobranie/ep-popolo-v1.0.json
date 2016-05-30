@@ -2559,6 +2559,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ja",
+          "name": "アルバニア人民主党",
+          "note": "multilingual"
+        },
+        {
           "lang": "de",
           "name": "Partia Demokratike Shqiptare",
           "note": "multilingual"
@@ -2635,6 +2640,11 @@
         {
           "lang": "mk",
           "name": "Демократска партија на Србите во Македонија",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Demokratska partija Srba u Makedoniji",
           "note": "multilingual"
         },
         {
@@ -4131,11 +4141,74 @@
   ],
   "events": [
     {
+      "classification": "general election",
+      "end_date": "1990",
+      "id": "Q3408788",
+      "name": "Macedonian parliamentary election, 1990",
+      "start_date": "1990"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1994",
+      "id": "Q6723161",
+      "name": "Macedonian general election, 1994",
+      "start_date": "1994"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1998-10-18",
+      "id": "Q3408804",
+      "name": "Macedonian parliamentary election, 1998",
+      "start_date": "1998-10-18"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2002",
+      "id": "Q1759059",
+      "name": "Macedonian parliamentary election, 2002",
+      "start_date": "2002"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2006-07-05",
+      "id": "Q2626015",
+      "name": "Macedonian parliamentary election, 2006",
+      "start_date": "2006-07-05"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2008-06-01",
+      "id": "Q1267146",
+      "name": "Macedonian parliamentary election, 2008",
+      "start_date": "2008-06-01"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2011-06-05",
+      "id": "Q1442466",
+      "name": "Macedonian parliamentary election, 2011",
+      "start_date": "2011-06-05"
+    },
+    {
       "classification": "legislative period",
       "id": "term/2014",
       "name": "2014–2018",
       "organization_id": "legislature",
       "start_date": "2014"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2014-04",
+      "id": "Q16735873",
+      "name": "Macedonian general election, 2014",
+      "start_date": "2014-04"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2016-04-24",
+      "id": "Q20036653",
+      "name": "Macedonian parliamentary election, 2016",
+      "start_date": "2016-04-24"
     }
   ],
   "areas": [
