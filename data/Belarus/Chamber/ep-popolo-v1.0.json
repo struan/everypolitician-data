@@ -3720,11 +3720,16 @@
       ],
       "email": "stetsko@house.gov.by",
       "gender": "male",
+      "given_name": "Alyaksandr",
       "id": "6863bc47-74a1-4f69-a6e5-9356f7e3008a",
       "identifiers": [
         {
           "identifier": "36037",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q14918481",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://house.gov.by/files/images/rsrsrr.jpg",
@@ -3733,7 +3738,29 @@
           "url": "http://house.gov.by/files/images/rsrsrr.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Alaksandr_Sciacko"
+        }
+      ],
       "name": "STETSKO ALEKSANDR",
+      "other_names": [
+        {
+          "name": "Aleksandr Stiecko",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Aleksandr Stiecko",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Alaksandr Sciacko",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://house.gov.by/index.php/,7508,36037,,,1,,,0.html"
@@ -5981,11 +6008,60 @@
   ],
   "events": [
     {
+      "classification": "general election",
+      "end_date": "1990",
+      "id": "Q4345440",
+      "name": "Belarusian parliamentary election, 1990",
+      "start_date": "1990"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1995",
+      "id": "Q2634012",
+      "name": "Belarusian parliamentary election, 1995",
+      "start_date": "1995"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2000",
+      "id": "Q2634004",
+      "name": "Belarusian parliamentary election, 2000",
+      "start_date": "2000"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2004",
+      "id": "Q2414512",
+      "name": "Belarusian parliamentary election, 2004",
+      "start_date": "2004"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2008",
+      "id": "Q916018",
+      "name": "Belarusian parliamentary election, 2008",
+      "start_date": "2008"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2012",
+      "id": "Q1786507",
+      "name": "Belarusian parliamentary election, 2012",
+      "start_date": "2012"
+    },
+    {
       "classification": "legislative period",
       "id": "term/5",
       "name": "5th Convocation",
       "organization_id": "legislature",
       "start_date": "2012-09-23"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2016-09-11",
+      "id": "Q21994299",
+      "name": "Belarusian parliamentary election, 2016",
+      "start_date": "2016-09-11"
     }
   ],
   "areas": [
