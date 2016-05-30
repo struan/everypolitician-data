@@ -6824,6 +6824,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ja",
+          "name": "ジェリー・アダムズ",
+          "note": "multilingual"
+        },
+        {
           "lang": "ko",
           "name": "게리 애덤스",
           "note": "multilingual"
@@ -13349,6 +13354,11 @@
         {
           "lang": "it",
           "name": "Micheál Martin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "マイケル・マーティン",
           "note": "multilingual"
         },
         {
@@ -23671,12 +23681,236 @@
   ],
   "events": [
     {
+      "classification": "general election",
+      "end_date": "1918-12-14",
+      "id": "Q905063",
+      "name": "Irish general election 1918",
+      "start_date": "1918-12-14"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1921-05-24",
+      "id": "Q6071480",
+      "name": "Irish elections, 1921",
+      "start_date": "1921-05-24"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1922-06-16",
+      "id": "Q6071535",
+      "name": "Irish general election, 1922",
+      "start_date": "1922-06-16"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1923-08-27",
+      "id": "Q4887663",
+      "name": "Irish general election, 1923",
+      "start_date": "1923-08-27"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1927-06-09",
+      "id": "Q4887669",
+      "name": "Irish general election, June 1927",
+      "start_date": "1927-06-09"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1927-09-15",
+      "id": "Q11918769",
+      "name": "Irish general election, September 1927",
+      "start_date": "1927-09-15"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1932-02-16",
+      "id": "Q13638428",
+      "name": "Irish general election, 1932",
+      "start_date": "1932-02-16"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1933-01-24",
+      "id": "Q6071543",
+      "name": "Irish general election, 1933",
+      "start_date": "1933-01-24"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1937-07-01",
+      "id": "Q11918771",
+      "name": "Irish general election, 1937",
+      "start_date": "1937-07-01"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1938-06-17",
+      "id": "Q6071551",
+      "name": "Irish general election, 1938",
+      "start_date": "1938-06-17"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1943-06-23",
+      "id": "Q6071553",
+      "name": "Irish general election, 1943",
+      "start_date": "1943-06-23"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1944-05-30",
+      "id": "Q2342274",
+      "name": "Irish general election, 1944",
+      "start_date": "1944-05-30"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1948-02-04",
+      "id": "Q2708652",
+      "name": "Irish general election, 1948",
+      "start_date": "1948-02-04"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1951-05-30",
+      "id": "Q2041580",
+      "name": "Irish general election, 1951",
+      "start_date": "1951-05-30"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1954-05-18",
+      "id": "Q2777752",
+      "name": "Irish general election, 1954",
+      "start_date": "1954-05-18"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1957-03-05",
+      "id": "Q2234961",
+      "name": "Irish general election, 1957",
+      "start_date": "1957-03-05"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1961-10-04",
+      "id": "Q1913653",
+      "name": "Irish general election, 1961",
+      "start_date": "1961-10-04"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1965-04-07",
+      "id": "Q2430088",
+      "name": "Irish general election, 1965",
+      "start_date": "1965-04-07"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1969-06-18",
+      "id": "Q2709901",
+      "name": "Irish general election, 1969",
+      "start_date": "1969-06-18"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1973-02-28",
+      "id": "Q1631830",
+      "name": "Irish general election, 1973",
+      "start_date": "1973-02-28"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1977-06-16",
+      "id": "Q931428",
+      "name": "Irish general election, 1977",
+      "start_date": "1977-06-16"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1981-06-11",
+      "id": "Q1327915",
+      "name": "Irish general election, 1981",
+      "start_date": "1981-06-11"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1982-02-18",
+      "id": "Q1809263",
+      "name": "Irish general election, February 1982",
+      "start_date": "1982-02-18"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1982-11-24",
+      "id": "Q2308750",
+      "name": "Irish general election, November 1982",
+      "start_date": "1982-11-24"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1987-02-17",
+      "id": "Q2052129",
+      "name": "Irish general election, 1987",
+      "start_date": "1987-02-17"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1989-06-15",
+      "id": "Q1996696",
+      "name": "Irish general election, 1989",
+      "start_date": "1989-06-15"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1992-11-25",
+      "id": "Q1996713",
+      "name": "Irish general election, 1992",
+      "start_date": "1992-11-25"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1997-06-06",
+      "id": "Q2253836",
+      "name": "Irish general election, 1997",
+      "start_date": "1997-06-06"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2002-05-17",
+      "id": "Q1561362",
+      "name": "Irish general election, 2002",
+      "start_date": "2002-05-17"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2007-05-24",
+      "id": "Q581784",
+      "name": "Irish general election, 2007",
+      "start_date": "2007-05-24"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2011-02-25",
+      "id": "Q767723",
+      "name": "Irish general election, 2011",
+      "start_date": "2011-02-25"
+    },
+    {
       "classification": "legislative period",
       "end_date": "2016-03-02",
       "id": "term/31",
       "name": "31st Dáil",
       "organization_id": "legislature",
       "start_date": "2011-03-09"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2016-02-26",
+      "id": "Q7021043",
+      "name": "Irish general election, 2016",
+      "start_date": "2016-02-26"
     },
     {
       "classification": "legislative period",
