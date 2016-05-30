@@ -272,7 +272,7 @@
       "id": "56c83828-3306-4111-9c21-738821c59dff",
       "identifiers": [
         {
-          "identifier": "x90834723",
+          "identifier": "90834723",
           "scheme": "bibsys"
         },
         {
@@ -3103,6 +3103,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ja",
+          "name": "アンティ・カリオマキ",
+          "note": "multilingual"
+        },
+        {
           "lang": "nb",
           "name": "Antti Kalliomäki",
           "note": "multilingual"
@@ -4326,6 +4331,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ja",
+          "name": "アルト・ブリュガレ",
+          "note": "multilingual"
+        },
+        {
           "lang": "nb",
           "name": "Arto Bryggare",
           "note": "multilingual"
@@ -4976,6 +4986,11 @@
         {
           "lang": "id",
           "name": "Ben Zyskowicz",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ベン・ジスコヴィチ",
           "note": "multilingual"
         },
         {
@@ -9977,6 +9992,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ja",
+          "name": "ハイディ・ハウタラ",
+          "note": "multilingual"
+        },
+        {
           "lang": "lmo",
           "name": "Heidi Hautala",
           "note": "multilingual"
@@ -12152,6 +12172,11 @@
         {
           "lang": "it",
           "name": "Jaana Pelkonen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ヤーナ・ペルコネン",
           "note": "multilingual"
         },
         {
@@ -50608,6 +50633,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ja",
+          "name": "ヴィッレ・イタラ",
+          "note": "multilingual"
+        },
+        {
           "lang": "nl",
           "name": "Ville Itälä",
           "note": "multilingual"
@@ -65617,12 +65647,194 @@
   ],
   "events": [
     {
+      "classification": "general election",
+      "end_date": "1907-03-15",
+      "id": "Q2052948",
+      "name": "Finnish parliamentary election, 1907",
+      "start_date": "1907-03-15"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1908",
+      "id": "Q1853901",
+      "name": "Finnish parliamentary election, 1908",
+      "start_date": "1908"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1909-05-03",
+      "id": "Q1571365",
+      "name": "Finnish parliamentary election, 1909",
+      "start_date": "1909-05-01"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1910",
+      "id": "Q1852888",
+      "name": "Finnish parliamentary election, 1910",
+      "start_date": "1910"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1911",
+      "id": "Q1571375",
+      "name": "Finnish parliamentary election, 1911",
+      "start_date": "1911"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1913",
+      "id": "Q1571687",
+      "name": "Finnish parliamentary election, 1913",
+      "start_date": "1913"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1916",
+      "id": "Q1571885",
+      "name": "Finnish parliamentary election, 1916",
+      "start_date": "1916"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1917",
+      "id": "Q1497020",
+      "name": "Finnish parliamentary election, 1917",
+      "start_date": "1917"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1919",
+      "id": "Q507706",
+      "name": "Finnish parliamentary election, 1919",
+      "start_date": "1919"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1922",
+      "id": "Q1571878",
+      "name": "Finnish parliamentary election, 1922",
+      "start_date": "1922"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1924",
+      "id": "Q1540994",
+      "name": "Finnish parliamentary election, 1924",
+      "start_date": "1924"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1927",
+      "id": "Q1574308",
+      "name": "Finnish parliamentary election, 1927",
+      "start_date": "1927"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1929",
+      "id": "Q1149532",
+      "name": "Finnish parliamentary election, 1929",
+      "start_date": "1929"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1930",
+      "id": "Q533250",
+      "name": "Finnish parliamentary election, 1930",
+      "start_date": "1930"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1933",
+      "id": "Q1581653",
+      "name": "Finnish parliamentary election, 1933",
+      "start_date": "1933"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1936",
+      "id": "Q1584723",
+      "name": "Finnish parliamentary election, 1936",
+      "start_date": "1936"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1939",
+      "id": "Q1582309",
+      "name": "Finnish parliamentary election, 1939",
+      "start_date": "1939"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1945",
+      "id": "Q1581732",
+      "name": "Finnish parliamentary election, 1945",
+      "start_date": "1945"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1948",
+      "id": "Q762765",
+      "name": "Finnish parliamentary election, 1948",
+      "start_date": "1948"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1951",
+      "id": "Q1584602",
+      "name": "Finnish parliamentary election, 1951",
+      "start_date": "1951"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1954",
+      "id": "Q1585402",
+      "name": "Finnish parliamentary election, 1954",
+      "start_date": "1954"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1958",
+      "id": "Q1626682",
+      "name": "Finnish parliamentary election, 1958",
+      "start_date": "1958"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1962",
+      "id": "Q1626676",
+      "name": "Finnish parliamentary election, 1962",
+      "start_date": "1962"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1966",
+      "id": "Q1626669",
+      "name": "Finnish parliamentary election, 1966",
+      "start_date": "1966"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1970",
+      "id": "Q677417",
+      "name": "Finnish parliamentary election, 1970",
+      "start_date": "1970"
+    },
+    {
       "classification": "legislative period",
       "end_date": "1972-01-21",
       "id": "term/25",
       "name": "Eduskunta 25",
       "organization_id": "legislature",
       "start_date": "1970-03-23"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1972",
+      "id": "Q1626799",
+      "name": "Finnish parliamentary election, 1972",
+      "start_date": "1972"
     },
     {
       "classification": "legislative period",
@@ -65633,12 +65845,26 @@
       "start_date": "1972-01-22"
     },
     {
+      "classification": "general election",
+      "end_date": "1975",
+      "id": "Q1626997",
+      "name": "Finnish parliamentary election, 1975",
+      "start_date": "1975"
+    },
+    {
       "classification": "legislative period",
       "end_date": "1979-03-23",
       "id": "term/27",
       "name": "Eduskunta 27",
       "organization_id": "legislature",
       "start_date": "1975-09-27"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1979",
+      "id": "Q1500224",
+      "name": "Finnish parliamentary election, 1979",
+      "start_date": "1979"
     },
     {
       "classification": "legislative period",
@@ -65649,12 +65875,26 @@
       "start_date": "1979-03-24"
     },
     {
+      "classification": "general election",
+      "end_date": "1983",
+      "id": "Q1627023",
+      "name": "Finnish parliamentary election, 1983",
+      "start_date": "1983"
+    },
+    {
       "classification": "legislative period",
       "end_date": "1987-03-20",
       "id": "term/29",
       "name": "Eduskunta 29",
       "organization_id": "legislature",
       "start_date": "1983-03-26"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1987",
+      "id": "Q1627372",
+      "name": "Finnish parliamentary election, 1987",
+      "start_date": "1987"
     },
     {
       "classification": "legislative period",
@@ -65665,12 +65905,26 @@
       "start_date": "1987-03-21"
     },
     {
+      "classification": "general election",
+      "end_date": "1991",
+      "id": "Q1230246",
+      "name": "Finnish parliamentary election, 1991",
+      "start_date": "1991"
+    },
+    {
       "classification": "legislative period",
       "end_date": "1995-03-23",
       "id": "term/31",
       "name": "Eduskunta 31",
       "organization_id": "legislature",
       "start_date": "1991-03-22"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1995",
+      "id": "Q1408737",
+      "name": "Finnish parliamentary election, 1995",
+      "start_date": "1995"
     },
     {
       "classification": "legislative period",
@@ -65681,12 +65935,26 @@
       "start_date": "1995-03-24"
     },
     {
+      "classification": "general election",
+      "end_date": "1999-03-21",
+      "id": "Q1362533",
+      "name": "Finnish parliamentary election, 1999",
+      "start_date": "1999-03-21"
+    },
+    {
       "classification": "legislative period",
       "end_date": "2003-03-18",
       "id": "term/33",
       "name": "Eduskunta 33",
       "organization_id": "legislature",
       "start_date": "1999-03-24"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2003-03-16",
+      "id": "Q1659687",
+      "name": "Finnish parliamentary election, 2003",
+      "start_date": "2003-03-16"
     },
     {
       "classification": "legislative period",
@@ -65697,6 +65965,13 @@
       "start_date": "2003-03-19"
     },
     {
+      "classification": "general election",
+      "end_date": "2007-03-18",
+      "id": "Q1386722",
+      "name": "Finnish parliamentary election, 2007",
+      "start_date": "2007-03-18"
+    },
+    {
       "classification": "legislative period",
       "end_date": "2011-04-19",
       "id": "term/35",
@@ -65705,12 +65980,26 @@
       "start_date": "2007-03-21"
     },
     {
+      "classification": "general election",
+      "end_date": "2011-04-17",
+      "id": "Q41310",
+      "name": "Finnish parliamentary election, 2011",
+      "start_date": "2011-04-17"
+    },
+    {
       "classification": "legislative period",
       "end_date": "2015-03-14",
       "id": "term/36",
       "name": "Eduskunta 36",
       "organization_id": "legislature",
       "start_date": "2011-04-20"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2015-04-19",
+      "id": "Q2112415",
+      "name": "Finnish parliamentary election, 2015",
+      "start_date": "2015-04-19"
     },
     {
       "classification": "legislative period",
