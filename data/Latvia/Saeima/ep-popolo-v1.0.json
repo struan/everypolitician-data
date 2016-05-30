@@ -12723,6 +12723,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ja",
+          "name": "グンティス・ウルマニス",
+          "note": "multilingual"
+        },
+        {
           "lang": "ka",
           "name": "გუნტის ულმანისი",
           "note": "multilingual"
@@ -30239,6 +30244,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ja",
+          "name": "マーリス・クチンスキス",
+          "note": "multilingual"
+        },
+        {
           "lang": "ka",
           "name": "მარის კუჩინსკისი",
           "note": "multilingual"
@@ -42636,6 +42646,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ja",
+          "name": "社会民主党「調和",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "Concord",
           "note": "multilingual"
@@ -42698,6 +42713,11 @@
           "lang": "ca",
           "name": "Per Letònia des del Cor",
           "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "心からラトビアに",
+          "note": "multilingual"
         }
       ]
     },
@@ -42756,6 +42776,11 @@
         {
           "lang": "pl",
           "name": "Łotewskie Zjednoczenie Regionów",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ラトビア地域連盟",
           "note": "multilingual"
         }
       ]
@@ -42910,6 +42935,11 @@
         {
           "lang": "nl",
           "name": "National Alliance",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "国民連合",
           "note": "multilingual"
         },
         {
@@ -43745,6 +43775,11 @@
           "lang": "nl",
           "name": "Union of Greens and Farmers",
           "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "緑と農民連合",
+          "note": "multilingual"
         }
       ]
     },
@@ -43903,6 +43938,11 @@
         {
           "lang": "be-tarask",
           "name": "Адзінства",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "統一",
           "note": "multilingual"
         }
       ]
@@ -46958,6 +46998,13 @@
   ],
   "events": [
     {
+      "classification": "general election",
+      "end_date": "2010-10-02",
+      "id": "Q183580",
+      "name": "Latvian parliamentary election, 2010",
+      "start_date": "2010-10-02"
+    },
+    {
       "classification": "legislative period",
       "end_date": "2011-10-16",
       "id": "term/10",
@@ -46967,6 +47014,13 @@
       "wikidata": "Q16347625"
     },
     {
+      "classification": "general election",
+      "end_date": "2011-09-17",
+      "id": "Q1507606",
+      "name": "Latvian parliamentary election, 2011",
+      "start_date": "2011-09-17"
+    },
+    {
       "classification": "legislative period",
       "end_date": "2014-11-03",
       "id": "term/11",
@@ -46974,6 +47028,13 @@
       "organization_id": "legislature",
       "start_date": "2011-10-17",
       "wikidata": "Q13098708"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2014-10-04",
+      "id": "Q16799321",
+      "name": "Latvian parliamentary election, 2014",
+      "start_date": "2014-10-04"
     },
     {
       "classification": "legislative period",
