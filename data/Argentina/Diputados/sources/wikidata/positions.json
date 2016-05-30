@@ -1725,9 +1725,15 @@
   ],
   "Q3052342": [
     {
-      "id": "Q2601742",
-      "label": "Ministry of Defense",
-      "title": "Ministry of Defense"
+      "id": "Q24258967",
+      "label": "Minister of Defense",
+      "title": "Minister of Defense",
+      "qualifiers": {
+        "P580": "2005-11-28",
+        "P582": "2010-12-15",
+        "P1365": "José Pampuro",
+        "P1366": "Arturo Puricelli"
+      }
     },
     {
       "id": "Q18229570",
