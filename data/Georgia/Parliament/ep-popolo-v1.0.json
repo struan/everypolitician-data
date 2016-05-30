@@ -893,6 +893,10 @@
           "url": "https://sv.wikipedia.org/wiki/Davit_Usupasjvili"
         },
         {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Давід_Усупашвілі"
+        },
+        {
           "note": "Wikipedia (xmf)",
           "url": "https://xmf.wikipedia.org/wiki/დავით_უსუფაშვილი"
         },
@@ -8794,12 +8798,68 @@
   ],
   "events": [
     {
+      "classification": "general election",
+      "end_date": "1990",
+      "id": "Q3651327",
+      "name": "Georgian parliamentary election, 1990",
+      "start_date": "1990"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1992",
+      "id": "Q3827880",
+      "name": "Georgian general election, 1992",
+      "start_date": "1992"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1995",
+      "id": "Q3651336",
+      "name": "Georgian parliamentary election, 1995",
+      "start_date": "1995"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1999",
+      "id": "Q3651340",
+      "name": "Georgian parliamentary election, 1999",
+      "start_date": "1999"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2004",
+      "id": "Q3651357",
+      "name": "Georgian parliamentary election, 2004",
+      "start_date": "2004"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2008",
+      "id": "Q143023",
+      "name": "Georgian parliamentary election, 2008",
+      "start_date": "2008"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2012",
+      "id": "Q1849150",
+      "name": "Georgian parliamentary election, 2012",
+      "start_date": "2012"
+    },
+    {
       "classification": "legislative period",
       "end_date": "2016-10-01",
       "id": "term/8",
       "name": "8th Convocation",
       "organization_id": "legislature",
       "start_date": "2012-10-20"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2016-10-08",
+      "id": "Q19428917",
+      "name": "Georgian parliamentary election, 2016",
+      "start_date": "2016-10-08"
     }
   ],
   "areas": [
