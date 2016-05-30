@@ -3720,11 +3720,16 @@
       ],
       "email": "stetsko@house.gov.by",
       "gender": "male",
+      "given_name": "Alyaksandr",
       "id": "6863bc47-74a1-4f69-a6e5-9356f7e3008a",
       "identifiers": [
         {
           "identifier": "36037",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q14918481",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://house.gov.by/files/images/rsrsrr.jpg",
@@ -3733,7 +3738,29 @@
           "url": "http://house.gov.by/files/images/rsrsrr.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Alaksandr_Sciacko"
+        }
+      ],
       "name": "STETSKO ALEKSANDR",
+      "other_names": [
+        {
+          "name": "Aleksandr Stiecko",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Aleksandr Stiecko",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Alaksandr Sciacko",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://house.gov.by/index.php/,7508,36037,,,1,,,0.html"
