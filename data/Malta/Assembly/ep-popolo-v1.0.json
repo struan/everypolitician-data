@@ -2293,6 +2293,10 @@
           "url": "https://be.wikipedia.org/wiki/Джозеф_Мускат"
         },
         {
+          "note": "Wikipedia (be_x_old)",
+          "url": "https://be_x_old.wikipedia.org/wiki/Джозэф_Мускат"
+        },
+        {
           "note": "Wikipedia (cs)",
           "url": "https://cs.wikipedia.org/wiki/Joseph_Muscat"
         },
@@ -2822,6 +2826,11 @@
         {
           "lang": "nl",
           "name": "Konrad Mizzi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "康拉德·米西",
           "note": "multilingual"
         }
       ],
@@ -4340,6 +4349,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ja",
+          "name": "労働党 (マルタ)",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "Malta Labour Party",
           "note": "multilingual"
@@ -4466,6 +4480,11 @@
         {
           "lang": "cs",
           "name": "Nacionalistická strana",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "国民党 (マルタ)",
           "note": "multilingual"
         },
         {
@@ -4988,11 +5007,347 @@
   ],
   "events": [
     {
+      "classification": "general election",
+      "end_date": "1854",
+      "id": "Q6744839",
+      "name": "Maltese general election, 1854",
+      "start_date": "1854"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1860-01-24",
+      "id": "Q6744837",
+      "name": "Maltese general election, 1860",
+      "start_date": "1860-01-24"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1865",
+      "id": "Q6744841",
+      "name": "Maltese general election, 1865",
+      "start_date": "1865"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1870",
+      "id": "Q6744840",
+      "name": "Maltese general election, 1870",
+      "start_date": "1870"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1875",
+      "id": "Q6744842",
+      "name": "Maltese general election, 1875",
+      "start_date": "1875"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1880",
+      "id": "Q16932159",
+      "name": "Maltese general election, 1880",
+      "start_date": "1880"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1883",
+      "id": "Q6744845",
+      "name": "Maltese general election, 1883",
+      "start_date": "1883"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1888",
+      "id": "Q6744846",
+      "name": "Maltese general election, 1888",
+      "start_date": "1888"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1889",
+      "id": "Q6744848",
+      "name": "Maltese general election, 1889",
+      "start_date": "1889"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1892",
+      "id": "Q16932164",
+      "name": "Maltese general election, 1892",
+      "start_date": "1892"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1895",
+      "id": "Q6744851",
+      "name": "Maltese general election, 1895",
+      "start_date": "1895"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1898",
+      "id": "Q6744852",
+      "name": "Maltese general election, 1898",
+      "start_date": "1898"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1899",
+      "id": "Q16932172",
+      "name": "Maltese general election, 1899",
+      "start_date": "1899"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1900",
+      "id": "Q6744854",
+      "name": "Maltese general election, 1900",
+      "start_date": "1900"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1904-01",
+      "id": "Q6744869",
+      "name": "Maltese general election, January 1904",
+      "start_date": "1904-01"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1904-02",
+      "id": "Q16950359",
+      "name": "Maltese general election, February 1904",
+      "start_date": "1904-02"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1904-04",
+      "id": "Q6744868",
+      "name": "Maltese general election, April 1904",
+      "start_date": "1904-04"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1907",
+      "id": "Q6744855",
+      "name": "Maltese general election, 1907",
+      "start_date": "1907"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1909",
+      "id": "Q6744856",
+      "name": "Maltese general election, 1909",
+      "start_date": "1909"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1911",
+      "id": "Q6744858",
+      "name": "Maltese general election, 1911",
+      "start_date": "1911"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1912",
+      "id": "Q6744861",
+      "name": "Maltese general election, 1912",
+      "start_date": "1912"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1913",
+      "id": "Q6744860",
+      "name": "Maltese general election, 1913",
+      "start_date": "1913"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1915",
+      "id": "Q16932177",
+      "name": "Maltese general election, 1915",
+      "start_date": "1915"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1917",
+      "id": "Q6744864",
+      "name": "Maltese general election, 1917",
+      "start_date": "1917"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1921",
+      "id": "Q6744863",
+      "name": "Maltese general election, 1921",
+      "start_date": "1921"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1924",
+      "id": "Q6744866",
+      "name": "Maltese general election, 1924",
+      "start_date": "1924"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1927",
+      "id": "Q3722361",
+      "name": "Maltese general election, 1927",
+      "start_date": "1927"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1932",
+      "id": "Q3722362",
+      "name": "Maltese general election, 1932",
+      "start_date": "1932"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1939",
+      "id": "Q750734",
+      "name": "Maltese general election, 1939",
+      "start_date": "1939"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1945",
+      "id": "Q3722363",
+      "name": "Maltese general election, 1945",
+      "start_date": "1945"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1947",
+      "id": "Q2069163",
+      "name": "1947 Maltese general election",
+      "start_date": "1947"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1950",
+      "id": "Q2069139",
+      "name": "1950 Maltese general election",
+      "start_date": "1950"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1951",
+      "id": "Q2068788",
+      "name": "1951 Maltese general election",
+      "start_date": "1951"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1953",
+      "id": "Q2069131",
+      "name": "1953 Maltese general election",
+      "start_date": "1953"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1955",
+      "id": "Q2069123",
+      "name": "1955 Maltese general election",
+      "start_date": "1955"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1962",
+      "id": "Q2069157",
+      "name": "1962 Maltese general election",
+      "start_date": "1962"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1966",
+      "id": "Q2069172",
+      "name": "1966 Maltese general election",
+      "start_date": "1966"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1971",
+      "id": "Q2069145",
+      "name": "1971 Maltese general election",
+      "start_date": "1971"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1976",
+      "id": "Q2069110",
+      "name": "1976 Maltese general election",
+      "start_date": "1976"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1981-12-12",
+      "id": "Q3722367",
+      "name": "Maltese general election, 1981",
+      "start_date": "1981-12-12"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1987-05-09",
+      "id": "Q748138",
+      "name": "Maltese general election, 1987",
+      "start_date": "1987-05-09"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1992-02-22",
+      "id": "Q2069151",
+      "name": "1992 Maltese general election",
+      "start_date": "1992-02-22"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1996-10-26",
+      "id": "Q929182",
+      "name": "Maltese general election, 1996",
+      "start_date": "1996-10-26"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1998-09-05",
+      "id": "Q2069102",
+      "name": "1998 Maltese general election",
+      "start_date": "1998-09-05"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2003-04-12",
+      "id": "Q2069083",
+      "name": "2003 Maltese general election",
+      "start_date": "2003-04-12"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2008-03-08",
+      "id": "Q82498",
+      "name": "2008 Maltese general election",
+      "start_date": "2008-03-08"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2013-03-09",
+      "id": "Q1586695",
+      "name": "2013 Maltese general election",
+      "start_date": "2013-03-09"
+    },
+    {
       "classification": "legislative period",
       "id": "term/12",
       "name": "12th Parliament",
       "organization_id": "legislature",
       "start_date": "2013-04-06"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2016-08-20",
+      "id": "Q6744836",
+      "name": "Maltese general election, 1849",
+      "start_date": "2016-08-20"
     }
   ],
   "areas": [
