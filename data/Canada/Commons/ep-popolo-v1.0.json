@@ -14237,6 +14237,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ja",
+          "name": "エド・ファスト",
+          "note": "multilingual"
+        },
+        {
           "lang": "nb",
           "name": "Ed Fast",
           "note": "multilingual"
@@ -15818,6 +15823,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Frank_Baylis"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Frank_Baylis"
         },
         {
           "note": "twitter",
@@ -18899,6 +18908,10 @@
           "url": "https://fa.wikipedia.org/wiki/هارگیت_ساجان"
         },
         {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Harjit_Sajjan"
+        },
+        {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Harjit_Sajjan"
         },
@@ -18966,6 +18979,11 @@
         {
           "lang": "fa",
           "name": "هارگیت ساجان",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Harjit Sajjan",
           "note": "multilingual"
         },
         {
@@ -24373,6 +24391,11 @@
         {
           "lang": "hu",
           "name": "John Baird",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ジョン・ラッセル・ベアード",
           "note": "multilingual"
         },
         {
@@ -32894,6 +32917,11 @@
         {
           "lang": "it",
           "name": "Marc Garneau",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "マーク・ガルノー",
           "note": "multilingual"
         },
         {
@@ -41653,6 +41681,11 @@
         {
           "lang": "it",
           "name": "Peter MacKay",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ピーター・マッケイ",
           "note": "multilingual"
         },
         {
@@ -62240,6 +62273,293 @@
   ],
   "events": [
     {
+      "classification": "general election",
+      "end_date": "1867-10-12",
+      "id": "Q909849",
+      "name": "Canadian federal election, 1867",
+      "start_date": "1867-07-20"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1872-10-12",
+      "id": "Q909878",
+      "name": "Canadian federal election, 1872",
+      "start_date": "1872-07-20"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1874-01-22",
+      "id": "Q909868",
+      "name": "Canadian federal election, 1874",
+      "start_date": "1874-01-22"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1878-09-17",
+      "id": "Q909888",
+      "name": "Canadian federal election, 1878",
+      "start_date": "1878-09-17"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1882-06-20",
+      "id": "Q909839",
+      "name": "Canadian federal election, 1882",
+      "start_date": "1882-06-20"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1887-02-22",
+      "id": "Q374258",
+      "name": "Canadian federal election, 1887",
+      "start_date": "1887-02-22"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1891-03-05",
+      "id": "Q1616009",
+      "name": "Canadian federal election, 1891",
+      "start_date": "1891-03-05"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1896-06-23",
+      "id": "Q1723524",
+      "name": "Canadian federal election, 1896",
+      "start_date": "1896-06-23"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1900-11-07",
+      "id": "Q1723526",
+      "name": "Canadian federal election, 1900",
+      "start_date": "1900-11-07"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1904-11-03",
+      "id": "Q909860",
+      "name": "Canadian federal election, 1904",
+      "start_date": "1904-11-03"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1908-10-26",
+      "id": "Q1717224",
+      "name": "Canadian federal election, 1908",
+      "start_date": "1908-10-26"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1911-09-21",
+      "id": "Q787147",
+      "name": "Canadian federal election, 1911",
+      "start_date": "1911-09-21"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1917-12-17",
+      "id": "Q1723529",
+      "name": "Canadian federal election, 1917",
+      "start_date": "1917-12-17"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1921-12-06",
+      "id": "Q1723530",
+      "name": "Canadian federal election, 1921",
+      "start_date": "1921-12-06"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1925-10-29",
+      "id": "Q1723528",
+      "name": "Canadian federal election, 1925",
+      "start_date": "1925-10-29"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1926-09-14",
+      "id": "Q1666164",
+      "name": "Canadian federal election, 1926",
+      "start_date": "1926-09-14"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1930-07-28",
+      "id": "Q1723531",
+      "name": "Canadian federal election, 1930",
+      "start_date": "1930-07-28"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1935-10-14",
+      "id": "Q1493320",
+      "name": "Canadian federal election, 1935",
+      "start_date": "1935-10-14"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1940-03-26",
+      "id": "Q1448629",
+      "name": "Canadian federal election, 1940",
+      "start_date": "1940-03-26"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1945-06-11",
+      "id": "Q1723532",
+      "name": "Canadian federal election, 1945",
+      "start_date": "1945-06-11"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1949-06-27",
+      "id": "Q912416",
+      "name": "Canadian federal election, 1949",
+      "start_date": "1949-06-27"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1953-08-10",
+      "id": "Q913758",
+      "name": "Canadian federal election, 1953",
+      "start_date": "1953-08-10"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1957-06-10",
+      "id": "Q936847",
+      "name": "Canadian federal election, 1957",
+      "start_date": "1957-06-10"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1958-03-31",
+      "id": "Q595982",
+      "name": "Canadian federal election, 1958",
+      "start_date": "1958-03-31"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1962-06-18",
+      "id": "Q937416",
+      "name": "Canadian federal election, 1962",
+      "start_date": "1962-06-18"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1963-04-08",
+      "id": "Q937472",
+      "name": "Canadian federal election, 1963",
+      "start_date": "1963-04-08"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1965-11-08",
+      "id": "Q780004",
+      "name": "Canadian federal election, 1965",
+      "start_date": "1965-11-08"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1968-06-25",
+      "id": "Q951012",
+      "name": "Canadian federal election, 1968",
+      "start_date": "1968-06-25"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1972-10-30",
+      "id": "Q951046",
+      "name": "Canadian federal election, 1972",
+      "start_date": "1972-10-30"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1974-07-08",
+      "id": "Q954802",
+      "name": "Canadian federal election, 1974",
+      "start_date": "1974-07-08"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1979-05-22",
+      "id": "Q954886",
+      "name": "Canadian federal election, 1979",
+      "start_date": "1979-05-22"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1980-02-18",
+      "id": "Q952341",
+      "name": "Canadian federal election, 1980",
+      "start_date": "1980-02-18"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1984-09-04",
+      "id": "Q1125968",
+      "name": "Canadian federal election, 1984",
+      "start_date": "1984-09-04"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1988-11-21",
+      "id": "Q1126013",
+      "name": "Canadian federal election, 1988",
+      "start_date": "1988-11-21"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1993-10-25",
+      "id": "Q374646",
+      "name": "Canadian federal election, 1993",
+      "start_date": "1993-10-25"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1997-06-02",
+      "id": "Q3586269",
+      "name": "Canadian federal election, 1997",
+      "start_date": "1997-06-02"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2000-11-27",
+      "id": "Q1355905",
+      "name": "Canadian federal election, 2000",
+      "start_date": "2000-11-27"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2004-06-28",
+      "id": "Q1637432",
+      "name": "Canadian federal election, 2004",
+      "start_date": "2004-06-28"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2006-01-23",
+      "id": "Q1723544",
+      "name": "Canadian federal election, 2006",
+      "start_date": "2006-01-23"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2008-10-14",
+      "id": "Q1466815",
+      "name": "Canadian federal election, 2008",
+      "start_date": "2008-10-14"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2011-05-02",
+      "id": "Q41302",
+      "name": "Canadian federal election, 2011",
+      "start_date": "2011-05-02"
+    },
+    {
       "classification": "legislative period",
       "end_date": "2015-08-02",
       "id": "term/41",
@@ -62247,6 +62567,13 @@
       "organization_id": "legislature",
       "start_date": "2011-06-02",
       "wikidata": "Q2816776"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2015-10-19",
+      "id": "Q3586271",
+      "name": "Canadian federal election, 2015",
+      "start_date": "2015-10-19"
     },
     {
       "classification": "legislative period",
