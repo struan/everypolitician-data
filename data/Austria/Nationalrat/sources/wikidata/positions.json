@@ -338,12 +338,29 @@
     {
       "id": "Q17535155",
       "label": "Member of the National Council of Austria",
-      "title": "Member of the National Council of Austria"
+      "title": "Member of the National Council of Austria",
+      "qualifiers": {
+        "P580": "2006-10-30",
+        "P582": ""
+      }
     },
     {
       "id": "Q23711521",
       "label": "Member of the regional parliament of Vienna",
-      "title": "Member of the regional parliament of Vienna"
+      "title": "Member of the regional parliament of Vienna",
+      "qualifiers": {
+        "P580": "1996",
+        "P582": "2006"
+      }
+    },
+    {
+      "id": "Q24256233",
+      "label": "chairman of the Freedom Party of Austria",
+      "title": "chairman of the Freedom Party of Austria",
+      "qualifiers": {
+        "P580": "2005",
+        "P582": ""
+      }
     }
   ],
   "Q1527486": [
@@ -1069,7 +1086,8 @@
       "label": "Member of the National Council of Austria",
       "title": "Member of the National Council of Austria",
       "qualifiers": {
-        "P580": "2006-10-01"
+        "P580": "2006-10-30",
+        "P582": ""
       }
     },
     {
@@ -1077,7 +1095,8 @@
       "label": "Q22328268",
       "title": "Q22328268",
       "qualifiers": {
-        "P580": "2013-10-29"
+        "P580": "2013-10-29",
+        "P582": ""
       }
     }
   ],
