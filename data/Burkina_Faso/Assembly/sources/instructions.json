@@ -49,6 +49,20 @@
       }
     },
     {
+      "file": "morph/historic-1.csv",
+      "create": {
+        "from": "morph",
+        "scraper": "tmtmtmtm/burkina-faso-historic",
+        "query": "SELECT * FROM data WHERE term = 1 ORDER BY name"
+      },
+      "type": "membership",
+      "merge": {
+        "incoming_field": "name",
+        "existing_field": "name",
+        "reconciliation_file": "reconciliation/historic-1.csv"
+      }
+    },
+    {
       "file": "manual/terms.csv",
       "type": "term"
     },
