@@ -442,6 +442,12 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/Asef-haciyev.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Asef-haciyev.jpg"
+        }
+      ],
       "links": [
         {
           "note": "Wikipedia (az)",
@@ -2647,12 +2653,6 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ed/DQİDK_sədri_Mübariz_Qurbanlının_\"Amerikanın_Səsi\"nə_müsahibəsi_-_3.2.jpg",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/DQİDK_sədri_Mübariz_Qurbanlının_\"Amerikanın_Səsi\"nə_müsahibəsi_-_3.2.jpg"
-        }
-      ],
       "links": [
         {
           "note": "Wikipedia (az)",
@@ -4703,6 +4703,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ja",
+          "name": "ゼイナプ・ハンラロヴァ",
+          "note": "multilingual"
+        },
+        {
           "lang": "nl",
           "name": "Zeynab Khanlarova",
           "note": "multilingual"
@@ -5618,6 +5623,11 @@
         {
           "lang": "az",
           "name": "Əli Əhmədov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "アリ・アフマドフ",
           "note": "multilingual"
         },
         {
@@ -8935,12 +8945,54 @@
   ],
   "events": [
     {
+      "classification": "general election",
+      "end_date": "1990",
+      "id": "Q4832429",
+      "name": "Azerbaijani parliamentary election, 1990",
+      "start_date": "1990"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1995",
+      "id": "Q4832432",
+      "name": "Azerbaijani parliamentary election, 1995–1996",
+      "start_date": "1995"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2000",
+      "id": "Q4832435",
+      "name": "Azerbaijani parliamentary election, 2000–2001",
+      "start_date": "2000"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2005",
+      "id": "Q4832433",
+      "name": "Azerbaijani parliamentary election, 2005",
+      "start_date": "2005"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2010",
+      "id": "Q1889178",
+      "name": "Azerbaijani parliamentary election 2010",
+      "start_date": "2010"
+    },
+    {
       "classification": "legislative period",
       "end_date": "2015",
       "id": "term/4",
       "name": "IV çağırış",
       "organization_id": "legislature",
       "start_date": "2010"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2015",
+      "id": "Q18701930",
+      "name": "Azerbaijani parliamentary election, 2015",
+      "start_date": "2015"
     },
     {
       "classification": "legislative period",
