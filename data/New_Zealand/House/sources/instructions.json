@@ -11,6 +11,21 @@
       "type": "membership"
     },
     {
+      "file": "morph/wikipedia.csv",
+      "create": {
+        "from": "morph",
+        "scraper": "everypolitician-scrapers/new-zealand-parliament-wikipedia",
+        "query": "SELECT * FROM data ORDER BY term, name"
+      },
+      "source": "http://wikidata.org/",
+      "type": "membership",
+      "merge": {
+        "incoming_field": "name",
+        "existing_field": "name",
+        "reconciliation_file": "reconciliation/wikipedia.csv"
+      }
+    },
+    {
       "file": "morph/wikidata.csv",
       "create": {
         "from": "morph",
