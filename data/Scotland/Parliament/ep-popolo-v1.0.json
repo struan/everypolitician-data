@@ -2617,6 +2617,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "88be7c68-18b0-4a55-b6fb-8f7aae9242f0",
       "identifiers": [
         {
@@ -6894,6 +6895,11 @@
         {
           "lang": "it",
           "name": "Donald Dewar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ドナルド・デュワー",
           "note": "multilingual"
         },
         {
@@ -14440,6 +14446,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ja",
+          "name": "リアム・マッカーサー",
+          "note": "multilingual"
+        },
+        {
           "lang": "nl",
           "name": "Liam McArthur",
           "note": "multilingual"
@@ -14997,6 +15008,11 @@
         {
           "lang": "it",
           "name": "David Steel",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "デイヴィッド・スティール",
           "note": "multilingual"
         },
         {
@@ -17492,6 +17508,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "82d9cf13-9af7-418d-85ec-5b3892c1aba8",
       "identifiers": [
         {
@@ -19107,6 +19124,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "2e3e2ca1-d04f-4472-80f9-af59eed27f3d",
       "identifiers": [
         {
@@ -20257,6 +20275,11 @@
         {
           "lang": "hu",
           "name": "Roseanna Cunningham",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ロザンナ・カニンガム",
           "note": "multilingual"
         },
         {
@@ -22489,6 +22512,11 @@
         {
           "lang": "hu",
           "name": "Wendy Alexander",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ウェンディ・アレクサンダー",
           "note": "multilingual"
         },
         {
@@ -30416,12 +30444,26 @@
   ],
   "events": [
     {
+      "classification": "general election",
+      "end_date": "1999-05-06",
+      "id": "Q1269950",
+      "name": "Scottish Parliament general election, 1999",
+      "start_date": "1999-05-06"
+    },
+    {
       "classification": "legislative period",
       "end_date": "2003-03-31",
       "id": "term/1",
       "name": "1st Parliament",
       "organization_id": "legislature",
       "start_date": "1999-05-06"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2003-05-01",
+      "id": "Q683800",
+      "name": "Scottish Parliament general election, 2003",
+      "start_date": "2003-05-01"
     },
     {
       "classification": "legislative period",
@@ -30432,6 +30474,13 @@
       "start_date": "2003-05-01"
     },
     {
+      "classification": "general election",
+      "end_date": "2007-05-03",
+      "id": "Q953141",
+      "name": "Scottish Parliament general election, 2007",
+      "start_date": "2007-05-03"
+    },
+    {
       "classification": "legislative period",
       "end_date": "2011-05-04",
       "id": "term/3",
@@ -30440,12 +30489,26 @@
       "start_date": "2007-05-03"
     },
     {
+      "classification": "general election",
+      "end_date": "2011-05-05",
+      "id": "Q1862416",
+      "name": "Scottish Parliament general election, 2011",
+      "start_date": "2011-05-05"
+    },
+    {
       "classification": "legislative period",
       "end_date": "2016-03-24",
       "id": "term/4",
       "name": "4th Parliament",
       "organization_id": "legislature",
       "start_date": "2011-05-06"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2016-05-05",
+      "id": "Q7437890",
+      "name": "Scottish Parliament general election, 2016",
+      "start_date": "2016-05-05"
     },
     {
       "classification": "legislative period",
