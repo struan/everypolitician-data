@@ -2797,6 +2797,11 @@
           "note": "alternate"
         },
         {
+          "lang": "ja",
+          "name": "ダグマラ・ボルロヴァー",
+          "note": "multilingual"
+        },
+        {
           "lang": "pl",
           "name": "Dagmara Bollová",
           "note": "multilingual"
@@ -3297,6 +3302,11 @@
         {
           "lang": "fr",
           "name": "Daniel Lipšic",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ダニエル・リプシック",
           "note": "multilingual"
         },
         {
@@ -6115,6 +6125,11 @@
         {
           "lang": "hu",
           "name": "František Mikloško",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "フランチシェク・ミクロシュコ",
           "note": "multilingual"
         },
         {
@@ -13688,6 +13703,11 @@
         {
           "lang": "it",
           "name": "Jozef Migaš",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ヨゼフ・ミガシュ",
           "note": "multilingual"
         },
         {
@@ -33667,6 +33687,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ja",
+          "name": "ルドルフ・シュステル",
+          "note": "multilingual"
+        },
+        {
           "lang": "ka",
           "name": "რუდოლფ შუსტერი",
           "note": "multilingual"
@@ -36867,6 +36892,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Vincent_Lukáč"
+        },
+        {
           "note": "Wikipedia (cs)",
           "url": "https://cs.wikipedia.org/wiki/Vincent_Lukáč"
         },
@@ -39001,6 +39030,11 @@
         {
           "lang": "it",
           "name": "Zuzana Martináková",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ズザナ・マルチナーコヴァー",
           "note": "multilingual"
         },
         {
@@ -41428,6 +41462,7 @@
           "value": "slacstef@nrsr.sk"
         }
       ],
+      "death_date": "2016-05-26",
       "email": "slacstef@nrsr.sk",
       "family_name": "Šlachta",
       "gender": "male",
@@ -41467,6 +41502,16 @@
       "name": "Štefan Šlachta",
       "national_identity": "slovenská",
       "other_names": [
+        {
+          "lang": "en",
+          "name": "Štefan Šlachta",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Štefan Šlachta",
+          "note": "multilingual"
+        },
         {
           "lang": "sk",
           "name": "Štefan Šlachta",
@@ -52992,12 +53037,110 @@
   ],
   "events": [
     {
+      "classification": "general election",
+      "end_date": "1938",
+      "id": "Q11931912",
+      "name": "Slovak parliamentary election, 1938",
+      "start_date": "1938"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1948",
+      "id": "Q11931708",
+      "name": "Slovak parliamentary election",
+      "start_date": "1948"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1954",
+      "id": "Q11931732",
+      "name": "Slovak parliamentary election",
+      "start_date": "1954"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1960",
+      "id": "Q11931752",
+      "name": "Slovak parliamentary election, 1960",
+      "start_date": "1960"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1964",
+      "id": "Q11931767",
+      "name": "Slovak parliamentary election, 1964",
+      "start_date": "1964"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1971",
+      "id": "Q11931811",
+      "name": "Slovak parliamentary election, 1971",
+      "start_date": "1971"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1976",
+      "id": "Q11931831",
+      "name": "Slovak parliamentary election, 1976",
+      "start_date": "1976"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1981",
+      "id": "Q11931846",
+      "name": "Slovak parliamentary election, 1981",
+      "start_date": "1981"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1986",
+      "id": "Q11931864",
+      "name": "Slovak parliamentary election, 1986",
+      "start_date": "1986"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1990",
+      "id": "Q2053294",
+      "name": "Slovak parliamentary election, 1990",
+      "start_date": "1990"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1992",
+      "id": "Q2053313",
+      "name": "Slovak parliamentary election, 1992",
+      "start_date": "1992"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1994",
+      "id": "Q1308966",
+      "name": "Slovak parliamentary election, 1994",
+      "start_date": "1994"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1998",
+      "id": "Q1634782",
+      "name": "Slovak parliamentary election, 1998",
+      "start_date": "1998"
+    },
+    {
       "classification": "legislative period",
       "end_date": "2002-09-21",
       "id": "term/2",
       "name": "2. Národná rada 1998-2002",
       "organization_id": "legislature",
       "start_date": "1998-09-26"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2002-09-21",
+      "id": "Q1512455",
+      "name": "Slovak parliamentary election, 2002",
+      "start_date": "2002-09-21"
     },
     {
       "classification": "legislative period",
@@ -53008,12 +53151,26 @@
       "start_date": "2002-09-22"
     },
     {
+      "classification": "general election",
+      "end_date": "2006-06-17",
+      "id": "Q937308",
+      "name": "Slovak parliamentary election, 2006",
+      "start_date": "2006-06-17"
+    },
+    {
       "classification": "legislative period",
       "end_date": "2010-06-12",
       "id": "term/4",
       "name": "4. Národná rada 2006-2010",
       "organization_id": "legislature",
       "start_date": "2006-06-17"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2010-06-12",
+      "id": "Q856417",
+      "name": "Slovak parliamentary election, 2010",
+      "start_date": "2010-06-12"
     },
     {
       "classification": "legislative period",
@@ -53024,11 +53181,25 @@
       "start_date": "2010-06-13"
     },
     {
+      "classification": "general election",
+      "end_date": "2012-03-10",
+      "id": "Q1078236",
+      "name": "Slovak parliamentary election, 2012",
+      "start_date": "2012-03-10"
+    },
+    {
       "classification": "legislative period",
       "id": "term/6",
       "name": "6. Národná rada 2012-",
       "organization_id": "legislature",
       "start_date": "2012-03-11"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2016-03-05",
+      "id": "Q17325619",
+      "name": "Slovak parliamentary election, 2016",
+      "start_date": "2016-03-05"
     }
   ],
   "areas": [
