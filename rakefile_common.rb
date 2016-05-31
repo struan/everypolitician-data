@@ -65,7 +65,7 @@ def json_write(file, json)
   json[:memberships].sort_by!   { |m| [ 
     m[:person_id], m[:organization_id], m[:legislative_period_id], m[:start_date].to_s, m[:on_behalf_of_id].to_s, m[:area_id].to_s 
   ] }
-  json[:events].sort_by!        { |e| [ e[:start_date] || '', e[:id] ] } if json.key? :events
+  json[:events].sort_by!        { |e| [ e[:start_date].to_s || '', e[:id].to_s ] } if json.key? :events
   json[:areas].sort_by!         { |a| [ a[:id] ] } if json.key? :areas
   final = Hash[deep_sort(json).sort_by { |k, _| k }.reverse]
   File.write(file, JSON.pretty_generate(final))
