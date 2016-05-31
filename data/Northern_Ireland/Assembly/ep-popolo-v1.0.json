@@ -532,6 +532,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ja",
+          "name": "アレックス・アットウッド",
+          "note": "multilingual"
+        },
+        {
           "lang": "nl",
           "name": "Alex Attwood",
           "note": "multilingual"
@@ -1957,6 +1962,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "842ba138-726d-43c2-80a7-5c9af1d4f1ae",
       "identifiers": [
         {
@@ -1980,6 +1986,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "16156825-5fdd-4670-a3d3-631155804064",
       "identifiers": [
         {
@@ -2631,6 +2638,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "acb3c417-49a5-4b3a-a30f-0a0727d2eeec",
       "identifiers": [
         {
@@ -2859,6 +2867,11 @@
         {
           "lang": "hu",
           "name": "Conor Murphy",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "コナー・マーフィー",
           "note": "multilingual"
         },
         {
@@ -3765,6 +3778,11 @@
         {
           "lang": "hu",
           "name": "David McNarry",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "デイヴィッド・マクナリー",
           "note": "multilingual"
         },
         {
@@ -5260,6 +5278,11 @@
         {
           "lang": "it",
           "name": "Eamonn McCann",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "イアモン・マッキャン",
           "note": "multilingual"
         },
         {
@@ -6953,6 +6976,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ja",
+          "name": "ジェリー・アダムズ",
+          "note": "multilingual"
+        },
+        {
           "lang": "ko",
           "name": "게리 애덤스",
           "note": "multilingual"
@@ -8145,7 +8173,7 @@
       "links": [
         {
           "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Ian_Paisley,_Jr."
+          "url": "https://en.wikipedia.org/wiki/Ian_Paisley_Jr."
         },
         {
           "note": "Wikipedia (la)",
@@ -8816,6 +8844,11 @@
         {
           "lang": "nl",
           "name": "Jennifer McCann",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Маккенн, Дженнифер",
           "note": "multilingual"
         }
       ]
@@ -10926,6 +10959,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "fd6c3aec-216a-4bea-98b4-742f76fe2223",
       "identifiers": [
         {
@@ -11714,6 +11748,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ja",
+          "name": "マーク・ダーカン",
+          "note": "multilingual"
+        },
+        {
           "lang": "nl",
           "name": "Mark Durkan",
           "note": "multilingual"
@@ -12081,6 +12120,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ja",
+          "name": "マーティン・マクギネス",
+          "note": "multilingual"
+        },
+        {
           "lang": "la",
           "name": "Martinus McGuinness",
           "note": "multilingual"
@@ -12251,6 +12295,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ru",
+          "name": "Андерсон, Мартина",
+          "note": "multilingual"
+        },
+        {
           "lang": "sv",
           "name": "Martina Anderson",
           "note": "multilingual"
@@ -12374,6 +12423,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "de187287-fc5e-491d-ac4e-eb04a347615d",
       "identifiers": [
         {
@@ -16547,6 +16597,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "ef8a2199-98b6-41da-a5db-6af54f6d7eb9",
       "identifiers": [
         {
@@ -17636,6 +17687,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "8eb5afd9-f2b3-4686-9fc7-2ce2966df15c",
       "identifiers": [
         {
@@ -19449,6 +19501,11 @@
         {
           "lang": "zh",
           "name": "北愛爾蘭綠黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "北アイルランド緑の党",
           "note": "multilingual"
         },
         {
@@ -21390,6 +21447,11 @@
         {
           "lang": "zh",
           "name": "傳統統一之聲",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "伝統的ユニオニストの声",
           "note": "multilingual"
         }
       ]
@@ -27353,6 +27415,13 @@
   ],
   "events": [
     {
+      "classification": "general election",
+      "end_date": "1998-06-25",
+      "id": "Q2076208",
+      "name": "Northern Ireland Assembly election, 1998",
+      "start_date": "1998-06-25"
+    },
+    {
       "classification": "legislative period",
       "end_date": "2003-04-28",
       "id": "term/1",
@@ -27360,6 +27429,13 @@
       "organization_id": "legislature",
       "start_date": "1998-06-25",
       "wikidata": "Q21128140"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2003-11-26",
+      "id": "Q2076187",
+      "name": "Northern Ireland Assembly election, 2003",
+      "start_date": "2003-11-26"
     },
     {
       "classification": "legislative period",
@@ -27371,6 +27447,13 @@
       "wikidata": "Q21128144"
     },
     {
+      "classification": "general election",
+      "end_date": "2007-03-07",
+      "id": "Q2562399",
+      "name": "Northern Ireland Assembly election, 2007",
+      "start_date": "2007-03-07"
+    },
+    {
       "classification": "legislative period",
       "end_date": "2011-03-24",
       "id": "term/3",
@@ -27380,6 +27463,13 @@
       "wikidata": "Q21128152"
     },
     {
+      "classification": "general election",
+      "end_date": "2011-05-05",
+      "id": "Q7058474",
+      "name": "Northern Ireland Assembly election, 2011",
+      "start_date": "2011-05-05"
+    },
+    {
       "classification": "legislative period",
       "end_date": "2016-03-24",
       "id": "term/4",
@@ -27387,6 +27477,13 @@
       "organization_id": "legislature",
       "start_date": "2011-05-06",
       "wikidata": "Q21124329"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2016-05-05",
+      "id": "Q16973450",
+      "name": "Northern Ireland Assembly election, 2016",
+      "start_date": "2016-05-05"
     },
     {
       "classification": "legislative period",
