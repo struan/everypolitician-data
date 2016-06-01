@@ -5,6 +5,36 @@ require_relative '../lib/reconciliation'
 require_relative '../lib/remotesource'
 require_relative '../lib/source'
 
+class OCDFromName
+  attr_reader :ocd_ids
+
+  def initialize(ocd_ids)
+    @ocd_ids = ocd_ids
+  end
+
+  def lookup(name)
+    override(name) || finder(name)
+  end
+
+  def finder(name)
+    fuzzer.find(name, must_match_at_least_one_word: true)
+  end
+
+  def fuzzer
+    @fuzzer ||= FuzzyMatch.new(ocd_ids.as_table, read: :name)
+  end
+
+  def override(name)
+    return unless override_id = ocd_ids.overrides[name.to_sym]
+    return '' if override_id.empty?
+    binding.pry
+    # FIXME look up in Hash instead
+    # ocds.find { |o| o[:id] == override_id } or raise "no match for #{override_id}"
+  rescue => e
+    binding.pry
+  end
+end
+
 class String
   def tidy
     self.gsub(/[[:space:]]+/, ' ').strip
@@ -267,23 +297,13 @@ namespace :merge_sources do
         # So far only tested with Australia, so super-simple logic.
         # TOOD: Expand this later
 
-        fuzzer = FuzzyMatch.new(ocds.values.flatten(1), read: :name)
-        finder = ->(r) { fuzzer.find(r[:area], must_match_at_least_one_word: true) }
-
-        overrides = area.overrides
-        override = ->(name) {
-          return unless override_id = overrides[name.to_sym]
-          return '' if override_id.empty?
-          binding.pry
-          # FIXME look up in Hash instead
-          # ocds.find { |o| o[:id] == override_id } or raise "no match for #{override_id}"
-        }
+        ocd_from_name = OCDFromName.new(area)
 
         areas = {}
         merged_rows.each do |r|
-          raise "existing Area ID: #{r[:area_id]}" if r.key? :area_id
           unless areas.key? r[:area]
-            areas[r[:area]] = override.(r[:area]) || finder.(r)
+            next if r[:area_id]
+            areas[r[:area]] = ocd_from_name.lookup(r[:area])
             if areas[r[:area]].to_s.empty?
               warn "  No area match for #{r[:area]}"
             else
