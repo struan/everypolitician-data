@@ -1664,19 +1664,26 @@
   ],
   "Q541217": [
     {
-      "id": "Q1850331",
-      "label": "List of Premiers of New South Wales",
-      "title": "List of Premiers of New South Wales"
+      "id": "Q13527950",
+      "label": "Premier of New South Wales",
+      "title": "Premier of New South Wales",
+      "qualifiers": {
+        "P580": "1995-04-04",
+        "P582": "2005-08-03",
+        "P1365": "John Fahey",
+        "P1366": "Morris Iemma"
+      }
     },
     {
       "id": "Q2660943",
       "label": "Minister for Foreign Affairs",
-      "title": "Minister for Foreign Affairs"
-    },
-    {
-      "id": "Q13527950",
-      "label": "Premier of New South Wales",
-      "title": "Premier of New South Wales"
+      "title": "Minister for Foreign Affairs",
+      "qualifiers": {
+        "P580": "2012-03-13",
+        "P582": "2013-09-18",
+        "P1365": "Kevin Rudd",
+        "P1366": "Julie Bishop"
+      }
     },
     {
       "id": "Q6814428",
