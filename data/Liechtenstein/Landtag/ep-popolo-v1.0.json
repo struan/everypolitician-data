@@ -1166,6 +1166,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ja",
+          "name": "アルベルト・フリック",
+          "note": "multilingual"
+        },
+        {
           "lang": "nl",
           "name": "Albert Frick",
           "note": "multilingual"
@@ -4734,12 +4739,215 @@
   ],
   "events": [
     {
+      "classification": "general election",
+      "end_date": "1918",
+      "id": "Q6543985",
+      "name": "Liechtenstein parliamentary election, 1918",
+      "start_date": "1918"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1922",
+      "id": "Q6543989",
+      "name": "Liechtenstein parliamentary election, 1922",
+      "start_date": "1922"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1926",
+      "id": "Q6544002",
+      "name": "Liechtenstein parliamentary election, April 1926",
+      "start_date": "1926"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1926-01",
+      "id": "Q6544004",
+      "name": "Liechtenstein parliamentary election, January 1926",
+      "start_date": "1926-01"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1928",
+      "id": "Q6543990",
+      "name": "Liechtenstein parliamentary election, 1928",
+      "start_date": "1928"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1930",
+      "id": "Q16932709",
+      "name": "Liechtenstein general election, 1930",
+      "start_date": "1930"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1932",
+      "id": "Q16932714",
+      "name": "Liechtenstein general election, 1932",
+      "start_date": "1932"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1936",
+      "id": "Q16932723",
+      "name": "Liechtenstein general election, 1936",
+      "start_date": "1936"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1939",
+      "id": "Q16932729",
+      "name": "Liechtenstein general election, 1939",
+      "start_date": "1939"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1945",
+      "id": "Q16932735",
+      "name": "Liechtenstein general election, 1945",
+      "start_date": "1945"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1949",
+      "id": "Q6543991",
+      "name": "Liechtenstein parliamentary election, 1949",
+      "start_date": "1949"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1953-02",
+      "id": "Q6544003",
+      "name": "Liechtenstein parliamentary election, February 1953",
+      "start_date": "1953-02"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1953-06",
+      "id": "Q6544007",
+      "name": "Liechtenstein parliamentary election, June 1953",
+      "start_date": "1953-06"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1957",
+      "id": "Q6543992",
+      "name": "Liechtenstein parliamentary election, 1957",
+      "start_date": "1957"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1958",
+      "id": "Q6543994",
+      "name": "Liechtenstein parliamentary election, 1958",
+      "start_date": "1958"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1962",
+      "id": "Q6543995",
+      "name": "Liechtenstein parliamentary election, 1962",
+      "start_date": "1962"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1966",
+      "id": "Q6543996",
+      "name": "Liechtenstein parliamentary election, 1966",
+      "start_date": "1966"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1970",
+      "id": "Q6543997",
+      "name": "Liechtenstein parliamentary election, 1970",
+      "start_date": "1970"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1974",
+      "id": "Q3734301",
+      "name": "Liechtenstein parliamentary election, 1974",
+      "start_date": "1974"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1978",
+      "id": "Q2855671",
+      "name": "Liechtenstein parliamentary election, 1978",
+      "start_date": "1978"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1982",
+      "id": "Q2589434",
+      "name": "Liechtenstein parliamentary election, 1982",
+      "start_date": "1982"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1986",
+      "id": "Q1444225",
+      "name": "Liechtenstein parliamentary election, 1986",
+      "start_date": "1986"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1989",
+      "id": "Q1278672",
+      "name": "Liechtenstein parliamentary election, 1989",
+      "start_date": "1989"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1993-02",
+      "id": "Q2502026",
+      "name": "Liechtenstein parliamentary election, February 1993",
+      "start_date": "1993-02"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1993-10",
+      "id": "Q2501250",
+      "name": "Liechtenstein parliamentary election, October 1993",
+      "start_date": "1993-10"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1997",
+      "id": "Q648381",
+      "name": "Liechtenstein parliamentary election, 1997",
+      "start_date": "1997"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2001",
+      "id": "Q1190944",
+      "name": "Liechtenstein parliamentary election, 2001",
+      "start_date": "2001"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2005",
+      "id": "Q1153147",
+      "name": "Liechtenstein parliamentary election, 2005",
+      "start_date": "2005"
+    },
+    {
       "classification": "legislative period",
       "end_date": "2009",
       "id": "term/2005",
       "name": "2005-2009",
       "organization_id": "legislature",
       "start_date": "2005"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2009",
+      "id": "Q2663191",
+      "name": "Liechtenstein parliamentary election, 2009",
+      "start_date": "2009"
     },
     {
       "classification": "legislative period",
@@ -4756,6 +4964,13 @@
       "name": "2013-2017",
       "organization_id": "legislature",
       "start_date": "2013"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2013-02-03",
+      "id": "Q1190661",
+      "name": "Liechtenstein parliamentary election, 2013",
+      "start_date": "2013-02-03"
     }
   ],
   "areas": [
