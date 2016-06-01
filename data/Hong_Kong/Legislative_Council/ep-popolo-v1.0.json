@@ -4,6 +4,7 @@
   ],
   "persons": [
     {
+      "birth_date": "1945-06-24",
       "contact_details": [
         {
           "type": "email",
@@ -19,6 +20,8 @@
         }
       ],
       "email": "arazack@netvigator.com",
+      "gender": "male",
+      "given_name": "Abraham",
       "honorific_prefix": "Hon",
       "honorific_suffix": "GBS, JP",
       "id": "1bf2c007-156d-4153-9c35-2275cc7f2533",
@@ -26,6 +29,10 @@
         {
           "identifier": "slh",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q4669150",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.legco.gov.hk/images/mem_1216/slh.jpg",
@@ -34,7 +41,67 @@
           "url": "http://www.legco.gov.hk/images/mem_1216/slh.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Abraham_Shek"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/石禮謙"
+        },
+        {
+          "note": "Wikipedia (zh_yue)",
+          "url": "https://zh_yue.wikipedia.org/wiki/石禮謙"
+        }
+      ],
       "name": "Abraham SHEK Lai-him",
+      "other_names": [
+        {
+          "name": "Abraham Razack",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Abraham Razack",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Abraham Razack",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Abraham Razack",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Abraham Razack",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Abraham Razack",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Abraham Razack",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yue",
+          "name": "石禮謙",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "石禮謙",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.legco.gov.hk/general/english/members/yr12-16/slh.htm"
@@ -818,6 +885,7 @@
       ]
     },
     {
+      "birth_date": "1972-04-16",
       "contact_details": [
         {
           "type": "email",
@@ -833,12 +901,19 @@
         }
       ],
       "email": "slowbeat@gmail.com",
+      "family_name": "Chen",
+      "gender": "male",
+      "given_name": "Ray",
       "honorific_prefix": "Hon",
       "id": "324ed543-0897-42fb-b98e-1eadee04c939",
       "identifiers": [
         {
           "identifier": "ccc",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q26668",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.legco.gov.hk/images/mem_1216/ccc.jpg",
@@ -847,7 +922,149 @@
           "url": "http://www.legco.gov.hk/images/mem_1216/ccc.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/راي_تشان"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Raymond_Chan_Chi-chuen"
+        },
+        {
+          "note": "Wikipedia (id)",
+          "url": "https://id.wikipedia.org/wiki/Raymond_Chan_Chi-chuen"
+        },
+        {
+          "note": "Wikipedia (mg)",
+          "url": "https://mg.wikipedia.org/wiki/Ray_Chan"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/陳志全"
+        },
+        {
+          "note": "Wikipedia (zh_yue)",
+          "url": "https://zh_yue.wikipedia.org/wiki/陳志全"
+        }
+      ],
       "name": "CHAN Chi-chuen",
+      "other_names": [
+        {
+          "name": "Ray Chan",
+          "note": "alternate"
+        },
+        {
+          "lang": "ar",
+          "name": "راي تشان",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Ray Chan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Ray Chan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "Ray Chan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "Ray Chan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Ray Chan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Ray Chan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Ray Chan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Raymond Chan Chi-chuen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Ray Chan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mg",
+          "name": "Ray Chan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Ray Chan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yue",
+          "name": "陳志全",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "陳志全",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "陈志全",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hans",
+          "name": "陈志全",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "陳志全",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "陳志全",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-mo",
+          "name": "陳志全",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-my",
+          "name": "陈志全",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-sg",
+          "name": "陈志全",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-tw",
+          "name": "陳志全",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.legco.gov.hk/general/english/members/yr12-16/ccc.htm"
@@ -956,6 +1173,7 @@
       ]
     },
     {
+      "birth_date": "1975",
       "contact_details": [
         {
           "type": "email",
@@ -971,6 +1189,9 @@
         }
       ],
       "email": "benchanlegco@gmail.com",
+      "family_name": "Chen",
+      "gender": "male",
+      "given_name": "Ben",
       "honorific_prefix": "Hon",
       "honorific_suffix": "JP",
       "id": "85ea2ef0-e28d-47b1-874b-0f03f6cce549",
@@ -978,6 +1199,10 @@
         {
           "identifier": "chp",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q4885408",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.legco.gov.hk/images/mem_1216/chp.jpg",
@@ -988,11 +1213,68 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:CHAN_Han-pan,_Ben"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ben_Chan"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/陳恒鑌"
+        },
+        {
+          "note": "Wikipedia (zh_yue)",
+          "url": "https://zh_yue.wikipedia.org/wiki/陳恒鑌"
+        },
+        {
           "note": "website",
           "url": "http://www.benchan.hk"
         }
       ],
       "name": "CHAN Han-pan",
+      "other_names": [
+        {
+          "name": "Ben Chan",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Ben Chan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Ben Chan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Ben Chan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Ben Chan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Ben Chan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yue",
+          "name": "陳恒鑌",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "陳恒鑌",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.legco.gov.hk/general/english/members/yr12-16/chp.htm"
@@ -7865,6 +8147,7 @@
       ]
     },
     {
+      "birth_date": "1951-10-01",
       "contact_details": [
         {
           "type": "email",
@@ -7880,12 +8163,18 @@
         }
       ],
       "email": "ymwongopinion@gmail.com",
+      "gender": "male",
+      "given_name": "Raymond",
       "honorific_prefix": "Hon",
       "id": "8457e43f-6651-4a90-af23-98d7e53f268f",
       "identifiers": [
         {
           "identifier": "wym",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q701707",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.legco.gov.hk/images/mem_1216/wym.jpg",
@@ -7896,11 +8185,98 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Raymond_Wong_Yuk-man"
+        },
+        {
+          "note": "Wikipedia (hak)",
+          "url": "https://hak.wikipedia.org/wiki/Vòng_Ngiuk-mìn"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/黃毓民"
+        },
+        {
+          "note": "Wikipedia (zh_yue)",
+          "url": "https://zh_yue.wikipedia.org/wiki/黃毓民"
+        },
+        {
           "note": "website",
           "url": "http://www.yukman.hk"
         }
       ],
       "name": "WONG Yuk-man",
+      "other_names": [
+        {
+          "name": "Raymond Wong",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Raymond Wong",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Raymond Wong",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Raymond Wong",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Raymond Wong",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hak",
+          "name": "Vòng Ngiuk-mìn",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Raymond Wong",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Raymond Wong",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Рэймонд Вонг",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yue",
+          "name": "黃毓民",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "黃毓民",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hans",
+          "name": "黄毓民",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "黃毓民",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "黃毓民",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.legco.gov.hk/general/english/members/yr12-16/wym.htm"
@@ -8692,7 +9068,7 @@
         },
         {
           "lang": "ja",
-          "name": "工党 (香港)",
+          "name": "工党",
           "note": "multilingual"
         }
       ]
