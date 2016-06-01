@@ -11,6 +11,21 @@
       "type": "membership"
     },
     {
+      "file": "morph/official.csv",
+      "create": {
+        "from": "morph",
+        "scraper": "struan/spain_congreso_es",
+        "query": "SELECT *, NULL as dob, NULL AS start_date, NULL AS end_date FROM data WHERE term = '10' ORDER BY id"
+      },
+      "merge": {
+        "incoming_field": "sort_name",
+        "existing_field": "sort_name",
+        "reconciliation_file": "reconciliation/official.csv"
+      },
+      "source": "http://www.congreso.es",
+      "type": "person"
+    },
+    {
       "file": "morph/official-2015.csv",
       "create": {
         "from": "morph",
