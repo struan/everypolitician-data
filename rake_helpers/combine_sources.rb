@@ -224,7 +224,8 @@ namespace :merge_sources do
 
         # Has something score at least 80% of votes?
         winner = %w(male female other).find { |g| (votes[g.to_sym].to_f / votes[:total].to_f) >= vote_threshold } or begin
-          warn "  Unclear gender vote pattern: #{votes.to_hash}"
+          # No need for a warning if we've since got the gender info from another source
+          warn "  Unclear gender vote pattern: #{votes.to_hash}" unless r[:gender]
           next
         end
         gb_score += 1
