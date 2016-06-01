@@ -10456,7 +10456,7 @@
         "P580": "1983-06-10",
         "P582": "2005-04-11",
         "P768": "Foyle",
-        "P1365": "Boundary Commissions",
+        "P1365": "",
         "P1366": "Mark Durkan"
       }
     },
@@ -10465,14 +10465,20 @@
       "label": "member of the European Parliament",
       "title": "member of the European Parliament",
       "qualifiers": {
-        "P580": "1979",
-        "P582": "2004"
+        "P580": "1979-06-10",
+        "P582": "2004-06-13",
+        "P768": "Northern Ireland"
       }
     },
     {
       "id": "Q3272410",
       "label": "Member of the Legislative Assembly of Northern Ireland",
-      "title": "Member of the Legislative Assembly of Northern Ireland"
+      "title": "Member of the Legislative Assembly of Northern Ireland",
+      "qualifiers": {
+        "P580": "1998-06-25",
+        "P582": "2000-12-01",
+        "P768": "Foyle"
+      }
     },
     {
       "id": "Q19462434",
