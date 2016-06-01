@@ -5,33 +5,37 @@ require_relative '../lib/reconciliation'
 require_relative '../lib/remotesource'
 require_relative '../lib/source'
 
-class OCDFromName
+class OcdId
   attr_reader :ocd_ids
+  attr_reader :area_ids
 
   def initialize(ocd_ids)
     @ocd_ids = ocd_ids
+    @area_ids = {}
   end
 
-  def lookup(name)
-    override(name) || finder(name)
+  def from_name(name)
+    area_ids[name] ||= area_id_from_name(name)
+  end
+
+  private
+
+  def area_id_from_name(name)
+    area = finder(name)
+    if area.nil?
+      warn "  No area match for #{name.inspect}"
+      return
+    end
+    warn "  Matched Area %s to %s" % [ name.yellow, area[:name].to_s.green ] unless area[:name].include? " #{name} "
+    area[:id]
   end
 
   def finder(name)
-    fuzzer.find(name, must_match_at_least_one_word: true)
+    fuzzer.find(name.to_s, must_match_at_least_one_word: true)
   end
 
   def fuzzer
     @fuzzer ||= FuzzyMatch.new(ocd_ids.as_table, read: :name)
-  end
-
-  def override(name)
-    return unless override_id = ocd_ids.overrides[name.to_sym]
-    return '' if override_id.empty?
-    binding.pry
-    # FIXME look up in Hash instead
-    # ocds.find { |o| o[:id] == override_id } or raise "no match for #{override_id}"
-  rescue => e
-    binding.pry
   end
 end
 
@@ -294,24 +298,10 @@ namespace :merge_sources do
 
       else
         # Generate IDs from names
-        # So far only tested with Australia, so super-simple logic.
-        # TOOD: Expand this later
+        ocd_ids = OcdId.new(area)
 
-        ocd_from_name = OCDFromName.new(area)
-
-        areas = {}
-        merged_rows.each do |r|
-          unless areas.key? r[:area]
-            next if r[:area_id]
-            areas[r[:area]] = ocd_from_name.lookup(r[:area])
-            if areas[r[:area]].to_s.empty?
-              warn "  No area match for #{r[:area]}"
-            else
-              warn "  Matched Area %s to %s" % [ r[:area].to_s.yellow, areas[r[:area]][:name].to_s.green ] unless areas[r[:area]][:name].include? " #{r[:area]} "
-            end
-          end
-          next if areas[r[:area]].to_s.empty?
-          r[:area_id] = areas[r[:area]][:id]
+        merged_rows.select { |r| r[:area_id].nil? }.each do |r|
+          r[:area_id] = ocd_ids.from_name(r[:area])
         end
       end
     end
