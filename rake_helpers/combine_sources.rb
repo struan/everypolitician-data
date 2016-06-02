@@ -24,17 +24,15 @@ class OcdId
 
   def area_id_from_name(name)
     area = override(name) || finder(name)
-    if area.to_s.empty?
-      warn "  No area match for #{name.inspect}"
-      return
-    end
+    return if area.nil?
     warn "  Matched Area %s to %s" % [ name.yellow, area[:name].to_s.green ] unless area[:name].include? " #{name} "
     area[:id]
   end
 
   def override(name)
-    return unless override_id = overrides[name.to_sym]
-    return '' if override_id.empty?
+    override_id = overrides[name.to_sym]
+    return if override_id.nil?
+    { name: name, id: override_id }
   end
 
   def finder(name)
@@ -308,8 +306,14 @@ namespace :merge_sources do
         ocd_ids = OcdId.new(area.as_table, area.overrides)
 
         merged_rows.select { |r| r[:area_id].nil? }.each do |r|
-          r[:area_id] = ocd_ids.from_name(r[:area])
+          area = ocd_ids.from_name(r[:area])
+          if area.nil?
+            warn_once "  No area match for #{r[:area]}"
+            next
+          end
+          r[:area_id] = area
         end
+        output_warnings('Unmatched areas')
       end
     end
 
