@@ -11,6 +11,21 @@
       "type": "membership"
     },
     {
+      "file": "morph/wikipedia.csv",
+      "create": {
+        "from": "morph",
+        "scraper": "everypolitician-scrapers/netherlands-tweede-kamer-wikipedia",
+        "query": "SELECT *, REPLACE(LOWER(name),' ','_') AS id, NULL as start_date, NULL as end_date FROM data ORDER BY term, name, start_date"
+      },
+      "source": "http://nl.wikipedia.org/",
+      "type": "person",
+      "merge": {
+        "incoming_field": "name",
+        "existing_field": "name",
+        "reconciliation_file": "reconciliation/wikipedia.csv"
+      }
+    },
+    {
       "file": "morph/wikidata.csv",
       "create": {
         "from": "morph",
