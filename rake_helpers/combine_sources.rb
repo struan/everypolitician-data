@@ -30,7 +30,7 @@ class OcdId
   end
 
   def override(name)
-    override_id = overrides[name.to_sym]
+    override_id = overrides[name]
     return if override_id.nil?
     { name: name, id: override_id }
   end
@@ -303,7 +303,8 @@ namespace :merge_sources do
 
       else
         # Generate IDs from names
-        ocd_ids = OcdId.new(area.as_table, area.overrides)
+        overrides_with_string_keys = Hash[area.overrides.map { |k, v| [k.to_s, v] }]
+        ocd_ids = OcdId.new(area.as_table, overrides_with_string_keys)
 
         merged_rows.select { |r| r[:area_id].nil? }.each do |r|
           area = ocd_ids.from_name(r[:area])
