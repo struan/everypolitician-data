@@ -7,10 +7,12 @@ require_relative '../lib/source'
 
 class OcdId
   attr_reader :ocd_ids
+  attr_reader :overrides
   attr_reader :area_ids
 
-  def initialize(ocd_ids)
+  def initialize(ocd_ids, overrides)
     @ocd_ids = ocd_ids
+    @overrides = overrides
     @area_ids = {}
   end
 
@@ -21,8 +23,8 @@ class OcdId
   private
 
   def area_id_from_name(name)
-    area = finder(name)
-    if area.nil?
+    area = override(name) || finder(name)
+    if area.to_s.empty?
       warn "  No area match for #{name.inspect}"
       return
     end
@@ -30,12 +32,17 @@ class OcdId
     area[:id]
   end
 
+  def override(name)
+    return unless override_id = overrides[name.to_sym]
+    return '' if override_id.empty?
+  end
+
   def finder(name)
     fuzzer.find(name.to_s, must_match_at_least_one_word: true)
   end
 
   def fuzzer
-    @fuzzer ||= FuzzyMatch.new(ocd_ids.as_table, read: :name)
+    @fuzzer ||= FuzzyMatch.new(ocd_ids, read: :name)
   end
 end
 
@@ -298,7 +305,7 @@ namespace :merge_sources do
 
       else
         # Generate IDs from names
-        ocd_ids = OcdId.new(area)
+        ocd_ids = OcdId.new(area.as_table, area.overrides)
 
         merged_rows.select { |r| r[:area_id].nil? }.each do |r|
           r[:area_id] = ocd_ids.from_name(r[:area])
