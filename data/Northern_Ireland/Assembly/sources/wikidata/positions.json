@@ -465,9 +465,15 @@
       }
     },
     {
-      "id": "Q3044713",
-      "label": "Department of the Environment",
-      "title": "Department of the Environment"
+      "id": "Q24284762",
+      "label": "Minister for the Environment",
+      "title": "Minister for the Environment",
+      "qualifiers": {
+        "P580": "2007-05-08",
+        "P582": "2008-06-09",
+        "P1365": "Dermot Nesbitt",
+        "P1366": "Sammy Wilson"
+      }
     },
     {
       "id": "Q3272410",
@@ -824,6 +830,11 @@
       "id": "Q3272410",
       "label": "Member of the Legislative Assembly of Northern Ireland",
       "title": "Member of the Legislative Assembly of Northern Ireland"
+    },
+    {
+      "id": "Q24284762",
+      "label": "Minister for the Environment",
+      "title": "Minister for the Environment"
     }
   ],
   "Q6272833": [
@@ -1767,6 +1778,11 @@
       "id": "Q3272410",
       "label": "Member of the Legislative Assembly of Northern Ireland",
       "title": "Member of the Legislative Assembly of Northern Ireland"
+    },
+    {
+      "id": "Q24284762",
+      "label": "Minister for the Environment",
+      "title": "Minister for the Environment"
     }
   ],
   "Q5106839": [
