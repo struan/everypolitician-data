@@ -34,7 +34,9 @@ module Reconciliation
     end
 
     def to_reconcile
-      @to_reconcile ||= fuzzer.score_all.sort_by { |row| row[:existing].first[1] }.reverse
+      # Order by how good the first match is, and then how bad the second 
+      # (i.e. most confident that the first is the correct match)
+      @to_reconcile ||= fuzzer.score_all.sort_by { |row| [ row[:existing][0][1], -row[:existing][1][1] ] }.reverse
     end
 
     def fuzzer
