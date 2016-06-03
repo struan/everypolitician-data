@@ -1270,6 +1270,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ia",
+          "name": "Anders Fogh Rasmussen",
+          "note": "multilingual"
+        },
+        {
           "lang": "id",
           "name": "Anders Fogh Rasmussen",
           "note": "multilingual"
@@ -3697,6 +3702,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "pl",
+          "name": "Astrid Krag",
+          "note": "multilingual"
+        },
+        {
           "lang": "sv",
           "name": "Astrid Krag",
           "note": "multilingual"
@@ -4206,6 +4216,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "pl",
+          "name": "Benny Engelbrecht",
+          "note": "multilingual"
+        },
+        {
           "lang": "zh",
           "name": "豐樂院",
           "note": "multilingual"
@@ -4354,6 +4369,11 @@
         },
         {
           "lang": "fr",
+          "name": "Bent Hindrup Andersen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ia",
           "name": "Bent Hindrup Andersen",
           "note": "multilingual"
         },
@@ -6162,6 +6182,11 @@
         {
           "lang": "hu",
           "name": "Carina Christensen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "カリナ・クリステンセン",
           "note": "multilingual"
         },
         {
@@ -13234,6 +13259,11 @@
           "lang": "fr",
           "name": "Hans Peter Clausen",
           "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "H.P. Clausen",
+          "note": "multilingual"
         }
       ]
     },
@@ -16367,6 +16397,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "pl",
+          "name": "Henrik Sass Larsen",
+          "note": "multilingual"
+        },
+        {
           "lang": "sv",
           "name": "Henrik Sass Larsen",
           "note": "multilingual"
@@ -18345,11 +18380,6 @@
         {
           "lang": "is",
           "name": "Jakob Axel Nielsen",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ja",
-          "name": "英語",
           "note": "multilingual"
         },
         {
@@ -23578,6 +23608,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "pl",
+          "name": "Karen Hækkerup",
+          "note": "multilingual"
+        },
+        {
           "lang": "sv",
           "name": "Karen Hækkerup",
           "note": "multilingual"
@@ -23881,6 +23916,11 @@
         },
         {
           "lang": "nn",
+          "name": "Karen Jespersen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
           "name": "Karen Jespersen",
           "note": "multilingual"
         },
@@ -25522,6 +25562,11 @@
         },
         {
           "lang": "nn",
+          "name": "Kirsten Brosbøl",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
           "name": "Kirsten Brosbøl",
           "note": "multilingual"
         },
@@ -31101,6 +31146,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "pl",
+          "name": "Magnus Heunicke",
+          "note": "multilingual"
+        },
+        {
           "lang": "sv",
           "name": "Magnus Heunicke",
           "note": "multilingual"
@@ -34460,6 +34510,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "pl",
+          "name": "Mette Gjerskov",
+          "note": "multilingual"
+        },
+        {
           "lang": "sv",
           "name": "Mette Gjerskov",
           "note": "multilingual"
@@ -35326,16 +35381,16 @@
       "id": "458df9a5-0207-4413-b660-6693edb61ca3",
       "identifiers": [
         {
-          "identifier": "3928794",
-          "scheme": "discogs"
-        },
-        {
           "identifier": "smoje",
           "scheme": "everypolitician_legacy"
         },
         {
           "identifier": "d47f7935-847f-4e2e-96d4-58044ae6b45d",
           "scheme": "musicbrainz"
+        },
+        {
+          "identifier": "3928794",
+          "scheme": "senate_nl"
         },
         {
           "identifier": "307245480",
@@ -35430,6 +35485,11 @@
         },
         {
           "lang": "nn",
+          "name": "Mogens Jensen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
           "name": "Mogens Jensen",
           "note": "multilingual"
         },
@@ -44977,6 +45037,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ia",
+          "name": "Sjurdur Skaale",
+          "note": "multilingual"
+        },
+        {
           "lang": "nb",
           "name": "Sjúrður Skaale",
           "note": "multilingual"
@@ -45109,6 +45174,11 @@
         },
         {
           "lang": "nn",
+          "name": "Sofie Carsten Nielsen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
           "name": "Sofie Carsten Nielsen",
           "note": "multilingual"
         },
@@ -61994,6 +62064,13 @@
     },
     {
       "classification": "general election",
+      "end_date": "1872",
+      "id": "Q12311836",
+      "name": "Danish Folketing election, 1872",
+      "start_date": "1872"
+    },
+    {
+      "classification": "general election",
       "end_date": "1876",
       "id": "Q5219718",
       "name": "Danish Folketing election, 1876",
@@ -62054,6 +62131,13 @@
       "id": "Q5219724",
       "name": "Danish Folketing election, 1895",
       "start_date": "1895-04-09"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1898",
+      "id": "Q5219744",
+      "name": "Danish Landsting election, 1898",
+      "start_date": "1898"
     },
     {
       "classification": "general election",
