@@ -63,7 +63,7 @@
       "create": {
         "from": "morph",
         "scraper": "everypolitician-scrapers/canada-politwitter",
-        "query": "SELECT * FROM data ORDER BY id"
+        "query": "SELECT id, name, twitter, area FROM data WHERE twitter != '' ORDER BY id"
       },
       "source": "http://politwitter.ca/",
       "type": "person",
