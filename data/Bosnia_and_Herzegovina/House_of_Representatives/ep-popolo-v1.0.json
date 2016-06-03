@@ -1310,6 +1310,16 @@
           "lang": "it",
           "name": "Fronte Democratico",
           "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "民主戦線",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "民主戦線 (ボスニア・ヘルツェゴビナ)",
+          "note": "multilingual"
         }
       ]
     },
@@ -1679,6 +1689,11 @@
         {
           "lang": "nb",
           "name": "Partiet for demokratisk aksjon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "民主行動黨 (波斯尼亞和黑塞哥維那)",
           "note": "multilingual"
         },
         {
@@ -2407,6 +2422,11 @@
           "lang": "sv",
           "name": "Savez nezavisnih socijaldemokrata",
           "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "無所属議員幹部会",
+          "note": "multilingual"
         }
       ]
     },
@@ -2761,11 +2781,74 @@
   ],
   "events": [
     {
+      "classification": "general election",
+      "end_date": "1910",
+      "id": "Q4947361",
+      "name": "Bosnia and Herzegovina parliamentary election, 1910",
+      "start_date": "1910"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1990",
+      "id": "Q2067054",
+      "name": "Bosnia and Herzegovina general election, 1990",
+      "start_date": "1990"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1996",
+      "id": "Q3553866",
+      "name": "Bosnia and Herzegovina general election, 1996",
+      "start_date": "1996"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1998",
+      "id": "Q3722277",
+      "name": "Bosnia and Herzegovina general election, 1998",
+      "start_date": "1998"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2000",
+      "id": "Q3722323",
+      "name": "Bosnia and Herzegovina parliamentary election, 2000",
+      "start_date": "2000"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2002",
+      "id": "Q3722278",
+      "name": "Bosnia and Herzegovina general election, 2002",
+      "start_date": "2002"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2006-10-01",
+      "id": "Q2053970",
+      "name": "Bosnia and Herzegovina general election, 2006",
+      "start_date": "2006-10-01"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2010-10-03",
+      "id": "Q2475328",
+      "name": "Bosnia and Herzegovina general election, 2010",
+      "start_date": "2010-10-03"
+    },
+    {
       "classification": "legislative period",
       "id": "term/7",
       "name": "2014–",
       "organization_id": "legislature",
       "start_date": "2014"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2014-10-12",
+      "id": "Q16820889",
+      "name": "Bosnia and Herzegovina general election, 2014",
+      "start_date": "2014-10-12"
     }
   ],
   "areas": [
