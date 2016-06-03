@@ -1,5 +1,37 @@
 {
+  "posts": [
+
+  ],
   "persons": [
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "c.gonsalves@dna.sr"
+        }
+      ],
+      "email": "c.gonsalves@dna.sr",
+      "gender": "male",
+      "id": "1e6e0681-cf46-4edc-9389-930e6e71da08",
+      "image": "http://www.dna.sr/media/131263/gonzalves_jardin_de_ponte.jpg",
+      "images": [
+        {
+          "url": "http://www.dna.sr/media/131263/gonzalves_jardin_de_ponte.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "/het-politiek-college/leden/cleon-gonsalves-jardin-de-ponte/"
+        }
+      ],
+      "name": "Cleon Gonsalves Jardin de Ponte",
+      "sources": [
+        {
+          "url": "http://www.dna.sr/het-politiek-college/leden/"
+        }
+      ]
+    },
     {
       "contact_details": [
         {
@@ -237,14 +269,14 @@
       "contact_details": [
         {
           "type": "email",
-          "value": "c.santhoki@dna.sr"
+          "value": "c.santokhi@dna.sr"
         },
         {
           "type": "phone",
           "value": "8633305"
         }
       ],
-      "email": "c.santhoki@dna.sr",
+      "email": "c.santokhi@dna.sr",
       "gender": "male",
       "id": "f6ae1f92-543d-43ae-8d0e-f92c4c0c5429",
       "identifiers": [
@@ -1125,7 +1157,7 @@
         },
         {
           "type": "phone",
-          "value": "7280044"
+          "value": "8641212"
         }
       ],
       "email": "w.waidoe@dna.sr",
@@ -4294,14 +4326,6 @@
       "role": "member"
     },
     {
-      "area_id": "area/paramaribo",
-      "legislative_period_id": "term/2015",
-      "on_behalf_of_id": "NDP",
-      "organization_id": "legislature",
-      "person_id": "190d734a-2aa8-44bb-955f-0b1918f9b573",
-      "role": "member"
-    },
-    {
       "area_id": "area/brokopondo",
       "legislative_period_id": "term/2010",
       "on_behalf_of_id": "AC",
@@ -4323,6 +4347,14 @@
       "on_behalf_of_id": "NDP",
       "organization_id": "legislature",
       "person_id": "1cb44056-1bd0-410e-aaf5-5f23671c81b8",
+      "role": "member"
+    },
+    {
+      "area_id": "area/coronie",
+      "legislative_period_id": "term/2015",
+      "on_behalf_of_id": "PALU",
+      "organization_id": "legislature",
+      "person_id": "1e6e0681-cf46-4edc-9389-930e6e71da08",
       "role": "member"
     },
     {
@@ -4726,7 +4758,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/sipaliwinie",
+      "area_id": "area/sipaliwini",
       "legislative_period_id": "term/2015",
       "on_behalf_of_id": "BEP",
       "organization_id": "legislature",
@@ -4806,7 +4838,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/sipaliwinie",
+      "area_id": "area/sipaliwini",
       "legislative_period_id": "term/2015",
       "on_behalf_of_id": "NDP",
       "organization_id": "legislature",
@@ -4926,7 +4958,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/sipaliwinie",
+      "area_id": "area/sipaliwini",
       "legislative_period_id": "term/2015",
       "on_behalf_of_id": "NDP",
       "organization_id": "legislature",
@@ -5046,7 +5078,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/sipaliwinie",
+      "area_id": "area/sipaliwini",
       "legislative_period_id": "term/2015",
       "on_behalf_of_id": "AC",
       "organization_id": "legislature",
@@ -5134,6 +5166,11 @@
     {
       "id": "area/saramacca",
       "name": "Saramacca",
+      "type": "constituency"
+    },
+    {
+      "id": "area/sipaliwini",
+      "name": "Sipaliwini",
       "type": "constituency"
     },
     {
