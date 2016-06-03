@@ -1,4 +1,7 @@
 {
+  "posts": [
+
+  ],
   "persons": [
     {
       "id": "9a811189-a260-49ba-adf7-f23938215bba",
@@ -1587,11 +1590,60 @@
   ],
   "events": [
     {
+      "classification": "general election",
+      "end_date": "1982",
+      "id": "Q5285319",
+      "name": "Djiboutian parliamentary election, 1982",
+      "start_date": "1982"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1987",
+      "id": "Q2586983",
+      "name": "Djiboutian general election, 1987",
+      "start_date": "1987"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1992-12-18",
+      "id": "Q5285318",
+      "name": "Djiboutian parliamentary election, 1992",
+      "start_date": "1992-12-18"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1997-12-19",
+      "id": "Q5285320",
+      "name": "Djiboutian parliamentary election, 1997",
+      "start_date": "1997-12-19"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2003-01-10",
+      "id": "Q5285321",
+      "name": "Djiboutian parliamentary election, 2003",
+      "start_date": "2003-01-10"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2008-02-08",
+      "id": "Q3587136",
+      "name": "Djiboutian parliamentary election, 2008",
+      "start_date": "2008-02-08"
+    },
+    {
       "classification": "legislative period",
       "id": "term/6",
       "name": "6th National Assembly",
       "organization_id": "legislature",
       "start_date": "2013"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2013-02-22",
+      "id": "Q1763781",
+      "name": "Djiboutian parliamentary election, 2013",
+      "start_date": "2013-02-22"
     }
   ],
   "areas": [
