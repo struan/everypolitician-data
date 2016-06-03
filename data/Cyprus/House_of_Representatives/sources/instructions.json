@@ -1,11 +1,11 @@
 {
   "sources": [
     {
-      "file": "morph/data.csv",
+      "file": "morph/openpatata.csv",
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/cyprus-openpatata",
-        "query": "SELECT *, NULL as wikipedia FROM data"
+        "query": "SELECT *, NULL as wikipedia FROM data WHERE term IN ('10')"
       },
       "source": "https://github.com/openpatata/openpatata-data/",
       "type": "membership"
