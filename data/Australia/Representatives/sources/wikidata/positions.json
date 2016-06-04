@@ -305,6 +305,11 @@
       "id": "Q18912794",
       "label": "Member of the Australian House of Representatives",
       "title": "Member of the Australian House of Representatives"
+    },
+    {
+      "id": "Q6865833",
+      "label": "Minister for Finance",
+      "title": "Minister for Finance"
     }
   ],
   "Q6154225": [
@@ -832,7 +837,10 @@
     {
       "id": "Q30185",
       "label": "mayor",
-      "title": "mayor"
+      "title": "mayor (of City of Liverpool)",
+      "qualifiers": {
+        "P642": "City of Liverpool"
+      }
     },
     {
       "id": "Q18912794",
@@ -1201,6 +1209,11 @@
       "id": "Q18912794",
       "label": "Member of the Australian House of Representatives",
       "title": "Member of the Australian House of Representatives"
+    },
+    {
+      "id": "Q6865833",
+      "label": "Minister for Finance",
+      "title": "Minister for Finance"
     }
   ],
   "Q15485996": [
@@ -5081,6 +5094,11 @@
         "P582": "2007-11-24",
         "P768": "Bennelong"
       }
+    },
+    {
+      "id": "Q6865833",
+      "label": "Minister for Finance",
+      "title": "Minister for Finance"
     }
   ],
   "Q6767168": [
