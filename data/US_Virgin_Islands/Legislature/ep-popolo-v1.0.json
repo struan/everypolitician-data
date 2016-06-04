@@ -1,4 +1,7 @@
 {
+  "posts": [
+
+  ],
   "persons": [
     {
       "id": "080556fd-ab7b-4f77-a750-997d37509edd",
@@ -1169,11 +1172,32 @@
   ],
   "events": [
     {
+      "classification": "general election",
+      "end_date": "2010",
+      "id": "Q7892281",
+      "name": "United States Virgin Islands general election, 2010",
+      "start_date": "2010"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2012-11-06",
+      "id": "Q7892283",
+      "name": "United States Virgin Islands general election, 2012",
+      "start_date": "2012-11-06"
+    },
+    {
       "classification": "legislative period",
       "id": "term/2014",
       "name": "2014–",
       "organization_id": "legislature",
       "start_date": "2014"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2014-11-04",
+      "id": "Q19605169",
+      "name": "United States Virgin Islands general election, 2014",
+      "start_date": "2014-11-04"
     }
   ],
   "areas": [
