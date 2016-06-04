@@ -1998,7 +1998,8 @@
       "label": "Knesset member",
       "title": "Knesset member",
       "qualifiers": {
-        "P580": "2006-04-17"
+        "P580": "2006-04-17",
+        "P582": "2016-05-30"
       }
     },
     {
@@ -2006,8 +2007,25 @@
       "label": "Deputy Prime Minister of Israel",
       "title": "Deputy Prime Minister of Israel",
       "qualifiers": {
-        "P582": "2008-01-16",
-        "P580": "2006-10-30"
+        "P580": "2006",
+        "P582": "2008"
+      }
+    },
+    {
+      "id": "Q7040859",
+      "label": "Deputy Prime Minister of Israel",
+      "title": "Deputy Prime Minister of Israel",
+      "qualifiers": {
+        "P580": "2009",
+        "P582": "2012"
+      }
+    },
+    {
+      "id": "Q13222899",
+      "label": "Minister of Defense",
+      "title": "Minister of Defense",
+      "qualifiers": {
+        "P580": "2016-05-30"
       }
     }
   ],
@@ -4141,8 +4159,8 @@
     },
     {
       "id": "Q2566297",
-      "label": "Information and Diaspora Minister of Israel",
-      "title": "Information and Diaspora Minister of Israel",
+      "label": "Minister of Diaspora Affairs",
+      "title": "Minister of Diaspora Affairs",
       "qualifiers": {
         "P580": "2009-03-31",
         "P582": "2013-03-18"
