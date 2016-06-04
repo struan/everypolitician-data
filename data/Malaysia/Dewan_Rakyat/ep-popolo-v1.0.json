@@ -6166,6 +6166,10 @@
         {
           "identifier": "alice_lau_kiong_yieng",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q23879789",
+          "scheme": "wikidata"
         }
       ],
       "links": [
@@ -6178,7 +6182,14 @@
           "url": "http://en.wikipedia.org/wiki/Alice_Lau_Kiong_Yieng"
         }
       ],
-      "name": "Alice Lau Kiong Yieng"
+      "name": "Alice Lau Kiong Yieng",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Alice Lau Kiong Yieng",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "1fae70fc-74be-4ee0-b092-2e9e581548e6",
@@ -16171,14 +16182,61 @@
       "name": "Ilani Isahak"
     },
     {
+      "birth_date": "1976-04-06",
+      "gender": "male",
       "id": "f3638ea0-233b-44ac-ba16-74ab227d6755",
       "identifiers": [
         {
           "identifier": "irmohizan_ibrahim",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q11773336",
+          "scheme": "wikidata"
         }
       ],
-      "name": "Irmohizan Ibrahim"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Irmohizam_Ibrahim"
+        },
+        {
+          "note": "Wikipedia (ms)",
+          "url": "https://ms.wikipedia.org/wiki/Irmohizam_Ibrahim"
+        }
+      ],
+      "name": "Irmohizan Ibrahim",
+      "other_names": [
+        {
+          "name": "Irmohizam Ibrahim",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Irmohizam Ibrahim",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Irmohizam Ibrahim",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Irmohizam Ibrahim",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "Irmohizam Ibrahim",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Irmohizam Ibrahim",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "bcb978a0-3526-40fc-b25a-a142ec071d1b",
@@ -23979,9 +24037,26 @@
         {
           "identifier": "mah_siew_keong",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q24004304",
+          "scheme": "wikidata"
         }
       ],
-      "name": "Mah Siew Keong"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Mah_Siew_Keong"
+        }
+      ],
+      "name": "Mah Siew Keong",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Mah Siew Keong",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "dc94ba25-5662-42e9-8b1e-986c451d01b3",
@@ -47247,14 +47322,32 @@
       ]
     },
     {
+      "gender": "male",
       "id": "807d13fe-8f58-4194-95e1-4d9a539061f0",
       "identifiers": [
         {
           "identifier": "wilfred_madius_tangau",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q24004301",
+          "scheme": "wikidata"
         }
       ],
-      "name": "Wilfred Madius Tangau"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Wilfred_Madius_Tangau"
+        }
+      ],
+      "name": "Wilfred Madius Tangau",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Wilfred Madius Tangau",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1957-01-27",
