@@ -3080,22 +3080,33 @@
         "slug": "National-Assembly",
         "sources_directory": "data/France/National_Assembly/sources",
         "popolo": "data/France/National_Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/249762b/data/France/National_Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/26c01fc/data/France/National_Assembly/ep-popolo-v1.0.json",
         "names": "data/France/National_Assembly/names.csv",
-        "lastmod": "1464152137",
-        "person_count": 641,
-        "sha": "249762b",
+        "lastmod": "1465077285",
+        "person_count": 860,
+        "sha": "26c01fc",
         "legislative_periods": [
           {
             "id": "term/14",
             "name": "XIVe législature de la Ve République",
             "start_date": "2012-06-20",
+            "wikidata": "Q3570385",
             "slug": "14",
             "csv": "data/France/National_Assembly/term-14.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/249762b/data/France/National_Assembly/term-14.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/26c01fc/data/France/National_Assembly/term-14.csv"
+          },
+          {
+            "end_date": "2012-06-19",
+            "id": "term/13",
+            "name": "XIIIe législature de la Ve République",
+            "start_date": "2007-06-20",
+            "wikidata": "Q3025921",
+            "slug": "13",
+            "csv": "data/France/National_Assembly/term-13.csv",
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/26c01fc/data/France/National_Assembly/term-13.csv"
           }
         ],
-        "statement_count": 49104
+        "statement_count": 53507
       }
     ]
   },
