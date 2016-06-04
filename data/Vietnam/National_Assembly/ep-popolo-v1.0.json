@@ -55,6 +55,10 @@
         {
           "identifier": "A-%C4%90e",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q10840102",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://dbqh.na.gov.vn/data/images/XIII/2218.jpg",
@@ -63,7 +67,24 @@
           "url": "http://dbqh.na.gov.vn/data/images/XIII/2218.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (vi)",
+          "url": "https://vi.wikipedia.org/wiki/Đinh_Hồng_Đe"
+        }
+      ],
       "name": "A Đe (Đinh Hồng Đe)",
+      "other_names": [
+        {
+          "name": "Đinh Hồng Đe",
+          "note": "alternate"
+        },
+        {
+          "lang": "vi",
+          "name": "Đinh Hồng Đe",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://dbqh.na.gov.vn/daibieu/33/2218/A-%C4%90e.aspx"
@@ -3153,12 +3174,6 @@
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "http://dbqh.na.gov.vn/data/images/XIII/2046.jpg",
-      "images": [
-        {
-          "url": "http://dbqh.na.gov.vn/data/images/XIII/2046.jpg"
-        }
-      ],
       "name": "Hà Thị Khích (Hà Thị Khiết)",
       "sources": [
         {
@@ -4246,6 +4261,10 @@
         {
           "identifier": "Le-Huu-%C4%90uc",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q10787685",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://dbqh.na.gov.vn/data/images/XIII/2102.jpg",
@@ -4254,7 +4273,20 @@
           "url": "http://dbqh.na.gov.vn/data/images/XIII/2102.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (vi)",
+          "url": "https://vi.wikipedia.org/wiki/Lê_Hữu_Đức_(thượng_tướng)"
+        }
+      ],
       "name": "Lê Hữu Đức",
+      "other_names": [
+        {
+          "lang": "vi",
+          "name": "Lê Hữu Đức",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://dbqh.na.gov.vn/daibieu/31/2102/Le-Huu-%C4%90uc.aspx"
@@ -4416,6 +4448,12 @@
         {
           "identifier": "Q10787741",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "http://dbqh.na.gov.vn/data/images/XIII/2708.jpg",
+      "images": [
+        {
+          "url": "http://dbqh.na.gov.vn/data/images/XIII/2708.jpg"
         }
       ],
       "links": [
@@ -11174,6 +11212,10 @@
         {
           "identifier": "Nguyen-Van-Tinh",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q10800025",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://dbqh.na.gov.vn/data/images/XIII/2597.jpg",
@@ -11182,7 +11224,20 @@
           "url": "http://dbqh.na.gov.vn/data/images/XIII/2597.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (vi)",
+          "url": "https://vi.wikipedia.org/wiki/Nguyễn_Văn_Tính_(sinh_1961)"
+        }
+      ],
       "name": "Nguyễn Văn Tính",
+      "other_names": [
+        {
+          "lang": "vi",
+          "name": "Nguyễn Văn Tính",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://dbqh.na.gov.vn/daibieu/84/2597/Nguyen-Van-Tinh.aspx"
@@ -12136,6 +12191,10 @@
         {
           "identifier": "Ngo-Xuan-Lich",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q10800424",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://dbqh.na.gov.vn/data/images/XIII/2096.jpg",
@@ -12144,7 +12203,39 @@
           "url": "http://dbqh.na.gov.vn/data/images/XIII/2096.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ngô_Xuân_Lịch"
+        },
+        {
+          "note": "Wikipedia (vi)",
+          "url": "https://vi.wikipedia.org/wiki/Ngô_Xuân_Lịch"
+        }
+      ],
       "name": "Ngô Xuân Lịch",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Ngô Xuân Lịch",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Ngô Xuân Lịch",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "吴春历",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "吳春歷",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://dbqh.na.gov.vn/daibieu/10/2096/Ngo-Xuan-Lich.aspx"
@@ -17456,6 +17547,10 @@
         {
           "identifier": "Tran-%C4%90inh-Long",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q10829665",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://dbqh.na.gov.vn/data/images/XIII/2002.jpg",
@@ -17464,7 +17559,20 @@
           "url": "http://dbqh.na.gov.vn/data/images/XIII/2002.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (vi)",
+          "url": "https://vi.wikipedia.org/wiki/Trần_Đình_Long_(sinh_1954)"
+        }
+      ],
       "name": "Trần Đình Long",
+      "other_names": [
+        {
+          "lang": "vi",
+          "name": "Trần Đình Long",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://dbqh.na.gov.vn/daibieu/82/2002/Tran-%C4%90inh-Long.aspx"
@@ -17749,6 +17857,10 @@
           "url": "https://vi.wikipedia.org/wiki/Trần_Đại_Quang"
         },
         {
+          "note": "Wikipedia (viwikisource)",
+          "url": "https://viwikisource.wikipedia.org/wiki/Tác_gia:Trần_Đại_Quang"
+        },
+        {
           "note": "Wikipedia (war)",
           "url": "https://war.wikipedia.org/wiki/Tran_Dai_Quang"
         },
@@ -17931,6 +18043,11 @@
         {
           "lang": "war",
           "name": "Tran Dai Quang",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yue",
+          "name": "陳大光",
           "note": "multilingual"
         },
         {
@@ -20441,7 +20558,7 @@
           "scheme": "everypolitician_legacy"
         },
         {
-          "identifier": "Q10839670",
+          "identifier": "Q10840483",
           "scheme": "wikidata"
         }
       ],
@@ -20454,20 +20571,11 @@
       "links": [
         {
           "note": "Wikipedia (vi)",
-          "url": "https://vi.wikipedia.org/wiki/Ðào_Văn_Bình"
+          "url": "https://vi.wikipedia.org/wiki/Đào_Văn_Bình"
         }
       ],
       "name": "Đào Văn Bình",
       "other_names": [
-        {
-          "name": "Ðào Văn Bình",
-          "note": "alternate"
-        },
-        {
-          "lang": "vi",
-          "name": "Ðào Văn Bình",
-          "note": "multilingual"
-        },
         {
           "lang": "vi",
           "name": "Đào Văn Bình",
