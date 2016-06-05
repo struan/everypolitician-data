@@ -738,7 +738,9 @@
       "label": "Member of Parliament in the United Kingdom",
       "title": "Member of Parliament in the United Kingdom",
       "qualifiers": {
-        "P580": "2015-05-08"
+        "P580": "2015-05-08",
+        "P768": "Fareham",
+        "P1365": "Mark Hoban"
       }
     }
   ],
@@ -8125,6 +8127,34 @@
         "P580": "2007-05-08",
         "P582": "2008-06"
       }
+    },
+    {
+      "id": "Q24310329",
+      "label": "Minister for Social Development",
+      "title": "Minister for Social Development",
+      "qualifiers": {
+        "P580": "2001-10-24",
+        "P582": "2002-10-14",
+        "P1365": "Maurice Morrow, Baron Morrow"
+      }
+    },
+    {
+      "id": "Q24310329",
+      "label": "Minister for Social Development",
+      "title": "Minister for Social Development",
+      "qualifiers": {
+        "P580": "2000-05-30",
+        "P582": "2000-07-27"
+      }
+    },
+    {
+      "id": "Q24310329",
+      "label": "Minister for Social Development",
+      "title": "Minister for Social Development",
+      "qualifiers": {
+        "P580": "1999-12-02",
+        "P582": "2000-02-11"
+      }
     }
   ],
   "Q19397": [
@@ -11606,11 +11636,6 @@
   ],
   "Q259106": [
     {
-      "id": "Q83307",
-      "label": "minister",
-      "title": "minister"
-    },
-    {
       "id": "Q16707842",
       "label": "Member of Parliament in the United Kingdom",
       "title": "Member of Parliament in the United Kingdom"
@@ -13103,7 +13128,12 @@
     {
       "id": "Q16707842",
       "label": "Member of Parliament in the United Kingdom",
-      "title": "Member of Parliament in the United Kingdom"
+      "title": "Member of Parliament in the United Kingdom",
+      "qualifiers": {
+        "P768": "Edinburgh West",
+        "P580": "2001-06-07",
+        "P582": "2010"
+      }
     }
   ],
   "Q337608": [
@@ -14476,9 +14506,9 @@
   ],
   "Q272008": [
     {
-      "id": "Q5449647",
-      "label": "Financial Secretary to the Treasury",
-      "title": "Financial Secretary to the Treasury",
+      "id": "Q24312819",
+      "label": "Shadow Financial Secretary to the Treasury",
+      "title": "Shadow Financial Secretary to the Treasury",
       "qualifiers": {
         "P580": "2003-11-11",
         "P582": "2004-03-15",
@@ -14496,9 +14526,9 @@
       }
     },
     {
-      "id": "Q1060844",
-      "label": "Paymaster General",
-      "title": "Paymaster General",
+      "id": "Q24312774",
+      "label": "Shadow Paymaster General",
+      "title": "Shadow Paymaster General",
       "qualifiers": {
         "P580": "2004-03-15",
         "P582": "2005-05-06",
@@ -18105,7 +18135,8 @@
         "P580": "2001-06-07",
         "P582": "2015-03-30",
         "P1365": "Peter Lloyd",
-        "P1366": "Suella Fernandes"
+        "P1366": "Suella Fernandes",
+        "P768": "Fareham"
       }
     },
     {
@@ -18142,6 +18173,15 @@
       "id": "Q23304309",
       "label": "Leader of the Social Democratic and Labour Party",
       "title": "Leader of the Social Democratic and Labour Party"
+    },
+    {
+      "id": "Q24310329",
+      "label": "Minister for Social Development",
+      "title": "Minister for Social Development",
+      "qualifiers": {
+        "P580": "2007-05-08",
+        "P582": "2010-05-24"
+      }
     }
   ],
   "Q750135": [
