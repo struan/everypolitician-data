@@ -11,6 +11,21 @@
       "type": "membership"
     },
     {
+      "file": "morph/sycomore.csv",
+      "create": {
+        "from": "morph",
+        "scraper": "tmtmtmtm/france-national-assembly-syccomore",
+        "query": "SELECT * FROM data WHERE term IN ('13') ORDER BY id"
+      },
+      "source": "http://www.assemblee-nationale.fr",
+      "merge": {
+        "incoming_field": "name",
+        "existing_field": "name",
+        "reconciliation_file": "reconciliation/sycomore.csv"
+      },
+      "type": "membership"
+    },
+    {
       "file": "morph/wikidata.csv",
       "create": {
         "from": "morph",
@@ -25,6 +40,10 @@
         "reconciliation_file": "reconciliation/wikidata.csv",
         "report_missing": false
       }
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term"
     },
     {
       "file": "gender-balance/results.csv",
