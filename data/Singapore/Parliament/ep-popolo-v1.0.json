@@ -7153,13 +7153,32 @@
     },
     {
       "id": "789cf330-43c4-4030-b4d2-f29ac7078897",
+      "identifiers": [
+        {
+          "identifier": "Q23772394",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.gov.sg/sites/default/files/IMG_6813%20Joan%20Pereira2_web.jpg",
       "images": [
         {
           "url": "http://www.parliament.gov.sg/sites/default/files/IMG_6813%20Joan%20Pereira2_web.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Joan_Pereira"
+        }
+      ],
       "name": "Joan Pereira",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Joan Pereira",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.parliament.gov.sg/history/13th-parliament"
@@ -12402,14 +12421,38 @@
       ]
     },
     {
+      "gender": "male",
       "id": "76a6937d-3e0b-46f5-b736-eb03515e5175",
+      "identifiers": [
+        {
+          "identifier": "Q23416672",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.gov.sg/sites/default/files/Melvin%20Yong_web.jpg",
       "images": [
         {
           "url": "http://www.parliament.gov.sg/sites/default/files/Melvin%20Yong_web.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Melvin_Yong"
+        }
+      ],
       "name": "Melvin Yong Yik Chye",
+      "other_names": [
+        {
+          "name": "Melvin Yong",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Melvin Yong",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.parliament.gov.sg/history/13th-parliament"
@@ -15840,14 +15883,35 @@
       ]
     },
     {
+      "birth_date": "1979-07-10",
+      "gender": "female",
       "id": "8b334893-ed06-4285-b429-5aff7329fe1b",
+      "identifiers": [
+        {
+          "identifier": "Q23772395",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.gov.sg/sites/default/files/Sun%20Xueling2_web.jpg",
       "images": [
         {
           "url": "http://www.parliament.gov.sg/sites/default/files/Sun%20Xueling2_web.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Sun_Xueling"
+        }
+      ],
       "name": "Sun Xueling",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Sun Xueling",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.parliament.gov.sg/history/13th-parliament"
