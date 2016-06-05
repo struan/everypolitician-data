@@ -110,7 +110,11 @@
     {
       "id": "Q6866109",
       "label": "Minister of Education",
-      "title": "Minister of Education"
+      "title": "Minister of Education",
+      "qualifiers": {
+        "P580": "2007-05-08",
+        "P582": "2011-05-05"
+      }
     }
   ],
   "Q24088043": [
@@ -268,6 +272,14 @@
       "id": "Q3272410",
       "label": "Member of the Legislative Assembly of Northern Ireland",
       "title": "Member of the Legislative Assembly of Northern Ireland"
+    },
+    {
+      "id": "Q24321666",
+      "label": "Minister of Communities",
+      "title": "Minister of Communities",
+      "qualifiers": {
+        "P580": "2016-05-25"
+      }
     }
   ],
   "Q5220697": [
@@ -346,7 +358,16 @@
       "label": "Minister for Health, Social Services and Public Safety",
       "title": "Minister for Health, Social Services and Public Safety",
       "qualifiers": {
-        "P580": "2015-05-11"
+        "P580": "2015-05-11",
+        "P582": "2016-05-06"
+      }
+    },
+    {
+      "id": "Q24321850",
+      "label": "Minister for the Economy",
+      "title": "Minister for the Economy",
+      "qualifiers": {
+        "P580": "2016-06-25"
       }
     }
   ],
@@ -390,6 +411,14 @@
       "id": "Q3272410",
       "label": "Member of the Legislative Assembly of Northern Ireland",
       "title": "Member of the Legislative Assembly of Northern Ireland"
+    },
+    {
+      "id": "Q6866109",
+      "label": "Minister of Education",
+      "title": "Minister of Education",
+      "qualifiers": {
+        "P580": "2016-05-25"
+      }
     }
   ],
   "Q6990642": [
@@ -397,6 +426,16 @@
       "id": "Q3272410",
       "label": "Member of the Legislative Assembly of Northern Ireland",
       "title": "Member of the Legislative Assembly of Northern Ireland"
+    },
+    {
+      "id": "Q24310329",
+      "label": "Minister for Social Development",
+      "title": "Minister for Social Development",
+      "qualifiers": {
+        "P580": "2011-05-16",
+        "P582": "2014-09-23",
+        "P1365": "Alex Attwood"
+      }
     }
   ],
   "Q24205313": [
@@ -461,7 +500,9 @@
       "label": "Minister of Enterprise, Trade and Investment",
       "title": "Minister of Enterprise, Trade and Investment",
       "qualifiers": {
-        "P1366": "Jonathan Bell"
+        "P1366": "Jonathan Bell",
+        "P580": "2008-06-09",
+        "P582": "2015-05-11"
       }
     },
     {
@@ -540,6 +581,15 @@
       "qualifiers": {
         "P580": "2011-09-20",
         "P582": "2011-10-31"
+      }
+    },
+    {
+      "id": "Q6866109",
+      "label": "Minister of Education",
+      "title": "Minister of Education",
+      "qualifiers": {
+        "P580": "2011-05-16",
+        "P582": "2016-05-25"
       }
     }
   ],
@@ -775,7 +825,35 @@
       "qualifiers": {
         "P1366": "Arlene Foster",
         "P580": "2007-05-08",
-        "P582": "2008-06"
+        "P582": "2008-06-09"
+      }
+    },
+    {
+      "id": "Q24310329",
+      "label": "Minister for Social Development",
+      "title": "Minister for Social Development",
+      "qualifiers": {
+        "P580": "2001-10-24",
+        "P582": "2002-10-14",
+        "P1365": "Maurice Morrow, Baron Morrow"
+      }
+    },
+    {
+      "id": "Q24310329",
+      "label": "Minister for Social Development",
+      "title": "Minister for Social Development",
+      "qualifiers": {
+        "P580": "2000-05-30",
+        "P582": "2000-07-27"
+      }
+    },
+    {
+      "id": "Q24310329",
+      "label": "Minister for Social Development",
+      "title": "Minister for Social Development",
+      "qualifiers": {
+        "P580": "1999-12-02",
+        "P582": "2000-02-11"
       }
     }
   ],
@@ -1222,9 +1300,13 @@
   ],
   "Q4981853": [
     {
-      "id": "Q1703625",
-      "label": "Department of Agriculture and Rural Development",
-      "title": "Department of Agriculture and Rural Development"
+      "id": "Q24321899",
+      "label": "Minister for Agriculture and Rural Development",
+      "title": "Minister for Agriculture and Rural Development",
+      "qualifiers": {
+        "P580": "1999-12-02",
+        "P582": "2000-02-11"
+      }
     },
     {
       "id": "Q3272410",
@@ -1234,7 +1316,20 @@
     {
       "id": "Q18043391",
       "label": "senator of Ireland",
-      "title": "senator of Ireland"
+      "title": "senator of Ireland",
+      "qualifiers": {
+        "P580": "1983-02",
+        "P582": "1987-04"
+      }
+    },
+    {
+      "id": "Q24321898",
+      "label": "Minister for Agriculture and Rural Development",
+      "title": "Minister for Agriculture and Rural Development",
+      "qualifiers": {
+        "P580": "2000-05-30",
+        "P582": "2002-10-14"
+      }
     }
   ],
   "Q5980734": [
@@ -1311,9 +1406,9 @@
   ],
   "Q337970": [
     {
-      "id": "Q1703625",
-      "label": "Department of Agriculture and Rural Development",
-      "title": "Department of Agriculture and Rural Development",
+      "id": "Q24321898",
+      "label": "Minister for Agriculture and Rural Development",
+      "title": "Minister for Agriculture and Rural Development",
       "qualifiers": {
         "P580": "2007-05-08",
         "P582": "2011-05-05",
@@ -1453,6 +1548,14 @@
       "id": "Q3272410",
       "label": "Member of the Legislative Assembly of Northern Ireland",
       "title": "Member of the Legislative Assembly of Northern Ireland"
+    },
+    {
+      "id": "Q24324044",
+      "label": "Minister of Justice",
+      "title": "Minister of Justice",
+      "qualifiers": {
+        "P580": "2016-05-25"
+      }
     }
   ],
   "Q7154975": [
@@ -1540,6 +1643,21 @@
       }
     }
   ],
+  "Q13586248": [
+    {
+      "id": "Q3272410",
+      "label": "Member of the Legislative Assembly of Northern Ireland",
+      "title": "Member of the Legislative Assembly of Northern Ireland"
+    },
+    {
+      "id": "Q24323272",
+      "label": "Minister of Finance",
+      "title": "Minister of Finance",
+      "qualifiers": {
+        "P580": "2016-05-09"
+      }
+    }
+  ],
   "Q6235810": [
     {
       "id": "Q3272410",
@@ -1623,6 +1741,15 @@
       "id": "Q23304309",
       "label": "Leader of the Social Democratic and Labour Party",
       "title": "Leader of the Social Democratic and Labour Party"
+    },
+    {
+      "id": "Q24310329",
+      "label": "Minister for Social Development",
+      "title": "Minister for Social Development",
+      "qualifiers": {
+        "P580": "2007-05-08",
+        "P582": "2010-05-24"
+      }
     }
   ],
   "Q7634245": [
@@ -1752,10 +1879,19 @@
       "label": "Minister of Enterprise, Trade and Investment",
       "title": "Minister of Enterprise, Trade and Investment",
       "qualifiers": {
-        "P580": "1998-07-01",
+        "P580": "2000-05-30",
         "P582": "2002-10-14",
         "P1365": "",
         "P1366": "Nigel Dodds"
+      }
+    },
+    {
+      "id": "Q22979268",
+      "label": "Minister of Enterprise, Trade and Investment",
+      "title": "Minister of Enterprise, Trade and Investment",
+      "qualifiers": {
+        "P580": "1999-12-02",
+        "P582": "2000-02-11"
       }
     }
   ],
@@ -1790,6 +1926,14 @@
       "id": "Q3272410",
       "label": "Member of the Legislative Assembly of Northern Ireland",
       "title": "Member of the Legislative Assembly of Northern Ireland"
+    },
+    {
+      "id": "Q24323878",
+      "label": "Minister for Infrastructure",
+      "title": "Minister for Infrastructure",
+      "qualifiers": {
+        "P580": "2016-05-25"
+      }
     }
   ],
   "Q16190807": [
@@ -1812,6 +1956,16 @@
       "qualifiers": {
         "P580": "2001",
         "P1365": "Seán Neeson"
+      }
+    },
+    {
+      "id": "Q24324044",
+      "label": "Minister of Justice",
+      "title": "Minister of Justice",
+      "qualifiers": {
+        "P580": "2010-04-12",
+        "P582": "2016-05-06",
+        "P1366": "Claire Sugden"
       }
     }
   ],
@@ -2021,7 +2175,7 @@
       "label": "Minister of Education",
       "title": "Minister of Education",
       "qualifiers": {
-        "P580": "1999-12-02",
+        "P580": "2000-05-30",
         "P582": "2002-10-14",
         "P1366": "Caitríona Ruane"
       }
@@ -2062,6 +2216,15 @@
       "title": "deputy First Minister",
       "qualifiers": {
         "P580": "2011-10-31"
+      }
+    },
+    {
+      "id": "Q6866109",
+      "label": "Minister of Education",
+      "title": "Minister of Education",
+      "qualifiers": {
+        "P580": "1999-12-02",
+        "P582": "2000-02-11"
       }
     }
   ],
@@ -2151,6 +2314,15 @@
       "id": "Q3272410",
       "label": "Member of the Legislative Assembly of Northern Ireland",
       "title": "Member of the Legislative Assembly of Northern Ireland"
+    },
+    {
+      "id": "Q24198089",
+      "label": "Minister for Regional Development",
+      "title": "Minister for Regional Development",
+      "qualifiers": {
+        "P580": "2001-07-27",
+        "P582": "2001-10-24"
+      }
     }
   ],
   "Q24052783": [
@@ -2323,9 +2495,14 @@
   ],
   "Q1911383": [
     {
-      "id": "Q3044779",
-      "label": "Department for Social Development",
-      "title": "Department for Social Development"
+      "id": "Q24310329",
+      "label": "Minister for Social Development",
+      "title": "Minister for Social Development",
+      "qualifiers": {
+        "P580": "2016-01-12",
+        "P582": "2016-05-25",
+        "P1365": "Mervyn Storey"
+      }
     },
     {
       "id": "Q3272410",
@@ -2336,6 +2513,17 @@
       "id": "Q18952564",
       "label": "Member of the House of Lords",
       "title": "Member of the House of Lords"
+    },
+    {
+      "id": "Q24310329",
+      "label": "Minister for Social Development",
+      "title": "Minister for Social Development",
+      "qualifiers": {
+        "P580": "2000-07-27",
+        "P582": "2001-10-24",
+        "P1365": "Nigel Dodds",
+        "P1366": "Nigel Dodds"
+      }
     }
   ],
   "Q6780408": [
@@ -2374,6 +2562,23 @@
       "id": "Q3272410",
       "label": "Member of the Legislative Assembly of Northern Ireland",
       "title": "Member of the Legislative Assembly of Northern Ireland"
+    },
+    {
+      "id": "Q24321898",
+      "label": "Minister for Agriculture and Rural Development",
+      "title": "Minister for Agriculture and Rural Development",
+      "qualifiers": {
+        "P580": "2011-05-05",
+        "P582": "2015-05-06"
+      }
+    },
+    {
+      "id": "Q24323339",
+      "label": "Minister of Health",
+      "title": "Minister of Health",
+      "qualifiers": {
+        "P580": "2016-05-09"
+      }
     }
   ],
   "Q21234823": [
@@ -2392,7 +2597,21 @@
     {
       "id": "Q24198089",
       "label": "Minister for Regional Development",
-      "title": "Minister for Regional Development"
+      "title": "Minister for Regional Development",
+      "qualifiers": {
+        "P580": "2015-09-21",
+        "P582": "2016-05-06",
+        "P1365": "Danny Kennedy",
+        "P1366": "Chris Hazzard"
+      }
+    },
+    {
+      "id": "Q24321961",
+      "label": "Minister of Agriculture, Environment and Rural Affairs",
+      "title": "Minister of Agriculture, Environment and Rural Affairs",
+      "qualifiers": {
+        "P580": "2016-05-25"
+      }
     }
   ],
   "Q5549740": [
@@ -2449,6 +2668,33 @@
         "P1365": "Ian Paisley",
         "P1366": "Arlene Foster"
       }
+    },
+    {
+      "id": "Q24198089",
+      "label": "Minister for Regional Development",
+      "title": "Minister for Regional Development",
+      "qualifiers": {
+        "P580": "1999-12-02",
+        "P582": "2000-02-11"
+      }
+    },
+    {
+      "id": "Q24198089",
+      "label": "Minister for Regional Development",
+      "title": "Minister for Regional Development",
+      "qualifiers": {
+        "P580": "2000-05-30",
+        "P582": "2001-07-27"
+      }
+    },
+    {
+      "id": "Q24198089",
+      "label": "Minister for Regional Development",
+      "title": "Minister for Regional Development",
+      "qualifiers": {
+        "P580": "2001-10-24",
+        "P582": "2002-10-14"
+      }
     }
   ],
   "Q6530733": [
@@ -2497,7 +2743,11 @@
     {
       "id": "Q24198089",
       "label": "Minister for Regional Development",
-      "title": "Minister for Regional Development"
+      "title": "Minister for Regional Development",
+      "qualifiers": {
+        "P580": "2007-05-08",
+        "P582": "2011-05-16"
+      }
     },
     {
       "id": "Q16707842",
@@ -2578,7 +2828,8 @@
       "label": "Minister of Enterprise, Trade and Investment",
       "title": "Minister of Enterprise, Trade and Investment",
       "qualifiers": {
-        "P580": "2015-05"
+        "P580": "2015-05-11",
+        "P582": "2016-05-06"
       }
     }
   ],
@@ -2697,6 +2948,16 @@
       "id": "Q3272410",
       "label": "Member of the Legislative Assembly of Northern Ireland",
       "title": "Member of the Legislative Assembly of Northern Ireland"
+    },
+    {
+      "id": "Q24310329",
+      "label": "Minister for Social Development",
+      "title": "Minister for Social Development",
+      "qualifiers": {
+        "P580": "2010-05-24",
+        "P582": "2011-05-05",
+        "P1365": "Margaret Ritchie"
+      }
     }
   ],
   "Q478702": [
@@ -2814,6 +3075,16 @@
       "title": "Minister of Finance and Personnel",
       "qualifiers": {
         "P580": "2016-01-12"
+      }
+    },
+    {
+      "id": "Q24310329",
+      "label": "Minister for Social Development",
+      "title": "Minister for Social Development",
+      "qualifiers": {
+        "P580": "2014-09-23",
+        "P582": "2016-01-12",
+        "P1365": "Nelson McCausland"
       }
     }
   ],
