@@ -21,6 +21,14 @@
         "from": "gender-balance",
         "source": "Somalia/Lower"
       }
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "create": {
+        "from": "election-wikidata",
+        "base": "Q22669427"
+      }
     }
   ]
 }
