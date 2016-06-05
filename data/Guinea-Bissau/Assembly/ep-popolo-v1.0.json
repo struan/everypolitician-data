@@ -1,4 +1,7 @@
 {
+  "posts": [
+
+  ],
   "persons": [
     {
       "id": "909dd8c6-6e7b-4b30-b71b-98eb9dc9fb42",
@@ -2561,11 +2564,67 @@
   ],
   "events": [
     {
+      "classification": "general election",
+      "end_date": "1977",
+      "id": "Q5616453",
+      "name": "Guinea-Bissau legislative election, 1976–1977",
+      "start_date": "1976"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1984",
+      "id": "Q5616454",
+      "name": "Guinea-Bissau legislative election, 1984",
+      "start_date": "1984"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1989",
+      "id": "Q5616456",
+      "name": "Guinea-Bissau legislative election, 1989",
+      "start_date": "1989"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1994",
+      "id": "Q5616447",
+      "name": "Guinea-Bissau general election, 1994",
+      "start_date": "1994"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2000",
+      "id": "Q5616449",
+      "name": "Guinea-Bissau general election, 1999–2000",
+      "start_date": "1999"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2004",
+      "id": "Q5616457",
+      "name": "Guinea-Bissau legislative election, 2004",
+      "start_date": "2004"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2008",
+      "id": "Q5616459",
+      "name": "Guinea-Bissau legislative election, 2008",
+      "start_date": "2008"
+    },
+    {
       "classification": "legislative period",
       "id": "term/2014",
       "name": "2014-",
       "organization_id": "legislature",
       "start_date": "2014"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2014-04-13",
+      "id": "Q5616458",
+      "name": "Guinea-Bissau legislative election, 2013",
+      "start_date": "2014-04-13"
     }
   ],
   "areas": [
