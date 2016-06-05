@@ -1,4 +1,7 @@
 {
+  "posts": [
+
+  ],
   "persons": [
     {
       "gender": "male",
@@ -5214,11 +5217,88 @@
   ],
   "events": [
     {
+      "classification": "general election",
+      "end_date": "1971",
+      "id": "Q6741490",
+      "name": "Malawian general election, 1971",
+      "start_date": "1971"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1976",
+      "id": "Q16946191",
+      "name": "Malawian general election, 1976",
+      "start_date": "1976"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1978",
+      "id": "Q6741493",
+      "name": "Malawian general election, 1978",
+      "start_date": "1978"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1983",
+      "id": "Q6741494",
+      "name": "Malawian general election, 1983",
+      "start_date": "1983"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1987",
+      "id": "Q6741495",
+      "name": "Malawian general election, 1987",
+      "start_date": "1987"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1992",
+      "id": "Q6741496",
+      "name": "Malawian general election, 1992",
+      "start_date": "1992"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1994",
+      "id": "Q6741498",
+      "name": "Malawian general election, 1994",
+      "start_date": "1994"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1999",
+      "id": "Q6741497",
+      "name": "Malawian general election, 1999",
+      "start_date": "1999"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2004",
+      "id": "Q5978227",
+      "name": "Malawian general election of 2004",
+      "start_date": "2004"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2009",
+      "id": "Q5965140",
+      "name": "Malawian general election of 2009",
+      "start_date": "2009"
+    },
+    {
       "classification": "legislative period",
       "id": "term/2014",
       "name": "2014",
       "organization_id": "legislature",
       "start_date": "2014"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2014-05-20",
+      "id": "Q15206416",
+      "name": "Malawian general election, 2014",
+      "start_date": "2014-05-20"
     }
   ],
   "areas": [
