@@ -776,12 +776,25 @@
     },
     {
       "birth_date": "1985",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "mariella_aristeidou@hotmail.com"
+        }
+      ],
+      "email": "mariella_aristeidou@hotmail.com",
       "gender": "female",
       "id": "7e2ff930-2743-4008-8eab-473eec0f0002",
       "identifiers": [
         {
           "identifier": "aristeidou-mariella",
           "scheme": "openpatata"
+        }
+      ],
+      "image": "http://neavouli.eu/media/images/images/140.png",
+      "images": [
+        {
+          "url": "http://neavouli.eu/media/images/images/140.png"
         }
       ],
       "name": "Aristeidou Mariella",
@@ -859,6 +872,10 @@
         {
           "type": "email",
           "value": "icharalambides@parliament.cy"
+        },
+        {
+          "type": "twitter",
+          "value": "xaralambidou"
         }
       ],
       "email": "icharalambides@parliament.cy",
@@ -892,6 +909,10 @@
         {
           "note": "Wikipedia (el)",
           "url": "https://el.wikipedia.org/wiki/Ειρήνη_Χαραλαμπίδου"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/xaralambidou"
         }
       ],
       "name": "Charalampidou Eirini",
@@ -1175,12 +1196,30 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "AnnitaDemetriou"
+        }
+      ],
       "gender": "female",
       "id": "1ed81b10-1329-44ab-b4ed-87429b469349",
       "identifiers": [
         {
           "identifier": "dimitriou-annita",
           "scheme": "openpatata"
+        }
+      ],
+      "image": "http://neavouli.eu/media/images/images/127_UxkWpsi.png",
+      "images": [
+        {
+          "url": "http://neavouli.eu/media/images/images/127_UxkWpsi.png"
+        }
+      ],
+      "links": [
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/AnnitaDemetriou"
         }
       ],
       "name": "Dimitriou Annita",
@@ -1204,12 +1243,30 @@
     },
     {
       "birth_date": "1981",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "dmdemetriou"
+        }
+      ],
       "gender": "male",
       "id": "477b7d55-7392-4f4a-a150-1c82fce80fdd",
       "identifiers": [
         {
           "identifier": "dimitriou-dimitris",
           "scheme": "openpatata"
+        }
+      ],
+      "image": "http://neavouli.eu/media/images/images/7.png",
+      "images": [
+        {
+          "url": "http://neavouli.eu/media/images/images/7.png"
+        }
+      ],
+      "links": [
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/dmdemetriou"
         }
       ],
       "name": "Dimitriou Dimitris",
@@ -1305,7 +1362,7 @@
         },
         {
           "type": "twitter",
-          "value": "ediplaros"
+          "value": "diplarose"
         }
       ],
       "email": "ediplaros@parliament.cy",
@@ -1334,7 +1391,7 @@
       "links": [
         {
           "note": "twitter",
-          "url": "https://twitter.com/ediplaros"
+          "url": "https://twitter.com/diplarose"
         }
       ],
       "name": "Diplaros Efthymios",
@@ -1366,6 +1423,12 @@
           "scheme": "openpatata"
         }
       ],
+      "image": "http://neavouli.eu/media/images/images/261_4ZOnNib.png",
+      "images": [
+        {
+          "url": "http://neavouli.eu/media/images/images/261_4ZOnNib.png"
+        }
+      ],
       "name": "Efstathiou Kostis",
       "other_names": [
         {
@@ -1392,6 +1455,12 @@
         {
           "identifier": "erotokritou-christiana",
           "scheme": "openpatata"
+        }
+      ],
+      "image": "http://neavouli.eu/media/images/images/243.png",
+      "images": [
+        {
+          "url": "http://neavouli.eu/media/images/images/243.png"
         }
       ],
       "name": "Erotokritou Christiana",
@@ -1849,6 +1918,12 @@
           "scheme": "openpatata"
         }
       ],
+      "image": "http://neavouli.eu/media/images/images/83.png",
+      "images": [
+        {
+          "url": "http://neavouli.eu/media/images/images/83.png"
+        }
+      ],
       "name": "Georgiou T. Giorgos",
       "other_names": [
         {
@@ -1869,12 +1944,25 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "mgiorgallas@yahoo.gr"
+        }
+      ],
+      "email": "mgiorgallas@yahoo.gr",
       "gender": "male",
       "id": "3b607b5a-10a1-4c89-b01e-c725af369e81",
       "identifiers": [
         {
           "identifier": "giorgallas-michalis",
           "scheme": "openpatata"
+        }
+      ],
+      "image": "http://neavouli.eu/media/images/images/360_I1mDlMS.png",
+      "images": [
+        {
+          "url": "http://neavouli.eu/media/images/images/360_I1mDlMS.png"
         }
       ],
       "name": "Giorgallas Michalis",
@@ -2108,6 +2196,12 @@
           "scheme": "openpatata"
         }
       ],
+      "image": "http://neavouli.eu/media/images/images/179.png",
+      "images": [
+        {
+          "url": "http://neavouli.eu/media/images/images/179.png"
+        }
+      ],
       "name": "Karoullas Giorgos",
       "other_names": [
         {
@@ -2134,6 +2228,12 @@
         {
           "identifier": "kasinis-solon",
           "scheme": "openpatata"
+        }
+      ],
+      "image": "http://neavouli.eu/media/images/images/201.png",
+      "images": [
+        {
+          "url": "http://neavouli.eu/media/images/images/201.png"
         }
       ],
       "name": "Kasinis Solon",
@@ -2251,12 +2351,30 @@
     },
     {
       "birth_date": "1974",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "nkettiros"
+        }
+      ],
       "gender": "male",
       "id": "d79c4b6d-87d5-4229-9f83-1bc922000f1b",
       "identifiers": [
         {
           "identifier": "kettiros-nikos",
           "scheme": "openpatata"
+        }
+      ],
+      "image": "http://neavouli.eu/media/images/images/119.png",
+      "images": [
+        {
+          "url": "http://neavouli.eu/media/images/images/119.png"
+        }
+      ],
+      "links": [
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/nkettiros"
         }
       ],
       "name": "Kettiros Nikos",
@@ -2567,6 +2685,12 @@
           "scheme": "openpatata"
         }
       ],
+      "image": "http://neavouli.eu/media/images/images/180.png",
+      "images": [
+        {
+          "url": "http://neavouli.eu/media/images/images/180.png"
+        }
+      ],
       "name": "Koulla Onoufrios",
       "other_names": [
         {
@@ -2692,6 +2816,10 @@
         {
           "type": "email",
           "value": "akyprianou@parliament.cy"
+        },
+        {
+          "type": "twitter",
+          "value": "gensecakel"
         }
       ],
       "email": "akyprianou@parliament.cy",
@@ -2758,6 +2886,10 @@
         {
           "note": "Wikipedia (zh)",
           "url": "https://zh.wikipedia.org/wiki/安德罗斯·基普里亚努"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/gensecakel"
         }
       ],
       "name": "Kyprianou Antros",
@@ -3056,6 +3188,12 @@
           "scheme": "openpatata"
         }
       ],
+      "image": "http://neavouli.eu/media/images/images/231.png",
+      "images": [
+        {
+          "url": "http://neavouli.eu/media/images/images/231.png"
+        }
+      ],
       "name": "Leonidou Panikos",
       "other_names": [
         {
@@ -3077,12 +3215,35 @@
     },
     {
       "birth_date": "1960-06-01",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "yiorgos@lillikas.com"
+        },
+        {
+          "type": "twitter",
+          "value": "yiorgoslillikas"
+        }
+      ],
+      "email": "yiorgos@lillikas.com",
       "gender": "male",
       "id": "360ba2f5-8984-4cbd-a82d-5a4c626c76d4",
       "identifiers": [
         {
           "identifier": "lillikas-giorgos",
           "scheme": "openpatata"
+        }
+      ],
+      "image": "http://neavouli.eu/media/images/images/370.png",
+      "images": [
+        {
+          "url": "http://neavouli.eu/media/images/images/370.png"
+        }
+      ],
+      "links": [
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/yiorgoslillikas"
         }
       ],
       "name": "Lillikas Giorgos",
@@ -3342,6 +3503,12 @@
         {
           "identifier": "mavrou-eleni",
           "scheme": "openpatata"
+        }
+      ],
+      "image": "http://neavouli.eu/media/images/images/27.png",
+      "images": [
+        {
+          "url": "http://neavouli.eu/media/images/images/27.png"
         }
       ],
       "name": "Mavrou Eleni",
@@ -3625,6 +3792,12 @@
           "scheme": "openpatata"
         }
       ],
+      "image": "http://neavouli.eu/media/images/images/248.png",
+      "images": [
+        {
+          "url": "http://neavouli.eu/media/images/images/248.png"
+        }
+      ],
       "name": "Mousiouttas Marinos",
       "other_names": [
         {
@@ -3646,12 +3819,25 @@
     },
     {
       "birth_date": "1967",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "mylonas.p@live.com"
+        }
+      ],
+      "email": "mylonas.p@live.com",
       "gender": "male",
       "id": "e59177b5-6bfc-4337-9646-2f40eaaf037e",
       "identifiers": [
         {
           "identifier": "mylonas-pavlos",
           "scheme": "openpatata"
+        }
+      ],
+      "image": "http://neavouli.eu/media/images/images/401.png",
+      "images": [
+        {
+          "url": "http://neavouli.eu/media/images/images/401.png"
         }
       ],
       "name": "Mylonas Pavlos",
@@ -4103,6 +4289,12 @@
           "scheme": "openpatata"
         }
       ],
+      "image": "http://neavouli.eu/media/images/images/22_9BYJzKd.png",
+      "images": [
+        {
+          "url": "http://neavouli.eu/media/images/images/22_9BYJzKd.png"
+        }
+      ],
       "name": "Orfanidis Christos",
       "other_names": [
         {
@@ -4123,12 +4315,30 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "gpapadopoulos10"
+        }
+      ],
       "gender": "male",
       "id": "e9a3bd8c-c3f2-4fd6-a3d1-792b3905f7ae",
       "identifiers": [
         {
           "identifier": "papadopoulos-georgios",
           "scheme": "openpatata"
+        }
+      ],
+      "image": "http://neavouli.eu/media/images/images/356.png",
+      "images": [
+        {
+          "url": "http://neavouli.eu/media/images/images/356.png"
+        }
+      ],
+      "links": [
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/gpapadopoulos10"
         }
       ],
       "name": "Papadopoulos Georgios",
@@ -4237,6 +4447,16 @@
         {
           "lang": "en",
           "name": "Papadopoulos Nikolas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Nikolas Papadopoulos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "Nikolas Papadopoulos",
           "note": "multilingual"
         },
         {
@@ -4943,6 +5163,12 @@
           "scheme": "openpatata"
         }
       ],
+      "image": "http://neavouli.eu/media/images/images/112.png",
+      "images": [
+        {
+          "url": "http://neavouli.eu/media/images/images/112.png"
+        }
+      ],
       "name": "Pittokopitis Charalampos",
       "other_names": [
         {
@@ -5182,6 +5408,12 @@
           "scheme": "openpatata"
         }
       ],
+      "image": "http://neavouli.eu/media/images/images/19.png",
+      "images": [
+        {
+          "url": "http://neavouli.eu/media/images/images/19.png"
+        }
+      ],
       "name": "Savva Evanthia",
       "other_names": [
         {
@@ -5203,12 +5435,35 @@
     },
     {
       "birth_date": "1957-07-17",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "marinos@sizopoulos.com"
+        },
+        {
+          "type": "twitter",
+          "value": "sizopoulos"
+        }
+      ],
+      "email": "marinos@sizopoulos.com",
       "gender": "male",
       "id": "265f3b63-cb2a-41be-91f8-fcc6120ca4f9",
       "identifiers": [
         {
           "identifier": "sizopoulos-marinos",
           "scheme": "openpatata"
+        }
+      ],
+      "image": "http://neavouli.eu/media/images/images/265_c132Tv1.png",
+      "images": [
+        {
+          "url": "http://neavouli.eu/media/images/images/265_c132Tv1.png"
+        }
+      ],
+      "links": [
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/sizopoulos"
         }
       ],
       "name": "Sizopoulos Marinos",
@@ -5305,6 +5560,12 @@
           "scheme": "openpatata"
         }
       ],
+      "image": "http://neavouli.eu/media/images/images/195.png",
+      "images": [
+        {
+          "url": "http://neavouli.eu/media/images/images/195.png"
+        }
+      ],
       "name": "Stavrou Eleni",
       "other_names": [
         {
@@ -5332,6 +5593,12 @@
         {
           "identifier": "stefanou-stefanos",
           "scheme": "openpatata"
+        }
+      ],
+      "image": "http://neavouli.eu/media/images/images/67.png",
+      "images": [
+        {
+          "url": "http://neavouli.eu/media/images/images/67.png"
         }
       ],
       "name": "Stefanou Stefanos",
@@ -5398,6 +5665,10 @@
         {
           "type": "email",
           "value": "dsyllouris@parliament.cy"
+        },
+        {
+          "type": "twitter",
+          "value": "syllouris"
         }
       ],
       "email": "dsyllouris@parliament.cy",
@@ -5436,6 +5707,10 @@
         {
           "note": "Wikipedia (pl)",
           "url": "https://pl.wikipedia.org/wiki/Dimitris_Siluris"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/syllouris"
         }
       ],
       "name": "Syllouris Dimitris",
@@ -5574,12 +5849,25 @@
     },
     {
       "birth_date": "1986",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "anna_theologou@hotmail.com"
+        }
+      ],
+      "email": "anna_theologou@hotmail.com",
       "gender": "female",
       "id": "f66b51ea-891c-4fbf-adf0-6d78a8ad29d5",
       "identifiers": [
         {
           "identifier": "theologou-anna",
           "scheme": "openpatata"
+        }
+      ],
+      "image": "http://neavouli.eu/media/images/images/387.png",
+      "images": [
+        {
+          "url": "http://neavouli.eu/media/images/images/387.png"
         }
       ],
       "name": "Theologou Anna",
@@ -5603,12 +5891,35 @@
     },
     {
       "birth_date": "1955",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "theopemptou@gmail.com"
+        },
+        {
+          "type": "twitter",
+          "value": "theopemptou"
+        }
+      ],
+      "email": "theopemptou@gmail.com",
       "gender": "male",
       "id": "bf608732-89a6-467a-802a-bd301d2e72eb",
       "identifiers": [
         {
           "identifier": "theopemptou-charalampos",
           "scheme": "openpatata"
+        }
+      ],
+      "image": "http://neavouli.eu/media/images/images/327.png",
+      "images": [
+        {
+          "url": "http://neavouli.eu/media/images/images/327.png"
+        }
+      ],
+      "links": [
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/theopemptou"
         }
       ],
       "name": "Theopemptou Charalampos",
