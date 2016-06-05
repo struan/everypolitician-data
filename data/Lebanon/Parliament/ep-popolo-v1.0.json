@@ -2149,14 +2149,45 @@
       ]
     },
     {
+      "gender": "male",
       "id": "cbb0065c-fa6c-4c4f-a1c0-fbb340fbe0a1",
       "identifiers": [
         {
           "identifier": "Q19668129",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q19668129",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/فريد_إلياس_الخازن"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Farid_Elias_Khazen"
         }
       ],
       "name": "Farid Elias el-Khazen",
+      "other_names": [
+        {
+          "name": "Farid Elias Khazen",
+          "note": "alternate"
+        },
+        {
+          "lang": "ar",
+          "name": "فريد إلياس الخازن",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Farid Elias Khazen",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/Members_of_the_2009%E2%80%9317_Lebanese_Parliament"
