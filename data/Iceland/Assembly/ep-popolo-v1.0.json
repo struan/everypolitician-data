@@ -3626,6 +3626,16 @@
           "note": "multilingual"
         },
         {
+          "lang": "es",
+          "name": "Gunnlaugur Sigmundsson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "Gunnlaugur Sigmundsson",
+          "note": "multilingual"
+        },
+        {
           "lang": "fi",
           "name": "Gunnlaugur Sigmundsson",
           "note": "multilingual"
@@ -3918,15 +3928,30 @@
         {
           "identifier": "guðjón_guðmundsson",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q24006811",
+          "scheme": "wikidata"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Guðjón_Guðmundsson"
+        },
         {
           "note": "wikipedia",
           "url": "Guðjón Guðmundsson"
         }
       ],
       "name": "Guðjón Guðmundsson",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Guðjón Guðmundsson",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_parliament_of_Iceland,_1999%E2%80%932003"
@@ -3956,15 +3981,30 @@
         {
           "identifier": "guðjón_jónsson",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q24006812",
+          "scheme": "wikidata"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Guðjón_Jónsson"
+        },
         {
           "note": "wikipedia",
           "url": "Guðjón Jónsson"
         }
       ],
       "name": "Guðjón Jónsson",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Guðjón Jónsson",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_parliament_of_Iceland,_2003%E2%80%9307"
@@ -12014,15 +12054,54 @@
       ]
     },
     {
+      "birth_date": "1932-05-24",
+      "death_date": "2011-09-10",
       "gender": "male",
+      "given_name": "Stefán",
       "id": "446f97e8-c136-43ed-a1ed-dba5dffac001",
       "identifiers": [
         {
           "identifier": "stefán_guðmundsson",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q16427240",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (is)",
+          "url": "https://is.wikipedia.org/wiki/Stefán_Sigurður_Guðmundsson"
         }
       ],
       "name": "Stefán Guðmundsson",
+      "other_names": [
+        {
+          "name": "Stefán Sigurður Guðmundsson",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Stefán Sigurður Guðmundsson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Stefán Sigurður Guðmundsson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "is",
+          "name": "Stefán Sigurður Guðmundsson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Stefán Sigurður Guðmundsson",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_parliament_of_Iceland,_1995%E2%80%9399"
@@ -14926,14 +15005,425 @@
       ]
     },
     {
+      "birth_date": "1990-02-05",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "asta_fish"
+        }
+      ],
+      "gender": "female",
       "id": "2bb19f43-88a6-4159-898b-b0c30f1491ce",
+      "identifiers": [
+        {
+          "identifier": "Q22236740",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/61/Asta_Helgadottir_2015.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Asta_Helgadottir_2015.jpg"
+        }
+      ],
       "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Ásta_Guðrún_Helgadóttir"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ásta_Guðrún_Helgadóttir"
+        },
+        {
+          "note": "Wikipedia (is)",
+          "url": "https://is.wikipedia.org/wiki/Ásta_Guðrún_Helgadóttir"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/asta.helgadottir"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/asta_fish"
+        },
         {
           "note": "wikipedia",
           "url": "Ásta Guðrún Helgadóttir"
         }
       ],
-      "name": "Ásta Guðrún Helgadóttir"
+      "name": "Ásta Guðrún Helgadóttir",
+      "other_names": [
+        {
+          "name": "Ásta Helgadóttir",
+          "note": "alternate"
+        },
+        {
+          "lang": "af",
+          "name": "Ásta Helgadóttir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "an",
+          "name": "Ásta Helgadóttir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ast",
+          "name": "Ásta Helgadóttir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bar",
+          "name": "Ásta Helgadóttir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "br",
+          "name": "Ásta Helgadóttir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Ásta Helgadóttir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "co",
+          "name": "Ásta Helgadóttir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Ásta Helgadóttir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Ásta Helgadóttir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Ásta Helgadóttir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Ásta Guðrún Helgadóttir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de-at",
+          "name": "Ásta Helgadóttir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de-ch",
+          "name": "Ásta Helgadóttir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Ásta Helgadóttir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "Ásta Helgadóttir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "Ásta Helgadóttir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Ásta Helgadóttir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Ásta Helgadóttir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Ásta Helgadóttir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "Ásta Helgadóttir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Ásta Helgadóttir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Ásta Helgadóttir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "frp",
+          "name": "Ásta Helgadóttir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fur",
+          "name": "Ásta Helgadóttir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "Ásta Helgadóttir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Ásta Helgadóttir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Ásta Helgadóttir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gsw",
+          "name": "Ásta Helgadóttir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Ásta Helgadóttir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Ásta Helgadóttir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ia",
+          "name": "Ásta Helgadóttir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Ásta Helgadóttir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ie",
+          "name": "Ásta Helgadóttir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "io",
+          "name": "Ásta Helgadóttir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "is",
+          "name": "Ásta Guðrún Helgadóttir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Ásta Helgadóttir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kg",
+          "name": "Ásta Helgadóttir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lb",
+          "name": "Ásta Helgadóttir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "li",
+          "name": "Ásta Helgadóttir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lij",
+          "name": "Ásta Helgadóttir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mg",
+          "name": "Ásta Helgadóttir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "min",
+          "name": "Ásta Helgadóttir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "Ásta Helgadóttir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nap",
+          "name": "Ásta Helgadóttir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Ásta Helgadóttir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nds",
+          "name": "Ásta Helgadóttir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nds-nl",
+          "name": "Ásta Helgadóttir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Ásta Helgadóttir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Ásta Helgadóttir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nrm",
+          "name": "Ásta Helgadóttir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Ásta Helgadóttir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pcd",
+          "name": "Ásta Helgadóttir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Ásta Helgadóttir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pms",
+          "name": "Ásta Helgadóttir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Ásta Helgadóttir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt-br",
+          "name": "Ásta Helgadóttir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "rm",
+          "name": "Ásta Helgadóttir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Ásta Helgadóttir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sc",
+          "name": "Ásta Helgadóttir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "scn",
+          "name": "Ásta Helgadóttir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "Ásta Helgadóttir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Ásta Helgadóttir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Ásta Helgadóttir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-el",
+          "name": "Ásta Helgadóttir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Ásta Helgadóttir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sw",
+          "name": "Ásta Helgadóttir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vec",
+          "name": "Ásta Helgadóttir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Ásta Helgadóttir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vls",
+          "name": "Ásta Helgadóttir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vo",
+          "name": "Ásta Helgadóttir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "wa",
+          "name": "Ásta Helgadóttir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "wo",
+          "name": "Ásta Helgadóttir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zu",
+          "name": "Ásta Helgadóttir",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1949-10-16",
