@@ -4,6 +4,8 @@
   ],
   "persons": [
     {
+      "family_name": "Sınay",
+      "given_name": "Abbas",
       "id": "df615f5e-ab4e-44e4-aeeb-887e5994916a",
       "identifiers": [
         {
@@ -11,7 +13,14 @@
           "scheme": "everypolitician_legacy"
         }
       ],
+      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/abbas-sinay.jpg",
+      "images": [
+        {
+          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/abbas-sinay.jpg"
+        }
+      ],
       "name": "Abbas Sınay",
+      "sort_name": "Sınay, Abbas",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/14th_Parliament_of_Northern_Cyprus"
@@ -19,6 +28,8 @@
       ]
     },
     {
+      "family_name": "Gulle",
+      "given_name": "Ahmet",
       "id": "352bfc03-0adb-439a-a962-5f9b46c7d8f4",
       "identifiers": [
         {
@@ -26,7 +37,20 @@
           "scheme": "everypolitician_legacy"
         }
       ],
+      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/ahmet-gulle.jpg",
+      "images": [
+        {
+          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/ahmet-gulle.jpg"
+        }
+      ],
       "name": "Ahmet Gülle",
+      "other_names": [
+        {
+          "name": "Ahmet Gulle",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Gulle, Ahmet",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/14th_Parliament_of_Northern_Cyprus"
@@ -35,6 +59,7 @@
     },
     {
       "birth_date": "1950",
+      "family_name": "Kaşif",
       "gender": "male",
       "given_name": "Ahmet",
       "id": "e5139463-422f-48e3-a28b-8f99f3861c68",
@@ -46,6 +71,12 @@
         {
           "identifier": "Q4696177",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/ahmet-kasif.jpg",
+      "images": [
+        {
+          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/ahmet-kasif.jpg"
         }
       ],
       "links": [
@@ -91,6 +122,7 @@
           "note": "multilingual"
         }
       ],
+      "sort_name": "Kaşif, Ahmet",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/14th_Parliament_of_Northern_Cyprus"
@@ -98,6 +130,8 @@
       ]
     },
     {
+      "family_name": "Pilli",
+      "given_name": "Ali",
       "id": "cb07e876-aded-41c9-80a6-184afd933fc3",
       "identifiers": [
         {
@@ -105,7 +139,14 @@
           "scheme": "everypolitician_legacy"
         }
       ],
+      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/ali-pilli.jpg",
+      "images": [
+        {
+          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/ali-pilli.jpg"
+        }
+      ],
       "name": "Ali Pilli",
+      "sort_name": "Pilli, Ali",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/14th_Parliament_of_Northern_Cyprus"
@@ -113,6 +154,8 @@
       ]
     },
     {
+      "family_name": "Albayrak",
+      "given_name": "Arıf",
       "id": "71216f7f-89ea-4f10-98c4-9e1ade12b1b4",
       "identifiers": [
         {
@@ -120,7 +163,20 @@
           "scheme": "everypolitician_legacy"
         }
       ],
+      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/arif-albayrak.jpg",
+      "images": [
+        {
+          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/arif-albayrak.jpg"
+        }
+      ],
       "name": "Arif Albayrak",
+      "other_names": [
+        {
+          "name": "Arıf Albayrak",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Albayrak, Arıf",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/14th_Parliament_of_Northern_Cyprus"
@@ -128,6 +184,8 @@
       ]
     },
     {
+      "family_name": "Candan",
+      "given_name": "Armağan",
       "id": "68443233-3d6c-4467-84a3-1de859c5480a",
       "identifiers": [
         {
@@ -135,7 +193,14 @@
           "scheme": "everypolitician_legacy"
         }
       ],
+      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/armagan-candan.jpg",
+      "images": [
+        {
+          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/armagan-candan.jpg"
+        }
+      ],
       "name": "Armağan Candan",
+      "sort_name": "Candan, Armağan",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/14th_Parliament_of_Northern_Cyprus"
@@ -143,6 +208,8 @@
       ]
     },
     {
+      "family_name": "Akansoy",
+      "given_name": "Asım",
       "id": "4c404f8d-8a14-4432-8270-6afc80a26c27",
       "identifiers": [
         {
@@ -150,7 +217,14 @@
           "scheme": "everypolitician_legacy"
         }
       ],
+      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/asim-akansoy.jpg",
+      "images": [
+        {
+          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/asim-akansoy.jpg"
+        }
+      ],
       "name": "Asım Akansoy",
+      "sort_name": "Akansoy, Asım",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/14th_Parliament_of_Northern_Cyprus"
@@ -158,6 +232,8 @@
       ]
     },
     {
+      "family_name": "Hamzaoğulları",
+      "given_name": "Biray",
       "id": "4e4a18e6-165d-4c32-ab44-2664ba15c8ce",
       "identifiers": [
         {
@@ -165,7 +241,20 @@
           "scheme": "everypolitician_legacy"
         }
       ],
+      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/biray-hamzaogullari.jpg",
+      "images": [
+        {
+          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/biray-hamzaogullari.jpg"
+        }
+      ],
       "name": "Biray Hamzaoğlu",
+      "other_names": [
+        {
+          "name": "Biray Hamzaoğulları",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Hamzaoğulları, Biray",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/14th_Parliament_of_Northern_Cyprus"
@@ -173,6 +262,8 @@
       ]
     },
     {
+      "family_name": "Özgür",
+      "given_name": "Birikim",
       "id": "9942719a-8e48-4cc4-894c-c960689bf49a",
       "identifiers": [
         {
@@ -180,7 +271,14 @@
           "scheme": "everypolitician_legacy"
         }
       ],
+      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/birikim-ozgur.jpg",
+      "images": [
+        {
+          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/birikim-ozgur.jpg"
+        }
+      ],
       "name": "Birikim Özgür",
+      "sort_name": "Özgür, Birikim",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/14th_Parliament_of_Northern_Cyprus"
@@ -189,7 +287,9 @@
     },
     {
       "birth_date": "1978",
+      "family_name": "Derya",
       "gender": "female",
+      "given_name": "Doğuş",
       "id": "70ecdab0-7723-4cda-89be-34d3b0a61cd0",
       "identifiers": [
         {
@@ -199,6 +299,12 @@
         {
           "identifier": "Q20090577",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/dogus-derya.jpg",
+      "images": [
+        {
+          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/dogus-derya.jpg"
         }
       ],
       "links": [
@@ -215,6 +321,7 @@
           "note": "multilingual"
         }
       ],
+      "sort_name": "Derya, Doğuş",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/14th_Parliament_of_Northern_Cyprus"
@@ -222,6 +329,8 @@
       ]
     },
     {
+      "family_name": "Oğuz",
+      "given_name": "Dursun",
       "id": "d859c907-9648-4de4-b8e3-315ac02a7a9e",
       "identifiers": [
         {
@@ -229,7 +338,14 @@
           "scheme": "everypolitician_legacy"
         }
       ],
+      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/dursun-oguz.jpg",
+      "images": [
+        {
+          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/dursun-oguz.jpg"
+        }
+      ],
       "name": "Dursun Oğuz",
+      "sort_name": "Oğuz, Dursun",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/14th_Parliament_of_Northern_Cyprus"
@@ -237,6 +353,8 @@
       ]
     },
     {
+      "family_name": "Özcenk",
+      "given_name": "Erdal",
       "id": "62c5a59e-d317-448a-8cd2-bd8b379e2c6c",
       "identifiers": [
         {
@@ -244,7 +362,14 @@
           "scheme": "everypolitician_legacy"
         }
       ],
+      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/erdal-ozcenk.jpg",
+      "images": [
+        {
+          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/erdal-ozcenk.jpg"
+        }
+      ],
       "name": "Erdal Özcenk",
+      "sort_name": "Özcenk, Erdal",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/14th_Parliament_of_Northern_Cyprus"
@@ -252,6 +377,8 @@
       ]
     },
     {
+      "family_name": "Serdaroglu",
+      "given_name": "Ergün",
       "id": "8bd88db5-c254-4417-99c5-8883ac6c8be8",
       "identifiers": [
         {
@@ -259,7 +386,20 @@
           "scheme": "everypolitician_legacy"
         }
       ],
+      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/ergun-serdaroglu.jpg",
+      "images": [
+        {
+          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/ergun-serdaroglu.jpg"
+        }
+      ],
       "name": "Ergün Serdaroğlu",
+      "other_names": [
+        {
+          "name": "Ergün Serdaroglu",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Serdaroglu, Ergün",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/14th_Parliament_of_Northern_Cyprus"
@@ -267,6 +407,8 @@
       ]
     },
     {
+      "family_name": "Şahali",
+      "given_name": "Erkut",
       "id": "2720afd9-7195-447b-b94d-199ee1d53b8e",
       "identifiers": [
         {
@@ -274,7 +416,14 @@
           "scheme": "everypolitician_legacy"
         }
       ],
+      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/erkut-sahali.jpg",
+      "images": [
+        {
+          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/erkut-sahali.jpg"
+        }
+      ],
       "name": "Erkut Şahali",
+      "sort_name": "Şahali, Erkut",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/14th_Parliament_of_Northern_Cyprus"
@@ -282,6 +431,8 @@
       ]
     },
     {
+      "family_name": "Saner",
+      "given_name": "H. Ersan",
       "id": "1364d999-3e01-46fb-88fb-c01130903a1e",
       "identifiers": [
         {
@@ -290,6 +441,13 @@
         }
       ],
       "name": "Ersan Saner",
+      "other_names": [
+        {
+          "name": "H. Ersan Saner",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Saner, H. Ersan",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/14th_Parliament_of_Northern_Cyprus"
@@ -297,6 +455,8 @@
       ]
     },
     {
+      "family_name": "Tatar",
+      "given_name": "Ersın",
       "id": "a200a290-ecc2-45cb-b513-dda47b8368d7",
       "identifiers": [
         {
@@ -304,7 +464,20 @@
           "scheme": "everypolitician_legacy"
         }
       ],
+      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/ersin-tatar.jpg",
+      "images": [
+        {
+          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/ersin-tatar.jpg"
+        }
+      ],
       "name": "Ersin Tatar",
+      "other_names": [
+        {
+          "name": "Ersın Tatar",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Tatar, Ersın",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/14th_Parliament_of_Northern_Cyprus"
@@ -312,6 +485,8 @@
       ]
     },
     {
+      "family_name": "Sucuoğlu",
+      "given_name": "Faiz",
       "id": "b579c730-8e0a-49f5-bccf-dd380369adf7",
       "identifiers": [
         {
@@ -319,7 +494,14 @@
           "scheme": "everypolitician_legacy"
         }
       ],
+      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/faiz-sucuoglu.jpg",
+      "images": [
+        {
+          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/faiz-sucuoglu.jpg"
+        }
+      ],
       "name": "Faiz Sucuoğlu",
+      "sort_name": "Sucuoğlu, Faiz",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/14th_Parliament_of_Northern_Cyprus"
@@ -327,6 +509,8 @@
       ]
     },
     {
+      "family_name": "Özdenefe",
+      "given_name": "Fazilet",
       "id": "5da30f95-6c72-426f-a4b7-d9d6a5267e26",
       "identifiers": [
         {
@@ -334,7 +518,14 @@
           "scheme": "everypolitician_legacy"
         }
       ],
+      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/fazilet-ozdenefe.jpg",
+      "images": [
+        {
+          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/fazilet-ozdenefe.jpg"
+        }
+      ],
       "name": "Fazilet Özdenefe",
+      "sort_name": "Özdenefe, Fazilet",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/14th_Parliament_of_Northern_Cyprus"
@@ -343,7 +534,9 @@
     },
     {
       "birth_date": "1951-03-05",
+      "family_name": "Soyer",
       "gender": "male",
+      "given_name": "Ferdı Sabıt",
       "id": "1d648202-136b-4755-bf0a-d2788cf6824d",
       "identifiers": [
         {
@@ -357,6 +550,12 @@
         {
           "identifier": "Q730602",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/ferdi-sabit-soyer.jpg",
+      "images": [
+        {
+          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/ferdi-sabit-soyer.jpg"
         }
       ],
       "links": [
@@ -407,6 +606,10 @@
       ],
       "name": "Ferdi Sabit Soyer",
       "other_names": [
+        {
+          "name": "Ferdı Sabıt Soyer",
+          "note": "alternate"
+        },
         {
           "lang": "ar",
           "name": "فيردي ثابت سوير",
@@ -483,6 +686,7 @@
           "note": "multilingual"
         }
       ],
+      "sort_name": "Soyer, Ferdı Sabıt",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/14th_Parliament_of_Northern_Cyprus"
@@ -490,6 +694,8 @@
       ]
     },
     {
+      "family_name": "Ataoğlu",
+      "given_name": "Fikri",
       "id": "1895ee86-c174-4f65-8b88-25565e6df627",
       "identifiers": [
         {
@@ -497,7 +703,14 @@
           "scheme": "everypolitician_legacy"
         }
       ],
+      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/fikri-ataoglu.jpg",
+      "images": [
+        {
+          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/fikri-ataoglu.jpg"
+        }
+      ],
       "name": "Fikri Ataoğlu",
+      "sort_name": "Ataoğlu, Fikri",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/14th_Parliament_of_Northern_Cyprus"
@@ -505,6 +718,8 @@
       ]
     },
     {
+      "family_name": "Dinçyürek",
+      "given_name": "Hakan",
       "id": "35c6b15e-c034-4145-84f8-52146556c6bb",
       "identifiers": [
         {
@@ -512,7 +727,14 @@
           "scheme": "everypolitician_legacy"
         }
       ],
+      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/hakan-dincyurek.jpg",
+      "images": [
+        {
+          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/hakan-dincyurek.jpg"
+        }
+      ],
       "name": "Hakan Dinçyürek",
+      "sort_name": "Dinçyürek, Hakan",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/14th_Parliament_of_Northern_Cyprus"
@@ -520,6 +742,8 @@
       ]
     },
     {
+      "family_name": "Bakırcı",
+      "given_name": "Hamit",
       "id": "43bb6876-2891-4065-9c10-2a1c3fae5695",
       "identifiers": [
         {
@@ -527,7 +751,14 @@
           "scheme": "everypolitician_legacy"
         }
       ],
+      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/hamit-bakirci.jpg",
+      "images": [
+        {
+          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/hamit-bakirci.jpg"
+        }
+      ],
       "name": "Hamit Bakırcı",
+      "sort_name": "Bakırcı, Hamit",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/14th_Parliament_of_Northern_Cyprus"
@@ -535,6 +766,8 @@
       ]
     },
     {
+      "family_name": "Taçoy",
+      "given_name": "Hasan",
       "id": "3021557f-8eff-436e-ae1a-e6ef4093f051",
       "identifiers": [
         {
@@ -542,7 +775,14 @@
           "scheme": "everypolitician_legacy"
         }
       ],
+      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/hasan-tacoy.jpg",
+      "images": [
+        {
+          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/hasan-tacoy.jpg"
+        }
+      ],
       "name": "Hasan Taçoy",
+      "sort_name": "Taçoy, Hasan",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/14th_Parliament_of_Northern_Cyprus"
@@ -550,6 +790,8 @@
       ]
     },
     {
+      "family_name": "Alanlı",
+      "given_name": "Hüseyin Avkıran",
       "id": "a364db9a-4755-44c0-8de4-a7bd6d3c125b",
       "identifiers": [
         {
@@ -557,7 +799,20 @@
           "scheme": "everypolitician_legacy"
         }
       ],
+      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/huseyin-avkiran-alanli.jpg",
+      "images": [
+        {
+          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/huseyin-avkiran-alanli.jpg"
+        }
+      ],
       "name": "Hüseyin Alanlı",
+      "other_names": [
+        {
+          "name": "Hüseyin Avkıran Alanlı",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Alanlı, Hüseyin Avkıran",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/14th_Parliament_of_Northern_Cyprus"
@@ -565,6 +820,8 @@
       ]
     },
     {
+      "family_name": "Angolemlı",
+      "given_name": "Hüseyın",
       "id": "98a18a1f-45c8-4e03-a866-8f9873a7ee50",
       "identifiers": [
         {
@@ -572,7 +829,20 @@
           "scheme": "everypolitician_legacy"
         }
       ],
+      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/huseyin-angolemli.jpg",
+      "images": [
+        {
+          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/huseyin-angolemli.jpg"
+        }
+      ],
       "name": "Hüseyin Angolemli",
+      "other_names": [
+        {
+          "name": "Hüseyın Angolemlı",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Angolemlı, Hüseyın",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/14th_Parliament_of_Northern_Cyprus"
@@ -580,6 +850,8 @@
       ]
     },
     {
+      "family_name": "Erçal",
+      "given_name": "Hüseyin",
       "id": "2c4f7644-0e5a-4539-b4c4-a9fca9d32475",
       "identifiers": [
         {
@@ -587,7 +859,14 @@
           "scheme": "everypolitician_legacy"
         }
       ],
+      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/huseyin-ercal.jpg",
+      "images": [
+        {
+          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/huseyin-ercal.jpg"
+        }
+      ],
       "name": "Hüseyin Erçal",
+      "sort_name": "Erçal, Hüseyin",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/14th_Parliament_of_Northern_Cyprus"
@@ -596,8 +875,9 @@
     },
     {
       "birth_date": "1965",
+      "family_name": "Özgürgün",
       "gender": "male",
-      "given_name": "Hüseyin",
+      "given_name": "Hüseyın",
       "id": "a4aeb542-a0b4-4b5c-ada7-85e38f4dba69",
       "identifiers": [
         {
@@ -611,6 +891,12 @@
         {
           "identifier": "Q58174",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/huseyin-ozgurgun.jpg",
+      "images": [
+        {
+          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/huseyin-ozgurgun.jpg"
         }
       ],
       "links": [
@@ -645,6 +931,10 @@
       ],
       "name": "Hüseyin Özgürgün",
       "other_names": [
+        {
+          "name": "Hüseyın Özgürgün",
+          "note": "alternate"
+        },
         {
           "lang": "ca",
           "name": "Hüseyin Özgürgün",
@@ -711,6 +1001,7 @@
           "note": "multilingual"
         }
       ],
+      "sort_name": "Özgürgün, Hüseyın",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/14th_Parliament_of_Northern_Cyprus"
@@ -718,6 +1009,8 @@
       ]
     },
     {
+      "family_name": "Dürüst",
+      "given_name": "Kemal",
       "id": "51a278e5-55dd-4986-99bc-01dbca7456d0",
       "identifiers": [
         {
@@ -725,7 +1018,14 @@
           "scheme": "everypolitician_legacy"
         }
       ],
+      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/kemal-durust.jpg",
+      "images": [
+        {
+          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/kemal-durust.jpg"
+        }
+      ],
       "name": "Kemal Dürüst",
+      "sort_name": "Dürüst, Kemal",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/14th_Parliament_of_Northern_Cyprus"
@@ -733,6 +1033,8 @@
       ]
     },
     {
+      "family_name": "Evren",
+      "given_name": "Kutlu",
       "id": "b7451bfe-1902-45ba-851d-15ad508fcae0",
       "identifiers": [
         {
@@ -740,7 +1042,14 @@
           "scheme": "everypolitician_legacy"
         }
       ],
+      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/kutlu-evren.jpg",
+      "images": [
+        {
+          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/kutlu-evren.jpg"
+        }
+      ],
       "name": "Kutlu Evren",
+      "sort_name": "Evren, Kutlu",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/14th_Parliament_of_Northern_Cyprus"
@@ -749,6 +1058,7 @@
     },
     {
       "birth_date": "1966-09-13",
+      "family_name": "Çakıcı",
       "gender": "male",
       "given_name": "Mehmet",
       "id": "8d389af1-0e89-4369-a9b6-bcae61f1edb0",
@@ -762,10 +1072,10 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Mehmet_Çakıcı.jpg",
+      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/mehmet-cakici.jpg",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Mehmet_Çakıcı.jpg"
+          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/mehmet-cakici.jpg"
         }
       ],
       "links": [
@@ -796,6 +1106,7 @@
           "note": "multilingual"
         }
       ],
+      "sort_name": "Çakıcı, Mehmet",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/14th_Parliament_of_Northern_Cyprus"
@@ -803,6 +1114,8 @@
       ]
     },
     {
+      "family_name": "Çaglar",
+      "given_name": "Mehmet",
       "id": "dc5508f8-ee51-4431-9b26-8f1004643c53",
       "identifiers": [
         {
@@ -810,7 +1123,20 @@
           "scheme": "everypolitician_legacy"
         }
       ],
+      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/mehmet-caglar.jpg",
+      "images": [
+        {
+          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/mehmet-caglar.jpg"
+        }
+      ],
       "name": "Mehmet Çağlar",
+      "other_names": [
+        {
+          "name": "Mehmet Çaglar",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Çaglar, Mehmet",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/14th_Parliament_of_Northern_Cyprus"
@@ -818,6 +1144,8 @@
       ]
     },
     {
+      "family_name": "Gündüz",
+      "given_name": "Menteş",
       "id": "19968619-2ee0-425a-86ed-fa0642a5e9c8",
       "identifiers": [
         {
@@ -825,7 +1153,14 @@
           "scheme": "everypolitician_legacy"
         }
       ],
+      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/mentes-gunduz.jpg",
+      "images": [
+        {
+          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/mentes-gunduz.jpg"
+        }
+      ],
       "name": "Menteş Gündüz",
+      "sort_name": "Gündüz, Menteş",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/14th_Parliament_of_Northern_Cyprus"
@@ -833,6 +1168,8 @@
       ]
     },
     {
+      "family_name": "Arabacıoglu",
+      "given_name": "Mustafa",
       "id": "81051fa1-7636-45a4-bdc6-d5c39f16680d",
       "identifiers": [
         {
@@ -840,7 +1177,20 @@
           "scheme": "everypolitician_legacy"
         }
       ],
+      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/mustafa-arabacioglu.jpg",
+      "images": [
+        {
+          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/mustafa-arabacioglu.jpg"
+        }
+      ],
       "name": "Mustafa Arabacıoğlu",
+      "other_names": [
+        {
+          "name": "Mustafa Arabacıoglu",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Arabacıoglu, Mustafa",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/14th_Parliament_of_Northern_Cyprus"
@@ -848,6 +1198,8 @@
       ]
     },
     {
+      "family_name": "Çavusoglu",
+      "given_name": "Nazım",
       "id": "395cdea1-9c25-4de4-8dd4-72bd85248149",
       "identifiers": [
         {
@@ -855,7 +1207,20 @@
           "scheme": "everypolitician_legacy"
         }
       ],
+      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/nazim-cavusoglu.jpg",
+      "images": [
+        {
+          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/nazim-cavusoglu.jpg"
+        }
+      ],
       "name": "Nazım Çavuşoğlu",
+      "other_names": [
+        {
+          "name": "Nazım Çavusoglu",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Çavusoglu, Nazım",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/14th_Parliament_of_Northern_Cyprus"
@@ -863,6 +1228,8 @@
       ]
     },
     {
+      "family_name": "Izbul",
+      "given_name": "Salıh",
       "id": "0c924477-cd63-4d79-8907-782529fe1b42",
       "identifiers": [
         {
@@ -870,7 +1237,20 @@
           "scheme": "everypolitician_legacy"
         }
       ],
+      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/salih-izbul.jpg",
+      "images": [
+        {
+          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/salih-izbul.jpg"
+        }
+      ],
       "name": "Salih İzbul",
+      "other_names": [
+        {
+          "name": "Salıh Izbul",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Izbul, Salıh",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/14th_Parliament_of_Northern_Cyprus"
@@ -879,6 +1259,7 @@
     },
     {
       "birth_date": "1959",
+      "family_name": "Denktas",
       "gender": "male",
       "given_name": "Serdar",
       "id": "c75ea822-8a37-4de4-a9e0-fccc3103d8b2",
@@ -892,10 +1273,10 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/8/85/Serdar_Denktaş.jpg",
+      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/serdar-denktas.jpg",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Serdar_Denktaş.jpg"
+          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/serdar-denktas.jpg"
         }
       ],
       "links": [
@@ -914,6 +1295,10 @@
       ],
       "name": "Serdar Denktaş",
       "other_names": [
+        {
+          "name": "Serdar Denktas",
+          "note": "alternate"
+        },
         {
           "lang": "de",
           "name": "Serdar Denktaş",
@@ -950,6 +1335,7 @@
           "note": "multilingual"
         }
       ],
+      "sort_name": "Denktas, Serdar",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/14th_Parliament_of_Northern_Cyprus"
@@ -958,8 +1344,9 @@
     },
     {
       "birth_date": "1960",
+      "family_name": "Sıber",
       "gender": "female",
-      "given_name": "Sibel",
+      "given_name": "Sıbel",
       "id": "9557053a-35fa-4c8c-a965-d36fe8c5305d",
       "identifiers": [
         {
@@ -975,10 +1362,10 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/4/42/Sibel_Siber_(cropped).jpg",
+      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/sibel-siber.jpg",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Sibel_Siber_(cropped).jpg"
+          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/sibel-siber.jpg"
         }
       ],
       "links": [
@@ -1009,6 +1396,10 @@
       ],
       "name": "Sibel Siber",
       "other_names": [
+        {
+          "name": "Sıbel Sıber",
+          "note": "alternate"
+        },
         {
           "lang": "de",
           "name": "Sibel Siber",
@@ -1060,6 +1451,7 @@
           "note": "multilingual"
         }
       ],
+      "sort_name": "Sıber, Sıbel",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/14th_Parliament_of_Northern_Cyprus"
@@ -1067,6 +1459,8 @@
       ]
     },
     {
+      "family_name": "Atun",
+      "given_name": "Sunat",
       "id": "803c2919-9cb2-49c9-b7e4-26beccaa53e4",
       "identifiers": [
         {
@@ -1074,7 +1468,14 @@
           "scheme": "everypolitician_legacy"
         }
       ],
+      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/sunat-atun.jpg",
+      "images": [
+        {
+          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/sunat-atun.jpg"
+        }
+      ],
       "name": "Sunat Atun",
+      "sort_name": "Atun, Sunat",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/14th_Parliament_of_Northern_Cyprus"
@@ -1083,7 +1484,9 @@
     },
     {
       "birth_date": "1953",
+      "family_name": "Ertugruloglu",
       "gender": "male",
+      "given_name": "Tahsın",
       "id": "c77b7f65-8c97-4b70-93cb-b7c0c88221d8",
       "identifiers": [
         {
@@ -1095,10 +1498,10 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Tahsin_Ertuğruloğlu.jpg",
+      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/tahsin-ertugruloglu.jpg",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Tahsin_Ertuğruloğlu.jpg"
+          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/tahsin-ertugruloglu.jpg"
         }
       ],
       "links": [
@@ -1117,6 +1520,10 @@
       ],
       "name": "Tahsin Ertuğruloğlu",
       "other_names": [
+        {
+          "name": "Tahsın Ertugruloglu",
+          "note": "alternate"
+        },
         {
           "lang": "de",
           "name": "Tahsin Ertuğruloğlu",
@@ -1148,6 +1555,7 @@
           "note": "multilingual"
         }
       ],
+      "sort_name": "Ertugruloglu, Tahsın",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/14th_Parliament_of_Northern_Cyprus"
@@ -1155,6 +1563,8 @@
       ]
     },
     {
+      "family_name": "Uluçay",
+      "given_name": "Teberrüken",
       "id": "72205af3-e63a-400d-90bd-ab6274c2cce8",
       "identifiers": [
         {
@@ -1162,7 +1572,14 @@
           "scheme": "everypolitician_legacy"
         }
       ],
+      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/teberruken-ulucay.jpg",
+      "images": [
+        {
+          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/teberruken-ulucay.jpg"
+        }
+      ],
       "name": "Teberrüken Uluçay",
+      "sort_name": "Uluçay, Teberrüken",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/14th_Parliament_of_Northern_Cyprus"
@@ -1170,6 +1587,8 @@
       ]
     },
     {
+      "family_name": "Erhürman",
+      "given_name": "Tufan",
       "id": "01b736c9-bba7-48d7-add9-760ecaed6b03",
       "identifiers": [
         {
@@ -1177,7 +1596,14 @@
           "scheme": "everypolitician_legacy"
         }
       ],
+      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/tufan-erhurman.jpg",
+      "images": [
+        {
+          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/tufan-erhurman.jpg"
+        }
+      ],
       "name": "Tufan Erhürman",
+      "sort_name": "Erhürman, Tufan",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/14th_Parliament_of_Northern_Cyprus"
@@ -1186,7 +1612,9 @@
     },
     {
       "birth_date": "1981-03-04",
+      "family_name": "Çeler",
       "gender": "male",
+      "given_name": "Zeki",
       "id": "19740958-da1b-44cb-b585-5c9a2ec31ae3",
       "identifiers": [
         {
@@ -1196,6 +1624,12 @@
         {
           "identifier": "Q20744808",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/zeki-celer.jpg",
+      "images": [
+        {
+          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/zeki-celer.jpg"
         }
       ],
       "links": [
@@ -1212,6 +1646,7 @@
           "note": "multilingual"
         }
       ],
+      "sort_name": "Çeler, Zeki",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/14th_Parliament_of_Northern_Cyprus"
@@ -1219,6 +1654,8 @@
       ]
     },
     {
+      "family_name": "Töre",
+      "given_name": "Zorlu",
       "id": "e83cb2f4-2af8-4182-9e53-1cb64d81393a",
       "identifiers": [
         {
@@ -1226,7 +1663,14 @@
           "scheme": "everypolitician_legacy"
         }
       ],
+      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/zorlu-tore.jpg",
+      "images": [
+        {
+          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/zorlu-tore.jpg"
+        }
+      ],
       "name": "Zorlu Töre",
+      "sort_name": "Töre, Zorlu",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/14th_Parliament_of_Northern_Cyprus"
@@ -1235,6 +1679,7 @@
     },
     {
       "birth_date": "1950",
+      "family_name": "Kalyoncu",
       "gender": "male",
       "given_name": "Ömer",
       "id": "776882ca-48d3-4520-bd31-e7734107bd7c",
@@ -1246,6 +1691,12 @@
         {
           "identifier": "Q20669153",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/omer-kalyoncu.jpg",
+      "images": [
+        {
+          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/omer-kalyoncu.jpg"
         }
       ],
       "links": [
@@ -1657,6 +2108,7 @@
           "note": "multilingual"
         }
       ],
+      "sort_name": "Kalyoncu, Ömer",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/14th_Parliament_of_Northern_Cyprus"
@@ -1664,6 +2116,8 @@
       ]
     },
     {
+      "family_name": "Sennaroğlu",
+      "given_name": "Onder",
       "id": "e368e7cb-dd11-43d9-a52d-ac21a37658c3",
       "identifiers": [
         {
@@ -1671,7 +2125,20 @@
           "scheme": "everypolitician_legacy"
         }
       ],
+      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/onder-sennaroglu.jpg",
+      "images": [
+        {
+          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/onder-sennaroglu.jpg"
+        }
+      ],
       "name": "Önder Sennaroğlu",
+      "other_names": [
+        {
+          "name": "Onder Sennaroğlu",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Sennaroğlu, Onder",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/14th_Parliament_of_Northern_Cyprus"
@@ -1679,6 +2146,8 @@
       ]
     },
     {
+      "family_name": "Berova",
+      "given_name": "Özdemir",
       "id": "be3a64ec-3edb-428c-abed-bbf1b4e22539",
       "identifiers": [
         {
@@ -1686,7 +2155,14 @@
           "scheme": "everypolitician_legacy"
         }
       ],
+      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/ozdemir-berova.jpg",
+      "images": [
+        {
+          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/ozdemir-berova.jpg"
+        }
+      ],
       "name": "Özdemir Berova",
+      "sort_name": "Berova, Özdemir",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/14th_Parliament_of_Northern_Cyprus"
@@ -1695,7 +2171,9 @@
     },
     {
       "birth_date": "1967-05-23",
+      "family_name": "Namı",
       "gender": "male",
+      "given_name": "Özdıl",
       "id": "e37cf9e6-4c47-4797-b88e-cda95cf640f4",
       "identifiers": [
         {
@@ -1705,6 +2183,12 @@
         {
           "identifier": "Q17046780",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/ozdil-nami.jpg",
+      "images": [
+        {
+          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/ozdil-nami.jpg"
         }
       ],
       "links": [
@@ -1719,6 +2203,10 @@
       ],
       "name": "Özdil Nami",
       "other_names": [
+        {
+          "name": "Özdıl Namı",
+          "note": "alternate"
+        },
         {
           "lang": "en",
           "name": "Özdil Nami",
@@ -1735,6 +2223,7 @@
           "note": "multilingual"
         }
       ],
+      "sort_name": "Namı, Özdıl",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/14th_Parliament_of_Northern_Cyprus"
@@ -1743,7 +2232,9 @@
     },
     {
       "birth_date": "1954",
+      "family_name": "Yorgancıoglu",
       "gender": "male",
+      "given_name": "Özkan",
       "id": "2b552d58-41f1-42e0-8fc2-1c96b43686fa",
       "identifiers": [
         {
@@ -1755,10 +2246,10 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Özkan_Yorgancıoğlu_(cropped).jpg",
+      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/ozkan-yorgancioglu.jpg",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Özkan_Yorgancıoğlu_(cropped).jpg"
+          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/ozkan-yorgancioglu.jpg"
         }
       ],
       "links": [
@@ -1789,6 +2280,10 @@
       ],
       "name": "Özkan Yorgancıoğlu",
       "other_names": [
+        {
+          "name": "Özkan Yorgancıoglu",
+          "note": "alternate"
+        },
         {
           "lang": "de",
           "name": "Özkan Yorgancıoğlu",
@@ -1840,6 +2335,7 @@
           "note": "multilingual"
         }
       ],
+      "sort_name": "Yorgancıoglu, Özkan",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/14th_Parliament_of_Northern_Cyprus"
@@ -1847,6 +2343,8 @@
       ]
     },
     {
+      "family_name": "Üstel",
+      "given_name": "Ünal",
       "id": "2f78e5fd-b525-4148-8de9-d4d2eaf3fafd",
       "identifiers": [
         {
@@ -1854,7 +2352,14 @@
           "scheme": "everypolitician_legacy"
         }
       ],
+      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/unal-ustel.jpg",
+      "images": [
+        {
+          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/unal-ustel.jpg"
+        }
+      ],
       "name": "Ünal Üstel",
+      "sort_name": "Üstel, Ünal",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/14th_Parliament_of_Northern_Cyprus"
@@ -1862,6 +2367,8 @@
       ]
     },
     {
+      "family_name": "Gürçağ",
+      "given_name": "İzlem",
       "id": "19897153-f032-4bc9-9a14-5ad6c7d8ed18",
       "identifiers": [
         {
@@ -1869,7 +2376,14 @@
           "scheme": "everypolitician_legacy"
         }
       ],
+      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/izlem-gurcag.jpg",
+      "images": [
+        {
+          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/izlem-gurcag.jpg"
+        }
+      ],
       "name": "İzlem Gürçağ",
+      "sort_name": "Gürçağ, İzlem",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/14th_Parliament_of_Northern_Cyprus"
@@ -2165,7 +2679,8 @@
   ],
   "meta": {
     "sources": [
-      "https://en.wikipedia.org/wiki/14th_Parliament_of_Northern_Cyprus"
+      "https://en.wikipedia.org/wiki/14th_Parliament_of_Northern_Cyprus",
+      "https://morph.io/wfdd/nc-assembly-scraper"
     ]
   },
   "memberships": [
