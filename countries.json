@@ -2208,11 +2208,11 @@
         "slug": "Estates",
         "sources_directory": "data/Curacao/Estates/sources",
         "popolo": "data/Curacao/Estates/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/65c4534/data/Curacao/Estates/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/963d8d1/data/Curacao/Estates/ep-popolo-v1.0.json",
         "names": "data/Curacao/Estates/names.csv",
-        "lastmod": "1459628963",
+        "lastmod": "1465166503",
         "person_count": 21,
-        "sha": "65c4534",
+        "sha": "963d8d1",
         "legislative_periods": [
           {
             "id": "term/2",
@@ -2220,7 +2220,7 @@
             "start_date": "2012-09-11",
             "slug": "2",
             "csv": "data/Curacao/Estates/term-2.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/65c4534/data/Curacao/Estates/term-2.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/963d8d1/data/Curacao/Estates/term-2.csv"
           }
         ],
         "statement_count": 492
@@ -4963,11 +4963,11 @@
         "slug": "Parliament",
         "sources_directory": "data/Kiribati/Parliament/sources",
         "popolo": "data/Kiribati/Parliament/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/8d255cc/data/Kiribati/Parliament/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/0ea9b6c/data/Kiribati/Parliament/ep-popolo-v1.0.json",
         "names": "data/Kiribati/Parliament/names.csv",
-        "lastmod": "1464763915",
+        "lastmod": "1465169468",
         "person_count": 62,
-        "sha": "8d255cc",
+        "sha": "0ea9b6c",
         "legislative_periods": [
           {
             "end_date": "2015",
@@ -4976,7 +4976,7 @@
             "start_date": "2010",
             "slug": "10",
             "csv": "data/Kiribati/Parliament/term-10.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/8d255cc/data/Kiribati/Parliament/term-10.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/0ea9b6c/data/Kiribati/Parliament/term-10.csv"
           },
           {
             "end_date": "2010",
@@ -4985,10 +4985,10 @@
             "start_date": "2007",
             "slug": "9",
             "csv": "data/Kiribati/Parliament/term-9.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/8d255cc/data/Kiribati/Parliament/term-9.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/0ea9b6c/data/Kiribati/Parliament/term-9.csv"
           }
         ],
-        "statement_count": 2045
+        "statement_count": 2048
       }
     ]
   },
