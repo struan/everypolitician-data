@@ -1,4 +1,7 @@
 {
+  "posts": [
+
+  ],
   "persons": [
     {
       "id": "9b64da42-575c-4347-a370-62bdd7b4b899",
@@ -2199,11 +2202,53 @@
   ],
   "events": [
     {
+      "classification": "general election",
+      "end_date": "1990",
+      "id": "Q7676838",
+      "name": "Tajikistani parliamentary election, 1990",
+      "start_date": "1990"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1995",
+      "id": "Q7676839",
+      "name": "Tajikistani parliamentary election, 1995",
+      "start_date": "1995"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2000",
+      "id": "Q7676840",
+      "name": "Tajikistani parliamentary election, 2000",
+      "start_date": "2000"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2005",
+      "id": "Q7676841",
+      "name": "Tajikistani parliamentary election, 2005",
+      "start_date": "2005"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2010-02-28",
+      "id": "Q1063012",
+      "name": "Tajikistani parliamentary election, 2010",
+      "start_date": "2010-02-28"
+    },
+    {
       "classification": "legislative period",
       "id": "term/2015",
       "name": "2015–",
       "organization_id": "legislature",
       "start_date": "2015"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2015-03-01",
+      "id": "Q19367055",
+      "name": "Tajikistani parliamentary election, 2015",
+      "start_date": "2015-03-01"
     }
   ],
   "areas": [
