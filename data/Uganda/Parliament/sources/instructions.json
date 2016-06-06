@@ -76,7 +76,8 @@
       "create": {
         "url": "https://github.com/theyworkforyou/uganda_ocd_ids/raw/master/identifiers/country-ug.csv"
       },
-      "type": "ocd"
+      "type": "ocd",
+      "fuzzy": true
     },
     {
       "file": "wikidata/elections.json",
