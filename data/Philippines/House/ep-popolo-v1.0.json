@@ -88,7 +88,7 @@
       ]
     },
     {
-      "birth_date": "1967-01-01",
+      "birth_date": "1967",
       "gender": "male",
       "id": "501c8f0e-f8db-43fa-addb-17592afe5ac3",
       "identifiers": [
@@ -231,6 +231,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Romeo_Acop"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Romeo_Acop"
         }
@@ -295,11 +299,16 @@
       ]
     },
     {
+      "gender": "male",
       "id": "9f1e52b6-7138-4d25-a79d-17faf29a5372",
       "identifiers": [
         {
           "identifier": "adiong-a",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q568929",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.congress.gov.ph/members/images/16th/adiong-a.jpg",
@@ -308,7 +317,53 @@
           "url": "http://www.congress.gov.ph/members/images/16th/adiong-a.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Ansaruddin_Alonto_Adiong"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ansaruddin_Alonto_Adiong"
+        }
+      ],
       "name": "Adiong, Ansaruddin A.M. A.",
+      "other_names": [
+        {
+          "name": "Ansaruddin Alonto Adiong",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Ansaruddin Alonto Adiong",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Ansaruddin Alonto Adiong",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Ansaruddin Alonto Adiong",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Ansaruddin Alonto Adiong",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Ansaruddin Alonto Adiong",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Ansaruddin Alonto Adiong",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.congress.gov.ph/members/search.php?id=adiong-a"
@@ -568,11 +623,17 @@
       ]
     },
     {
+      "birth_date": "1996-05-15",
+      "gender": "female",
       "id": "d779994f-d7f8-4c53-a73a-4d017fa43acb",
       "identifiers": [
         {
           "identifier": "alvarez-m",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q24005242",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.congress.gov.ph/members/images/16th/alvarez-m.jpg",
@@ -581,7 +642,24 @@
           "url": "http://www.congress.gov.ph/members/images/16th/alvarez-m.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Mercedes_Alvarez"
+        }
+      ],
       "name": "Alvarez, Mercedes K.",
+      "other_names": [
+        {
+          "name": "Mercedes Alvarez",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Mercedes Alvarez",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.congress.gov.ph/members/search.php?id=alvarez-m"
@@ -718,6 +796,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "hu",
+          "name": "Rommel Amatong",
+          "note": "multilingual"
+        },
+        {
           "lang": "nl",
           "name": "Rommel Amatong",
           "note": "multilingual"
@@ -735,18 +818,11 @@
       ]
     },
     {
-      "birth_date": "1969-03-10",
-      "gender": "male",
-      "given_name": "Rolando",
       "id": "e2520057-7792-468f-a56f-b4b0bdab2ed4",
       "identifiers": [
         {
           "identifier": "andaya-r",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q2163117",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www.congress.gov.ph/members/images/16th/andaya-r.jpg",
@@ -755,38 +831,7 @@
           "url": "http://www.congress.gov.ph/members/images/16th/andaya-r.jpg"
         }
       ],
-      "links": [
-        {
-          "note": "Wikipedia (de)",
-          "url": "https://de.wikipedia.org/wiki/Rolando_Andaya,_Jr."
-        },
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Rolando_Andaya,_Jr."
-        }
-      ],
       "name": "Andaya, Rolando Jr. G.",
-      "other_names": [
-        {
-          "name": "Rolando Andaya, Jr.",
-          "note": "alternate"
-        },
-        {
-          "lang": "de",
-          "name": "Rolando Andaya, Jr.",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Rolando Andaya, Jr.",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Rolando Andaya, Jr.",
-          "note": "multilingual"
-        }
-      ],
       "sources": [
         {
           "url": "http://www.congress.gov.ph/members/search.php?id=andaya-r"
@@ -794,11 +839,18 @@
       ]
     },
     {
+      "birth_date": "1939-09-14",
+      "gender": "female",
+      "given_name": "Bella",
       "id": "75c2f6a6-7adb-48de-80b2-68590b60d6c1",
       "identifiers": [
         {
           "identifier": "angara-castillo",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q4883409",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.congress.gov.ph/members/images/16th/angara-castillo.jpg",
@@ -807,7 +859,48 @@
           "url": "http://www.congress.gov.ph/members/images/16th/angara-castillo.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Bella_Angara"
+        },
+        {
+          "note": "Wikipedia (tl)",
+          "url": "https://tl.wikipedia.org/wiki/Bellaflor_Angara-Castillo"
+        }
+      ],
       "name": "Angara-Castillo, Bellaflor J.",
+      "other_names": [
+        {
+          "name": "Bellaflor Angara-Castillo",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Bellaflor Angara-Castillo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Bellaflor Angara-Castillo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Bella Angara",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Bella Angara",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tl",
+          "name": "Bellaflor Angara-Castillo",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.congress.gov.ph/members/search.php?id=angara-castillo"
@@ -836,22 +929,11 @@
       ]
     },
     {
-      "birth_date": "1915-12-14",
-      "death_date": "2010-07-22",
-      "gender": "female",
       "id": "06193bae-add9-467d-b2bf-880d78a81429",
       "identifiers": [
         {
           "identifier": "antonino-m",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "/m/0g9d4p",
-          "scheme": "freebase"
-        },
-        {
-          "identifier": "Q542525",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www.congress.gov.ph/members/images/16th/antonino-m.jpg",
@@ -860,61 +942,7 @@
           "url": "http://www.congress.gov.ph/members/images/16th/antonino-m.jpg"
         }
       ],
-      "links": [
-        {
-          "note": "Wikipedia (de)",
-          "url": "https://de.wikipedia.org/wiki/Magnolia_Antonino"
-        },
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Magnolia_Antonino"
-        },
-        {
-          "note": "Wikipedia (nl)",
-          "url": "https://nl.wikipedia.org/wiki/Magnolia_Antonino"
-        },
-        {
-          "note": "Wikipedia (tl)",
-          "url": "https://tl.wikipedia.org/wiki/Magnolia_Antonino"
-        }
-      ],
       "name": "Antonino, Magnolia Rosa C.",
-      "other_names": [
-        {
-          "name": "Magnolia Antonino",
-          "note": "alternate"
-        },
-        {
-          "lang": "de",
-          "name": "Magnolia Antonino",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Magnolia Antonino",
-          "note": "multilingual"
-        },
-        {
-          "lang": "es",
-          "name": "Magnolia Antonino",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Magnolia Antonino",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Magnolia Antonino",
-          "note": "multilingual"
-        },
-        {
-          "lang": "tl",
-          "name": "Magnolia Antonino",
-          "note": "multilingual"
-        }
-      ],
       "sources": [
         {
           "url": "http://www.congress.gov.ph/members/search.php?id=antonino-m"
@@ -995,6 +1023,16 @@
           "note": "multilingual"
         },
         {
+          "lang": "fr",
+          "name": "Sergio Apostol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Sergio Apostol",
+          "note": "multilingual"
+        },
+        {
           "lang": "nl",
           "name": "Sergio Apostol",
           "note": "multilingual"
@@ -1012,11 +1050,18 @@
       ]
     },
     {
+      "birth_date": "1977-11-06",
+      "gender": "female",
+      "given_name": "Sol",
       "id": "9098e53a-6c87-4592-9db7-c8dec3512bf6",
       "identifiers": [
         {
           "identifier": "aragones-m",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q16149679",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.congress.gov.ph/members/images/16th/aragones-m.jpg",
@@ -1025,7 +1070,44 @@
           "url": "http://www.congress.gov.ph/members/images/16th/aragones-m.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Sol_Aragones"
+        }
+      ],
       "name": "Aragones, Sol",
+      "other_names": [
+        {
+          "name": "Sol Aragones",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Sol Aragones",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Sol Aragones",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Sol Aragones",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Sol Aragones",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Sol Aragones",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.congress.gov.ph/members/search.php?id=aragones-m"
@@ -1054,11 +1136,18 @@
       ]
     },
     {
+      "birth_date": "1938-08-08",
+      "gender": "female",
+      "given_name": "Rosemarie",
       "id": "4ce292cd-82ee-4ec6-978c-a246381be869",
       "identifiers": [
         {
           "identifier": "arenas-r",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q7368268",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.congress.gov.ph/members/images/16th/arenas-r.jpg",
@@ -1067,7 +1156,49 @@
           "url": "http://www.congress.gov.ph/members/images/16th/arenas-r.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Rosemarie_Arenas"
+        }
+      ],
       "name": "Arenas, Rose Marie \"Baby\" J.",
+      "other_names": [
+        {
+          "name": "Rosemarie Arenas",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Rosemarie Arenas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Rosemarie Arenas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Rosemarie Arenas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Rosemarie Arenas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Rosemarie Arenas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Rosemarie Arenas",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.congress.gov.ph/members/search.php?id=arenas-r"
@@ -1145,6 +1276,11 @@
         {
           "lang": "nl",
           "name": "Diosdado Macapagal–Arroyo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Диосдадо Макапагал-Арройо",
           "note": "multilingual"
         }
       ],
@@ -1238,6 +1374,16 @@
         {
           "lang": "fr",
           "name": "Lito Atienza",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Lito Atienza",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ジョセリート・アティエンザ",
           "note": "multilingual"
         },
         {
@@ -1517,6 +1663,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Elpidio_Barzaga"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Elpidio_Barzaga,_Jr."
         },
@@ -1530,6 +1680,11 @@
         {
           "name": "Elpidio Barzaga, Jr.",
           "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Elpidio Barzaga",
+          "note": "multilingual"
         },
         {
           "lang": "en",
@@ -1658,6 +1813,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "hu",
+          "name": "Franklin Bautista",
+          "note": "multilingual"
+        },
+        {
           "lang": "nl",
           "name": "Franklin Bautista",
           "note": "multilingual"
@@ -1697,6 +1857,12 @@
     },
     {
       "birth_date": "1945-11-11",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "WaldenBello"
+        }
+      ],
       "gender": "male",
       "given_name": "Walden",
       "id": "85616864-e3ac-4f1c-b7c3-a38e62aef718",
@@ -1704,6 +1870,10 @@
         {
           "identifier": "bello-w",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "93796",
+          "scheme": "fast"
         },
         {
           "identifier": "/m/07b9pf",
@@ -1766,6 +1936,10 @@
           "url": "https://fr.wikipedia.org/wiki/Walden_Bello"
         },
         {
+          "note": "Wikipedia (id)",
+          "url": "https://id.wikipedia.org/wiki/Walden_Bello"
+        },
+        {
           "note": "Wikipedia (it)",
           "url": "https://it.wikipedia.org/wiki/Walden_Bello"
         },
@@ -1784,6 +1958,10 @@
         {
           "note": "Wikipedia (tl)",
           "url": "https://tl.wikipedia.org/wiki/Walden_Bello"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/WaldenBello"
         }
       ],
       "name": "Bello, Walden F.",
@@ -1814,6 +1992,11 @@
         },
         {
           "lang": "fr",
+          "name": "Walden Bello",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
           "name": "Walden Bello",
           "note": "multilingual"
         },
@@ -1865,11 +2048,18 @@
       ]
     },
     {
+      "birth_date": "1936-10-02",
+      "gender": "male",
+      "given_name": "Felicjan",
       "id": "e855ec54-dd02-4539-b673-8dabb7b46ce7",
       "identifiers": [
         {
           "identifier": "belmonte-f",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q2510441",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.congress.gov.ph/members/images/16th/belmonte-f.jpg",
@@ -1878,7 +2068,79 @@
           "url": "http://www.congress.gov.ph/members/images/16th/belmonte-f.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (bcl)",
+          "url": "https://bcl.wikipedia.org/wiki/Sonny_Belmonte"
+        },
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Feliciano_Belmonte,_Jr."
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Feliciano_Belmonte_Jr."
+        },
+        {
+          "note": "Wikipedia (ilo)",
+          "url": "https://ilo.wikipedia.org/wiki/Feliciano_Belmonte,_Jr."
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Feliciano_Belmonte_jr."
+        },
+        {
+          "note": "Wikipedia (tl)",
+          "url": "https://tl.wikipedia.org/wiki/Feliciano_Belmonte,_Jr."
+        }
+      ],
       "name": "Belmonte, Feliciano Jr. R.",
+      "other_names": [
+        {
+          "name": "Feliciano Belmonte, Jr.",
+          "note": "alternate"
+        },
+        {
+          "lang": "bcl",
+          "name": "Sonny Belmonte",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Feliciano Belmonte, Jr.",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Feliciano Belmonte, Jr.",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Feliciano Belmonte, Jr.",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ilo",
+          "name": "Sonny Belmonte",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Feliciano Belmonte jr.",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tl",
+          "name": "Feliciano Belmonte Jr.",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "貝爾蒙特",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.congress.gov.ph/members/search.php?id=belmonte-f"
@@ -1970,11 +2232,22 @@
       ]
     },
     {
+      "birth_date": "1935-04-14",
+      "gender": "male",
+      "given_name": "Rodolfo",
       "id": "ed5f3485-e485-4235-ad81-0294f89e9678",
       "identifiers": [
         {
           "identifier": "biazon-r",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/026gx34",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q2573673",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.congress.gov.ph/members/images/16th/biazon-r.jpg",
@@ -1983,7 +2256,105 @@
           "url": "http://www.congress.gov.ph/members/images/16th/biazon-r.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Rodolfo_Biazon"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Rodolfo_Biazon"
+        },
+        {
+          "note": "Wikipedia (mg)",
+          "url": "https://mg.wikipedia.org/wiki/Rodolfo_Biazon"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Rodolfo_Biazon"
+        },
+        {
+          "note": "Wikipedia (tl)",
+          "url": "https://tl.wikipedia.org/wiki/Rodolfo_Biazon"
+        }
+      ],
       "name": "Biazon, Rodolfo G.",
+      "other_names": [
+        {
+          "name": "Rodolfo Biazon",
+          "note": "alternate"
+        },
+        {
+          "lang": "da",
+          "name": "Rodolfo Biazon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Rodolfo Biazon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Rodolfo Biazon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Rodolfo Biazon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Rodolfo Biazon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Rodolfo Biazon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Rodolfo Biazon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mg",
+          "name": "Rodolfo Biazon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Rodolfo Biazon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Rodolfo Biazon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Rodolfo Biazon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Rodolfo Biazon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tl",
+          "name": "Rodolfo Biazon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "魯道夫‧米亞順",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.congress.gov.ph/members/search.php?id=biazon-r"
@@ -1993,6 +2364,7 @@
     {
       "birth_date": "1952-09-17",
       "gender": "male",
+      "given_name": "Al",
       "id": "7be5a996-fe58-4406-a142-2a689a5b37f7",
       "identifiers": [
         {
@@ -2011,6 +2383,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Al_Francis_Bichara"
+        },
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Al_Francis_Bichara"
@@ -2043,6 +2419,11 @@
         },
         {
           "lang": "fr",
+          "name": "Al Francis Bichara",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
           "name": "Al Francis Bichara",
           "note": "multilingual"
         },
@@ -2435,6 +2816,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "hu",
+          "name": "Fredenil Castro",
+          "note": "multilingual"
+        },
+        {
           "lang": "nl",
           "name": "Fredenil Castro",
           "note": "multilingual"
@@ -2473,11 +2859,18 @@
       ]
     },
     {
+      "birth_date": "1978-01-04",
+      "gender": "male",
+      "given_name": "Lino",
       "id": "640081f3-175f-410d-bc34-d33da28f987e",
       "identifiers": [
         {
           "identifier": "cayetano-l",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q19960435",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.congress.gov.ph/members/images/16th/cayetano-l.jpg",
@@ -2486,7 +2879,393 @@
           "url": "http://www.congress.gov.ph/members/images/16th/cayetano-l.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Lino_Cayetano"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Lino_Cayetano"
+        }
+      ],
       "name": "Cayetano, Lino S.",
+      "other_names": [
+        {
+          "name": "Lino Cayetano",
+          "note": "alternate"
+        },
+        {
+          "lang": "af",
+          "name": "Lino Cayetano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "an",
+          "name": "Lino Cayetano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ast",
+          "name": "Lino Cayetano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bar",
+          "name": "Lino Cayetano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "br",
+          "name": "Lino Cayetano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Lino Cayetano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "co",
+          "name": "Lino Cayetano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Lino Cayetano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Lino Cayetano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Lino Cayetano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Lino Cayetano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de-at",
+          "name": "Lino Cayetano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de-ch",
+          "name": "Lino Cayetano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Lino Cayetano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "Lino Cayetano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "Lino Cayetano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Lino Cayetano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Lino Cayetano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Lino Cayetano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "Lino Cayetano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Lino Cayetano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Lino Cayetano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "frp",
+          "name": "Lino Cayetano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fur",
+          "name": "Lino Cayetano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "Lino Cayetano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Lino Cayetano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Lino Cayetano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gsw",
+          "name": "Lino Cayetano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Lino Cayetano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Lino Cayetano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ia",
+          "name": "Lino Cayetano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Lino Cayetano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ie",
+          "name": "Lino Cayetano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "io",
+          "name": "Lino Cayetano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "is",
+          "name": "Lino Cayetano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Lino Cayetano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kg",
+          "name": "Lino Cayetano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lb",
+          "name": "Lino Cayetano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "li",
+          "name": "Lino Cayetano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lij",
+          "name": "Lino Cayetano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mg",
+          "name": "Lino Cayetano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "min",
+          "name": "Lino Cayetano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "Lino Cayetano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nap",
+          "name": "Lino Cayetano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Lino Cayetano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nds",
+          "name": "Lino Cayetano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nds-nl",
+          "name": "Lino Cayetano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Lino Cayetano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Lino Cayetano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nrm",
+          "name": "Lino Cayetano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Lino Cayetano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pcd",
+          "name": "Lino Cayetano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Lino Cayetano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pms",
+          "name": "Lino Cayetano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Lino Cayetano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt-br",
+          "name": "Lino Cayetano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "rm",
+          "name": "Lino Cayetano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Lino Cayetano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sc",
+          "name": "Lino Cayetano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "scn",
+          "name": "Lino Cayetano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "Lino Cayetano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Lino Cayetano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Lino Cayetano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-el",
+          "name": "Lino Cayetano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Lino Cayetano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sw",
+          "name": "Lino Cayetano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Lino Cayetano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vec",
+          "name": "Lino Cayetano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Lino Cayetano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vls",
+          "name": "Lino Cayetano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vo",
+          "name": "Lino Cayetano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "wa",
+          "name": "Lino Cayetano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "wo",
+          "name": "Lino Cayetano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zu",
+          "name": "Lino Cayetano",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.congress.gov.ph/members/search.php?id=cayetano-l"
@@ -2515,11 +3294,16 @@
       ]
     },
     {
+      "gender": "male",
       "id": "bd84c7b0-0a7f-4372-8fa9-25dd876222f1",
       "identifiers": [
         {
           "identifier": "cerafica-a",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q4794715",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.congress.gov.ph/members/images/16th/cerafica-a.jpg",
@@ -2528,7 +3312,44 @@
           "url": "http://www.congress.gov.ph/members/images/16th/cerafica-a.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Arnel_Cerafica"
+        }
+      ],
       "name": "Cerafica, Arnel M.",
+      "other_names": [
+        {
+          "name": "Arnel Cerafica",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Arnel Cerafica",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Arnel Cerafica",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Arnel Cerafica",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Arnel Cerafica",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Arnel Cerafica",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.congress.gov.ph/members/search.php?id=cerafica-a"
@@ -2536,18 +3357,11 @@
       ]
     },
     {
-      "birth_date": "1949-09-17",
-      "gender": "female",
-      "given_name": "Aurora",
       "id": "5da3d559-95c0-40ae-b71e-8c9f728f81a4",
       "identifiers": [
         {
           "identifier": "cerilles-a",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q4822523",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www.congress.gov.ph/members/images/16th/cerilles-a.jpg",
@@ -2556,39 +3370,7 @@
           "url": "http://www.congress.gov.ph/members/images/16th/cerilles-a.jpg"
         }
       ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Aurora_Enerio-Cerilles"
-        }
-      ],
       "name": "Cerilles, Aurora Enerio",
-      "other_names": [
-        {
-          "name": "Aurora Enerio-Cerilles",
-          "note": "alternate"
-        },
-        {
-          "lang": "en",
-          "name": "Aurora Enerio-Cerilles",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Aurora Enerio-Cerilles",
-          "note": "multilingual"
-        },
-        {
-          "lang": "it",
-          "name": "Aurora Enerio-Cerilles",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Aurora Enerio-Cerilles",
-          "note": "multilingual"
-        }
-      ],
       "sources": [
         {
           "url": "http://www.congress.gov.ph/members/search.php?id=cerilles-a"
@@ -2596,11 +3378,17 @@
       ]
     },
     {
+      "birth_date": "1942-08-15",
+      "gender": "male",
       "id": "cc5399f9-5f6c-4e31-b0d4-705cb794caa2",
       "identifiers": [
         {
           "identifier": "chipeco-j",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q6311441",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.congress.gov.ph/members/images/16th/chipeco-j.jpg",
@@ -2609,7 +3397,48 @@
           "url": "http://www.congress.gov.ph/members/images/16th/chipeco-j.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Joaquin_Chipeco"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Jun_Chipeco,_Jr."
+        }
+      ],
       "name": "Chipeco, Joaquin Jr. M.",
+      "other_names": [
+        {
+          "name": "Jun Chipeco, Jr.",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Joaquin Chipeco",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Jun Chipeco, Jr.",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Jun Chipeco, Jr.",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Jun Chipeco, Jr.",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Jun Chipeco, Jr.",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.congress.gov.ph/members/search.php?id=chipeco-j"
@@ -2680,17 +3509,11 @@
       ]
     },
     {
-      "gender": "male",
-      "given_name": "Sonny",
       "id": "2f34986a-40b0-403c-89a2-fa9a0fd80c12",
       "identifiers": [
         {
           "identifier": "collantes-n",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q7562020",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www.congress.gov.ph/members/images/16th/collantes-n.jpg",
@@ -2699,34 +3522,7 @@
           "url": "http://www.congress.gov.ph/members/images/16th/collantes-n.jpg"
         }
       ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Sonny_Collantes"
-        }
-      ],
       "name": "Collantes, Sonny P.",
-      "other_names": [
-        {
-          "name": "Sonny Collantes",
-          "note": "alternate"
-        },
-        {
-          "lang": "de",
-          "name": "Sonny Collantes",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Sonny Collantes",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Sonny Collantes",
-          "note": "multilingual"
-        }
-      ],
       "sources": [
         {
           "url": "http://www.congress.gov.ph/members/search.php?id=collantes-n"
@@ -2757,7 +3553,11 @@
       "links": [
         {
           "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Neri_Javier_Colmenares"
+          "url": "https://en.wikipedia.org/wiki/Neri_Colmenares"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Neri_Javiér_Colmenares"
         },
         {
           "note": "Wikipedia (tl)",
@@ -2783,6 +3583,11 @@
         {
           "lang": "fr",
           "name": "Neri Javier Colmenares",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Neri Javiér Colmenares",
           "note": "multilingual"
         },
         {
@@ -2866,11 +3671,16 @@
       ]
     },
     {
+      "gender": "male",
       "id": "efb58b14-1495-44c7-89d6-1fad582c0443",
       "identifiers": [
         {
           "identifier": "cua-d",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q5209949",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.congress.gov.ph/members/images/16th/cua-d.jpg",
@@ -2879,7 +3689,34 @@
           "url": "http://www.congress.gov.ph/members/images/16th/cua-d.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Dakila_Cua"
+        }
+      ],
       "name": "Cua, Dakila Carlo E.",
+      "other_names": [
+        {
+          "name": "Dakila Cua",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Dakila Cua",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Dakila Cua",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Dakila Cua",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.congress.gov.ph/members/search.php?id=cua-d"
@@ -2946,6 +3783,21 @@
       "sources": [
         {
           "url": "http://www.congress.gov.ph/members/search.php?id=dayanghirang-n"
+        }
+      ]
+    },
+    {
+      "id": "96827f5d-b2b1-4771-b6a1-4b6707d7d0af",
+      "image": "http://www.congress.gov.ph/members/images/16th/daza.jpg",
+      "images": [
+        {
+          "url": "http://www.congress.gov.ph/members/images/16th/daza.jpg"
+        }
+      ],
+      "name": "Daza, Raul A.",
+      "sources": [
+        {
+          "url": "http://www.congress.gov.ph/members/search.php?id=daza"
         }
       ]
     },
@@ -3021,6 +3873,11 @@
         {
           "lang": "it",
           "name": "Gina de Venecia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Джина де Венисия",
           "note": "multilingual"
         }
       ],
@@ -3191,6 +4048,11 @@
         },
         {
           "lang": "fr",
+          "name": "Antonio del Rosario",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Antonio del Rosario",
           "note": "multilingual"
         },
@@ -3372,6 +4234,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "hu",
+          "name": "Joseph Ace Durano",
+          "note": "multilingual"
+        },
+        {
           "lang": "nl",
           "name": "Ace Durano",
           "note": "multilingual"
@@ -3405,11 +4272,18 @@
       ]
     },
     {
+      "birth_date": "1954-11-18",
+      "gender": "male",
+      "given_name": "Enrico",
       "id": "65515ff0-a499-440d-a1b4-236c63114c3f",
       "identifiers": [
         {
           "identifier": "echiverri-e",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q2258161",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.congress.gov.ph/members/images/16th/echiverri-e.jpg",
@@ -3418,7 +4292,52 @@
           "url": "http://www.congress.gov.ph/members/images/16th/echiverri-e.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Enrico_Echiverri"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Enrico_Echiverri"
+        },
+        {
+          "note": "Wikipedia (tl)",
+          "url": "https://tl.wikipedia.org/wiki/Enrico_Echiverri"
+        }
+      ],
       "name": "Echiverri, Enrico \"Recom\"",
+      "other_names": [
+        {
+          "name": "Enrico Echiverri",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Enrico Echiverri",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Enrico Echiverri",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fy",
+          "name": "Enrico Echiverri",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Enrico Echiverri",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tl",
+          "name": "Enrico Echiverri",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.congress.gov.ph/members/search.php?id=echiverri-e"
@@ -3545,6 +4464,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "hu",
+          "name": "Eileen Ermita-Buhain",
+          "note": "multilingual"
+        },
+        {
           "lang": "nl",
           "name": "Eileen Ermita-Buhain",
           "note": "multilingual"
@@ -3667,7 +4591,7 @@
       ]
     },
     {
-      "birth_date": "1958-01-01",
+      "birth_date": "1958",
       "gender": "male",
       "given_name": "Danilo",
       "id": "bc8e8e34-4969-4843-b2bf-920c39dc771a",
@@ -3858,11 +4782,18 @@
       ]
     },
     {
+      "birth_date": "1975-02-05",
+      "gender": "male",
+      "given_name": "Felix",
       "id": "550f3e33-0ee9-4e78-b94c-57d911796540",
       "identifiers": [
         {
           "identifier": "fuentebella-f",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q18686221",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.congress.gov.ph/members/images/16th/fuentebella-f.jpg",
@@ -3871,7 +4802,38 @@
           "url": "http://www.congress.gov.ph/members/images/16th/fuentebella-f.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Felix_William_Fuentebella"
+        },
+        {
+          "note": "Wikipedia (tl)",
+          "url": "https://tl.wikipedia.org/wiki/Felix_William_Fuentebella"
+        }
+      ],
       "name": "Fuentebella, Felix William B.",
+      "other_names": [
+        {
+          "name": "Felix William Fuentebella",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Felix William Fuentebella",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Felix William Fuentebella",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tl",
+          "name": "Felix William Fuentebella",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.congress.gov.ph/members/search.php?id=fuentebella-f"
@@ -3921,11 +4883,22 @@
       ]
     },
     {
+      "birth_date": "1955-10-12",
+      "gender": "female",
+      "given_name": "Gwendolyn",
       "id": "d79ff7d2-fec3-4d17-8782-a4f24b4f8fff",
       "identifiers": [
         {
           "identifier": "garcia-g",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/02rc_yy",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q2720262",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.congress.gov.ph/members/images/16th/garcia-g.jpg",
@@ -3934,7 +4907,75 @@
           "url": "http://www.congress.gov.ph/members/images/16th/garcia-g.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Gwendolyn_Garcia"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Gwendolyn_Garcia"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Gwendolyn_Garcia"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Gwendolyn_Garcia"
+        },
+        {
+          "note": "Wikipedia (tl)",
+          "url": "https://tl.wikipedia.org/wiki/Gwendolyn_Garcia"
+        }
+      ],
       "name": "Garcia, Gwendolyn F.",
+      "other_names": [
+        {
+          "name": "Gwendolyn Garcia",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Gwendolyn Garcia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Gwendolyn Garcia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Gwendolyn Garcia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Gwendolyn Garcia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Gwendolyn Garcia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Gwendolyn Garcia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Gwendolyn Garcia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tl",
+          "name": "Gwendolyn Garcia",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.congress.gov.ph/members/search.php?id=garcia-g"
@@ -4007,6 +5048,7 @@
     {
       "birth_date": "1974-04-06",
       "gender": "male",
+      "given_name": "Sherwin",
       "id": "26d65eda-d08e-4198-a352-6d08590532eb",
       "identifiers": [
         {
@@ -4027,7 +5069,7 @@
       "links": [
         {
           "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Sherwin_Gatchalian"
+          "url": "https://en.wikipedia.org/wiki/Win_Gatchalian"
         },
         {
           "note": "Wikipedia (ilo)",
@@ -4065,6 +5107,11 @@
         },
         {
           "lang": "fr",
+          "name": "Sherwin Gatchalian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
           "name": "Sherwin Gatchalian",
           "note": "multilingual"
         },
@@ -4133,11 +5180,18 @@
       ]
     },
     {
+      "birth_date": "1960-04-23",
+      "gender": "female",
+      "given_name": "Maria",
       "id": "2b1a1a86-eed8-40ab-9da4-91ae68598034",
       "identifiers": [
         {
           "identifier": "robredo-m",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q6761357",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.congress.gov.ph/members/images/16th/robredo-m.jpg",
@@ -4146,7 +5200,110 @@
           "url": "http://www.congress.gov.ph/members/images/16th/robredo-m.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (bcl)",
+          "url": "https://bcl.wikipedia.org/wiki/Leni_Robredo"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Leni_Robredo"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Leni_Robredo"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Leni_Robredo"
+        },
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/레니_로브레도"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Leni_Robredo"
+        },
+        {
+          "note": "Wikipedia (simple)",
+          "url": "https://simple.wikipedia.org/wiki/Leni_Robredo"
+        },
+        {
+          "note": "Wikipedia (tl)",
+          "url": "https://tl.wikipedia.org/wiki/Leni_Robredo"
+        },
+        {
+          "note": "Wikipedia (war)",
+          "url": "https://war.wikipedia.org/wiki/Leni_Robredo"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/萊妮·羅布雷多"
+        }
+      ],
       "name": "Gerona-Robredo, Leni",
+      "other_names": [
+        {
+          "name": "Leni Robredo",
+          "note": "alternate"
+        },
+        {
+          "lang": "bcl",
+          "name": "Maria Leonor Robredo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Maria Leonor Robredo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Leni Robredo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Maria Leonor Robredo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Maria Leonor Robredo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Leni Robredo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "레니 로브레도",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Leni Robredo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tl",
+          "name": "Maria Leonor Robredo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "war",
+          "name": "Leni Robredo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "萊妮·羅布雷多",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.congress.gov.ph/members/search.php?id=robredo-m"
@@ -4348,11 +5505,17 @@
       ]
     },
     {
+      "birth_date": "1959-03-19",
+      "gender": "male",
       "id": "eda2cd20-3bb6-4cf4-b8bd-a3119f4a61b4",
       "identifiers": [
         {
           "identifier": "guiao-j",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q8052224",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.congress.gov.ph/members/images/16th/guiao-j.jpg",
@@ -4361,7 +5524,53 @@
           "url": "http://www.congress.gov.ph/members/images/16th/guiao-j.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Yeng_Guiao"
+        },
+        {
+          "note": "Wikipedia (pam)",
+          "url": "https://pam.wikipedia.org/wiki/Yeng_Guiao"
+        }
+      ],
       "name": "Guiao, Joseller \"Yeng\" M.",
+      "other_names": [
+        {
+          "name": "Yeng Guiao",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Yeng Guiao",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Yeng Guiao",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Yeng Guiao",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Yeng Guiao",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Yeng Guiao",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pam",
+          "name": "Yeng Guiao",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.congress.gov.ph/members/search.php?id=guiao-j"
@@ -4432,6 +5641,11 @@
         },
         {
           "lang": "es",
+          "name": "Magtanggol Gunigundo I",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
           "name": "Magtanggol Gunigundo I",
           "note": "multilingual"
         },
@@ -4684,6 +5898,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "hu",
+          "name": "Luzviminda Ilagan",
+          "note": "multilingual"
+        },
+        {
           "lang": "tl",
           "name": "Luzviminda Ilagan",
           "note": "multilingual"
@@ -4760,10 +5979,16 @@
     },
     {
       "id": "f0752a88-d65e-4edb-b6e0-e8c54428a1c9",
+      "image": "http://www.congress.gov.ph/members/images/16th/katoh-a.jpg",
+      "images": [
+        {
+          "url": "http://www.congress.gov.ph/members/images/16th/katoh-a.jpg"
+        }
+      ],
       "name": "Katoh, Angelina L.",
       "sources": [
         {
-          "url": "http://www.congress.gov.ph/members/search.php?id="
+          "url": "http://www.congress.gov.ph/members/search.php?id=katoh-a"
         }
       ]
     },
@@ -4852,18 +6077,11 @@
       ]
     },
     {
-      "birth_date": "1968-01-22",
-      "gender": "male",
-      "given_name": "Antonio",
       "id": "26fc7cbe-58f6-4a13-91d7-da00ed36b8dc",
       "identifiers": [
         {
           "identifier": "lagdameo-a",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q4776725",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www.congress.gov.ph/members/images/16th/lagdameo-a.jpg",
@@ -4872,24 +6090,7 @@
           "url": "http://www.congress.gov.ph/members/images/16th/lagdameo-a.jpg"
         }
       ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Antonio_Lagdameo,_Jr."
-        }
-      ],
       "name": "Lagdameo, Antonio Jr. F.",
-      "other_names": [
-        {
-          "name": "Antonio Lagdameo, Jr.",
-          "note": "alternate"
-        },
-        {
-          "lang": "en",
-          "name": "Antonio Lagdameo, Jr.",
-          "note": "multilingual"
-        }
-      ],
       "sources": [
         {
           "url": "http://www.congress.gov.ph/members/search.php?id=lagdameo-a"
@@ -4918,17 +6119,11 @@
       ]
     },
     {
-      "birth_date": "1942-05-01",
-      "gender": "male",
       "id": "d1b50722-4eab-4476-9c05-3203d1bbd899",
       "identifiers": [
         {
           "identifier": "lagman-e",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q5335744",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www.congress.gov.ph/members/images/16th/lagman-e.jpg",
@@ -4937,48 +6132,7 @@
           "url": "http://www.congress.gov.ph/members/images/16th/lagman-e.jpg"
         }
       ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Edcel_Lagman"
-        },
-        {
-          "note": "Wikipedia (tl)",
-          "url": "https://tl.wikipedia.org/wiki/Edcel_Lagman"
-        }
-      ],
       "name": "Lagman, Edcel \"Grex\" B.",
-      "other_names": [
-        {
-          "name": "Edcel Lagman",
-          "note": "alternate"
-        },
-        {
-          "lang": "de",
-          "name": "Edcel Lagman",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Edcel Lagman",
-          "note": "multilingual"
-        },
-        {
-          "lang": "es",
-          "name": "Edcel Lagman",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Edcel Lagman",
-          "note": "multilingual"
-        },
-        {
-          "lang": "tl",
-          "name": "Edcel Lagman",
-          "note": "multilingual"
-        }
-      ],
       "sources": [
         {
           "url": "http://www.congress.gov.ph/members/search.php?id=lagman-e"
@@ -5112,11 +6266,18 @@
       ]
     },
     {
+      "birth_date": "1948-03-20",
+      "gender": "male",
+      "given_name": "Celso",
       "id": "efed4c3e-9779-4f4b-95af-efb38c8bb5ef",
       "identifiers": [
         {
           "identifier": "lobregat-c",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q12962647",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.congress.gov.ph/members/images/16th/lobregat-c.jpg",
@@ -5125,7 +6286,48 @@
           "url": "http://www.congress.gov.ph/members/images/16th/lobregat-c.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Celso_Lobregat"
+        },
+        {
+          "note": "Wikipedia (tl)",
+          "url": "https://tl.wikipedia.org/wiki/Celso_Lobregat"
+        }
+      ],
       "name": "Lobregat, Celso L.",
+      "other_names": [
+        {
+          "name": "Celso Lobregat",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Celso Lobregat",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Celso Lobregat",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Celso Lobregat",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Celso Lobregat",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tl",
+          "name": "Celso Lobregat",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.congress.gov.ph/members/search.php?id=lobregat-c"
@@ -5133,6 +6335,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "54af00e4-80d7-418d-bb7a-1360c6562911",
       "identifiers": [
         {
@@ -5262,6 +6465,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "448310",
+          "scheme": "fast"
+        },
+        {
           "identifier": "/m/01b1g9",
           "scheme": "freebase"
         },
@@ -5280,6 +6487,10 @@
         {
           "identifier": "48220834",
           "scheme": "nla"
+        },
+        {
+          "identifier": "135/000098838",
+          "scheme": "nndb"
         },
         {
           "identifier": "6047665",
@@ -5359,7 +6570,7 @@
         },
         {
           "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Gloria_Macapagal-Arroyo"
+          "url": "https://en.wikipedia.org/wiki/Gloria_Macapagal_Arroyo"
         },
         {
           "note": "Wikipedia (enwikiquote)",
@@ -5375,7 +6586,7 @@
         },
         {
           "note": "Wikipedia (es)",
-          "url": "https://es.wikipedia.org/wiki/Gloria_Macapagal_Arroyo"
+          "url": "https://es.wikipedia.org/wiki/Gloria_Macapagal-Arroyo"
         },
         {
           "note": "Wikipedia (et)",
@@ -5510,6 +6721,10 @@
           "url": "https://ru.wikipedia.org/wiki/Макапагал-Арройо,_Глория"
         },
         {
+          "note": "Wikipedia (sco)",
+          "url": "https://sco.wikipedia.org/wiki/Gloria_Macapagal-Arroyo"
+        },
+        {
           "note": "Wikipedia (simple)",
           "url": "https://simple.wikipedia.org/wiki/Gloria_Macapagal-Arroyo"
         },
@@ -5568,6 +6783,10 @@
         {
           "note": "Wikipedia (zh_yue)",
           "url": "https://zh_yue.wikipedia.org/wiki/阿羅約"
+        },
+        {
+          "note": "website",
+          "url": "http://www.macapagal.com/gma"
         }
       ],
       "name": "Macapagal-Arroyo, Gloria",
@@ -5653,7 +6872,7 @@
         },
         {
           "lang": "es",
-          "name": "Gloria Macapagal Arroyo",
+          "name": "Gloria Macapagal-Arroyo",
           "note": "multilingual"
         },
         {
@@ -5833,7 +7052,12 @@
         },
         {
           "lang": "ru",
-          "name": "Макапагал-Арройо, Глория",
+          "name": "Глория Макапагал-Арройо",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "Gloria Macapagal-Arroyo",
           "note": "multilingual"
         },
         {
@@ -6023,16 +7247,11 @@
       ]
     },
     {
-      "gender": "male",
       "id": "cbee975d-c621-454b-a4ad-175da89f5f18",
       "identifiers": [
         {
           "identifier": "mangudadatu-z",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q7156463",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www.congress.gov.ph/members/images/16th/mangudadatu-z.jpg",
@@ -6041,29 +7260,7 @@
           "url": "http://www.congress.gov.ph/members/images/16th/mangudadatu-z.jpg"
         }
       ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Pax_Mangudadatu"
-        }
-      ],
       "name": "Mangudadatu, Zajid G.",
-      "other_names": [
-        {
-          "name": "Pax Mangudadatu",
-          "note": "alternate"
-        },
-        {
-          "lang": "de",
-          "name": "Pax Mangudadatu",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Pax Mangudadatu",
-          "note": "multilingual"
-        }
-      ],
       "sources": [
         {
           "url": "http://www.congress.gov.ph/members/search.php?id=mangudadatu-z"
@@ -6089,12 +7286,20 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "19334",
+          "scheme": "fast"
+        },
+        {
           "identifier": "/m/01r2tl",
           "scheme": "freebase"
         },
         {
           "identifier": "122298527",
           "scheme": "gnd"
+        },
+        {
+          "identifier": "129507",
+          "scheme": "gtaa"
         },
         {
           "identifier": "0000 0001 1497 2036",
@@ -6107,6 +7312,10 @@
         {
           "identifier": "00621064",
           "scheme": "ndl"
+        },
+        {
+          "identifier": "303/000023234",
+          "scheme": "nndb"
         },
         {
           "identifier": "070727104",
@@ -6141,16 +7350,36 @@
           "url": "https://als.wikipedia.org/wiki/Imelda_Marcos"
         },
         {
+          "note": "Wikipedia (am)",
+          "url": "https://am.wikipedia.org/wiki/ኢሜልዳ"
+        },
+        {
           "note": "Wikipedia (ar)",
           "url": "https://ar.wikipedia.org/wiki/إيميلدا_ماركوس"
+        },
+        {
+          "note": "Wikipedia (az)",
+          "url": "https://az.wikipedia.org/wiki/İmelda_Markos"
         },
         {
           "note": "Wikipedia (bcl)",
           "url": "https://bcl.wikipedia.org/wiki/Imelda_Marcos"
         },
         {
+          "note": "Wikipedia (be)",
+          "url": "https://be.wikipedia.org/wiki/Імельда"
+        },
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Имелда_Маркос"
+        },
+        {
           "note": "Wikipedia (bgwikiquote)",
           "url": "https://bgwikiquote.wikipedia.org/wiki/Имелда_Маркос"
+        },
+        {
+          "note": "Wikipedia (bn)",
+          "url": "https://bn.wikipedia.org/wiki/ইমেলদা_মার্কোস"
         },
         {
           "note": "Wikipedia (ca)",
@@ -6169,6 +7398,10 @@
           "url": "https://co.wikipedia.org/wiki/Imelda_Marcos"
         },
         {
+          "note": "Wikipedia (cs)",
+          "url": "https://cs.wikipedia.org/wiki/Imelda_Marcosová"
+        },
+        {
           "note": "Wikipedia (da)",
           "url": "https://da.wikipedia.org/wiki/Imelda_Marcos"
         },
@@ -6179,6 +7412,10 @@
         {
           "note": "Wikipedia (dewikiquote)",
           "url": "https://dewikiquote.wikipedia.org/wiki/Imelda_Marcos"
+        },
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Ιμέλντα_Μάρκος"
         },
         {
           "note": "Wikipedia (en)",
@@ -6199,6 +7436,10 @@
         {
           "note": "Wikipedia (eswikiquote)",
           "url": "https://eswikiquote.wikipedia.org/wiki/Imelda_Marcos"
+        },
+        {
+          "note": "Wikipedia (et)",
+          "url": "https://et.wikipedia.org/wiki/Imelda_Marcos"
         },
         {
           "note": "Wikipedia (eu)",
@@ -6225,8 +7466,16 @@
           "url": "https://fy.wikipedia.org/wiki/Imelda_Marcos"
         },
         {
+          "note": "Wikipedia (ga)",
+          "url": "https://ga.wikipedia.org/wiki/Imelda_Marcos"
+        },
+        {
           "note": "Wikipedia (gl)",
           "url": "https://gl.wikipedia.org/wiki/Imelda_Marcos"
+        },
+        {
+          "note": "Wikipedia (ha)",
+          "url": "https://ha.wikipedia.org/wiki/Imelda_Marcos"
         },
         {
           "note": "Wikipedia (haw)",
@@ -6241,12 +7490,20 @@
           "url": "https://hr.wikipedia.org/wiki/Imelda_Marcos"
         },
         {
+          "note": "Wikipedia (ht)",
+          "url": "https://ht.wikipedia.org/wiki/Imelda_Marcos"
+        },
+        {
           "note": "Wikipedia (ia)",
           "url": "https://ia.wikipedia.org/wiki/Imelda_Marcos"
         },
         {
           "note": "Wikipedia (id)",
           "url": "https://id.wikipedia.org/wiki/Imelda_Marcos"
+        },
+        {
+          "note": "Wikipedia (ig)",
+          "url": "https://ig.wikipedia.org/wiki/Imelda_Marcos"
         },
         {
           "note": "Wikipedia (ilo)",
@@ -6273,12 +7530,20 @@
           "url": "https://jv.wikipedia.org/wiki/Imelda_Marcos"
         },
         {
+          "note": "Wikipedia (km)",
+          "url": "https://km.wikipedia.org/wiki/អ៊ឹមអែលដា"
+        },
+        {
           "note": "Wikipedia (ko)",
           "url": "https://ko.wikipedia.org/wiki/이멜다_마르코스"
         },
         {
           "note": "Wikipedia (ksh)",
           "url": "https://ksh.wikipedia.org/wiki/Imelda_Marcos"
+        },
+        {
+          "note": "Wikipedia (ku)",
+          "url": "https://ku.wikipedia.org/wiki/Imelda_Marcos"
         },
         {
           "note": "Wikipedia (la)",
@@ -6385,6 +7650,10 @@
           "url": "https://simple.wikipedia.org/wiki/Imelda_Marcos"
         },
         {
+          "note": "Wikipedia (sq)",
+          "url": "https://sq.wikipedia.org/wiki/Imelda_Marcos"
+        },
+        {
           "note": "Wikipedia (sv)",
           "url": "https://sv.wikipedia.org/wiki/Imelda_Marcos"
         },
@@ -6393,12 +7662,24 @@
           "url": "https://ta.wikipedia.org/wiki/இமெல்டா_மார்க்கோஸ்"
         },
         {
+          "note": "Wikipedia (th)",
+          "url": "https://th.wikipedia.org/wiki/อีเมลดา_มาร์กอส"
+        },
+        {
           "note": "Wikipedia (tl)",
           "url": "https://tl.wikipedia.org/wiki/Imelda_Marcos"
         },
         {
           "note": "Wikipedia (tr)",
           "url": "https://tr.wikipedia.org/wiki/İmelda_Marcos"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Імельда_Маркос"
+        },
+        {
+          "note": "Wikipedia (ur)",
+          "url": "https://ur.wikipedia.org/wiki/امیلڈا"
         },
         {
           "note": "Wikipedia (vi)",
@@ -6433,8 +7714,18 @@
           "note": "multilingual"
         },
         {
+          "lang": "am",
+          "name": "ኢሜልዳ",
+          "note": "multilingual"
+        },
+        {
           "lang": "ar",
           "name": "إيميلدا ماركوس",
+          "note": "multilingual"
+        },
+        {
+          "lang": "az",
+          "name": "İmelda Markos",
           "note": "multilingual"
         },
         {
@@ -6443,8 +7734,18 @@
           "note": "multilingual"
         },
         {
+          "lang": "be",
+          "name": "Імельда",
+          "note": "multilingual"
+        },
+        {
           "lang": "bg",
           "name": "Имелда Маркос",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bn",
+          "name": "ইমেলদা মার্কোস",
           "note": "multilingual"
         },
         {
@@ -6469,7 +7770,7 @@
         },
         {
           "lang": "cs",
-          "name": "Imelda Marcos",
+          "name": "Imelda Marcosová",
           "note": "multilingual"
         },
         {
@@ -6518,6 +7819,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "et",
+          "name": "Imelda Marcos",
+          "note": "multilingual"
+        },
+        {
           "lang": "eu",
           "name": "Imelda Marcos",
           "note": "multilingual"
@@ -6548,12 +7854,27 @@
           "note": "multilingual"
         },
         {
+          "lang": "ga",
+          "name": "Imelda Marcos",
+          "note": "multilingual"
+        },
+        {
           "lang": "gl",
           "name": "Imelda Marcos",
           "note": "multilingual"
         },
         {
           "lang": "gsw",
+          "name": "Imelda Marcos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gu",
+          "name": "ઇમેલ્ડા માર્કોસ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ha",
           "name": "Imelda Marcos",
           "note": "multilingual"
         },
@@ -6573,12 +7894,32 @@
           "note": "multilingual"
         },
         {
+          "lang": "ht",
+          "name": "Imelda Marcos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Imelda Marcos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hy",
+          "name": "Իմելդա Մարկոս",
+          "note": "multilingual"
+        },
+        {
           "lang": "ia",
           "name": "Imelda Marcos",
           "note": "multilingual"
         },
         {
           "lang": "id",
+          "name": "Imelda Marcos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ig",
           "name": "Imelda Marcos",
           "note": "multilingual"
         },
@@ -6613,12 +7954,22 @@
           "note": "multilingual"
         },
         {
+          "lang": "km",
+          "name": "អ៊ឹមអែលដា",
+          "note": "multilingual"
+        },
+        {
           "lang": "ko",
           "name": "이멜다 마르코스",
           "note": "multilingual"
         },
         {
           "lang": "ksh",
+          "name": "Imelda Marcos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ku",
           "name": "Imelda Marcos",
           "note": "multilingual"
         },
@@ -6734,7 +8085,7 @@
         },
         {
           "lang": "ru",
-          "name": "Маркос, Имельда Ромуальдес",
+          "name": "Имельда Ромуальдес Маркос",
           "note": "multilingual"
         },
         {
@@ -6758,6 +8109,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "sq",
+          "name": "Imelda Marcos",
+          "note": "multilingual"
+        },
+        {
           "lang": "sv",
           "name": "Imelda Marcos",
           "note": "multilingual"
@@ -6768,6 +8124,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "th",
+          "name": "อีเมลดา มาร์กอส",
+          "note": "multilingual"
+        },
+        {
           "lang": "tl",
           "name": "Imelda Marcos",
           "note": "multilingual"
@@ -6775,6 +8136,16 @@
         {
           "lang": "tr",
           "name": "İmelda Marcos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Імельда Маркос",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ur",
+          "name": "امیلڈا",
           "note": "multilingual"
         },
         {
@@ -6831,6 +8202,21 @@
       "sources": [
         {
           "url": "http://www.congress.gov.ph/members/search.php?id=marcos-i"
+        }
+      ]
+    },
+    {
+      "id": "62afaa7f-0c49-4517-bee1-154763e4c417",
+      "image": "http://www.congress.gov.ph/members/images/16th/mascarina.jpg",
+      "images": [
+        {
+          "url": "http://www.congress.gov.ph/members/images/16th/mascarina.jpg"
+        }
+      ],
+      "name": "Mascariña, Roberto C.",
+      "sources": [
+        {
+          "url": "http://www.congress.gov.ph/members/search.php?id=mascarina"
         }
       ]
     },
@@ -6941,6 +8327,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Mark_L._Mendoza"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Mark_L._Mendoza"
         },
@@ -6962,6 +8352,11 @@
         },
         {
           "lang": "en",
+          "name": "Mark L. Mendoza",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Mark L. Mendoza",
           "note": "multilingual"
         },
@@ -7020,11 +8415,21 @@
       ]
     },
     {
+      "birth_date": "1968-04-13",
+      "gender": "female",
       "id": "05ed3492-938d-4351-9b77-7040eb00356b",
       "identifiers": [
         {
           "identifier": "mercado-revilla",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "nm1235749",
+          "scheme": "imdb"
+        },
+        {
+          "identifier": "Q5969936",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.congress.gov.ph/members/images/16th/mercado-revilla.jpg",
@@ -7033,7 +8438,52 @@
           "url": "http://www.congress.gov.ph/members/images/16th/mercado-revilla.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Lani_Mercado"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Lani_Mercado"
+        },
+        {
+          "note": "Wikipedia (tl)",
+          "url": "https://tl.wikipedia.org/wiki/Lani_Mercado"
+        }
+      ],
       "name": "Mercado-Revilla, Lani",
+      "other_names": [
+        {
+          "name": "Lani Mercado",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Lani Mercado",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Lani Mercado",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Lani Mercado",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Lani Mercado",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tl",
+          "name": "Lani Mercado",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.congress.gov.ph/members/search.php?id=mercado-revilla"
@@ -7293,11 +8743,52 @@
       ]
     },
     {
+      "birth_date": "1978-12-17",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "MannyPacquiao"
+        }
+      ],
+      "gender": "male",
+      "given_name": "Manny",
       "id": "340f65cd-b148-41ac-83df-1ed6dde7726e",
       "identifiers": [
         {
+          "identifier": "16977214x",
+          "scheme": "bnf"
+        },
+        {
           "identifier": "pacquiao-e",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/03pmbb",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "nm1301525",
+          "scheme": "imdb"
+        },
+        {
+          "identifier": "0000 0001 0168 2654",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "n2010050756",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "349/000351293",
+          "scheme": "nndb"
+        },
+        {
+          "identifier": "151511376",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q486359",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.congress.gov.ph/members/images/16th/pacquiao-e.jpg",
@@ -7306,7 +8797,602 @@
           "url": "http://www.congress.gov.ph/members/images/16th/pacquiao-e.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/ماني_باكياو"
+        },
+        {
+          "note": "Wikipedia (az)",
+          "url": "https://az.wikipedia.org/wiki/Menni_Pakyao"
+        },
+        {
+          "note": "Wikipedia (bcl)",
+          "url": "https://bcl.wikipedia.org/wiki/Manny_Pacquiao"
+        },
+        {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Manny_Pacquiao"
+        },
+        {
+          "note": "Wikipedia (cbk_zam)",
+          "url": "https://cbk_zam.wikipedia.org/wiki/Manny_Pacquiao"
+        },
+        {
+          "note": "Wikipedia (ceb)",
+          "url": "https://ceb.wikipedia.org/wiki/Manny_Pacquiao"
+        },
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Manny_Pacquiao"
+        },
+        {
+          "note": "Wikipedia (cs)",
+          "url": "https://cs.wikipedia.org/wiki/Manny_Pacquiao"
+        },
+        {
+          "note": "Wikipedia (da)",
+          "url": "https://da.wikipedia.org/wiki/Manny_Pacquiao"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Manny_Pacquiao"
+        },
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Μάνι_Πακιάο"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Manny_Pacquiao"
+        },
+        {
+          "note": "Wikipedia (enwikiquote)",
+          "url": "https://enwikiquote.wikipedia.org/wiki/Manny_Pacquiao"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Manny_Pacquiao"
+        },
+        {
+          "note": "Wikipedia (eswikiquote)",
+          "url": "https://eswikiquote.wikipedia.org/wiki/Manny_Pacquiao"
+        },
+        {
+          "note": "Wikipedia (et)",
+          "url": "https://et.wikipedia.org/wiki/Manny_Pacquiao"
+        },
+        {
+          "note": "Wikipedia (eu)",
+          "url": "https://eu.wikipedia.org/wiki/Manny_Pacquiao"
+        },
+        {
+          "note": "Wikipedia (fa)",
+          "url": "https://fa.wikipedia.org/wiki/مانی_پاکیائو"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Manny_Pacquiao"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Manny_Pacquiao"
+        },
+        {
+          "note": "Wikipedia (ga)",
+          "url": "https://ga.wikipedia.org/wiki/Manny_Pacquiao"
+        },
+        {
+          "note": "Wikipedia (gl)",
+          "url": "https://gl.wikipedia.org/wiki/Manny_Pacquiao"
+        },
+        {
+          "note": "Wikipedia (he)",
+          "url": "https://he.wikipedia.org/wiki/מני_פקיאו"
+        },
+        {
+          "note": "Wikipedia (hr)",
+          "url": "https://hr.wikipedia.org/wiki/Manny_Pacquiao"
+        },
+        {
+          "note": "Wikipedia (ia)",
+          "url": "https://ia.wikipedia.org/wiki/Emmanuel_Pacquiao"
+        },
+        {
+          "note": "Wikipedia (id)",
+          "url": "https://id.wikipedia.org/wiki/Manny_Pacquiao"
+        },
+        {
+          "note": "Wikipedia (ilo)",
+          "url": "https://ilo.wikipedia.org/wiki/Manny_Pacquiao"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Manny_Pacquiao"
+        },
+        {
+          "note": "Wikipedia (itwikiquote)",
+          "url": "https://itwikiquote.wikipedia.org/wiki/Manny_Pacquiao"
+        },
+        {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/マニー・パッキャオ"
+        },
+        {
+          "note": "Wikipedia (kk)",
+          "url": "https://kk.wikipedia.org/wiki/Мэнни_Пакьяо"
+        },
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/매니_파퀴아오"
+        },
+        {
+          "note": "Wikipedia (la)",
+          "url": "https://la.wikipedia.org/wiki/Emmanuel_Pacquiao"
+        },
+        {
+          "note": "Wikipedia (lv)",
+          "url": "https://lv.wikipedia.org/wiki/Menijs_Pakjao"
+        },
+        {
+          "note": "Wikipedia (ms)",
+          "url": "https://ms.wikipedia.org/wiki/Manny_Pacquiao"
+        },
+        {
+          "note": "Wikipedia (my)",
+          "url": "https://my.wikipedia.org/wiki/မန်နီ_ပက်ကွီအို"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Manny_Pacquiao"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Manny_Pacquiao"
+        },
+        {
+          "note": "Wikipedia (pag)",
+          "url": "https://pag.wikipedia.org/wiki/Manny_Pacquiao"
+        },
+        {
+          "note": "Wikipedia (pam)",
+          "url": "https://pam.wikipedia.org/wiki/Manny_Pacquiao"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Manny_Pacquiao"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Manny_Pacquiao"
+        },
+        {
+          "note": "Wikipedia (qu)",
+          "url": "https://qu.wikipedia.org/wiki/Manny_Pacquiao"
+        },
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Manny_Pacquiao"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Пакьяо,_Мэнни"
+        },
+        {
+          "note": "Wikipedia (sr)",
+          "url": "https://sr.wikipedia.org/wiki/Mani_Pakjao"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Manny_Pacquiao"
+        },
+        {
+          "note": "Wikipedia (th)",
+          "url": "https://th.wikipedia.org/wiki/แมนนี_ปาเกียว"
+        },
+        {
+          "note": "Wikipedia (tl)",
+          "url": "https://tl.wikipedia.org/wiki/Manny_Pacquiao"
+        },
+        {
+          "note": "Wikipedia (tr)",
+          "url": "https://tr.wikipedia.org/wiki/Manny_Pacquiao"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Менні_Пак'яо"
+        },
+        {
+          "note": "Wikipedia (ukwikiquote)",
+          "url": "https://ukwikiquote.wikipedia.org/wiki/Менні_Пак'яо"
+        },
+        {
+          "note": "Wikipedia (uz)",
+          "url": "https://uz.wikipedia.org/wiki/Manny_Pacquiao"
+        },
+        {
+          "note": "Wikipedia (vi)",
+          "url": "https://vi.wikipedia.org/wiki/Manny_Pacquiao"
+        },
+        {
+          "note": "Wikipedia (war)",
+          "url": "https://war.wikipedia.org/wiki/Manny_Pacquiao"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/曼尼·帕奎奥"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/MannyPacquiao"
+        },
+        {
+          "note": "website",
+          "url": "http://pacman.craveonline.com"
+        }
+      ],
       "name": "Pacquiao, Emmanuel D.",
+      "other_names": [
+        {
+          "name": "Manny Pacquiao",
+          "note": "alternate"
+        },
+        {
+          "lang": "af",
+          "name": "Manny Pacquiao",
+          "note": "multilingual"
+        },
+        {
+          "lang": "an",
+          "name": "Manny Pacquiao",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "ماني باكياو",
+          "note": "multilingual"
+        },
+        {
+          "lang": "az",
+          "name": "Menni Pakyao",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bcl",
+          "name": "Manny Pacquiao",
+          "note": "multilingual"
+        },
+        {
+          "lang": "br",
+          "name": "Manny Pacquiao",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Manny Pacquiao",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cbk-zam",
+          "name": "Manny Pacquiao",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ceb",
+          "name": "Manny Pacquiao",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Manny Pacquiao",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Manny Pacquiao",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Manny Pacquiao",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Μάνι Πακιάο",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Manny Pacquiao",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Manny Pacquiao",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Manny Pacquiao",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Manny Pacquiao",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "Manny Pacquiao",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "مانی پاکیائو",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Manny Pacquiao",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Manny Pacquiao",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "Manny Pacquiao",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Manny Pacquiao",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gsw",
+          "name": "Manny Pacquiao",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "מני פקיאו",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Manny Pacquiao",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Manny Pacquiao",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ia",
+          "name": "Emmanuel Pacquiao",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Manny Pacquiao",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ilo",
+          "name": "Manny Pacquiao",
+          "note": "multilingual"
+        },
+        {
+          "lang": "is",
+          "name": "Manny Pacquiao",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Manny Pacquiao",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "マニー・パッキャオ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kk",
+          "name": "Мэнни Пакьяо",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "매니 파퀴아오",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Emmanuel Pacquiao",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lb",
+          "name": "Manny Pacquiao",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lmo",
+          "name": "Manny Pacquiao",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Manny Pacquiao",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lv",
+          "name": "Menijs Pakjao",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "Manny Pacquiao",
+          "note": "multilingual"
+        },
+        {
+          "lang": "my",
+          "name": "မန်နီ ပက်ကွီအို",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Manny Pacquiao",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nds-nl",
+          "name": "Manny Pacquiao",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Manny Pacquiao",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Manny Pacquiao",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pag",
+          "name": "Manny Pacquiao",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pam",
+          "name": "Manny Pacquiao",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Manny Pacquiao",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pms",
+          "name": "Manny Pacquiao",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Manny Pacquiao",
+          "note": "multilingual"
+        },
+        {
+          "lang": "qu",
+          "name": "Manny Pacquiao",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Manny Pacquiao",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Пакьяо, Мэнни",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Manny Pacquiao",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Manny Pacquiao",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sq",
+          "name": "Manny Pacquiao",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Mani Pakjao",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Manny Pacquiao",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "แมนนี่ ปาเกียว",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tl",
+          "name": "Manny Pacquiao",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Manny Pacquiao",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Менні Пакьяо",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uz",
+          "name": "Manny Pacquiao",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Pacquiao",
+          "note": "multilingual"
+        },
+        {
+          "lang": "wa",
+          "name": "Manny Pacquiao",
+          "note": "multilingual"
+        },
+        {
+          "lang": "war",
+          "name": "Manny Pacquiao",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "曼尼·帕奎奥",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hans",
+          "name": "曼尼·帕奎奥",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "曼尼·帕奎奧",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "曼尼·帕奎奧",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.congress.gov.ph/members/search.php?id=pacquiao-e"
@@ -7377,11 +9463,18 @@
       ]
     },
     {
+      "birth_date": "1957-02-13",
+      "gender": "male",
+      "given_name": "Samuel",
       "id": "4c009064-fcf4-476d-91ac-c194c8316d71",
       "identifiers": [
         {
           "identifier": "pagdilao-s",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q22007288",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.congress.gov.ph/members/images/16th/pagdilao-s.jpg",
@@ -7390,7 +9483,24 @@
           "url": "http://www.congress.gov.ph/members/images/16th/pagdilao-s.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Samuel_Pagdilao"
+        }
+      ],
       "name": "Pagdilao, Samuel D.",
+      "other_names": [
+        {
+          "name": "Samuel Pagdilao, Jr.",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Samuel Pagdilao, Jr.",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.congress.gov.ph/members/search.php?id=pagdilao-s"
@@ -7777,7 +9887,7 @@
       ]
     },
     {
-      "birth_date": "1969-01-01",
+      "birth_date": "1969",
       "gender": "male",
       "id": "5e213c12-3a79-4377-837a-036f564eeb01",
       "identifiers": [
@@ -7799,7 +9909,7 @@
       "links": [
         {
           "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Romero_Quimbo"
+          "url": "https://en.wikipedia.org/wiki/Miro_Quimbo"
         }
       ],
       "name": "Quimbo, Romero \"Miro\" S.",
@@ -7819,7 +9929,17 @@
           "note": "multilingual"
         },
         {
+          "lang": "fr",
+          "name": "Romero Quimbo",
+          "note": "multilingual"
+        },
+        {
           "lang": "it",
+          "name": "Romero Quimbo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Romero Quimbo",
           "note": "multilingual"
         }
@@ -8108,6 +10228,11 @@
           "lang": "en",
           "name": "Arthur B. Robes",
           "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Arthur B. Robes",
+          "note": "multilingual"
         }
       ],
       "sources": [
@@ -8159,11 +10284,18 @@
       ]
     },
     {
+      "birth_date": "1945-09",
+      "gender": "male",
+      "given_name": "Oscar",
       "id": "b107ceaa-102a-4964-8f7a-7b74048d8bbf",
       "identifiers": [
         {
           "identifier": "rodriguez-o",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q7106241",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.congress.gov.ph/members/images/16th/rodriguez-o.jpg",
@@ -8172,7 +10304,39 @@
           "url": "http://www.congress.gov.ph/members/images/16th/rodriguez-o.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Oscar_Samson_Rodriguez"
+        }
+      ],
       "name": "Rodriguez, Oscar S.",
+      "other_names": [
+        {
+          "name": "Oscar Samson Rodriguez",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Oscar Samson Rodriguez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Oscar Samson Rodriguez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Oscar Samson Rodriguez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Oscar Samson Rodriguez",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.congress.gov.ph/members/search.php?id=rodriguez-o"
@@ -8223,6 +10387,11 @@
         },
         {
           "lang": "en",
+          "name": "Rufus Rodriguez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Rufus Rodriguez",
           "note": "multilingual"
         },
@@ -8308,6 +10477,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "hu",
+          "name": "Herminia Roman",
+          "note": "multilingual"
+        },
+        {
           "lang": "ilo",
           "name": "Herminia Roman",
           "note": "multilingual"
@@ -8356,6 +10530,7 @@
       ]
     },
     {
+      "birth_date": "1963-11-14",
       "gender": "male",
       "given_name": "Ferdinand",
       "id": "6f8efd43-c507-4f7d-b77b-4260a78476ee",
@@ -8381,8 +10556,12 @@
           "url": "https://en.wikipedia.org/wiki/Martin_Romualdez"
         },
         {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Martin_Romuáldez"
+        },
+        {
           "note": "Wikipedia (tl)",
-          "url": "https://tl.wikipedia.org/wiki/Ferdinand_Martin_Romualdez"
+          "url": "https://tl.wikipedia.org/wiki/Martin_Romualdez"
         },
         {
           "note": "website",
@@ -8403,6 +10582,11 @@
         {
           "lang": "it",
           "name": "Ferdinand Martin Romualdez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Martin Romualdez",
           "note": "multilingual"
         },
         {
@@ -8502,11 +10686,17 @@
       ]
     },
     {
+      "gender": "female",
+      "given_name": "Ruby",
       "id": "0585f781-c178-45d5-a0e1-3a5f2dbb6bc6",
       "identifiers": [
         {
           "identifier": "sahali-r",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q7376381",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.congress.gov.ph/members/images/16th/sahali-r.jpg",
@@ -8515,7 +10705,29 @@
           "url": "http://www.congress.gov.ph/members/images/16th/sahali-r.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ruby_Sahali"
+        }
+      ],
       "name": "Sahali, Ruby M.",
+      "other_names": [
+        {
+          "name": "Ruby Sahali",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Ruby Sahali",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Ruby Sahali",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.congress.gov.ph/members/search.php?id=sahali-r"
@@ -8565,6 +10777,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Benhur_Salimbangon"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Benhur_Salimbangon"
         },
@@ -8591,6 +10807,11 @@
         },
         {
           "lang": "fr",
+          "name": "Benhur Salimbangon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Benhur Salimbangon",
           "note": "multilingual"
         },
@@ -8670,11 +10891,18 @@
       ]
     },
     {
+      "birth_date": "1962-08-11",
+      "gender": "male",
+      "given_name": "Mel",
       "id": "2721ff7f-91a4-4d87-8a57-a3159e67c7f7",
       "identifiers": [
         {
           "identifier": "sarmiento-m",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q17371180",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.congress.gov.ph/members/images/16th/sarmiento-m.jpg",
@@ -8683,7 +10911,402 @@
           "url": "http://www.congress.gov.ph/members/images/16th/sarmiento-m.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Mel_Senen_Sarmiento"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Mel_Senen_Sarmiento"
+        },
+        {
+          "note": "Wikipedia (tl)",
+          "url": "https://tl.wikipedia.org/wiki/Mel_Senen_Sarmiento"
+        }
+      ],
       "name": "Sarmiento, Mel Senen S.",
+      "other_names": [
+        {
+          "name": "Mel Senen Sarmiento",
+          "note": "alternate"
+        },
+        {
+          "lang": "af",
+          "name": "Mel Senen Sarmiento",
+          "note": "multilingual"
+        },
+        {
+          "lang": "an",
+          "name": "Mel Senen Sarmiento",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ast",
+          "name": "Mel Senen Sarmiento",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bar",
+          "name": "Mel Senen Sarmiento",
+          "note": "multilingual"
+        },
+        {
+          "lang": "br",
+          "name": "Mel Senen Sarmiento",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Mel Senen Sarmiento",
+          "note": "multilingual"
+        },
+        {
+          "lang": "co",
+          "name": "Mel Senen Sarmiento",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Mel Senen Sarmiento",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Mel Senen Sarmiento",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Mel Senen Sarmiento",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Mel Senen Sarmiento",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de-at",
+          "name": "Mel Senen Sarmiento",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de-ch",
+          "name": "Mel Senen Sarmiento",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Mel Senen Sarmiento",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "Mel Senen Sarmiento",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "Mel Senen Sarmiento",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Mel Senen Sarmiento",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Mel Senen Sarmiento",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Mel Senen Sarmiento",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "Mel Senen Sarmiento",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Mel Senen Sarmiento",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Mel Senen Sarmiento",
+          "note": "multilingual"
+        },
+        {
+          "lang": "frp",
+          "name": "Mel Senen Sarmiento",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fur",
+          "name": "Mel Senen Sarmiento",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "Mel Senen Sarmiento",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Mel Senen Sarmiento",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Mel Senen Sarmiento",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gsw",
+          "name": "Mel Senen Sarmiento",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Mel Senen Sarmiento",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Mel Senen Sarmiento",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ia",
+          "name": "Mel Senen Sarmiento",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Mel Senen Sarmiento",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ie",
+          "name": "Mel Senen Sarmiento",
+          "note": "multilingual"
+        },
+        {
+          "lang": "io",
+          "name": "Mel Senen Sarmiento",
+          "note": "multilingual"
+        },
+        {
+          "lang": "is",
+          "name": "Mel Senen Sarmiento",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Mel Senen Sarmiento",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kg",
+          "name": "Mel Senen Sarmiento",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lb",
+          "name": "Mel Senen Sarmiento",
+          "note": "multilingual"
+        },
+        {
+          "lang": "li",
+          "name": "Mel Senen Sarmiento",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lij",
+          "name": "Mel Senen Sarmiento",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mg",
+          "name": "Mel Senen Sarmiento",
+          "note": "multilingual"
+        },
+        {
+          "lang": "min",
+          "name": "Mel Senen Sarmiento",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "Mel Senen Sarmiento",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nap",
+          "name": "Mel Senen Sarmiento",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Mel Senen Sarmiento",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nds",
+          "name": "Mel Senen Sarmiento",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nds-nl",
+          "name": "Mel Senen Sarmiento",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Mel Senen Sarmiento",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Mel Senen Sarmiento",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nrm",
+          "name": "Mel Senen Sarmiento",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Mel Senen Sarmiento",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pcd",
+          "name": "Mel Senen Sarmiento",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Mel Senen Sarmiento",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pms",
+          "name": "Mel Senen Sarmiento",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Mel Senen Sarmiento",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt-br",
+          "name": "Mel Senen Sarmiento",
+          "note": "multilingual"
+        },
+        {
+          "lang": "rm",
+          "name": "Mel Senen Sarmiento",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Mel Senen Sarmiento",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sc",
+          "name": "Mel Senen Sarmiento",
+          "note": "multilingual"
+        },
+        {
+          "lang": "scn",
+          "name": "Mel Senen Sarmiento",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "Mel Senen Sarmiento",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Mel Senen Sarmiento",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Mel Senen Sarmiento",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-el",
+          "name": "Mel Senen Sarmiento",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Mel Senen Sarmiento",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sw",
+          "name": "Mel Senen Sarmiento",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tl",
+          "name": "Mel Senen Sarmiento",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Mel Senen Sarmiento",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vec",
+          "name": "Mel Senen Sarmiento",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Mel Senen Sarmiento",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vls",
+          "name": "Mel Senen Sarmiento",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vo",
+          "name": "Mel Senen Sarmiento",
+          "note": "multilingual"
+        },
+        {
+          "lang": "wa",
+          "name": "Mel Senen Sarmiento",
+          "note": "multilingual"
+        },
+        {
+          "lang": "wo",
+          "name": "Mel Senen Sarmiento",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zu",
+          "name": "Mel Senen Sarmiento",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.congress.gov.ph/members/search.php?id=sarmiento-m"
@@ -8691,11 +11314,18 @@
       ]
     },
     {
+      "birth_date": "1954-04-29",
+      "gender": "female",
+      "given_name": "Josephine",
       "id": "0602f732-3bc2-4edd-b297-42c51316035b",
       "identifiers": [
         {
           "identifier": "sato-j",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q17371286",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.congress.gov.ph/members/images/16th/sato-j.jpg",
@@ -8704,7 +11334,33 @@
           "url": "http://www.congress.gov.ph/members/images/16th/sato-j.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Josephine_Sato"
+        },
+        {
+          "note": "Wikipedia (tl)",
+          "url": "https://tl.wikipedia.org/wiki/Josephine_Sato"
+        }
+      ],
       "name": "Sato, Josephine R.",
+      "other_names": [
+        {
+          "name": "Josephine Sato",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Josephine Sato",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tl",
+          "name": "Josephine Sato",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.congress.gov.ph/members/search.php?id=sato-j"
@@ -8805,6 +11461,10 @@
           "url": "https://en.wikipedia.org/wiki/Ronald_Singson"
         },
         {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Ronald_Singson"
+        },
+        {
           "note": "Wikipedia (tl)",
           "url": "https://tl.wikipedia.org/wiki/Ronald_Singson"
         }
@@ -8827,6 +11487,16 @@
         },
         {
           "lang": "fr",
+          "name": "Ronald Singson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Ronald Singson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Ronald Singson",
           "note": "multilingual"
         },
@@ -8932,6 +11602,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "nl",
+          "name": "Victoria Sy-Alvarado",
+          "note": "multilingual"
+        },
+        {
           "lang": "tl",
           "name": "Ma. Victoria Sy-Alvarado",
           "note": "multilingual"
@@ -9007,11 +11682,17 @@
       ]
     },
     {
+      "birth_date": "1958-06-10",
+      "gender": "male",
       "id": "532d38b4-81bd-42fb-a58b-7ef0e9dfedfa",
       "identifiers": [
         {
           "identifier": "tejada-j",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q16192880",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.congress.gov.ph/members/images/16th/tejada-j.jpg",
@@ -9020,7 +11701,24 @@
           "url": "http://www.congress.gov.ph/members/images/16th/tejada-j.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Jose_I._Tejada"
+        }
+      ],
       "name": "Tejada, Jose I.",
+      "other_names": [
+        {
+          "name": "Ping-Ping Tejada",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Ping-Ping Tejada",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.congress.gov.ph/members/search.php?id=tejada-j"
@@ -9076,6 +11774,11 @@
         },
         {
           "lang": "fr",
+          "name": "Marcelino Teodoro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Marcelino Teodoro",
           "note": "multilingual"
         },
@@ -9138,8 +11841,18 @@
           "note": "multilingual"
         },
         {
+          "lang": "fr",
+          "name": "Pryde Henry Teves",
+          "note": "multilingual"
+        },
+        {
           "lang": "tl",
           "name": "Pryde Henry Teves",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "亨利·特維斯",
           "note": "multilingual"
         }
       ],
@@ -9198,6 +11911,16 @@
         },
         {
           "lang": "es",
+          "name": "Toby Tiangco",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Toby Tiangco",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Toby Tiangco",
           "note": "multilingual"
         },
@@ -9346,6 +12069,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "nl",
+          "name": "Abraham Tolentino",
+          "note": "multilingual"
+        },
+        {
           "lang": "pag",
           "name": "Bambol Tolentino",
           "note": "multilingual"
@@ -9385,6 +12113,7 @@
     },
     {
       "gender": "male",
+      "given_name": "Sherwin",
       "id": "ec2a258a-decc-4419-beaf-9c1a1a9be722",
       "identifiers": [
         {
@@ -9477,8 +12206,18 @@
           "note": "multilingual"
         },
         {
+          "lang": "nl",
+          "name": "Niel Tupas, Jr.",
+          "note": "multilingual"
+        },
+        {
           "lang": "tl",
           "name": "Niel Tupas, Jr.",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "小尼爾·圖帕斯",
           "note": "multilingual"
         }
       ],
@@ -9527,6 +12266,21 @@
       "sources": [
         {
           "url": "http://www.congress.gov.ph/members/search.php?id=ty-a"
+        }
+      ]
+    },
+    {
+      "id": "c79eb663-3ee2-449d-b04c-342d5cea435d",
+      "image": "http://www.congress.gov.ph/members/images/16th/delgado-m.jpg",
+      "images": [
+        {
+          "url": "http://www.congress.gov.ph/members/images/16th/delgado-m.jpg"
+        }
+      ],
+      "name": "Ty-Delgado, Mary Elizabeth",
+      "sources": [
+        {
+          "url": "http://www.congress.gov.ph/members/search.php?id=delgado-m"
         }
       ]
     },
@@ -9616,6 +12370,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Isidro_Ungab"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Isidro_Ungab"
         },
@@ -9642,6 +12400,11 @@
         },
         {
           "lang": "fr",
+          "name": "Isidro Ungab",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Isidro Ungab",
           "note": "multilingual"
         },
@@ -9731,6 +12494,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "nl",
+          "name": "Rolando Uy",
+          "note": "multilingual"
+        },
+        {
           "lang": "tl",
           "name": "Rolando Uy",
           "note": "multilingual"
@@ -9743,11 +12511,22 @@
       ]
     },
     {
+      "birth_date": "1981-10-24",
+      "gender": "male",
+      "given_name": "Alfred",
       "id": "3efdaf50-71cd-469d-ba91-6ff5083c8aae",
       "identifiers": [
         {
           "identifier": "vargas-a",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "nm1368756",
+          "scheme": "imdb"
+        },
+        {
+          "identifier": "Q4723556",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.congress.gov.ph/members/images/16th/vargas-a.jpg",
@@ -9756,7 +12535,63 @@
           "url": "http://www.congress.gov.ph/members/images/16th/vargas-a.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Alfred_Vargas"
+        },
+        {
+          "note": "Wikipedia (tl)",
+          "url": "https://tl.wikipedia.org/wiki/Alfred_Vargas"
+        }
+      ],
       "name": "Vargas, Alfredo III D.",
+      "other_names": [
+        {
+          "name": "Alfred Vargas",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Alfred Vargas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Alfred Vargas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Alfred Vargas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Alfred Vargas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Alfred Vargas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Alfred Vargas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Alfred Vargas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tl",
+          "name": "Alfred Vargas",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.congress.gov.ph/members/search.php?id=vargas-a"
@@ -9802,6 +12637,62 @@
       "sources": [
         {
           "url": "http://www.congress.gov.ph/members/search.php?id=velarde-m"
+        }
+      ]
+    },
+    {
+      "birth_date": "1977-11-09",
+      "gender": "male",
+      "given_name": "Allan",
+      "id": "13648d21-4b39-4039-94dc-f8e08bc3efeb",
+      "identifiers": [
+        {
+          "identifier": "Q6678907",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www.congress.gov.ph/members/images/16th/velasco-lord.jpg",
+      "images": [
+        {
+          "url": "http://www.congress.gov.ph/members/images/16th/velasco-lord.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Lord_Allan_Jay_Velasco"
+        }
+      ],
+      "name": "Velasco, Lord Allan Jay Q.",
+      "other_names": [
+        {
+          "name": "Lord Allan Jay Velasco",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Lord Allan Jay Velasco",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Lord Allan Jay Velasco",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Lord Allan Jay Velasco",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Lord Allan Jay Velasco",
+          "note": "multilingual"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.congress.gov.ph/members/search.php?id=velasco-lord"
         }
       ]
     },
@@ -9942,7 +12833,7 @@
         },
         {
           "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Arthur_Yap_(politician)"
+          "url": "https://en.wikipedia.org/wiki/Arthur_C._Yap"
         },
         {
           "note": "Wikipedia (nl)",
@@ -9972,6 +12863,11 @@
         },
         {
           "lang": "fr",
+          "name": "Arthur Yap",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
           "name": "Arthur Yap",
           "note": "multilingual"
         },
@@ -10346,6 +13242,11 @@
     },
     {
       "classification": "party",
+      "id": "party/ating_koop",
+      "name": "ATING KOOP"
+    },
+    {
+      "classification": "party",
       "id": "party/ave",
       "name": "AVE"
     },
@@ -10615,6 +13516,14 @@
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
       "person_id": "12c1918d-2ee7-4a13-bee8-375cf22ff082",
+      "role": "member"
+    },
+    {
+      "area_id": "area/marinduque,_lone_district",
+      "legislative_period_id": "term/16",
+      "on_behalf_of_id": "party/unknown",
+      "organization_id": "legislature",
+      "person_id": "13648d21-4b39-4039-94dc-f8e08bc3efeb",
       "role": "member"
     },
     {
@@ -10957,13 +13866,6 @@
       "role": "member"
     },
     {
-      "legislative_period_id": "term/16",
-      "on_behalf_of_id": "party/unknown",
-      "organization_id": "legislature",
-      "person_id": "3e77805f-cd77-4ca8-beab-70f50115d587",
-      "role": "member"
-    },
-    {
       "area_id": "area/bukidnon,_3rd_district",
       "legislative_period_id": "term/16",
       "on_behalf_of_id": "party/unknown",
@@ -11294,6 +14196,13 @@
       "on_behalf_of_id": "party/abamin",
       "organization_id": "legislature",
       "person_id": "61d133a7-817c-4247-8b6f-6fb5527ea9a2",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/16",
+      "on_behalf_of_id": "party/ating_koop",
+      "organization_id": "legislature",
+      "person_id": "62afaa7f-0c49-4517-bee1-154763e4c417",
       "role": "member"
     },
     {
@@ -11780,6 +14689,14 @@
       "role": "member"
     },
     {
+      "area_id": "area/northern_samar,_1st_district",
+      "legislative_period_id": "term/16",
+      "on_behalf_of_id": "party/unknown",
+      "organization_id": "legislature",
+      "person_id": "96827f5d-b2b1-4771-b6a1-4b6707d7d0af",
+      "role": "member"
+    },
+    {
       "area_id": "area/masbate,_2nd_district",
       "legislative_period_id": "term/16",
       "on_behalf_of_id": "party/unknown",
@@ -12192,6 +15109,14 @@
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
       "person_id": "c625d073-224b-4132-9847-34fa7cd49785",
+      "role": "member"
+    },
+    {
+      "area_id": "area/surigao_del_sur,_1st_district",
+      "legislative_period_id": "term/16",
+      "on_behalf_of_id": "party/unknown",
+      "organization_id": "legislature",
+      "person_id": "c79eb663-3ee2-449d-b04c-342d5cea435d",
       "role": "member"
     },
     {

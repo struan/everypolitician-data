@@ -5,7 +5,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/philippines-house-of-representatives",
-        "query": "SELECT * FROM data"
+        "query": "SELECT * FROM data WHERE name != ''"
       },
       "source": "http://www.congress.gov.ph",
       "type": "membership"
