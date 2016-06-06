@@ -989,6 +989,7 @@
       ],
       "email": "Ali.Ehsassi@parl.gc.ca",
       "gender": "male",
+      "given_name": "Ali",
       "id": "aabed860-eda7-460a-bb83-b2c20f7dcfe6",
       "identifiers": [
         {
@@ -2045,6 +2046,10 @@
         {
           "note": "twitter",
           "url": "https://twitter.com/AndyFillmoreHFX"
+        },
+        {
+          "note": "website",
+          "url": "http://afillmore.liberal.ca"
         }
       ],
       "name": "Andy Fillmore",
@@ -28862,6 +28867,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "eu",
+          "name": "Justin Trudeau",
+          "note": "multilingual"
+        },
+        {
           "lang": "fa",
           "name": "جاستین ترودو",
           "note": "multilingual"
@@ -39912,6 +39922,10 @@
         {
           "note": "twitter",
           "url": "https://twitter.com/DiIorioLiberal"
+        },
+        {
+          "note": "website",
+          "url": "http://ndiiorio.liberal.ca/en"
         }
       ],
       "name": "Nicola Di Iorio",
@@ -54653,6 +54667,10 @@
           "url": "https://en.wikipedia.org/wiki/T._J._Harvey"
         },
         {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Thomas_Harvey"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/TJHarveyLib"
         },
@@ -54670,6 +54688,11 @@
         {
           "lang": "en",
           "name": "T. J. Harvey",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Thomas Harvey",
           "note": "multilingual"
         }
       ],
@@ -56577,6 +56600,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "eu",
+          "name": "Tyrone Benskin",
+          "note": "multilingual"
+        },
+        {
           "lang": "fr",
           "name": "Tyrone Benskin",
           "note": "multilingual"
@@ -57633,6 +57661,7 @@
       ]
     },
     {
+      "birth_date": "1942",
       "contact_details": [
         {
           "type": "email",
