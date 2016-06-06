@@ -10,9 +10,10 @@ class OcdId
   attr_reader :overrides
   attr_reader :area_ids
 
-  def initialize(ocd_ids, overrides)
+  def initialize(ocd_ids, overrides, fuzzy)
     @ocd_ids = ocd_ids
     @overrides = overrides
+    @fuzzy = fuzzy
     @area_ids = {}
   end
 
@@ -36,7 +37,15 @@ class OcdId
   end
 
   def finder(name)
-    fuzzer.find(name.to_s, must_match_at_least_one_word: true)
+    if fuzzy?
+      fuzzer.find(name.to_s, must_match_at_least_one_word: true)
+    else
+      ocd_ids.find { |i| i[:name] == name }
+    end
+  end
+
+  def fuzzy?
+    @fuzzy
   end
 
   def fuzzer
@@ -304,7 +313,7 @@ namespace :merge_sources do
       else
         # Generate IDs from names
         overrides_with_string_keys = Hash[area.overrides.map { |k, v| [k.to_s, v] }]
-        ocd_ids = OcdId.new(area.as_table, overrides_with_string_keys)
+        ocd_ids = OcdId.new(area.as_table, overrides_with_string_keys, area.i(:fuzzy))
 
         merged_rows.select { |r| r[:area_id].nil? }.each do |r|
           area = ocd_ids.from_name(r[:area])
