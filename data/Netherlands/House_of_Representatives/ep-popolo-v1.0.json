@@ -6746,13 +6746,41 @@
       "gender": "male",
       "given_name": "Harm",
       "id": "6828f817-6806-4fb4-b434-a1c148919332",
+      "identifiers": [
+        {
+          "identifier": "Q21479696",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/8346_0.jpg?itok=NPsrsPE8",
       "images": [
         {
           "url": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/8346_0.jpg?itok=NPsrsPE8"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Harm_Brouwer"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Harm_Brouwer_(politicus)"
+        }
+      ],
       "name": "Harm Brouwer",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Harm Brouwer",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Harm Brouwer",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Brouwer, H.",
       "sources": [
         {
@@ -18031,10 +18059,26 @@
       "gender": "male",
       "given_name": "Remco",
       "id": "4a0738c4-1330-447f-b173-fadd7ac602e3",
+      "identifiers": [
+        {
+          "identifier": "Q22927802",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/8352_0.jpg?itok=zdoTZfyh",
       "images": [
         {
           "url": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/8352_0.jpg?itok=zdoTZfyh"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Remco_Bosma"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Remco_Bosma"
         }
       ],
       "name": "Remco Bosma",
@@ -18042,6 +18086,16 @@
         {
           "name": "Remco P G Bosma",
           "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Remco Bosma",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Remco Bosma",
+          "note": "multilingual"
         }
       ],
       "sort_name": "Bosma, R.P.G.",
