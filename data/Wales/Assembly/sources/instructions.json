@@ -1,12 +1,7 @@
 {
   "sources": [
     {
-      "file": "morph/data.csv",
-      "create": {
-        "from": "morph",
-        "scraper": "tmtmtmtm/welsh-assembly",
-        "query": "SELECT * FROM data ORDER BY id"
-      },
+      "file": "manual/official-4.csv",
       "source": "http://www.assembly.wales/",
       "type": "membership"
     },
