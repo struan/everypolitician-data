@@ -2022,17 +2022,23 @@
       ]
     },
     {
+      "birth_date": "1951-10-21",
       "contact_details": [
         {
           "type": "phone",
           "value": "+677 21250"
         }
       ],
+      "gender": "male",
       "id": "d86150c3-6129-42e7-9e4a-219b6f2f8efd",
       "identifiers": [
         {
           "identifier": "964",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q3314404",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.sb/memberfiles/10th_Parliament/memberpics%5CHon_Milner_Tozaka.JPG",
@@ -2041,7 +2047,39 @@
           "url": "http://www.parliament.gov.sb/memberfiles/10th_Parliament/memberpics%5CHon_Milner_Tozaka.JPG"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Milner_Tozaka"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Milner_Tozaka"
+        }
+      ],
       "name": "Milner TOZAKA",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Milner Tozaka",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Milner Tozaka",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Milner Tozaka",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Milner Tozaka",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Tozaka, Hon. Milner",
       "sources": [
         {
