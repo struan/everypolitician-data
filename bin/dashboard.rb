@@ -18,16 +18,36 @@ data = EveryPolitician.countries.map do |c|
   c.legislatures.map do |l|
     popolo = Everypolitician::Popolo.read(l.raw_data[:popolo])
     events = popolo.events
+    terms = events.select { |e| e.classification == 'legislative period' }
+    elections = events.select { |e| e.classification == 'general election' }
+
+    now = DateTime.now.to_date
+    last_build = Time.at(l.lastmod.to_i).to_date
+
+    parties = popolo.organizations.select { |o| o[:classification] == 'party' }.reject { |o| o[:name].downcase == 'unknown' }
+    wd_part = parties.partition { |p| (p[:identifiers] || []).find { |i| i[:scheme] == 'wikidata' } }
+
+    # Whilst we await https://github.com/everypolitician/everypolitician-popolo/pull/29
+    latest_term_start = terms.last.start_date rescue ''
+    # Ignore elections that are in the following year, or later
+    latest_election = elections.map { |e| e.end_date }.compact.sort_by { |d| "#{d}-12-31" }.select { |d| d[0...4].to_i <= now.year }.last rescue ''
 
     {
       posn: (ordering[ c.slug.downcase ] || 999) + 1,
       country: c.name,
       legislature: l.name,
-      lastmod: Time.at(l.lastmod.to_i).to_date.to_s,
+      lastmod: last_build.to_s,
+      ago: (now - last_build).to_i,
       people: popolo.persons.count,
       wikidata: popolo.persons.partition { |p| (p[:identifiers] || []).find { |i| i[:scheme] == 'wikidata' } }.first.count,
-      terms: events.select { |e| e.classification == 'legislative period' }.count,
-      elections: events.select { |e| e.classification == 'general election' }.count,
+      people: popolo.persons.count,
+      wikidata: popolo.persons.partition { |p| (p[:identifiers] || []).find { |i| i[:scheme] == 'wikidata' } }.first.count,
+      parties: parties.count,
+      wd_parties: wd_part.first.count,
+      terms: terms.count,
+      elections: elections.count,
+      latest_term: latest_term_start,
+      latest_election: latest_election,
     }
   end
 end.flatten
