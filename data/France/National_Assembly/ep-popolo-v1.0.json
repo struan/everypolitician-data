@@ -21740,6 +21740,10 @@
         {
           "identifier": "344545",
           "scheme": "assemblee_nationale"
+        },
+        {
+          "identifier": "Q24255086",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www2.assemblee-nationale.fr/static/tribun/14/photos/344545.jpg",
@@ -21750,11 +21754,30 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Éric_Elkouby"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Éric_Elkouby"
+        },
+        {
           "note": "website",
           "url": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA344545"
         }
       ],
       "name": "Eric Elkouby",
+      "other_names": [
+        {
+          "name": "Éric Elkouby",
+          "note": "alternate"
+        },
+        {
+          "lang": "fr",
+          "name": "Éric Elkouby",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.nosdeputes.fr/eric-elkouby/json"
@@ -54264,14 +54287,100 @@
     },
     {
       "birth_date": "1945-03-20",
+      "gender": "male",
+      "given_name": "Louis",
       "id": "363d09b4-fdfa-476e-bf83-1d0068f4095a",
+      "identifiers": [
+        {
+          "identifier": "124725",
+          "scheme": "europarlmep"
+        },
+        {
+          "identifier": "10729",
+          "scheme": "sycomore"
+        },
+        {
+          "identifier": "Q3260652",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assemblee-nationale.fr/13/tribun/photos/268031.jpg",
       "images": [
         {
           "url": "http://www.assemblee-nationale.fr/13/tribun/photos/268031.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Louis-Joseph_Manscour"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Louis-Joseph_Manscour"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Louis-Joseph_Manscour"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Louis-Joseph_Manscour"
+        }
+      ],
       "name": "Louis-Joseph MANSCOUR",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Louis-Joseph Manscour",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Louis-Joseph Manscour",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Louis-Joseph Manscour",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Louis-Joseph Manscour",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Louis-Joseph Manscour",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Louis-Joseph Manscour",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Louis-Joseph Manscour",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Louis-Joseph Manscour",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Louis-Joseph Manscour",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Louis-Joseph Manscour",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.assemblee-nationale.fr/sycomore/fiche.asp?num_dept=10729"
@@ -59583,6 +59692,10 @@
         {
           "identifier": "713448",
           "scheme": "assemblee_nationale"
+        },
+        {
+          "identifier": "Q20991576",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www2.assemblee-nationale.fr/static/tribun/14/photos/713448.jpg",
@@ -59593,11 +59706,27 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Marine_Brenier"
+        },
+        {
           "note": "website",
           "url": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA713448"
         }
       ],
       "name": "Marine Brenier",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Marine Brenier",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Marine Brenier",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.nosdeputes.fr/marine-brenier/json"
