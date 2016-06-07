@@ -5,6 +5,7 @@
   "persons": [
     {
       "family_name": "Sınay",
+      "gender": "male",
       "given_name": "Abbas",
       "id": "df615f5e-ab4e-44e4-aeeb-887e5994916a",
       "identifiers": [
@@ -28,7 +29,8 @@
       ]
     },
     {
-      "family_name": "Gulle",
+      "family_name": "Gülle",
+      "gender": "male",
       "given_name": "Ahmet",
       "id": "352bfc03-0adb-439a-a962-5f9b46c7d8f4",
       "identifiers": [
@@ -44,13 +46,7 @@
         }
       ],
       "name": "Ahmet Gülle",
-      "other_names": [
-        {
-          "name": "Ahmet Gulle",
-          "note": "alternate"
-        }
-      ],
-      "sort_name": "Gulle, Ahmet",
+      "sort_name": "Gülle, Ahmet",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/14th_Parliament_of_Northern_Cyprus"
@@ -131,6 +127,7 @@
     },
     {
       "family_name": "Pilli",
+      "gender": "male",
       "given_name": "Ali",
       "id": "cb07e876-aded-41c9-80a6-184afd933fc3",
       "identifiers": [
@@ -155,7 +152,8 @@
     },
     {
       "family_name": "Albayrak",
-      "given_name": "Arıf",
+      "gender": "male",
+      "given_name": "Arif",
       "id": "71216f7f-89ea-4f10-98c4-9e1ade12b1b4",
       "identifiers": [
         {
@@ -170,13 +168,7 @@
         }
       ],
       "name": "Arif Albayrak",
-      "other_names": [
-        {
-          "name": "Arıf Albayrak",
-          "note": "alternate"
-        }
-      ],
-      "sort_name": "Albayrak, Arıf",
+      "sort_name": "Albayrak, Arif",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/14th_Parliament_of_Northern_Cyprus"
@@ -185,6 +177,7 @@
     },
     {
       "family_name": "Candan",
+      "gender": "male",
       "given_name": "Armağan",
       "id": "68443233-3d6c-4467-84a3-1de859c5480a",
       "identifiers": [
@@ -209,6 +202,7 @@
     },
     {
       "family_name": "Akansoy",
+      "gender": "male",
       "given_name": "Asım",
       "id": "4c404f8d-8a14-4432-8270-6afc80a26c27",
       "identifiers": [
@@ -233,6 +227,7 @@
     },
     {
       "family_name": "Hamzaoğulları",
+      "gender": "male",
       "given_name": "Biray",
       "id": "4e4a18e6-165d-4c32-ab44-2664ba15c8ce",
       "identifiers": [
@@ -263,6 +258,7 @@
     },
     {
       "family_name": "Özgür",
+      "gender": "male",
       "given_name": "Birikim",
       "id": "9942719a-8e48-4cc4-894c-c960689bf49a",
       "identifiers": [
@@ -330,6 +326,7 @@
     },
     {
       "family_name": "Oğuz",
+      "gender": "male",
       "given_name": "Dursun",
       "id": "d859c907-9648-4de4-b8e3-315ac02a7a9e",
       "identifiers": [
@@ -354,6 +351,7 @@
     },
     {
       "family_name": "Özcenk",
+      "gender": "male",
       "given_name": "Erdal",
       "id": "62c5a59e-d317-448a-8cd2-bd8b379e2c6c",
       "identifiers": [
@@ -377,7 +375,8 @@
       ]
     },
     {
-      "family_name": "Serdaroglu",
+      "family_name": "Serdaroğlu",
+      "gender": "male",
       "given_name": "Ergün",
       "id": "8bd88db5-c254-4417-99c5-8883ac6c8be8",
       "identifiers": [
@@ -393,13 +392,7 @@
         }
       ],
       "name": "Ergün Serdaroğlu",
-      "other_names": [
-        {
-          "name": "Ergün Serdaroglu",
-          "note": "alternate"
-        }
-      ],
-      "sort_name": "Serdaroglu, Ergün",
+      "sort_name": "Serdaroğlu, Ergün",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/14th_Parliament_of_Northern_Cyprus"
@@ -408,6 +401,7 @@
     },
     {
       "family_name": "Şahali",
+      "gender": "male",
       "given_name": "Erkut",
       "id": "2720afd9-7195-447b-b94d-199ee1d53b8e",
       "identifiers": [
@@ -431,8 +425,6 @@
       ]
     },
     {
-      "family_name": "Saner",
-      "given_name": "H. Ersan",
       "id": "1364d999-3e01-46fb-88fb-c01130903a1e",
       "identifiers": [
         {
@@ -441,13 +433,6 @@
         }
       ],
       "name": "Ersan Saner",
-      "other_names": [
-        {
-          "name": "H. Ersan Saner",
-          "note": "alternate"
-        }
-      ],
-      "sort_name": "Saner, H. Ersan",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/14th_Parliament_of_Northern_Cyprus"
@@ -456,7 +441,8 @@
     },
     {
       "family_name": "Tatar",
-      "given_name": "Ersın",
+      "gender": "male",
+      "given_name": "Ersin",
       "id": "a200a290-ecc2-45cb-b513-dda47b8368d7",
       "identifiers": [
         {
@@ -471,13 +457,7 @@
         }
       ],
       "name": "Ersin Tatar",
-      "other_names": [
-        {
-          "name": "Ersın Tatar",
-          "note": "alternate"
-        }
-      ],
-      "sort_name": "Tatar, Ersın",
+      "sort_name": "Tatar, Ersin",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/14th_Parliament_of_Northern_Cyprus"
@@ -486,6 +466,7 @@
     },
     {
       "family_name": "Sucuoğlu",
+      "gender": "male",
       "given_name": "Faiz",
       "id": "b579c730-8e0a-49f5-bccf-dd380369adf7",
       "identifiers": [
@@ -510,6 +491,7 @@
     },
     {
       "family_name": "Özdenefe",
+      "gender": "female",
       "given_name": "Fazilet",
       "id": "5da30f95-6c72-426f-a4b7-d9d6a5267e26",
       "identifiers": [
@@ -536,7 +518,7 @@
       "birth_date": "1951-03-05",
       "family_name": "Soyer",
       "gender": "male",
-      "given_name": "Ferdı Sabıt",
+      "given_name": "Ferdi Sabit",
       "id": "1d648202-136b-4755-bf0a-d2788cf6824d",
       "identifiers": [
         {
@@ -606,10 +588,6 @@
       ],
       "name": "Ferdi Sabit Soyer",
       "other_names": [
-        {
-          "name": "Ferdı Sabıt Soyer",
-          "note": "alternate"
-        },
         {
           "lang": "ar",
           "name": "فيردي ثابت سوير",
@@ -686,7 +664,7 @@
           "note": "multilingual"
         }
       ],
-      "sort_name": "Soyer, Ferdı Sabıt",
+      "sort_name": "Soyer, Ferdi Sabit",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/14th_Parliament_of_Northern_Cyprus"
@@ -695,6 +673,7 @@
     },
     {
       "family_name": "Ataoğlu",
+      "gender": "male",
       "given_name": "Fikri",
       "id": "1895ee86-c174-4f65-8b88-25565e6df627",
       "identifiers": [
@@ -719,6 +698,7 @@
     },
     {
       "family_name": "Dinçyürek",
+      "gender": "male",
       "given_name": "Hakan",
       "id": "35c6b15e-c034-4145-84f8-52146556c6bb",
       "identifiers": [
@@ -743,6 +723,7 @@
     },
     {
       "family_name": "Bakırcı",
+      "gender": "male",
       "given_name": "Hamit",
       "id": "43bb6876-2891-4065-9c10-2a1c3fae5695",
       "identifiers": [
@@ -767,6 +748,7 @@
     },
     {
       "family_name": "Taçoy",
+      "gender": "male",
       "given_name": "Hasan",
       "id": "3021557f-8eff-436e-ae1a-e6ef4093f051",
       "identifiers": [
@@ -791,6 +773,7 @@
     },
     {
       "family_name": "Alanlı",
+      "gender": "male",
       "given_name": "Hüseyin Avkıran",
       "id": "a364db9a-4755-44c0-8de4-a7bd6d3c125b",
       "identifiers": [
@@ -820,8 +803,9 @@
       ]
     },
     {
-      "family_name": "Angolemlı",
-      "given_name": "Hüseyın",
+      "family_name": "Angolemli",
+      "gender": "male",
+      "given_name": "Hüseyin",
       "id": "98a18a1f-45c8-4e03-a866-8f9873a7ee50",
       "identifiers": [
         {
@@ -836,13 +820,7 @@
         }
       ],
       "name": "Hüseyin Angolemli",
-      "other_names": [
-        {
-          "name": "Hüseyın Angolemlı",
-          "note": "alternate"
-        }
-      ],
-      "sort_name": "Angolemlı, Hüseyın",
+      "sort_name": "Angolemli, Hüseyin",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/14th_Parliament_of_Northern_Cyprus"
@@ -851,6 +829,7 @@
     },
     {
       "family_name": "Erçal",
+      "gender": "male",
       "given_name": "Hüseyin",
       "id": "2c4f7644-0e5a-4539-b4c4-a9fca9d32475",
       "identifiers": [
@@ -877,7 +856,7 @@
       "birth_date": "1965",
       "family_name": "Özgürgün",
       "gender": "male",
-      "given_name": "Hüseyın",
+      "given_name": "Hüseyin",
       "id": "a4aeb542-a0b4-4b5c-ada7-85e38f4dba69",
       "identifiers": [
         {
@@ -931,10 +910,6 @@
       ],
       "name": "Hüseyin Özgürgün",
       "other_names": [
-        {
-          "name": "Hüseyın Özgürgün",
-          "note": "alternate"
-        },
         {
           "lang": "ca",
           "name": "Hüseyin Özgürgün",
@@ -1001,7 +976,7 @@
           "note": "multilingual"
         }
       ],
-      "sort_name": "Özgürgün, Hüseyın",
+      "sort_name": "Özgürgün, Hüseyin",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/14th_Parliament_of_Northern_Cyprus"
@@ -1010,6 +985,7 @@
     },
     {
       "family_name": "Dürüst",
+      "gender": "male",
       "given_name": "Kemal",
       "id": "51a278e5-55dd-4986-99bc-01dbca7456d0",
       "identifiers": [
@@ -1034,6 +1010,7 @@
     },
     {
       "family_name": "Evren",
+      "gender": "male",
       "given_name": "Kutlu",
       "id": "b7451bfe-1902-45ba-851d-15ad508fcae0",
       "identifiers": [
@@ -1114,7 +1091,8 @@
       ]
     },
     {
-      "family_name": "Çaglar",
+      "family_name": "Çağlar",
+      "gender": "male",
       "given_name": "Mehmet",
       "id": "dc5508f8-ee51-4431-9b26-8f1004643c53",
       "identifiers": [
@@ -1130,13 +1108,7 @@
         }
       ],
       "name": "Mehmet Çağlar",
-      "other_names": [
-        {
-          "name": "Mehmet Çaglar",
-          "note": "alternate"
-        }
-      ],
-      "sort_name": "Çaglar, Mehmet",
+      "sort_name": "Çağlar, Mehmet",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/14th_Parliament_of_Northern_Cyprus"
@@ -1145,6 +1117,7 @@
     },
     {
       "family_name": "Gündüz",
+      "gender": "male",
       "given_name": "Menteş",
       "id": "19968619-2ee0-425a-86ed-fa0642a5e9c8",
       "identifiers": [
@@ -1168,7 +1141,8 @@
       ]
     },
     {
-      "family_name": "Arabacıoglu",
+      "family_name": "Arabacıoğlu",
+      "gender": "male",
       "given_name": "Mustafa",
       "id": "81051fa1-7636-45a4-bdc6-d5c39f16680d",
       "identifiers": [
@@ -1184,13 +1158,7 @@
         }
       ],
       "name": "Mustafa Arabacıoğlu",
-      "other_names": [
-        {
-          "name": "Mustafa Arabacıoglu",
-          "note": "alternate"
-        }
-      ],
-      "sort_name": "Arabacıoglu, Mustafa",
+      "sort_name": "Arabacıoğlu, Mustafa",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/14th_Parliament_of_Northern_Cyprus"
@@ -1198,7 +1166,8 @@
       ]
     },
     {
-      "family_name": "Çavusoglu",
+      "family_name": "Çavuşoğlu",
+      "gender": "male",
       "given_name": "Nazım",
       "id": "395cdea1-9c25-4de4-8dd4-72bd85248149",
       "identifiers": [
@@ -1214,13 +1183,7 @@
         }
       ],
       "name": "Nazım Çavuşoğlu",
-      "other_names": [
-        {
-          "name": "Nazım Çavusoglu",
-          "note": "alternate"
-        }
-      ],
-      "sort_name": "Çavusoglu, Nazım",
+      "sort_name": "Çavuşoğlu, Nazım",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/14th_Parliament_of_Northern_Cyprus"
@@ -1228,8 +1191,9 @@
       ]
     },
     {
-      "family_name": "Izbul",
-      "given_name": "Salıh",
+      "family_name": "İzbul",
+      "gender": "male",
+      "given_name": "Salih",
       "id": "0c924477-cd63-4d79-8907-782529fe1b42",
       "identifiers": [
         {
@@ -1244,13 +1208,7 @@
         }
       ],
       "name": "Salih İzbul",
-      "other_names": [
-        {
-          "name": "Salıh Izbul",
-          "note": "alternate"
-        }
-      ],
-      "sort_name": "Izbul, Salıh",
+      "sort_name": "İzbul, Salih",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/14th_Parliament_of_Northern_Cyprus"
@@ -1259,7 +1217,7 @@
     },
     {
       "birth_date": "1959",
-      "family_name": "Denktas",
+      "family_name": "Denktaş",
       "gender": "male",
       "given_name": "Serdar",
       "id": "c75ea822-8a37-4de4-a9e0-fccc3103d8b2",
@@ -1296,10 +1254,6 @@
       "name": "Serdar Denktaş",
       "other_names": [
         {
-          "name": "Serdar Denktas",
-          "note": "alternate"
-        },
-        {
           "lang": "de",
           "name": "Serdar Denktaş",
           "note": "multilingual"
@@ -1335,7 +1289,7 @@
           "note": "multilingual"
         }
       ],
-      "sort_name": "Denktas, Serdar",
+      "sort_name": "Denktaş, Serdar",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/14th_Parliament_of_Northern_Cyprus"
@@ -1344,9 +1298,9 @@
     },
     {
       "birth_date": "1960",
-      "family_name": "Sıber",
+      "family_name": "Siber",
       "gender": "female",
-      "given_name": "Sıbel",
+      "given_name": "Sibel",
       "id": "9557053a-35fa-4c8c-a965-d36fe8c5305d",
       "identifiers": [
         {
@@ -1396,10 +1350,6 @@
       ],
       "name": "Sibel Siber",
       "other_names": [
-        {
-          "name": "Sıbel Sıber",
-          "note": "alternate"
-        },
         {
           "lang": "de",
           "name": "Sibel Siber",
@@ -1451,7 +1401,7 @@
           "note": "multilingual"
         }
       ],
-      "sort_name": "Sıber, Sıbel",
+      "sort_name": "Siber, Sibel",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/14th_Parliament_of_Northern_Cyprus"
@@ -1460,6 +1410,7 @@
     },
     {
       "family_name": "Atun",
+      "gender": "male",
       "given_name": "Sunat",
       "id": "803c2919-9cb2-49c9-b7e4-26beccaa53e4",
       "identifiers": [
@@ -1484,9 +1435,9 @@
     },
     {
       "birth_date": "1953",
-      "family_name": "Ertugruloglu",
+      "family_name": "Ertuğruloğlu",
       "gender": "male",
-      "given_name": "Tahsın",
+      "given_name": "Tahsin",
       "id": "c77b7f65-8c97-4b70-93cb-b7c0c88221d8",
       "identifiers": [
         {
@@ -1521,10 +1472,6 @@
       "name": "Tahsin Ertuğruloğlu",
       "other_names": [
         {
-          "name": "Tahsın Ertugruloglu",
-          "note": "alternate"
-        },
-        {
           "lang": "de",
           "name": "Tahsin Ertuğruloğlu",
           "note": "multilingual"
@@ -1555,7 +1502,7 @@
           "note": "multilingual"
         }
       ],
-      "sort_name": "Ertugruloglu, Tahsın",
+      "sort_name": "Ertuğruloğlu, Tahsin",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/14th_Parliament_of_Northern_Cyprus"
@@ -1564,6 +1511,7 @@
     },
     {
       "family_name": "Uluçay",
+      "gender": "male",
       "given_name": "Teberrüken",
       "id": "72205af3-e63a-400d-90bd-ab6274c2cce8",
       "identifiers": [
@@ -1588,6 +1536,7 @@
     },
     {
       "family_name": "Erhürman",
+      "gender": "male",
       "given_name": "Tufan",
       "id": "01b736c9-bba7-48d7-add9-760ecaed6b03",
       "identifiers": [
@@ -1655,6 +1604,7 @@
     },
     {
       "family_name": "Töre",
+      "gender": "male",
       "given_name": "Zorlu",
       "id": "e83cb2f4-2af8-4182-9e53-1cb64d81393a",
       "identifiers": [
@@ -1679,7 +1629,6 @@
     },
     {
       "birth_date": "1950",
-      "family_name": "Kalyoncu",
       "gender": "male",
       "given_name": "Ömer",
       "id": "776882ca-48d3-4520-bd31-e7734107bd7c",
@@ -1691,12 +1640,6 @@
         {
           "identifier": "Q20669153",
           "scheme": "wikidata"
-        }
-      ],
-      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/omer-kalyoncu.jpg",
-      "images": [
-        {
-          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/omer-kalyoncu.jpg"
         }
       ],
       "links": [
@@ -2108,7 +2051,6 @@
           "note": "multilingual"
         }
       ],
-      "sort_name": "Kalyoncu, Ömer",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/14th_Parliament_of_Northern_Cyprus"
@@ -2117,7 +2059,8 @@
     },
     {
       "family_name": "Sennaroğlu",
-      "given_name": "Onder",
+      "gender": "male",
+      "given_name": "Önder",
       "id": "e368e7cb-dd11-43d9-a52d-ac21a37658c3",
       "identifiers": [
         {
@@ -2132,13 +2075,7 @@
         }
       ],
       "name": "Önder Sennaroğlu",
-      "other_names": [
-        {
-          "name": "Onder Sennaroğlu",
-          "note": "alternate"
-        }
-      ],
-      "sort_name": "Sennaroğlu, Onder",
+      "sort_name": "Sennaroğlu, Önder",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/14th_Parliament_of_Northern_Cyprus"
@@ -2147,6 +2084,7 @@
     },
     {
       "family_name": "Berova",
+      "gender": "male",
       "given_name": "Özdemir",
       "id": "be3a64ec-3edb-428c-abed-bbf1b4e22539",
       "identifiers": [
@@ -2171,9 +2109,9 @@
     },
     {
       "birth_date": "1967-05-23",
-      "family_name": "Namı",
+      "family_name": "Nami",
       "gender": "male",
-      "given_name": "Özdıl",
+      "given_name": "Özdil",
       "id": "e37cf9e6-4c47-4797-b88e-cda95cf640f4",
       "identifiers": [
         {
@@ -2204,10 +2142,6 @@
       "name": "Özdil Nami",
       "other_names": [
         {
-          "name": "Özdıl Namı",
-          "note": "alternate"
-        },
-        {
           "lang": "en",
           "name": "Özdil Nami",
           "note": "multilingual"
@@ -2223,7 +2157,7 @@
           "note": "multilingual"
         }
       ],
-      "sort_name": "Namı, Özdıl",
+      "sort_name": "Nami, Özdil",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/14th_Parliament_of_Northern_Cyprus"
@@ -2232,7 +2166,7 @@
     },
     {
       "birth_date": "1954",
-      "family_name": "Yorgancıoglu",
+      "family_name": "Yorgancıoğlu",
       "gender": "male",
       "given_name": "Özkan",
       "id": "2b552d58-41f1-42e0-8fc2-1c96b43686fa",
@@ -2280,10 +2214,6 @@
       ],
       "name": "Özkan Yorgancıoğlu",
       "other_names": [
-        {
-          "name": "Özkan Yorgancıoglu",
-          "note": "alternate"
-        },
         {
           "lang": "de",
           "name": "Özkan Yorgancıoğlu",
@@ -2335,7 +2265,7 @@
           "note": "multilingual"
         }
       ],
-      "sort_name": "Yorgancıoglu, Özkan",
+      "sort_name": "Yorgancıoğlu, Özkan",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/14th_Parliament_of_Northern_Cyprus"
@@ -2344,6 +2274,7 @@
     },
     {
       "family_name": "Üstel",
+      "gender": "male",
       "given_name": "Ünal",
       "id": "2f78e5fd-b525-4148-8de9-d4d2eaf3fafd",
       "identifiers": [
@@ -2368,6 +2299,7 @@
     },
     {
       "family_name": "Gürçağ",
+      "gender": "female",
       "given_name": "İzlem",
       "id": "19897153-f032-4bc9-9a14-5ad6c7d8ed18",
       "identifiers": [
@@ -3089,9 +3021,9 @@
     {
       "classification": "legislative period",
       "id": "term/14",
-      "name": "14th Parliament",
+      "name": "8th Parliament",
       "organization_id": "legislature",
-      "start_date": "2013"
+      "start_date": "2013-08-12"
     }
   ],
   "areas": [
