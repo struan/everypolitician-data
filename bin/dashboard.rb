@@ -18,16 +18,27 @@ data = EveryPolitician.countries.map do |c|
   c.legislatures.map do |l|
     popolo = Everypolitician::Popolo.read(l.raw_data[:popolo])
     events = popolo.events
+    terms = events.select { |e| e.classification == 'legislative period' }
+    elections = events.select { |e| e.classification == 'general election' }
+
+    # Whilst we await https://github.com/everypolitician/everypolitician-popolo/pull/29
+    latest_term_start = terms.last.start_date rescue ''
+    latest_election = elections.last.end_date rescue ''
+
+    last_build = Time.at(l.lastmod.to_i).to_date
 
     {
       posn: (ordering[ c.slug.downcase ] || 999) + 1,
       country: c.name,
       legislature: l.name,
-      lastmod: Time.at(l.lastmod.to_i).to_date.to_s,
+      lastmod: last_build.to_s,
+      ago: (DateTime.now.to_date - last_build).to_i,
       people: popolo.persons.count,
       wikidata: popolo.persons.partition { |p| (p[:identifiers] || []).find { |i| i[:scheme] == 'wikidata' } }.first.count,
-      terms: events.select { |e| e.classification == 'legislative period' }.count,
-      elections: events.select { |e| e.classification == 'general election' }.count,
+      terms: terms.count,
+      elections: elections.count,
+      latest_term: latest_term_start,
+      latest_election: latest_election,
     }
   end
 end.flatten
