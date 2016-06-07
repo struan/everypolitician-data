@@ -5,7 +5,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/turks-and-caicos-assembly",
-        "query": "SELECT *, REPLACE(LOWER(name),' ','_') AS id FROM data"
+        "query": "SELECT *, REPLACE(LOWER(name),' ','_') AS id FROM data ORDER BY name"
       },
       "source": "http://www.gov.tc/",
       "type": "membership"
@@ -15,7 +15,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/turks-and-caicos-assembly-wikipedia",
-        "query": "SELECT *, REPLACE(LOWER(name),' ','_') AS id FROM data"
+        "query": "SELECT *, REPLACE(LOWER(name),' ','_') AS id FROM data ORDER BY name"
       },
       "merge": {
         "incoming_field": "name",
@@ -30,7 +30,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/turks-and-caicos-assembly-wikidata",
-        "query": "SELECT * FROM data"
+        "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "http://wikidata.org/",
       "type": "wikidata",
@@ -62,6 +62,14 @@
       "create": {
         "from": "group-wikidata",
         "source": "manual/group_wikidata.csv"
+      }
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "create": {
+        "from": "election-wikidata",
+        "base": "Q24384357"
       }
     }
   ]
