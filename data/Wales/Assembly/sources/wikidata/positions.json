@@ -67,6 +67,13 @@
       "title": "Member of the National Assembly for Wales"
     }
   ],
+  "Q575027": [
+    {
+      "id": "Q16707842",
+      "label": "Member of Parliament in the United Kingdom",
+      "title": "Member of Parliament in the United Kingdom"
+    }
+  ],
   "Q6308404": [
     {
       "id": "Q16707842",
@@ -178,6 +185,13 @@
       "id": "Q3406079",
       "label": "Member of the National Assembly for Wales",
       "title": "Member of the National Assembly for Wales"
+    }
+  ],
+  "Q16945593": [
+    {
+      "id": "Q27169",
+      "label": "member of the European Parliament",
+      "title": "member of the European Parliament"
     }
   ],
   "Q6297656": [
@@ -326,6 +340,18 @@
       "title": "Member of the National Assembly for Wales"
     }
   ],
+  "Q336521": [
+    {
+      "id": "Q27169",
+      "label": "member of the European Parliament",
+      "title": "member of the European Parliament"
+    },
+    {
+      "id": "Q18952564",
+      "label": "Member of the House of Lords",
+      "title": "Member of the House of Lords"
+    }
+  ],
   "Q3404581": [
     {
       "id": "Q3406079",
@@ -438,6 +464,30 @@
       "title": "Member of the National Assembly for Wales"
     }
   ],
+  "Q3337819": [
+    {
+      "id": "Q16707842",
+      "label": "Member of Parliament in the United Kingdom",
+      "title": "Member of Parliament in the United Kingdom",
+      "qualifiers": {
+        "P580": "1983-06-09",
+        "P582": "1997-05-01",
+        "P1366": "Martin Bell",
+        "P768": "Tatton"
+      }
+    },
+    {
+      "id": "Q3858507",
+      "label": "Secretary of State for Business, Innovation and Skills",
+      "title": "Secretary of State for Business, Innovation and Skills",
+      "qualifiers": {
+        "P580": "1992-04-14",
+        "P582": "1994-10-25",
+        "P1365": "Hugh Mackay, 14th Lord Reay",
+        "P1366": "Jonathan Evans"
+      }
+    }
+  ],
   "Q5004338": [
     {
       "id": "Q3406079",
@@ -531,6 +581,25 @@
       "title": "Member of the National Assembly for Wales"
     }
   ],
+  "Q691388": [
+    {
+      "id": "Q3044721",
+      "label": "Department for Environment, Food and Rural Affairs",
+      "title": "Department for Environment, Food and Rural Affairs",
+      "qualifiers": {
+        "P580": "2010-10-11"
+      }
+    },
+    {
+      "id": "Q16707842",
+      "label": "Member of Parliament in the United Kingdom",
+      "title": "Member of Parliament in the United Kingdom",
+      "qualifiers": {
+        "P580": "2002-02-14",
+        "P1365": "Ray Powell"
+      }
+    }
+  ],
   "Q6552839": [
     {
       "id": "Q3406079",
@@ -543,6 +612,19 @@
       "id": "Q3406079",
       "label": "Member of the National Assembly for Wales",
       "title": "Member of the National Assembly for Wales"
+    }
+  ],
+  "Q3405033": [
+    {
+      "id": "Q16707842",
+      "label": "Member of Parliament in the United Kingdom",
+      "title": "Member of Parliament in the United Kingdom",
+      "qualifiers": {
+        "P580": "2001-06-09",
+        "P582": "2010-04-12",
+        "P1365": "Alan Wynne Williams",
+        "P1366": "Jonathan Edwards"
+      }
     }
   ],
   "Q7651414": [
@@ -588,6 +670,23 @@
     }
   ],
   "Q16191105": [
+    {
+      "id": "Q3406079",
+      "label": "Member of the National Assembly for Wales",
+      "title": "Member of the National Assembly for Wales"
+    }
+  ],
+  "Q5236695": [
+    {
+      "id": "Q20857696",
+      "label": "Member of the National Assembly for Wales",
+      "title": "Member of the National Assembly for Wales",
+      "qualifiers": {
+        "P768": "South Wales West",
+        "P580": "1999-05-06",
+        "P582": "2011-03-30"
+      }
+    },
     {
       "id": "Q3406079",
       "label": "Member of the National Assembly for Wales",
