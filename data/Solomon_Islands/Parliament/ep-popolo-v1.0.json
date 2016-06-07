@@ -180,6 +180,11 @@
           "lang": "fr",
           "name": "Braddley Tovosia",
           "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Braddley Tovosia",
+          "note": "multilingual"
         }
       ],
       "sort_name": "Tovosia, Hon. Bradley",
@@ -235,6 +240,16 @@
         },
         {
           "lang": "en",
+          "name": "Charles Sigoto",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Charles Sigoto",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Charles Sigoto",
           "note": "multilingual"
         },
@@ -328,6 +343,11 @@
         },
         {
           "lang": "en",
+          "name": "Commins Mewa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Commins Mewa",
           "note": "multilingual"
         },
@@ -673,6 +693,11 @@
         },
         {
           "lang": "it",
+          "name": "David Pacha",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "David Pacha",
           "note": "multilingual"
         }
@@ -1066,6 +1091,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "nl",
+          "name": "Dickson Mua",
+          "note": "multilingual"
+        },
+        {
           "lang": "pl",
           "name": "Dickson Mua Panakitasi",
           "note": "multilingual"
@@ -1235,6 +1265,11 @@
         },
         {
           "lang": "fr",
+          "name": "Elijah Doro Muala",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Elijah Doro Muala",
           "note": "multilingual"
         },
@@ -1767,6 +1802,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ja",
+          "name": "マナセ・ダムカナ・ソガバレ",
+          "note": "multilingual"
+        },
+        {
           "lang": "nb",
           "name": "Manasseh Sogavare",
           "note": "multilingual"
@@ -1997,7 +2037,7 @@
           "scheme": "everypolitician_legacy"
         },
         {
-          "identifier": "Q6860185",
+          "identifier": "Q3314404",
           "scheme": "wikidata"
         }
       ],
@@ -2010,28 +2050,33 @@
       "links": [
         {
           "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Milna_Tozaka"
+          "url": "https://en.wikipedia.org/wiki/Milner_Tozaka"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Milner_Tozaka"
         }
       ],
       "name": "Milner TOZAKA",
       "other_names": [
         {
-          "name": "Milna Tozaka",
-          "note": "alternate"
-        },
-        {
           "lang": "de",
-          "name": "Milna Tozaka",
+          "name": "Milner Tozaka",
           "note": "multilingual"
         },
         {
           "lang": "en",
-          "name": "Milna Tozaka",
+          "name": "Milner Tozaka",
           "note": "multilingual"
         },
         {
           "lang": "fr",
-          "name": "Milna Tozaka",
+          "name": "Milner Tozaka",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Milner Tozaka",
           "note": "multilingual"
         }
       ],
@@ -2241,6 +2286,11 @@
         },
         {
           "lang": "en",
+          "name": "Peter Shannel Agovaka",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
           "name": "Peter Shannel Agovaka",
           "note": "multilingual"
         },
@@ -3080,6 +3130,16 @@
           "lang": "en",
           "name": "Democratic Alliance Party",
           "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "民主聯盟黨 (索羅門群島)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "民主聯盟黨 (所羅門群島)",
+          "note": "multilingual"
         }
       ]
     },
@@ -3377,6 +3437,11 @@
         {
           "lang": "la",
           "name": "Politicus nullius factionis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nan",
+          "name": "Bû-tóng-che̍k",
           "note": "multilingual"
         },
         {
@@ -3720,6 +3785,16 @@
           "note": "multilingual"
         },
         {
+          "lang": "zh-hant",
+          "name": "人民聯盟黨 (索羅門群島)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "人民聯盟黨 (所羅門群島)",
+          "note": "multilingual"
+        },
+        {
           "lang": "es",
           "name": "Alianza del Pueblo (Islas Salomon)",
           "note": "multilingual"
@@ -3740,6 +3815,16 @@
         {
           "lang": "en",
           "name": "Solomon Islands Party for Rural Advancement",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "索羅門群島農村發展黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "所羅門群島農村發展黨",
           "note": "multilingual"
         },
         {
@@ -4171,11 +4256,109 @@
   ],
   "events": [
     {
+      "classification": "general election",
+      "end_date": "1964",
+      "id": "Q18379170",
+      "name": "Solomon Islands general election, 1964",
+      "start_date": "1964"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1967",
+      "id": "Q18392140",
+      "name": "Solomon Islands general election, 1967",
+      "start_date": "1967"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1970",
+      "id": "Q18379172",
+      "name": "Solomon Islands general election, 1970",
+      "start_date": "1970"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1973-05",
+      "id": "Q18379176",
+      "name": "Solomon Islands general election, 1973",
+      "start_date": "1973-05"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1976",
+      "id": "Q7558660",
+      "name": "Solomon Islands general election, 1976",
+      "start_date": "1976"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1980-08-06",
+      "id": "Q7558661",
+      "name": "Solomon Islands general election, 1980",
+      "start_date": "1980-08-06"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1984-10-24",
+      "id": "Q7558662",
+      "name": "Solomon Islands general election, 1984",
+      "start_date": "1984-10-24"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1989-02-22",
+      "id": "Q7558663",
+      "name": "Solomon Islands general election, 1989",
+      "start_date": "1989-02-22"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1993-05-26",
+      "id": "Q7558665",
+      "name": "Solomon Islands general election, 1993",
+      "start_date": "1993-05-26"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1997-08-06",
+      "id": "Q7558664",
+      "name": "Solomon Islands general election, 1997",
+      "start_date": "1997-08-06"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2001-12-05",
+      "id": "Q7558666",
+      "name": "Solomon Islands general election, 2001",
+      "start_date": "2001-12-05"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2006-04-05",
+      "id": "Q7558667",
+      "name": "Solomon Islands general election, 2006",
+      "start_date": "2006-04-05"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2010-08-04",
+      "id": "Q7558672",
+      "name": "Solomon Islands general election, 2010",
+      "start_date": "2010-08-04"
+    },
+    {
       "classification": "legislative period",
       "id": "term/10",
       "name": "10th Parliament",
       "organization_id": "legislature",
       "start_date": "2014"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2014-11-19",
+      "id": "Q16684628",
+      "name": "Solomon Islands general election, 2014",
+      "start_date": "2014-11-19"
     }
   ],
   "areas": [
