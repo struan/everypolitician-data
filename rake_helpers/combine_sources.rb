@@ -313,7 +313,8 @@ namespace :merge_sources do
       else
         # Generate IDs from names
         overrides_with_string_keys = Hash[area.overrides.map { |k, v| [k.to_s, v] }]
-        ocd_ids = OcdId.new(area.as_table, overrides_with_string_keys, area.i(:fuzzy))
+        fuzzy = (area.merge_instructions.first || {})[:fuzzy]
+        ocd_ids = OcdId.new(area.as_table, overrides_with_string_keys, fuzzy)
 
         merged_rows.select { |r| r[:area_id].nil? }.each do |r|
           area = ocd_ids.from_name(r[:area])
