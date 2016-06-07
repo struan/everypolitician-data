@@ -2089,6 +2089,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "hu",
+          "name": "Joe Cassar",
+          "note": "multilingual"
+        },
+        {
           "lang": "nl",
           "name": "Joe Cassar",
           "note": "multilingual"
@@ -3837,6 +3842,7 @@
       ]
     },
     {
+      "birth_date": "1985-05-21",
       "contact_details": [
         {
           "type": "email",
@@ -3850,6 +3856,10 @@
         {
           "identifier": "schembri-silvio",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q23881652",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parlament.mt/file.aspx?f=35979",
@@ -3858,7 +3868,20 @@
           "url": "http://www.parlament.mt/file.aspx?f=35979"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Silvio_Schembri"
+        }
+      ],
       "name": "Silvio Schembri",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Silvio Schembri",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.parlament.mt/schembri-silvio"
