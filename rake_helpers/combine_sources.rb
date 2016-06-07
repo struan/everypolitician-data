@@ -5,6 +5,54 @@ require_relative '../lib/reconciliation'
 require_relative '../lib/remotesource'
 require_relative '../lib/source'
 
+class OcdId
+  attr_reader :ocd_ids
+  attr_reader :overrides
+  attr_reader :area_ids
+
+  def initialize(ocd_ids, overrides, fuzzy)
+    @ocd_ids = ocd_ids
+    @overrides = overrides
+    @fuzzy = fuzzy
+    @area_ids = {}
+  end
+
+  def from_name(name)
+    area_ids[name] ||= area_id_from_name(name)
+  end
+
+  private
+
+  def area_id_from_name(name)
+    area = override(name) || finder(name)
+    return if area.nil?
+    warn "  Matched Area %s to %s" % [ name.yellow, area[:name].to_s.green ] unless area[:name].include? " #{name} "
+    area[:id]
+  end
+
+  def override(name)
+    override_id = overrides[name]
+    return if override_id.nil?
+    { name: name, id: override_id }
+  end
+
+  def finder(name)
+    if fuzzy?
+      fuzzer.find(name.to_s, must_match_at_least_one_word: true)
+    else
+      ocd_ids.find { |i| i[:name] == name }
+    end
+  end
+
+  def fuzzy?
+    @fuzzy
+  end
+
+  def fuzzer
+    @fuzzer ||= FuzzyMatch.new(ocd_ids, read: :name)
+  end
+end
+
 class String
   def tidy
     self.gsub(/[[:space:]]+/, ' ').strip
@@ -264,35 +312,19 @@ namespace :merge_sources do
 
       else
         # Generate IDs from names
-        # So far only tested with Australia, so super-simple logic.
-        # TOOD: Expand this later
+        overrides_with_string_keys = Hash[area.overrides.map { |k, v| [k.to_s, v] }]
+        fuzzy = (area.merge_instructions.first || {})[:fuzzy]
+        ocd_ids = OcdId.new(area.as_table, overrides_with_string_keys, fuzzy)
 
-        fuzzer = FuzzyMatch.new(ocds.values.flatten(1), read: :name)
-        finder = ->(r) { fuzzer.find(r[:area], must_match_at_least_one_word: true) }
-
-        overrides = area.overrides
-        override = ->(name) {
-          return unless override_id = overrides[name.to_sym]
-          return '' if override_id.empty?
-          binding.pry
-          # FIXME look up in Hash instead
-          # ocds.find { |o| o[:id] == override_id } or raise "no match for #{override_id}"
-        }
-
-        areas = {}
-        merged_rows.each do |r|
-          raise "existing Area ID: #{r[:area_id]}" if r.key? :area_id
-          unless areas.key? r[:area]
-            areas[r[:area]] = override.(r[:area]) || finder.(r)
-            if areas[r[:area]].to_s.empty?
-              warn "  No area match for #{r[:area]}"
-            else
-              warn "  Matched Area %s to %s" % [ r[:area].to_s.yellow, areas[r[:area]][:name].to_s.green ] unless areas[r[:area]][:name].include? " #{r[:area]} "
-            end
+        merged_rows.select { |r| r[:area_id].nil? }.each do |r|
+          area = ocd_ids.from_name(r[:area])
+          if area.nil?
+            warn_once "  No area match for #{r[:area]}"
+            next
           end
-          next if areas[r[:area]].to_s.empty?
-          r[:area_id] = areas[r[:area]][:id]
+          r[:area_id] = area
         end
+        output_warnings('Unmatched areas')
       end
     end
 

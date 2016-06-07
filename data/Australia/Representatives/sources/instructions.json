@@ -65,7 +65,8 @@
         "overrides": {
           "Fraser, Australian Capital Territory": "ocd-division/country:au/territory:act/federal_electorate:fraser",
           "Northern Territory": ""
-        }
+        },
+        "fuzzy": true
       },
       "type": "ocd"
     },
