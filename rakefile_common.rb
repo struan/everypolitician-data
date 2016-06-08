@@ -21,6 +21,9 @@
 # Step 5: generate_final_csvs
 # Generates term-by-term CSVs from the ep-popolo
 
+# Step 6: generate_stats
+# Generates statistics about the data we have
+
 require 'colorize'
 require 'csv'
 require 'csv_to_popolo'
@@ -188,11 +191,12 @@ end
 
 desc "Rebuild from source data"
 task :rebuild => [ :clobber, 'ep-popolo-v1.0.json' ]
-task :default => :csvs
+task :default => [ :csvs, 'stats:regenerate' ]
 
 require_relative 'rake_helpers/combine_sources.rb'
 require_relative 'rake_helpers/verify_source_data.rb'
 require_relative 'rake_helpers/turn_csv_to_popolo.rb'
 require_relative 'rake_helpers/generate_ep_popolo.rb'
 require_relative 'rake_helpers/generate_final_csvs.rb'
+require_relative 'rake_helpers/generate_stats.rb'
 
