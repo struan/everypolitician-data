@@ -31,6 +31,14 @@
         "from": "gender-balance",
         "source": "Burkina-Faso/Assembly"
       }
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "create": {
+        "from": "election-wikidata",
+        "base": "Q22342947"
+      }
     }
   ]
 }
