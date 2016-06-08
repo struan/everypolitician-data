@@ -1,4 +1,7 @@
 {
+  "posts": [
+
+  ],
   "persons": [
     {
       "gender": "male",
@@ -8921,11 +8924,60 @@
   ],
   "events": [
     {
+      "classification": "general election",
+      "end_date": "1985",
+      "id": "Q8072087",
+      "name": "Zimbabwean parliamentary election, 1985",
+      "start_date": "1985"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1990-03-23",
+      "id": "Q8072084",
+      "name": "Zimbabwean general election, 1990",
+      "start_date": "1990-03-23"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1995",
+      "id": "Q8072088",
+      "name": "Zimbabwean parliamentary election, 1995",
+      "start_date": "1995"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2000",
+      "id": "Q8072089",
+      "name": "Zimbabwean parliamentary election, 2000",
+      "start_date": "2000"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2005-03-31",
+      "id": "Q8072090",
+      "name": "Zimbabwean parliamentary election, 2005",
+      "start_date": "2005-03-31"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2008",
+      "id": "Q1154365",
+      "name": "Zimbabwean presidential election, 2008",
+      "start_date": "2008"
+    },
+    {
       "classification": "legislative period",
       "id": "term/8",
       "name": "8th Parliament",
       "organization_id": "legislature",
       "start_date": "2013"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2013-07-31",
+      "id": "Q3586644",
+      "name": "Zimbabwean presidential election, 2013",
+      "start_date": "2013-07-31"
     }
   ],
   "areas": [
