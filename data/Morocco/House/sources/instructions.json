@@ -21,6 +21,14 @@
         "from": "gender-balance",
         "source": "Morocco/House"
       }
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "create": {
+        "from": "election-wikidata",
+        "base": "Q22342153"
+      }
     }
   ]
 }
