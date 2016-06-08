@@ -29,6 +29,14 @@
         "from": "gender-balance",
         "source": "Nigeria/Assembly"
       }
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "create": {
+        "from": "election-wikidata",
+        "base": "Q22283753"
+      }
     }
   ]
 }
