@@ -4683,7 +4683,7 @@
       ],
       "sources": [
         {
-          "url": "https://fo.wikipedia.org/wiki/L%C3%B8gtingslimir_%C3%AD_F%C3%B8royum_2011%E2%80%932015"
+          "url": "https://fo.wikipedia.org/wiki/L%C3%B8gtingslimir_%C3%AD_F%C3%B8royum_2008%E2%80%932011"
         }
       ]
     },
@@ -10333,6 +10333,14 @@
     },
     {
       "area_id": "area/norðoyar",
+      "legislative_period_id": "term/2008",
+      "on_behalf_of_id": "party/fólkaflokkurin",
+      "organization_id": "legislature",
+      "person_id": "91f9eb3c-1492-4fb1-8649-eb0f76a9ed7b",
+      "role": "member"
+    },
+    {
+      "area_id": "area/norðoyar",
       "legislative_period_id": "term/2011",
       "on_behalf_of_id": "party/fólkaflokkurin",
       "organization_id": "legislature",
@@ -11797,18 +11805,18 @@
       "start_date": "2011-10-29"
     },
     {
-      "classification": "general election",
-      "end_date": "2015",
-      "id": "Q19816575",
-      "name": "Faroese general election, 2015",
-      "start_date": "2015"
-    },
-    {
       "classification": "legislative period",
       "id": "term/2015",
       "name": "Løgting 2015–",
       "organization_id": "legislature",
       "start_date": "2015"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2015-09-01",
+      "id": "Q19816575",
+      "name": "Faroese general election, 2015",
+      "start_date": "2015-09-01"
     }
   ],
   "areas": [
