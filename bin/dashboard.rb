@@ -14,6 +14,7 @@ ordering = Hash[drilldown.select { |r| (r[0].to_s.length > 1) && (r[0][0] == r[0
 
 EveryPolitician.countries_json = 'countries.json'
 
+# TODO read lots of these from the `stats.json` files, once populated
 data = EveryPolitician.countries.map do |c|
   c.legislatures.map do |l|
     popolo = Everypolitician::Popolo.read(l.raw_data[:popolo])
