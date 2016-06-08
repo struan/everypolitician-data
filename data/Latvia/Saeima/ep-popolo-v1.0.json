@@ -30096,6 +30096,10 @@
         {
           "type": "email",
           "value": "Maris.Kucinskis@saeima.lv"
+        },
+        {
+          "type": "twitter",
+          "value": "MarisKucinskis"
         }
       ],
       "email": "Maris.Kucinskis@saeima.lv",
@@ -30107,6 +30111,10 @@
         {
           "identifier": "FCC1B9901AD67323C2257D7B0032D8DC",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "36146285471915372182",
+          "scheme": "viaf"
         },
         {
           "identifier": "Q6112509",
@@ -30199,6 +30207,10 @@
         {
           "note": "Wikipedia (zh)",
           "url": "https://zh.wikipedia.org/wiki/馬里斯·古金斯基"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/MarisKucinskis"
         }
       ],
       "name": "Māris Kučinskis",
@@ -43059,7 +43071,246 @@
     {
       "classification": "party",
       "id": "party/national_alliance_of_all_for_latvia!_and_for_fatherland_and_freedom/lnnk",
-      "name": "National Alliance of All for Latvia! and For Fatherland and Freedom/LNNK"
+      "identifiers": [
+        {
+          "identifier": "Q1576026",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.nacionalaapvieniba.lv/"
+        }
+      ],
+      "name": "National Alliance of All for Latvia! and For Fatherland and Freedom/LNNK",
+      "other_names": [
+        {
+          "lang": "zh-hans",
+          "name": "民族联盟",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "民族聯盟",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "民族聯盟",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Национално обединение",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Alliance nationale",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "National Alliance",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Aliança Nacional",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Nacionalinis susivienijimas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Alleanza Nazionale",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Национальное объединение «Всё для Латвии!» — «Отечеству и свободе/ДННЛ»",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "民族聯盟 (拉脫維亞)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Nacionālā apvienība \"Visu Latvijai!\"–\"Tēvzemei un Brīvībai/LNNK\"",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Nationella alliansen (Lettland)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lv",
+          "name": "Nacionālā apvienība \"Visu Latvijai!\"—\"Tēvzemei un Brīvībai/LNNK\"",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Rahvuslik Liit \"Kõik Läti eest!\" – \"Isamaale ja Vabadusele/LNNK\"",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Zjednoczenie Narodowe \"Wszystko dla Łotwy!\"–TB/LNNK",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de-ch",
+          "name": "Nacionālā apvienība \"Visu Latvijai!\"–\"Tēvzemei un Brīvībai/LNNK\"",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "National Alliance",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "National Alliance",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Kansallinen liittouma",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Aliança Nacional",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Alianza Nacional",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "הברית הלאומית",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Nasjonal allianse",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be-tarask",
+          "name": "Нацыянальнае аб’яднаньне",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Alianța Națională",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "National Alliance",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "国民連合",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Visu Latvijai!—Tēvzemei un Brīvībai/LNNK",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Visu Latvijai",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Visu Latvijai!",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Nacionālā apvienība \"Visu Latvijai!\"—\"Tēvzemei un Brīvībai/LNNK\"",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Nacionālā apvienība",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Sojusz Narodowy",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lv",
+          "name": "Nacionālā apvienība Visu Latvijai-Tēvzemei un Brīvībai/LNNK",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lv",
+          "name": "VL/TB/LNNK",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lv",
+          "name": "VL—TB/LNNK",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lv",
+          "name": "Nacionālā apvienība \"Visu Latvijai!\"-\"Tēvzemei un Brīvībai/LNNK\"",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lv",
+          "name": "VL-TB/LNNK",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lv",
+          "name": "Visu Latvijai!-Tēvzemei un Brīvībai/LNNK",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lv",
+          "name": "Nacionālā apvienība \"Visu Latvijai\"-\"Tēvzemei un Brīvībai\"/LNNK",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lv",
+          "name": "Nacionālā apvienība Visu Latvijai-TB/LNNK",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lv",
+          "name": "Visu Latvijai-Tēvzemei un Brīvībai/LNNK",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "NA",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "National Alliance \"All For Latvia!\" – \"For Fatherland and Freedom/LNNK\"",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
