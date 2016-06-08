@@ -1934,6 +1934,25 @@
       ]
     },
     {
+      "birth_date": "1975-09-08",
+      "family_name": "Cecchetti",
+      "given_name": "Giovanna",
+      "id": "2121f225-3950-4795-9315-225c73a18b49",
+      "image": "http://www.consigliograndeegenerale.sm/contents/instance18/files/photo/17022809_17000062_13CecchettiGiova.jpg",
+      "images": [
+        {
+          "url": "http://www.consigliograndeegenerale.sm/contents/instance18/files/photo/17022809_17000062_13CecchettiGiova.jpg"
+        }
+      ],
+      "name": "Giovanna Cecchetti",
+      "sort_name": "Cecchetti, Giovanna",
+      "sources": [
+        {
+          "url": "http://www.consigliograndeegenerale.sm/on-line/home/composizione/elenco-consiglieri/scheda17009036.html"
+        }
+      ]
+    },
+    {
       "birth_date": "1953-02-28",
       "family_name": "Ugolini",
       "gender": "male",
@@ -4188,12 +4207,7 @@
           "note": "multilingual"
         }
       ],
-      "sort_name": "Andreoli, Paride",
-      "sources": [
-        {
-          "url": "http://www.consigliograndeegenerale.sm/on-line/home/composizione/elenco-consiglieri/scheda17009036.html"
-        }
-      ]
+      "sort_name": "Andreoli, Paride"
     },
     {
       "birth_date": "1969-02-06",
@@ -4400,12 +4414,7 @@
         }
       ],
       "name": "Rossano Fabbri",
-      "sort_name": "Fabbri, Rossano",
-      "sources": [
-        {
-          "url": "http://www.consigliograndeegenerale.sm/on-line/home/composizione/elenco-consiglieri/scheda17016604.html"
-        }
-      ]
+      "sort_name": "Fabbri, Rossano"
     },
     {
       "birth_date": "1982-09-10",
@@ -4835,6 +4844,13 @@
       "on_behalf_of_id": "party/federico_pedini_amati",
       "organization_id": "legislature",
       "person_id": "1e78b8df-6214-4a76-a990-68dd35dde51d",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2012",
+      "on_behalf_of_id": "party/partito_socialista",
+      "organization_id": "legislature",
+      "person_id": "2121f225-3950-4795-9315-225c73a18b49",
       "role": "member"
     },
     {
