@@ -9,13 +9,13 @@ class WikidataLookup
 
   def initialize(mapping)
     @wikidata_id_lookup = Hash[
-      mapping.map { |item| [item[:wikidata], item[:id]] }
+      mapping.map { |item| [item[:id], item[:wikidata]] }
     ]
   end
 
   def to_hash
-    information = wikidata_results.map do |result|
-      [wikidata_id_lookup[result.id], fields_for(result)]
+    information = wikidata_id_lookup.map do |id, wikidata_id|
+      [id, fields_for(wikidata_results[wikidata_id])]
     end
     Hash[information]
   end
@@ -23,14 +23,14 @@ class WikidataLookup
   private
 
   def wikidata_ids
-    @_wikidata_ids ||= wikidata_id_lookup.keys.each do |qid|
+    @_wikidata_ids ||= wikidata_id_lookup.values.uniq.each do |qid|
       abort "#{qid} is not a valid Wikidata id" unless qid.start_with? 'Q'
     end
   end
 
 
   def wikidata_results
-    @wikidata_results ||= Wikisnakker::Item.find(wikidata_ids)
+    @wikidata_results ||= Hash[Wikisnakker::Item.find(wikidata_ids).map { |r| [r.id, r] }]
   end
 
   def names_from(labels)
