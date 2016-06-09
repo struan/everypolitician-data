@@ -2834,7 +2834,10 @@
     {
       "id": "Q9045502",
       "label": "member of the Parliament of Norway",
-      "title": "member of the Parliament of Norway"
+      "title": "member of the Parliament of Norway",
+      "qualifiers": {
+        "P580": "1986"
+      }
     },
     {
       "id": "Q19185575",
@@ -2845,6 +2848,15 @@
         "P582": "2013-12-31",
         "P1365": "Kimmo Sasi",
         "P1366": "Karin Åström"
+      }
+    },
+    {
+      "id": "Q24458271",
+      "label": "President of the Norwegian Association for Women's Rights",
+      "title": "President of the Norwegian Association for Women's Rights",
+      "qualifiers": {
+        "P580": "2016-05-21",
+        "P1365": "Margunn Bjørnholt"
       }
     }
   ],
@@ -6719,7 +6731,22 @@
     {
       "id": "Q9045502",
       "label": "member of the Parliament of Norway",
-      "title": "member of the Parliament of Norway"
+      "title": "member of the Parliament of Norway",
+      "qualifiers": {
+        "P580": "1973",
+        "P582": "1977"
+      }
+    },
+    {
+      "id": "Q24458271",
+      "label": "President of the Norwegian Association for Women's Rights",
+      "title": "President of the Norwegian Association for Women's Rights",
+      "qualifiers": {
+        "P580": "2006",
+        "P582": "2013",
+        "P1365": "Berit Kvæven",
+        "P1366": "Margunn Bjørnholt"
+      }
     }
   ],
   "Q6032333": [
