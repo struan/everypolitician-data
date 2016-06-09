@@ -1502,11 +1502,11 @@
         "slug": "Assembly",
         "sources_directory": "data/Burkina_Faso/Assembly/sources",
         "popolo": "data/Burkina_Faso/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3694869/data/Burkina_Faso/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/8cfc295/data/Burkina_Faso/Assembly/ep-popolo-v1.0.json",
         "names": "data/Burkina_Faso/Assembly/names.csv",
-        "lastmod": "1465406228",
-        "person_count": 232,
-        "sha": "3694869",
+        "lastmod": "1464644306",
+        "person_count": 475,
+        "sha": "8cfc295",
         "legislative_periods": [
           {
             "id": "term/7",
@@ -1514,7 +1514,7 @@
             "start_date": "2015-12-30",
             "slug": "7",
             "csv": "data/Burkina_Faso/Assembly/term-7.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3694869/data/Burkina_Faso/Assembly/term-7.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/8cfc295/data/Burkina_Faso/Assembly/term-7.csv"
           },
           {
             "id": "term/2012",
@@ -1522,10 +1522,34 @@
             "start_date": "2012-12-02",
             "slug": "2012",
             "csv": "data/Burkina_Faso/Assembly/term-2012.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3694869/data/Burkina_Faso/Assembly/term-2012.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/8cfc295/data/Burkina_Faso/Assembly/term-2012.csv"
+          },
+          {
+            "id": "term/3",
+            "name": "IIIe législature",
+            "start_date": "2002",
+            "slug": "3",
+            "csv": "data/Burkina_Faso/Assembly/term-3.csv",
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/8cfc295/data/Burkina_Faso/Assembly/term-3.csv"
+          },
+          {
+            "id": "term/2",
+            "name": "IIe législature",
+            "start_date": "1997",
+            "slug": "2",
+            "csv": "data/Burkina_Faso/Assembly/term-2.csv",
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/8cfc295/data/Burkina_Faso/Assembly/term-2.csv"
+          },
+          {
+            "id": "term/1",
+            "name": "Ie législature",
+            "start_date": "1992",
+            "slug": "1",
+            "csv": "data/Burkina_Faso/Assembly/term-1.csv",
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/8cfc295/data/Burkina_Faso/Assembly/term-1.csv"
           }
         ],
-        "statement_count": 3611
+        "statement_count": 6548
       }
     ]
   },
