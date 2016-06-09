@@ -9021,11 +9021,6 @@
     },
     {
       "classification": "party",
-      "id": "party/alliance_of_vojvodina_hungarians_-_party_of_democratic_action_pekzoltan63@gmail.com",
-      "name": "Alliance of Vojvodina Hungarians - Party of Democratic Action pekzoltan63@gmail.com"
-    },
-    {
-      "classification": "party",
       "id": "party/boris_tadic_–_social_democratic_party,_together_for_serbia",
       "name": "Boris Tadic – Social Democratic Party, Together for Serbia"
     },
@@ -9070,11 +9065,6 @@
       "name": "Liberal Democratic Party - SDA Sandzak"
     },
     {
-      "classification": "party",
-      "id": "party/liberal_democratic_party_-_sda_sandzak_enisimamovic@yahoo.com",
-      "name": "Liberal Democratic Party - SDA Sandzak enisimamovic@yahoo.com"
-    },
-    {
       "classification": "legislature",
       "id": "legislature",
       "identifiers": [
@@ -9108,36 +9098,6 @@
     },
     {
       "classification": "party",
-      "id": "party/serbian_progressive_party_gosnsleskovac@gmail.com",
-      "name": "Serbian Progressive Party gosnsleskovac@gmail.com"
-    },
-    {
-      "classification": "party",
-      "id": "party/serbian_progressive_party_office@poslanicka-kancelarija.org",
-      "name": "Serbian Progressive Party office@poslanicka-kancelarija.org"
-    },
-    {
-      "classification": "party",
-      "id": "party/serbian_progressive_party_pancevackiokrug@gmail.com",
-      "name": "Serbian Progressive Party pancevackiokrug@gmail.com"
-    },
-    {
-      "classification": "party",
-      "id": "party/serbian_progressive_party_pirot@sns.org.rs",
-      "name": "Serbian Progressive Party pirot@sns.org.rs"
-    },
-    {
-      "classification": "party",
-      "id": "party/serbian_progressive_party_rakonjacv@ptt.rs",
-      "name": "Serbian Progressive Party rakonjacv@ptt.rs"
-    },
-    {
-      "classification": "party",
-      "id": "party/serbian_progressive_party_zdravka2007@gmail.com",
-      "name": "Serbian Progressive Party zdravka2007@gmail.com"
-    },
-    {
-      "classification": "party",
       "id": "party/serbian_radical_party",
       "name": "Serbian Radical Party"
     },
@@ -9158,23 +9118,8 @@
     },
     {
       "classification": "party",
-      "id": "party/social_democratic_party_of_serbia_vladimir.marinkovic@parlament.rs",
-      "name": "Social Democratic Party of Serbia vladimir.marinkovic@parlament.rs"
-    },
-    {
-      "classification": "party",
       "id": "party/socialist_party_of_serbia",
       "name": "Socialist Party of Serbia"
-    },
-    {
-      "classification": "party",
-      "id": "party/socialist_party_of_serbia_selena.trajkovic@surdulica.org.rs",
-      "name": "Socialist Party of Serbia selena.trajkovic@surdulica.org.rs"
-    },
-    {
-      "classification": "party",
-      "id": "party/socialist_party_of_serbia_spspetrovac@gmail.com",
-      "name": "Socialist Party of Serbia spspetrovac@gmail.com"
     },
     {
       "classification": "party",
@@ -9185,11 +9130,6 @@
       "classification": "party",
       "id": "party/united_serbia",
       "name": "United Serbia"
-    },
-    {
-      "classification": "party",
-      "id": "party/united_serbia_office@poslanicka-kancelarija.org",
-      "name": "United Serbia office@poslanicka-kancelarija.org"
     },
     {
       "classification": "party",
@@ -9710,7 +9650,7 @@
     },
     {
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/serbian_progressive_party_zdravka2007@gmail.com",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "2837ee78-4f41-4878-92b6-6fe973d17793",
       "role": "member"
@@ -9930,7 +9870,7 @@
     },
     {
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/serbian_progressive_party_pirot@sns.org.rs",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "38f5bc54-60a8-4c20-a6b7-eb4b02e54f43",
       "role": "member"
@@ -10091,7 +10031,7 @@
     },
     {
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/liberal_democratic_party_-_sda_sandzak_enisimamovic@yahoo.com",
+      "on_behalf_of_id": "party/liberal_democratic_party_-_sda_sandzak",
       "organization_id": "legislature",
       "person_id": "462a8c40-37e0-49e2-8318-eda4a4c8a143",
       "role": "member"
@@ -10577,7 +10517,7 @@
     },
     {
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/alliance_of_vojvodina_hungarians_-_party_of_democratic_action_pekzoltan63@gmail.com",
+      "on_behalf_of_id": "party/alliance_of_vojvodina_hungarians_-_party_of_democratic_action",
       "organization_id": "legislature",
       "person_id": "7084b363-25bf-4774-900e-78234b49e510",
       "role": "member"
@@ -10591,7 +10531,7 @@
     },
     {
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/serbian_progressive_party_gosnsleskovac@gmail.com",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "70a0cb4f-1065-4143-ad44-c029b6b49a3f",
       "role": "member"
@@ -11377,7 +11317,7 @@
     },
     {
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/serbian_progressive_party_gosnsleskovac@gmail.com",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "aa5affa1-cc48-4285-9906-0659cb460627",
       "role": "member"
@@ -11412,7 +11352,7 @@
     },
     {
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/social_democratic_party_of_serbia_vladimir.marinkovic@parlament.rs",
+      "on_behalf_of_id": "party/social_democratic_party_of_serbia",
       "organization_id": "legislature",
       "person_id": "ab5332a6-d342-4294-91e1-ac8dd1bbc48b",
       "role": "member"
@@ -11573,7 +11513,7 @@
     },
     {
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/socialist_party_of_serbia_selena.trajkovic@surdulica.org.rs",
+      "on_behalf_of_id": "party/socialist_party_of_serbia",
       "organization_id": "legislature",
       "person_id": "b33cd637-9704-45f2-b957-8252d46b4ed8",
       "role": "member"
@@ -11785,7 +11725,7 @@
     },
     {
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/serbian_progressive_party_pancevackiokrug@gmail.com",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "c0d584a1-ffc9-4545-87db-d280ff048b8b",
       "role": "member"
@@ -11911,7 +11851,7 @@
     },
     {
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/socialist_party_of_serbia_spspetrovac@gmail.com",
+      "on_behalf_of_id": "party/socialist_party_of_serbia",
       "organization_id": "legislature",
       "person_id": "c9d4455e-ff47-4bff-9bd5-0d65591e9230",
       "role": "member"
@@ -12191,7 +12131,7 @@
     },
     {
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/serbian_progressive_party_rakonjacv@ptt.rs",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "dd58d4a2-79cd-484b-bd08-5afc59a94ff8",
       "role": "member"
@@ -12345,7 +12285,7 @@
     },
     {
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/serbian_progressive_party_office@poslanicka-kancelarija.org",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "e549b222-5a80-486d-aa93-fac9d90c787c",
       "role": "member"
@@ -12698,7 +12638,7 @@
     },
     {
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/united_serbia_office@poslanicka-kancelarija.org",
+      "on_behalf_of_id": "party/united_serbia",
       "organization_id": "legislature",
       "person_id": "fc36af8a-be72-45f1-9d09-009de06c0495",
       "role": "member"
