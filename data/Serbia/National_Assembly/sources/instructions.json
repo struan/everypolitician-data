@@ -6,6 +6,21 @@
       "type": "membership"
     },
     {
+      "file": "morph/official-11.csv",
+      "create": {
+        "from": "morph",
+        "scraper": "struan/serbia_national_assembly_members",
+        "query": "SELECT id, NULL as party, *, 11 AS term FROM data WHERE term = 6"
+      },
+      "source": "http://www.parlament.gov.rs/",
+      "merge": {
+        "incoming_field": "name",
+        "existing_field": "name",
+        "reconciliation_file": "reconciliation/official-11.csv"
+      },
+      "type": "membership"
+    },
+    {
       "file": "morph/wikidata.csv",
       "create": {
         "from": "morph",
