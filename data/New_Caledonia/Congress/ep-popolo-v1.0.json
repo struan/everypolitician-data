@@ -1113,6 +1113,24 @@
       ]
     },
     {
+      "family_name": "Sam",
+      "given_name": "Léonard",
+      "id": "a1cb347a-7a6d-4580-a76a-72412424bc8d",
+      "image": "http://www.congres.nc/wp-content/uploads/2015/01/sam.jpg",
+      "images": [
+        {
+          "url": "http://www.congres.nc/wp-content/uploads/2015/01/sam.jpg"
+        }
+      ],
+      "name": "Léonard Sam",
+      "sort_name": "Sam, Léonard",
+      "sources": [
+        {
+          "url": "http://www.congres.nc/assemblee/les-elus/?panel=5"
+        }
+      ]
+    },
+    {
       "family_name": "Hmeun",
       "given_name": "Marie-Françoise",
       "id": "f496bff3-3479-4dfa-80bc-bf3c4e2b15d9",
@@ -2897,6 +2915,14 @@
       "on_behalf_of_id": "party/les_républicains",
       "organization_id": "legislature",
       "person_id": "a0372d41-8831-4905-8b66-bfafcc6fefe6",
+      "role": "member"
+    },
+    {
+      "area_id": "area/province_sud",
+      "legislative_period_id": "term/4",
+      "on_behalf_of_id": "party/ce",
+      "organization_id": "legislature",
+      "person_id": "a1cb347a-7a6d-4580-a76a-72412424bc8d",
       "role": "member"
     },
     {
