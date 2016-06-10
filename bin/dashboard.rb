@@ -17,6 +17,8 @@ EveryPolitician.countries_json = 'countries.json'
 # TODO read lots of these from the `stats.json` files, once populated
 data = EveryPolitician.countries.map do |c|
   c.legislatures.map do |l|
+    statsfile = File.join(File.dirname(l.raw_data[:popolo]), 'unstable/stats.json')
+
     popolo = Everypolitician::Popolo.read(l.raw_data[:popolo])
     events = popolo.events
     terms = events.select { |e| e.classification == 'legislative period' }
@@ -49,6 +51,7 @@ data = EveryPolitician.countries.map do |c|
       elections: elections.count,
       latest_term: latest_term_start,
       latest_election: latest_election,
+      stats_file: File.exists?(statsfile),
     }
   end
 end.flatten
