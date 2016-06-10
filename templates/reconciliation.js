@@ -295,7 +295,7 @@ jQuery(function($) {
   });
 
   $(document).on('click', '.pairing__choices > div header.person__meta', function(){
-    vote($(this));
+    vote($(this).parent());
   });
 
   $(document).on('keydown', handleKeyPress);
