@@ -1068,6 +1068,46 @@
     ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Flag_of_the_Pakistan_Muslim_League_(Q).svg"
   },
+  "ji": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q6127208"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "Jamaat-e-Islami",
+        "note": "multilingual"
+      },
+      {
+        "lang": "bn",
+        "name": "জামায়াতে ইসলামী",
+        "note": "multilingual"
+      },
+      {
+        "lang": "de",
+        "name": "Jamaat-e-Islami",
+        "note": "multilingual"
+      },
+      {
+        "lang": "el",
+        "name": "Τζαμάατ-ε-Ισλάμι",
+        "note": "multilingual"
+      },
+      {
+        "lang": "zh",
+        "name": "伊斯蘭大會黨",
+        "note": "multilingual"
+      },
+      {
+        "lang": "bn",
+        "name": "জামায়াত",
+        "note": "multilingual"
+      }
+    ]
+  },
   "pmap": {
     "identifiers": [
       {
@@ -1114,45 +1154,82 @@
     ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/PKMAP_flag.PNG"
   },
-  "ji": {
+  "anp": {
     "identifiers": [
       {
         "scheme": "wikidata",
-        "identifier": "Q6127208"
+        "identifier": "Q659854"
       }
     ],
     "other_names": [
       {
-        "lang": "en",
-        "name": "Jamaat-e-Islami",
+        "lang": "pl",
+        "name": "Narodowa Partia Awami",
         "note": "multilingual"
       },
       {
-        "lang": "bn",
-        "name": "জামায়াতে ইসলামী",
+        "lang": "cs",
+        "name": "Lidová národní strana",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "Awami National Party",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fa",
+        "name": "حزب عوامی ملی",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "Parti national Awami",
+        "note": "multilingual"
+      },
+      {
+        "lang": "hi",
+        "name": "अवामी नेशनल पार्टी",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pnb",
+        "name": "عوامی نیشنل پارٹی",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ru",
+        "name": "Национальная партия Авами",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ur",
+        "name": "عوامی نیشنل پارٹی",
         "note": "multilingual"
       },
       {
         "lang": "de",
-        "name": "Jamaat-e-Islami",
+        "name": "Awami-Nationalpartei",
         "note": "multilingual"
       },
       {
-        "lang": "el",
-        "name": "Τζαμάατ-ε-Ισλάμι",
+        "lang": "ja",
+        "name": "アワーミー国民党",
         "note": "multilingual"
       },
       {
         "lang": "zh",
-        "name": "伊斯蘭大會黨",
-        "note": "multilingual"
-      },
-      {
-        "lang": "bn",
-        "name": "জামায়াত",
+        "name": "人民民族黨",
         "note": "multilingual"
       }
-    ]
+    ],
+    "links": [
+      {
+        "url": "http://awaminationalparty.org/news/index.php",
+        "note": "website"
+      }
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/43/Red_flag.svg"
   },
   "pml": {
     "identifiers": [
@@ -1306,156 +1383,6 @@
     ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Flag_of_the_Pakistan_Muslim_League_(Q).svg"
   },
-  "anp": {
-    "identifiers": [
-      {
-        "scheme": "wikidata",
-        "identifier": "Q659854"
-      }
-    ],
-    "other_names": [
-      {
-        "lang": "pl",
-        "name": "Narodowa Partia Awami",
-        "note": "multilingual"
-      },
-      {
-        "lang": "cs",
-        "name": "Lidová národní strana",
-        "note": "multilingual"
-      },
-      {
-        "lang": "en",
-        "name": "Awami National Party",
-        "note": "multilingual"
-      },
-      {
-        "lang": "fa",
-        "name": "حزب عوامی ملی",
-        "note": "multilingual"
-      },
-      {
-        "lang": "fr",
-        "name": "Parti national Awami",
-        "note": "multilingual"
-      },
-      {
-        "lang": "hi",
-        "name": "अवामी नेशनल पार्टी",
-        "note": "multilingual"
-      },
-      {
-        "lang": "pnb",
-        "name": "عوامی نیشنل پارٹی",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ru",
-        "name": "Национальная партия Авами",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ur",
-        "name": "عوامی نیشنل پارٹی",
-        "note": "multilingual"
-      },
-      {
-        "lang": "de",
-        "name": "Awami-Nationalpartei",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ja",
-        "name": "アワーミー国民党",
-        "note": "multilingual"
-      },
-      {
-        "lang": "zh",
-        "name": "人民民族黨",
-        "note": "multilingual"
-      }
-    ],
-    "links": [
-      {
-        "url": "http://awaminationalparty.org/news/index.php",
-        "note": "website"
-      }
-    ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/4/43/Red_flag.svg"
-  },
-  "pmlz": {
-    "identifiers": [
-      {
-        "scheme": "wikidata",
-        "identifier": "Q7125647"
-      }
-    ],
-    "other_names": [
-      {
-        "lang": "en",
-        "name": "Pakistan Muslim League",
-        "note": "multilingual"
-      },
-      {
-        "lang": "sv",
-        "name": "Pakistanska muslimska förbundet - Z",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ur",
-        "name": "پاکستان مسلم لیگ (ض)",
-        "note": "multilingual"
-      },
-      {
-        "lang": "fr",
-        "name": "Ligue musulmane du Pakistan (Z)",
-        "note": "multilingual"
-      }
-    ],
-    "links": [
-      {
-        "url": "http://www.pmlzia.com",
-        "note": "website"
-      }
-    ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Flag_of_the_Pakistan_Muslim_League_(Q).svg"
-  },
-  "np": {
-    "identifiers": [
-      {
-        "scheme": "wikidata",
-        "identifier": "Q13219795"
-      }
-    ],
-    "other_names": [
-      {
-        "lang": "fr",
-        "name": "Parti national (Pakistan)",
-        "note": "multilingual"
-      },
-      {
-        "lang": "en",
-        "name": "National Party (Pakistan)",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ur",
-        "name": "نیشنل پارٹی (پاکستان)",
-        "note": "multilingual"
-      },
-      {
-        "lang": "pnb",
-        "name": "نیشنل پارٹی",
-        "note": "multilingual"
-      }
-    ],
-    "links": [
-      {
-        "url": "http://www.nationalparty.org.pk",
-        "note": "website"
-      }
-    ]
-  },
   "npp": {
     "identifiers": [
       {
@@ -1565,6 +1492,43 @@
       }
     ]
   },
+  "pmlz": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q7125647"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "Pakistan Muslim League",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sv",
+        "name": "Pakistanska muslimska förbundet - Z",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ur",
+        "name": "پاکستان مسلم لیگ (ض)",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "Ligue musulmane du Pakistan (Z)",
+        "note": "multilingual"
+      }
+    ],
+    "links": [
+      {
+        "url": "http://www.pmlzia.com",
+        "note": "website"
+      }
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Flag_of_the_Pakistan_Muslim_League_(Q).svg"
+  },
   "qwps": {
     "identifiers": [
       {
@@ -1673,5 +1637,636 @@
       }
     ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/1/11/APML_Logo.jpg"
+  },
+  "np": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q13219795"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "fr",
+        "name": "Parti national (Pakistan)",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "National Party (Pakistan)",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ur",
+        "name": "نیشنل پارٹی (پاکستان)",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pnb",
+        "name": "نیشنل پارٹی",
+        "note": "multilingual"
+      }
+    ],
+    "links": [
+      {
+        "url": "http://www.nationalparty.org.pk",
+        "note": "website"
+      }
+    ]
+  },
+  "ind": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q327591"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "zh-hans",
+        "name": "无党籍人士",
+        "note": "multilingual"
+      },
+      {
+        "lang": "zh-hant",
+        "name": "無黨籍人士",
+        "note": "multilingual"
+      },
+      {
+        "lang": "zh-hk",
+        "name": "無黨籍人士",
+        "note": "multilingual"
+      },
+      {
+        "lang": "zh-cn",
+        "name": "无党籍人士",
+        "note": "multilingual"
+      },
+      {
+        "lang": "zh-sg",
+        "name": "无党籍人士",
+        "note": "multilingual"
+      },
+      {
+        "lang": "zh-tw",
+        "name": "無黨籍人士",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "Sans étiquette",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ko",
+        "name": "무소속",
+        "note": "multilingual"
+      },
+      {
+        "lang": "arz",
+        "name": "سياسى مستقل",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Candidato independiente",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ta",
+        "name": "சுயேட்சை",
+        "note": "multilingual"
+      },
+      {
+        "lang": "de",
+        "name": "Parteiloser",
+        "note": "multilingual"
+      },
+      {
+        "lang": "id",
+        "name": "Independen",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ja",
+        "name": "無所属",
+        "note": "multilingual"
+      },
+      {
+        "lang": "el",
+        "name": "ανεξάρτητος",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "independent politician",
+        "note": "multilingual"
+      },
+      {
+        "lang": "yue",
+        "name": "獨立人士",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nl",
+        "name": "onafhankelijk politicus",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sv",
+        "name": "Partilös",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ar",
+        "name": "سياسي مستقل",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pt",
+        "name": "político sem partido",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ru",
+        "name": "беспартийный",
+        "note": "multilingual"
+      },
+      {
+        "lang": "mn",
+        "name": "Бие даагч",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sr-ec",
+        "name": "независни политичар",
+        "note": "multilingual"
+      },
+      {
+        "lang": "tr",
+        "name": "Bağımsız siyasetçi",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ro",
+        "name": "politician independent",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ca",
+        "name": "Independent",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fi",
+        "name": "Sitoutumaton",
+        "note": "multilingual"
+      },
+      {
+        "lang": "cy",
+        "name": "Annibynnwr",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ur",
+        "name": "آزاد",
+        "note": "multilingual"
+      },
+      {
+        "lang": "az",
+        "name": "Partiyasız",
+        "note": "multilingual"
+      },
+      {
+        "lang": "da",
+        "name": "løsgænger",
+        "note": "multilingual"
+      },
+      {
+        "lang": "zh",
+        "name": "無黨籍人士",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sr",
+        "name": "независни политичар",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fa",
+        "name": "کنشگر سیاسی مستقل",
+        "note": "multilingual"
+      },
+      {
+        "lang": "war",
+        "name": "Independente",
+        "note": "multilingual"
+      },
+      {
+        "lang": "oc",
+        "name": "Independent",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sr-el",
+        "name": "nezavisni političar",
+        "note": "multilingual"
+      },
+      {
+        "lang": "it",
+        "name": "indipendente",
+        "note": "multilingual"
+      },
+      {
+        "lang": "be",
+        "name": "Беспартыйны",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pl",
+        "name": "polityk niezrzeszony",
+        "note": "multilingual"
+      },
+      {
+        "lang": "mr",
+        "name": "अपक्ष",
+        "note": "multilingual"
+      },
+      {
+        "lang": "be-tarask",
+        "name": "Беспартыйны",
+        "note": "multilingual"
+      },
+      {
+        "lang": "he",
+        "name": "פוליטיקאי עצמאי",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nb",
+        "name": "partiløs",
+        "note": "multilingual"
+      },
+      {
+        "lang": "cs",
+        "name": "nezávislý",
+        "note": "multilingual"
+      },
+      {
+        "lang": "hu",
+        "name": "független politikus",
+        "note": "multilingual"
+      },
+      {
+        "lang": "eo",
+        "name": "Sendependa",
+        "note": "multilingual"
+      },
+      {
+        "lang": "hi",
+        "name": "निर्दलीय",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sh",
+        "name": "Nezavisni",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sco",
+        "name": "independent politeecian",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sk",
+        "name": "Nezávislý politik",
+        "note": "multilingual"
+      },
+      {
+        "lang": "hak",
+        "name": "Mò-tóng-sit",
+        "note": "multilingual"
+      },
+      {
+        "lang": "th",
+        "name": "นักการเมืองอิสระ",
+        "note": "multilingual"
+      },
+      {
+        "lang": "uk",
+        "name": "Незалежний політик",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sd",
+        "name": "آزاد",
+        "note": "multilingual"
+      },
+      {
+        "lang": "la",
+        "name": "Politicus nullius factionis",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nan",
+        "name": "Bû-tóng-che̍k",
+        "note": "multilingual"
+      },
+      {
+        "lang": "zh",
+        "name": "無黨派",
+        "note": "multilingual"
+      },
+      {
+        "lang": "zh",
+        "name": "无党派人士",
+        "note": "multilingual"
+      },
+      {
+        "lang": "zh",
+        "name": "獨立人士",
+        "note": "multilingual"
+      },
+      {
+        "lang": "zh",
+        "name": "獨立候選人",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "Sans etiquette",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "Indépendant",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "Non-inscrits",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "Non-inscrit",
+        "note": "multilingual"
+      },
+      {
+        "lang": "arz",
+        "name": "Independent",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Candidato civico",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Movimientos cívicos",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Independientes",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Candidatos cívicos",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Candidato Cívico",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Candidatura independiente",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Movimiento Cívico",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Candidatura cívica",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Candidata cívica",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ta",
+        "name": "சுயேச்சை",
+        "note": "multilingual"
+      },
+      {
+        "lang": "de",
+        "name": "Unabhängiger",
+        "note": "multilingual"
+      },
+      {
+        "lang": "de",
+        "name": "freier Abgeordneter",
+        "note": "multilingual"
+      },
+      {
+        "lang": "id",
+        "name": "Politikus independen",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ja",
+        "name": "無所属議員",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nl",
+        "name": "onafhankelijke",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nl",
+        "name": "partijloos",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nl",
+        "name": "partijloze",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nl",
+        "name": "partijlozen",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sv",
+        "name": "Vänstervilde",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sv",
+        "name": "Liberal vilde",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sv",
+        "name": "Moderat vilde",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sv",
+        "name": "Politiska vildar",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sv",
+        "name": "Obunden",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sv",
+        "name": "Politisk vilde",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sv",
+        "name": "Frisinnad vilde",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sv",
+        "name": "Högervilde",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ar",
+        "name": "سياسيون مستقلون",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pt",
+        "name": "Sem partido",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pt",
+        "name": "Político independente",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pt",
+        "name": "Candidato independente",
+        "note": "multilingual"
+      },
+      {
+        "lang": "tr",
+        "name": "Bağımsız Politikacı",
+        "note": "multilingual"
+      },
+      {
+        "lang": "tr",
+        "name": "Serbest siyasetçi",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ro",
+        "name": "Politicieni independenţi",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ro",
+        "name": "Independent",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ro",
+        "name": "Politicieni independenți",
+        "note": "multilingual"
+      },
+      {
+        "lang": "cy",
+        "name": "Gwleidydd annibynnol",
+        "note": "multilingual"
+      },
+      {
+        "lang": "cy",
+        "name": "Annibynnol",
+        "note": "multilingual"
+      },
+      {
+        "lang": "cy",
+        "name": "Annibynol",
+        "note": "multilingual"
+      },
+      {
+        "lang": "da",
+        "name": "Uden for partierne",
+        "note": "multilingual"
+      },
+      {
+        "lang": "da",
+        "name": "Frigænger",
+        "note": "multilingual"
+      },
+      {
+        "lang": "da",
+        "name": "Udenfor partierne",
+        "note": "multilingual"
+      },
+      {
+        "lang": "da",
+        "name": "Uafhængig",
+        "note": "multilingual"
+      },
+      {
+        "lang": "da",
+        "name": "Partiløs",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "nonpartisan politician",
+        "note": "multilingual"
+      },
+      {
+        "lang": "it",
+        "name": "candidato indipendente",
+        "note": "multilingual"
+      },
+      {
+        "lang": "it",
+        "name": "politico indipendente",
+        "note": "multilingual"
+      },
+      {
+        "lang": "be-tarask",
+        "name": "Беспартыйны палітык",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nb",
+        "name": "uavhengig",
+        "note": "multilingual"
+      },
+      {
+        "lang": "cs",
+        "name": "bezpartajní",
+        "note": "multilingual"
+      },
+      {
+        "lang": "cs",
+        "name": "bez stranické příslušnosti",
+        "note": "multilingual"
+      }
+    ]
   }
 }
