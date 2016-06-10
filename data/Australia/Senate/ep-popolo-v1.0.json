@@ -13200,6 +13200,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ja",
+          "name": "マライズ・ペイン",
+          "note": "multilingual"
+        },
+        {
           "lang": "nl",
           "name": "Marise Payne",
           "note": "multilingual"
@@ -14491,6 +14496,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ja",
+          "name": "マイケル・ロナルドソン",
+          "note": "multilingual"
+        },
+        {
           "lang": "nl",
           "name": "Michael Ronaldson",
           "note": "multilingual"
@@ -15317,6 +15327,11 @@
         {
           "lang": "hu",
           "name": "Nick Xenophon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ニック・ゼノフォン",
           "note": "multilingual"
         },
         {
@@ -20729,7 +20744,116 @@
     {
       "classification": "party",
       "id": "party/australian_democrats",
-      "name": "Australian Democrats"
+      "identifiers": [
+        {
+          "identifier": "Q781392",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.australian-democrats.org.au"
+        }
+      ],
+      "name": "Australian Democrats",
+      "other_names": [
+        {
+          "lang": "fr",
+          "name": "Parti démocrate australien",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Australian Democrats",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Australian Democrats",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Democratas Australianos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Australian Democrats",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "Australie Democrats",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Australian Democrats",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Democratici Australiani",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "澳大利亚民主党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Australijscy Demokraci",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Demokratene (Australia)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "오스트레일리아 민주당",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Австралийские демократы",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Австралійські демократи",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Aŭstraliaj Demokratoj",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "Australian Democrats",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "Australien Democrats",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Australian Democrats",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Australian Democrats",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
@@ -22623,12 +22747,1198 @@
     {
       "classification": "party",
       "id": "independent",
-      "name": "Independent"
+      "identifiers": [
+        {
+          "identifier": "Q327591",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Independent",
+      "other_names": [
+        {
+          "lang": "zh-hans",
+          "name": "无党籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "無黨籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "無黨籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "无党籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-sg",
+          "name": "无党籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-tw",
+          "name": "無黨籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Sans étiquette",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "무소속",
+          "note": "multilingual"
+        },
+        {
+          "lang": "arz",
+          "name": "سياسى مستقل",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidato independiente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "சுயேட்சை",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Parteiloser",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Independen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "無所属",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "ανεξάρτητος",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "independent politician",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yue",
+          "name": "獨立人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "onafhankelijk politicus",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Partilös",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "سياسي مستقل",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "político sem partido",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "беспартийный",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mn",
+          "name": "Бие даагч",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-ec",
+          "name": "независни политичар",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Bağımsız siyasetçi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "politician independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Sitoutumaton",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Annibynnwr",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ur",
+          "name": "آزاد",
+          "note": "multilingual"
+        },
+        {
+          "lang": "az",
+          "name": "Partiyasız",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "løsgænger",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "無黨籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "независни политичар",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "کنشگر سیاسی مستقل",
+          "note": "multilingual"
+        },
+        {
+          "lang": "war",
+          "name": "Independente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-el",
+          "name": "nezavisni političar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "indipendente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be",
+          "name": "Беспартыйны",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "polityk niezrzeszony",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mr",
+          "name": "अपक्ष",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be-tarask",
+          "name": "Беспартыйны",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "פוליטיקאי עצמאי",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "partiløs",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "nezávislý",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "független politikus",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Sendependa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hi",
+          "name": "निर्दलीय",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Nezavisni",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "independent politeecian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Nezávislý politik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hak",
+          "name": "Mò-tóng-sit",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "นักการเมืองอิสระ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Незалежний політик",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sd",
+          "name": "آزاد",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Politicus nullius factionis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nan",
+          "name": "Bû-tóng-che̍k",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "無黨派",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "无党派人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "獨立人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "獨立候選人",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Sans etiquette",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Indépendant",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Non-inscrits",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Non-inscrit",
+          "note": "multilingual"
+        },
+        {
+          "lang": "arz",
+          "name": "Independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidato civico",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Movimientos cívicos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Independientes",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidatos cívicos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidato Cívico",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidatura independiente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Movimiento Cívico",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidatura cívica",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidata cívica",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "சுயேச்சை",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Unabhängiger",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "freier Abgeordneter",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Politikus independen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "無所属議員",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "onafhankelijke",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "partijloos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "partijloze",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "partijlozen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Vänstervilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Liberal vilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Moderat vilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Politiska vildar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Obunden",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Politisk vilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Frisinnad vilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Högervilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "سياسيون مستقلون",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Sem partido",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Político independente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Candidato independente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Bağımsız Politikacı",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Serbest siyasetçi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Politicieni independenţi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Politicieni independenți",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Gwleidydd annibynnol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Annibynnol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Annibynol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Uden for partierne",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Frigænger",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Udenfor partierne",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Uafhængig",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Partiløs",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "nonpartisan politician",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "candidato indipendente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "politico indipendente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be-tarask",
+          "name": "Беспартыйны палітык",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "uavhengig",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "bezpartajní",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "bez stranické příslušnosti",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/independent",
-      "name": "Independent"
+      "identifiers": [
+        {
+          "identifier": "Q327591",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Independent",
+      "other_names": [
+        {
+          "lang": "zh-hans",
+          "name": "无党籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "無黨籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "無黨籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "无党籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-sg",
+          "name": "无党籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-tw",
+          "name": "無黨籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Sans étiquette",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "무소속",
+          "note": "multilingual"
+        },
+        {
+          "lang": "arz",
+          "name": "سياسى مستقل",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidato independiente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "சுயேட்சை",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Parteiloser",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Independen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "無所属",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "ανεξάρτητος",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "independent politician",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yue",
+          "name": "獨立人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "onafhankelijk politicus",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Partilös",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "سياسي مستقل",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "político sem partido",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "беспартийный",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mn",
+          "name": "Бие даагч",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-ec",
+          "name": "независни политичар",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Bağımsız siyasetçi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "politician independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Sitoutumaton",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Annibynnwr",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ur",
+          "name": "آزاد",
+          "note": "multilingual"
+        },
+        {
+          "lang": "az",
+          "name": "Partiyasız",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "løsgænger",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "無黨籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "независни политичар",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "کنشگر سیاسی مستقل",
+          "note": "multilingual"
+        },
+        {
+          "lang": "war",
+          "name": "Independente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-el",
+          "name": "nezavisni političar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "indipendente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be",
+          "name": "Беспартыйны",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "polityk niezrzeszony",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mr",
+          "name": "अपक्ष",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be-tarask",
+          "name": "Беспартыйны",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "פוליטיקאי עצמאי",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "partiløs",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "nezávislý",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "független politikus",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Sendependa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hi",
+          "name": "निर्दलीय",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Nezavisni",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "independent politeecian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Nezávislý politik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hak",
+          "name": "Mò-tóng-sit",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "นักการเมืองอิสระ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Незалежний політик",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sd",
+          "name": "آزاد",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Politicus nullius factionis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nan",
+          "name": "Bû-tóng-che̍k",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "無黨派",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "无党派人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "獨立人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "獨立候選人",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Sans etiquette",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Indépendant",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Non-inscrits",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Non-inscrit",
+          "note": "multilingual"
+        },
+        {
+          "lang": "arz",
+          "name": "Independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidato civico",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Movimientos cívicos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Independientes",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidatos cívicos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidato Cívico",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidatura independiente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Movimiento Cívico",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidatura cívica",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidata cívica",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "சுயேச்சை",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Unabhängiger",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "freier Abgeordneter",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Politikus independen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "無所属議員",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "onafhankelijke",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "partijloos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "partijloze",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "partijlozen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Vänstervilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Liberal vilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Moderat vilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Politiska vildar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Obunden",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Politisk vilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Frisinnad vilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Högervilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "سياسيون مستقلون",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Sem partido",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Político independente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Candidato independente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Bağımsız Politikacı",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Serbest siyasetçi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Politicieni independenţi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Politicieni independenți",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Gwleidydd annibynnol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Annibynnol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Annibynol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Uden for partierne",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Frigænger",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Udenfor partierne",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Uafhængig",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Partiløs",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "nonpartisan politician",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "candidato indipendente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "politico indipendente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be-tarask",
+          "name": "Беспартыйны палітык",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "uavhengig",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "bezpartajní",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "bez stranické příslušnosti",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
@@ -22722,7 +24032,371 @@
     {
       "classification": "party",
       "id": "liberal_party_of_australia",
-      "name": "Liberal Party"
+      "identifiers": [
+        {
+          "identifier": "Q241149",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.liberal.org.au"
+        }
+      ],
+      "name": "Liberal Party",
+      "other_names": [
+        {
+          "lang": "zh-hans",
+          "name": "澳大利亚自由党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "澳大利亞自由黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "澳洲自由黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "澳洲自由党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-sg",
+          "name": "澳洲自由党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-tw",
+          "name": "澳洲自由黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Liberalna Partia Australii",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be",
+          "name": "Ліберальная партыя Аўстраліі",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti libéral australien",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Liberal de Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "லிபரல் கட்சி",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "Parti Liberal Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Partito Liberale d'Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Partai Liberal Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Liberal Party of Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "オーストラリア自由党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Đảng Tự do Úc",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Liberal Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Liberalna stranka Australije",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Australiens liberala parti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Liberal Party of Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Partido Liberal da Austrália",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Liberala Partio de Aŭstralio",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Либеральная партия Австралии",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "พรรคเสรีนิยมแห่งออสเตรเลีย",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Partit Liberal d'Austràlia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Australian liberaalipuolue",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Ліберальна партія Австралії",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Factio Liberalis Australiana",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Plaid Ryddfrydol Awstralia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "حزب لیبرال استرالیا",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "Leeberal Pairty o Australie",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "ავსტრალიის ლიბერალური პარტია",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Liberal Party of Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "澳大利亚自由党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Liberální strana Austrálie",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Либерална странка Аустралије",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Liberal Party of Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "Либерална партија",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "המפלגה הליברלית של אוסטרליה",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "오스트레일리아 자유당",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Φιλελεύθερο Κόμμα της Αυστραλίας",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nan",
+          "name": "Australia Chū-iû Tóng",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ckb",
+          "name": "پارتی لیبراڵی ئوسترالیا",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "澳洲自由黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Liberal Party of Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Australijska Partia Liberalna",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti libéral",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti libéral d'australie",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Liberal Party of Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti liberal d'Australie",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "ஆஸ்திரேலிய லிபரல் கட்சி",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "Parti Liberal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Liberal Party of Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Partito Liberale Australiano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Partito Liberale dell'Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Liberal Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Liberal Party of Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Partai Liberal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "自由党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Liberal Party of Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Liberalna partija Australije",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Liberal Party of Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Liberal Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Австралийская либеральная партия",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Liberal Party of Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Liberal Party of Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Plaid Ryddfrydol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "ლიბერალური პარტია",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Liberal Party",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
@@ -23096,12 +24770,312 @@
     {
       "classification": "party",
       "id": "party/national_country_party",
-      "name": "National Country Party"
+      "identifiers": [
+        {
+          "identifier": "Q946040",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Nationals_FRA_stacke_9013DF.jpg",
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.nationals.org.au/"
+        }
+      ],
+      "name": "National Country Party",
+      "other_names": [
+        {
+          "lang": "pl",
+          "name": "Narodowa Partia Australii",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be",
+          "name": "Нацыянальная партыя Аўстраліі",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Nationale Partei Australiens",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "National Party of Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Nacional de Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Australian kansallispuolue",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti national d'Australie",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Partito Nazionale d'Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "オーストラリア国民党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "ავსტრალიის ნაციონალური პარტია",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "National Party of Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Национальная партия Австралии",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "National Party of Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Національна партія Австралії",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Đảng Quốc gia Úc",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "澳洲國家黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "澳洲國家黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hans",
+          "name": "澳大利亚国家党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "National Party of Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "澳洲國家黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "الحزب الوطني الأسترالي",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "ஆத்திரேலியத் தேசியக் கட்சி",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Partido Nacional da Austrália",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nan",
+          "name": "Australia Kok-ka Tóng",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Australská národní strana",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Australian Country Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "National Country Party",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/national_party",
-      "name": "National Party"
+      "identifiers": [
+        {
+          "identifier": "Q946040",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Nationals_FRA_stacke_9013DF.jpg",
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.nationals.org.au/"
+        }
+      ],
+      "name": "National Party",
+      "other_names": [
+        {
+          "lang": "pl",
+          "name": "Narodowa Partia Australii",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be",
+          "name": "Нацыянальная партыя Аўстраліі",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Nationale Partei Australiens",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "National Party of Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Nacional de Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Australian kansallispuolue",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti national d'Australie",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Partito Nazionale d'Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "オーストラリア国民党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "ავსტრალიის ნაციონალური პარტია",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "National Party of Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Национальная партия Австралии",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "National Party of Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Національна партія Австралії",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Đảng Quốc gia Úc",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "澳洲國家黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "澳洲國家黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hans",
+          "name": "澳大利亚国家党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "National Party of Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "澳洲國家黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "الحزب الوطني الأسترالي",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "ஆத்திரேலியத் தேசியக் கட்சி",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Partido Nacional da Austrália",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nan",
+          "name": "Australia Kok-ka Tóng",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Australská národní strana",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Australian Country Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "National Country Party",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
@@ -23261,7 +25235,26 @@
     {
       "classification": "party",
       "id": "party/nuclear_disarmament_party",
-      "name": "Nuclear Disarmament Party"
+      "identifiers": [
+        {
+          "identifier": "Q7067936",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://web.archive.org/web/20080117233837/http://www.nucleardisarmament.org/"
+        }
+      ],
+      "name": "Nuclear Disarmament Party",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Nuclear Disarmament Party",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
@@ -23271,7 +25264,51 @@
     {
       "classification": "party",
       "id": "glenn_lazarus_team",
-      "name": "Palmer United Party"
+      "identifiers": [
+        {
+          "identifier": "Q15130081",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://palmerunited.com/"
+        }
+      ],
+      "name": "Palmer United Party",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Palmer United Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "帕爾默聯合黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti unifié de Palmer",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "파머 통합당",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nan",
+          "name": "Palmer Liân-ha̍p Tóng",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "パーマー連合党",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
@@ -23325,7 +25362,95 @@
     {
       "classification": "party",
       "id": "party/pauline_hanson's_one_nation_party",
-      "name": "Pauline Hanson's One Nation Party"
+      "identifiers": [
+        {
+          "identifier": "Q1585274",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Pauline Hanson's One Nation Party",
+      "other_names": [
+        {
+          "lang": "zh-hans",
+          "name": "单一民族党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "單一民族黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "單一民族黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "One Nation",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ワン・ネイション",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "One Nation",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "One Nation",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Единая нация",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "One Nation",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "One Nation Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "單一民族黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "한나라당",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "一國黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "One Nation Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ONE NATION",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ワン・ネーション",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "legislature",
