@@ -43,8 +43,6 @@ data = EveryPolitician.countries.map do |c|
       ago: (now - last_build).to_i,
       people: popolo.persons.count,
       wikidata: popolo.persons.partition { |p| (p[:identifiers] || []).find { |i| i[:scheme] == 'wikidata' } }.first.count,
-      people: popolo.persons.count,
-      wikidata: popolo.persons.partition { |p| (p[:identifiers] || []).find { |i| i[:scheme] == 'wikidata' } }.first.count,
       parties: parties.count,
       wd_parties: wd_part.first.count,
       terms: terms.count,
