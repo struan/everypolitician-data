@@ -1,12 +1,6 @@
 {
   "sources": [
     {
-      "file": "manual/scraped.csv",
-      "source": "http://en.inatsisartut.gl/members-of-inatsisartut.aspx",
-      "notes": "hand-scraped to work around odd JS set-up that keeps timing out in PhantomJS",
-      "type": "membership"
-    },
-    {
       "file": "morph/data.csv",
       "create": {
         "from": "morph",
@@ -14,12 +8,7 @@
         "query": "SELECT * FROM data"
       },
       "source": "http://en.inatsisartut.gl/members-of-inatsisartut.aspx",
-      "type": "membership",
-      "merge": {
-        "incoming_field": "name",
-        "existing_field": "name",
-        "reconciliation_file": "reconciliation/data.csv"
-      }
+      "type": "membership"
     },
     {
       "file": "morph/wikidata.csv",
