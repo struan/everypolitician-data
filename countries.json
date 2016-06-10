@@ -4026,11 +4026,11 @@
         "slug": "Congress",
         "sources_directory": "data/Guatemala/Congress/sources",
         "popolo": "data/Guatemala/Congress/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/eab5448/data/Guatemala/Congress/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/1cff7c2/data/Guatemala/Congress/ep-popolo-v1.0.json",
         "names": "data/Guatemala/Congress/names.csv",
-        "lastmod": "1465458336",
+        "lastmod": "1465537016",
         "person_count": 243,
-        "sha": "eab5448",
+        "sha": "1cff7c2",
         "legislative_periods": [
           {
             "end_date": "2020-01-14",
@@ -4040,7 +4040,7 @@
             "wikidata": "Q23051910",
             "slug": "8",
             "csv": "data/Guatemala/Congress/term-8.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/eab5448/data/Guatemala/Congress/term-8.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/1cff7c2/data/Guatemala/Congress/term-8.csv"
           },
           {
             "end_date": "2016-01-14",
@@ -4050,10 +4050,10 @@
             "wikidata": "Q16644987",
             "slug": "7",
             "csv": "data/Guatemala/Congress/term-7.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/eab5448/data/Guatemala/Congress/term-7.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/1cff7c2/data/Guatemala/Congress/term-7.csv"
           }
         ],
-        "statement_count": 5372
+        "statement_count": 5375
       }
     ]
   },
@@ -6815,11 +6815,11 @@
         "slug": "Assembly",
         "sources_directory": "data/Northern_Cyprus/Assembly/sources",
         "popolo": "data/Northern_Cyprus/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3ed46c9/data/Northern_Cyprus/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e1d590b/data/Northern_Cyprus/Assembly/ep-popolo-v1.0.json",
         "names": "data/Northern_Cyprus/Assembly/names.csv",
-        "lastmod": "1465411768",
+        "lastmod": "1465502656",
         "person_count": 50,
-        "sha": "3ed46c9",
+        "sha": "e1d590b",
         "legislative_periods": [
           {
             "id": "term/14",
@@ -6827,10 +6827,10 @@
             "start_date": "2013-08-12",
             "slug": "14",
             "csv": "data/Northern_Cyprus/Assembly/term-14.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3ed46c9/data/Northern_Cyprus/Assembly/term-14.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e1d590b/data/Northern_Cyprus/Assembly/term-14.csv"
           }
         ],
-        "statement_count": 1672
+        "statement_count": 1724
       }
     ]
   },
