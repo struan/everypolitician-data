@@ -4,6 +4,13 @@
   ],
   "persons": [
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Abdies.pineda@congreso.gob.mx"
+        }
+      ],
+      "email": "Abdies.pineda@congreso.gob.mx",
       "gender": "male",
       "id": "7c1b664b-aa02-465c-afd2-d25f3384d0c4",
       "identifiers": [
@@ -4502,6 +4509,13 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "arlet.molgora@congreso.gob.mx"
+        }
+      ],
+      "email": "arlet.molgora@congreso.gob.mx",
       "gender": "female",
       "id": "527413f8-1c90-49e2-84f9-e9ca59a1e57d",
       "identifiers": [
@@ -4516,8 +4530,8 @@
           "url": "http://sitl.diputados.gob.mx/LXIII_leg/fotos_lxiiiconfondo/091_FOTO_CHICA.jpg"
         }
       ],
-      "name": "Arlet Mólgora Glover (LICENCIA)",
-      "sort_name": "Mólgora Glover Arlet (LICENCIA)",
+      "name": "Arlet Mólgora Glover",
+      "sort_name": "Mólgora Glover Arlet",
       "sources": [
         {
           "url": "http://sitl.diputados.gob.mx/LXIII_leg/curricula.php?dipt=230"
