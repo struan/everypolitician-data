@@ -7215,22 +7215,129 @@
     {
       "classification": "party",
       "id": "party/alianza_social_indigena",
-      "name": "Alianza Social Indigena"
+      "identifiers": [
+        {
+          "identifier": "Q256029",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f3/ASI_Logo.svg",
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.asicolombia.com/"
+        }
+      ],
+      "name": "Alianza Social Indigena",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Indigenous Social Alliance Movement",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Alianza Social Independiente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Alliance sociale indigène",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/autoridades_indigenas_de_colombia",
-      "name": "Autoridades Indigenas De Colombia"
+      "identifiers": [
+        {
+          "identifier": "Q11680073",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://web.archive.org/web/http://www.aicocolombia.org/AICO"
+        }
+      ],
+      "name": "Autoridades Indigenas De Colombia",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Indigenous Authorities of Colombia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Autoridades Indígenas de Colombia",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/centro_cemocratico",
-      "name": "Centro Cemocratico"
+      "identifiers": [
+        {
+          "identifier": "Q15909095",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.centrodemocratico.com/"
+        }
+      ],
+      "name": "Centro Cemocratico",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Democratic Center",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Centro Democrático",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "centre démocratique",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Centro Democratico",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/cien_porciento_colombia",
-      "name": "Cien Porciento Colombia"
+      "identifiers": [
+        {
+          "identifier": "Q6025072",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://pwp.etb.net.co/melendezarturoj/Afrovides/"
+        }
+      ],
+      "name": "Cien Porciento Colombia",
+      "other_names": [
+        {
+          "lang": "es",
+          "name": "Movimiento Afrovides",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "legislature",
@@ -7247,47 +7354,739 @@
     {
       "classification": "party",
       "id": "party/funeco",
-      "name": "Funeco"
+      "identifiers": [
+        {
+          "identifier": "Q24512740",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Funeco",
+      "other_names": [
+        {
+          "lang": "es",
+          "name": "FUNECO",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/movimiento_mira",
-      "name": "Movimiento Mira"
+      "identifiers": [
+        {
+          "identifier": "Q13988",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Movimiento_mira.svg",
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.movimientomira.com"
+        }
+      ],
+      "name": "Movimiento Mira",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Independent Movement of Absolute Renovation",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Mouvement indépendant de rénovation absolue",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "Independent Absolute Renovation Movement",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "Independent Absolute Renovation Movement",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Movimiento Independiente de Renovación Absoluta",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Movimento Indipendente di Rinnovamento Assoluto",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "絶対リノベーションの独立運動",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Unabhängige Absolute Erneuerungsbewegung",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Independent Movement of Absolute Renovation",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "MIRA",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "UAEB",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Movimiento Independiente de Renovación Absoluta",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "MIRA",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/partido_alianza_verde",
-      "name": "Partido Alianza Verde"
+      "identifiers": [
+        {
+          "identifier": "Q1452567",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/47/Partido_Verde_COL.png",
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.partidoverde.org.co"
+        }
+      ],
+      "name": "Partido Alianza Verde",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Partido Verde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Kolumbijská strana zelených",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Green Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Verda Partio",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Verde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti vert",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Partito Verde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "中間派抉擇綠黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Партия зелёных",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Green Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "緑の党 (コロンビア)",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/partido_cambio_radical",
-      "name": "Partido Cambio Radical"
+      "identifiers": [
+        {
+          "identifier": "Q429642",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Cambio_Radical_logo.svg",
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.partidocambioradical.org/"
+        }
+      ],
+      "name": "Partido Cambio Radical",
+      "other_names": [
+        {
+          "lang": "fr",
+          "name": "Changement radical",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Radical Change",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Cambio Radical",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Cambiamento Radicale",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Cambio Radical",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Радикальная перемена",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Radical Change",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/partido_conservador_colombiano",
-      "name": "Partido Conservador Colombiano"
+      "identifiers": [
+        {
+          "identifier": "Q747333",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/93/Part.conservador.png",
+      "links": [
+        {
+          "note": "website",
+          "url": "http://partidoconservador.com/"
+        }
+      ],
+      "name": "Partido Conservador Colombiano",
+      "other_names": [
+        {
+          "lang": "fr",
+          "name": "Parti conservateur colombien",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Partido Conservador Colombiano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Colombian Conservative Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Conservador Colombiano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Pàrtaidh Tòraidh Choloimbia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Kolumbiai Konzervatív Párt",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Partito Conservatore Colombiano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Colombiaanse Conservatieve Partij",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Kolumbijska Partia Konserwatywna",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Колумбийская консервативная партия",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "哥伦比亚保守党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Partido Conservador Colombiano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "az",
+          "name": "Kolumbiya Konservativlər partiyası",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/partido_liberal_colombiano",
-      "name": "Partido Liberal Colombiano"
+      "identifiers": [
+        {
+          "identifier": "Q939021",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/59/Logo_del_Partido_Liberal_Colombiano.jpg",
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.partidoliberal.org.co/"
+        }
+      ],
+      "name": "Partido Liberal Colombiano",
+      "other_names": [
+        {
+          "lang": "pt",
+          "name": "Partido Liberal Colombiano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hans",
+          "name": "哥伦比亚自由党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "哥倫比亞自由黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "哥倫比亞自由黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Kolumbijska Partia Liberalna",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Pàrtaidh Libearalach Choloimbia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti libéral colombien",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Колумбийская либеральная партия",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Liberal Colombiano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Colombian Liberal Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Kolumbiai Liberális Párt",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Partito Liberale Colombiano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "Partido Liberal Colombiano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Kolumbijos liberalų partija",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Colombiaanse Liberale Partij",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Partido Liberal Colombiano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Partido Liberal Colombiano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "哥伦比亚自由党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Kolumbijská liberální strana",
+          "note": "multilingual"
+        },
+        {
+          "lang": "az",
+          "name": "Kolumbiya Liberal Partiyası",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "الحزب الليبرالي الكولومبي",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be",
+          "name": "Калумбійская ліберальная партыя",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti libéral",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Partido Liberal Colombiano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti liberal colombien",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Либеральная партия Колумбии",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Liberal de Colombia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Liberal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Partito Liberale",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Liberale Partij",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Partido Liberal Colombiano",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/partido_opcion_ciudadana",
-      "name": "Partido Opcion Ciudadana"
+      "identifiers": [
+        {
+          "identifier": "Q3896853",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.partidopin.org/"
+        }
+      ],
+      "name": "Partido Opcion Ciudadana",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "National Integration Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Partito di Integrazione Nazionale",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido de Integración Nacional",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "National Integration Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Partido de Integración Nacional",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Convergenza Civica",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido de Integracion Nacional PIN",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido de Integración Nacional PIN",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido de Integracion Nacional",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido PIN",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Opción Ciudadana",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/partido_social_de_unidad_nacional",
-      "name": "Partido Social De Unidad Nacional"
+      "identifiers": [
+        {
+          "identifier": "Q973542",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/PartidodelaU.JPG",
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.partidodelau.com/"
+        }
+      ],
+      "name": "Partido Social De Unidad Nacional",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Partido Social de Unidad Nacional",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Social Party of National Unity",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Social de Unidad Nacional",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti social d'unité nationale",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Partito Sociale di Unità Nazionale",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Sociale Partij van Nationale Eenheid",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Социальная партия национального единства",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Partido Social de Unidade Nacional",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "民族團結社會黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "全国統一社会党",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/polo_democratico_alternativo",
-      "name": "Polo Democratico Alternativo"
+      "identifiers": [
+        {
+          "identifier": "Q2251452",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c9/PDA_Logo.svg",
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.polodemocratico.net"
+        }
+      ],
+      "name": "Polo Democratico Alternativo",
+      "other_names": [
+        {
+          "lang": "pl",
+          "name": "Alternatywny Biegun Demokratyczny",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Pôle démocratique alternatif",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Polo Democrático Alternativo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Alternative Democratic Pole",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Polo Democratico Alternativo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "Alternative Democratic Pole",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "Alternative Democratic Pole",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "选择民主极点",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Alternative Democratic Pole",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Pôle démocratique indépendant",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Polo Democrático Alternativo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Pole democratique independant",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Polo Democratico",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Polo Democratico Alternativo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Polo Democrático",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Polo Democrático Alternativo",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
