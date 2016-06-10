@@ -23,6 +23,14 @@
         "from": "gender-balance",
         "source": "Suriname/Assembly"
       }
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "create": {
+        "from": "group-wikidata",
+        "source": "manual/group_wikidata.csv"
+      }
     }
   ]
 }
