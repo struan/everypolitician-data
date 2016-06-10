@@ -7,6 +7,21 @@
       "type": "membership"
     },
     {
+      "file": "morph/data.csv",
+      "create": {
+        "from": "morph",
+        "scraper": "wfdd/inatsisartut-scraper",
+        "query": "SELECT * FROM data"
+      },
+      "source": "http://en.inatsisartut.gl/members-of-inatsisartut.aspx",
+      "type": "membership",
+      "merge": {
+        "incoming_field": "name",
+        "existing_field": "name",
+        "reconciliation_file": "reconciliation/data.csv"
+      }
+    },
+    {
       "file": "morph/wikidata.csv",
       "create": {
         "from": "morph",
@@ -22,7 +37,13 @@
       }
     },
     {
-      "file": "manual/terms.csv",
+      "file": "morph/terms.csv",
+      "create": {
+        "from": "morph",
+        "scraper": "wfdd/inatsisartut-scraper",
+        "query": "SELECT * FROM terms"
+      },
+      "source": "http://github.com/wfdd/inatsisartut-scraper",
       "type": "term"
     },
     {
