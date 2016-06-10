@@ -415,6 +415,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ja",
+          "name": "アナ・ハラ",
+          "note": "multilingual"
+        },
+        {
           "lang": "la",
           "name": "Anna Jara",
           "note": "multilingual"
@@ -4471,11 +4476,16 @@
         }
       ],
       "email": "KSCHAEFER@CONGRESO.GOB.PE",
+      "gender": "female",
       "id": "a3239248-a8db-45f8-8d3e-f089486578ae",
       "identifiers": [
         {
           "identifier": "109",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q24457389",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.congreso.gob.pe/Storage/tbl_congresistas/fld_47_Fotografia_file/109-o5Hj2Ic3Vr8Hv3Q.jpg",
@@ -4484,7 +4494,24 @@
           "url": "http://www.congreso.gob.pe/Storage/tbl_congresistas/fld_47_Fotografia_file/109-o5Hj2Ic3Vr8Hv3Q.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Karla_Schaefer_Cuculiza"
+        }
+      ],
       "name": "Karla Melissa Schaefer Cuculiza",
+      "other_names": [
+        {
+          "name": "Karla Schaefer Cuculiza",
+          "note": "alternate"
+        },
+        {
+          "lang": "es",
+          "name": "Karla Schaefer Cuculiza",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Schaefer Cuculiza Karla Melissa",
       "sources": [
         {
@@ -5004,6 +5031,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Luis_Galarreta"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Luis_Galarreta"
         }
       ],
       "name": "Luis Fernando Galarreta Velarde",
@@ -7858,6 +7889,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ja",
+          "name": "ベロニカ・メンドーサ",
+          "note": "multilingual"
+        },
+        {
           "lang": "nl",
           "name": "Verónika Mendoza",
           "note": "multilingual"
@@ -9003,6 +9039,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ja",
+          "name": "ペルー・ポシブレ",
+          "note": "multilingual"
+        },
+        {
           "lang": "de",
           "name": "Peru Posible",
           "note": "multilingual"
@@ -9055,6 +9096,16 @@
         {
           "lang": "es",
           "name": "PP",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "祕魯可以",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "秘魯可以",
           "note": "multilingual"
         }
       ]
