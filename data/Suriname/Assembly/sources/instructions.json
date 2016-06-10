@@ -22,6 +22,21 @@
       "type": "membership"
     },
     {
+      "file": "morph/wikidata.csv",
+      "create": {
+        "from": "morph",
+        "scraper": "tmtmtmtm/suriname-assembly-members",
+        "query": "SELECT * FROM data ORDER BY id"
+      },
+      "source": "http://wikidata.org/",
+      "type": "wikidata",
+      "merge": {
+        "incoming_field": "name",
+        "existing_field": "name",
+        "reconciliation_file": "reconciliation/wikidata.csv"
+      }
+    },
+    {
       "file": "gender-balance/results.csv",
       "type": "gender",
       "create": {
