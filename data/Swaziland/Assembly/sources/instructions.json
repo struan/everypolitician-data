@@ -16,6 +16,14 @@
         "from": "gender-balance",
         "source": "Swaziland/Assembly"
       }
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "create": {
+        "from": "election-wikidata",
+        "base": "Q22669611"
+      }
     }
   ]
 }
