@@ -117227,13 +117227,64 @@
       "birth_date": "1975-09-05",
       "gender": "female",
       "id": "d7d48e29-f148-44d3-ac58-55fbd386357e",
+      "identifiers": [
+        {
+          "identifier": "Q24276432",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.knesset.gov.il/mk/images/members/Yulia_Malinovsky.jpg",
       "images": [
         {
           "url": "http://www.knesset.gov.il/mk/images/members/Yulia_Malinovsky.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Yulia_Malinovsky"
+        },
+        {
+          "note": "Wikipedia (he)",
+          "url": "https://he.wikipedia.org/wiki/יוליה_מלינובסקי"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Малиновская,_Юлия"
+        }
+      ],
       "name": "Yulia Malinovsky",
+      "other_names": [
+        {
+          "name": "יוליה מלינובסקי",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Yulia Malinovsky",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "Yulia Malinovsky",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "יוליה מלינובסקי",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Малиновская, Юлия",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "Yulia Malinovsky",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.knesset.gov.il/mk/eng/mk_print_eng.asp?mk_individual_id_t=956"
