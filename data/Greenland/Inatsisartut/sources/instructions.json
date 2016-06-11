@@ -1,9 +1,13 @@
 {
   "sources": [
     {
-      "file": "manual/scraped.csv",
+      "file": "morph/data.csv",
+      "create": {
+        "from": "morph",
+        "scraper": "wfdd/inatsisartut-scraper",
+        "query": "SELECT * FROM data"
+      },
       "source": "http://en.inatsisartut.gl/members-of-inatsisartut.aspx",
-      "notes": "hand-scraped to work around odd JS set-up that keeps timing out in PhantomJS",
       "type": "membership"
     },
     {
@@ -22,7 +26,13 @@
       }
     },
     {
-      "file": "manual/terms.csv",
+      "file": "morph/terms.csv",
+      "create": {
+        "from": "morph",
+        "scraper": "wfdd/inatsisartut-scraper",
+        "query": "SELECT * FROM terms"
+      },
+      "source": "http://github.com/wfdd/inatsisartut-scraper",
       "type": "term"
     },
     {
