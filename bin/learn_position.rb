@@ -29,7 +29,7 @@ section_for = ->(r) {
   raise "Unknown button: #{res}"
 }
 
-json[:unknown][:unknown].each do |r|
+json[:unknown][:unknown].to_a.each do |r|
   if section = section_for.(r)
     section << r
   end
