@@ -1,4 +1,7 @@
 {
+  "posts": [
+
+  ],
   "persons": [
     {
       "id": "a3704ed3-9bc0-4d8c-94d8-2ca5a5533415",
@@ -5095,11 +5098,25 @@
   ],
   "events": [
     {
+      "classification": "general election",
+      "end_date": "2010-04-11",
+      "id": "Q2115119",
+      "name": "South Sudanese general election, 2010",
+      "start_date": "2010-04-11"
+    },
+    {
       "classification": "legislative period",
       "id": "term/1",
       "name": "1st Parliament",
       "organization_id": "legislature",
       "start_date": "2011-07-09"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2017",
+      "id": "Q17020570",
+      "name": "South Sudanese general election, 2018",
+      "start_date": "2017"
     }
   ],
   "areas": [
