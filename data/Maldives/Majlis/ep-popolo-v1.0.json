@@ -1,4 +1,7 @@
 {
+  "posts": [
+
+  ],
   "persons": [
     {
       "id": "751402fc-beb4-4a7e-8c2d-d15c870f6817",
@@ -1797,11 +1800,53 @@
   ],
   "events": [
     {
+      "classification": "general election",
+      "end_date": "1989",
+      "id": "Q16936640",
+      "name": "Maldivian parliamentary election, 1989",
+      "start_date": "1989"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1994",
+      "id": "Q6742849",
+      "name": "Maldivian parliamentary election, 1994",
+      "start_date": "1994"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1999",
+      "id": "Q6742850",
+      "name": "Maldivian parliamentary election, 1999",
+      "start_date": "1999"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2005-01-22",
+      "id": "Q6742851",
+      "name": "Maldivian parliamentary election, 2005",
+      "start_date": "2005-01-22"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2009",
+      "id": "Q6742853",
+      "name": "Maldivian parliamentary election, 2009",
+      "start_date": "2009"
+    },
+    {
       "classification": "legislative period",
       "id": "term/2014",
       "name": "2014",
       "organization_id": "legislature",
       "start_date": "2014"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2014-03-22",
+      "id": "Q15637789",
+      "name": "Maldivian parliamentary election, 2014",
+      "start_date": "2014-03-22"
     }
   ],
   "areas": [
