@@ -48,6 +48,14 @@
         "from": "group-wikidata",
         "source": "manual/group_wikidata.csv"
       }
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "create": {
+        "from": "election-wikidata",
+        "base": "Q22696274"
+      }
     }
   ]
 }
