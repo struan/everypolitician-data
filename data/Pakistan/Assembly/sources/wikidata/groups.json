@@ -485,6 +485,11 @@
         "note": "multilingual"
       },
       {
+        "lang": "hy",
+        "name": "Պակիստանի ժողովրդական կուսակցություն",
+        "note": "multilingual"
+      },
+      {
         "lang": "zh",
         "name": "巴基斯坦人民黨",
         "note": "multilingual"
@@ -1068,46 +1073,6 @@
     ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Flag_of_the_Pakistan_Muslim_League_(Q).svg"
   },
-  "ji": {
-    "identifiers": [
-      {
-        "scheme": "wikidata",
-        "identifier": "Q6127208"
-      }
-    ],
-    "other_names": [
-      {
-        "lang": "en",
-        "name": "Jamaat-e-Islami",
-        "note": "multilingual"
-      },
-      {
-        "lang": "bn",
-        "name": "জামায়াতে ইসলামী",
-        "note": "multilingual"
-      },
-      {
-        "lang": "de",
-        "name": "Jamaat-e-Islami",
-        "note": "multilingual"
-      },
-      {
-        "lang": "el",
-        "name": "Τζαμάατ-ε-Ισλάμι",
-        "note": "multilingual"
-      },
-      {
-        "lang": "zh",
-        "name": "伊斯蘭大會黨",
-        "note": "multilingual"
-      },
-      {
-        "lang": "bn",
-        "name": "জামায়াত",
-        "note": "multilingual"
-      }
-    ]
-  },
   "pmap": {
     "identifiers": [
       {
@@ -1154,82 +1119,45 @@
     ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/PKMAP_flag.PNG"
   },
-  "anp": {
+  "ji": {
     "identifiers": [
       {
         "scheme": "wikidata",
-        "identifier": "Q659854"
+        "identifier": "Q6127208"
       }
     ],
     "other_names": [
       {
-        "lang": "pl",
-        "name": "Narodowa Partia Awami",
-        "note": "multilingual"
-      },
-      {
-        "lang": "cs",
-        "name": "Lidová národní strana",
-        "note": "multilingual"
-      },
-      {
         "lang": "en",
-        "name": "Awami National Party",
+        "name": "Jamaat-e-Islami",
         "note": "multilingual"
       },
       {
-        "lang": "fa",
-        "name": "حزب عوامی ملی",
-        "note": "multilingual"
-      },
-      {
-        "lang": "fr",
-        "name": "Parti national Awami",
-        "note": "multilingual"
-      },
-      {
-        "lang": "hi",
-        "name": "अवामी नेशनल पार्टी",
-        "note": "multilingual"
-      },
-      {
-        "lang": "pnb",
-        "name": "عوامی نیشنل پارٹی",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ru",
-        "name": "Национальная партия Авами",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ur",
-        "name": "عوامی نیشنل پارٹی",
+        "lang": "bn",
+        "name": "জামায়াতে ইসলামী",
         "note": "multilingual"
       },
       {
         "lang": "de",
-        "name": "Awami-Nationalpartei",
+        "name": "Jamaat-e-Islami",
         "note": "multilingual"
       },
       {
-        "lang": "ja",
-        "name": "アワーミー国民党",
+        "lang": "el",
+        "name": "Τζαμάατ-ε-Ισλάμι",
         "note": "multilingual"
       },
       {
         "lang": "zh",
-        "name": "人民民族黨",
+        "name": "伊斯蘭大會黨",
+        "note": "multilingual"
+      },
+      {
+        "lang": "bn",
+        "name": "জামায়াত",
         "note": "multilingual"
       }
-    ],
-    "links": [
-      {
-        "url": "http://awaminationalparty.org/news/index.php",
-        "note": "website"
-      }
-    ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/4/43/Red_flag.svg"
+    ]
   },
   "pml": {
     "identifiers": [
@@ -1383,6 +1311,156 @@
     ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Flag_of_the_Pakistan_Muslim_League_(Q).svg"
   },
+  "anp": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q659854"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "pl",
+        "name": "Narodowa Partia Awami",
+        "note": "multilingual"
+      },
+      {
+        "lang": "cs",
+        "name": "Lidová národní strana",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "Awami National Party",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fa",
+        "name": "حزب عوامی ملی",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "Parti national Awami",
+        "note": "multilingual"
+      },
+      {
+        "lang": "hi",
+        "name": "अवामी नेशनल पार्टी",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pnb",
+        "name": "عوامی نیشنل پارٹی",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ru",
+        "name": "Национальная партия Авами",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ur",
+        "name": "عوامی نیشنل پارٹی",
+        "note": "multilingual"
+      },
+      {
+        "lang": "de",
+        "name": "Awami-Nationalpartei",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ja",
+        "name": "アワーミー国民党",
+        "note": "multilingual"
+      },
+      {
+        "lang": "zh",
+        "name": "人民民族黨",
+        "note": "multilingual"
+      }
+    ],
+    "links": [
+      {
+        "url": "http://awaminationalparty.org/news/index.php",
+        "note": "website"
+      }
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/43/Red_flag.svg"
+  },
+  "pmlz": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q7125647"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "Pakistan Muslim League",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sv",
+        "name": "Pakistanska muslimska förbundet - Z",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ur",
+        "name": "پاکستان مسلم لیگ (ض)",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "Ligue musulmane du Pakistan (Z)",
+        "note": "multilingual"
+      }
+    ],
+    "links": [
+      {
+        "url": "http://www.pmlzia.com",
+        "note": "website"
+      }
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Flag_of_the_Pakistan_Muslim_League_(Q).svg"
+  },
+  "np": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q13219795"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "fr",
+        "name": "Parti national (Pakistan)",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "National Party (Pakistan)",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ur",
+        "name": "نیشنل پارٹی (پاکستان)",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pnb",
+        "name": "نیشنل پارٹی",
+        "note": "multilingual"
+      }
+    ],
+    "links": [
+      {
+        "url": "http://www.nationalparty.org.pk",
+        "note": "website"
+      }
+    ]
+  },
   "npp": {
     "identifiers": [
       {
@@ -1492,43 +1570,6 @@
       }
     ]
   },
-  "pmlz": {
-    "identifiers": [
-      {
-        "scheme": "wikidata",
-        "identifier": "Q7125647"
-      }
-    ],
-    "other_names": [
-      {
-        "lang": "en",
-        "name": "Pakistan Muslim League",
-        "note": "multilingual"
-      },
-      {
-        "lang": "sv",
-        "name": "Pakistanska muslimska förbundet - Z",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ur",
-        "name": "پاکستان مسلم لیگ (ض)",
-        "note": "multilingual"
-      },
-      {
-        "lang": "fr",
-        "name": "Ligue musulmane du Pakistan (Z)",
-        "note": "multilingual"
-      }
-    ],
-    "links": [
-      {
-        "url": "http://www.pmlzia.com",
-        "note": "website"
-      }
-    ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Flag_of_the_Pakistan_Muslim_League_(Q).svg"
-  },
   "qwps": {
     "identifiers": [
       {
@@ -1637,42 +1678,6 @@
       }
     ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/1/11/APML_Logo.jpg"
-  },
-  "np": {
-    "identifiers": [
-      {
-        "scheme": "wikidata",
-        "identifier": "Q13219795"
-      }
-    ],
-    "other_names": [
-      {
-        "lang": "fr",
-        "name": "Parti national (Pakistan)",
-        "note": "multilingual"
-      },
-      {
-        "lang": "en",
-        "name": "National Party (Pakistan)",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ur",
-        "name": "نیشنل پارٹی (پاکستان)",
-        "note": "multilingual"
-      },
-      {
-        "lang": "pnb",
-        "name": "نیشنل پارٹی",
-        "note": "multilingual"
-      }
-    ],
-    "links": [
-      {
-        "url": "http://www.nationalparty.org.pk",
-        "note": "website"
-      }
-    ]
   },
   "ind": {
     "identifiers": [
