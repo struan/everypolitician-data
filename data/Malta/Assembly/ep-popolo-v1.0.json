@@ -240,6 +240,10 @@
         {
           "identifier": "fenech-adamibeppe",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q18536890",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parlament.mt/file.aspx?f=32392",
@@ -248,7 +252,30 @@
           "url": "http://www.parlament.mt/file.aspx?f=32392"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (mt)",
+          "url": "https://mt.wikipedia.org/wiki/Beppe_Fenech_Adami"
+        }
+      ],
       "name": "Beppe Fenech Adami",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Beppe Fenech Adami",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Beppe Fenech Adami",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mt",
+          "name": "Beppe Fenech Adami",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.parlament.mt/fenech-adamibeppe"
@@ -1270,11 +1297,16 @@
       ],
       "email": "manuel.mallia@gov.mt",
       "gender": "male",
+      "given_name": "Emanuel",
       "id": "4fbea3cf-ce49-425f-9f99-44cfc18f4f49",
       "identifiers": [
         {
           "identifier": "mallia-emmanuel",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q18536888",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parlament.mt/file.aspx?f=31725",
@@ -1283,7 +1315,34 @@
           "url": "http://www.parlament.mt/file.aspx?f=31725"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (mt)",
+          "url": "https://mt.wikipedia.org/wiki/Emanuel_Mallia"
+        }
+      ],
       "name": "Emmanuel Mallia",
+      "other_names": [
+        {
+          "name": "Emanuel Mallia",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Emanuel Mallia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Emanuel Mallia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mt",
+          "name": "Emanuel Mallia",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.parlament.mt/mallia-emmanuel"
@@ -2200,6 +2259,10 @@
         {
           "identifier": "mizzi-joe",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q18536891",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parlament.mt/file.aspx?f=31733",
@@ -2208,7 +2271,20 @@
           "url": "http://www.parlament.mt/file.aspx?f=31733"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (mt)",
+          "url": "https://mt.wikipedia.org/wiki/Joe_Mizzi"
+        }
+      ],
       "name": "Joe Mizzi",
+      "other_names": [
+        {
+          "lang": "mt",
+          "name": "Joe Mizzi",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.parlament.mt/mizzi-joe"
