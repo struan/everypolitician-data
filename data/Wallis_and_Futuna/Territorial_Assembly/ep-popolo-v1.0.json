@@ -4,6 +4,9 @@
   ],
   "persons": [
     {
+      "family_name": "KOLOKILAGI",
+      "gender": "male",
+      "given_name": "Atoloto",
       "id": "27a7925a-8a28-48f6-bd70-e2f5ec326beb",
       "identifiers": [
         {
@@ -11,9 +14,19 @@
           "scheme": "everypolitician_legacy"
         }
       ],
-      "name": "Atoloto Kolokilagi"
+      "name": "Atoloto Kolokilagi",
+      "other_names": [
+        {
+          "name": "KOLOKILAGI Atoloto",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "KOLOKILAGI Atoloto"
     },
     {
+      "family_name": "TAUFANA",
+      "gender": "male",
+      "given_name": "Bernard",
       "id": "004d331c-886c-4ee9-8b5c-0960d464c497",
       "identifiers": [
         {
@@ -21,10 +34,18 @@
           "scheme": "everypolitician_legacy"
         }
       ],
-      "name": "Bernard Taufana"
+      "name": "Bernard Taufana",
+      "other_names": [
+        {
+          "name": "TAUFANA Bernard",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "TAUFANA Bernard"
     },
     {
       "birth_date": "1972-01-10",
+      "family_name": "VERGE",
       "gender": "male",
       "given_name": "David",
       "id": "8277e5e2-5983-4f6f-8553-97af9a89aebb",
@@ -50,6 +71,10 @@
       ],
       "name": "David Vergé",
       "other_names": [
+        {
+          "name": "VERGE David",
+          "note": "alternate"
+        },
         {
           "lang": "da",
           "name": "David Vergé",
@@ -90,9 +115,13 @@
           "name": "David Vergé",
           "note": "multilingual"
         }
-      ]
+      ],
+      "sort_name": "VERGE David"
     },
     {
+      "family_name": "SELUI",
+      "gender": "male",
+      "given_name": "Emile",
       "id": "bf7400dc-d5d0-4654-b778-31d102a15a28",
       "identifiers": [
         {
@@ -100,9 +129,19 @@
           "scheme": "everypolitician_legacy"
         }
       ],
-      "name": "Emile Selui"
+      "name": "Emile Selui",
+      "other_names": [
+        {
+          "name": "SELUI Emile",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "SELUI Emile"
     },
     {
+      "family_name": "IKAI",
+      "gender": "male",
+      "given_name": "Eselone",
       "id": "eef98109-a6a7-4efc-842a-11f5e9a5aa58",
       "identifiers": [
         {
@@ -110,9 +149,19 @@
           "scheme": "everypolitician_legacy"
         }
       ],
-      "name": "Eselone Ikai"
+      "name": "Eselone Ikai",
+      "other_names": [
+        {
+          "name": "IKAI Eselone",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "IKAI Eselone"
     },
     {
+      "family_name": "BAUDRY",
+      "gender": "male",
+      "given_name": "Frédéric",
       "id": "27da5858-53fe-4e9f-b132-c51af634e3d5",
       "identifiers": [
         {
@@ -120,19 +169,63 @@
           "scheme": "everypolitician_legacy"
         }
       ],
-      "name": "Frédéric Baudry"
+      "name": "Frédéric Baudry",
+      "other_names": [
+        {
+          "name": "BAUDRY Frédéric",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "BAUDRY Frédéric"
     },
     {
+      "family_name": "KULIMOETOKE",
+      "gender": "male",
+      "given_name": "Mikaele",
       "id": "226a2eee-70a5-4c46-8fcb-51dc7c429d59",
       "identifiers": [
         {
           "identifier": "mikaele_kulimoetoke",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q20029497",
+          "scheme": "wikidata"
         }
       ],
-      "name": "Mikaele Kulimoetoke"
+      "links": [
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Mikaele_Kulimoetoke"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Mikaele_Kulimoetoke"
+        }
+      ],
+      "name": "Mikaele Kulimoetoke",
+      "other_names": [
+        {
+          "name": "KULIMOETOKE Mikaele",
+          "note": "alternate"
+        },
+        {
+          "lang": "fr",
+          "name": "Mikaele Kulimoetoke",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Mikaele Kulimoetoke",
+          "note": "multilingual"
+        }
+      ],
+      "sort_name": "KULIMOETOKE Mikaele"
     },
     {
+      "family_name": "LAUFILITOGA",
+      "gender": "female",
+      "given_name": "Mireille",
       "id": "c4409077-d6dc-459a-a04d-fa64166d4cc8",
       "identifiers": [
         {
@@ -140,9 +233,19 @@
           "scheme": "everypolitician_legacy"
         }
       ],
-      "name": "Mireille Laufilitoga"
+      "name": "Mireille Laufilitoga",
+      "other_names": [
+        {
+          "name": "LAUFILITOGA Mireille",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "LAUFILITOGA Mireille"
     },
     {
+      "family_name": "MULIAKAAKA",
+      "gender": "male",
+      "given_name": "Munipoese",
       "id": "d3004f1c-3337-40ee-9df2-724d66a18060",
       "identifiers": [
         {
@@ -150,10 +253,19 @@
           "scheme": "everypolitician_legacy"
         }
       ],
-      "name": "Munipoese Muliakaaka"
+      "name": "Munipoese Muliakaaka",
+      "other_names": [
+        {
+          "name": "MULIAKAAKA Munipoese",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "MULIAKAAKA Munipoese"
     },
     {
+      "family_name": "ILOAI",
       "gender": "female",
+      "given_name": "Nivaleta",
       "id": "8e96f804-14ba-4e54-8254-3ca5b40fecff",
       "identifiers": [
         {
@@ -174,6 +286,10 @@
       "name": "Nivaleta Iloai",
       "other_names": [
         {
+          "name": "ILOAI Nivaleta",
+          "note": "alternate"
+        },
+        {
           "lang": "en",
           "name": "Nivaleta Iloai",
           "note": "multilingual"
@@ -188,9 +304,13 @@
           "name": "Nivaleta Iloai",
           "note": "multilingual"
         }
-      ]
+      ],
+      "sort_name": "ILOAI Nivaleta"
     },
     {
+      "family_name": "NIUTOUA",
+      "gender": "male",
+      "given_name": "Pasikale « MOETOTO »",
       "id": "df04c47d-defa-4cea-8b77-0b9c117cdd25",
       "identifiers": [
         {
@@ -198,9 +318,19 @@
           "scheme": "everypolitician_legacy"
         }
       ],
-      "name": "Pasikale Niutoua"
+      "name": "Pasikale Niutoua",
+      "other_names": [
+        {
+          "name": "NIUTOUA Pasikale « MOETOTO »",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "NIUTOUA Pasikale « MOETOTO »"
     },
     {
+      "family_name": "KANIMOA",
+      "gender": "male",
+      "given_name": "Patalione",
       "id": "6d2748c9-a149-4a46-a940-dd2edc6cdf47",
       "identifiers": [
         {
@@ -208,9 +338,19 @@
           "scheme": "everypolitician_legacy"
         }
       ],
-      "name": "Patalione Kanimoa"
+      "name": "Patalione Kanimoa",
+      "other_names": [
+        {
+          "name": "KANIMOA Patalione",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "KANIMOA Patalione"
     },
     {
+      "family_name": "FALELAVAKI",
+      "gender": "male",
+      "given_name": "Petelo",
       "id": "a348be19-6dd8-4447-b268-65b4e99faa64",
       "identifiers": [
         {
@@ -218,9 +358,17 @@
           "scheme": "everypolitician_legacy"
         }
       ],
-      "name": "Petelo Falelavaki"
+      "name": "Petelo Falelavaki",
+      "other_names": [
+        {
+          "name": "FALELAVAKI Petelo",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "FALELAVAKI Petelo"
     },
     {
+      "family_name": "HANISI",
       "gender": "male",
       "given_name": "Petelo",
       "id": "c74d59f7-1ff8-4ce0-b4a9-c0af07a92a4a",
@@ -243,6 +391,10 @@
       "name": "Petelo Hanisi",
       "other_names": [
         {
+          "name": "HANISI Petelo",
+          "note": "alternate"
+        },
+        {
           "lang": "en",
           "name": "Petelo Hanisi",
           "note": "multilingual"
@@ -257,9 +409,13 @@
           "name": "Petelo Hanisi",
           "note": "multilingual"
         }
-      ]
+      ],
+      "sort_name": "HANISI Petelo"
     },
     {
+      "family_name": "VEA",
+      "gender": "female",
+      "given_name": "Savelina",
       "id": "9b72848f-83e1-44df-9552-52ca9f1c5352",
       "identifiers": [
         {
@@ -267,9 +423,19 @@
           "scheme": "everypolitician_legacy"
         }
       ],
-      "name": "Savelina Vea"
+      "name": "Savelina Vea",
+      "other_names": [
+        {
+          "name": "VEA Savelina",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "VEA Savelina"
     },
     {
+      "family_name": "MOTUKU",
+      "gender": "male",
+      "given_name": "Sosefo",
       "id": "a73fc470-8769-41ac-893d-b07798cfbf11",
       "identifiers": [
         {
@@ -277,10 +443,19 @@
           "scheme": "everypolitician_legacy"
         }
       ],
-      "name": "Sosefo Motuku"
+      "name": "Sosefo Motuku",
+      "other_names": [
+        {
+          "name": "MOTUKU Sosefo",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "MOTUKU Sosefo"
     },
     {
+      "family_name": "SUVE",
       "gender": "male",
+      "given_name": "Sosefo",
       "id": "8d4e3072-b63e-4bf5-80e0-b69f3ad3674b",
       "identifiers": [
         {
@@ -301,6 +476,10 @@
       "name": "Sosefo Suve",
       "other_names": [
         {
+          "name": "SUVE Sosefo",
+          "note": "alternate"
+        },
+        {
           "lang": "en",
           "name": "Sosefo Suve",
           "note": "multilingual"
@@ -315,9 +494,13 @@
           "name": "Sosefo Suve",
           "note": "multilingual"
         }
-      ]
+      ],
+      "sort_name": "SUVE Sosefo"
     },
     {
+      "family_name": "SAVEA",
+      "gender": "male",
+      "given_name": "Toma Akino",
       "id": "a6274631-0ee9-4446-bb00-30db59151434",
       "identifiers": [
         {
@@ -325,10 +508,19 @@
           "scheme": "everypolitician_legacy"
         }
       ],
-      "name": "Toma Savea"
+      "name": "Toma Savea",
+      "other_names": [
+        {
+          "name": "SAVEA Toma Akino",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "SAVEA Toma Akino"
     },
     {
+      "family_name": "NAU",
       "gender": "male",
+      "given_name": "Vetelino",
       "id": "04e6ef40-7a5a-4aa8-a696-2447361145e2",
       "identifiers": [
         {
@@ -349,6 +541,10 @@
       "name": "Vetelino Nau",
       "other_names": [
         {
+          "name": "NAU Vetelino",
+          "note": "alternate"
+        },
+        {
           "lang": "en",
           "name": "Vetelino Nau",
           "note": "multilingual"
@@ -363,9 +559,13 @@
           "name": "Vetelino Nau",
           "note": "multilingual"
         }
-      ]
+      ],
+      "sort_name": "NAU Vetelino"
     },
     {
+      "family_name": "FELEU",
+      "gender": "female",
+      "given_name": "Yannick",
       "id": "d674f7fb-51e8-4228-94aa-a7c7700038cf",
       "identifiers": [
         {
@@ -373,7 +573,14 @@
           "scheme": "everypolitician_legacy"
         }
       ],
-      "name": "Yannick Feleu"
+      "name": "Yannick Feleu",
+      "other_names": [
+        {
+          "name": "FELEU Yannick",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "FELEU Yannick"
     }
   ],
   "organizations": [
@@ -418,6 +625,7 @@
   "meta": {
     "sources": [
       "https://fr.wikipedia.org/wiki/Assembl%C3%A9e_territoriale_des_%C3%AEles_Wallis_et_Futuna",
+      "http://www.wallis-et-futuna.pref.gouv.fr/Wallis-et-Futuna/Organisation-institutionnelle/Assemblee-Territoriale-collectivite",
       "http://wikidata.org/"
     ]
   },

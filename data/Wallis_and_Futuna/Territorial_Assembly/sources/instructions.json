@@ -11,6 +11,21 @@
       "type": "membership"
     },
     {
+      "file": "morph/official.csv",
+      "create": {
+        "from": "morph",
+        "scraper": "wfdd/wf-assemblee-territoriale-scraper",
+        "query": "SELECT *, name AS id FROM data"
+      },
+      "source": "http://www.wallis-et-futuna.pref.gouv.fr/Wallis-et-Futuna/Organisation-institutionnelle/Assemblee-Territoriale-collectivite",
+      "type": "person",
+      "merge": {
+        "incoming_field": "name",
+        "existing_field": "name",
+        "reconciliation_file": "reconciliation/official.csv"
+      }
+    },
+    {
       "file": "morph/wikidata.csv",
       "create": {
         "from": "morph",
