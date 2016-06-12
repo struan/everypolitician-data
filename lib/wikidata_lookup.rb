@@ -15,7 +15,9 @@ class WikidataLookup
 
   def to_hash
     information = wikidata_id_lookup.map do |id, wikidata_id|
-      [id, fields_for(wikidata_results[wikidata_id])]
+      result = wikidata_results[wikidata_id] or 
+        warn "No data for #{wikidata_id} [perhaps it's been renamed?]" 
+      [id, fields_for(result)]
     end
     Hash[information]
   end
@@ -45,6 +47,7 @@ class WikidataLookup
   end
 
   def fields_for(result)
+    return {} unless result
     {
       identifiers: [
         {
