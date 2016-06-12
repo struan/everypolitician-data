@@ -5180,7 +5180,7 @@
       ]
     },
     {
-      "birth_date": "1960-04-23",
+      "birth_date": "1964-04-23",
       "gender": "female",
       "given_name": "Maria",
       "id": "2b1a1a86-eed8-40ab-9da4-91ae68598034",
@@ -10628,11 +10628,18 @@
       ]
     },
     {
+      "birth_date": "1967-02-28",
+      "gender": "male",
+      "given_name": "Roman",
       "id": "3ff9e13e-1eaa-4f4b-83b8-e8c7cfb847c1",
       "identifiers": [
         {
           "identifier": "roman-r",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q17371262",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.congress.gov.ph/members/images/16th/roman-r.jpg",
@@ -10641,7 +10648,38 @@
           "url": "http://www.congress.gov.ph/members/images/16th/roman-r.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Roman_Romulo"
+        },
+        {
+          "note": "Wikipedia (tl)",
+          "url": "https://tl.wikipedia.org/wiki/Roman_Romulo"
+        }
+      ],
       "name": "Romulo, Roman T.",
+      "other_names": [
+        {
+          "name": "Roman Romulo",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Roman Romulo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Roman Romulo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tl",
+          "name": "Roman Romulo",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.congress.gov.ph/members/search.php?id=roman-r"
