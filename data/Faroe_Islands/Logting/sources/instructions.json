@@ -26,12 +26,7 @@
       }
     },
     {
-      "file": "morph/terms.csv",
-      "create": {
-        "from": "morph",
-        "scraper": "tmtmtmtm/faroes-logting-wikipedia",
-        "query": "SELECT * FROM terms"
-      },
+      "file": "manual/terms.csv",
       "type": "term"
     },
     {
