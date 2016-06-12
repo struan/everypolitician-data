@@ -26,12 +26,7 @@
       "type": "person"
     },
     {
-      "file": "morph/official-2015.csv",
-      "create": {
-        "from": "morph",
-        "scraper": "struan/spain_congreso_es",
-        "query": "SELECT * FROM data WHERE term = 11"
-      },
+      "file": "manual/old-official-2015.csv",
       "merge": {
         "incoming_field": "sort_name",
         "existing_field": "sort_name",
