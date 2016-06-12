@@ -36,6 +36,14 @@
         "from": "gender-balance",
         "source": "Nepal/Assembly"
       }
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "create": {
+        "from": "election-wikidata",
+        "base": "Q24568879"
+      }
     }
   ]
 }

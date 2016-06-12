@@ -6132,23 +6132,23 @@
         "slug": "Assembly",
         "sources_directory": "data/Montenegro/Assembly/sources",
         "popolo": "data/Montenegro/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/26d7cb8/data/Montenegro/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/dd8dddc/data/Montenegro/Assembly/ep-popolo-v1.0.json",
         "names": "data/Montenegro/Assembly/names.csv",
-        "lastmod": "1465195924",
+        "lastmod": "1465766174",
         "person_count": 82,
-        "sha": "26d7cb8",
+        "sha": "dd8dddc",
         "legislative_periods": [
           {
             "end_date": "2015",
             "id": "term/25",
-            "name": "Skupština Crne Gore 2012 - 2015",
-            "start_date": "2012",
+            "name": "Skupština 2012-",
+            "start_date": "2012-11-06",
             "slug": "25",
             "csv": "data/Montenegro/Assembly/term-25.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/26d7cb8/data/Montenegro/Assembly/term-25.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/dd8dddc/data/Montenegro/Assembly/term-25.csv"
           }
         ],
-        "statement_count": 2263
+        "statement_count": 2297
       }
     ]
   },
@@ -6505,11 +6505,11 @@
         "slug": "Assembly",
         "sources_directory": "data/Nepal/Assembly/sources",
         "popolo": "data/Nepal/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/dfe0015/data/Nepal/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/76a458e/data/Nepal/Assembly/ep-popolo-v1.0.json",
         "names": "data/Nepal/Assembly/names.csv",
-        "lastmod": "1465302841",
+        "lastmod": "1465766838",
         "person_count": 550,
-        "sha": "dfe0015",
+        "sha": "76a458e",
         "legislative_periods": [
           {
             "id": "term/ca2",
@@ -6517,10 +6517,10 @@
             "start_date": "2014-01-22",
             "slug": "ca2",
             "csv": "data/Nepal/Assembly/term-ca2.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/dfe0015/data/Nepal/Assembly/term-ca2.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/76a458e/data/Nepal/Assembly/term-ca2.csv"
           }
         ],
-        "statement_count": 11211
+        "statement_count": 11256
       }
     ]
   },
