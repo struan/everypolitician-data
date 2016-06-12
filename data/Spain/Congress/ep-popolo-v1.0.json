@@ -13249,6 +13249,7 @@
       ]
     },
     {
+      "birth_date": "1958-03-15",
       "contact_details": [
         {
           "type": "twitter",
@@ -13263,6 +13264,12 @@
         {
           "identifier": "176",
           "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.congreso.es/wc/htdocs/web/img/diputados/351_11.jpg",
+      "images": [
+        {
+          "url": "http://www.congreso.es/wc/htdocs/web/img/diputados/351_11.jpg"
         }
       ],
       "links": [
@@ -13286,26 +13293,6 @@
       "sources": [
         {
           "url": "http://www.congreso.es/portal/page/portal/Congreso/Congreso/Diputados/BusqForm?_piref73_1333155_73_1333154_1333154.next_page=%2Fwc%2FfichaDiputado%3FidDiputado%3D176&idLegislatura=10"
-        }
-      ]
-    },
-    {
-      "birth_date": "1958-03-15",
-      "family_name": "Cabrera García",
-      "gender": "male",
-      "given_name": "Francisco Domingo",
-      "id": "912a11f5-741c-4937-8a40-ef884230d9b8",
-      "image": "http://www.congreso.es/wc/htdocs/web/img/diputados/351_11.jpg",
-      "images": [
-        {
-          "url": "http://www.congreso.es/wc/htdocs/web/img/diputados/351_11.jpg"
-        }
-      ],
-      "name": "Francisco Domingo Cabrera García",
-      "sort_name": "Cabrera García, Francisco Domingo",
-      "sources": [
-        {
-          "url": "http://www.congreso.es/portal/page/portal/Congreso/Congreso/Diputados/BusqForm?_piref73_1333155_73_1333154_1333154.next_page=/wc/fichaDiputado?idDiputado=351&idLegislatura=11"
         }
       ]
     },
@@ -54519,6 +54506,15 @@
       "start_date": "2011-12-01"
     },
     {
+      "area_id": "area/las_palmas",
+      "legislative_period_id": "term/11",
+      "on_behalf_of_id": "GP",
+      "organization_id": "legislature",
+      "person_id": "8a9762b0-3826-4f81-9dda-e33f28a4f674",
+      "role": "member",
+      "start_date": "2016-04-19"
+    },
+    {
       "area_id": "area/albacete",
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "GP",
@@ -54734,15 +54730,6 @@
       "person_id": "908e2cc1-887c-42a3-b409-f6c9e0c84562",
       "role": "member",
       "start_date": "2011-12-09"
-    },
-    {
-      "area_id": "area/las_palmas",
-      "legislative_period_id": "term/11",
-      "on_behalf_of_id": "GP",
-      "organization_id": "legislature",
-      "person_id": "912a11f5-741c-4937-8a40-ef884230d9b8",
-      "role": "member",
-      "start_date": "2016-04-19"
     },
     {
       "area_id": "area/cádiz",
