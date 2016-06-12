@@ -12,13 +12,7 @@
     },
     {
       "file": "morph/terms.csv",
-      "type": "term",
-      "create": {
-        "file": "morph/terms.csv",
-        "from": "morph",
-        "scraper": "tmtmtmtm/turkmenistan-majilis",
-        "query": "SELECT * FROM terms"
-      }
+      "type": "term"
     },
     {
       "file": "gender-balance/results.csv",
