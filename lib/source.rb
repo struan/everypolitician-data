@@ -100,7 +100,7 @@ module Source
 
     def rcsv_column_options
       @header_converters ||= Hash[headers.map do |h|
-        [h, { alias: h.downcase.strip.gsub(/\s+/, '_').gsub(/\W+/, '').to_sym, type: converter(h) }]
+        [h, { alias: h.to_s.downcase.strip.gsub(/\s+/, '_').gsub(/\W+/, '').to_sym, type: converter(h) }]
       end]
     end
 
@@ -120,7 +120,7 @@ module Source
 
   class CSV < PlainCSV
     def fields
-      headers.map { |h| remap(h.downcase) }
+      headers.map { |h| remap(h.to_s.downcase) }
     end
 
     def raw_table
