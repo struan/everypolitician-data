@@ -727,6 +727,7 @@
       ]
     },
     {
+      "birth_date": "1981",
       "contact_details": [
         {
           "type": "email",
@@ -742,8 +743,16 @@
         }
       ],
       "email": "info@ayeung.hk",
+      "family_name": "Yang",
+      "gender": "male",
       "honorific_prefix": "Hon",
       "id": "bb394348-b7f9-4e89-b3be-35cbdda28902",
+      "identifiers": [
+        {
+          "identifier": "Q20688647",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.legco.gov.hk/images/mem_1216/ynk.jpg",
       "images": [
         {
@@ -752,11 +761,48 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Alvin_Yeung"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Alvin_Yeung"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/楊岳橋"
+        },
+        {
+          "note": "Wikipedia (zh_yue)",
+          "url": "https://zh_yue.wikipedia.org/wiki/楊岳橋"
+        },
+        {
           "note": "website",
           "url": "http://www.ayeung.hk"
         }
       ],
       "name": "Alvin YEUNG Ngok-kiu",
+      "other_names": [
+        {
+          "name": "Alvin Yeung",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Alvin Yeung",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yue",
+          "name": "楊岳橋",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "楊岳橋",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.legco.gov.hk/general/english/members/yr12-16/ynk.htm"
@@ -5536,7 +5582,7 @@
         },
         {
           "note": "Wikipedia (hak)",
-          "url": "https://hak.wikipedia.org/wiki/Liòng_Kuet-hiùng"
+          "url": "https://hak.wikipedia.org/wiki/Liòng_Koet-hiùng"
         },
         {
           "note": "Wikipedia (ko)",
