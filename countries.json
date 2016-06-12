@@ -231,22 +231,22 @@
         "slug": "National-Assembly",
         "sources_directory": "data/Angola/National_Assembly/sources",
         "popolo": "data/Angola/National_Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/1884e8a/data/Angola/National_Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/58021d6/data/Angola/National_Assembly/ep-popolo-v1.0.json",
         "names": "data/Angola/National_Assembly/names.csv",
-        "lastmod": "1465407909",
+        "lastmod": "1465727531",
         "person_count": 216,
-        "sha": "1884e8a",
+        "sha": "58021d6",
         "legislative_periods": [
           {
             "id": "term/3",
             "name": "3rd National Assembly",
-            "start_date": "2012",
+            "start_date": "2012-09-27",
             "slug": "3",
             "csv": "data/Angola/National_Assembly/term-3.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/1884e8a/data/Angola/National_Assembly/term-3.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/58021d6/data/Angola/National_Assembly/term-3.csv"
           }
         ],
-        "statement_count": 4100
+        "statement_count": 4104
       }
     ]
   },

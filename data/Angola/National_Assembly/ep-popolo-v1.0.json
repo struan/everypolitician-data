@@ -2866,6 +2866,7 @@
       "name": "LEONOR ESPERANÇA GASPAR"
     },
     {
+      "gender": "female",
       "id": "cc9401d4-d0e4-4cc1-9a8e-cba7f3d44ba5",
       "identifiers": [
         {
@@ -4964,6 +4965,11 @@
         {
           "lang": "sh",
           "name": "FNLA",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "الجبهة الوطنية لتحرير أنغولا",
           "note": "multilingual"
         },
         {
@@ -8157,18 +8163,18 @@
       "start_date": "2008"
     },
     {
-      "classification": "legislative period",
-      "id": "term/3",
-      "name": "3rd National Assembly",
-      "organization_id": "legislature",
-      "start_date": "2012"
-    },
-    {
       "classification": "general election",
       "end_date": "2012-08-31",
       "id": "Q1354317",
       "name": "Angolan legislative election",
       "start_date": "2012-08-31"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/3",
+      "name": "3rd National Assembly",
+      "organization_id": "legislature",
+      "start_date": "2012-09-27"
     }
   ],
   "areas": [
