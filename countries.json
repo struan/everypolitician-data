@@ -1254,22 +1254,22 @@
         "slug": "Deputies",
         "sources_directory": "data/Brazil/Deputies/sources",
         "popolo": "data/Brazil/Deputies/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/da84bb8/data/Brazil/Deputies/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/8a145a7/data/Brazil/Deputies/ep-popolo-v1.0.json",
         "names": "data/Brazil/Deputies/names.csv",
-        "lastmod": "1465745013",
+        "lastmod": "1465767880",
         "person_count": 564,
-        "sha": "da84bb8",
+        "sha": "8a145a7",
         "legislative_periods": [
           {
             "id": "term/55",
             "name": "55th Legislature",
-            "start_date": "2015",
+            "start_date": "2015-02-01",
             "slug": "55",
             "csv": "data/Brazil/Deputies/term-55.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/da84bb8/data/Brazil/Deputies/term-55.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/8a145a7/data/Brazil/Deputies/term-55.csv"
           }
         ],
-        "statement_count": 20056
+        "statement_count": 20195
       }
     ]
   },
