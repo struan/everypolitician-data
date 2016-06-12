@@ -3023,7 +3023,7 @@
       ]
     },
     {
-      "birth_date": "1960",
+      "birth_date": "1960-07-26",
       "contact_details": [
         {
           "type": "email",
@@ -3035,14 +3035,40 @@
         }
       ],
       "email": "roger.eriksson@lagtinget.ax",
+      "gender": "male",
+      "given_name": "Roger",
       "id": "91e57380-374c-4173-b318-ac2fb765a5fc",
+      "identifiers": [
+        {
+          "identifier": "Q5717272",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.lagtinget.ax/sites/www.lagtinget.ax/files/styles/person_image/public/portrait/des_9596.jpg",
       "images": [
         {
           "url": "http://www.lagtinget.ax/sites/www.lagtinget.ax/files/styles/person_image/public/portrait/des_9596.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Roger_Eriksson"
+        }
+      ],
       "name": "Roger Eriksson",
+      "other_names": [
+        {
+          "lang": "nl",
+          "name": "Roger Eriksson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Roger Eriksson",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.lagtinget.ax/ledamoter/roger-eriksson"
@@ -3854,7 +3880,7 @@
       ]
     },
     {
-      "birth_date": "1962",
+      "birth_date": "1962-07-16",
       "contact_details": [
         {
           "type": "email",
@@ -3866,14 +3892,64 @@
         }
       ],
       "email": "veronica.thornroos@lagtinget.ax",
+      "gender": "female",
+      "given_name": "Veronica",
       "id": "2c5d2e49-268b-49a6-990c-d77d14c2f5ad",
+      "identifiers": [
+        {
+          "identifier": "Q4982779",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.lagtinget.ax/sites/www.lagtinget.ax/files/styles/person_image/public/portrait/des_9608.jpg",
       "images": [
         {
           "url": "http://www.lagtinget.ax/sites/www.lagtinget.ax/files/styles/person_image/public/portrait/des_9608.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Veronica_Thörnroos"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Veronica_Thörnroos"
+        }
+      ],
       "name": "Veronica Thörnroos",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Veronica Thörnroos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Veronica Thörnroos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Veronica Thörnroos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Veronica Thörnroos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Veronica Thörnroos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Veronica Thörnroos",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.lagtinget.ax/ledamoter/veronica-thornroos"
