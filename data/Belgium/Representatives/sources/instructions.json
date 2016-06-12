@@ -41,11 +41,6 @@
     },
     {
       "file": "morph/terms.csv",
-      "create": {
-        "from": "morph",
-        "scraper": "tmtmtmtm/belgium-lachambre",
-        "query": "SELECT * FROM terms"
-      },
       "type": "term"
     },
     {
