@@ -36,13 +36,8 @@
       }
     },
     {
-      "file": "morph/terms.csv",
-      "type": "term",
-      "create": {
-        "from": "morph",
-        "scraper": "tmtmtmtm/a-lands-lagting",
-        "query": "SELECT * FROM terms"
-      }
+      "file": "manual/terms.csv",
+      "type": "term"
     },
     {
       "file": "wikidata/groups.json",
