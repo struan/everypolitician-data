@@ -1,4 +1,455 @@
 {
+  "sd": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q499029"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "zh-hans",
+        "name": "芬兰社会民主党",
+        "note": "multilingual"
+      },
+      {
+        "lang": "zh-hant",
+        "name": "芬蘭社會民主黨",
+        "note": "multilingual"
+      },
+      {
+        "lang": "zh-hk",
+        "name": "芬蘭社會民主黨",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pl",
+        "name": "Socjaldemokratyczna Partia Finlandii",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "Parti social-démocrate de Finlande",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ko",
+        "name": "핀란드 사회민주당",
+        "note": "multilingual"
+      },
+      {
+        "lang": "he",
+        "name": "המפלגה הסוציאל-דמוקרטית של פינלנד",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Partido Socialdemócrata Finés",
+        "note": "multilingual"
+      },
+      {
+        "lang": "hu",
+        "name": "Finn Szociáldemokrata Párt",
+        "note": "multilingual"
+      },
+      {
+        "lang": "it",
+        "name": "Partito Socialdemocratico Finlandese",
+        "note": "multilingual"
+      },
+      {
+        "lang": "et",
+        "name": "Soome Sotsiaaldemokraatlik Partei",
+        "note": "multilingual"
+      },
+      {
+        "lang": "id",
+        "name": "Partai Sosial Demokrat Finlandia",
+        "note": "multilingual"
+      },
+      {
+        "lang": "de",
+        "name": "Sozialdemokratische Partei Finnlands",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ja",
+        "name": "フィンランド社会民主党",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ar",
+        "name": "الحزب الاشتراكي الديمقراطي الفنلندي",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sv",
+        "name": "Socialdemokraterna",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nl",
+        "name": "Sociaaldemocratische Partij van Finland",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pt",
+        "name": "Partido Social Democrata da Finlândia",
+        "note": "multilingual"
+      },
+      {
+        "lang": "eo",
+        "name": "Finnlanda socialdemokratia partio",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ru",
+        "name": "Социал-демократическая партия Финляндии",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "Social Democratic Party of Finland",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ca",
+        "name": "Partit Socialdemòcrata de Finlàndia",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fi",
+        "name": "Suomen Sosialidemokraattinen Puolue",
+        "note": "multilingual"
+      },
+      {
+        "lang": "uk",
+        "name": "Соціал-демократична партія Фінляндії",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ka",
+        "name": "ფინეთის სოციალ-დემოკრატიული პარტია",
+        "note": "multilingual"
+      },
+      {
+        "lang": "lt",
+        "name": "Suomijos socialdemokratų partija",
+        "note": "multilingual"
+      },
+      {
+        "lang": "da",
+        "name": "Finlands Socialdemokratiske Parti",
+        "note": "multilingual"
+      },
+      {
+        "lang": "el",
+        "name": "Σοσιαλδημοκρατικό Κόμμα της Φινλανδίας",
+        "note": "multilingual"
+      },
+      {
+        "lang": "zh",
+        "name": "芬兰社会民主党",
+        "note": "multilingual"
+      },
+      {
+        "lang": "oc",
+        "name": "Partit Socialdemocrata de Finlàndia",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nb",
+        "name": "Finlands sosialdemokratiske parti",
+        "note": "multilingual"
+      },
+      {
+        "lang": "lv",
+        "name": "Somijas sociāldemokrātiskā partija",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sr",
+        "name": "Социјалдемократска партија Финске",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sco",
+        "name": "Social Democratic Pairty o Finland",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ro",
+        "name": "Partidul Social-Democrat din Finlanda",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ilo",
+        "name": "Partido Sosial Demokratiko ti Pinlandia",
+        "note": "multilingual"
+      },
+      {
+        "lang": "cs",
+        "name": "Finská sociálně demokratická strana",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pl",
+        "name": "Fińska Partia Socjaldemokratyczna",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pl",
+        "name": "Partia Socjaldemokratyczna",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "Parti social-démocrate finlandais",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "Parti social-démocrate",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "SDP",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "Sosiaalidemokraattinen Puolue",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "Suomen Sosialidemokraattinen Puolue",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "Parti social-democrate de Finlande",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Partido Socialdemocrata Finés",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Partido Socialdemócrata de Finlandia",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Partido Socialdemócrata Fines",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Partido Socialdemocrata de Finlandia",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Partido Socialdemocrata Fines",
+        "note": "multilingual"
+      },
+      {
+        "lang": "it",
+        "name": "Suomen Sosialidemokraattinen Puolue",
+        "note": "multilingual"
+      },
+      {
+        "lang": "it",
+        "name": "Partito Socialdemocratico di Finlandia",
+        "note": "multilingual"
+      },
+      {
+        "lang": "it",
+        "name": "SDP",
+        "note": "multilingual"
+      },
+      {
+        "lang": "it",
+        "name": "demarit",
+        "note": "multilingual"
+      },
+      {
+        "lang": "et",
+        "name": "Finlands Socialdemokratiska Partiet",
+        "note": "multilingual"
+      },
+      {
+        "lang": "et",
+        "name": "Sotsiaaldemokraatlik Partei",
+        "note": "multilingual"
+      },
+      {
+        "lang": "et",
+        "name": "Suomen Sosiaalidemokraattinen Puolue",
+        "note": "multilingual"
+      },
+      {
+        "lang": "de",
+        "name": "Finnische Sozialdemokratische Partei",
+        "note": "multilingual"
+      },
+      {
+        "lang": "de",
+        "name": "Suomen sosialidemokraattinen puolue",
+        "note": "multilingual"
+      },
+      {
+        "lang": "de",
+        "name": "Finlands Socialdemokratiska Parti",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sv",
+        "name": "Finlands Socialdemokratiska parti",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sv",
+        "name": "Suomen Sosialidemokraattinen Puolue",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nl",
+        "name": "Sociaal-Democratische Partij van Finland",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nl",
+        "name": "Suomen Sosialidemokraattinen Puolue",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nl",
+        "name": "Sociaal-Democratische Partij",
+        "note": "multilingual"
+      },
+      {
+        "lang": "eo",
+        "name": "Socialdemokrata partio",
+        "note": "multilingual"
+      },
+      {
+        "lang": "eo",
+        "name": "Suomen sosialidemokraattinen puolue",
+        "note": "multilingual"
+      },
+      {
+        "lang": "eo",
+        "name": "Finnlanda socialdemokrata partio",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ru",
+        "name": "СДПФ",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ru",
+        "name": "Suomen Sosialidemokraattinen Puolue",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fi",
+        "name": "Suomen Sosiaalidemokraattisen puolueen historia",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fi",
+        "name": "Sdp",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fi",
+        "name": "Sosialidemokraattinen puolue",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fi",
+        "name": "Demarit",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fi",
+        "name": "Sd.",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fi",
+        "name": "Suomen sosiaalidemokraattinen puolue",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fi",
+        "name": "Suomen Sosialidemokraattisen Puolueen historia",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fi",
+        "name": "SDP:n historia",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fi",
+        "name": "Suomen Sosialidemokraattisen Puolueen puoluehallitus",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "Suomen Sosialidemokraattinen Puolue",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "SDP",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "Finlands Socialdemokratiska Parti",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "demarit",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nb",
+        "name": "Finlands socialdemokratiska parti",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nb",
+        "name": "Finlands socialdemokratiske parti",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nb",
+        "name": "Suomen Sosialidemokraatinen Puolue",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nb",
+        "name": "Suomen Sosialidemokraattinen Puolue",
+        "note": "multilingual"
+      }
+    ],
+    "links": [
+      {
+        "url": "http://www.sdp.fi/",
+        "note": "website"
+      }
+    ]
+  },
   "kesk": {
     "identifiers": [
       {
@@ -500,6 +951,414 @@
       }
     ]
   },
+  "kok": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q304191"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "nl",
+        "name": "Nationale Coalitiepartij",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ar",
+        "name": "حزب الائتلاف الوطني الفنلندي",
+        "note": "multilingual"
+      },
+      {
+        "lang": "bg",
+        "name": "Национална коалиция",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ca",
+        "name": "Partit de la Coalició Nacional",
+        "note": "multilingual"
+      },
+      {
+        "lang": "da",
+        "name": "Samlingspartiet",
+        "note": "multilingual"
+      },
+      {
+        "lang": "de",
+        "name": "Nationale Sammlungspartei",
+        "note": "multilingual"
+      },
+      {
+        "lang": "el",
+        "name": "Κόμμα Εθνικού Συνασπισμού",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "National Coalition Party",
+        "note": "multilingual"
+      },
+      {
+        "lang": "eo",
+        "name": "Nacia koalicio",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Coalición Nacional",
+        "note": "multilingual"
+      },
+      {
+        "lang": "et",
+        "name": "Rahvuslik Koonderakond",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fi",
+        "name": "Kansallinen Kokoomus",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "Parti de la coalition nationale",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ga",
+        "name": "Kokoomus",
+        "note": "multilingual"
+      },
+      {
+        "lang": "hu",
+        "name": "Nemzeti Koalíció",
+        "note": "multilingual"
+      },
+      {
+        "lang": "it",
+        "name": "Partito della Coalizione Nazionale",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ja",
+        "name": "国民連合党",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ms",
+        "name": "Parti Campuran Nasional",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pl",
+        "name": "Partia Koalicji Narodowej",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pt",
+        "name": "Partido da Coligação Nacional",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ru",
+        "name": "Национальная коалиция",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sh",
+        "name": "Nacionalna koalicija",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sv",
+        "name": "Samlingspartiet",
+        "note": "multilingual"
+      },
+      {
+        "lang": "uk",
+        "name": "Національна коаліція",
+        "note": "multilingual"
+      },
+      {
+        "lang": "vi",
+        "name": "Đảng Liên hiệp Dân tộc",
+        "note": "multilingual"
+      },
+      {
+        "lang": "zh",
+        "name": "芬兰民族联合党",
+        "note": "multilingual"
+      },
+      {
+        "lang": "de-ch",
+        "name": "Nationale Sammlungspartei",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en-ca",
+        "name": "National Coalition Party",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en-gb",
+        "name": "National Coalition Party",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nb",
+        "name": "Samlingspartiet",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Partido da Coligação Nacional",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sr",
+        "name": "Партија националне коалиције",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sco",
+        "name": "Naitional Coalition Pairty",
+        "note": "multilingual"
+      },
+      {
+        "lang": "lt",
+        "name": "Nacionalinė koalicija",
+        "note": "multilingual"
+      },
+      {
+        "lang": "id",
+        "name": "Partai Koalisi Nasional",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ro",
+        "name": "Partidul Coaliției Naționale",
+        "note": "multilingual"
+      },
+      {
+        "lang": "cs",
+        "name": "Národní koaliční strana",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ko",
+        "name": "국민연합당",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "Kansallinen Kokoomus r.p.",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "Kokoomus",
+        "note": "multilingual"
+      },
+      {
+        "lang": "it",
+        "name": "Kokoomus",
+        "note": "multilingual"
+      },
+      {
+        "lang": "it",
+        "name": "Kok.",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fi",
+        "name": "Kansallinen Kokoomus r.p.",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fi",
+        "name": "Kokoomus",
+        "note": "multilingual"
+      }
+    ],
+    "links": [
+      {
+        "url": "http://www.kokoomus.fi/",
+        "note": "website"
+      }
+    ],
+    "srgb": "0000FF"
+  },
+  "vas": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q385927"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "hu",
+        "name": "Finn Baloldali Szövetség",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ar",
+        "name": "تحالف اليسار",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ca",
+        "name": "Aliança d'Esquerra",
+        "note": "multilingual"
+      },
+      {
+        "lang": "de",
+        "name": "Linksbündnis",
+        "note": "multilingual"
+      },
+      {
+        "lang": "el",
+        "name": "Αριστερή Συμμαχία",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "Left Alliance",
+        "note": "multilingual"
+      },
+      {
+        "lang": "eo",
+        "name": "Maldekstra Ligo",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Alianza de la Izquierda",
+        "note": "multilingual"
+      },
+      {
+        "lang": "et",
+        "name": "Vasakliit",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fa",
+        "name": "ائتلاف چپ",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fi",
+        "name": "Vasemmistoliitto",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "Alliance de gauche",
+        "note": "multilingual"
+      },
+      {
+        "lang": "it",
+        "name": "Alleanza di Sinistra",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ja",
+        "name": "左翼同盟",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nl",
+        "name": "Linkse Alliantie",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nn",
+        "name": "Venstreforbundet",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pl",
+        "name": "Sojusz Lewicy",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pt",
+        "name": "Aliança de Esquerda",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ru",
+        "name": "Левый союз",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sv",
+        "name": "Vänsterförbundet",
+        "note": "multilingual"
+      },
+      {
+        "lang": "uk",
+        "name": "Лівий союз",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nb",
+        "name": "Vänsterförbundet",
+        "note": "multilingual"
+      },
+      {
+        "lang": "da",
+        "name": "Venstreforbundet",
+        "note": "multilingual"
+      },
+      {
+        "lang": "zh",
+        "name": "左翼联盟",
+        "note": "multilingual"
+      },
+      {
+        "lang": "cs",
+        "name": "Levicová aliance",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ko",
+        "name": "좌파 동맹",
+        "note": "multilingual"
+      },
+      {
+        "lang": "it",
+        "name": "Vasemmistoliitto",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "Vasemmistoliitto",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "Vänsterförbundet",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fi",
+        "name": "Vänsterförbundet",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sv",
+        "name": "Vasemmistoliitto",
+        "note": "multilingual"
+      }
+    ],
+    "links": [
+      {
+        "url": "http://www.vasemmisto.fi/",
+        "note": "website"
+      }
+    ]
+  },
   "ps": {
     "identifiers": [
       {
@@ -886,694 +1745,6 @@
       }
     ]
   },
-  "kok": {
-    "identifiers": [
-      {
-        "scheme": "wikidata",
-        "identifier": "Q304191"
-      }
-    ],
-    "other_names": [
-      {
-        "lang": "nl",
-        "name": "Nationale Coalitiepartij",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ar",
-        "name": "حزب الائتلاف الوطني الفنلندي",
-        "note": "multilingual"
-      },
-      {
-        "lang": "bg",
-        "name": "Национална коалиция",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ca",
-        "name": "Partit de la Coalició Nacional",
-        "note": "multilingual"
-      },
-      {
-        "lang": "da",
-        "name": "Samlingspartiet",
-        "note": "multilingual"
-      },
-      {
-        "lang": "de",
-        "name": "Nationale Sammlungspartei",
-        "note": "multilingual"
-      },
-      {
-        "lang": "el",
-        "name": "Κόμμα Εθνικού Συνασπισμού",
-        "note": "multilingual"
-      },
-      {
-        "lang": "en",
-        "name": "National Coalition Party",
-        "note": "multilingual"
-      },
-      {
-        "lang": "eo",
-        "name": "Nacia koalicio",
-        "note": "multilingual"
-      },
-      {
-        "lang": "es",
-        "name": "Coalición Nacional",
-        "note": "multilingual"
-      },
-      {
-        "lang": "et",
-        "name": "Rahvuslik Koonderakond",
-        "note": "multilingual"
-      },
-      {
-        "lang": "fi",
-        "name": "Kansallinen Kokoomus",
-        "note": "multilingual"
-      },
-      {
-        "lang": "fr",
-        "name": "Parti de la coalition nationale",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ga",
-        "name": "Kokoomus",
-        "note": "multilingual"
-      },
-      {
-        "lang": "hu",
-        "name": "Nemzeti Koalíció",
-        "note": "multilingual"
-      },
-      {
-        "lang": "it",
-        "name": "Partito della Coalizione Nazionale",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ja",
-        "name": "国民連合党",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ms",
-        "name": "Parti Campuran Nasional",
-        "note": "multilingual"
-      },
-      {
-        "lang": "pl",
-        "name": "Partia Koalicji Narodowej",
-        "note": "multilingual"
-      },
-      {
-        "lang": "pt",
-        "name": "Partido da Coligação Nacional",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ru",
-        "name": "Национальная коалиция",
-        "note": "multilingual"
-      },
-      {
-        "lang": "sh",
-        "name": "Nacionalna koalicija",
-        "note": "multilingual"
-      },
-      {
-        "lang": "sv",
-        "name": "Samlingspartiet",
-        "note": "multilingual"
-      },
-      {
-        "lang": "uk",
-        "name": "Національна коаліція",
-        "note": "multilingual"
-      },
-      {
-        "lang": "vi",
-        "name": "Đảng Liên hiệp Dân tộc",
-        "note": "multilingual"
-      },
-      {
-        "lang": "zh",
-        "name": "芬兰民族联合党",
-        "note": "multilingual"
-      },
-      {
-        "lang": "de-ch",
-        "name": "Nationale Sammlungspartei",
-        "note": "multilingual"
-      },
-      {
-        "lang": "en-ca",
-        "name": "National Coalition Party",
-        "note": "multilingual"
-      },
-      {
-        "lang": "en-gb",
-        "name": "National Coalition Party",
-        "note": "multilingual"
-      },
-      {
-        "lang": "nb",
-        "name": "Samlingspartiet",
-        "note": "multilingual"
-      },
-      {
-        "lang": "pt-br",
-        "name": "Partido da Coligação Nacional",
-        "note": "multilingual"
-      },
-      {
-        "lang": "sr",
-        "name": "Партија националне коалиције",
-        "note": "multilingual"
-      },
-      {
-        "lang": "sco",
-        "name": "Naitional Coalition Pairty",
-        "note": "multilingual"
-      },
-      {
-        "lang": "lt",
-        "name": "Nacionalinė koalicija",
-        "note": "multilingual"
-      },
-      {
-        "lang": "id",
-        "name": "Partai Koalisi Nasional",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ro",
-        "name": "Partidul Coaliției Naționale",
-        "note": "multilingual"
-      },
-      {
-        "lang": "cs",
-        "name": "Národní koaliční strana",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ko",
-        "name": "국민연합당",
-        "note": "multilingual"
-      },
-      {
-        "lang": "en",
-        "name": "Kansallinen Kokoomus r.p.",
-        "note": "multilingual"
-      },
-      {
-        "lang": "en",
-        "name": "Kokoomus",
-        "note": "multilingual"
-      },
-      {
-        "lang": "it",
-        "name": "Kokoomus",
-        "note": "multilingual"
-      },
-      {
-        "lang": "it",
-        "name": "Kok.",
-        "note": "multilingual"
-      },
-      {
-        "lang": "fi",
-        "name": "Kansallinen Kokoomus r.p.",
-        "note": "multilingual"
-      },
-      {
-        "lang": "fi",
-        "name": "Kokoomus",
-        "note": "multilingual"
-      }
-    ],
-    "links": [
-      {
-        "url": "http://www.kokoomus.fi/",
-        "note": "website"
-      }
-    ],
-    "srgb": "0000FF"
-  },
-  "sd": {
-    "identifiers": [
-      {
-        "scheme": "wikidata",
-        "identifier": "Q499029"
-      }
-    ],
-    "other_names": [
-      {
-        "lang": "zh-hans",
-        "name": "芬兰社会民主党",
-        "note": "multilingual"
-      },
-      {
-        "lang": "zh-hant",
-        "name": "芬蘭社會民主黨",
-        "note": "multilingual"
-      },
-      {
-        "lang": "zh-hk",
-        "name": "芬蘭社會民主黨",
-        "note": "multilingual"
-      },
-      {
-        "lang": "pl",
-        "name": "Socjaldemokratyczna Partia Finlandii",
-        "note": "multilingual"
-      },
-      {
-        "lang": "fr",
-        "name": "Parti social-démocrate de Finlande",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ko",
-        "name": "핀란드 사회민주당",
-        "note": "multilingual"
-      },
-      {
-        "lang": "he",
-        "name": "המפלגה הסוציאל-דמוקרטית של פינלנד",
-        "note": "multilingual"
-      },
-      {
-        "lang": "es",
-        "name": "Partido Socialdemócrata Finés",
-        "note": "multilingual"
-      },
-      {
-        "lang": "hu",
-        "name": "Finn Szociáldemokrata Párt",
-        "note": "multilingual"
-      },
-      {
-        "lang": "it",
-        "name": "Partito Socialdemocratico Finlandese",
-        "note": "multilingual"
-      },
-      {
-        "lang": "et",
-        "name": "Soome Sotsiaaldemokraatlik Partei",
-        "note": "multilingual"
-      },
-      {
-        "lang": "id",
-        "name": "Partai Sosial Demokrat Finlandia",
-        "note": "multilingual"
-      },
-      {
-        "lang": "de",
-        "name": "Sozialdemokratische Partei Finnlands",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ja",
-        "name": "フィンランド社会民主党",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ar",
-        "name": "الحزب الاشتراكي الديمقراطي الفنلندي",
-        "note": "multilingual"
-      },
-      {
-        "lang": "sv",
-        "name": "Socialdemokraterna",
-        "note": "multilingual"
-      },
-      {
-        "lang": "nl",
-        "name": "Sociaaldemocratische Partij van Finland",
-        "note": "multilingual"
-      },
-      {
-        "lang": "pt",
-        "name": "Partido Social Democrata da Finlândia",
-        "note": "multilingual"
-      },
-      {
-        "lang": "eo",
-        "name": "Finnlanda socialdemokratia partio",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ru",
-        "name": "Социал-демократическая партия Финляндии",
-        "note": "multilingual"
-      },
-      {
-        "lang": "en",
-        "name": "Social Democratic Party of Finland",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ca",
-        "name": "Partit Socialdemòcrata de Finlàndia",
-        "note": "multilingual"
-      },
-      {
-        "lang": "fi",
-        "name": "Suomen Sosialidemokraattinen Puolue",
-        "note": "multilingual"
-      },
-      {
-        "lang": "uk",
-        "name": "Соціал-демократична партія Фінляндії",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ka",
-        "name": "ფინეთის სოციალ-დემოკრატიული პარტია",
-        "note": "multilingual"
-      },
-      {
-        "lang": "lt",
-        "name": "Suomijos socialdemokratų partija",
-        "note": "multilingual"
-      },
-      {
-        "lang": "da",
-        "name": "Finlands Socialdemokratiske Parti",
-        "note": "multilingual"
-      },
-      {
-        "lang": "el",
-        "name": "Σοσιαλδημοκρατικό Κόμμα της Φινλανδίας",
-        "note": "multilingual"
-      },
-      {
-        "lang": "zh",
-        "name": "芬兰社会民主党",
-        "note": "multilingual"
-      },
-      {
-        "lang": "oc",
-        "name": "Partit Socialdemocrata de Finlàndia",
-        "note": "multilingual"
-      },
-      {
-        "lang": "nb",
-        "name": "Finlands sosialdemokratiske parti",
-        "note": "multilingual"
-      },
-      {
-        "lang": "lv",
-        "name": "Somijas sociāldemokrātiskā partija",
-        "note": "multilingual"
-      },
-      {
-        "lang": "sr",
-        "name": "Социјалдемократска партија Финске",
-        "note": "multilingual"
-      },
-      {
-        "lang": "sco",
-        "name": "Social Democratic Pairty o Finland",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ro",
-        "name": "Partidul Social-Democrat din Finlanda",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ilo",
-        "name": "Partido Sosial Demokratiko ti Pinlandia",
-        "note": "multilingual"
-      },
-      {
-        "lang": "cs",
-        "name": "Finská sociálně demokratická strana",
-        "note": "multilingual"
-      },
-      {
-        "lang": "pl",
-        "name": "Fińska Partia Socjaldemokratyczna",
-        "note": "multilingual"
-      },
-      {
-        "lang": "pl",
-        "name": "Partia Socjaldemokratyczna",
-        "note": "multilingual"
-      },
-      {
-        "lang": "fr",
-        "name": "Parti social-démocrate finlandais",
-        "note": "multilingual"
-      },
-      {
-        "lang": "fr",
-        "name": "Parti social-démocrate",
-        "note": "multilingual"
-      },
-      {
-        "lang": "fr",
-        "name": "SDP",
-        "note": "multilingual"
-      },
-      {
-        "lang": "fr",
-        "name": "Sosiaalidemokraattinen Puolue",
-        "note": "multilingual"
-      },
-      {
-        "lang": "fr",
-        "name": "Suomen Sosialidemokraattinen Puolue",
-        "note": "multilingual"
-      },
-      {
-        "lang": "fr",
-        "name": "Parti social-democrate de Finlande",
-        "note": "multilingual"
-      },
-      {
-        "lang": "es",
-        "name": "Partido Socialdemocrata Finés",
-        "note": "multilingual"
-      },
-      {
-        "lang": "es",
-        "name": "Partido Socialdemócrata de Finlandia",
-        "note": "multilingual"
-      },
-      {
-        "lang": "es",
-        "name": "Partido Socialdemócrata Fines",
-        "note": "multilingual"
-      },
-      {
-        "lang": "es",
-        "name": "Partido Socialdemocrata de Finlandia",
-        "note": "multilingual"
-      },
-      {
-        "lang": "es",
-        "name": "Partido Socialdemocrata Fines",
-        "note": "multilingual"
-      },
-      {
-        "lang": "it",
-        "name": "Suomen Sosialidemokraattinen Puolue",
-        "note": "multilingual"
-      },
-      {
-        "lang": "it",
-        "name": "Partito Socialdemocratico di Finlandia",
-        "note": "multilingual"
-      },
-      {
-        "lang": "it",
-        "name": "SDP",
-        "note": "multilingual"
-      },
-      {
-        "lang": "it",
-        "name": "demarit",
-        "note": "multilingual"
-      },
-      {
-        "lang": "et",
-        "name": "Finlands Socialdemokratiska Partiet",
-        "note": "multilingual"
-      },
-      {
-        "lang": "et",
-        "name": "Sotsiaaldemokraatlik Partei",
-        "note": "multilingual"
-      },
-      {
-        "lang": "et",
-        "name": "Suomen Sosiaalidemokraattinen Puolue",
-        "note": "multilingual"
-      },
-      {
-        "lang": "de",
-        "name": "Finnische Sozialdemokratische Partei",
-        "note": "multilingual"
-      },
-      {
-        "lang": "de",
-        "name": "Suomen sosialidemokraattinen puolue",
-        "note": "multilingual"
-      },
-      {
-        "lang": "de",
-        "name": "Finlands Socialdemokratiska Parti",
-        "note": "multilingual"
-      },
-      {
-        "lang": "sv",
-        "name": "Finlands Socialdemokratiska parti",
-        "note": "multilingual"
-      },
-      {
-        "lang": "sv",
-        "name": "Suomen Sosialidemokraattinen Puolue",
-        "note": "multilingual"
-      },
-      {
-        "lang": "nl",
-        "name": "Sociaal-Democratische Partij van Finland",
-        "note": "multilingual"
-      },
-      {
-        "lang": "nl",
-        "name": "Suomen Sosialidemokraattinen Puolue",
-        "note": "multilingual"
-      },
-      {
-        "lang": "nl",
-        "name": "Sociaal-Democratische Partij",
-        "note": "multilingual"
-      },
-      {
-        "lang": "eo",
-        "name": "Socialdemokrata partio",
-        "note": "multilingual"
-      },
-      {
-        "lang": "eo",
-        "name": "Suomen sosialidemokraattinen puolue",
-        "note": "multilingual"
-      },
-      {
-        "lang": "eo",
-        "name": "Finnlanda socialdemokrata partio",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ru",
-        "name": "СДПФ",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ru",
-        "name": "Suomen Sosialidemokraattinen Puolue",
-        "note": "multilingual"
-      },
-      {
-        "lang": "fi",
-        "name": "Suomen Sosiaalidemokraattisen puolueen historia",
-        "note": "multilingual"
-      },
-      {
-        "lang": "fi",
-        "name": "Sdp",
-        "note": "multilingual"
-      },
-      {
-        "lang": "fi",
-        "name": "Sosialidemokraattinen puolue",
-        "note": "multilingual"
-      },
-      {
-        "lang": "fi",
-        "name": "Demarit",
-        "note": "multilingual"
-      },
-      {
-        "lang": "fi",
-        "name": "Sd.",
-        "note": "multilingual"
-      },
-      {
-        "lang": "fi",
-        "name": "Suomen sosiaalidemokraattinen puolue",
-        "note": "multilingual"
-      },
-      {
-        "lang": "fi",
-        "name": "Suomen Sosialidemokraattisen Puolueen historia",
-        "note": "multilingual"
-      },
-      {
-        "lang": "fi",
-        "name": "SDP:n historia",
-        "note": "multilingual"
-      },
-      {
-        "lang": "fi",
-        "name": "Suomen Sosialidemokraattisen Puolueen puoluehallitus",
-        "note": "multilingual"
-      },
-      {
-        "lang": "en",
-        "name": "Suomen Sosialidemokraattinen Puolue",
-        "note": "multilingual"
-      },
-      {
-        "lang": "en",
-        "name": "SDP",
-        "note": "multilingual"
-      },
-      {
-        "lang": "en",
-        "name": "Finlands Socialdemokratiska Parti",
-        "note": "multilingual"
-      },
-      {
-        "lang": "en",
-        "name": "demarit",
-        "note": "multilingual"
-      },
-      {
-        "lang": "nb",
-        "name": "Finlands socialdemokratiska parti",
-        "note": "multilingual"
-      },
-      {
-        "lang": "nb",
-        "name": "Finlands socialdemokratiske parti",
-        "note": "multilingual"
-      },
-      {
-        "lang": "nb",
-        "name": "Suomen Sosialidemokraatinen Puolue",
-        "note": "multilingual"
-      },
-      {
-        "lang": "nb",
-        "name": "Suomen Sosialidemokraattinen Puolue",
-        "note": "multilingual"
-      }
-    ],
-    "links": [
-      {
-        "url": "http://www.sdp.fi/",
-        "note": "website"
-      }
-    ]
-  },
   "vihr": {
     "identifiers": [
       {
@@ -1770,177 +1941,6 @@
       }
     ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/89/Vihreä_Liitto_Logo.svg"
-  },
-  "vas": {
-    "identifiers": [
-      {
-        "scheme": "wikidata",
-        "identifier": "Q385927"
-      }
-    ],
-    "other_names": [
-      {
-        "lang": "hu",
-        "name": "Finn Baloldali Szövetség",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ar",
-        "name": "تحالف اليسار",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ca",
-        "name": "Aliança d'Esquerra",
-        "note": "multilingual"
-      },
-      {
-        "lang": "de",
-        "name": "Linksbündnis",
-        "note": "multilingual"
-      },
-      {
-        "lang": "el",
-        "name": "Αριστερή Συμμαχία",
-        "note": "multilingual"
-      },
-      {
-        "lang": "en",
-        "name": "Left Alliance",
-        "note": "multilingual"
-      },
-      {
-        "lang": "eo",
-        "name": "Maldekstra Ligo",
-        "note": "multilingual"
-      },
-      {
-        "lang": "es",
-        "name": "Alianza de la Izquierda",
-        "note": "multilingual"
-      },
-      {
-        "lang": "et",
-        "name": "Vasakliit",
-        "note": "multilingual"
-      },
-      {
-        "lang": "fa",
-        "name": "ائتلاف چپ",
-        "note": "multilingual"
-      },
-      {
-        "lang": "fi",
-        "name": "Vasemmistoliitto",
-        "note": "multilingual"
-      },
-      {
-        "lang": "fr",
-        "name": "Alliance de gauche",
-        "note": "multilingual"
-      },
-      {
-        "lang": "it",
-        "name": "Alleanza di Sinistra",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ja",
-        "name": "左翼同盟",
-        "note": "multilingual"
-      },
-      {
-        "lang": "nl",
-        "name": "Linkse Alliantie",
-        "note": "multilingual"
-      },
-      {
-        "lang": "nn",
-        "name": "Venstreforbundet",
-        "note": "multilingual"
-      },
-      {
-        "lang": "pl",
-        "name": "Sojusz Lewicy",
-        "note": "multilingual"
-      },
-      {
-        "lang": "pt",
-        "name": "Aliança de Esquerda",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ru",
-        "name": "Левый союз",
-        "note": "multilingual"
-      },
-      {
-        "lang": "sv",
-        "name": "Vänsterförbundet",
-        "note": "multilingual"
-      },
-      {
-        "lang": "uk",
-        "name": "Лівий союз",
-        "note": "multilingual"
-      },
-      {
-        "lang": "nb",
-        "name": "Vänsterförbundet",
-        "note": "multilingual"
-      },
-      {
-        "lang": "da",
-        "name": "Venstreforbundet",
-        "note": "multilingual"
-      },
-      {
-        "lang": "zh",
-        "name": "左翼联盟",
-        "note": "multilingual"
-      },
-      {
-        "lang": "cs",
-        "name": "Levicová aliance",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ko",
-        "name": "좌파 동맹",
-        "note": "multilingual"
-      },
-      {
-        "lang": "it",
-        "name": "Vasemmistoliitto",
-        "note": "multilingual"
-      },
-      {
-        "lang": "en",
-        "name": "Vasemmistoliitto",
-        "note": "multilingual"
-      },
-      {
-        "lang": "en",
-        "name": "Vänsterförbundet",
-        "note": "multilingual"
-      },
-      {
-        "lang": "fi",
-        "name": "Vänsterförbundet",
-        "note": "multilingual"
-      },
-      {
-        "lang": "sv",
-        "name": "Vasemmistoliitto",
-        "note": "multilingual"
-      }
-    ],
-    "links": [
-      {
-        "url": "http://www.vasemmisto.fi/",
-        "note": "website"
-      }
-    ]
   },
   "r": {
     "identifiers": [
@@ -2562,6 +2562,241 @@
       {
         "url": "http://www.kristillisdemokraatit.fi/",
         "note": "website"
+      }
+    ]
+  },
+  "Demokraattinen vaihtoehto": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q540982"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "de",
+        "name": "Demokratische Alternative",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ca",
+        "name": "Alternativa Democràtica",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "Democratic Alternative",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fi",
+        "name": "Demokraattinen Vaihtoehto",
+        "note": "multilingual"
+      },
+      {
+        "lang": "it",
+        "name": "Alternativa Democratica",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sv",
+        "name": "Demokratiskt Alternativ",
+        "note": "multilingual"
+      }
+    ]
+  },
+  "Vasemmistoryhmä": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q18675418"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "fi",
+        "name": "Vasemmistoryhmä",
+        "note": "multilingual"
+      }
+    ]
+  },
+  "Vasenryhmän eduskuntaryhmä": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q11900616"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "fi",
+        "name": "Vasenryhmä",
+        "note": "multilingual"
+      }
+    ]
+  },
+  "Remonttiryhmä": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q15117358"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "Reform Group (Finland)",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fi",
+        "name": "Remonttiryhmä",
+        "note": "multilingual"
+      }
+    ]
+  },
+  "Suomen maaseudun puolueen eduskuntaryhmä": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q1854411"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "de",
+        "name": "Suomen maaseudun puolue",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "Parti rural de Finlande",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "Finnish Rural Party",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fi",
+        "name": "Suomen Maaseudun Puolue",
+        "note": "multilingual"
+      },
+      {
+        "lang": "it",
+        "name": "Partito Rurale Finlandese",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sv",
+        "name": "Finlands landsbygdsparti",
+        "note": "multilingual"
+      },
+      {
+        "lang": "et",
+        "name": "Soome Maapartei",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nl",
+        "name": "Finnish Rural Party",
+        "note": "multilingual"
+      },
+      {
+        "lang": "de",
+        "name": "Landpartei Finnlands",
+        "note": "multilingual"
+      },
+      {
+        "lang": "de",
+        "name": "Finnische Agrarpartei",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "Parti rural finlandais",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fi",
+        "name": "SMP",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fi",
+        "name": "Suomen Pientalonpoikien Puolue",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fi",
+        "name": "Vennamolaiset",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fi",
+        "name": "Pientalonpoika",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "Suomen Maaseudun Puolue",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "SMP",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "Suomen Pientalonpoikien Puolue",
+        "note": "multilingual"
+      }
+    ]
+  },
+  "Eduskuntaryhmä Nuorsuomalaiset ja Risto Kuisma": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q8058120"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "fi",
+        "name": "Nuorsuomalaiset",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "Young Finns",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sv",
+        "name": "Ungfinnarna",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fi",
+        "name": "Nusu",
+        "note": "multilingual"
+      }
+    ]
+  },
+  "m11": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q18675318"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "fi",
+        "name": "Muutos 2011 -eduskuntaryhmä",
+        "note": "multilingual"
       }
     ]
   }
