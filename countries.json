@@ -141,19 +141,19 @@
         "slug": "Majlis",
         "sources_directory": "data/Algeria/Majlis/sources",
         "popolo": "data/Algeria/Majlis/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/9e02262/data/Algeria/Majlis/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/c89ad4f/data/Algeria/Majlis/ep-popolo-v1.0.json",
         "names": "data/Algeria/Majlis/names.csv",
-        "lastmod": "1465311830",
+        "lastmod": "1465724971",
         "person_count": 478,
-        "sha": "9e02262",
+        "sha": "c89ad4f",
         "legislative_periods": [
           {
             "id": "term/7",
             "name": "7th National Assembly",
-            "start_date": "2012",
+            "start_date": "2012-05-10",
             "slug": "7",
             "csv": "data/Algeria/Majlis/term-7.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/9e02262/data/Algeria/Majlis/term-7.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/c89ad4f/data/Algeria/Majlis/term-7.csv"
           }
         ],
         "statement_count": 8255
