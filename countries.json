@@ -6314,29 +6314,29 @@
         "slug": "Assembly",
         "sources_directory": "data/Namibia/Assembly/sources",
         "popolo": "data/Namibia/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a0e8966/data/Namibia/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/795cc98/data/Namibia/Assembly/ep-popolo-v1.0.json",
         "names": "data/Namibia/Assembly/names.csv",
-        "lastmod": "1465673842",
+        "lastmod": "1465731391",
         "person_count": 266,
-        "sha": "a0e8966",
+        "sha": "795cc98",
         "legislative_periods": [
           {
             "end_date": "2020",
             "id": "term/6",
             "name": "6th National Assembly: 2015 - 2020",
-            "start_date": "2015",
+            "start_date": "2015-03-20",
             "slug": "6",
             "csv": "data/Namibia/Assembly/term-6.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a0e8966/data/Namibia/Assembly/term-6.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/795cc98/data/Namibia/Assembly/term-6.csv"
           },
           {
-            "end_date": "2015",
+            "end_date": "2015-03-19",
             "id": "term/5",
             "name": "5th National Assembly: 2010 - 2015",
             "start_date": "2010",
             "slug": "5",
             "csv": "data/Namibia/Assembly/term-5.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a0e8966/data/Namibia/Assembly/term-5.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/795cc98/data/Namibia/Assembly/term-5.csv"
           },
           {
             "end_date": "2010",
@@ -6345,7 +6345,7 @@
             "start_date": "2005",
             "slug": "4",
             "csv": "data/Namibia/Assembly/term-4.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a0e8966/data/Namibia/Assembly/term-4.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/795cc98/data/Namibia/Assembly/term-4.csv"
           },
           {
             "end_date": "2005",
@@ -6354,7 +6354,7 @@
             "start_date": "2000",
             "slug": "3",
             "csv": "data/Namibia/Assembly/term-3.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a0e8966/data/Namibia/Assembly/term-3.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/795cc98/data/Namibia/Assembly/term-3.csv"
           },
           {
             "end_date": "2000",
@@ -6363,7 +6363,7 @@
             "start_date": "1995",
             "slug": "2",
             "csv": "data/Namibia/Assembly/term-2.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a0e8966/data/Namibia/Assembly/term-2.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/795cc98/data/Namibia/Assembly/term-2.csv"
           },
           {
             "end_date": "1995",
@@ -6372,7 +6372,7 @@
             "start_date": "1990",
             "slug": "1",
             "csv": "data/Namibia/Assembly/term-1.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a0e8966/data/Namibia/Assembly/term-1.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/795cc98/data/Namibia/Assembly/term-1.csv"
           },
           {
             "end_date": "1990",
@@ -6381,7 +6381,7 @@
             "start_date": "1989",
             "slug": "0",
             "csv": "data/Namibia/Assembly/term-0.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a0e8966/data/Namibia/Assembly/term-0.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/795cc98/data/Namibia/Assembly/term-0.csv"
           }
         ],
         "statement_count": 9688
@@ -6391,50 +6391,58 @@
         "slug": "Council",
         "sources_directory": "data/Namibia/Council/sources",
         "popolo": "data/Namibia/Council/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3cdc547/data/Namibia/Council/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/fcb12c5/data/Namibia/Council/ep-popolo-v1.0.json",
         "names": "data/Namibia/Council/names.csv",
-        "lastmod": "1464962394",
-        "person_count": 81,
-        "sha": "3cdc547",
+        "lastmod": "1465732186",
+        "person_count": 115,
+        "sha": "fcb12c5",
         "legislative_periods": [
           {
-            "end_date": "2015",
+            "id": "term/5",
+            "name": "5th National Council",
+            "start_date": "2015-12-18",
+            "slug": "5",
+            "csv": "data/Namibia/Council/term-5.csv",
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/fcb12c5/data/Namibia/Council/term-5.csv"
+          },
+          {
+            "end_date": "2015-12-17",
             "id": "term/4",
-            "name": "4th National Council: 2010 - 2015",
+            "name": "4th National Council",
             "start_date": "2010",
             "slug": "4",
             "csv": "data/Namibia/Council/term-4.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3cdc547/data/Namibia/Council/term-4.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/fcb12c5/data/Namibia/Council/term-4.csv"
           },
           {
             "end_date": "2010",
             "id": "term/3",
-            "name": "3rd National Council: 2004 - 2010",
+            "name": "3rd National Council",
             "start_date": "2004",
             "slug": "3",
             "csv": "data/Namibia/Council/term-3.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3cdc547/data/Namibia/Council/term-3.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/fcb12c5/data/Namibia/Council/term-3.csv"
           },
           {
             "end_date": "2004",
             "id": "term/2",
-            "name": "2nd National Council: 1998 - 2004",
+            "name": "2nd National Council",
             "start_date": "1998",
             "slug": "2",
             "csv": "data/Namibia/Council/term-2.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3cdc547/data/Namibia/Council/term-2.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/fcb12c5/data/Namibia/Council/term-2.csv"
           },
           {
             "end_date": "1998",
             "id": "term/1",
-            "name": "1st National Council: 1993 - 1998",
+            "name": "1st National Council",
             "start_date": "1993",
             "slug": "1",
             "csv": "data/Namibia/Council/term-1.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3cdc547/data/Namibia/Council/term-1.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/fcb12c5/data/Namibia/Council/term-1.csv"
           }
         ],
-        "statement_count": 1548
+        "statement_count": 2072
       }
     ]
   },
