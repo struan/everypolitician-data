@@ -13,7 +13,7 @@
         "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "http://www.lagtinget.ax",
-      "type": "wikidata",
+      "type": "membership",
       "merge": {
         "incoming_field": "name",
         "existing_field": "name",
