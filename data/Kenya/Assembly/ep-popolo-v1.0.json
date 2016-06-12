@@ -12364,6 +12364,7 @@
       ],
       "email": "info@timwanyonyi.com",
       "gender": "male",
+      "given_name": "Timothy",
       "id": "8303c34c-5843-4b44-bf97-88064858b14d",
       "identifiers": [
         {
@@ -12733,6 +12734,11 @@
         {
           "lang": "fr",
           "name": "Wesley Korir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ウェズリー・コリール",
           "note": "multilingual"
         },
         {
@@ -14448,6 +14454,11 @@
         {
           "lang": "ru",
           "name": "Национальная радужная коалиция",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "国民虹の連合",
           "note": "multilingual"
         },
         {
@@ -17760,6 +17771,13 @@
       "id": "Q4272061",
       "name": "Kenyan parliamentary election, 2007",
       "start_date": "2007-12-27"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2013-03-04",
+      "id": "Q6375976",
+      "name": "Kenyan general election 2013",
+      "start_date": "2013-03-04"
     },
     {
       "classification": "legislative period",
