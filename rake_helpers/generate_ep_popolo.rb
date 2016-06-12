@@ -68,7 +68,7 @@ namespace :transform do
     raise "No terms.csv" if termfiles.count.zero?
     raise "Too many terms.csv [#{termfiles}]" if termfiles.count > 1
 
-    CSV.read(termfiles.first, headers:true).map do |row|
+    CSV.read(termfiles.first, headers:true).reject { |r| r.empty? }.map do |row|
       {
         id: row['id'][/\//] ? row['id'] : "term/#{row['id']}",
         name: row['name'],
