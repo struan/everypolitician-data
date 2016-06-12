@@ -27,6 +27,7 @@
     },
     {
       "file": "manual/old-official-2015.csv",
+      "note": "this can be removed, and the following entry changed to Membership, once the missing twitter, email etc return",
       "merge": {
         "incoming_field": "sort_name",
         "existing_field": "sort_name",
