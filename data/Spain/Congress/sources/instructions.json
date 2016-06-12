@@ -15,7 +15,7 @@
       "create": {
         "from": "morph",
         "scraper": "struan/spain_congreso_es",
-        "query": "SELECT *, NULL as dob, NULL AS start_date, NULL AS end_date FROM data WHERE term = '10' ORDER BY id"
+        "query": "SELECT *, NULL as dob, NULL AS start_date, NULL AS end_date, NULL AS iddiputado FROM data WHERE term = '10' ORDER BY id"
       },
       "merge": {
         "incoming_field": "sort_name",
@@ -41,7 +41,7 @@
       "create": {
         "from": "morph",
         "scraper": "struan/spain_congreso_es",
-        "query": "SELECT *, NULL as dob, NULL AS start_date, NULL AS end_date FROM data WHERE term = '11' ORDER BY id"
+        "query": "SELECT *, NULL as dob, NULL AS start_date, NULL AS end_date, NULL AS iddiputado FROM data WHERE term = '11' ORDER BY id"
       },
       "merge": {
         "incoming_field": "sort_name",
