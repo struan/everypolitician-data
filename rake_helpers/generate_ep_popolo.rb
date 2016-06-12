@@ -167,7 +167,7 @@ namespace :transform do
     instructions(:sources).find_all { |src| src[:type].to_s.downcase == 'wikidata-elections' }.each do |src|
       elections = JSON.parse(File.read(src[:file]), symbolize_names: true)
       elections.each do |id, data|
-        name = data[:other_names].find { |h| h[:lang] == 'en' } or abort "no English name for #{data}"
+        name = data[:other_names].find { |h| h[:lang] == 'en' } or next warn "no English name for #{id}"
         dates = [ data[:dates], data[:start_date], data[:end_date] ].flatten.compact.sort 
         next warn "No dates for election #{id} (#{name[:name]})" if dates.empty?
 
