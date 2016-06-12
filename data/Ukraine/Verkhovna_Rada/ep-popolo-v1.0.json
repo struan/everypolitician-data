@@ -17807,6 +17807,7 @@
       "patronymic_name": "Петрович"
     },
     {
+      "birth_date": "1972-08-07",
       "family_name": "Мепарішвілі",
       "given_name": "Хвича",
       "id": "ed8972ac-fddc-41ea-b2f8-70dc8d94dc09",
@@ -17814,6 +17815,10 @@
         {
           "identifier": "19740",
           "scheme": "rada"
+        },
+        {
+          "identifier": "Q24529732",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://static.rada.gov.ua/dep_img8/nf78.jpg",
@@ -17822,7 +17827,20 @@
           "url": "http://static.rada.gov.ua/dep_img8/nf78.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Мепарішвілі_Хвича_Нодарович"
+        }
+      ],
       "name": "Мепарішвілі Хвича Нодарович",
+      "other_names": [
+        {
+          "lang": "uk",
+          "name": "Мепарішвілі Хвича Нодарович",
+          "note": "multilingual"
+        }
+      ],
       "patronymic_name": "Нодарович"
     },
     {
