@@ -3491,6 +3491,21 @@
           "lang": "uk",
           "name": "Антті Рінне",
           "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "安蒂·林奈",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "安蒂·林内",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "安蒂·林內",
+          "note": "multilingual"
         }
       ]
     },
@@ -20299,6 +20314,16 @@
           "lang": "nl",
           "name": "Kari Urpilainen",
           "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "卡里·乌尔皮莱宁",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "卡里·烏爾皮萊寧",
+          "note": "multilingual"
         }
       ],
       "sort_name": "Urpilainen Kari",
@@ -23078,6 +23103,16 @@
           "lang": "sv",
           "name": "Lauri Ihalainen",
           "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "劳里·伊哈莱宁",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "勞里·伊哈萊寧",
+          "note": "multilingual"
         }
       ],
       "sort_name": "Ihalainen Lauri",
@@ -23905,6 +23940,16 @@
         {
           "lang": "sv",
           "name": "Li Andersson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "莉·安德尔松",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "莉·安德爾鬆",
           "note": "multilingual"
         }
       ]
@@ -36827,6 +36872,10 @@
           "url": "https://sv.wikipedia.org/wiki/Petteri_Orpo"
         },
         {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/佩泰里·奥尔波"
+        },
+        {
           "note": "website",
           "url": "http://orpo.fi/"
         },
@@ -37787,6 +37836,16 @@
         {
           "lang": "sv",
           "name": "Päivi Räsänen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "拜依维·莱塞宁",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "拜依維·萊塞寧",
           "note": "multilingual"
         }
       ],
@@ -41023,6 +41082,16 @@
         {
           "lang": "sv",
           "name": "Sari Essayah",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "萨丽·艾萨叶",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "薩麗·艾薩葉",
           "note": "multilingual"
         }
       ],
@@ -45677,6 +45746,16 @@
           "lang": "zh",
           "name": "塔加·克隆伯格",
           "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "塔里娅·克龙贝里",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "塔里婭·克龍貝里",
+          "note": "multilingual"
         }
       ],
       "sort_name": "Cronberg Tarja",
@@ -48180,6 +48259,11 @@
           "lang": "uk",
           "name": "Тімо Сойні",
           "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "蒂莫·索依尼",
+          "note": "multilingual"
         }
       ],
       "sort_name": "Soini Timo",
@@ -48570,6 +48654,10 @@
         {
           "note": "Wikipedia (fi)",
           "url": "https://fi.wikipedia.org/wiki/Tommy_Tabermann"
+        },
+        {
+          "note": "Wikipedia (fiwikiquote)",
+          "url": "https://fiwikiquote.wikipedia.org/wiki/Tommy_Tabermann"
         },
         {
           "note": "Wikipedia (nl)",
@@ -51294,7 +51382,45 @@
     {
       "classification": "party",
       "id": "Demokraattinen vaihtoehto",
-      "name": "Demokraattinen vaihtoehto"
+      "identifiers": [
+        {
+          "identifier": "Q540982",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Demokraattinen vaihtoehto",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Demokratische Alternative",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Alternativa Democràtica",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Democratic Alternative",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Demokraattinen Vaihtoehto",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Alternativa Democratica",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Demokratiskt Alternativ",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "legislature",
@@ -51316,7 +51442,35 @@
     {
       "classification": "party",
       "id": "Eduskuntaryhmä Nuorsuomalaiset ja Risto Kuisma",
-      "name": "Eduskuntaryhmä Nuorsuomalaiset ja Risto Kuisma"
+      "identifiers": [
+        {
+          "identifier": "Q8058120",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Eduskuntaryhmä Nuorsuomalaiset ja Risto Kuisma",
+      "other_names": [
+        {
+          "lang": "fi",
+          "name": "Nuorsuomalaiset",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Young Finns",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Ungfinnarna",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Nusu",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
@@ -52210,6 +52364,16 @@
           "note": "multilingual"
         },
         {
+          "lang": "zh-hant",
+          "name": "芬蘭基督教民主黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "芬兰基督教民主党",
+          "note": "multilingual"
+        },
+        {
           "lang": "eo",
           "name": "Finnaj Kristandemokratoj",
           "note": "multilingual"
@@ -52364,7 +52528,20 @@
     {
       "classification": "party",
       "id": "m11",
-      "name": "Muutos 2011"
+      "identifiers": [
+        {
+          "identifier": "Q18675318",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Muutos 2011",
+      "other_names": [
+        {
+          "lang": "fi",
+          "name": "Muutos 2011 -eduskuntaryhmä",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
@@ -53103,7 +53280,25 @@
     {
       "classification": "party",
       "id": "Remonttiryhmä",
-      "name": "Remonttiryhmä"
+      "identifiers": [
+        {
+          "identifier": "Q15117358",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Remonttiryhmä",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Reform Group (Finland)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Remonttiryhmä",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
@@ -53567,7 +53762,105 @@
     {
       "classification": "party",
       "id": "Suomen maaseudun puolueen eduskuntaryhmä",
-      "name": "Suomen maaseudun puolueen eduskuntaryhmä"
+      "identifiers": [
+        {
+          "identifier": "Q1854411",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Suomen maaseudun puolueen eduskuntaryhmä",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Suomen maaseudun puolue",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti rural de Finlande",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Finnish Rural Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Suomen Maaseudun Puolue",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Partito Rurale Finlandese",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Finlands landsbygdsparti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Soome Maapartei",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Finnish Rural Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Landpartei Finnlands",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Finnische Agrarpartei",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti rural finlandais",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "SMP",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Suomen Pientalonpoikien Puolue",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Vennamolaiset",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Pientalonpoika",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Suomen Maaseudun Puolue",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "SMP",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Suomen Pientalonpoikien Puolue",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
@@ -53746,12 +54039,38 @@
     {
       "classification": "party",
       "id": "Vasemmistoryhmä",
-      "name": "Vasemmistoryhmä"
+      "identifiers": [
+        {
+          "identifier": "Q18675418",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Vasemmistoryhmä",
+      "other_names": [
+        {
+          "lang": "fi",
+          "name": "Vasemmistoryhmä",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "Vasenryhmän eduskuntaryhmä",
-      "name": "Vasenryhmän eduskuntaryhmä"
+      "identifiers": [
+        {
+          "identifier": "Q11900616",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Vasenryhmän eduskuntaryhmä",
+      "other_names": [
+        {
+          "lang": "fi",
+          "name": "Vasenryhmä",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
