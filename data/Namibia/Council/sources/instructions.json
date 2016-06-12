@@ -12,13 +12,7 @@
     },
     {
       "file": "morph/terms.csv",
-      "type": "term",
-      "create": {
-        "file": "morph/terms.csv",
-        "from": "morph",
-        "scraper": "duncanparkes/namibia",
-        "query": "SELECT *, term_number AS id FROM terms WHERE id LIKE '%Council%'"
-      }
+      "type": "term"
     },
     {
       "file": "gender-balance/results.csv",
