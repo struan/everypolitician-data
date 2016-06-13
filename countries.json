@@ -5176,22 +5176,23 @@
         "slug": "Assembly",
         "sources_directory": "data/Laos/Assembly/sources",
         "popolo": "data/Laos/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/75b7651/data/Laos/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/f53be19/data/Laos/Assembly/ep-popolo-v1.0.json",
         "names": "data/Laos/Assembly/names.csv",
-        "lastmod": "1465812521",
+        "lastmod": "1465852502",
         "person_count": 132,
-        "sha": "75b7651",
+        "sha": "f53be19",
         "legislative_periods": [
           {
+            "end_date": "2016-03-20",
             "id": "term/2011",
-            "name": "2011–",
-            "start_date": "2011",
+            "name": "2011–2016",
+            "start_date": "2011-06-15",
             "slug": "2011",
             "csv": "data/Laos/Assembly/term-2011.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/75b7651/data/Laos/Assembly/term-2011.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/f53be19/data/Laos/Assembly/term-2011.csv"
           }
         ],
-        "statement_count": 1810
+        "statement_count": 1811
       }
     ]
   },
