@@ -1324,20 +1324,20 @@
         "slug": "Council",
         "sources_directory": "data/British_Virgin_Islands/Council/sources",
         "popolo": "data/British_Virgin_Islands/Council/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/5dd2b6b/data/British_Virgin_Islands/Council/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a19487f/data/British_Virgin_Islands/Council/ep-popolo-v1.0.json",
         "names": "data/British_Virgin_Islands/Council/names.csv",
-        "lastmod": "1460885827",
+        "lastmod": "1465806000",
         "person_count": 36,
-        "sha": "5dd2b6b",
+        "sha": "a19487f",
         "legislative_periods": [
           {
-            "end_date": "2007",
+            "end_date": "2007-08-20",
             "id": "term/2003",
             "name": "15th Council",
-            "start_date": "2003",
+            "start_date": "2003-06-16",
             "slug": "2003",
             "csv": "data/British_Virgin_Islands/Council/term-2003.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/5dd2b6b/data/British_Virgin_Islands/Council/term-2003.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a19487f/data/British_Virgin_Islands/Council/term-2003.csv"
           },
           {
             "end_date": "2003",
@@ -1346,7 +1346,7 @@
             "start_date": "1999",
             "slug": "1999",
             "csv": "data/British_Virgin_Islands/Council/term-1999.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/5dd2b6b/data/British_Virgin_Islands/Council/term-1999.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a19487f/data/British_Virgin_Islands/Council/term-1999.csv"
           },
           {
             "end_date": "1999",
@@ -1355,7 +1355,7 @@
             "start_date": "1995",
             "slug": "1995",
             "csv": "data/British_Virgin_Islands/Council/term-1995.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/5dd2b6b/data/British_Virgin_Islands/Council/term-1995.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a19487f/data/British_Virgin_Islands/Council/term-1995.csv"
           },
           {
             "end_date": "1995",
@@ -1364,7 +1364,7 @@
             "start_date": "1990",
             "slug": "1990",
             "csv": "data/British_Virgin_Islands/Council/term-1990.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/5dd2b6b/data/British_Virgin_Islands/Council/term-1990.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a19487f/data/British_Virgin_Islands/Council/term-1990.csv"
           },
           {
             "end_date": "1990",
@@ -1373,7 +1373,7 @@
             "start_date": "1986",
             "slug": "1986",
             "csv": "data/British_Virgin_Islands/Council/term-1986.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/5dd2b6b/data/British_Virgin_Islands/Council/term-1986.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a19487f/data/British_Virgin_Islands/Council/term-1986.csv"
           },
           {
             "end_date": "1986",
@@ -1382,7 +1382,7 @@
             "start_date": "1983",
             "slug": "1983",
             "csv": "data/British_Virgin_Islands/Council/term-1983.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/5dd2b6b/data/British_Virgin_Islands/Council/term-1983.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a19487f/data/British_Virgin_Islands/Council/term-1983.csv"
           },
           {
             "end_date": "1983",
@@ -1391,7 +1391,7 @@
             "start_date": "1979",
             "slug": "1979",
             "csv": "data/British_Virgin_Islands/Council/term-1979.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/5dd2b6b/data/British_Virgin_Islands/Council/term-1979.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a19487f/data/British_Virgin_Islands/Council/term-1979.csv"
           },
           {
             "end_date": "1979",
@@ -1400,7 +1400,7 @@
             "start_date": "1975",
             "slug": "1975",
             "csv": "data/British_Virgin_Islands/Council/term-1975.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/5dd2b6b/data/British_Virgin_Islands/Council/term-1975.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a19487f/data/British_Virgin_Islands/Council/term-1975.csv"
           },
           {
             "end_date": "1975",
@@ -1409,7 +1409,7 @@
             "start_date": "1971",
             "slug": "1971",
             "csv": "data/British_Virgin_Islands/Council/term-1971.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/5dd2b6b/data/British_Virgin_Islands/Council/term-1971.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a19487f/data/British_Virgin_Islands/Council/term-1971.csv"
           }
         ],
         "statement_count": 1263
@@ -4528,11 +4528,11 @@
         "slug": "House-of-Keys",
         "sources_directory": "data/Isle_of_Man/House_of_Keys/sources",
         "popolo": "data/Isle_of_Man/House_of_Keys/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/280353b/data/Isle_of_Man/House_of_Keys/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/d5a7f6d/data/Isle_of_Man/House_of_Keys/ep-popolo-v1.0.json",
         "names": "data/Isle_of_Man/House_of_Keys/names.csv",
-        "lastmod": "1465503122",
+        "lastmod": "1465810901",
         "person_count": 28,
-        "sha": "280353b",
+        "sha": "d5a7f6d",
         "legislative_periods": [
           {
             "id": "term/2011",
@@ -4540,7 +4540,7 @@
             "start_date": "2011-10-04",
             "slug": "2011",
             "csv": "data/Isle_of_Man/House_of_Keys/term-2011.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/280353b/data/Isle_of_Man/House_of_Keys/term-2011.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/d5a7f6d/data/Isle_of_Man/House_of_Keys/term-2011.csv"
           }
         ],
         "statement_count": 1371
