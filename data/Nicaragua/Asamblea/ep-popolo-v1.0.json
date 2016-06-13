@@ -1,4 +1,7 @@
 {
+  "posts": [
+
+  ],
   "persons": [
     {
       "contact_details": [
@@ -2841,6 +2844,11 @@
           "lang": "fr",
           "name": "Parti libéral indépendant",
           "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "独立自由党",
+          "note": "multilingual"
         }
       ]
     },
@@ -2982,7 +2990,7 @@
         },
         {
           "lang": "ro",
-          "name": "Politician independent",
+          "name": "politician independent",
           "note": "multilingual"
         },
         {
@@ -3133,6 +3141,16 @@
         {
           "lang": "sd",
           "name": "آزاد",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Politicus nullius factionis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nan",
+          "name": "Bû-tóng-che̍k",
           "note": "multilingual"
         },
         {
@@ -3338,11 +3356,6 @@
         {
           "lang": "tr",
           "name": "Serbest siyasetçi",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ro",
-          "name": "Parteilos",
           "note": "multilingual"
         },
         {
@@ -4081,7 +4094,7 @@
       "id": "term/2012",
       "name": "2012–2017",
       "organization_id": "legislature",
-      "start_date": "2012"
+      "start_date": "2012-01-09"
     }
   ],
   "areas": [

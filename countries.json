@@ -6657,22 +6657,22 @@
         "slug": "Asamblea",
         "sources_directory": "data/Nicaragua/Asamblea/sources",
         "popolo": "data/Nicaragua/Asamblea/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/75b7651/data/Nicaragua/Asamblea/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/5e7fec5/data/Nicaragua/Asamblea/ep-popolo-v1.0.json",
         "names": "data/Nicaragua/Asamblea/names.csv",
-        "lastmod": "1465812521",
+        "lastmod": "1465850885",
         "person_count": 90,
-        "sha": "75b7651",
+        "sha": "5e7fec5",
         "legislative_periods": [
           {
             "id": "term/2012",
             "name": "2012–2017",
-            "start_date": "2012",
+            "start_date": "2012-01-09",
             "slug": "2012",
             "csv": "data/Nicaragua/Asamblea/term-2012.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/75b7651/data/Nicaragua/Asamblea/term-2012.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/5e7fec5/data/Nicaragua/Asamblea/term-2012.csv"
           }
         ],
-        "statement_count": 2039
+        "statement_count": 2045
       }
     ]
   },
