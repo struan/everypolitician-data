@@ -42,11 +42,6 @@
     },
     {
       "file": "morph/terms.csv",
-      "create": {
-        "from": "morph",
-        "scraper": "tmtmtmtm/solomon-islands-parliament",
-        "query": "SELECT * FROM terms"
-      },
       "type": "term"
     },
     {
