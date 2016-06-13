@@ -4204,20 +4204,20 @@
         "slug": "Congreso-Nacional",
         "sources_directory": "data/Honduras/Congreso_Nacional/sources",
         "popolo": "data/Honduras/Congreso_Nacional/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/75b7651/data/Honduras/Congreso_Nacional/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/4cf846c/data/Honduras/Congreso_Nacional/ep-popolo-v1.0.json",
         "names": "data/Honduras/Congreso_Nacional/names.csv",
-        "lastmod": "1465812521",
+        "lastmod": "1465852774",
         "person_count": 129,
-        "sha": "75b7651",
+        "sha": "4cf846c",
         "legislative_periods": [
           {
             "end_date": "2018",
             "id": "term/8",
             "name": "VIII Legislatura",
-            "start_date": "2014",
+            "start_date": "2014-01-21",
             "slug": "8",
             "csv": "data/Honduras/Congreso_Nacional/term-8.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/75b7651/data/Honduras/Congreso_Nacional/term-8.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/4cf846c/data/Honduras/Congreso_Nacional/term-8.csv"
           }
         ],
         "statement_count": 1921
