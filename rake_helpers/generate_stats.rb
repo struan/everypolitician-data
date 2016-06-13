@@ -20,6 +20,14 @@ namespace :stats do
     latest_election = elections.map { |e| e.end_date }.compact.sort_by { |d| "#{d}-12-31" }.select { |d| d[0...4].to_i <= now.year }.last rescue ''
     latest_term_start = terms.last.start_date rescue ''
 
+    posn_file = 'sources/manual/position-filter.json'
+    if File.exist? posn_file
+      posns = JSON.parse(File.read(posn_file), symbolize_names: true )
+      executive_positions = posns[:include][:executive].count rescue 0
+    else 
+      executive_positions = 0
+    end
+
     stats = {
       people: { 
         count: popolo.persons.count,
@@ -36,6 +44,9 @@ namespace :stats do
       elections: { 
         count: elections.count,
         latest: latest_election || '',
+      },
+      positions: { 
+        executive: executive_positions,
       }
     }
 
