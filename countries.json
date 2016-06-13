@@ -7153,22 +7153,23 @@
         "slug": "Majlis",
         "sources_directory": "data/Oman/Majlis/sources",
         "popolo": "data/Oman/Majlis/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/75b7651/data/Oman/Majlis/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/1125393/data/Oman/Majlis/ep-popolo-v1.0.json",
         "names": "data/Oman/Majlis/names.csv",
-        "lastmod": "1465812521",
+        "lastmod": "1465852350",
         "person_count": 84,
-        "sha": "75b7651",
+        "sha": "1125393",
         "legislative_periods": [
           {
+            "end_date": "2015-10-28",
             "id": "term/7",
             "name": "7th Period",
-            "start_date": "2011",
+            "start_date": "2011-10-31",
             "slug": "7",
             "csv": "data/Oman/Majlis/term-7.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/75b7651/data/Oman/Majlis/term-7.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/1125393/data/Oman/Majlis/term-7.csv"
           }
         ],
-        "statement_count": 1473
+        "statement_count": 1474
       }
     ]
   },
