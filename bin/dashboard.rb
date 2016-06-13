@@ -14,26 +14,14 @@ ordering = Hash[drilldown.select { |r| (r[0].to_s.length > 1) && (r[0][0] == r[0
 
 EveryPolitician.countries_json = 'countries.json'
 
-# TODO read lots of these from the `stats.json` files, once populated
 data = EveryPolitician.countries.map do |c|
   c.legislatures.map do |l|
     statsfile = File.join(File.dirname(l.raw_data[:popolo]), 'unstable/stats.json')
-
-    popolo = Everypolitician::Popolo.read(l.raw_data[:popolo])
-    events = popolo.events
-    terms = events.select { |e| e.classification == 'legislative period' }
-    elections = events.select { |e| e.classification == 'general election' }
+    raise "No statsfile for #{c[:name]}/#{l[:name]}" unless File.exists? statsfile
+    stats = JSON.parse(open(statsfile).read, symbolize_names: true)
 
     now = DateTime.now.to_date
     last_build = Time.at(l.lastmod.to_i).to_date
-
-    parties = popolo.organizations.select { |o| o[:classification] == 'party' }.reject { |o| o[:name].downcase == 'unknown' }
-    wd_part = parties.partition { |p| (p[:identifiers] || []).find { |i| i[:scheme] == 'wikidata' } }
-
-    # Whilst we await https://github.com/everypolitician/everypolitician-popolo/pull/29
-    latest_term_start = terms.last.start_date rescue ''
-    # Ignore elections that are in the following year, or later
-    latest_election = elections.map { |e| e.end_date }.compact.sort_by { |d| "#{d}-12-31" }.select { |d| d[0...4].to_i <= now.year }.last rescue ''
 
     {
       posn: (ordering[ c.slug.downcase ] || 999) + 1,
@@ -41,15 +29,15 @@ data = EveryPolitician.countries.map do |c|
       legislature: l.name,
       lastmod: last_build.to_s,
       ago: (now - last_build).to_i,
-      people: popolo.persons.count,
-      wikidata: popolo.persons.partition { |p| (p[:identifiers] || []).find { |i| i[:scheme] == 'wikidata' } }.first.count,
-      parties: parties.count,
-      wd_parties: wd_part.first.count,
-      terms: terms.count,
-      elections: elections.count,
-      latest_term: latest_term_start,
-      latest_election: latest_election,
-      stats_file: File.exists?(statsfile),
+      people: stats[:people][:count],
+      wikidata: stats[:people][:wikidata],
+      parties: stats[:groups][:count],
+      wd_parties: stats[:groups][:wikidata],
+      terms: l.legislative_periods.count,
+      elections: stats[:elections][:count],
+      latest_term: l.legislative_periods.first.start_date.to_s,
+      latest_election: stats[:elections][:latest],
+      executive_positions: stats[:positions][:executive],
     }
   end
 end.flatten
