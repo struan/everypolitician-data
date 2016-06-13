@@ -15,7 +15,9 @@ ordering = Hash[drilldown.select { |r| (r[0].to_s.length > 1) && (r[0][0] == r[0
 EveryPolitician.countries_json = 'countries.json'
 
 data = EveryPolitician.countries.map do |c|
-  c.legislatures.map do |l|
+  # TODO accept an argument for whether we want all legislatures
+  # For now only show the largest in a country
+  c.legislatures.sort_by(&:person_count).reverse.take(1).map do |l|
     statsfile = File.join(File.dirname(l.raw_data[:popolo]), 'unstable/stats.json')
     raise "No statsfile for #{c[:name]}/#{l[:name]}" unless File.exists? statsfile
     stats = JSON.parse(open(statsfile).read, symbolize_names: true)
