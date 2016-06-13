@@ -867,6 +867,27 @@
       "title": "member of the Parliament of Finland"
     }
   ],
+  "Q4935864": [
+    {
+      "id": "Q17592486",
+      "label": "member of the Parliament of Finland",
+      "title": "member of the Parliament of Finland",
+      "qualifiers": {
+        "P580": "2015-04-22",
+        "P768": "Finland Proper"
+      }
+    },
+    {
+      "id": "Q1553195",
+      "label": "party leader",
+      "title": "party leader (of Left Alliance)",
+      "qualifiers": {
+        "P642": "Left Alliance",
+        "P580": "2016-06-11",
+        "P1365": "Paavo Arhinmäki"
+      }
+    }
+  ],
   "Q6776521": [
     {
       "id": "Q17592486",
@@ -1370,6 +1391,17 @@
         "P580": "2015-05-29",
         "P1365": "Antti Rinne",
         "P361": "Juha Sipilä's cabinet"
+      }
+    },
+    {
+      "id": "Q22981837",
+      "label": "Chairperson of the National Coalition Party",
+      "title": "Chairperson of the National Coalition Party",
+      "qualifiers": {
+        "P580": "2014-06-14",
+        "P582": "2016-06-11",
+        "P1365": "Jyrki Katainen",
+        "P1366": "Petteri Orpo"
       }
     }
   ],
@@ -3204,12 +3236,69 @@
     {
       "id": "Q17592486",
       "label": "member of the Parliament of Finland",
-      "title": "member of the Parliament of Finland"
+      "title": "member of the Parliament of Finland",
+      "qualifiers": {
+        "P580": "1995-03-24",
+        "P582": "2007-03-20",
+        "P768": "Vaasa"
+      }
     },
     {
       "id": "Q22981850",
       "label": "Leader of the Centre Party",
-      "title": "Leader of the Centre Party"
+      "title": "Leader of the Centre Party",
+      "qualifiers": {
+        "P580": "2010",
+        "P582": "2012-05-09",
+        "P1365": "Matti Vanhanen",
+        "P1366": "Juha Sipilä"
+      }
+    },
+    {
+      "id": "Q17592486",
+      "label": "member of the Parliament of Finland",
+      "title": "member of the Parliament of Finland",
+      "qualifiers": {
+        "P580": "2007-03-21",
+        "P582": "2014-09-02",
+        "P768": "Helsinki",
+        "P1366": "Terhi Peltokorpi"
+      }
+    },
+    {
+      "id": "Q738695",
+      "label": "Prime Minister of Finland",
+      "title": "Prime Minister of Finland",
+      "qualifiers": {
+        "P580": "2010-06-22",
+        "P582": "2011-06-22",
+        "P361": "Mari Kiviniemi's cabinet",
+        "P1365": "Matti Vanhanen",
+        "P1366": "Jyrki Katainen"
+      }
+    },
+    {
+      "id": "Q11895142",
+      "label": "Minister for European Affairs and Foreign Trade",
+      "title": "Minister for European Affairs and Foreign Trade",
+      "qualifiers": {
+        "P580": "2005-09-02",
+        "P582": "2006-03-03",
+        "P1365": "Paula Lehtomäki",
+        "P1366": "Paula Lehtomäki",
+        "P361": "Matti Vanhanen's first cabinet"
+      }
+    },
+    {
+      "id": "Q5482321",
+      "label": "Q5482321",
+      "title": "Q5482321",
+      "qualifiers": {
+        "P580": "2007-04-19",
+        "P582": "2010-06-21",
+        "P361": "Matti Vanhanen's second cabinet",
+        "P1366": "Tapani Tölli"
+      }
     }
   ],
   "Q11898869": [
@@ -3288,6 +3377,15 @@
         "P580": "2015-05-29",
         "P361": "Juha Sipilä's cabinet",
         "P1365": "Päivi Räsänen"
+      }
+    },
+    {
+      "id": "Q22981837",
+      "label": "Chairperson of the National Coalition Party",
+      "title": "Chairperson of the National Coalition Party",
+      "qualifiers": {
+        "P580": "2016-06-11",
+        "P1365": "Alexander Stubb"
       }
     }
   ],
