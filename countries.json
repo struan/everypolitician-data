@@ -2591,22 +2591,23 @@
         "slug": "Diputados",
         "sources_directory": "data/Dominican_Republic/Diputados/sources",
         "popolo": "data/Dominican_Republic/Diputados/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/75b7651/data/Dominican_Republic/Diputados/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/5699ee2/data/Dominican_Republic/Diputados/ep-popolo-v1.0.json",
         "names": "data/Dominican_Republic/Diputados/names.csv",
-        "lastmod": "1465812521",
+        "lastmod": "1465851039",
         "person_count": 190,
-        "sha": "75b7651",
+        "sha": "5699ee2",
         "legislative_periods": [
           {
+            "end_date": "2016-08-15",
             "id": "term/2010",
             "name": "2010–2016",
             "start_date": "2010",
             "slug": "2010",
             "csv": "data/Dominican_Republic/Diputados/term-2010.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/75b7651/data/Dominican_Republic/Diputados/term-2010.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/5699ee2/data/Dominican_Republic/Diputados/term-2010.csv"
           }
         ],
-        "statement_count": 3633
+        "statement_count": 3634
       }
     ]
   },
