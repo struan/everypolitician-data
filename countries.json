@@ -71,19 +71,19 @@
         "slug": "Assembly",
         "sources_directory": "data/Albania/Assembly/sources",
         "popolo": "data/Albania/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/75b7651/data/Albania/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/36f472b/data/Albania/Assembly/ep-popolo-v1.0.json",
         "names": "data/Albania/Assembly/names.csv",
-        "lastmod": "1465812521",
+        "lastmod": "1465842243",
         "person_count": 213,
-        "sha": "75b7651",
+        "sha": "36f472b",
         "legislative_periods": [
           {
             "id": "term/8",
             "name": "Legislature VIII",
-            "start_date": "2013",
+            "start_date": "2013-09-09",
             "slug": "8",
             "csv": "data/Albania/Assembly/term-8.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/75b7651/data/Albania/Assembly/term-8.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/36f472b/data/Albania/Assembly/term-8.csv"
           },
           {
             "end_date": "2013",
@@ -92,7 +92,7 @@
             "start_date": "2009",
             "slug": "7",
             "csv": "data/Albania/Assembly/term-7.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/75b7651/data/Albania/Assembly/term-7.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/36f472b/data/Albania/Assembly/term-7.csv"
           }
         ],
         "statement_count": 8291
