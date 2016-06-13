@@ -12,13 +12,7 @@
     },
     {
       "file": "morph/terms.csv",
-      "type": "term",
-      "create": {
-        "file": "morph/terms.csv",
-        "from": "morph",
-        "scraper": "tmtmtmtm/liberia-representatives",
-        "query": "SELECT * FROM terms"
-      }
+      "type": "term"
     },
     {
       "file": "wikidata/groups.json",
