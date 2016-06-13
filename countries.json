@@ -1164,19 +1164,19 @@
         "slug": "Deputies",
         "sources_directory": "data/Bolivia/Deputies/sources",
         "popolo": "data/Bolivia/Deputies/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/75b7651/data/Bolivia/Deputies/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/73152b1/data/Bolivia/Deputies/ep-popolo-v1.0.json",
         "names": "data/Bolivia/Deputies/names.csv",
-        "lastmod": "1465812521",
+        "lastmod": "1465844372",
         "person_count": 128,
-        "sha": "75b7651",
+        "sha": "73152b1",
         "legislative_periods": [
           {
             "id": "term/2015",
             "name": "2015–",
-            "start_date": "2015",
+            "start_date": "2015-01-21",
             "slug": "2015",
             "csv": "data/Bolivia/Deputies/term-2015.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/75b7651/data/Bolivia/Deputies/term-2015.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/73152b1/data/Bolivia/Deputies/term-2015.csv"
           }
         ],
         "statement_count": 2389
