@@ -9011,28 +9011,28 @@
         "slug": "Assembly",
         "sources_directory": "data/Swaziland/Assembly/sources",
         "popolo": "data/Swaziland/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/75b7651/data/Swaziland/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/4d69d8a/data/Swaziland/Assembly/ep-popolo-v1.0.json",
         "names": "data/Swaziland/Assembly/names.csv",
-        "lastmod": "1465812521",
+        "lastmod": "1465852870",
         "person_count": 93,
-        "sha": "75b7651",
+        "sha": "4d69d8a",
         "legislative_periods": [
           {
             "id": "term/10",
             "name": "10th Parliament",
-            "start_date": "2013",
+            "start_date": "2013-08-17",
             "slug": "10",
             "csv": "data/Swaziland/Assembly/term-10.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/75b7651/data/Swaziland/Assembly/term-10.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/4d69d8a/data/Swaziland/Assembly/term-10.csv"
           },
           {
-            "end_date": "2013",
+            "end_date": "2013-09-19",
             "id": "term/9",
             "name": "9th Parliament",
-            "start_date": "2008",
+            "start_date": "2008-10-10",
             "slug": "9",
             "csv": "data/Swaziland/Assembly/term-9.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/75b7651/data/Swaziland/Assembly/term-9.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/4d69d8a/data/Swaziland/Assembly/term-9.csv"
           }
         ],
         "statement_count": 1250
