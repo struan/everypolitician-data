@@ -1025,6 +1025,21 @@
           "note": "multilingual"
         },
         {
+          "lang": "zh-hant",
+          "name": "總統多數聯盟",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "总统多数联盟",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "總統多數派聯盟 (吉布地)",
+          "note": "multilingual"
+        },
+        {
           "lang": "fr",
           "name": "Union pour la Majorité Présidentielle (Djibouti)",
           "note": "multilingual"
@@ -1032,6 +1047,11 @@
         {
           "lang": "en",
           "name": "UMP",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "多數派總統聯盟 (吉布提)",
           "note": "multilingual"
         }
       ]
@@ -1056,6 +1076,11 @@
         {
           "lang": "en",
           "name": "Union for National Salvation",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "救國聯盟",
           "note": "multilingual"
         }
       ]
@@ -1632,18 +1657,18 @@
       "start_date": "2008-02-08"
     },
     {
-      "classification": "legislative period",
-      "id": "term/6",
-      "name": "6th National Assembly",
-      "organization_id": "legislature",
-      "start_date": "2013"
-    },
-    {
       "classification": "general election",
       "end_date": "2013-02-22",
       "id": "Q1763781",
       "name": "Djiboutian parliamentary election, 2013",
       "start_date": "2013-02-22"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/6",
+      "name": "6th National Assembly",
+      "organization_id": "legislature",
+      "start_date": "2013-03-05"
     }
   ],
   "areas": [
