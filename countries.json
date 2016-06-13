@@ -2531,22 +2531,22 @@
         "slug": "Assembly",
         "sources_directory": "data/Djibouti/Assembly/sources",
         "popolo": "data/Djibouti/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/de02728/data/Djibouti/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e7a9700/data/Djibouti/Assembly/ep-popolo-v1.0.json",
         "names": "data/Djibouti/Assembly/names.csv",
-        "lastmod": "1464988145",
+        "lastmod": "1465804836",
         "person_count": 65,
-        "sha": "de02728",
+        "sha": "e7a9700",
         "legislative_periods": [
           {
             "id": "term/6",
             "name": "6th National Assembly",
-            "start_date": "2013",
+            "start_date": "2013-03-05",
             "slug": "6",
             "csv": "data/Djibouti/Assembly/term-6.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/de02728/data/Djibouti/Assembly/term-6.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e7a9700/data/Djibouti/Assembly/term-6.csv"
           }
         ],
-        "statement_count": 810
+        "statement_count": 825
       }
     ]
   },
