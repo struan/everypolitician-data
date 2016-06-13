@@ -35,7 +35,7 @@ data = EveryPolitician.countries.map do |c|
       wd_parties: stats[:groups][:wikidata],
       terms: l.legislative_periods.count,
       elections: stats[:elections][:count],
-      latest_term: l.legislative_periods.first.start_date.to_s,
+      latest_term: l.legislative_periods.first.raw_data[:start_date],
       latest_election: stats[:elections][:latest],
       executive_positions: stats[:positions][:executive],
     }
