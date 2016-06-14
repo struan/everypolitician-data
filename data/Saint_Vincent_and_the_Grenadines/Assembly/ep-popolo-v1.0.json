@@ -1,4 +1,7 @@
 {
+  "posts": [
+
+  ],
   "persons": [
     {
       "id": "4930e794-7e60-4616-beaf-2f63c8ad2494",
@@ -372,6 +375,16 @@
           "note": "multilingual"
         },
         {
+          "lang": "zh-hant",
+          "name": "新民主黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "新民主党",
+          "note": "multilingual"
+        },
+        {
           "lang": "sh",
           "name": "Nova demokratska stranka",
           "note": "multilingual"
@@ -423,6 +436,26 @@
         {
           "lang": "nb",
           "name": "Unity Labour Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "統一工黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "联合工党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "聯合工黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "统一工党",
           "note": "multilingual"
         }
       ]
@@ -558,10 +591,11 @@
   "events": [
     {
       "classification": "legislative period",
+      "end_date": "2015-11-07",
       "id": "term/8",
       "name": "8th Vincentian Assembly",
       "organization_id": "legislature",
-      "start_date": "2010"
+      "start_date": "2010-12-30"
     }
   ],
   "areas": [

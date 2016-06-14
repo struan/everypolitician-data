@@ -12,11 +12,6 @@
     },
     {
       "file": "morph/terms.csv",
-      "create": {
-        "from": "morph",
-        "scraper": "tmtmtmtm/st-vincent-and-grenadines-elections",
-        "query": "SELECT * FROM terms"
-      },
       "type": "term"
     },
     {
