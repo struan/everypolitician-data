@@ -1,4 +1,7 @@
 {
+  "posts": [
+
+  ],
   "persons": [
     {
       "id": "75696234-9205-4199-aaea-3b80ab7830fc",
@@ -626,6 +629,16 @@
           "lang": "be",
           "name": "Аб'яднаная дэмакратычная партыя, Маршалавы Астравы",
           "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Объединенная демократическая партия",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Объединенная демократическая партия Маршалловых Островов",
+          "note": "multilingual"
         }
       ]
     },
@@ -643,6 +656,11 @@
         {
           "lang": "en",
           "name": "United People's Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "UPP",
           "note": "multilingual"
         }
       ]
@@ -921,11 +939,54 @@
   ],
   "events": [
     {
-      "classification": "legislative period",
-      "id": "term/2012",
-      "name": "2012",
-      "organization_id": "legislature",
+      "classification": "general election",
+      "end_date": "1995",
+      "id": "Q6773640",
+      "name": "Marshall Islands general election, 1995",
+      "start_date": "1995"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1999",
+      "id": "Q6773641",
+      "name": "Marshall Islands general election, 1999",
+      "start_date": "1999"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2003",
+      "id": "Q6773642",
+      "name": "Marshall Islands general election, 2003",
+      "start_date": "2003"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2007",
+      "id": "Q663430",
+      "name": "Marshall Islands general election, 2007",
+      "start_date": "2007"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2012",
+      "id": "Q3071762",
+      "name": "Marshall Islands general election, 2012",
       "start_date": "2012"
+    },
+    {
+      "classification": "legislative period",
+      "end_date": "2015-11-30",
+      "id": "term/2012",
+      "name": "2012–2015",
+      "organization_id": "legislature",
+      "start_date": "2012-01-03"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2015-11-16",
+      "id": "Q20647703",
+      "name": "Marshall Islands general election, 2015",
+      "start_date": "2015-11-16"
     }
   ],
   "areas": [
