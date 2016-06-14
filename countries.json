@@ -5839,22 +5839,23 @@
         "slug": "Nitijela",
         "sources_directory": "data/Marshall_Islands/Nitijela/sources",
         "popolo": "data/Marshall_Islands/Nitijela/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/75b7651/data/Marshall_Islands/Nitijela/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/8fc849d/data/Marshall_Islands/Nitijela/ep-popolo-v1.0.json",
         "names": "data/Marshall_Islands/Nitijela/names.csv",
-        "lastmod": "1465812521",
+        "lastmod": "1465890446",
         "person_count": 33,
-        "sha": "75b7651",
+        "sha": "8fc849d",
         "legislative_periods": [
           {
+            "end_date": "2015-11-30",
             "id": "term/2012",
-            "name": "2012",
-            "start_date": "2012",
+            "name": "2012–2015",
+            "start_date": "2012-01-03",
             "slug": "2012",
             "csv": "data/Marshall_Islands/Nitijela/term-2012.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/75b7651/data/Marshall_Islands/Nitijela/term-2012.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/8fc849d/data/Marshall_Islands/Nitijela/term-2012.csv"
           }
         ],
-        "statement_count": 507
+        "statement_count": 547
       }
     ]
   },
