@@ -7520,6 +7520,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "el",
+          "name": "Αξέλ Λεμαίρ",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "Axelle Lemaire",
           "note": "multilingual"
@@ -17402,6 +17407,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "el",
+          "name": "Κριστόφ Πρεμά",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "Christophe Premat",
           "note": "multilingual"
@@ -18894,6 +18904,11 @@
         {
           "lang": "de",
           "name": "Claudine Schmid",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Κλωντίν Σμιντ",
           "note": "multilingual"
         },
         {
@@ -43549,6 +43564,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "el",
+          "name": "Ερβέ Φερόν",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "Hervé Féron",
           "note": "multilingual"
@@ -53447,6 +53467,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "el",
+          "name": "Ζαν-Φρανσουά Μανσέλ",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "Jean-François Mancel",
           "note": "multilingual"
@@ -58428,6 +58453,11 @@
       ],
       "name": "Jean-Marc Fournel",
       "other_names": [
+        {
+          "lang": "el",
+          "name": "Ζαν-Μαρκ Φουρνέλ",
+          "note": "multilingual"
+        },
         {
           "lang": "en",
           "name": "Jean-Marc Fournel",
@@ -99294,6 +99324,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "el",
+          "name": "Ρολάν Μπλουμ",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "Roland Blum",
           "note": "multilingual"
@@ -103000,6 +103035,37 @@
       "sources": [
         {
           "url": "http://www.nosdeputes.fr/stephane-travert/json"
+        }
+      ]
+    },
+    {
+      "birth_date": "1978-10-13",
+      "family_name": "Pernod Beaudon",
+      "gender": "female",
+      "given_name": "Stéphanie",
+      "id": "bf6cbf03-e9f3-4d89-9f85-3e28eedd2b65",
+      "identifiers": [
+        {
+          "identifier": "643183",
+          "scheme": "assemblee_nationale"
+        }
+      ],
+      "image": "http://www2.assemblee-nationale.fr/static/tribun/14/photos/643183.jpg",
+      "images": [
+        {
+          "url": "http://www2.assemblee-nationale.fr/static/tribun/14/photos/643183.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA643183"
+        }
+      ],
+      "name": "Stéphanie Pernod Beaudon",
+      "sources": [
+        {
+          "url": "http://www.nosdeputes.fr/stephanie-pernod-beaudon/json"
         }
       ]
     },
@@ -120940,6 +121006,15 @@
       "organization_id": "legislature",
       "person_id": "be6685a2-028b-4979-9c2f-b36ea7aece4c",
       "role": "member"
+    },
+    {
+      "area_id": "area/ain",
+      "legislative_period_id": "term/14",
+      "on_behalf_of_id": "party/lr",
+      "organization_id": "legislature",
+      "person_id": "bf6cbf03-e9f3-4d89-9f85-3e28eedd2b65",
+      "role": "member",
+      "start_date": "2016-06-13"
     },
     {
       "area_id": "area/meurthe-et-moselle",
