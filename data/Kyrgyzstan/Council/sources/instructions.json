@@ -26,6 +26,11 @@
       "type": "membership"
     },
     {
+      "file": "manual/members.csv",
+      "source": "http://www.kenesh.kg",
+      "type": "membership"
+    },
+    {
       "file": "morph/wikidata.csv",
       "create": {
         "from": "morph",
