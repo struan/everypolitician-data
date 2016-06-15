@@ -8554,6 +8554,10 @@
         {
           "identifier": "82",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q24622093",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.cdep.ro/parlamentari/l2012/Costin_Gheorghe.jpg",
@@ -8562,7 +8566,24 @@
           "url": "http://www.cdep.ro/parlamentari/l2012/Costin_Gheorghe.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Gheorghe_Costin"
+        }
+      ],
       "name": "Costin Gheorghe",
+      "other_names": [
+        {
+          "name": "Gheorghe Costin",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Gheorghe Costin",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Gheorghe COSTIN",
       "sources": [
         {
@@ -20835,11 +20856,17 @@
     },
     {
       "birth_date": "1951-01-26",
+      "gender": "male",
+      "given_name": "Ioan",
       "id": "c1932d94-8384-4ed2-bdef-d690300e34f0",
       "identifiers": [
         {
           "identifier": "233",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q21747025",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.cdep.ro/parlamentari/l2012/Moldovan_Ioan.jpg",
@@ -20848,7 +20875,39 @@
           "url": "http://www.cdep.ro/parlamentari/l2012/Moldovan_Ioan.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Ioan_Moldovan_(politician)"
+        }
+      ],
       "name": "Moldovan Ioan",
+      "other_names": [
+        {
+          "name": "Ioan Moldovan",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Ioan Moldovan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Ioan Moldovan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Ioan Moldovan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Ioan Moldovan",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Ioan MOLDOVAN",
       "sources": [
         {
@@ -29549,11 +29608,16 @@
         }
       ],
       "email": "gheorghe.roman@cdep.ro",
+      "gender": "male",
       "id": "bcacd023-a0f3-4514-94be-a975bb6aeeb2",
       "identifiers": [
         {
           "identifier": "314",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q21747051",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.cdep.ro/parlamentari/l2012/Roman_Gheorghe.jpg",
@@ -29562,7 +29626,39 @@
           "url": "http://www.cdep.ro/parlamentari/l2012/Roman_Gheorghe.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Gheorghe_Roman_(deputat_II)"
+        }
+      ],
       "name": "Roman Gheorghe",
+      "other_names": [
+        {
+          "name": "Gheorghe Roman",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Gheorghe Roman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Gheorghe Roman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Gheorghe Roman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Gheorghe Roman",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Gheorghe ROMAN",
       "sources": [
         {
@@ -30149,11 +30245,16 @@
         }
       ],
       "email": "valentin.rusu@cdep.ro",
+      "gender": "male",
       "id": "ba27d67f-3008-4be4-8b7a-5e2ccb199c69",
       "identifiers": [
         {
           "identifier": "321",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q12743022",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.cdep.ro/parlamentari/l2012/Rusu_Valentin.jpg",
@@ -30162,7 +30263,24 @@
           "url": "http://www.cdep.ro/parlamentari/l2012/Rusu_Valentin.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Valentin_Rusu_(deputat)"
+        }
+      ],
       "name": "Rusu Valentin",
+      "other_names": [
+        {
+          "name": "Valentin Rusu",
+          "note": "alternate"
+        },
+        {
+          "lang": "ro",
+          "name": "Valentin Rusu",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Valentin RUSU",
       "sources": [
         {
@@ -30303,11 +30421,17 @@
         }
       ],
       "email": "constantin.radulescu@cdep.ro",
+      "gender": "male",
+      "given_name": "Constantin",
       "id": "b24aaaa3-5e95-4098-bd97-77d26d9ffd25",
       "identifiers": [
         {
           "identifier": "308",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q21747056",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.cdep.ro/parlamentari/l2012/Radulescu_Constantin.jpg",
@@ -30316,7 +30440,39 @@
           "url": "http://www.cdep.ro/parlamentari/l2012/Radulescu_Constantin.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Constantin_Rădulescu_(politician)"
+        }
+      ],
       "name": "Rădulescu Constantin",
+      "other_names": [
+        {
+          "name": "Constantin Rădulescu",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Constantin Rădulescu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Constantin Rădulescu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Constantin Rădulescu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Constantin Rădulescu",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Constantin RĂDULESCU",
       "sources": [
         {
