@@ -103040,6 +103040,12 @@
     },
     {
       "birth_date": "1978-10-13",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "stefpernod"
+        }
+      ],
       "family_name": "Pernod Beaudon",
       "gender": "female",
       "given_name": "Stéphanie",
@@ -103048,6 +103054,10 @@
         {
           "identifier": "643183",
           "scheme": "assemblee_nationale"
+        },
+        {
+          "identifier": "Q24512980",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www2.assemblee-nationale.fr/static/tribun/14/photos/643183.jpg",
@@ -103058,11 +103068,45 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Stéphanie_Pernod-Beaudon"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/stefpernod"
+        },
+        {
           "note": "website",
           "url": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA643183"
         }
       ],
       "name": "Stéphanie Pernod Beaudon",
+      "other_names": [
+        {
+          "name": "Stéphanie Pernod-Beaudon",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Stéphanie Pernod-Beaudon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Stéphanie Pernod-Beaudon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Stéphanie Pernod-Beaudon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Stéphanie Pernod-Beaudon",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.nosdeputes.fr/stephanie-pernod-beaudon/json"
