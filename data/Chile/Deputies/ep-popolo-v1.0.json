@@ -11510,6 +11510,12 @@
       "sort_name": "Morales"
     },
     {
+      "gender": "male",
+      "id": "e36995cd-bfa9-47e3-a942-846faa466594",
+      "name": "Jorge Pizarro Soto",
+      "sort_name": "Pizarro"
+    },
+    {
       "contact_details": [
         {
           "type": "email",
@@ -11813,6 +11819,12 @@
         }
       ],
       "sort_name": "Ulloa"
+    },
+    {
+      "gender": "male",
+      "id": "9c841adf-d059-4df2-b86d-2203be38768f",
+      "name": "José Alfonso Rodríguez Del Río",
+      "sort_name": "Rodríguez"
     },
     {
       "birth_date": "1961-11-19",
@@ -20531,6 +20543,12 @@
       "sort_name": "Ojeda"
     },
     {
+      "gender": "male",
+      "id": "bae5853e-e6a4-4b62-ba5e-c0293af2d355",
+      "name": "Sergio Pizarro Mackay",
+      "sort_name": "Pizarro"
+    },
+    {
       "birth_date": "1945-12-21",
       "gender": "male",
       "given_name": "Sergio",
@@ -28005,6 +28023,13 @@
     },
     {
       "legislative_period_id": "term/1",
+      "on_behalf_of_id": "RN",
+      "organization_id": "legislature",
+      "person_id": "9c841adf-d059-4df2-b86d-2203be38768f",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/1",
       "on_behalf_of_id": "DC",
       "organization_id": "legislature",
       "person_id": "9d2af1e5-654d-4eaf-8806-59e301cafc06",
@@ -28640,6 +28665,13 @@
       "on_behalf_of_id": "PPD",
       "organization_id": "legislature",
       "person_id": "ba3eff38-2373-46fc-a03f-d9624903f324",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/1",
+      "on_behalf_of_id": "DC",
+      "organization_id": "legislature",
+      "person_id": "bae5853e-e6a4-4b62-ba5e-c0293af2d355",
       "role": "member"
     },
     {
@@ -29530,6 +29562,21 @@
       "on_behalf_of_id": "PPD",
       "organization_id": "legislature",
       "person_id": "e34ca425-13f1-4c5c-8be4-7ab64edaa294",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/1",
+      "on_behalf_of_id": "DC",
+      "organization_id": "legislature",
+      "person_id": "e36995cd-bfa9-47e3-a942-846faa466594",
+      "role": "member"
+    },
+    {
+      "area_id": "area/8",
+      "legislative_period_id": "term/2",
+      "on_behalf_of_id": "DC",
+      "organization_id": "legislature",
+      "person_id": "e36995cd-bfa9-47e3-a942-846faa466594",
       "role": "member"
     },
     {
