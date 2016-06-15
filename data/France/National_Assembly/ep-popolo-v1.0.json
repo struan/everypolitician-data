@@ -7520,6 +7520,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "el",
+          "name": "Αξέλ Λεμαίρ",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "Axelle Lemaire",
           "note": "multilingual"
@@ -17402,6 +17407,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "el",
+          "name": "Κριστόφ Πρεμά",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "Christophe Premat",
           "note": "multilingual"
@@ -18894,6 +18904,11 @@
         {
           "lang": "de",
           "name": "Claudine Schmid",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Κλωντίν Σμιντ",
           "note": "multilingual"
         },
         {
@@ -43549,6 +43564,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "el",
+          "name": "Ερβέ Φερόν",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "Hervé Féron",
           "note": "multilingual"
@@ -53447,6 +53467,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "el",
+          "name": "Ζαν-Φρανσουά Μανσέλ",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "Jean-François Mancel",
           "note": "multilingual"
@@ -58428,6 +58453,11 @@
       ],
       "name": "Jean-Marc Fournel",
       "other_names": [
+        {
+          "lang": "el",
+          "name": "Ζαν-Μαρκ Φουρνέλ",
+          "note": "multilingual"
+        },
         {
           "lang": "en",
           "name": "Jean-Marc Fournel",
@@ -99294,6 +99324,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "el",
+          "name": "Ρολάν Μπλουμ",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "Roland Blum",
           "note": "multilingual"
@@ -103000,6 +103035,81 @@
       "sources": [
         {
           "url": "http://www.nosdeputes.fr/stephane-travert/json"
+        }
+      ]
+    },
+    {
+      "birth_date": "1978-10-13",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "stefpernod"
+        }
+      ],
+      "family_name": "Pernod Beaudon",
+      "gender": "female",
+      "given_name": "Stéphanie",
+      "id": "bf6cbf03-e9f3-4d89-9f85-3e28eedd2b65",
+      "identifiers": [
+        {
+          "identifier": "643183",
+          "scheme": "assemblee_nationale"
+        },
+        {
+          "identifier": "Q24512980",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www2.assemblee-nationale.fr/static/tribun/14/photos/643183.jpg",
+      "images": [
+        {
+          "url": "http://www2.assemblee-nationale.fr/static/tribun/14/photos/643183.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Stéphanie_Pernod-Beaudon"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/stefpernod"
+        },
+        {
+          "note": "website",
+          "url": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA643183"
+        }
+      ],
+      "name": "Stéphanie Pernod Beaudon",
+      "other_names": [
+        {
+          "name": "Stéphanie Pernod-Beaudon",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Stéphanie Pernod-Beaudon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Stéphanie Pernod-Beaudon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Stéphanie Pernod-Beaudon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Stéphanie Pernod-Beaudon",
+          "note": "multilingual"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.nosdeputes.fr/stephanie-pernod-beaudon/json"
         }
       ]
     },
@@ -112594,22 +112704,1772 @@
     {
       "classification": "party",
       "id": "party/apparenté_nouveau_centre",
-      "name": "Apparenté Nouveau Centre"
+      "identifiers": [
+        {
+          "identifier": "Q853418",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.le-nouveaucentre.org/"
+        }
+      ],
+      "name": "Apparenté Nouveau Centre",
+      "other_names": [
+        {
+          "lang": "pt",
+          "name": "Novo Centro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hans",
+          "name": "新中间党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "新中間黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "新中間黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pms",
+          "name": "Neuv Sènter",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Nowe Centrum",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Новый центр",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Nouveau Centre",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "신중도당",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "New Centre",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Nou Centre",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Novèl Centre",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Новий центр",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Nuovo Centro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Nouveau Centre",
+          "note": "multilingual"
+        },
+        {
+          "lang": "br",
+          "name": "Kreiz Nevez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Nouveau Centre",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Нов център",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "ახალი ცენტრი",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Nouveau Centre",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Nouveau Centre",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Nouveau Centre",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "新中間黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Nouveau centre",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Nova Centro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Nouveau centre",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Европейская социал-либеральная партия",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti social libéral européen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "PSLE",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Le Nouveau Centre",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Nouveau Centre",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Parti Social Libéral Européen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "PSLE",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Le Nouveau Centre",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Neues Zentrum",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Nytt centrum",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/apparenté_union_pour_un_mouvement_populaire",
-      "name": "Apparenté Union pour un Mouvement Populaire"
+      "identifiers": [
+        {
+          "identifier": "Q173152",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.u-m-p.org"
+        }
+      ],
+      "name": "Apparenté Union pour un Mouvement Populaire",
+      "other_names": [
+        {
+          "lang": "zh-hans",
+          "name": "人民运动联盟",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "人民運動聯盟",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "人民運動聯盟",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "人民运动联盟",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-sg",
+          "name": "人民运动联盟",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-tw",
+          "name": "人民運動聯盟",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "Union pour un Mouvement Populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Unia na rzecz Ruchu Ludowego",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Union pour un mouvement populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "대중운동연합",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "האיחוד למען תנועה עממית",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Unión por un Movimiento Popular",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "குடிதழீஇய இயக்கச் சங்கம்",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Union per un Movement Popular",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Unió egy Népi Mozgalomért",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Unione per un Movimento Popolare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Unión por un Movemento Popular",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Persatuan Gerakan Masyarakat",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Union pour un mouvement populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "国民運動連合",
+          "note": "multilingual"
+        },
+        {
+          "lang": "br",
+          "name": "Unvaniezh evit ul Luskad Poblel",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Ένωση για ένα Λαϊκό Κίνημα",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Đảng liên minh vì phong trào nhân dân",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Union for a Popular Movement",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Union pour un Mouvement Populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "الاتحاد من أجل حركة شعبية",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Union pour un Mouvement Populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hi",
+          "name": "उनियों पूर अँ मुवमॉ पॉपुलेर",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "União por um Movimento Popular",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Union pour un mouvement populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Únia za ľudové hnutie",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Союз за народное движение",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hy",
+          "name": "Ժողովրդական շարժման միություն",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-el",
+          "name": "Unija za narodni pokret",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-ec",
+          "name": "Унија за народни покрет",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Halk Hareketi Birliği",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "สหภาพเพื่อขบวนการประชาชน",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Uniunea pentru o Mișcare Populară",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Unió per a un Moviment Popular",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Union pour un Mouvement Populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Союз за Народний Рух",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Zveza za ljudsko gibanje",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Union pour un mouvement populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Съюз за народно движение",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "اتحاد برای جنبش مردمی",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "კავშირი სახალხო მოძრაობისათვის",
+          "note": "multilingual"
+        },
+        {
+          "lang": "az",
+          "name": "Xalq Hərakatı Uğrunda İttifaq",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Savez za narodni pokret",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "UMP",
+          "note": "multilingual"
+        },
+        {
+          "lang": "an",
+          "name": "Union pour un Mouvement Populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Унија за народни покрет",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "人民运动联盟",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be",
+          "name": "Саюз за народны рух",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt-br",
+          "name": "União por um Movimento Popular",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Union pour un mouvement populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tt",
+          "name": "Xalıq xäräkäte öçen Berlek",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be-tarask",
+          "name": "Зьвяз за народны рух (Францыя)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "Union for a Popular Muivement",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "Сојуз за народно движење",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "Union for a Popular Movement",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "Union for a Popular Movement",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lb",
+          "name": "Union pour un mouvement populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ilo",
+          "name": "Kappon ti Popular a Tignay",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "法国人民运动联盟",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "Union for a Popular Movement",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "UMP",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Union pour un mouvement populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Union pour la Majorité Présidentielle",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Union pour la Majorite Presidentielle",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "UMP",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Union pour la majorité présidentielle",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Union en mouvement",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "대중 운동 연합",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "민중운동연합",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "UMP",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Union pour un mouvement populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Union por un movimiento popular",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Union pour la Majorite Présidentielle",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Union pour la Majorite Presidentielle",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "UMP",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Union pour la majorité présidentielle",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Union pour un mouvement populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "UMP",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Union per la Majoritat Presidenciala",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Union pour un mouvement populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Union pour un Mouvement Populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Union pour une majorité présidentielle",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Union pour la majorité présidentielle",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "UMP",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "人民運動連合",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "民衆運動連合",
+          "note": "multilingual"
+        },
+        {
+          "lang": "br",
+          "name": "Union pour un mouvement populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "br",
+          "name": "UMP",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Ένωση για το Λαϊκό Κίνημα",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Union pour la Majorité Présidentielle",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Folkrörelseunionen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "UMP-gruppen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "Union pour un mouvement populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "الاتحاد من أجل حركه شعبيه",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "الإتحاد من أجل حركة شعبية",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "حزب الاتحاد من أجل حركة شعبية",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Unie voor een Volksbeweging",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hi",
+          "name": "उनियों पुर अँ मुवमॉ पॉपुलेर",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Union pour un mouvement populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "UMP",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "União para o Movimento Popular",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Unuiĝo por Popola Movado",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Unio por Movado Popola",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Unuiĝo por Movado Popola",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Únia pre ľudové hnutie",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Union pour un mouvement populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Союз за президентское большинство Франции",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Союз народного движения",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Союз за президентское большинство",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hy",
+          "name": "ԺՇՄ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hy",
+          "name": "UMP",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "L'Union pour un mouvement populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "УМП",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Popüler Hareket Birliği",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "สหภาพเพื่อกระบวนการประชาชน",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Union pour un Mouvement Populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Uniunea pentru o Mişcare Populară",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "UMP",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Union pour un mouvement populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Unió pel Moviment Popular",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Unió per un Moviment Popular",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Kansanliikkeen unioni",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "UMP",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Union pour un Mouvement Populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Union pour la majorité présidentielle",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Unie pro lidové hnutí",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Svaz pro lidové hnutí",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "همبستگی برای یک جنبش مردمی",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "اتحاد برای جنبشی مردمی",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "همبستگی برای جنبشی مردمی",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "კავშირი სახალხო მოძრაობისთვის",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Union pour un mouvement populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "UMP",
+          "note": "multilingual"
+        },
+        {
+          "lang": "an",
+          "name": "Unión por un Movimiento Popular",
+          "note": "multilingual"
+        },
+        {
+          "lang": "an",
+          "name": "UMP",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt-br",
+          "name": "Union pour un mouvement populaire – UMP",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "RPR",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "UMP",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Union pour la Nouvelle République",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Unionen for en folkebevegelse",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Rassemblement pour la République",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Union des Démocrates pour la République",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Rassemblement du Peuple Français",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Union pour la Majorité Présidentielle",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/apparenté_socialiste,_radical_et_citoyen_et_divers_gauche",
-      "name": "Apparenté socialiste, radical et citoyen et divers gauche"
+      "identifiers": [
+        {
+          "identifier": "Q2236823",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Apparenté socialiste, radical et citoyen et divers gauche",
+      "other_names": [
+        {
+          "lang": "nl",
+          "name": "Socialiste, radical, citoyen et divers gauche",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Socialist, Radical, Citizen and Miscellaneous Left",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Groupe socialiste",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Socialisternas, de radikalas och medborgarnas grupp",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Sosialistinen ryhmä",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Socialisma Grupo",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/apparenté_à_l'union_pour_un_mouvement_populaire",
-      "name": "Apparenté à l'Union pour un mouvement populaire"
+      "identifiers": [
+        {
+          "identifier": "Q173152",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.u-m-p.org"
+        }
+      ],
+      "name": "Apparenté à l'Union pour un mouvement populaire",
+      "other_names": [
+        {
+          "lang": "zh-hans",
+          "name": "人民运动联盟",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "人民運動聯盟",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "人民運動聯盟",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "人民运动联盟",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-sg",
+          "name": "人民运动联盟",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-tw",
+          "name": "人民運動聯盟",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "Union pour un Mouvement Populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Unia na rzecz Ruchu Ludowego",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Union pour un mouvement populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "대중운동연합",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "האיחוד למען תנועה עממית",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Unión por un Movimiento Popular",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "குடிதழீஇய இயக்கச் சங்கம்",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Union per un Movement Popular",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Unió egy Népi Mozgalomért",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Unione per un Movimento Popolare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Unión por un Movemento Popular",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Persatuan Gerakan Masyarakat",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Union pour un mouvement populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "国民運動連合",
+          "note": "multilingual"
+        },
+        {
+          "lang": "br",
+          "name": "Unvaniezh evit ul Luskad Poblel",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Ένωση για ένα Λαϊκό Κίνημα",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Đảng liên minh vì phong trào nhân dân",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Union for a Popular Movement",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Union pour un Mouvement Populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "الاتحاد من أجل حركة شعبية",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Union pour un Mouvement Populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hi",
+          "name": "उनियों पूर अँ मुवमॉ पॉपुलेर",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "União por um Movimento Popular",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Union pour un mouvement populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Únia za ľudové hnutie",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Союз за народное движение",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hy",
+          "name": "Ժողովրդական շարժման միություն",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-el",
+          "name": "Unija za narodni pokret",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-ec",
+          "name": "Унија за народни покрет",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Halk Hareketi Birliği",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "สหภาพเพื่อขบวนการประชาชน",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Uniunea pentru o Mișcare Populară",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Unió per a un Moviment Popular",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Union pour un Mouvement Populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Союз за Народний Рух",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Zveza za ljudsko gibanje",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Union pour un mouvement populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Съюз за народно движение",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "اتحاد برای جنبش مردمی",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "კავშირი სახალხო მოძრაობისათვის",
+          "note": "multilingual"
+        },
+        {
+          "lang": "az",
+          "name": "Xalq Hərakatı Uğrunda İttifaq",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Savez za narodni pokret",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "UMP",
+          "note": "multilingual"
+        },
+        {
+          "lang": "an",
+          "name": "Union pour un Mouvement Populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Унија за народни покрет",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "人民运动联盟",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be",
+          "name": "Саюз за народны рух",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt-br",
+          "name": "União por um Movimento Popular",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Union pour un mouvement populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tt",
+          "name": "Xalıq xäräkäte öçen Berlek",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be-tarask",
+          "name": "Зьвяз за народны рух (Францыя)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "Union for a Popular Muivement",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "Сојуз за народно движење",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "Union for a Popular Movement",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "Union for a Popular Movement",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lb",
+          "name": "Union pour un mouvement populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ilo",
+          "name": "Kappon ti Popular a Tignay",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "法国人民运动联盟",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "Union for a Popular Movement",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "UMP",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Union pour un mouvement populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Union pour la Majorité Présidentielle",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Union pour la Majorite Presidentielle",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "UMP",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Union pour la majorité présidentielle",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Union en mouvement",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "대중 운동 연합",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "민중운동연합",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "UMP",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Union pour un mouvement populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Union por un movimiento popular",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Union pour la Majorite Présidentielle",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Union pour la Majorite Presidentielle",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "UMP",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Union pour la majorité présidentielle",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Union pour un mouvement populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "UMP",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Union per la Majoritat Presidenciala",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Union pour un mouvement populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Union pour un Mouvement Populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Union pour une majorité présidentielle",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Union pour la majorité présidentielle",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "UMP",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "人民運動連合",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "民衆運動連合",
+          "note": "multilingual"
+        },
+        {
+          "lang": "br",
+          "name": "Union pour un mouvement populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "br",
+          "name": "UMP",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Ένωση για το Λαϊκό Κίνημα",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Union pour la Majorité Présidentielle",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Folkrörelseunionen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "UMP-gruppen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "Union pour un mouvement populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "الاتحاد من أجل حركه شعبيه",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "الإتحاد من أجل حركة شعبية",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "حزب الاتحاد من أجل حركة شعبية",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Unie voor een Volksbeweging",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hi",
+          "name": "उनियों पुर अँ मुवमॉ पॉपुलेर",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Union pour un mouvement populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "UMP",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "União para o Movimento Popular",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Unuiĝo por Popola Movado",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Unio por Movado Popola",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Unuiĝo por Movado Popola",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Únia pre ľudové hnutie",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Union pour un mouvement populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Союз за президентское большинство Франции",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Союз народного движения",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Союз за президентское большинство",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hy",
+          "name": "ԺՇՄ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hy",
+          "name": "UMP",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "L'Union pour un mouvement populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "УМП",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Popüler Hareket Birliği",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "สหภาพเพื่อกระบวนการประชาชน",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Union pour un Mouvement Populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Uniunea pentru o Mişcare Populară",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "UMP",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Union pour un mouvement populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Unió pel Moviment Popular",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Unió per un Moviment Popular",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Kansanliikkeen unioni",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "UMP",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Union pour un Mouvement Populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Union pour la majorité présidentielle",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Unie pro lidové hnutí",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Svaz pro lidové hnutí",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "همبستگی برای یک جنبش مردمی",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "اتحاد برای جنبشی مردمی",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "همبستگی برای جنبشی مردمی",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "კავშირი სახალხო მოძრაობისთვის",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Union pour un mouvement populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "UMP",
+          "note": "multilingual"
+        },
+        {
+          "lang": "an",
+          "name": "Unión por un Movimiento Popular",
+          "note": "multilingual"
+        },
+        {
+          "lang": "an",
+          "name": "UMP",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt-br",
+          "name": "Union pour un mouvement populaire – UMP",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "RPR",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "UMP",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Union pour la Nouvelle République",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Unionen for en folkebevegelse",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Rassemblement pour la République",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Union des Démocrates pour la République",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Rassemblement du Peuple Français",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Union pour la Majorité Présidentielle",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "legislature",
@@ -112626,7 +114486,600 @@
     {
       "classification": "party",
       "id": "party/députés_n'appartenant_à_aucun_groupe",
-      "name": "Députés n'appartenant à aucun groupe"
+      "identifiers": [
+        {
+          "identifier": "Q327591",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Députés n'appartenant à aucun groupe",
+      "other_names": [
+        {
+          "lang": "zh-hans",
+          "name": "无党籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "無黨籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "無黨籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "无党籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-sg",
+          "name": "无党籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-tw",
+          "name": "無黨籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Sans étiquette",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "무소속",
+          "note": "multilingual"
+        },
+        {
+          "lang": "arz",
+          "name": "سياسى مستقل",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidato independiente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "சுயேட்சை",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Parteiloser",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Independen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "無所属",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "ανεξάρτητος",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "independent politician",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yue",
+          "name": "獨立人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "onafhankelijk politicus",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Partilös",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "سياسي مستقل",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "político sem partido",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "беспартийный",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mn",
+          "name": "Бие даагч",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-ec",
+          "name": "независни политичар",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Bağımsız siyasetçi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "politician independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Sitoutumaton",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Annibynnwr",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ur",
+          "name": "آزاد",
+          "note": "multilingual"
+        },
+        {
+          "lang": "az",
+          "name": "Partiyasız",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "løsgænger",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "無黨籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "независни политичар",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "کنشگر سیاسی مستقل",
+          "note": "multilingual"
+        },
+        {
+          "lang": "war",
+          "name": "Independente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-el",
+          "name": "nezavisni političar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "indipendente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be",
+          "name": "Беспартыйны",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "polityk niezrzeszony",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mr",
+          "name": "अपक्ष",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be-tarask",
+          "name": "Беспартыйны",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "פוליטיקאי עצמאי",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "partiløs",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "nezávislý",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "független politikus",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Sendependa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hi",
+          "name": "निर्दलीय",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Nezavisni",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "independent politeecian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Nezávislý politik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hak",
+          "name": "Mò-tóng-sit",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "นักการเมืองอิสระ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Незалежний політик",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sd",
+          "name": "آزاد",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Politicus nullius factionis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nan",
+          "name": "Bû-tóng-che̍k",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "無黨派",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "无党派人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "獨立人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "獨立候選人",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Sans etiquette",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Indépendant",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Non-inscrits",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Non-inscrit",
+          "note": "multilingual"
+        },
+        {
+          "lang": "arz",
+          "name": "Independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidato civico",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Movimientos cívicos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Independientes",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidatos cívicos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidato Cívico",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidatura independiente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Movimiento Cívico",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidatura cívica",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidata cívica",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "சுயேச்சை",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Unabhängiger",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "freier Abgeordneter",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Politikus independen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "無所属議員",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "onafhankelijke",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "partijloos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "partijloze",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "partijlozen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Vänstervilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Liberal vilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Moderat vilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Politiska vildar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Obunden",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Politisk vilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Frisinnad vilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Högervilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "سياسيون مستقلون",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Sem partido",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Político independente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Candidato independente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Bağımsız Politikacı",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Serbest siyasetçi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Politicieni independenţi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Politicieni independenți",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Gwleidydd annibynnol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Annibynnol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Annibynol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Uden for partierne",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Frigænger",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Udenfor partierne",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Uafhængig",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Partiløs",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "nonpartisan politician",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "candidato indipendente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "politico indipendente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be-tarask",
+          "name": "Беспартыйны палітык",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "uavhengig",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "bezpartajní",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "bez stranické příslušnosti",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
@@ -112674,12 +115127,200 @@
     {
       "classification": "party",
       "id": "party/gauche_démocrate_et_républicaine",
-      "name": "Gauche démocrate et républicaine"
+      "identifiers": [
+        {
+          "identifier": "Q2450519",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Gauche démocrate et républicaine",
+      "other_names": [
+        {
+          "lang": "nl",
+          "name": "Gauche démocrate et républicaine",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Democratic and Republican Left",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Gauche démocrate et républicaine",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Vasemmistorintama",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Demokrata kaj Respublikana Maldekstro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "民主与共和左翼",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/lr",
-      "name": "LR"
+      "identifiers": [
+        {
+          "identifier": "Q20012759",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/LesRépublicains15logo.svg",
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.republicains.fr/"
+        }
+      ],
+      "name": "LR",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "The Republicans",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Les Républicains",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Les Républicains",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Les Républicains",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Los Republicanos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lb",
+          "name": "Les Républicains",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Οι Ρεπουμπλικανοί",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "共和黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Cumhuriyetçiler",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "공화당",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "I Repubblicani",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "الجمهوريون",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Республіканці",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Els Republicans",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Les Républicains",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Republikanie",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Republikanerna",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Os Republicanos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Republikánus Párt",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hy",
+          "name": "Հանրապետականներ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "جمهوری‌خواهان",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Les Républicains",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Республиканцы (Франция)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Les Républicains",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "LR",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Les Républicains",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "LR",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
@@ -113282,12 +115923,799 @@
     {
       "classification": "party",
       "id": "party/non-inscrit",
-      "name": "Non-inscrit"
+      "identifiers": [
+        {
+          "identifier": "Q327591",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Non-inscrit",
+      "other_names": [
+        {
+          "lang": "zh-hans",
+          "name": "无党籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "無黨籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "無黨籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "无党籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-sg",
+          "name": "无党籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-tw",
+          "name": "無黨籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Sans étiquette",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "무소속",
+          "note": "multilingual"
+        },
+        {
+          "lang": "arz",
+          "name": "سياسى مستقل",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidato independiente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "சுயேட்சை",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Parteiloser",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Independen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "無所属",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "ανεξάρτητος",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "independent politician",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yue",
+          "name": "獨立人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "onafhankelijk politicus",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Partilös",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "سياسي مستقل",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "político sem partido",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "беспартийный",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mn",
+          "name": "Бие даагч",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-ec",
+          "name": "независни политичар",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Bağımsız siyasetçi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "politician independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Sitoutumaton",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Annibynnwr",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ur",
+          "name": "آزاد",
+          "note": "multilingual"
+        },
+        {
+          "lang": "az",
+          "name": "Partiyasız",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "løsgænger",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "無黨籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "независни политичар",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "کنشگر سیاسی مستقل",
+          "note": "multilingual"
+        },
+        {
+          "lang": "war",
+          "name": "Independente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-el",
+          "name": "nezavisni političar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "indipendente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be",
+          "name": "Беспартыйны",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "polityk niezrzeszony",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mr",
+          "name": "अपक्ष",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be-tarask",
+          "name": "Беспартыйны",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "פוליטיקאי עצמאי",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "partiløs",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "nezávislý",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "független politikus",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Sendependa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hi",
+          "name": "निर्दलीय",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Nezavisni",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "independent politeecian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Nezávislý politik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hak",
+          "name": "Mò-tóng-sit",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "นักการเมืองอิสระ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Незалежний політик",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sd",
+          "name": "آزاد",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Politicus nullius factionis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nan",
+          "name": "Bû-tóng-che̍k",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "無黨派",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "无党派人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "獨立人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "獨立候選人",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Sans etiquette",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Indépendant",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Non-inscrits",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Non-inscrit",
+          "note": "multilingual"
+        },
+        {
+          "lang": "arz",
+          "name": "Independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidato civico",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Movimientos cívicos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Independientes",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidatos cívicos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidato Cívico",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidatura independiente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Movimiento Cívico",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidatura cívica",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidata cívica",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "சுயேச்சை",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Unabhängiger",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "freier Abgeordneter",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Politikus independen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "無所属議員",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "onafhankelijke",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "partijloos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "partijloze",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "partijlozen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Vänstervilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Liberal vilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Moderat vilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Politiska vildar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Obunden",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Politisk vilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Frisinnad vilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Högervilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "سياسيون مستقلون",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Sem partido",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Político independente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Candidato independente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Bağımsız Politikacı",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Serbest siyasetçi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Politicieni independenţi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Politicieni independenți",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Gwleidydd annibynnol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Annibynnol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Annibynol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Uden for partierne",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Frigænger",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Udenfor partierne",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Uafhængig",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Partiløs",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "nonpartisan politician",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "candidato indipendente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "politico indipendente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be-tarask",
+          "name": "Беспартыйны палітык",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "uavhengig",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "bezpartajní",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "bez stranické příslušnosti",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/nouveau_centre",
-      "name": "Nouveau Centre"
+      "identifiers": [
+        {
+          "identifier": "Q853418",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.le-nouveaucentre.org/"
+        }
+      ],
+      "name": "Nouveau Centre",
+      "other_names": [
+        {
+          "lang": "pt",
+          "name": "Novo Centro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hans",
+          "name": "新中间党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "新中間黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "新中間黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pms",
+          "name": "Neuv Sènter",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Nowe Centrum",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Новый центр",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Nouveau Centre",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "신중도당",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "New Centre",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Nou Centre",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Novèl Centre",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Новий центр",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Nuovo Centro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Nouveau Centre",
+          "note": "multilingual"
+        },
+        {
+          "lang": "br",
+          "name": "Kreiz Nevez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Nouveau Centre",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Нов център",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "ახალი ცენტრი",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Nouveau Centre",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Nouveau Centre",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Nouveau Centre",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "新中間黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Nouveau centre",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Nova Centro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Nouveau centre",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Европейская социал-либеральная партия",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti social libéral européen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "PSLE",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Le Nouveau Centre",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Nouveau Centre",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Parti Social Libéral Européen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "PSLE",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Le Nouveau Centre",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Neues Zentrum",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Nytt centrum",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
@@ -113345,17 +116773,131 @@
     {
       "classification": "party",
       "id": "party/ser",
-      "name": "SER"
+      "identifiers": [
+        {
+          "identifier": "Q2236823",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "SER",
+      "other_names": [
+        {
+          "lang": "nl",
+          "name": "Socialiste, radical, citoyen et divers gauche",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Socialist, Radical, Citizen and Miscellaneous Left",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Groupe socialiste",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Socialisternas, de radikalas och medborgarnas grupp",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Sosialistinen ryhmä",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Socialisma Grupo",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/socialiste,_radical_et_citoyen",
-      "name": "Socialiste, radical et citoyen"
+      "identifiers": [
+        {
+          "identifier": "Q2236823",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Socialiste, radical et citoyen",
+      "other_names": [
+        {
+          "lang": "nl",
+          "name": "Socialiste, radical, citoyen et divers gauche",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Socialist, Radical, Citizen and Miscellaneous Left",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Groupe socialiste",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Socialisternas, de radikalas och medborgarnas grupp",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Sosialistinen ryhmä",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Socialisma Grupo",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/socialiste,_radical_et_citoyen_et_divers_gauche",
-      "name": "Socialiste, radical et citoyen et divers gauche"
+      "identifiers": [
+        {
+          "identifier": "Q2236823",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Socialiste, radical et citoyen et divers gauche",
+      "other_names": [
+        {
+          "lang": "nl",
+          "name": "Socialiste, radical, citoyen et divers gauche",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Socialist, Radical, Citizen and Miscellaneous Left",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Groupe socialiste",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Socialisternas, de radikalas och medborgarnas grupp",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Sosialistinen ryhmä",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Socialisma Grupo",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
@@ -114157,12 +117699,1530 @@
     {
       "classification": "party",
       "id": "party/union_pour_un_mouvement_populaire",
-      "name": "Union pour un Mouvement Populaire"
+      "identifiers": [
+        {
+          "identifier": "Q173152",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.u-m-p.org"
+        }
+      ],
+      "name": "Union pour un Mouvement Populaire",
+      "other_names": [
+        {
+          "lang": "zh-hans",
+          "name": "人民运动联盟",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "人民運動聯盟",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "人民運動聯盟",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "人民运动联盟",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-sg",
+          "name": "人民运动联盟",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-tw",
+          "name": "人民運動聯盟",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "Union pour un Mouvement Populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Unia na rzecz Ruchu Ludowego",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Union pour un mouvement populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "대중운동연합",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "האיחוד למען תנועה עממית",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Unión por un Movimiento Popular",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "குடிதழீஇய இயக்கச் சங்கம்",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Union per un Movement Popular",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Unió egy Népi Mozgalomért",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Unione per un Movimento Popolare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Unión por un Movemento Popular",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Persatuan Gerakan Masyarakat",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Union pour un mouvement populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "国民運動連合",
+          "note": "multilingual"
+        },
+        {
+          "lang": "br",
+          "name": "Unvaniezh evit ul Luskad Poblel",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Ένωση για ένα Λαϊκό Κίνημα",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Đảng liên minh vì phong trào nhân dân",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Union for a Popular Movement",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Union pour un Mouvement Populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "الاتحاد من أجل حركة شعبية",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Union pour un Mouvement Populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hi",
+          "name": "उनियों पूर अँ मुवमॉ पॉपुलेर",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "União por um Movimento Popular",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Union pour un mouvement populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Únia za ľudové hnutie",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Союз за народное движение",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hy",
+          "name": "Ժողովրդական շարժման միություն",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-el",
+          "name": "Unija za narodni pokret",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-ec",
+          "name": "Унија за народни покрет",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Halk Hareketi Birliği",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "สหภาพเพื่อขบวนการประชาชน",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Uniunea pentru o Mișcare Populară",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Unió per a un Moviment Popular",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Union pour un Mouvement Populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Союз за Народний Рух",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Zveza za ljudsko gibanje",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Union pour un mouvement populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Съюз за народно движение",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "اتحاد برای جنبش مردمی",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "კავშირი სახალხო მოძრაობისათვის",
+          "note": "multilingual"
+        },
+        {
+          "lang": "az",
+          "name": "Xalq Hərakatı Uğrunda İttifaq",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Savez za narodni pokret",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "UMP",
+          "note": "multilingual"
+        },
+        {
+          "lang": "an",
+          "name": "Union pour un Mouvement Populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Унија за народни покрет",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "人民运动联盟",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be",
+          "name": "Саюз за народны рух",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt-br",
+          "name": "União por um Movimento Popular",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Union pour un mouvement populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tt",
+          "name": "Xalıq xäräkäte öçen Berlek",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be-tarask",
+          "name": "Зьвяз за народны рух (Францыя)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "Union for a Popular Muivement",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "Сојуз за народно движење",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "Union for a Popular Movement",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "Union for a Popular Movement",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lb",
+          "name": "Union pour un mouvement populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ilo",
+          "name": "Kappon ti Popular a Tignay",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "法国人民运动联盟",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "Union for a Popular Movement",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "UMP",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Union pour un mouvement populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Union pour la Majorité Présidentielle",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Union pour la Majorite Presidentielle",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "UMP",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Union pour la majorité présidentielle",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Union en mouvement",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "대중 운동 연합",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "민중운동연합",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "UMP",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Union pour un mouvement populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Union por un movimiento popular",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Union pour la Majorite Présidentielle",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Union pour la Majorite Presidentielle",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "UMP",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Union pour la majorité présidentielle",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Union pour un mouvement populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "UMP",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Union per la Majoritat Presidenciala",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Union pour un mouvement populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Union pour un Mouvement Populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Union pour une majorité présidentielle",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Union pour la majorité présidentielle",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "UMP",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "人民運動連合",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "民衆運動連合",
+          "note": "multilingual"
+        },
+        {
+          "lang": "br",
+          "name": "Union pour un mouvement populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "br",
+          "name": "UMP",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Ένωση για το Λαϊκό Κίνημα",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Union pour la Majorité Présidentielle",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Folkrörelseunionen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "UMP-gruppen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "Union pour un mouvement populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "الاتحاد من أجل حركه شعبيه",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "الإتحاد من أجل حركة شعبية",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "حزب الاتحاد من أجل حركة شعبية",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Unie voor een Volksbeweging",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hi",
+          "name": "उनियों पुर अँ मुवमॉ पॉपुलेर",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Union pour un mouvement populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "UMP",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "União para o Movimento Popular",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Unuiĝo por Popola Movado",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Unio por Movado Popola",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Unuiĝo por Movado Popola",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Únia pre ľudové hnutie",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Union pour un mouvement populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Союз за президентское большинство Франции",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Союз народного движения",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Союз за президентское большинство",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hy",
+          "name": "ԺՇՄ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hy",
+          "name": "UMP",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "L'Union pour un mouvement populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "УМП",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Popüler Hareket Birliği",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "สหภาพเพื่อกระบวนการประชาชน",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Union pour un Mouvement Populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Uniunea pentru o Mişcare Populară",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "UMP",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Union pour un mouvement populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Unió pel Moviment Popular",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Unió per un Moviment Popular",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Kansanliikkeen unioni",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "UMP",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Union pour un Mouvement Populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Union pour la majorité présidentielle",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Unie pro lidové hnutí",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Svaz pro lidové hnutí",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "همبستگی برای یک جنبش مردمی",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "اتحاد برای جنبشی مردمی",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "همبستگی برای جنبشی مردمی",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "კავშირი სახალხო მოძრაობისთვის",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Union pour un mouvement populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "UMP",
+          "note": "multilingual"
+        },
+        {
+          "lang": "an",
+          "name": "Unión por un Movimiento Popular",
+          "note": "multilingual"
+        },
+        {
+          "lang": "an",
+          "name": "UMP",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt-br",
+          "name": "Union pour un mouvement populaire – UMP",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "RPR",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "UMP",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Union pour la Nouvelle République",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Unionen for en folkebevegelse",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Rassemblement pour la République",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Union des Démocrates pour la République",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Rassemblement du Peuple Français",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Union pour la Majorité Présidentielle",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/union_pour_un_mouvement_populaire",
-      "name": "Union pour un mouvement populaire"
+      "identifiers": [
+        {
+          "identifier": "Q173152",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.u-m-p.org"
+        }
+      ],
+      "name": "Union pour un mouvement populaire",
+      "other_names": [
+        {
+          "lang": "zh-hans",
+          "name": "人民运动联盟",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "人民運動聯盟",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "人民運動聯盟",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "人民运动联盟",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-sg",
+          "name": "人民运动联盟",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-tw",
+          "name": "人民運動聯盟",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "Union pour un Mouvement Populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Unia na rzecz Ruchu Ludowego",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Union pour un mouvement populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "대중운동연합",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "האיחוד למען תנועה עממית",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Unión por un Movimiento Popular",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "குடிதழீஇய இயக்கச் சங்கம்",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Union per un Movement Popular",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Unió egy Népi Mozgalomért",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Unione per un Movimento Popolare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Unión por un Movemento Popular",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Persatuan Gerakan Masyarakat",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Union pour un mouvement populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "国民運動連合",
+          "note": "multilingual"
+        },
+        {
+          "lang": "br",
+          "name": "Unvaniezh evit ul Luskad Poblel",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Ένωση για ένα Λαϊκό Κίνημα",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Đảng liên minh vì phong trào nhân dân",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Union for a Popular Movement",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Union pour un Mouvement Populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "الاتحاد من أجل حركة شعبية",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Union pour un Mouvement Populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hi",
+          "name": "उनियों पूर अँ मुवमॉ पॉपुलेर",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "União por um Movimento Popular",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Union pour un mouvement populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Únia za ľudové hnutie",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Союз за народное движение",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hy",
+          "name": "Ժողովրդական շարժման միություն",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-el",
+          "name": "Unija za narodni pokret",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-ec",
+          "name": "Унија за народни покрет",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Halk Hareketi Birliği",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "สหภาพเพื่อขบวนการประชาชน",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Uniunea pentru o Mișcare Populară",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Unió per a un Moviment Popular",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Union pour un Mouvement Populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Союз за Народний Рух",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Zveza za ljudsko gibanje",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Union pour un mouvement populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Съюз за народно движение",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "اتحاد برای جنبش مردمی",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "კავშირი სახალხო მოძრაობისათვის",
+          "note": "multilingual"
+        },
+        {
+          "lang": "az",
+          "name": "Xalq Hərakatı Uğrunda İttifaq",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Savez za narodni pokret",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "UMP",
+          "note": "multilingual"
+        },
+        {
+          "lang": "an",
+          "name": "Union pour un Mouvement Populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Унија за народни покрет",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "人民运动联盟",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be",
+          "name": "Саюз за народны рух",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt-br",
+          "name": "União por um Movimento Popular",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Union pour un mouvement populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tt",
+          "name": "Xalıq xäräkäte öçen Berlek",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be-tarask",
+          "name": "Зьвяз за народны рух (Францыя)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "Union for a Popular Muivement",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "Сојуз за народно движење",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "Union for a Popular Movement",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "Union for a Popular Movement",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lb",
+          "name": "Union pour un mouvement populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ilo",
+          "name": "Kappon ti Popular a Tignay",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "法国人民运动联盟",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "Union for a Popular Movement",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "UMP",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Union pour un mouvement populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Union pour la Majorité Présidentielle",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Union pour la Majorite Presidentielle",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "UMP",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Union pour la majorité présidentielle",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Union en mouvement",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "대중 운동 연합",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "민중운동연합",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "UMP",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Union pour un mouvement populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Union por un movimiento popular",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Union pour la Majorite Présidentielle",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Union pour la Majorite Presidentielle",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "UMP",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Union pour la majorité présidentielle",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Union pour un mouvement populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "UMP",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Union per la Majoritat Presidenciala",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Union pour un mouvement populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Union pour un Mouvement Populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Union pour une majorité présidentielle",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Union pour la majorité présidentielle",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "UMP",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "人民運動連合",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "民衆運動連合",
+          "note": "multilingual"
+        },
+        {
+          "lang": "br",
+          "name": "Union pour un mouvement populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "br",
+          "name": "UMP",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Ένωση για το Λαϊκό Κίνημα",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Union pour la Majorité Présidentielle",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Folkrörelseunionen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "UMP-gruppen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "Union pour un mouvement populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "الاتحاد من أجل حركه شعبيه",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "الإتحاد من أجل حركة شعبية",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "حزب الاتحاد من أجل حركة شعبية",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Unie voor een Volksbeweging",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hi",
+          "name": "उनियों पुर अँ मुवमॉ पॉपुलेर",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Union pour un mouvement populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "UMP",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "União para o Movimento Popular",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Unuiĝo por Popola Movado",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Unio por Movado Popola",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Unuiĝo por Movado Popola",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Únia pre ľudové hnutie",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Union pour un mouvement populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Союз за президентское большинство Франции",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Союз народного движения",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Союз за президентское большинство",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hy",
+          "name": "ԺՇՄ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hy",
+          "name": "UMP",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "L'Union pour un mouvement populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "УМП",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Popüler Hareket Birliği",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "สหภาพเพื่อกระบวนการประชาชน",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Union pour un Mouvement Populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Uniunea pentru o Mişcare Populară",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "UMP",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Union pour un mouvement populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Unió pel Moviment Popular",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Unió per un Moviment Popular",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Kansanliikkeen unioni",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "UMP",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Union pour un Mouvement Populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Union pour la majorité présidentielle",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Unie pro lidové hnutí",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Svaz pro lidové hnutí",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "همبستگی برای یک جنبش مردمی",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "اتحاد برای جنبشی مردمی",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "همبستگی برای جنبشی مردمی",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "კავშირი სახალხო მოძრაობისთვის",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Union pour un mouvement populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "UMP",
+          "note": "multilingual"
+        },
+        {
+          "lang": "an",
+          "name": "Unión por un Movimiento Popular",
+          "note": "multilingual"
+        },
+        {
+          "lang": "an",
+          "name": "UMP",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt-br",
+          "name": "Union pour un mouvement populaire – UMP",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "RPR",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "UMP",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Union pour la Nouvelle République",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Unionen for en folkebevegelse",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Rassemblement pour la République",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Union des Démocrates pour la République",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Rassemblement du Peuple Français",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Union pour la Majorité Présidentielle",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
@@ -120940,6 +126000,15 @@
       "organization_id": "legislature",
       "person_id": "be6685a2-028b-4979-9c2f-b36ea7aece4c",
       "role": "member"
+    },
+    {
+      "area_id": "area/ain",
+      "legislative_period_id": "term/14",
+      "on_behalf_of_id": "party/lr",
+      "organization_id": "legislature",
+      "person_id": "bf6cbf03-e9f3-4d89-9f85-3e28eedd2b65",
+      "role": "member",
+      "start_date": "2016-06-13"
     },
     {
       "area_id": "area/meurthe-et-moselle",
