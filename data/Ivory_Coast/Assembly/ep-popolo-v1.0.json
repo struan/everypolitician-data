@@ -5604,6 +5604,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "nan",
+          "name": "Bû-tóng-che̍k",
+          "note": "multilingual"
+        },
+        {
           "lang": "zh",
           "name": "無黨派",
           "note": "multilingual"
@@ -6041,6 +6046,16 @@
           "lang": "zh-cn",
           "name": "科特迪瓦民主黨",
           "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "コートジボワール民主党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "科特迪瓦民主党",
+          "note": "multilingual"
         }
       ]
     },
@@ -6107,8 +6122,23 @@
           "note": "multilingual"
         },
         {
+          "lang": "ja",
+          "name": "共和主義者連合",
+          "note": "multilingual"
+        },
+        {
           "lang": "zh",
           "name": "共和人士聯盟",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "共和連合",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "コートジボワール共和主義者連合",
           "note": "multilingual"
         }
       ]
@@ -8201,11 +8231,95 @@
   ],
   "events": [
     {
+      "classification": "general election",
+      "end_date": "1959-04-12",
+      "id": "Q3587172",
+      "name": "Ivorian parliamentary election, 1959",
+      "start_date": "1959-04-12"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1960-11-27",
+      "id": "Q6099587",
+      "name": "Ivorian general election, 1960",
+      "start_date": "1960-11-27"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1965",
+      "id": "Q6099589",
+      "name": "Ivorian general election, 1965",
+      "start_date": "1965"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1970",
+      "id": "Q6099591",
+      "name": "Ivorian general election, 1970",
+      "start_date": "1970"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1975",
+      "id": "Q6099592",
+      "name": "Ivorian general election, 1975",
+      "start_date": "1975"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1980",
+      "id": "Q6099600",
+      "name": "Ivorian parliamentary election, 1980",
+      "start_date": "1980"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1985",
+      "id": "Q16965397",
+      "name": "Ivorian parliamentary election, 1985",
+      "start_date": "1985"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1990",
+      "id": "Q6099605",
+      "name": "Ivorian parliamentary election, 1990",
+      "start_date": "1990"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1995-11-25",
+      "id": "Q3587171",
+      "name": "Ivorian parliamentary election, 1995",
+      "start_date": "1995-11-25"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2000-12-10",
+      "id": "Q1698721",
+      "name": "Ivorian parliamentary election, 2000–2001",
+      "start_date": "2000-12-10"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2011-12-11",
+      "id": "Q1737585",
+      "name": "Ivorian parliamentary election, 2011",
+      "start_date": "2011-12-11"
+    },
+    {
       "classification": "legislative period",
       "id": "term/2.2",
       "name": "2e législature de la 2e République",
       "organization_id": "legislature",
       "start_date": "2012-03-12"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2016-12",
+      "id": "Q22342215",
+      "name": "Ivorian parliamentary election, 2016",
+      "start_date": "2016-12"
     }
   ],
   "areas": [
