@@ -16786,6 +16786,33 @@
       "contact_details": [
         {
           "type": "email",
+          "value": "mpenalozam@diputados.gob.ar"
+        },
+        {
+          "type": "phone",
+          "value": "4127-7100"
+        }
+      ],
+      "email": "mpenalozam@diputados.gob.ar",
+      "id": "35798dde-ed7c-4161-97d3-714accf9105f",
+      "image": "http://www4.hcdn.gob.ar/fotos//_silueta_medium.jpg",
+      "images": [
+        {
+          "url": "http://www4.hcdn.gob.ar/fotos//_silueta_medium.jpg"
+        }
+      ],
+      "name": "MARIA FLORENCIA PEÑALOZA MARIANETTI",
+      "sort_name": "PEÑALOZA MARIANETTI, MARIA FLORENCIA",
+      "sources": [
+        {
+          "url": "http://www.hcdn.gob.ar/diputados/mpenalozam/"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
           "value": "mburgos@diputados.gob.ar"
         },
         {
@@ -27586,6 +27613,15 @@
       "on_behalf_of_id": "party/frente_para_la_victoria_-_pj",
       "organization_id": "legislature",
       "person_id": "34f8c684-c4b4-401a-bb9c-12c1ea0df85c",
+      "role": "member",
+      "start_date": "2015-12-10"
+    },
+    {
+      "area_id": "area/san_juan",
+      "legislative_period_id": "term/133",
+      "on_behalf_of_id": "party/compromiso_con_san_juan",
+      "organization_id": "legislature",
+      "person_id": "35798dde-ed7c-4161-97d3-714accf9105f",
       "role": "member",
       "start_date": "2015-12-10"
     },
