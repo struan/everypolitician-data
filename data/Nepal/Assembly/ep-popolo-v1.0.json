@@ -17462,22 +17462,327 @@
     {
       "classification": "party",
       "id": "party/akhanda_nepal_party",
-      "name": "Akhanda Nepal Party"
+      "identifiers": [
+        {
+          "identifier": "Q15980896",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://akhandanepal.org/en/"
+        }
+      ],
+      "name": "Akhanda Nepal Party",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Akhanda Nepal Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "अखण्ड नेपाल पार्टी",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "大尼泊爾黨",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/communist_party_of_nepal_(marxist-leninist)",
-      "name": "Communist Party of Nepal (Marxist-Leninist)"
+      "identifiers": [
+        {
+          "identifier": "Q974577",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Communist Party of Nepal (Marxist-Leninist)",
+      "other_names": [
+        {
+          "lang": "fr",
+          "name": "Parti communiste du Népal (2002)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Communist Party of Nepal (2002)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Communistische Partij van Nepal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Nepal Kamyunishta Parti (Marksbadi Leninbadi)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "尼泊尔共产党（马列主义） (2002年成立)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "नेपाल कम्युनिष्ट पार्टी (मार्क्सवादी-लेनिनवादी)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Κομμουνιστικό Κόμμα του Νεπάλ (Μ-Λ)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Partito Comunista del Nepal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "नेकपा माले",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "नेपाल कम्युनिष्ट पार्टी माले",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/communist_party_of_nepal_(unified_marxist-leninist)",
-      "name": "Communist Party of Nepal (Unified Marxist-Leninist)"
+      "identifiers": [
+        {
+          "identifier": "Q426963",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Flag_of_the_Communist_Party_of_Nepal_(Unified_Marxist-Leninist).svg",
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.cpnuml.org"
+        }
+      ],
+      "name": "Communist Party of Nepal (Unified Marxist-Leninist)",
+      "other_names": [
+        {
+          "lang": "fr",
+          "name": "Parti communiste du Népal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "الحزب الشيوعي النيبالي",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bn",
+          "name": "নেপাল কমিউনিস্ট পার্টি",
+          "note": "multilingual"
+        },
+        {
+          "lang": "br",
+          "name": "Strollad Komunour Nepal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Partit Comunista del Nepal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Communist Party of Nepal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Kommunistische Partei Nepals",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Communist Party of Nepal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Comunista de Nepal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "حزب کمونیست نپال",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Nepalin kommunistinen puolue",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hi",
+          "name": "नेपाल कम्युनिस्ट पार्टी",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Partito Comunista del Nepal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ネパール共産党統一マルクス・レーニン主義派",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "नेपाल कम्युनिष्ट पार्टी",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Communistische Partij van Nepal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "UML",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Komunistyczna Partia Nepalu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Partido Comunista do Nepal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Коммунистическая партия Непала",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Nepals kommunistiska parti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "நேபாள கம்யுனிஸ்ட் கட்சி",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tl",
+          "name": "CPN(UML)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "尼泊尔共产党（联合马列）",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "UML",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Κομουνιστικό Κόμμα του Νεπάλ (Ενιαίο Μαρξιστικό-Λενινιστικό)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "Комунистичка партија на Непал (обединета марксистичко-ленинистичка)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "네팔 공산당",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "CPN-UML",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "КПН-ОМЛ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Partit Comunista de Nepal",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/communist_party_of_nepal_(united)",
-      "name": "Communist Party of Nepal (United)"
+      "identifiers": [
+        {
+          "identifier": "Q2090478",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Communist Party of Nepal (United)",
+      "other_names": [
+        {
+          "lang": "nl",
+          "name": "Communistische Partij van Nepal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Communist Party of Nepal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti communiste du Népal (2007)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ネパール共産党ユナイテッド派",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "尼泊尔共产党（联合）",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Κομμουνιστικό Κόμμα του Νεπάλ (Ενωτικό)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "พรรคคอมมิวนิสต์เนปาล",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Partito Comunista del Nepal",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "legislature",
@@ -17494,12 +17799,633 @@
     {
       "classification": "party",
       "id": "party/dalit_janajati_party",
-      "name": "Dalit Janajati Party"
+      "identifiers": [
+        {
+          "identifier": "Q5211031",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Dalit Janajati Party",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Dalit Janajati Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "दलित जनजाति पार्टी",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Κόμμα Νταλίτ Τζανατζάτι",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "達利特部落黨",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/independent",
-      "name": "Independent"
+      "identifiers": [
+        {
+          "identifier": "Q327591",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Independent",
+      "other_names": [
+        {
+          "lang": "zh-hans",
+          "name": "无党籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "無黨籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "無黨籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "无党籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-sg",
+          "name": "无党籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-tw",
+          "name": "無黨籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Sans étiquette",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "무소속",
+          "note": "multilingual"
+        },
+        {
+          "lang": "arz",
+          "name": "سياسى مستقل",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidato independiente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "சுயேட்சை",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Parteiloser",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Independen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "無所属",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "ανεξάρτητος",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "independent politician",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yue",
+          "name": "獨立人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "onafhankelijk politicus",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Partilös",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "سياسي مستقل",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "político sem partido",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "беспартийный",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mn",
+          "name": "Бие даагч",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-ec",
+          "name": "независни политичар",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Bağımsız siyasetçi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "politician independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Sitoutumaton",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Annibynnwr",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ur",
+          "name": "آزاد",
+          "note": "multilingual"
+        },
+        {
+          "lang": "az",
+          "name": "Partiyasız",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "løsgænger",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "無黨籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "независни политичар",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "کنشگر سیاسی مستقل",
+          "note": "multilingual"
+        },
+        {
+          "lang": "war",
+          "name": "Independente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-el",
+          "name": "nezavisni političar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "indipendente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be",
+          "name": "Беспартыйны",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "polityk niezrzeszony",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mr",
+          "name": "अपक्ष",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be-tarask",
+          "name": "Беспартыйны",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "פוליטיקאי עצמאי",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "partiløs",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "nezávislý",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "független politikus",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Sendependa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hi",
+          "name": "निर्दलीय",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Nezavisni",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "independent politeecian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Nezávislý politik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hak",
+          "name": "Mò-tóng-sit",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "นักการเมืองอิสระ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Незалежний політик",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sd",
+          "name": "آزاد",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Politicus nullius factionis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nan",
+          "name": "Bû-tóng-che̍k",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "無黨派",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "无党派人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "獨立人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "獨立候選人",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Sans etiquette",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Indépendant",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Non-inscrits",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Non-inscrit",
+          "note": "multilingual"
+        },
+        {
+          "lang": "arz",
+          "name": "Independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidato civico",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Movimientos cívicos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Independientes",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidatos cívicos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidato Cívico",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidatura independiente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Movimiento Cívico",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidatura cívica",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidata cívica",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "சுயேச்சை",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Unabhängiger",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "freier Abgeordneter",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Politikus independen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "無所属議員",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "onafhankelijke",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "partijloos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "partijloze",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "partijlozen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Vänstervilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Liberal vilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Moderat vilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Politiska vildar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Obunden",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Politisk vilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Frisinnad vilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Högervilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "سياسيون مستقلون",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Sem partido",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Político independente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Candidato independente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Bağımsız Politikacı",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Serbest siyasetçi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Politicieni independenţi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Politicieni independenți",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Gwleidydd annibynnol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Annibynnol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Annibynol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Uden for partierne",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Frigænger",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Udenfor partierne",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Uafhængig",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Partiløs",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "nonpartisan politician",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "candidato indipendente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "politico indipendente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be-tarask",
+          "name": "Беспартыйны палітык",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "uavhengig",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "bezpartajní",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "bez stranické příslušnosti",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
@@ -17509,12 +18435,48 @@
     {
       "classification": "party",
       "id": "party/khambuwan_rastriya_morcha_nepal",
-      "name": "Khambuwan Rastriya Morcha Nepal"
+      "identifiers": [
+        {
+          "identifier": "Q19604436",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Khambuwan Rastriya Morcha Nepal",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Khambuwan Rashtriya Morchan Nepal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "卡扶維納人民陣線",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/madhesh_samata_party_nepal",
-      "name": "Madhesh Samata Party Nepal"
+      "identifiers": [
+        {
+          "identifier": "Q19604445",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Madhesh Samata Party Nepal",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Madesh Samata Party Nepal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "馬德西平等黨",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
@@ -17529,7 +18491,40 @@
     {
       "classification": "party",
       "id": "party/nepa_rastriya_party",
-      "name": "Nepa Rastriya Party"
+      "identifiers": [
+        {
+          "identifier": "Q3366530",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Nepa Rastriya Party",
+      "other_names": [
+        {
+          "lang": "fr",
+          "name": "Parti national du Népal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Nepa Rastriya Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "नेपाः राष्ट्रिय पार्टी",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Νεπαλέζικο Κόμμα Ραστρίγια",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "尼泊賴特黨",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
@@ -17539,27 +18534,966 @@
     {
       "classification": "party",
       "id": "party/nepal_workers_peasants_party",
-      "name": "Nepal Workers Peasants Party"
+      "identifiers": [
+        {
+          "identifier": "Q1800560",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Nepal Workers Peasants Party",
+      "other_names": [
+        {
+          "lang": "hi",
+          "name": "नेपाल मजदुर किसान पार्टी",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Partido Operário Camponês do Nepal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Nepalska Partia Robotniczo-Chłopska",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti des travailleurs et des paysans du Népal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Nepal Workers Peasants Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "நேபாள உழைக்கும் விவசாயிகளின் கட்சி",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Partit dels Treballadors i Camperols del Nepal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Partito dei Lavoratori e dei Contadini Nepalese",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bn",
+          "name": "নেপাল মজুর কৃষক পার্টি",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "حزب کارگران و دهقانان نپال",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "नेपाल मजदुर किसान पार्टी",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tl",
+          "name": "Partido Manggagawang at Magsasakang ng Nepal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "حزب العمال والفلاحين النيبالي",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Nepalese Arbeiders- en Boerenpartij",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Nepal Mazdoor Kizan Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "尼泊尔工农党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Κόμμα των Αγροτών και Εργατών του Νεπάλ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ネパール労働者農民党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hi",
+          "name": "नेपाल मजदुर किसान पार्ती",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hi",
+          "name": "NMKP",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Nepal Workers Peasants Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "NWPP",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti des travailleurs et des paysans du Nepal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Partit dels Treballadors i Camperols de Nepal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Nepal Majdur Kisan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "حزب دهقانان کارگران نپال",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "NMKP",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tl",
+          "name": "NMKP",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "حزب العمال والفلاحين نيبال",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Nepal Workers Peasants Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Nepals Arbeider og Bondepartti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Nepals arbeider- og bondeparti",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/nepali_congress",
-      "name": "Nepali Congress"
+      "identifiers": [
+        {
+          "identifier": "Q216660",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Nepali_Congress_Edited.svg",
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.nepalicongress.org"
+        }
+      ],
+      "name": "Nepali Congress",
+      "other_names": [
+        {
+          "lang": "zh-hans",
+          "name": "尼泊尔大会党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "尼泊爾大會黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "尼泊爾大會黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "尼泊尔大会党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-sg",
+          "name": "尼泊尔大会党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-tw",
+          "name": "尼泊爾大會黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Kongres Nepalski",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Congrès népalais",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Congreso Nepalí",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "நேபாளி காங்கிரஸ்",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Partito del Congresso Nepalese",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Nepalesische Kongresspartei",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Kongres Nepal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bn",
+          "name": "নেপালি কংগ্রেস",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ネパール会議派",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Nepalese Congrespartij",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "المؤتمر النيبالى",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hi",
+          "name": "नेपाली कांग्रेस",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Congresso Nepalês",
+          "note": "multilingual"
+        },
+        {
+          "lang": "new",
+          "name": "नेपाली काँग्रेस",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Непальский конгресс",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Nepali Congress",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Nepalin kongressipuolue",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Nepals kongressparti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Nepálský kongres",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "کنگره نپالی",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "नेपाली काँग्रेस",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Nepalo kongreso partija",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tl",
+          "name": "Kongresong Nepali",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Nepali Congress",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "尼泊尔大会党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Nepals Kongressparti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Непалски конгрес",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Κογκρέσο του Νεπάλ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "Непалски конгрес",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Congres Nepalès",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pa",
+          "name": "ਨੇਪਾਲੀ ਕਾਂਗਰਸ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "네팔 의회당",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mai",
+          "name": "नेपाली काँग्रेस",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Nepali Congress",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Congres nepalais",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti du congrès népalais",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido del Congreso de Nepal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido del Congreso Nepalés",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Congreso Nepali",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido del Congreso Nepales",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido del Congreso Nepali",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido del Congreso Nepalí",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "நேப்பாளி காங்கிரஸ்",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Nepali Congress",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Nepali Congress Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Nepali Congress",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hi",
+          "name": "NC",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Congresso Nepali",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Kongressipuolue",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Kongresspartiet i Nepal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "کنگرهٔ نپالی",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "नेपाली कङ्ग्रेस पार्टी",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "नेपाली कांग्रेस",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "Nepali Congress",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "नेपाली काङ्ग्रेस पार्टी",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tl",
+          "name": "Kongresong Nepales",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tl",
+          "name": "Konggresong Nepales",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tl",
+          "name": "Konggresong Nepali",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tl",
+          "name": "Nepali Congress",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Nepals Kongresparti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Nepali Congress",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/nepali_congress",
-      "name": "Nepali congress"
+      "identifiers": [
+        {
+          "identifier": "Q216660",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Nepali_Congress_Edited.svg",
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.nepalicongress.org"
+        }
+      ],
+      "name": "Nepali congress",
+      "other_names": [
+        {
+          "lang": "zh-hans",
+          "name": "尼泊尔大会党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "尼泊爾大會黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "尼泊爾大會黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "尼泊尔大会党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-sg",
+          "name": "尼泊尔大会党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-tw",
+          "name": "尼泊爾大會黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Kongres Nepalski",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Congrès népalais",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Congreso Nepalí",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "நேபாளி காங்கிரஸ்",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Partito del Congresso Nepalese",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Nepalesische Kongresspartei",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Kongres Nepal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bn",
+          "name": "নেপালি কংগ্রেস",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ネパール会議派",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Nepalese Congrespartij",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "المؤتمر النيبالى",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hi",
+          "name": "नेपाली कांग्रेस",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Congresso Nepalês",
+          "note": "multilingual"
+        },
+        {
+          "lang": "new",
+          "name": "नेपाली काँग्रेस",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Непальский конгресс",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Nepali Congress",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Nepalin kongressipuolue",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Nepals kongressparti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Nepálský kongres",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "کنگره نپالی",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "नेपाली काँग्रेस",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Nepalo kongreso partija",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tl",
+          "name": "Kongresong Nepali",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Nepali Congress",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "尼泊尔大会党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Nepals Kongressparti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Непалски конгрес",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Κογκρέσο του Νεπάλ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "Непалски конгрес",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Congres Nepalès",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pa",
+          "name": "ਨੇਪਾਲੀ ਕਾਂਗਰਸ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "네팔 의회당",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mai",
+          "name": "नेपाली काँग्रेस",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Nepali Congress",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Congres nepalais",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti du congrès népalais",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido del Congreso de Nepal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido del Congreso Nepalés",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Congreso Nepali",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido del Congreso Nepales",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido del Congreso Nepali",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido del Congreso Nepalí",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "நேப்பாளி காங்கிரஸ்",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Nepali Congress",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Nepali Congress Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Nepali Congress",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hi",
+          "name": "NC",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Congresso Nepali",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Kongressipuolue",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Kongresspartiet i Nepal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "کنگرهٔ نپالی",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "नेपाली कङ्ग्रेस पार्टी",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "नेपाली कांग्रेस",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "Nepali Congress",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "नेपाली काङ्ग्रेस पार्टी",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tl",
+          "name": "Kongresong Nepales",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tl",
+          "name": "Konggresong Nepales",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tl",
+          "name": "Konggresong Nepali",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tl",
+          "name": "Nepali Congress",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Nepals Kongresparti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Nepali Congress",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/rastriya_janamorcha",
-      "name": "Rastriya Janamorcha"
+      "identifiers": [
+        {
+          "identifier": "Q4589354",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Rastriya Janamorcha",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Rastriya Janamorcha",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Rashtriya Jana Morcha",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Rashtriya Jana Morcha",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "राष्ट्रिय जनमोर्चा",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Ραστρίγια Τζαναμόρκα",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "全国人民阵线",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "राजमो",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/rastriya_janamukti_party",
-      "name": "Rastriya Janamukti Party"
+      "identifiers": [
+        {
+          "identifier": "Q7295302",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Rastriya Janamukti Party",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Rastriya Janamukti Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "राष्ट्रिय जनमुक्ति पार्टी",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Κόμμα Ραστρίγια Τζαναμούκτι",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "國家解放黨",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
@@ -17579,12 +19513,160 @@
     {
       "classification": "party",
       "id": "party/rastriya_prajatantra_party",
-      "name": "Rastriya Prajatantra Party"
+      "identifiers": [
+        {
+          "identifier": "Q2632719",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.rppnepal.org"
+        }
+      ],
+      "name": "Rastriya Prajatantra Party",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "国民民主党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "राष्ट्रिय प्रजातन्त्र पार्टी",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti national démocratique",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Rastriya Prajatantra Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Rastriya Prajatantra",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Rastriya Prajatantra Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Nacional Democrático (Nepal)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Κόμμα Ραστρίγια Πρατζανάντρα",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Растрия Джанамукти",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Rastriya Prajatantra Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "民族民主黨 (尼泊爾)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "民族民主党 (尼泊尔)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti national democratique",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "National Democratic Party",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/rastriya_prajatantra_party,_nepal",
-      "name": "Rastriya Prajatantra Party, Nepal"
+      "identifiers": [
+        {
+          "identifier": "Q1782937",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.rppn.org.np"
+        }
+      ],
+      "name": "Rastriya Prajatantra Party, Nepal",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "国民民主党ネパール",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti national démocratique du Népal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Rastriya Prajatantra Party Nepal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Rastriya Prajatantra Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "राष्ट्रिय प्रजातन्त्र पार्टी नेपाल",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Κόμμα Ραστρίγια Πρατζατάντρα Νεπάλ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Partito Democratico Nazionale del Nepal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Rastriya Prajatantra Party Nepal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "尼泊爾民族民主黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "尼泊尔民族民主党",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
@@ -17594,12 +19676,98 @@
     {
       "classification": "party",
       "id": "party/sadbhavana_party",
-      "name": "Sadbhavana Party"
+      "identifiers": [
+        {
+          "identifier": "Q3366312",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Sadbhavana Party",
+      "other_names": [
+        {
+          "lang": "fr",
+          "name": "Parti de la bonne volonté",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Sadbhavana Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "友愛党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Partia Sadbhavana",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Κόμμα Σαντμπαβάνα",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "親善黨 (尼泊爾)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "亲善党 (尼泊尔)",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/sadbhavana_party",
-      "name": "Sadbhavana party"
+      "identifiers": [
+        {
+          "identifier": "Q3366312",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Sadbhavana party",
+      "other_names": [
+        {
+          "lang": "fr",
+          "name": "Parti de la bonne volonté",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Sadbhavana Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "友愛党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Partia Sadbhavana",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Κόμμα Σαντμπαβάνα",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "親善黨 (尼泊爾)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "亲善党 (尼泊尔)",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
@@ -17624,12 +19792,68 @@
     {
       "classification": "party",
       "id": "party/tarai_madhesh_loktantrik_party",
-      "name": "Tarai Madhesh Loktantrik Party"
+      "identifiers": [
+        {
+          "identifier": "Q947974",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Tarai Madhesh Loktantrik Party",
+      "other_names": [
+        {
+          "lang": "fr",
+          "name": "Parti démocrate du Terai-Madhesh",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Tarai-Madhesh Loktantrik Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "タライ・マデシ民主党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "तराई-मधेश लोकतान्त्रिक पार्टी",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Κόμμα Ταράι-Μαντές Λοκταντρίκ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "德賴-馬德西民主黨",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/terai_madhesh_sadbhawana_party,_nepal",
-      "name": "Terai Madhesh Sadbhawana Party, Nepal"
+      "identifiers": [
+        {
+          "identifier": "Q19604578",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Terai Madhesh Sadbhawana Party, Nepal",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Terai Madhes Sadbhavana Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "德賴馬德西親善黨",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
@@ -17639,7 +19863,417 @@
     {
       "classification": "party",
       "id": "party/unified_communist_party_of_nepal_(maoist)",
-      "name": "Unified Communist Party of Nepal (Maoist)"
+      "identifiers": [
+        {
+          "identifier": "Q506537",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/South_Asian_Communist_Banner.svg",
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.ucpnmaoist.org/"
+        }
+      ],
+      "name": "Unified Communist Party of Nepal (Maoist)",
+      "other_names": [
+        {
+          "lang": "zh-hans",
+          "name": "尼泊尔联合共产党（毛泽东主义）",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "尼泊爾聯合共產黨（毛澤東主義）",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "尼泊爾聯合共產黨（毛澤東主義）",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Komunistyczna Partia Nepalu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti communiste du Népal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "네팔공산당",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Comunista Unificado de Nepal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "நேபாள கம்யுனிஸ்ட் கட்சி",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "Parti Komunis Nepal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Partito Comunista Unificato del Nepal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Vereinigte Kommunistische Partei Nepals",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ネパール共産党統一毛沢東主義派",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bn",
+          "name": "একীকৃত নেপাল কমিউনিস্ট পার্টি",
+          "note": "multilingual"
+        },
+        {
+          "lang": "br",
+          "name": "Strollad Komunour Nepal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Nepals förenade kommunistiska parti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Verenigde Communistische Partij van Nepal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Partido Comunista do Nepal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Объединённая коммунистическая партия Непала",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Unified Communist Party of Nepal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-el",
+          "name": "Ujedinjena komunistička partija Nepala",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-ec",
+          "name": "Уједињена комунистичка партија Непала",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "พรรคคอมมิวนิสต์แห่งเนปาล",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Partit Comunista del Nepal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Nepalin kommunistinen puolue",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Nepals kommunistiske parti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Komunistická strana Nepálu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "एकीकृत नेपाल कम्युनिष्ट पार्टी",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Nepals kommunistiske parti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Уједињена комунистичка партија Непала",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "尼泊尔联合共产党（毛泽东主义）",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Nepals kommunistiske parti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Ujedinjena komunistička partija Nepala",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Ενιαίο Κομουνιστικό Κόμμα του Νεπάλ (Μαοϊστές)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "尼泊爾共產黨（毛主義）",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "尼泊尔共产党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "尼泊尔共产党（毛主义）",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "尼泊爾共產黨（毛澤東主義）",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "尼泊尔联合共产党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "尼泊尔共产党（毛派）",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "尼泊爾共產黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "尼泊尔联合共产党（毛主义）",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "尼共（毛）",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti communiste du Nepal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Comunista de Nepal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Partito Comunista Maoista Nepalese",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Kommunistische Partei Nepals",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Communist Party of Nepal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "統一ネパール共産党毛沢東主義派",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ネパールマオイスト",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "毛沢東の息子たち",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ネパール共産党毛沢東主義派",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "統一毛派",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bn",
+          "name": "নেপাল কম্যুনিস্ট পার্টি",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bn",
+          "name": "নেপাল কমিউনিস্ট পার্টি",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Nepals Kommunistiska Parti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "NKP(m)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "NKP",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Communistische Partij van Nepal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Коммунистическая партия Непала",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "ОКПН",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Partit Comunista de Nepal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Nepal Kamyunishta Parti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Maobadi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "NKP(m)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "NKP",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Maoistane i Nepal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Communist Party of Nepal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "नेकपा माओवादी",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "माओवादी",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "एकीकृत नेपाल कम्यूनिष्ट पार्टी",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "नेपाल कम्युनिष्ट पार्टी माओवादी",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "ने.क.पा.",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "एकीकृत नेकपा माओवादी",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "एकीकृत नेपाल कम्युनिष्ट पार्टी माओवादी",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "एनेकपा माओवादी",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "ए नेकपा माओवादी",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "ने.क.पा माओवादी",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Communist Party of Nepal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "NKP(m)",
+          "note": "multilingual"
+        }
+      ]
     }
   ],
   "meta": {
