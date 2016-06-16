@@ -1,12 +1,17 @@
 {
   "sources": [
     {
-      "file": "morph/data.csv",
+      "file": "morph/official.csv",
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/tunisia-marsad",
         "query": "SELECT *, '1' as term FROM data WHERE term = '2014' ORDER BY id"
       },
+      "source": "http://majles.marsad.tn",
+      "type": "membership"
+    },
+    {
+      "file": "morph/members.csv",
       "source": "http://majles.marsad.tn",
       "type": "membership"
     },
