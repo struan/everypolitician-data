@@ -25077,7 +25077,7 @@
       "role": "member"
     },
     {
-      "area_id": "ocd-division/country:ug/region:western/subregion:buganda/district:wakiso/constituency:kyadondo_east",
+      "area_id": "ocd-division/country:ug/region:central/subregion:buganda/district:wakiso/constituency:kyadondo_east",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "FDC",
       "organization_id": "legislature",
@@ -25109,7 +25109,7 @@
       "role": "member"
     },
     {
-      "area_id": "ocd-division/country:ug/region:western/subregion:tooro~rwenzori/district:kamwenge/constituency:kibale_county",
+      "area_id": "ocd-division/country:ug/region:eastern/subregion:bukedi/district:pallisa/constituency:kibale_county",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "NRM",
       "organization_id": "legislature",
@@ -26257,7 +26257,7 @@
       "role": "member"
     },
     {
-      "area_id": "ocd-division/country:ug/region:eastern/subregion:busoga/district:namayingo/constituency:bukooli_island",
+      "area_id": "ocd-division/country:ug/region:eastern/subregion:busoga/district:bugiri/constituency:bukooli_island",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "NRM",
       "organization_id": "legislature",
@@ -26330,7 +26330,7 @@
       "role": "member"
     },
     {
-      "area_id": "ocd-division/country:ug/region:eastern/subregion:busoga/district:namayingo/constituency:bukooli_south",
+      "area_id": "ocd-division/country:ug/region:eastern/subregion:busoga/district:bugiri/constituency:bukooli_south",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "NRM",
       "organization_id": "legislature",
@@ -26717,7 +26717,7 @@
       "role": "member"
     },
     {
-      "area_id": "ocd-division/country:ug/region:western/subregion:tooro~rwenzori/district:kamwenge/constituency:kibale_county",
+      "area_id": "ocd-division/country:ug/region:eastern/subregion:bukedi/district:pallisa/constituency:kibale_county",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "NRM",
       "organization_id": "legislature",
@@ -27144,7 +27144,7 @@
       "role": "member"
     },
     {
-      "area_id": "ocd-division/country:ug/region:central/subregion:buganda/district:bukomansimbi/constituency:bukomansimbi",
+      "area_id": "ocd-division/country:ug/region:central/subregion:buganda/district:bukomansimbi",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "DP",
       "organization_id": "legislature",
@@ -31672,11 +31672,6 @@
     },
     {
       "id": "ocd-division/country:ug/region:central/subregion:buganda/district:bukomansimbi",
-      "name": "unknown",
-      "type": "constituency"
-    },
-    {
-      "id": "ocd-division/country:ug/region:central/subregion:buganda/district:bukomansimbi/constituency:bukomansimbi",
       "name": "Bukomansimbi",
       "type": "constituency"
     },
@@ -32126,6 +32121,11 @@
       "type": "constituency"
     },
     {
+      "id": "ocd-division/country:ug/region:central/subregion:buganda/district:wakiso/constituency:kyadondo_east",
+      "name": "Kyadondo East",
+      "type": "constituency"
+    },
+    {
       "id": "ocd-division/country:ug/region:central/subregion:buganda/district:wakiso/constituency:makindye-ssabagabo",
       "name": "Makindye-Ssabagabo",
       "type": "constituency"
@@ -32356,8 +32356,18 @@
       "type": "constituency"
     },
     {
+      "id": "ocd-division/country:ug/region:eastern/subregion:busoga/district:bugiri/constituency:bukooli_island",
+      "name": "Bukooli Island",
+      "type": "constituency"
+    },
+    {
       "id": "ocd-division/country:ug/region:eastern/subregion:busoga/district:bugiri/constituency:bukooli_north",
       "name": "Bukooli North",
+      "type": "constituency"
+    },
+    {
+      "id": "ocd-division/country:ug/region:eastern/subregion:busoga/district:bugiri/constituency:bukooli_south",
+      "name": "Bukooli South",
       "type": "constituency"
     },
     {
@@ -32508,16 +32518,6 @@
     {
       "id": "ocd-division/country:ug/region:eastern/subregion:busoga/district:namayingo",
       "name": "",
-      "type": "constituency"
-    },
-    {
-      "id": "ocd-division/country:ug/region:eastern/subregion:busoga/district:namayingo/constituency:bukooli_island",
-      "name": "Bukooli Island",
-      "type": "constituency"
-    },
-    {
-      "id": "ocd-division/country:ug/region:eastern/subregion:busoga/district:namayingo/constituency:bukooli_south",
-      "name": "Bukooli South",
       "type": "constituency"
     },
     {
@@ -33426,11 +33426,6 @@
       "type": "constituency"
     },
     {
-      "id": "ocd-division/country:ug/region:western/subregion:buganda/district:wakiso/constituency:kyadondo_east",
-      "name": "Kyadondo East",
-      "type": "constituency"
-    },
-    {
       "id": "ocd-division/country:ug/region:western/subregion:bunyoro/district:buliisa",
       "name": "",
       "type": "constituency"
@@ -33683,11 +33678,6 @@
     {
       "id": "ocd-division/country:ug/region:western/subregion:tooro~rwenzori/district:kamwenge",
       "name": "",
-      "type": "constituency"
-    },
-    {
-      "id": "ocd-division/country:ug/region:western/subregion:tooro~rwenzori/district:kamwenge/constituency:kibale_county",
-      "name": "Kibale County",
       "type": "constituency"
     },
     {
