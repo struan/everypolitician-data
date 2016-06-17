@@ -4057,9 +4057,30 @@
         {
           "identifier": "175",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q24263712",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Cristian_Leay"
         }
       ],
       "name": "Cristián Leay Morán",
+      "other_names": [
+        {
+          "name": "Cristian Leay",
+          "note": "alternate"
+        },
+        {
+          "lang": "es",
+          "name": "Cristian Leay",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Leay"
     },
     {
@@ -11510,9 +11531,89 @@
       "sort_name": "Morales"
     },
     {
+      "birth_date": "1952-04-21",
       "gender": "male",
+      "given_name": "Jorge",
       "id": "e36995cd-bfa9-47e3-a942-846faa466594",
+      "identifiers": [
+        {
+          "identifier": "Q6278486",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/98/Jorge_Pizarro_Soto.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Jorge_Pizarro_Soto.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Jorge_Pizarro"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Jorge_Pizarro"
+        }
+      ],
       "name": "Jorge Pizarro Soto",
+      "other_names": [
+        {
+          "name": "Jorge Pizarro",
+          "note": "alternate"
+        },
+        {
+          "lang": "da",
+          "name": "Jorge Pizarro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Jorge Pizarro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Jorge Pizarro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Jorge Pizarro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Jorge Pizarro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Jorge Pizarro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Jorge Pizarro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Jorge Pizarro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Jorge Pizarro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Jorge Pizarro",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Pizarro"
     },
     {
@@ -16803,7 +16904,7 @@
       "sort_name": "Avila"
     },
     {
-      "gender": "female",
+      "gender": "male",
       "id": "81a71b77-ba9e-404f-a00e-a1deb281263d",
       "identifiers": [
         {
@@ -16811,7 +16912,7 @@
           "scheme": "everypolitician_legacy"
         }
       ],
-      "name": "Nicanor Araya",
+      "name": "Nicanor Araya de la Cruz",
       "sort_name": "Araya"
     },
     {
@@ -18480,15 +18581,45 @@
       "sort_name": "Auth"
     },
     {
+      "birth_date": "1946-05-12",
       "gender": "male",
+      "given_name": "Rafael",
       "id": "8cc498cb-6d0f-4f88-b907-60408746173a",
       "identifiers": [
         {
           "identifier": "8",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q24457357",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Rafael_Arratia_Valdebenito.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Rafael_Arratia_Valdebenito.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Rafael_Arratia_Valdebenito"
         }
       ],
       "name": "Rafael Arratia Valdebenito",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Rafael Arratia Valdebenito",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Rafael Arratia Valdebenito",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Arratia"
     },
     {
@@ -27006,7 +27137,7 @@
     },
     {
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "",
+      "on_behalf_of_id": "PS",
       "organization_id": "legislature",
       "person_id": "81a71b77-ba9e-404f-a00e-a1deb281263d",
       "role": "member"
