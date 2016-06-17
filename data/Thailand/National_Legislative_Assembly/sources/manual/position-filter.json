@@ -1,7 +1,10 @@
 {
   "exclude": {
     "self": [
-
+      {
+        "id": "Q21290865",
+        "name": "Member of the House of Representatives of Thailand"
+      }
     ],
     "other": [
 
@@ -26,11 +29,7 @@
   },
   "unknown": {
     "unknown": [
-      {
-        "id": "Q21290865",
-        "name": "Member of the House of Representatives of Thailand",
-        "count": 2
-      }
+
     ]
   }
 }
