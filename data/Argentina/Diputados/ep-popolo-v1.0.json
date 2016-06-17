@@ -24442,6 +24442,71 @@
       "contact_details": [
         {
           "type": "email",
+          "value": "vsosacapurro@diputados.gob.ar"
+        },
+        {
+          "type": "phone",
+          "value": "4127-7100"
+        }
+      ],
+      "email": "vsosacapurro@diputados.gob.ar",
+      "gender": "female",
+      "id": "cf7aea0c-fbb6-4db1-9c62-76b537d90039",
+      "identifiers": [
+        {
+          "identifier": "Q21856281",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www4.hcdn.gob.ar/fotos/vsosacapurro.jpg",
+      "images": [
+        {
+          "url": "http://www4.hcdn.gob.ar/fotos/vsosacapurro.jpg"
+        }
+      ],
+      "name": "SOLEDAD SOSA",
+      "other_names": [
+        {
+          "name": "Victoria Soledad Sosa Capurro",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Victoria Soledad Sosa Capurro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Victoria Soledad Sosa Capurro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Victoria Soledad Sosa Capurro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Victoria Soledad Sosa Capurro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Victoria Soledad Sosa Capurro",
+          "note": "multilingual"
+        }
+      ],
+      "sort_name": "SOSA , SOLEDAD",
+      "sources": [
+        {
+          "url": "http://www.hcdn.gob.ar/diputados/vsosacapurro/"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
           "value": "shuczak@diputados.gob.ar"
         },
         {
@@ -25131,67 +25196,6 @@
       "contact_details": [
         {
           "type": "email",
-          "value": "vsosacapurro@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "vsosacapurro@diputados.gob.ar",
-      "gender": "female",
-      "id": "cf7aea0c-fbb6-4db1-9c62-76b537d90039",
-      "identifiers": [
-        {
-          "identifier": "Q21856281",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://www4.hcdn.gob.ar/fotos/vsosacapurro.jpg",
-      "images": [
-        {
-          "url": "http://www4.hcdn.gob.ar/fotos/vsosacapurro.jpg"
-        }
-      ],
-      "name": "VICTORIA SOLEDAD SOSA CAPURRO",
-      "other_names": [
-        {
-          "lang": "en",
-          "name": "Victoria Soledad Sosa Capurro",
-          "note": "multilingual"
-        },
-        {
-          "lang": "es",
-          "name": "Victoria Soledad Sosa Capurro",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Victoria Soledad Sosa Capurro",
-          "note": "multilingual"
-        },
-        {
-          "lang": "hu",
-          "name": "Victoria Soledad Sosa Capurro",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Victoria Soledad Sosa Capurro",
-          "note": "multilingual"
-        }
-      ],
-      "sort_name": "SOSA CAPURRO, VICTORIA SOLEDAD",
-      "sources": [
-        {
-          "url": "http://www.hcdn.gob.ar/diputados/vsosacapurro/"
-        }
-      ]
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
           "value": "wwolff@diputados.gob.ar"
         },
         {
@@ -25812,6 +25816,11 @@
           "note": "multilingual"
         }
       ]
+    },
+    {
+      "classification": "party",
+      "id": "party/frente_de_la_concordia_misionero",
+      "name": "FRENTE DE LA CONCORDIA MISIONERO"
     },
     {
       "classification": "party",
@@ -27361,7 +27370,7 @@
     {
       "area_id": "area/misiones",
       "legislative_period_id": "term/133",
-      "on_behalf_of_id": "party/frente_para_la_victoria_-_pj",
+      "on_behalf_of_id": "party/frente_de_la_concordia_misionero",
       "organization_id": "legislature",
       "person_id": "1c66eb30-8fce-4fdf-bebc-8dd9d1065a2d",
       "role": "member",
@@ -27767,7 +27776,7 @@
     {
       "area_id": "area/misiones",
       "legislative_period_id": "term/133",
-      "on_behalf_of_id": "party/frente_para_la_victoria_-_pj",
+      "on_behalf_of_id": "party/frente_de_la_concordia_misionero",
       "organization_id": "legislature",
       "person_id": "3e7ae901-bc37-47b5-bd00-9449ce98bac7",
       "role": "member",
@@ -28978,7 +28987,7 @@
     {
       "area_id": "area/misiones",
       "legislative_period_id": "term/133",
-      "on_behalf_of_id": "party/frente_renovador_de_la_concordia_misiones_-_fpv-pj",
+      "on_behalf_of_id": "party/frente_de_la_concordia_misionero",
       "organization_id": "legislature",
       "person_id": "954df93d-f530-4057-b7ab-cf1a82e9fff4",
       "role": "member"
