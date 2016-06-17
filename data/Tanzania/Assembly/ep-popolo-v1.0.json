@@ -2732,18 +2732,23 @@
       ]
     },
     {
+      "birth_date": "1974-10-28",
       "contact_details": [
         {
           "type": "email",
           "value": "a.mabrouk@bunge.go.tz"
+        },
+        {
+          "type": "phone",
+          "value": "+255777419012"
         }
       ],
       "email": "a.mabrouk@bunge.go.tz",
       "id": "e9d228e4-d78b-4245-9e57-73cff277724a",
-      "image": "http://www.parliament.go.tz/site/images/img.jpg",
+      "image": "http://parliament.go.tz/polis/uploads/members/0.21203800%201466083358.png",
       "images": [
         {
-          "url": "http://www.parliament.go.tz/site/images/img.jpg"
+          "url": "http://parliament.go.tz/polis/uploads/members/0.21203800%201466083358.png"
         }
       ],
       "name": "Amina Iddi Mabrouk",
@@ -14669,10 +14674,10 @@
       ],
       "email": "h.makungu@bunge.go.tz",
       "id": "a21b73ef-80ff-4e09-8f69-8b4146ec5367",
-      "image": "http://www.parliament.go.tz/site/images/img.jpg",
+      "image": "http://parliament.go.tz/polis/uploads/members/0.53696200%201466081857.png",
       "images": [
         {
-          "url": "http://www.parliament.go.tz/site/images/img.jpg"
+          "url": "http://parliament.go.tz/polis/uploads/members/0.53696200%201466081857.png"
         }
       ],
       "name": "Hussein Ibrahim Makungu",
@@ -15541,10 +15546,10 @@
       ],
       "email": "j.ayoub@bunge.go.tz",
       "id": "e5588e69-73cc-439a-b859-be9d53a98210",
-      "image": "http://www.parliament.go.tz/site/images/img.jpg",
+      "image": "http://parliament.go.tz/polis/uploads/members/0.95248900%201466081709.png",
       "images": [
         {
-          "url": "http://www.parliament.go.tz/site/images/img.jpg"
+          "url": "http://parliament.go.tz/polis/uploads/members/0.95248900%201466081709.png"
         }
       ],
       "name": "Jaku Hashim Ayoub",
@@ -18964,10 +18969,10 @@
       ],
       "email": "k.machano@bunge.go.tz",
       "id": "45f321ef-939f-44ec-801f-14d58cee3a71",
-      "image": "http://parliament.go.tz/polis/uploads/members/0.09316200%201456123043.png",
+      "image": "http://parliament.go.tz/polis/uploads/members/0.03308700%201466081774.png",
       "images": [
         {
-          "url": "http://parliament.go.tz/polis/uploads/members/0.09316200%201456123043.png"
+          "url": "http://parliament.go.tz/polis/uploads/members/0.03308700%201466081774.png"
         }
       ],
       "name": "Khamis Yahya Machano",
@@ -36262,18 +36267,23 @@
       ]
     },
     {
+      "birth_date": "1982-02-09",
       "contact_details": [
         {
           "type": "email",
           "value": "w.ameir@bunge.go.tz"
+        },
+        {
+          "type": "phone",
+          "value": "+255717693864"
         }
       ],
       "email": "w.ameir@bunge.go.tz",
       "id": "9a16aa18-68b4-4488-ab77-2bb51af61e68",
-      "image": "http://www.parliament.go.tz/site/images/img.jpg",
+      "image": "http://parliament.go.tz/polis/uploads/members/0.91828900%201466081623.png",
       "images": [
         {
-          "url": "http://www.parliament.go.tz/site/images/img.jpg"
+          "url": "http://parliament.go.tz/polis/uploads/members/0.91828900%201466081623.png"
         }
       ],
       "name": "Wanu Hafidh Ameir",
@@ -48630,6 +48640,41 @@
       "start_date": "1975"
     },
     {
+      "classification": "general election",
+      "end_date": "1980",
+      "id": "Q7684166",
+      "name": "Tanzanian general election, 1980",
+      "start_date": "1980"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1985",
+      "id": "Q7684167",
+      "name": "Tanzanian general election, 1985",
+      "start_date": "1985"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1990",
+      "id": "Q7684168",
+      "name": "Tanzanian general election, 1990",
+      "start_date": "1990"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1995",
+      "id": "Q7684169",
+      "name": "Tanzanian general election, 1995",
+      "start_date": "1995"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2000",
+      "id": "Q7684170",
+      "name": "Tanzanian general election, 2000",
+      "start_date": "2000"
+    },
+    {
       "classification": "legislative period",
       "end_date": "2005-10-29",
       "id": "term/2",
@@ -48666,6 +48711,13 @@
       "name": "4th Assembly",
       "organization_id": "legislature",
       "start_date": "2010-10-31"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2015-10-25",
+      "id": "Q17109740",
+      "name": "Tanzanian general election, 2015",
+      "start_date": "2015-10-25"
     },
     {
       "classification": "legislative period",
