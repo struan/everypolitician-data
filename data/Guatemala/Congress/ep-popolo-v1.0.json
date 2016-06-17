@@ -4486,6 +4486,29 @@
       ]
     },
     {
+      "birth_date": "2016-06-16",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "lcsamayoar@congreso.gob.gt"
+        }
+      ],
+      "email": "lcsamayoar@congreso.gob.gt",
+      "id": "c545e6b7-1f33-49b6-b6b4-1f257cd0d667",
+      "image": "http://www.congreso.gob.gt/manager/resourceAssets/iconSet/userDefault1.jpg",
+      "images": [
+        {
+          "url": "http://www.congreso.gob.gt/manager/resourceAssets/iconSet/userDefault1.jpg"
+        }
+      ],
+      "name": "Lucrecia Carola Samayoa Reyes",
+      "sources": [
+        {
+          "url": "http://www.congreso.gob.gt/perfiles.php?id=374"
+        }
+      ]
+    },
+    {
       "birth_date": "1961-05-30",
       "contact_details": [
         {
@@ -7684,7 +7707,7 @@
       "links": [
         {
           "note": "website",
-          "url": "http://www.pri.gt"
+          "url": "https://web.archive.org/web/20140713012058/http://pri.gt/"
         }
       ],
       "name": "PRI",
@@ -8775,6 +8798,14 @@
     {
       "area_id": "area/distrito_guatemala",
       "legislative_period_id": "term/7",
+      "on_behalf_of_id": "party/creo",
+      "organization_id": "legislature",
+      "person_id": "3c3dbdc1-d90a-4ceb-8df2-70afac813204",
+      "role": "member"
+    },
+    {
+      "area_id": "area/distrito_guatemala",
+      "legislative_period_id": "term/8",
       "on_behalf_of_id": "party/creo",
       "organization_id": "legislature",
       "person_id": "3c3dbdc1-d90a-4ceb-8df2-70afac813204",
@@ -9994,6 +10025,14 @@
       "on_behalf_of_id": "party/creo",
       "organization_id": "legislature",
       "person_id": "c2df99d8-9c70-468a-aecf-cf9df41e0c80",
+      "role": "member"
+    },
+    {
+      "area_id": "area/huehuetenango",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/une",
+      "organization_id": "legislature",
+      "person_id": "c545e6b7-1f33-49b6-b6b4-1f257cd0d667",
       "role": "member"
     },
     {
