@@ -7744,6 +7744,10 @@
         {
           "identifier": "67",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q24622156",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.cdep.ro/parlamentari/l2012/Ciobanu_Liliana.jpg",
@@ -7752,7 +7756,24 @@
           "url": "http://www.cdep.ro/parlamentari/l2012/Ciobanu_Liliana.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Liliana_Ciobanu"
+        }
+      ],
       "name": "Ciobanu Liliana",
+      "other_names": [
+        {
+          "name": "Liliana Ciobanu",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Liliana Ciobanu",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Liliana CIOBANU",
       "sources": [
         {
@@ -37413,6 +37434,11 @@
         {
           "lang": "ro",
           "name": "PNL",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Partidul Naţional Liberal",
           "note": "multilingual"
         },
         {
