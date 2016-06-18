@@ -14,9 +14,11 @@ class WikidataLookup
   end
 
   def to_hash
-    information = wikidata_id_lookup.map do |id, wikidata_id|
-      result = wikidata_results[wikidata_id] or 
-        warn "No data for #{wikidata_id} [perhaps it's been renamed?]" 
+    found, missing = wikidata_id_lookup.partition { |id, wid| wikidata_results.key? wid }
+    warn "Wikidata renamings:\n\t#{missing.map(&:last).join(", ")}" if missing.any?
+
+    information = found.map do |id, wikidata_id|
+      result = wikidata_results[wikidata_id] 
       [id, fields_for(result)]
     end
     Hash[information]
