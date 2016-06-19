@@ -1159,7 +1159,12 @@
     {
       "id": "Q13218630",
       "label": "United States representative",
-      "title": "United States representative"
+      "title": "United States representative",
+      "qualifiers": {
+        "P768": "Connecticut's 4th congressional district",
+        "P580": "2009-01-03",
+        "P1365": "Chris Shays"
+      }
     }
   ],
   "Q162622": [
@@ -15741,7 +15746,13 @@
     {
       "id": "Q13218630",
       "label": "United States representative",
-      "title": "United States representative"
+      "title": "United States representative",
+      "qualifiers": {
+        "P1365": "Stewart McKinney",
+        "P1366": "Jim Himes",
+        "P580": "1987-08-18",
+        "P582": "2009-01-03"
+      }
     },
     {
       "id": "Q18763331",
