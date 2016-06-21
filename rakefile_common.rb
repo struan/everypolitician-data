@@ -98,44 +98,6 @@ def load_instructions_file
   json
 end
 
-desc "Add a wikidata Parties file"
-task :build_parties do
-  instr = clean_instructions_file
-  sources = instr[:sources]
-  if sources.find { |s| s[:type] == 'group' }
-    warn "Already have party instructions — rewriting" 
-  else
-    sources << { 
-      file: "wikidata/groups.json",
-      type: "group",
-      create: {
-        from: "group-wikidata",
-        source: "manual/group_wikidata.csv"
-      },
-    } 
-    write_instructions(instr)
-  end
-
-  csvfile = 'sources/manual/group_wikidata.csv'
-  FileUtils.mkpath('sources/manual')
-  if File.exists? csvfile
-    pre_mapped = Hash[ CSV.table(csvfile, converters: nil).to_a ]
-  else
-    pre_mapped = {}
-  end
-
-  popolo = json_load('ep-popolo-v1.0.json')
-  group_names = Hash[ popolo[:organizations].map { |o| [ o[:id], o[:name] ] } ]
-  mapped, unmapped = popolo[:memberships].group_by { |m| m[:on_behalf_of_id] }.map { |m, ms| 
-    { id: m.sub(/^party\//,''), count: ms.count, name: group_names[m] }
-  }.sort_by { |g| g[:count] }.reverse.partition { |g| pre_mapped[g[:id]] }
-
-  data = mapped.map { |g| [g[:id], pre_mapped[g[:id]]].to_csv }.join +
-         unmapped.map { |g| [g[:id], "#{g[:name]} (x#{g[:count]})"].to_csv }.join
-
-  File.write('sources/manual/group_wikidata.csv', "id,wikidata\n" + data)
-end
-
 def instructions(key)
   @instructions ||= load_instructions_file
   @instructions[key]
@@ -154,4 +116,5 @@ require_relative 'rake_build/generate_stats.rb'
 
 require_relative 'rake_generate/election_info.rb'
 require_relative 'rake_generate/position_info.rb'
+require_relative 'rake_generate/groups_info.rb'
 
