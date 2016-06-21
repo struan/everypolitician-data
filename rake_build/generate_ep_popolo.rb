@@ -17,7 +17,7 @@ namespace :transform do
   end
 
   task :write do
-    json_write('ep-popolo-v1.0.json', @json)
+    popolo_write('ep-popolo-v1.0.json', @json)
   end  
 
   #---------------------------------------------------------------------

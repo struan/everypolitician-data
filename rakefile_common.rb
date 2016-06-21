@@ -56,6 +56,10 @@ def json_load(file)
 end
 
 def json_write(file, json)
+  File.write(file, JSON.pretty_generate(json))
+end
+
+def popolo_write(file, json)
   # TODO remove the need for the .to_s here, by ensuring all People and Orgs have names
   json[:persons].sort_by!       { |p| [ p[:name].to_s, p[:id] ] }
   json[:persons].each do |p|
@@ -82,106 +86,16 @@ def clean_instructions_file
   json_load(@INSTRUCTIONS_FILE) || raise("Can't read #{@INSTRUCTIONS_FILE}")
 end
 
+def write_instructions(instr)
+  File.write(@INSTRUCTIONS_FILE, JSON.pretty_generate(instr))
+end
+
 def load_instructions_file
   json = clean_instructions_file
   json[:sources].each do |s|
     s[:file] = "sources/%s" % s[:file] unless s[:file][/sources/]
   end
   json
-end
-
-desc "Add GenderBalance fetcher to instructions"
-task :add_gender_balance do
-  instr = clean_instructions_file
-  sources = instr[:sources]
-  abort "Already have GenderBalance instructions" if sources.find { |s| s[:type] == 'gender' }
-
-  FileUtils.mkpath('sources/gender-balance')
-  sources << { 
-    file: "gender-balance/results.csv",
-    type: "gender",
-    create: {
-      from: "gender-balance",
-      source: pwd.split("/").last(2).join("/").gsub("_", "-"),
-    },
-  } 
-  File.write(@INSTRUCTIONS_FILE, JSON.pretty_generate(instr))
-end
-
-desc "Add a wikidata Parties file"
-task :build_parties do
-  instr = clean_instructions_file
-  sources = instr[:sources]
-  if sources.find { |s| s[:type] == 'group' }
-    warn "Already have party instructions — rewriting" 
-  else
-    sources << { 
-      file: "wikidata/groups.json",
-      type: "group",
-      create: {
-        from: "group-wikidata",
-        source: "manual/group_wikidata.csv"
-      },
-    } 
-    File.write(@INSTRUCTIONS_FILE, JSON.pretty_generate(instr))
-  end
-
-  csvfile = 'sources/manual/group_wikidata.csv'
-  FileUtils.mkpath('sources/manual')
-  if File.exists? csvfile
-    pre_mapped = Hash[ CSV.table(csvfile, converters: nil).to_a ]
-  else
-    pre_mapped = {}
-  end
-
-  popolo = json_load('ep-popolo-v1.0.json')
-  group_names = Hash[ popolo[:organizations].map { |o| [ o[:id], o[:name] ] } ]
-  mapped, unmapped = popolo[:memberships].group_by { |m| m[:on_behalf_of_id] }.map { |m, ms| 
-    { id: m.sub(/^party\//,''), count: ms.count, name: group_names[m] }
-  }.sort_by { |g| g[:count] }.reverse.partition { |g| pre_mapped[g[:id]] }
-
-  data = mapped.map { |g| [g[:id], pre_mapped[g[:id]]].to_csv }.join +
-         unmapped.map { |g| [g[:id], "#{g[:name]} (x#{g[:count]})"].to_csv }.join
-
-  File.write('sources/manual/group_wikidata.csv', "id,wikidata\n" + data)
-end
-
-desc "Add a wikidata P39 file"
-task :build_p39s do
-  instr = clean_instructions_file
-  sources = instr[:sources]
-  abort "Already have position instructions" if sources.find { |s| s[:type] == 'wikidata-positions' }
-
-  wikidata = sources.find { |s| s[:type] == 'wikidata' } or abort "No wikidata section"
-  reconciliation = [wikidata[:merge]].flatten(1).find { |s| s.key? :reconciliation_file } or abort "No wikidata reconciliation file"
-
-  sources << { 
-    file: "wikidata/positions.json",
-    type: "wikidata-positions",
-    create: {
-      from: "wikidata-raw",
-      source: reconciliation[:reconciliation_file],
-    },
-  } 
-  File.write(@INSTRUCTIONS_FILE, JSON.pretty_generate(instr))
-end
-
-desc "Add Wikidata elections instructions"
-task :add_election_instructions do
-  instructions = clean_instructions_file
-  sources = instructions[:sources]
-  abort "Already have position instructions" if sources.find { |s| s[:type] == 'wikidata-elections' }
-  abort "No base: set ELECTION_BASE=Q…" unless ENV.key? 'ELECTION_BASE'
-
-  sources << { 
-    file: "wikidata/elections.json",
-    type: "wikidata-elections",
-    create: {
-      from: "election-wikidata",
-      base: ENV['ELECTION_BASE'],
-    },
-  } 
-  File.write(@INSTRUCTIONS_FILE, JSON.pretty_generate(instructions))
 end
 
 def instructions(key)
@@ -193,10 +107,14 @@ desc "Rebuild from source data"
 task :rebuild => [ :clobber, 'ep-popolo-v1.0.json' ]
 task :default => [ :csvs, 'stats:regenerate' ]
 
-require_relative 'rake_helpers/combine_sources.rb'
-require_relative 'rake_helpers/verify_source_data.rb'
-require_relative 'rake_helpers/turn_csv_to_popolo.rb'
-require_relative 'rake_helpers/generate_ep_popolo.rb'
-require_relative 'rake_helpers/generate_final_csvs.rb'
-require_relative 'rake_helpers/generate_stats.rb'
+require_relative 'rake_build/combine_sources.rb'
+require_relative 'rake_build/verify_source_data.rb'
+require_relative 'rake_build/turn_csv_to_popolo.rb'
+require_relative 'rake_build/generate_ep_popolo.rb'
+require_relative 'rake_build/generate_final_csvs.rb'
+require_relative 'rake_build/generate_stats.rb'
+
+require_relative 'rake_generate/election_info.rb'
+require_relative 'rake_generate/position_info.rb'
+require_relative 'rake_generate/groups_info.rb'
 
