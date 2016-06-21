@@ -14,6 +14,7 @@
       "id": "Q1145714",
       "label": "Prime Minister of Ukraine",
       "title": "Prime Minister of Ukraine",
+      "description": "position",
       "qualifiers": {
         "P1365": "Leonid Kuchma",
         "P580": "1993-09-22",
@@ -33,7 +34,8 @@
     {
       "id": "Q3099723",
       "label": "Minister-President",
-      "title": "Minister-President"
+      "title": "Minister-President",
+      "description": "political office, head of the executive branch of a sovereign country or federal state"
     }
   ],
   "Q894312": [
@@ -41,6 +43,7 @@
       "id": "Q6866156",
       "label": "Minister of Foreign Affairs",
       "title": "Minister of Foreign Affairs",
+      "description": "Minister of Foreign Affairs in Ukraine",
       "qualifiers": {
         "P1365": "Hennadiy Udovenko",
         "P580": "1998-04-17",
@@ -52,6 +55,7 @@
       "id": "Q6866156",
       "label": "Minister of Foreign Affairs",
       "title": "Minister of Foreign Affairs",
+      "description": "Minister of Foreign Affairs in Ukraine",
       "qualifiers": {
         "P1365": "Kostyantyn Hryshchenko",
         "P580": "2005-02-04",
@@ -65,6 +69,7 @@
       "id": "Q6867070",
       "label": "Ministry of Fuel and Energy",
       "title": "Ministry of Fuel and Energy",
+      "description": "Ukrainian ministry",
       "qualifiers": {
         "P580": "1999-12-30",
         "P582": "2001-01-19",
@@ -75,6 +80,7 @@
       "id": "Q1145714",
       "label": "Prime Minister of Ukraine",
       "title": "Prime Minister of Ukraine",
+      "description": "position",
       "qualifiers": {
         "P1365": "Mykola Azarov",
         "P580": "2005-01-24",
@@ -86,6 +92,7 @@
       "id": "Q1145714",
       "label": "Prime Minister of Ukraine",
       "title": "Prime Minister of Ukraine",
+      "description": "position",
       "qualifiers": {
         "P1365": "Mykola Azarov",
         "P580": "2007-12-18",
@@ -99,6 +106,7 @@
       "id": "Q1145714",
       "label": "Prime Minister of Ukraine",
       "title": "Prime Minister of Ukraine",
+      "description": "position",
       "qualifiers": {
         "P1365": "Serhiy Arbuzov",
         "P580": "2014-02-27",
@@ -110,6 +118,7 @@
       "id": "Q679817",
       "label": "Chairman of the Verkhovna Rada",
       "title": "Chairman of the Verkhovna Rada",
+      "description": "speaker of Ukrainian parliament",
       "qualifiers": {
         "P1365": "Oleksandr Moroz",
         "P580": "2007-12-04",
@@ -121,6 +130,7 @@
       "id": "Q6866156",
       "label": "Minister of Foreign Affairs",
       "title": "Minister of Foreign Affairs",
+      "description": "Minister of Foreign Affairs in Ukraine",
       "qualifiers": {
         "P1365": "Volodymyr Ohryzko",
         "P580": "2007-03-21",
@@ -134,6 +144,7 @@
       "id": "Q679817",
       "label": "Chairman of the Verkhovna Rada",
       "title": "Chairman of the Verkhovna Rada",
+      "description": "speaker of Ukrainian parliament",
       "qualifiers": {
         "P1365": "Ivan Plyushch",
         "P580": "2002-05-28",
@@ -145,6 +156,7 @@
       "id": "Q679817",
       "label": "Chairman of the Verkhovna Rada",
       "title": "Chairman of the Verkhovna Rada",
+      "description": "speaker of Ukrainian parliament",
       "qualifiers": {
         "P1365": "Oleksandr Lavrynovych",
         "P580": "2008-12-09",
@@ -157,7 +169,8 @@
     {
       "id": "Q2445140",
       "label": "Ministry of Internal Affairs",
-      "title": "Ministry of Internal Affairs"
+      "title": "Ministry of Internal Affairs",
+      "description": "agency of the Ukraine government"
     }
   ],
   "Q15850": [
@@ -165,6 +178,7 @@
       "id": "Q1145714",
       "label": "Prime Minister of Ukraine",
       "title": "Prime Minister of Ukraine",
+      "description": "position",
       "qualifiers": {
         "P1365": "Yulia Tymoshenko",
         "P580": "2010-03-03",
@@ -176,6 +190,7 @@
       "id": "Q579677",
       "label": "President of Ukraine",
       "title": "President of Ukraine",
+      "description": "Ukrainian head of state",
       "qualifiers": {
         "P1365": "Volodymyr Rybak",
         "P580": "2014-02-22"
@@ -185,6 +200,7 @@
       "id": "Q679817",
       "label": "Chairman of the Verkhovna Rada",
       "title": "Chairman of the Verkhovna Rada",
+      "description": "speaker of Ukrainian parliament",
       "qualifiers": {
         "P1365": "Volodymyr Rybak",
         "P580": "2014-02-22"
@@ -196,6 +212,7 @@
       "id": "Q1145714",
       "label": "Prime Minister of Ukraine",
       "title": "Prime Minister of Ukraine",
+      "description": "position",
       "qualifiers": {
         "P580": "2016-04-14",
         "P1365": "Arseniy Yatsenyuk"
@@ -205,6 +222,7 @@
       "id": "Q679817",
       "label": "Chairman of the Verkhovna Rada",
       "title": "Chairman of the Verkhovna Rada",
+      "description": "speaker of Ukrainian parliament",
       "qualifiers": {
         "P580": "2014-11-27",
         "P582": "2016-04-14",
@@ -216,6 +234,7 @@
       "id": "Q30185",
       "label": "mayor",
       "title": "mayor (of Vinnytsia)",
+      "description": "head of municipal government such as a town or city",
       "qualifiers": {
         "P642": "Vinnytsia",
         "P580": "2006-03-28",
