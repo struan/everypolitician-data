@@ -17,7 +17,8 @@
     {
       "id": "Q27169",
       "label": "member of the European Parliament",
-      "title": "member of the European Parliament"
+      "title": "member of the European Parliament",
+      "description": "person who has been elected to the European Parliament"
     },
     {
       "id": "Q12311817",
@@ -114,7 +115,8 @@
     {
       "id": "Q27169",
       "label": "member of the European Parliament",
-      "title": "member of the European Parliament"
+      "title": "member of the European Parliament",
+      "description": "person who has been elected to the European Parliament"
     }
   ],
   "Q952472": [
@@ -219,6 +221,7 @@
       "id": "Q167662",
       "label": "Secretary General of NATO",
       "title": "Secretary General of NATO",
+      "description": "position",
       "qualifiers": {
         "P580": "2009-08-01",
         "P582": "2014-10-01",
@@ -230,6 +233,7 @@
       "id": "Q795477",
       "label": "Prime Minister of Denmark",
       "title": "Prime Minister of Denmark",
+      "description": "position",
       "qualifiers": {
         "P580": "2001-11-27",
         "P582": "2009-04-05",
@@ -292,7 +296,8 @@
     {
       "id": "Q27169",
       "label": "member of the European Parliament",
-      "title": "member of the European Parliament"
+      "title": "member of the European Parliament",
+      "description": "person who has been elected to the European Parliament"
     }
   ],
   "Q12318297": [
@@ -318,6 +323,7 @@
       "id": "Q19185575",
       "label": "President of the Nordic Council",
       "title": "President of the Nordic Council",
+      "description": "position in the Nordic Council",
       "qualifiers": {
         "P580": "2001-01-01",
         "P582": "2001-12-31",
@@ -330,7 +336,8 @@
     {
       "id": "Q27169",
       "label": "member of the European Parliament",
-      "title": "member of the European Parliament"
+      "title": "member of the European Parliament",
+      "description": "person who has been elected to the European Parliament"
     },
     {
       "id": "Q6317024",
@@ -364,7 +371,8 @@
     {
       "id": "Q18913275",
       "label": "Minister of Health",
-      "title": "Minister of Health"
+      "title": "Minister of Health",
+      "description": "Danish cabinet minister"
     }
   ],
   "Q20186193": [
@@ -385,7 +393,8 @@
     {
       "id": "Q27169",
       "label": "member of the European Parliament",
-      "title": "member of the European Parliament"
+      "title": "member of the European Parliament",
+      "description": "person who has been elected to the European Parliament"
     }
   ],
   "Q1272556": [
@@ -393,6 +402,7 @@
       "id": "Q6866144",
       "label": "Minister of Foreign Affairs",
       "title": "Minister of Foreign Affairs",
+      "description": "Minister of Foreign Affairs for Denmark",
       "qualifiers": {
         "P580": "2014-01-30",
         "P582": "2015-06-28",
@@ -467,7 +477,8 @@
     {
       "id": "Q27169",
       "label": "member of the European Parliament",
-      "title": "member of the European Parliament"
+      "title": "member of the European Parliament",
+      "description": "person who has been elected to the European Parliament"
     }
   ],
   "Q12324275": [
@@ -502,6 +513,7 @@
       "id": "Q679997",
       "label": "Prime Minister of Greenland",
       "title": "Prime Minister of Greenland",
+      "description": "Wikimedia list article",
       "qualifiers": {
         "P580": "2013-04-05",
         "P1365": "Kuupik Kleist"
@@ -513,6 +525,7 @@
       "id": "Q3544677",
       "label": "List of Ministers for Food, Agriculture and Fisheries",
       "title": "List of Ministers for Food, Agriculture and Fisheries",
+      "description": "Wikimedia list article",
       "qualifiers": {
         "P580": "2011-10-03",
         "P582": "2013-08-09"
@@ -563,7 +576,8 @@
     {
       "id": "Q27169",
       "label": "member of the European Parliament",
-      "title": "member of the European Parliament"
+      "title": "member of the European Parliament",
+      "description": "person who has been elected to the European Parliament"
     }
   ],
   "Q20197692": [
@@ -585,7 +599,8 @@
     {
       "id": "Q27169",
       "label": "member of the European Parliament",
-      "title": "member of the European Parliament"
+      "title": "member of the European Parliament",
+      "description": "person who has been elected to the European Parliament"
     }
   ],
   "Q3132505": [
@@ -603,6 +618,7 @@
       "id": "Q24300568",
       "label": "Minister for Food, Agriculture and Fisheries",
       "title": "Minister for Food, Agriculture and Fisheries",
+      "description": "Danish minister",
       "qualifiers": {
         "P580": "2010-02-23",
         "P582": "2011-10-03"
@@ -614,6 +630,7 @@
       "id": "Q6866144",
       "label": "Minister of Foreign Affairs",
       "title": "Minister of Foreign Affairs",
+      "description": "Minister of Foreign Affairs for Denmark",
       "qualifiers": {
         "P580": "2000-12-21",
         "P582": "2001-11-27",
@@ -640,6 +657,7 @@
       "id": "Q1161813",
       "label": "President of the United Nations General Assembly",
       "title": "President of the United Nations General Assembly",
+      "description": "position",
       "qualifiers": {
         "P580": "2015-09-16",
         "P1365": "Sam Kutesa"
@@ -655,21 +673,24 @@
     {
       "id": "Q30185",
       "label": "mayor",
-      "title": "mayor"
+      "title": "mayor",
+      "description": "head of municipal government such as a town or city"
     }
   ],
   "Q1588959": [
     {
       "id": "Q18913275",
       "label": "Minister of Health",
-      "title": "Minister of Health"
+      "title": "Minister of Health",
+      "description": "Danish cabinet minister"
     }
   ],
   "Q479811": [
     {
       "id": "Q27169",
       "label": "member of the European Parliament",
-      "title": "member of the European Parliament"
+      "title": "member of the European Parliament",
+      "description": "person who has been elected to the European Parliament"
     },
     {
       "id": "Q12311817",
@@ -697,6 +718,7 @@
       "id": "Q30185",
       "label": "mayor",
       "title": "mayor",
+      "description": "head of municipal government such as a town or city",
       "qualifiers": {
         "P580": "1978",
         "P582": "1988"
@@ -777,7 +799,8 @@
     {
       "id": "Q27169",
       "label": "member of the European Parliament",
-      "title": "member of the European Parliament"
+      "title": "member of the European Parliament",
+      "description": "person who has been elected to the European Parliament"
     }
   ],
   "Q12324714": [
@@ -817,7 +840,8 @@
     {
       "id": "Q83307",
       "label": "minister",
-      "title": "minister"
+      "title": "minister",
+      "description": "politician who holds significant public office in a national or regional government"
     }
   ],
   "Q4990640": [
@@ -842,6 +866,7 @@
       "id": "Q679997",
       "label": "Prime Minister of Greenland",
       "title": "Prime Minister of Greenland",
+      "description": "Wikimedia list article",
       "qualifiers": {
         "P580": "1991-03-18",
         "P582": "1997-09-19",
@@ -855,6 +880,7 @@
       "id": "Q6866144",
       "label": "Minister of Foreign Affairs",
       "title": "Minister of Foreign Affairs",
+      "description": "Minister of Foreign Affairs for Denmark",
       "qualifiers": {
         "P580": "2001-11-27",
         "P582": "2010-02-23",
@@ -894,7 +920,8 @@
     {
       "id": "Q18913275",
       "label": "Minister of Health",
-      "title": "Minister of Health"
+      "title": "Minister of Health",
+      "description": "Danish cabinet minister"
     }
   ],
   "Q7659016": [
@@ -998,7 +1025,8 @@
     {
       "id": "Q1030099",
       "label": "Culture Minister of Denmark",
-      "title": "Culture Minister of Denmark"
+      "title": "Culture Minister of Denmark",
+      "description": "position"
     },
     {
       "id": "Q12311817",
@@ -1017,14 +1045,16 @@
     {
       "id": "Q27169",
       "label": "member of the European Parliament",
-      "title": "member of the European Parliament"
+      "title": "member of the European Parliament",
+      "description": "person who has been elected to the European Parliament"
     }
   ],
   "Q3081203": [
     {
       "id": "Q193364",
       "label": "vicar",
-      "title": "vicar"
+      "title": "vicar",
+      "description": "type of priest"
     }
   ],
   "Q12331411": [
@@ -1054,6 +1084,7 @@
       "id": "Q19185575",
       "label": "President of the Nordic Council",
       "title": "President of the Nordic Council",
+      "description": "position in the Nordic Council",
       "qualifiers": {
         "P580": "1986-01-01",
         "P582": "1986-12-31",
@@ -1065,6 +1096,7 @@
       "id": "Q19185575",
       "label": "President of the Nordic Council",
       "title": "President of the Nordic Council",
+      "description": "position in the Nordic Council",
       "qualifiers": {
         "P580": "1991-01-01",
         "P582": "1991-12-31",
@@ -1076,6 +1108,7 @@
       "id": "Q795477",
       "label": "Prime Minister of Denmark",
       "title": "Prime Minister of Denmark",
+      "description": "position",
       "qualifiers": {
         "P580": "1975-02-13",
         "P582": "1982-09-10",
@@ -1087,6 +1120,7 @@
       "id": "Q6866144",
       "label": "Minister of Foreign Affairs",
       "title": "Minister of Foreign Affairs",
+      "description": "Minister of Foreign Affairs for Denmark",
       "qualifiers": {
         "P580": "1978-07-01",
         "P582": "1978-08-30",
@@ -1098,6 +1132,7 @@
       "id": "Q795477",
       "label": "Prime Minister of Denmark",
       "title": "Prime Minister of Denmark",
+      "description": "position",
       "qualifiers": {
         "P580": "1972-10-05",
         "P582": "1973-12-19",
@@ -1110,7 +1145,8 @@
     {
       "id": "Q27169",
       "label": "member of the European Parliament",
-      "title": "member of the European Parliament"
+      "title": "member of the European Parliament",
+      "description": "person who has been elected to the European Parliament"
     }
   ],
   "Q182397": [
@@ -1118,6 +1154,7 @@
       "id": "Q795477",
       "label": "Prime Minister of Denmark",
       "title": "Prime Minister of Denmark",
+      "description": "position",
       "qualifiers": {
         "P580": "2009-04-05",
         "P582": "2011-10-03",
@@ -1142,6 +1179,7 @@
       "id": "Q18913269",
       "label": "Minister of the Interior",
       "title": "Minister of the Interior",
+      "description": "Danish cabinet minister",
       "qualifiers": {
         "P580": "2001-11-27",
         "P582": "2011-11-23",
@@ -1152,6 +1190,7 @@
       "id": "Q18913275",
       "label": "Minister of Health",
       "title": "Minister of Health",
+      "description": "Danish cabinet minister",
       "qualifiers": {
         "P580": "2001-11-27",
         "P582": "2011-11-23",
@@ -1187,6 +1226,7 @@
       "id": "Q795477",
       "label": "Prime Minister of Denmark",
       "title": "Prime Minister of Denmark",
+      "description": "position",
       "qualifiers": {
         "P580": "2015-06-28",
         "P1365": "Helle Thorning-Schmidt",
@@ -1219,6 +1259,7 @@
       "id": "Q679997",
       "label": "Prime Minister of Greenland",
       "title": "Prime Minister of Greenland",
+      "description": "Wikimedia list article",
       "qualifiers": {
         "P580": "2009-06-02",
         "P582": "2013-04-04",
@@ -1251,7 +1292,8 @@
     {
       "id": "Q18913275",
       "label": "Minister of Health",
-      "title": "Minister of Health"
+      "title": "Minister of Health",
+      "description": "Danish cabinet minister"
     }
   ],
   "Q20179290": [
@@ -1270,7 +1312,8 @@
     {
       "id": "Q12312037",
       "label": "Education and Research Minister",
-      "title": "Education and Research Minister"
+      "title": "Education and Research Minister",
+      "description": "Minister in the Danish cabinet"
     }
   ],
   "Q698080": [
@@ -1278,6 +1321,7 @@
       "id": "Q6866144",
       "label": "Minister of Foreign Affairs",
       "title": "Minister of Foreign Affairs",
+      "description": "Minister of Foreign Affairs for Denmark",
       "qualifiers": {
         "P580": "1982-09-10",
         "P582": "1993-01-25",
@@ -1290,7 +1334,8 @@
     {
       "id": "Q27169",
       "label": "member of the European Parliament",
-      "title": "member of the European Parliament"
+      "title": "member of the European Parliament",
+      "description": "person who has been elected to the European Parliament"
     },
     {
       "id": "Q12311817",
@@ -1306,7 +1351,8 @@
     {
       "id": "Q18913275",
       "label": "Minister of Health",
-      "title": "Minister of Health"
+      "title": "Minister of Health",
+      "description": "Danish cabinet minister"
     }
   ],
   "Q678236": [
@@ -1399,7 +1445,8 @@
     {
       "id": "Q18913275",
       "label": "Minister of Health",
-      "title": "Minister of Health"
+      "title": "Minister of Health",
+      "description": "Danish cabinet minister"
     }
   ],
   "Q12342520": [
@@ -1454,6 +1501,7 @@
       "id": "Q27169",
       "label": "member of the European Parliament",
       "title": "member of the European Parliament",
+      "description": "person who has been elected to the European Parliament",
       "qualifiers": {
         "P580": "1994",
         "P582": "1999"
@@ -1463,6 +1511,7 @@
       "id": "Q83307",
       "label": "minister",
       "title": "minister (of Ministry of Social Affairs)",
+      "description": "politician who holds significant public office in a national or regional government",
       "qualifiers": {
         "P580": "2004-08-02",
         "P582": "2007-09-12",
@@ -1473,6 +1522,7 @@
       "id": "Q24300568",
       "label": "Minister for Food, Agriculture and Fisheries",
       "title": "Minister for Food, Agriculture and Fisheries",
+      "description": "Danish minister",
       "qualifiers": {
         "P582": "2010-02-23",
         "P580": "2007-09-12"
@@ -1482,6 +1532,7 @@
       "id": "Q1311756",
       "label": "Minister for the Environment",
       "title": "Minister for the Environment",
+      "description": "Danish cabinet position",
       "qualifiers": {
         "P580": "2015-06-28",
         "P582": "2016-02-29",
@@ -1529,6 +1580,7 @@
       "id": "Q83307",
       "label": "minister",
       "title": "minister",
+      "description": "politician who holds significant public office in a national or regional government",
       "qualifiers": {
         "P580": "2014"
       }
@@ -1546,14 +1598,16 @@
     {
       "id": "Q27169",
       "label": "member of the European Parliament",
-      "title": "member of the European Parliament"
+      "title": "member of the European Parliament",
+      "description": "person who has been elected to the European Parliament"
     }
   ],
   "Q131991": [
     {
       "id": "Q27169",
       "label": "member of the European Parliament",
-      "title": "member of the European Parliament"
+      "title": "member of the European Parliament",
+      "description": "person who has been elected to the European Parliament"
     },
     {
       "id": "Q12311817",
@@ -1565,7 +1619,8 @@
     {
       "id": "Q27169",
       "label": "member of the European Parliament",
-      "title": "member of the European Parliament"
+      "title": "member of the European Parliament",
+      "description": "person who has been elected to the European Parliament"
     }
   ],
   "Q514269": [
@@ -1607,14 +1662,16 @@
     {
       "id": "Q27169",
       "label": "member of the European Parliament",
-      "title": "member of the European Parliament"
+      "title": "member of the European Parliament",
+      "description": "person who has been elected to the European Parliament"
     }
   ],
   "Q747728": [
     {
       "id": "Q27169",
       "label": "member of the European Parliament",
-      "title": "member of the European Parliament"
+      "title": "member of the European Parliament",
+      "description": "person who has been elected to the European Parliament"
     },
     {
       "id": "Q12311817",
@@ -1640,19 +1697,22 @@
     {
       "id": "Q27169",
       "label": "member of the European Parliament",
-      "title": "member of the European Parliament"
+      "title": "member of the European Parliament",
+      "description": "person who has been elected to the European Parliament"
     },
     {
       "id": "Q18913275",
       "label": "Minister of Health",
-      "title": "Minister of Health"
+      "title": "Minister of Health",
+      "description": "Danish cabinet minister"
     }
   ],
   "Q6329465": [
     {
       "id": "Q27169",
       "label": "member of the European Parliament",
-      "title": "member of the European Parliament"
+      "title": "member of the European Parliament",
+      "description": "person who has been elected to the European Parliament"
     }
   ],
   "Q12324973": [
@@ -1669,7 +1729,8 @@
     {
       "id": "Q27169",
       "label": "member of the European Parliament",
-      "title": "member of the European Parliament"
+      "title": "member of the European Parliament",
+      "description": "person who has been elected to the European Parliament"
     },
     {
       "id": "Q12311817",
@@ -1688,17 +1749,20 @@
     {
       "id": "Q3430357",
       "label": "Ministry for Food, Agriculture and Fisheries",
-      "title": "Ministry for Food, Agriculture and Fisheries"
+      "title": "Ministry for Food, Agriculture and Fisheries",
+      "description": "government ministry in Denmark"
     },
     {
       "id": "Q1476458",
       "label": "European Commissioner for the Environment",
-      "title": "European Commissioner for the Environment"
+      "title": "European Commissioner for the Environment",
+      "description": "position"
     },
     {
       "id": "Q30185",
       "label": "mayor",
-      "title": "mayor"
+      "title": "mayor",
+      "description": "head of municipal government such as a town or city"
     }
   ],
   "Q529900": [
@@ -1727,6 +1791,7 @@
       "id": "Q27169",
       "label": "member of the European Parliament",
       "title": "member of the European Parliament",
+      "description": "person who has been elected to the European Parliament",
       "qualifiers": {
         "P580": "2009"
       }
@@ -1771,7 +1836,8 @@
     {
       "id": "Q12313165",
       "label": "attorney-in-fact",
-      "title": "attorney-in-fact"
+      "title": "attorney-in-fact",
+      "description": "person authorized to legally act on behalf of someone else"
     }
   ],
   "Q12333971": [
@@ -1791,6 +1857,7 @@
       "id": "Q6866144",
       "label": "Minister of Foreign Affairs",
       "title": "Minister of Foreign Affairs",
+      "description": "Minister of Foreign Affairs for Denmark",
       "qualifiers": {
         "P580": "2015-06-28",
         "P1365": "Martin Lidegaard"
@@ -1827,12 +1894,14 @@
     {
       "id": "Q30185",
       "label": "mayor",
-      "title": "mayor"
+      "title": "mayor",
+      "description": "head of municipal government such as a town or city"
     },
     {
       "id": "Q83307",
       "label": "minister",
-      "title": "minister"
+      "title": "minister",
+      "description": "politician who holds significant public office in a national or regional government"
     }
   ],
   "Q12326843": [
@@ -1858,7 +1927,8 @@
     {
       "id": "Q27169",
       "label": "member of the European Parliament",
-      "title": "member of the European Parliament"
+      "title": "member of the European Parliament",
+      "description": "person who has been elected to the European Parliament"
     }
   ],
   "Q3107873": [
@@ -1904,12 +1974,14 @@
     {
       "id": "Q27169",
       "label": "member of the European Parliament",
-      "title": "member of the European Parliament"
+      "title": "member of the European Parliament",
+      "description": "person who has been elected to the European Parliament"
     },
     {
       "id": "Q18913275",
       "label": "Minister of Health",
-      "title": "Minister of Health"
+      "title": "Minister of Health",
+      "description": "Danish cabinet minister"
     }
   ],
   "Q1101406": [
@@ -1958,6 +2030,7 @@
       "id": "Q795477",
       "label": "Prime Minister of Denmark",
       "title": "Prime Minister of Denmark",
+      "description": "position",
       "qualifiers": {
         "P580": "1993-01-25",
         "P582": "2001-11-27",
@@ -1968,7 +2041,8 @@
     {
       "id": "Q27169",
       "label": "member of the European Parliament",
-      "title": "member of the European Parliament"
+      "title": "member of the European Parliament",
+      "description": "person who has been elected to the European Parliament"
     },
     {
       "id": "Q12311817",
@@ -2008,6 +2082,7 @@
       "id": "Q1311756",
       "label": "Minister for the Environment",
       "title": "Minister for the Environment",
+      "description": "Danish cabinet position",
       "qualifiers": {
         "P580": "2014-02-02",
         "P582": "2015-06-28"
@@ -2114,6 +2189,7 @@
       "id": "Q784084",
       "label": "Special Representative of the Secretary-General for Kosovo",
       "title": "Special Representative of the Secretary-General for Kosovo",
+      "description": "position",
       "qualifiers": {
         "P1366": "Michael Steiner",
         "P580": "2001-01-13",
@@ -2137,7 +2213,8 @@
     {
       "id": "Q18913275",
       "label": "Minister of Health",
-      "title": "Minister of Health"
+      "title": "Minister of Health",
+      "description": "Danish cabinet minister"
     }
   ],
   "Q575363": [
@@ -2180,6 +2257,7 @@
       "id": "Q6866144",
       "label": "Minister of Foreign Affairs",
       "title": "Minister of Foreign Affairs",
+      "description": "Minister of Foreign Affairs for Denmark",
       "qualifiers": {
         "P580": "2013-12-12",
         "P582": "2014-01-30",
@@ -2212,14 +2290,16 @@
     {
       "id": "Q27169",
       "label": "member of the European Parliament",
-      "title": "member of the European Parliament"
+      "title": "member of the European Parliament",
+      "description": "person who has been elected to the European Parliament"
     }
   ],
   "Q12328906": [
     {
       "id": "Q27169",
       "label": "member of the European Parliament",
-      "title": "member of the European Parliament"
+      "title": "member of the European Parliament",
+      "description": "person who has been elected to the European Parliament"
     }
   ],
   "Q12333679": [
@@ -2246,12 +2326,14 @@
     {
       "id": "Q27169",
       "label": "member of the European Parliament",
-      "title": "member of the European Parliament"
+      "title": "member of the European Parliament",
+      "description": "person who has been elected to the European Parliament"
     },
     {
       "id": "Q12312037",
       "label": "Education and Research Minister",
       "title": "Education and Research Minister",
+      "description": "Minister in the Danish cabinet",
       "qualifiers": {
         "P580": "2016-02-29"
       }
@@ -2261,7 +2343,8 @@
     {
       "id": "Q27169",
       "label": "member of the European Parliament",
-      "title": "member of the European Parliament"
+      "title": "member of the European Parliament",
+      "description": "person who has been elected to the European Parliament"
     },
     {
       "id": "Q12311817",
@@ -2330,6 +2413,7 @@
       "id": "Q27169",
       "label": "member of the European Parliament",
       "title": "member of the European Parliament",
+      "description": "person who has been elected to the European Parliament",
       "qualifiers": {
         "P580": "2004-06-13",
         "P582": "2007-11-28"
@@ -2421,6 +2505,7 @@
       "id": "Q6866144",
       "label": "Minister of Foreign Affairs",
       "title": "Minister of Foreign Affairs",
+      "description": "Minister of Foreign Affairs for Denmark",
       "qualifiers": {
         "P580": "1993-01-25",
         "P582": "2000-12-21",
@@ -2431,7 +2516,8 @@
     {
       "id": "Q12341969",
       "label": "Minister of Economic and Business Affairs",
-      "title": "Minister of Economic and Business Affairs"
+      "title": "Minister of Economic and Business Affairs",
+      "description": "Danish minister"
     },
     {
       "id": "Q12311817",
@@ -2444,6 +2530,7 @@
       "id": "Q6866144",
       "label": "Minister of Foreign Affairs",
       "title": "Minister of Foreign Affairs",
+      "description": "Minister of Foreign Affairs for Denmark",
       "qualifiers": {
         "P580": "2011-10-03",
         "P582": "2013-12-12",
@@ -2476,7 +2563,8 @@
     {
       "id": "Q27169",
       "label": "member of the European Parliament",
-      "title": "member of the European Parliament"
+      "title": "member of the European Parliament",
+      "description": "person who has been elected to the European Parliament"
     }
   ],
   "Q456698": [
@@ -2494,7 +2582,8 @@
     {
       "id": "Q30185",
       "label": "mayor",
-      "title": "mayor"
+      "title": "mayor",
+      "description": "head of municipal government such as a town or city"
     },
     {
       "id": "Q12311817",
@@ -2542,6 +2631,7 @@
       "id": "Q19185575",
       "label": "President of the Nordic Council",
       "title": "President of the Nordic Council",
+      "description": "position in the Nordic Council",
       "qualifiers": {
         "P580": "1976-01-01",
         "P582": "1976-12-31",
@@ -2553,6 +2643,7 @@
       "id": "Q19185575",
       "label": "President of the Nordic Council",
       "title": "President of the Nordic Council",
+      "description": "position in the Nordic Council",
       "qualifiers": {
         "P580": "1981-01-01",
         "P582": "1981-12-31",
@@ -2564,6 +2655,7 @@
       "id": "Q19185575",
       "label": "President of the Nordic Council",
       "title": "President of the Nordic Council",
+      "description": "position in the Nordic Council",
       "qualifiers": {
         "P580": "1996-01-01",
         "P582": "1996-12-31",
@@ -2599,7 +2691,8 @@
     {
       "id": "Q1311756",
       "label": "Minister for the Environment",
-      "title": "Minister for the Environment"
+      "title": "Minister for the Environment",
+      "description": "Danish cabinet position"
     },
     {
       "id": "Q12311817",
@@ -2612,6 +2705,7 @@
       "id": "Q795477",
       "label": "Prime Minister of Denmark",
       "title": "Prime Minister of Denmark",
+      "description": "position",
       "qualifiers": {
         "P580": "2011-10-03",
         "P582": "2015-06-27",
@@ -2624,6 +2718,7 @@
       "id": "Q27169",
       "label": "member of the European Parliament",
       "title": "member of the European Parliament",
+      "description": "person who has been elected to the European Parliament",
       "qualifiers": {
         "P580": "1999",
         "P582": "2004"
@@ -2671,12 +2766,14 @@
     {
       "id": "Q27169",
       "label": "member of the European Parliament",
-      "title": "member of the European Parliament"
+      "title": "member of the European Parliament",
+      "description": "person who has been elected to the European Parliament"
     },
     {
       "id": "Q795477",
       "label": "Prime Minister of Denmark",
       "title": "Prime Minister of Denmark",
+      "description": "position",
       "qualifiers": {
         "P580": "1982-09-10",
         "P582": "1993-01-25",
@@ -2716,7 +2813,8 @@
     {
       "id": "Q18913275",
       "label": "Minister of Health",
-      "title": "Minister of Health"
+      "title": "Minister of Health",
+      "description": "Danish cabinet minister"
     }
   ],
   "Q20197678": [
@@ -2733,7 +2831,8 @@
     {
       "id": "Q27169",
       "label": "member of the European Parliament",
-      "title": "member of the European Parliament"
+      "title": "member of the European Parliament",
+      "description": "person who has been elected to the European Parliament"
     }
   ],
   "Q12316220": [
@@ -2771,12 +2870,14 @@
     {
       "id": "Q27169",
       "label": "member of the European Parliament",
-      "title": "member of the European Parliament"
+      "title": "member of the European Parliament",
+      "description": "person who has been elected to the European Parliament"
     },
     {
       "id": "Q19185575",
       "label": "President of the Nordic Council",
       "title": "President of the Nordic Council",
+      "description": "position in the Nordic Council",
       "qualifiers": {
         "P580": "2011-01-01",
         "P582": "2011-12-31",
@@ -2811,6 +2912,7 @@
       "id": "Q19185575",
       "label": "President of the Nordic Council",
       "title": "President of the Nordic Council",
+      "description": "position in the Nordic Council",
       "qualifiers": {
         "P580": "2006-01-01",
         "P582": "2006-12-31",
@@ -2834,7 +2936,8 @@
     {
       "id": "Q27169",
       "label": "member of the European Parliament",
-      "title": "member of the European Parliament"
+      "title": "member of the European Parliament",
+      "description": "person who has been elected to the European Parliament"
     },
     {
       "id": "Q12311817",
@@ -2879,7 +2982,8 @@
     {
       "id": "Q27169",
       "label": "member of the European Parliament",
-      "title": "member of the European Parliament"
+      "title": "member of the European Parliament",
+      "description": "person who has been elected to the European Parliament"
     },
     {
       "id": "Q12311817",
@@ -2895,7 +2999,8 @@
     {
       "id": "Q27169",
       "label": "member of the European Parliament",
-      "title": "member of the European Parliament"
+      "title": "member of the European Parliament",
+      "description": "person who has been elected to the European Parliament"
     }
   ],
   "Q1926743": [
@@ -2973,12 +3078,14 @@
     {
       "id": "Q957986",
       "label": "European Commissioner for Agriculture and Rural Development",
-      "title": "European Commissioner for Agriculture and Rural Development"
+      "title": "European Commissioner for Agriculture and Rural Development",
+      "description": "position"
     },
     {
       "id": "Q30185",
       "label": "mayor",
-      "title": "mayor"
+      "title": "mayor",
+      "description": "head of municipal government such as a town or city"
     }
   ],
   "Q299352": [
@@ -2986,6 +3093,7 @@
       "id": "Q6866144",
       "label": "Minister of Foreign Affairs",
       "title": "Minister of Foreign Affairs",
+      "description": "Minister of Foreign Affairs for Denmark",
       "qualifiers": {
         "P580": "2010-02-23",
         "P582": "2011-10-03",
@@ -2996,7 +3104,8 @@
     {
       "id": "Q3437404",
       "label": "Ministry of Business and Growth",
-      "title": "Ministry of Business and Growth"
+      "title": "Ministry of Business and Growth",
+      "description": "Danish ministry"
     },
     {
       "id": "Q12311817",
