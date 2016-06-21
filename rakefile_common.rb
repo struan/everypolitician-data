@@ -56,6 +56,10 @@ def json_load(file)
 end
 
 def json_write(file, json)
+  File.write(file, JSON.pretty_generate(json))
+end
+
+def popolo_write(file, json)
   # TODO remove the need for the .to_s here, by ensuring all People and Orgs have names
   json[:persons].sort_by!       { |p| [ p[:name].to_s, p[:id] ] }
   json[:persons].each do |p|
