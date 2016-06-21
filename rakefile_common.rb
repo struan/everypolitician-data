@@ -98,24 +98,6 @@ def load_instructions_file
   json
 end
 
-desc "Add GenderBalance fetcher to instructions"
-task :add_gender_balance do
-  instr = clean_instructions_file
-  sources = instr[:sources]
-  abort "Already have GenderBalance instructions" if sources.find { |s| s[:type] == 'gender' }
-
-  FileUtils.mkpath('sources/gender-balance')
-  sources << { 
-    file: "gender-balance/results.csv",
-    type: "gender",
-    create: {
-      from: "gender-balance",
-      source: pwd.split("/").last(2).join("/").gsub("_", "-"),
-    },
-  } 
-  write_instructions(instr)
-end
-
 desc "Add a wikidata Parties file"
 task :build_parties do
   instr = clean_instructions_file
