@@ -121,6 +121,7 @@ class P39sLookup < WikidataLookup
         id: posn.value.id,
         label: label,
         title: title,
+        description: posn.value.description('en').to_s,
         qualifiers: qual_data,
       }.reject { |_,v| v.empty? } rescue {}
     end
