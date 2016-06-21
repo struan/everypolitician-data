@@ -1402,23 +1402,6 @@
     },
     {
       "gender": "male",
-      "id": "8ffff346-b021-4aa7-bdb6-98fd41507989",
-      "identifiers": [
-        {
-          "identifier": "rakotonimanana_solonirina_andriambelovololona",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.assemblee-nationale.mg/wp-content/plugins/internet/2014/98.jpg",
-      "images": [
-        {
-          "url": "http://www.assemblee-nationale.mg/wp-content/plugins/internet/2014/98.jpg"
-        }
-      ],
-      "name": "RAKOTONIMANANA Solonirina Andriambelovololona"
-    },
-    {
-      "gender": "male",
       "given_name": "Joe",
       "id": "e06596ed-402d-4754-8252-23963162f593",
       "identifiers": [
@@ -1532,6 +1515,16 @@
         }
       ],
       "name": "RAMAHASINDRY Koko Herisoa"
+    },
+    {
+      "id": "90e6adfe-e8e4-4158-b80e-4522be17ac47",
+      "image": "http://www.assemblee-nationale.mg/wp-content/plugins/internet/2014/98.jpg",
+      "images": [
+        {
+          "url": "http://www.assemblee-nationale.mg/wp-content/plugins/internet/2014/98.jpg"
+        }
+      ],
+      "name": "RAMAHATODISOLOMANANA Voanalaroy"
     },
     {
       "gender": "male",
@@ -4426,7 +4419,7 @@
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
       "organization_id": "legislature",
-      "person_id": "8ffff346-b021-4aa7-bdb6-98fd41507989",
+      "person_id": "90e6adfe-e8e4-4158-b80e-4522be17ac47",
       "role": "member"
     },
     {
