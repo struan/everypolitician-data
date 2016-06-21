@@ -21,7 +21,7 @@ class Position
 
     def body
       '<div id="data">%s</div><div><pre id="results" /></div></body></html>' % 
-        unknown.map { |p| "<p data-id='#{p[:id]}'>#{p[:name]}</p>" }.join("\n")
+        unknown.map { |p| "<p data-id='#{p[:id]}'>#{p[:name]} <small>(#{p[:description]})</small></p>" }.join("\n")
     end
 
     def scripts
