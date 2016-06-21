@@ -62,6 +62,7 @@
       "id": "Q1343573",
       "label": "Member of state parliament",
       "title": "Member of state parliament (of Vorarlberg)",
+      "description": "representative of the voters to a state or provincial parliament",
       "qualifiers": {
         "P642": "Vorarlberg",
         "P580": "2003-04-02",
@@ -177,6 +178,7 @@
       "id": "Q1343573",
       "label": "Member of state parliament",
       "title": "Member of state parliament (of Vorarlberg)",
+      "description": "representative of the voters to a state or provincial parliament",
       "qualifiers": {
         "P642": "Vorarlberg",
         "P580": "1989-11-22",
@@ -553,7 +555,8 @@
     {
       "id": "Q1714331",
       "label": "Federal Minister of Justice",
-      "title": "Federal Minister of Justice"
+      "title": "Federal Minister of Justice",
+      "description": "justice minister of Austria"
     }
   ],
   "Q1497140": [
@@ -837,6 +840,7 @@
       "id": "Q24206963",
       "label": "federal spokesperson of the Austrian Green Party",
       "title": "federal spokesperson of the Austrian Green Party",
+      "description": "leader of the Austrian Green Party",
       "qualifiers": {
         "P580": "2008",
         "P582": ""
@@ -1146,6 +1150,7 @@
       "id": "Q19666653",
       "label": "Landesrat",
       "title": "Landesrat (of Upper Austria)",
+      "description": "member of a state government of an Austrian federal state",
       "qualifiers": {
         "P642": "Upper Austria",
         "P580": "2015-10-23"
@@ -1404,7 +1409,8 @@
     {
       "id": "Q1321109",
       "label": "President of the National Council of Austria",
-      "title": "President of the National Council of Austria"
+      "title": "President of the National Council of Austria",
+      "description": "speaker of the lower house of the Austrian Parliament"
     }
   ],
   "Q85109": [
@@ -1434,6 +1440,7 @@
       "id": "Q1343573",
       "label": "Member of state parliament",
       "title": "Member of state parliament (of Vienna)",
+      "description": "representative of the voters to a state or provincial parliament",
       "qualifiers": {
         "P642": "Vienna",
         "P580": "2015"
@@ -1540,6 +1547,7 @@
       "id": "Q1343573",
       "label": "Member of state parliament",
       "title": "Member of state parliament (of Vienna)",
+      "description": "representative of the voters to a state or provincial parliament",
       "qualifiers": {
         "P642": "Vienna",
         "P580": "2001-04-30",
