@@ -86,6 +86,10 @@ def clean_instructions_file
   json_load(@INSTRUCTIONS_FILE) || raise("Can't read #{@INSTRUCTIONS_FILE}")
 end
 
+def write_instructions(instr)
+  File.write(@INSTRUCTIONS_FILE, JSON.pretty_generate(instr))
+end
+
 def load_instructions_file
   json = clean_instructions_file
   json[:sources].each do |s|
@@ -109,7 +113,7 @@ task :add_gender_balance do
       source: pwd.split("/").last(2).join("/").gsub("_", "-"),
     },
   } 
-  File.write(@INSTRUCTIONS_FILE, JSON.pretty_generate(instr))
+  write_instructions(instr)
 end
 
 desc "Add a wikidata Parties file"
@@ -127,7 +131,7 @@ task :build_parties do
         source: "manual/group_wikidata.csv"
       },
     } 
-    File.write(@INSTRUCTIONS_FILE, JSON.pretty_generate(instr))
+    write_instructions(instr)
   end
 
   csvfile = 'sources/manual/group_wikidata.csv'
@@ -167,7 +171,7 @@ task :build_p39s do
       source: reconciliation[:reconciliation_file],
     },
   } 
-  File.write(@INSTRUCTIONS_FILE, JSON.pretty_generate(instr))
+  write_instructions(instr)
 end
 
 def instructions(key)
