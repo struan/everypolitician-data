@@ -193,10 +193,10 @@ desc "Rebuild from source data"
 task :rebuild => [ :clobber, 'ep-popolo-v1.0.json' ]
 task :default => [ :csvs, 'stats:regenerate' ]
 
-require_relative 'rake_helpers/combine_sources.rb'
-require_relative 'rake_helpers/verify_source_data.rb'
-require_relative 'rake_helpers/turn_csv_to_popolo.rb'
-require_relative 'rake_helpers/generate_ep_popolo.rb'
-require_relative 'rake_helpers/generate_final_csvs.rb'
-require_relative 'rake_helpers/generate_stats.rb'
+require_relative 'rake_build/combine_sources.rb'
+require_relative 'rake_build/verify_source_data.rb'
+require_relative 'rake_build/turn_csv_to_popolo.rb'
+require_relative 'rake_build/generate_ep_popolo.rb'
+require_relative 'rake_build/generate_final_csvs.rb'
+require_relative 'rake_build/generate_stats.rb'
 
