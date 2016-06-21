@@ -1,4 +1,17 @@
 GIT
+  remote: git://github.com/everypolitician/everypolitician-popolo.git
+  revision: 1870b151f531e90e84df071fa88be91a1cd97e0a
+  specs:
+    everypolitician-popolo (0.3.2)
+
+GIT
+  remote: git://github.com/everypolitician/everypolitician-ruby.git
+  revision: 75766f09eab7e7166cff27136f3e880696367ff7
+  specs:
+    everypolitician (0.6.1)
+      everypolitician-popolo
+
+GIT
   remote: git://github.com/everypolitician/wikisnakker.git
   revision: 81c25b9ab25f1345fbb05a60f7aa65e8abde693e
   specs:
@@ -13,20 +26,6 @@ GIT
       json
       rcsv
       twitter_username_extractor
-
-GIT
-  remote: https://github.com/everypolitician/everypolitician-popolo
-  revision: 057374a814b636861f5ea3ecfa3b5d3835f32e71
-  branch: master
-  specs:
-    everypolitician-popolo (0.3.1)
-
-GIT
-  remote: https://github.com/everypolitician/everypolitician-ruby
-  revision: 75766f09eab7e7166cff27136f3e880696367ff7
-  specs:
-    everypolitician (0.6.1)
-      everypolitician-popolo
 
 GEM
   remote: https://rubygems.org/
