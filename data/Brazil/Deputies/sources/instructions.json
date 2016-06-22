@@ -1,6 +1,16 @@
 {
   "sources": [
     {
+      "file": "morph/official.csv",
+      "create": {
+        "from": "morph",
+        "scraper": "tmtmtmtm/brasil-deputados-historic",
+        "query": "SELECT *, NULL as birth_date, NULL as death_date FROM data d JOIN membership m ON d.id = m.id WHERE term = 55"
+      },
+      "source": "http://www.camara.gov.br",
+      "type": "membership"
+    },
+    {
       "file": "morph/data.csv",
       "create": {
         "from": "morph",
@@ -8,7 +18,12 @@
         "query": "SELECT * FROM data WHERE term = 55"
       },
       "source": "http://www.camara.gov.br",
-      "type": "membership"
+      "type": "person",
+      "merge": {
+        "incoming_field": "name",
+        "existing_field": "name",
+        "reconciliation_file": "reconciliation/data.csv"
+      }
     },
     {
       "file": "morph/wikidata.csv",
