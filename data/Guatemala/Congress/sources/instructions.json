@@ -29,6 +29,14 @@
         "from": "gender-balance",
         "source": "Guatemala/Congress"
       }
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "create": {
+        "from": "election-wikidata",
+        "base": "Q24713572"
+      }
     }
   ]
 }
