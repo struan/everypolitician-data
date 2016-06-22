@@ -1254,11 +1254,11 @@
         "slug": "Deputies",
         "sources_directory": "data/Brazil/Deputies/sources",
         "popolo": "data/Brazil/Deputies/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/d10546f/data/Brazil/Deputies/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/f4bfdb5/data/Brazil/Deputies/ep-popolo-v1.0.json",
         "names": "data/Brazil/Deputies/names.csv",
-        "lastmod": "1466591781",
-        "person_count": 576,
-        "sha": "d10546f",
+        "lastmod": "1466602356",
+        "person_count": 925,
+        "sha": "f4bfdb5",
         "legislative_periods": [
           {
             "id": "term/55",
@@ -1266,10 +1266,19 @@
             "start_date": "2015-02-01",
             "slug": "55",
             "csv": "data/Brazil/Deputies/term-55.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/d10546f/data/Brazil/Deputies/term-55.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/f4bfdb5/data/Brazil/Deputies/term-55.csv"
+          },
+          {
+            "end_date": "2015",
+            "id": "term/54",
+            "name": "54th Legislature",
+            "start_date": "2011",
+            "slug": "54",
+            "csv": "data/Brazil/Deputies/term-54.csv",
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/f4bfdb5/data/Brazil/Deputies/term-54.csv"
           }
         ],
-        "statement_count": 20503
+        "statement_count": 26288
       }
     ]
   },
