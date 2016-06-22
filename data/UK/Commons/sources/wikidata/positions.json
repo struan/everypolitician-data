@@ -12722,13 +12722,26 @@
       "id": "Q3259412",
       "label": "Lord of the Treasury",
       "title": "Lord of the Treasury",
-      "description": "political office in the United Kingdom"
+      "description": "political office in the United Kingdom",
+      "qualifiers": {
+        "P580": "2010-05-06",
+        "P582": "2012-09-04",
+        "P1365": "Bob Blizzard",
+        "P1366": "David Evennett"
+      }
     },
     {
       "id": "Q16707842",
       "label": "Member of Parliament in the United Kingdom",
       "title": "Member of Parliament in the United Kingdom",
-      "description": "voters' representative in the House of Commons of the United Kingdom"
+      "description": "voters' representative in the House of Commons of the United Kingdom",
+      "qualifiers": {
+        "P768": "Braintree",
+        "P580": "2005-05-05",
+        "P582": "2015-03-30",
+        "P1365": "Alan Hurst",
+        "P1366": "James Cleverly"
+      }
     }
   ],
   "Q389189": [
