@@ -15,7 +15,8 @@
     {
       "id": "Q2386529",
       "label": "Minister for Foreign Affairs of Finland",
-      "title": "Minister for Foreign Affairs of Finland"
+      "title": "Minister for Foreign Affairs of Finland",
+      "description": "person handling Finland's foreign affairs"
     }
   ],
   "Q11850151": [
@@ -34,6 +35,7 @@
       "id": "Q2386529",
       "label": "Minister for Foreign Affairs of Finland",
       "title": "Minister for Foreign Affairs of Finland",
+      "description": "person handling Finland's foreign affairs",
       "qualifiers": {
         "P580": "2011-06-22",
         "P582": "2015-05-28",
@@ -45,6 +47,7 @@
       "id": "Q2386529",
       "label": "Minister for Foreign Affairs of Finland",
       "title": "Minister for Foreign Affairs of Finland",
+      "description": "person handling Finland's foreign affairs",
       "qualifiers": {
         "P580": "2000-02-25",
         "P582": "2007-04-19"
@@ -54,6 +57,7 @@
       "id": "Q19185575",
       "label": "President of the Nordic Council",
       "title": "President of the Nordic Council",
+      "description": "position in the Nordic Council",
       "qualifiers": {
         "P580": "2008-01-01",
         "P582": "2008-12-31",
@@ -130,6 +134,7 @@
       "id": "Q1294631",
       "label": "Minister of Justice",
       "title": "Minister of Justice",
+      "description": "Minister of Justice in Finland",
       "qualifiers": {
         "P580": "2015-05-29",
         "P1365": "Anna-Maja Henriksson",
@@ -140,6 +145,7 @@
       "id": "Q10563305",
       "label": "Minister of Labour",
       "title": "Minister of Labour",
+      "description": "member of the government of Finland",
       "qualifiers": {
         "P580": "2015-05-29",
         "P1365": "Lauri Ihalainen",
@@ -219,12 +225,14 @@
     {
       "id": "Q27169",
       "label": "member of the European Parliament",
-      "title": "member of the European Parliament"
+      "title": "member of the European Parliament",
+      "description": "person who has been elected to the European Parliament"
     },
     {
       "id": "Q24205201",
       "label": "Minister of Agriculture and Forestry",
-      "title": "Minister of Agriculture and Forestry"
+      "title": "Minister of Agriculture and Forestry",
+      "description": "Finnish cabinet position"
     }
   ],
   "Q11858319": [
@@ -252,7 +260,8 @@
     {
       "id": "Q27169",
       "label": "member of the European Parliament",
-      "title": "member of the European Parliament"
+      "title": "member of the European Parliament",
+      "description": "person who has been elected to the European Parliament"
     },
     {
       "id": "Q17592486",
@@ -309,6 +318,7 @@
       "id": "Q738695",
       "label": "Prime Minister of Finland",
       "title": "Prime Minister of Finland",
+      "description": "position",
       "qualifiers": {
         "P580": "2011-06-22",
         "P1365": "Mari Kiviniemi",
@@ -332,6 +342,7 @@
       "id": "Q2367542",
       "label": "Minister of Finance",
       "title": "Minister of Finance",
+      "description": "cabinet minister of Finland",
       "qualifiers": {
         "P580": "2007-04-19",
         "P582": "2011-06-22",
@@ -342,7 +353,8 @@
     {
       "id": "Q27169",
       "label": "member of the European Parliament",
-      "title": "member of the European Parliament"
+      "title": "member of the European Parliament",
+      "description": "person who has been elected to the European Parliament"
     },
     {
       "id": "Q17592486",
@@ -392,6 +404,7 @@
       "id": "Q29558",
       "label": "President of Finland",
       "title": "President of Finland",
+      "description": "Finland's head of state",
       "qualifiers": {
         "P580": "2012-03-01",
         "P1365": "Tarja Halonen"
@@ -401,6 +414,7 @@
       "id": "Q392228",
       "label": "Speaker of the Parliament of Finland",
       "title": "Speaker of the Parliament of Finland",
+      "description": "position",
       "qualifiers": {
         "P580": "2007-04-24",
         "P582": "2011-04-27",
@@ -412,6 +426,7 @@
       "id": "Q2367542",
       "label": "Minister of Finance",
       "title": "Minister of Finance (of Paavo Lipponen's first cabinet)",
+      "description": "cabinet minister of Finland",
       "qualifiers": {
         "P580": "1996-02-02",
         "P582": "1999-04-15",
@@ -434,6 +449,7 @@
       "id": "Q1294631",
       "label": "Minister of Justice",
       "title": "Minister of Justice (of Paavo Lipponen's first cabinet)",
+      "description": "Minister of Justice in Finland",
       "qualifiers": {
         "P580": "1995-04-13",
         "P582": "1996-02-01",
@@ -456,6 +472,7 @@
       "id": "Q2367542",
       "label": "Minister of Finance",
       "title": "Minister of Finance (of Paavo Lipponen's second Cabinet)",
+      "description": "cabinet minister of Finland",
       "qualifiers": {
         "P580": "1999-04-15",
         "P582": "2003-04-16",
@@ -487,6 +504,7 @@
       "id": "Q22981837",
       "label": "Chairperson of the National Coalition Party",
       "title": "Chairperson of the National Coalition Party",
+      "description": "leader of Finnish political party",
       "qualifiers": {
         "P580": "1994",
         "P582": "2001",
@@ -507,6 +525,7 @@
       "id": "Q738695",
       "label": "Prime Minister of Finland",
       "title": "Prime Minister of Finland",
+      "description": "position",
       "qualifiers": {
         "P580": "2003-04-17",
         "P582": "2003-06-24",
@@ -518,6 +537,7 @@
       "id": "Q27169",
       "label": "member of the European Parliament",
       "title": "member of the European Parliament",
+      "description": "person who has been elected to the European Parliament",
       "qualifiers": {
         "P580": "2004-07-20",
         "P768": "Finland"
@@ -531,12 +551,14 @@
     {
       "id": "Q22981850",
       "label": "Leader of the Centre Party",
-      "title": "Leader of the Centre Party"
+      "title": "Leader of the Centre Party",
+      "description": "Finnish party leader"
     },
     {
       "id": "Q1294631",
       "label": "Minister of Justice",
-      "title": "Minister of Justice"
+      "title": "Minister of Justice",
+      "description": "Minister of Justice in Finland"
     }
   ],
   "Q11893035": [
@@ -550,7 +572,8 @@
     {
       "id": "Q2367542",
       "label": "Minister of Finance",
-      "title": "Minister of Finance"
+      "title": "Minister of Finance",
+      "description": "cabinet minister of Finland"
     }
   ],
   "Q11893623": [
@@ -618,6 +641,7 @@
       "id": "Q1425432",
       "label": "Minister of the Environment",
       "title": "Minister of the Environment",
+      "description": "Finnish cabinet minister",
       "qualifiers": {
         "P580": "2011-06-22",
         "P1365": "Paula Lehtomäki",
@@ -692,7 +716,8 @@
     {
       "id": "Q23725756",
       "label": "Minister of Culture",
-      "title": "Minister of Culture"
+      "title": "Minister of Culture",
+      "description": "Finnish cabinet position"
     }
   ],
   "Q18363520": [
@@ -760,6 +785,7 @@
       "id": "Q2367542",
       "label": "Minister of Finance",
       "title": "Minister of Finance",
+      "description": "cabinet minister of Finland",
       "qualifiers": {
         "P580": "2011-06-22",
         "P582": "2014-06-06",
@@ -794,7 +820,8 @@
     {
       "id": "Q27169",
       "label": "member of the European Parliament",
-      "title": "member of the European Parliament"
+      "title": "member of the European Parliament",
+      "description": "person who has been elected to the European Parliament"
     },
     {
       "id": "Q17592486",
@@ -804,7 +831,8 @@
     {
       "id": "Q24205201",
       "label": "Minister of Agriculture and Forestry",
-      "title": "Minister of Agriculture and Forestry"
+      "title": "Minister of Agriculture and Forestry",
+      "description": "Finnish cabinet position"
     }
   ],
   "Q17385002": [
@@ -839,7 +867,8 @@
     {
       "id": "Q27169",
       "label": "member of the European Parliament",
-      "title": "member of the European Parliament"
+      "title": "member of the European Parliament",
+      "description": "person who has been elected to the European Parliament"
     }
   ],
   "Q29024": [
@@ -852,6 +881,7 @@
       "id": "Q738695",
       "label": "Prime Minister of Finland",
       "title": "Prime Minister of Finland",
+      "description": "position",
       "qualifiers": {
         "P580": "1991-04-26",
         "P582": "1995-04-13",
@@ -862,7 +892,8 @@
     {
       "id": "Q22981850",
       "label": "Leader of the Centre Party",
-      "title": "Leader of the Centre Party"
+      "title": "Leader of the Centre Party",
+      "description": "Finnish party leader"
     }
   ],
   "Q5401749": [
@@ -886,6 +917,7 @@
       "id": "Q1553195",
       "label": "party leader",
       "title": "party leader (of Left Alliance)",
+      "description": "leading official of a political party",
       "qualifiers": {
         "P642": "Left Alliance",
         "P580": "2016-06-11",
@@ -916,7 +948,8 @@
     {
       "id": "Q1294631",
       "label": "Minister of Justice",
-      "title": "Minister of Justice"
+      "title": "Minister of Justice",
+      "description": "Minister of Justice in Finland"
     }
   ],
   "Q541499": [
@@ -949,12 +982,14 @@
     {
       "id": "Q2386529",
       "label": "Minister for Foreign Affairs of Finland",
-      "title": "Minister for Foreign Affairs of Finland"
+      "title": "Minister for Foreign Affairs of Finland",
+      "description": "person handling Finland's foreign affairs"
     },
     {
       "id": "Q27169",
       "label": "member of the European Parliament",
       "title": "member of the European Parliament",
+      "description": "person who has been elected to the European Parliament",
       "qualifiers": {
         "P580": "1995-01-01",
         "P582": "2007-04-18"
@@ -974,6 +1009,7 @@
       "id": "Q22981850",
       "label": "Leader of the Centre Party",
       "title": "Leader of the Centre Party",
+      "description": "Finnish party leader",
       "qualifiers": {
         "P580": "1980",
         "P582": "1990",
@@ -1028,6 +1064,7 @@
       "id": "Q27169",
       "label": "member of the European Parliament",
       "title": "member of the European Parliament",
+      "description": "person who has been elected to the European Parliament",
       "qualifiers": {
         "P580": "2014-07-01"
       }
@@ -1079,7 +1116,8 @@
     {
       "id": "Q27169",
       "label": "member of the European Parliament",
-      "title": "member of the European Parliament"
+      "title": "member of the European Parliament",
+      "description": "person who has been elected to the European Parliament"
     },
     {
       "id": "Q17592486",
@@ -1112,6 +1150,7 @@
       "id": "Q10563305",
       "label": "Minister of Labour",
       "title": "Minister of Labour",
+      "description": "member of the government of Finland",
       "qualifiers": {
         "P580": "2011-06-22",
         "P582": "2015-05-29",
@@ -1132,6 +1171,7 @@
       "id": "Q29558",
       "label": "President of Finland",
       "title": "President of Finland",
+      "description": "Finland's head of state",
       "qualifiers": {
         "P580": "2000-03-01",
         "P582": "2012-03-01",
@@ -1144,6 +1184,7 @@
       "id": "Q2386529",
       "label": "Minister for Foreign Affairs of Finland",
       "title": "Minister for Foreign Affairs of Finland",
+      "description": "person handling Finland's foreign affairs",
       "qualifiers": {
         "P580": "1995-04-13",
         "P582": "2000-02-25",
@@ -1156,6 +1197,7 @@
       "id": "Q1294631",
       "label": "Minister of Justice",
       "title": "Minister of Justice",
+      "description": "Minister of Justice in Finland",
       "qualifiers": {
         "P580": "1990-02-28",
         "P582": "1991-04-26",
@@ -1177,6 +1219,7 @@
       "id": "Q738695",
       "label": "Prime Minister of Finland",
       "title": "Prime Minister of Finland",
+      "description": "position",
       "qualifiers": {
         "P580": "1995-04-13",
         "P582": "2003-04-17",
@@ -1193,6 +1236,7 @@
       "id": "Q392228",
       "label": "Speaker of the Parliament of Finland",
       "title": "Speaker of the Parliament of Finland",
+      "description": "position",
       "qualifiers": {
         "P580": "2003-04-22",
         "P582": "2007-03-20",
@@ -1220,6 +1264,7 @@
       "id": "Q19185575",
       "label": "President of the Nordic Council",
       "title": "President of the Nordic Council",
+      "description": "position in the Nordic Council",
       "qualifiers": {
         "P580": "2012-01-01",
         "P582": "2012-12-31",
@@ -1233,6 +1278,7 @@
       "id": "Q188393",
       "label": "Minister of Defence",
       "title": "Minister of Defence",
+      "description": "in Finland",
       "qualifiers": {
         "P580": "2003-04-17",
         "P582": "2003-06-24",
@@ -1249,6 +1295,7 @@
       "id": "Q738695",
       "label": "Prime Minister of Finland",
       "title": "Prime Minister of Finland",
+      "description": "position",
       "qualifiers": {
         "P580": "2003-06-23",
         "P582": "2010-06-22",
@@ -1259,7 +1306,8 @@
     {
       "id": "Q22981850",
       "label": "Leader of the Centre Party",
-      "title": "Leader of the Centre Party"
+      "title": "Leader of the Centre Party",
+      "description": "Finnish party leader"
     }
   ],
   "Q11861387": [
@@ -1281,6 +1329,7 @@
       "id": "Q27169",
       "label": "member of the European Parliament",
       "title": "member of the European Parliament",
+      "description": "person who has been elected to the European Parliament",
       "qualifiers": {
         "P580": "2004",
         "P582": "2014"
@@ -1333,7 +1382,8 @@
     {
       "id": "Q27169",
       "label": "member of the European Parliament",
-      "title": "member of the European Parliament"
+      "title": "member of the European Parliament",
+      "description": "person who has been elected to the European Parliament"
     },
     {
       "id": "Q17592486",
@@ -1346,6 +1396,7 @@
       "id": "Q738695",
       "label": "Prime Minister of Finland",
       "title": "Prime Minister of Finland",
+      "description": "position",
       "qualifiers": {
         "P580": "2014-06-24",
         "P1365": "Jyrki Katainen",
@@ -1358,6 +1409,7 @@
       "id": "Q11895142",
       "label": "Minister for European Affairs and Foreign Trade",
       "title": "Minister for European Affairs and Foreign Trade",
+      "description": "in Finland",
       "qualifiers": {
         "P580": "2011-06-22",
         "P1365": "Astrid Thors",
@@ -1370,6 +1422,7 @@
       "id": "Q2386529",
       "label": "Minister for Foreign Affairs of Finland",
       "title": "Minister for Foreign Affairs of Finland",
+      "description": "person handling Finland's foreign affairs",
       "qualifiers": {
         "P580": "2008-04-04",
         "P582": "2011-06-22",
@@ -1382,6 +1435,7 @@
       "id": "Q27169",
       "label": "member of the European Parliament",
       "title": "member of the European Parliament",
+      "description": "person who has been elected to the European Parliament",
       "qualifiers": {
         "P580": "2004-07-20",
         "P582": "2008-04-03",
@@ -1392,6 +1446,7 @@
       "id": "Q2367542",
       "label": "Minister of Finance",
       "title": "Minister of Finance",
+      "description": "cabinet minister of Finland",
       "qualifiers": {
         "P580": "2015-05-29",
         "P1365": "Antti Rinne",
@@ -1402,6 +1457,7 @@
       "id": "Q22981837",
       "label": "Chairperson of the National Coalition Party",
       "title": "Chairperson of the National Coalition Party",
+      "description": "leader of Finnish political party",
       "qualifiers": {
         "P580": "2014-06-14",
         "P582": "2016-06-11",
@@ -1414,7 +1470,8 @@
     {
       "id": "Q27169",
       "label": "member of the European Parliament",
-      "title": "member of the European Parliament"
+      "title": "member of the European Parliament",
+      "description": "person who has been elected to the European Parliament"
     },
     {
       "id": "Q17592486",
@@ -1447,7 +1504,8 @@
     {
       "id": "Q27169",
       "label": "member of the European Parliament",
-      "title": "member of the European Parliament"
+      "title": "member of the European Parliament",
+      "description": "person who has been elected to the European Parliament"
     },
     {
       "id": "Q17592486",
@@ -1474,6 +1532,7 @@
       "id": "Q27169",
       "label": "member of the European Parliament",
       "title": "member of the European Parliament",
+      "description": "person who has been elected to the European Parliament",
       "qualifiers": {
         "P580": "2011",
         "P582": "2014"
@@ -1488,6 +1547,7 @@
       "id": "Q10563305",
       "label": "Minister of Labour",
       "title": "Minister of Labour",
+      "description": "member of the government of Finland",
       "qualifiers": {
         "P580": "2007-04-19",
         "P582": "2009-06-25",
@@ -1528,6 +1588,7 @@
       "id": "Q392228",
       "label": "Speaker of the Parliament of Finland",
       "title": "Speaker of the Parliament of Finland",
+      "description": "position",
       "qualifiers": {
         "P580": "1994-02-07",
         "P582": "1995-03-23",
@@ -1539,6 +1600,7 @@
       "id": "Q392228",
       "label": "Speaker of the Parliament of Finland",
       "title": "Speaker of the Parliament of Finland",
+      "description": "position",
       "qualifiers": {
         "P580": "1995-04-21",
         "P582": "1999-03-23",
@@ -1550,6 +1612,7 @@
       "id": "Q392228",
       "label": "Speaker of the Parliament of Finland",
       "title": "Speaker of the Parliament of Finland",
+      "description": "position",
       "qualifiers": {
         "P580": "1999-04-20",
         "P582": "2003-03-18",
@@ -1561,6 +1624,7 @@
       "id": "Q11895091",
       "label": "Minister of Education and Culture of Finland",
       "title": "Minister of Education and Culture of Finland",
+      "description": "member of the government of Finland",
       "qualifiers": {
         "P580": "1991-04-26",
         "P582": "1994-02-10",
@@ -1642,6 +1706,7 @@
       "id": "Q496728",
       "label": "municipal manager",
       "title": "municipal manager (of Espoo)",
+      "description": "municipal manager in Finland",
       "qualifiers": {
         "P642": "Espoo",
         "P580": "2011-01-01",
@@ -1654,6 +1719,7 @@
       "id": "Q27169",
       "label": "member of the European Parliament",
       "title": "member of the European Parliament",
+      "description": "person who has been elected to the European Parliament",
       "qualifiers": {
         "P580": "2009-07-14",
         "P582": "2012-07-04"
@@ -1663,6 +1729,7 @@
       "id": "Q188393",
       "label": "Minister of Defence",
       "title": "Minister of Defence",
+      "description": "in Finland",
       "qualifiers": {
         "P580": "2012-07-05"
       }
@@ -1672,7 +1739,8 @@
     {
       "id": "Q27169",
       "label": "member of the European Parliament",
-      "title": "member of the European Parliament"
+      "title": "member of the European Parliament",
+      "description": "person who has been elected to the European Parliament"
     },
     {
       "id": "Q17592486",
@@ -1684,7 +1752,8 @@
     {
       "id": "Q27169",
       "label": "member of the European Parliament",
-      "title": "member of the European Parliament"
+      "title": "member of the European Parliament",
+      "description": "person who has been elected to the European Parliament"
     },
     {
       "id": "Q17592486",
@@ -1738,14 +1807,16 @@
     {
       "id": "Q11895091",
       "label": "Minister of Education and Culture of Finland",
-      "title": "Minister of Education and Culture of Finland"
+      "title": "Minister of Education and Culture of Finland",
+      "description": "member of the government of Finland"
     }
   ],
   "Q456901": [
     {
       "id": "Q27169",
       "label": "member of the European Parliament",
-      "title": "member of the European Parliament"
+      "title": "member of the European Parliament",
+      "description": "person who has been elected to the European Parliament"
     },
     {
       "id": "Q17592486",
@@ -1803,6 +1874,7 @@
       "id": "Q23725756",
       "label": "Minister of Culture",
       "title": "Minister of Culture",
+      "description": "Finnish cabinet position",
       "qualifiers": {
         "P580": "1998-09-04",
         "P582": "1999-04-14",
@@ -1815,6 +1887,7 @@
       "id": "Q140686",
       "label": "chairperson",
       "title": "chairperson (of Left Alliance)",
+      "description": "highest officer of an organized group",
       "qualifiers": {
         "P642": "Left Alliance",
         "P580": "1998",
@@ -1833,14 +1906,16 @@
     {
       "id": "Q1445938",
       "label": "Minister of the Interior",
-      "title": "Minister of the Interior"
+      "title": "Minister of the Interior",
+      "description": "Finnish Minister of the Interior"
     }
   ],
   "Q1168762": [
     {
       "id": "Q27169",
       "label": "member of the European Parliament",
-      "title": "member of the European Parliament"
+      "title": "member of the European Parliament",
+      "description": "person who has been elected to the European Parliament"
     },
     {
       "id": "Q17592486",
@@ -1850,14 +1925,16 @@
     {
       "id": "Q22981837",
       "label": "Chairperson of the National Coalition Party",
-      "title": "Chairperson of the National Coalition Party"
+      "title": "Chairperson of the National Coalition Party",
+      "description": "leader of Finnish political party"
     }
   ],
   "Q1606293": [
     {
       "id": "Q27169",
       "label": "member of the European Parliament",
-      "title": "member of the European Parliament"
+      "title": "member of the European Parliament",
+      "description": "person who has been elected to the European Parliament"
     },
     {
       "id": "Q17592486",
@@ -1899,12 +1976,14 @@
     {
       "id": "Q121998",
       "label": "ambassador",
-      "title": "ambassador"
+      "title": "ambassador",
+      "description": "diplomatic envoy"
     },
     {
       "id": "Q22981837",
       "label": "Chairperson of the National Coalition Party",
-      "title": "Chairperson of the National Coalition Party"
+      "title": "Chairperson of the National Coalition Party",
+      "description": "leader of Finnish political party"
     }
   ],
   "Q438819": [
@@ -1912,6 +1991,7 @@
       "id": "Q1445938",
       "label": "Minister of the Interior",
       "title": "Minister of the Interior",
+      "description": "Finnish Minister of the Interior",
       "qualifiers": {
         "P580": "2011-06-22",
         "P1365": "Anne Holmlund",
@@ -1932,6 +2012,7 @@
       "id": "Q1445938",
       "label": "Minister of the Interior",
       "title": "Minister of the Interior",
+      "description": "Finnish Minister of the Interior",
       "qualifiers": {
         "P580": "2014-06-24",
         "P582": "2015-05-28",
@@ -1943,6 +2024,7 @@
       "id": "Q140686",
       "label": "chairperson",
       "title": "chairperson (of Christian Democrats)",
+      "description": "highest officer of an organized group",
       "qualifiers": {
         "P642": "Christian Democrats",
         "P580": "2004",
@@ -1978,6 +2060,7 @@
       "id": "Q11895063",
       "label": "Minister of Transport and Communications",
       "title": "Minister of Transport and Communications",
+      "description": "in Finland",
       "qualifiers": {
         "P580": "2005-09-23",
         "P582": "2007-04-19"
@@ -1987,6 +2070,7 @@
       "id": "Q18694348",
       "label": "Minister of Health and Social Services",
       "title": "Minister of Health and Social Services",
+      "description": "Finnish Cabinet minister",
       "qualifiers": {
         "P580": "2013-05-24",
         "P582": "2014-06-24"
@@ -1996,6 +2080,7 @@
       "id": "Q18694348",
       "label": "Minister of Health and Social Services",
       "title": "Minister of Health and Social Services",
+      "description": "Finnish Cabinet minister",
       "qualifiers": {
         "P580": "2014-06-24",
         "P582": "2015-05-29"
@@ -2034,7 +2119,8 @@
     {
       "id": "Q18694348",
       "label": "Minister of Health and Social Services",
-      "title": "Minister of Health and Social Services"
+      "title": "Minister of Health and Social Services",
+      "description": "Finnish Cabinet minister"
     }
   ],
   "Q11849980": [
@@ -2095,7 +2181,8 @@
     {
       "id": "Q24205201",
       "label": "Minister of Agriculture and Forestry",
-      "title": "Minister of Agriculture and Forestry"
+      "title": "Minister of Agriculture and Forestry",
+      "description": "Finnish cabinet position"
     }
   ],
   "Q591312": [
@@ -2103,6 +2190,7 @@
       "id": "Q2367542",
       "label": "Minister of Finance",
       "title": "Minister of Finance",
+      "description": "cabinet minister of Finland",
       "qualifiers": {
         "P580": "1997-10-09",
         "P582": "1999-04-14",
@@ -2125,6 +2213,7 @@
       "id": "Q27169",
       "label": "member of the European Parliament",
       "title": "member of the European Parliament",
+      "description": "person who has been elected to the European Parliament",
       "qualifiers": {
         "P580": "1995-01-01",
         "P582": "2003-03-25",
@@ -2135,6 +2224,7 @@
       "id": "Q17118521",
       "label": "Minister for International Development",
       "title": "Minister for International Development",
+      "description": "in Finland",
       "qualifiers": {
         "P580": "2011-06-22",
         "P582": "2013-10-16",
@@ -2147,6 +2237,7 @@
       "id": "Q27169",
       "label": "member of the European Parliament",
       "title": "member of the European Parliament",
+      "description": "person who has been elected to the European Parliament",
       "qualifiers": {
         "P580": "2009-07-14",
         "P582": "2011-06-21"
@@ -2156,6 +2247,7 @@
       "id": "Q27169",
       "label": "member of the European Parliament",
       "title": "member of the European Parliament",
+      "description": "person who has been elected to the European Parliament",
       "qualifiers": {
         "P580": "2014-07-01"
       }
@@ -2192,6 +2284,7 @@
       "id": "Q1294631",
       "label": "Minister of Justice",
       "title": "Minister of Justice",
+      "description": "Minister of Justice in Finland",
       "qualifiers": {
         "P580": "2011-06-22"
       }
@@ -2223,6 +2316,7 @@
       "id": "Q22981850",
       "label": "Leader of the Centre Party",
       "title": "Leader of the Centre Party",
+      "description": "Finnish party leader",
       "qualifiers": {
         "P580": "2012-05-09",
         "P1365": "Mari Kiviniemi"
@@ -2241,6 +2335,7 @@
       "id": "Q392228",
       "label": "Speaker of the Parliament of Finland",
       "title": "Speaker of the Parliament of Finland",
+      "description": "position",
       "qualifiers": {
         "P580": "2015-04-28",
         "P1365": "Eero Heinäluoma",
@@ -2252,6 +2347,7 @@
       "id": "Q738695",
       "label": "Prime Minister of Finland",
       "title": "Prime Minister of Finland",
+      "description": "position",
       "qualifiers": {
         "P580": "2015-05-29",
         "P1365": "Alexander Stubb",
@@ -2305,7 +2401,8 @@
     {
       "id": "Q27169",
       "label": "member of the European Parliament",
-      "title": "member of the European Parliament"
+      "title": "member of the European Parliament",
+      "description": "person who has been elected to the European Parliament"
     },
     {
       "id": "Q17592486",
@@ -2317,7 +2414,8 @@
     {
       "id": "Q24205201",
       "label": "Minister of Agriculture and Forestry",
-      "title": "Minister of Agriculture and Forestry"
+      "title": "Minister of Agriculture and Forestry",
+      "description": "Finnish cabinet position"
     }
   ],
   "Q11896965": [
@@ -2371,12 +2469,14 @@
     {
       "id": "Q1478101",
       "label": "European Commissioner for Enlargement and European Neighbourhood Policy",
-      "title": "European Commissioner for Enlargement and European Neighbourhood Policy"
+      "title": "European Commissioner for Enlargement and European Neighbourhood Policy",
+      "description": "position"
     },
     {
       "id": "Q27169",
       "label": "member of the European Parliament",
       "title": "member of the European Parliament",
+      "description": "person who has been elected to the European Parliament",
       "qualifiers": {
         "P580": "1995-01-01",
         "P582": "1996-11-10"
@@ -2415,7 +2515,8 @@
     {
       "id": "Q27169",
       "label": "member of the European Parliament",
-      "title": "member of the European Parliament"
+      "title": "member of the European Parliament",
+      "description": "person who has been elected to the European Parliament"
     },
     {
       "id": "Q17592486",
@@ -2425,7 +2526,8 @@
     {
       "id": "Q2386529",
       "label": "Minister for Foreign Affairs of Finland",
-      "title": "Minister for Foreign Affairs of Finland"
+      "title": "Minister for Foreign Affairs of Finland",
+      "description": "person handling Finland's foreign affairs"
     }
   ],
   "Q11866372": [
@@ -2447,6 +2549,7 @@
       "id": "Q10563305",
       "label": "Minister of Labour",
       "title": "Minister of Labour",
+      "description": "member of the government of Finland",
       "qualifiers": {
         "P580": "2009-06-26",
         "P582": "2011-06-22",
@@ -2497,12 +2600,14 @@
     {
       "id": "Q392228",
       "label": "Speaker of the Parliament of Finland",
-      "title": "Speaker of the Parliament of Finland"
+      "title": "Speaker of the Parliament of Finland",
+      "description": "position"
     },
     {
       "id": "Q2367542",
       "label": "Minister of Finance",
-      "title": "Minister of Finance"
+      "title": "Minister of Finance",
+      "description": "cabinet minister of Finland"
     }
   ],
   "Q16298352": [
@@ -2531,6 +2636,7 @@
       "id": "Q27169",
       "label": "member of the European Parliament",
       "title": "member of the European Parliament",
+      "description": "person who has been elected to the European Parliament",
       "qualifiers": {
         "P580": "2009-07-14",
         "P582": "2014-06-30"
@@ -2559,6 +2665,7 @@
       "id": "Q140686",
       "label": "chairperson",
       "title": "chairperson (of Christian Democrats)",
+      "description": "highest officer of an organized group",
       "qualifiers": {
         "P642": "Christian Democrats",
         "P580": "2015-08",
@@ -2575,7 +2682,8 @@
     {
       "id": "Q27169",
       "label": "member of the European Parliament",
-      "title": "member of the European Parliament"
+      "title": "member of the European Parliament",
+      "description": "person who has been elected to the European Parliament"
     },
     {
       "id": "Q17592486",
@@ -2594,7 +2702,8 @@
     {
       "id": "Q27169",
       "label": "member of the European Parliament",
-      "title": "member of the European Parliament"
+      "title": "member of the European Parliament",
+      "description": "person who has been elected to the European Parliament"
     },
     {
       "id": "Q17592486",
@@ -2619,6 +2728,7 @@
       "id": "Q24238352",
       "label": "Secretary General of the Nordic Council",
       "title": "Secretary General of the Nordic Council",
+      "description": "head of the Nordic Council Secretariat",
       "qualifiers": {
         "P580": "2007",
         "P582": "2013"
@@ -2648,6 +2758,7 @@
       "id": "Q27169",
       "label": "member of the European Parliament",
       "title": "member of the European Parliament",
+      "description": "person who has been elected to the European Parliament",
       "qualifiers": {
         "P580": "1996",
         "P582": "2004-07"
@@ -2678,7 +2789,8 @@
     {
       "id": "Q2367542",
       "label": "Minister of Finance",
-      "title": "Minister of Finance"
+      "title": "Minister of Finance",
+      "description": "cabinet minister of Finland"
     }
   ],
   "Q11898453": [
@@ -2808,6 +2920,7 @@
       "id": "Q11895063",
       "label": "Minister of Transport and Communications",
       "title": "Minister of Transport and Communications",
+      "description": "in Finland",
       "qualifiers": {
         "P580": "2015-05-29",
         "P361": "Juha Sipilä's cabinet",
@@ -2876,6 +2989,7 @@
       "id": "Q10563305",
       "label": "Minister of Labour",
       "title": "Minister of Labour",
+      "description": "member of the government of Finland",
       "qualifiers": {
         "P580": "1999-04-15",
         "P582": "2000-02-24",
@@ -2886,6 +3000,7 @@
       "id": "Q18694348",
       "label": "Minister of Health and Social Services",
       "title": "Minister of Health and Social Services",
+      "description": "Finnish Cabinet minister",
       "qualifiers": {
         "P580": "2003-04-17",
         "P582": "2007-04-19"
@@ -2895,6 +3010,7 @@
       "id": "Q24205195",
       "label": "Minister of Trade and Industry",
       "title": "Minister of Trade and Industry",
+      "description": "Finnish cabinet position",
       "qualifiers": {
         "P580": "2000-02-25",
         "P582": "2003-04-16"
@@ -2904,6 +3020,7 @@
       "id": "Q18694348",
       "label": "Minister of Health and Social Services",
       "title": "Minister of Health and Social Services",
+      "description": "Finnish Cabinet minister",
       "qualifiers": {
         "P580": "1995-04-13",
         "P582": "1999-04-14"
@@ -2960,7 +3077,8 @@
     {
       "id": "Q11895091",
       "label": "Minister of Education and Culture of Finland",
-      "title": "Minister of Education and Culture of Finland"
+      "title": "Minister of Education and Culture of Finland",
+      "description": "member of the government of Finland"
     }
   ],
   "Q4357820": [
@@ -2989,6 +3107,7 @@
       "id": "Q1445938",
       "label": "Minister of the Interior",
       "title": "Minister of the Interior",
+      "description": "Finnish Minister of the Interior",
       "qualifiers": {
         "P1365": "Ville Itälä",
         "P1366": "Anne Holmlund",
@@ -3011,6 +3130,7 @@
       "id": "Q392228",
       "label": "Speaker of the Parliament of Finland",
       "title": "Speaker of the Parliament of Finland",
+      "description": "position",
       "qualifiers": {
         "P580": "2015-05-29",
         "P1365": "Juha Sipilä"
@@ -3022,6 +3142,7 @@
       "id": "Q2367542",
       "label": "Minister of Finance",
       "title": "Minister of Finance",
+      "description": "cabinet minister of Finland",
       "qualifiers": {
         "P580": "2014-06-06"
       }
@@ -3058,7 +3179,8 @@
     {
       "id": "Q23725756",
       "label": "Minister of Culture",
-      "title": "Minister of Culture"
+      "title": "Minister of Culture",
+      "description": "Finnish cabinet position"
     }
   ],
   "Q17382244": [
@@ -3077,7 +3199,8 @@
     {
       "id": "Q27169",
       "label": "member of the European Parliament",
-      "title": "member of the European Parliament"
+      "title": "member of the European Parliament",
+      "description": "person who has been elected to the European Parliament"
     },
     {
       "id": "Q17592486",
@@ -3088,6 +3211,7 @@
       "id": "Q19185575",
       "label": "President of the Nordic Council",
       "title": "President of the Nordic Council",
+      "description": "position in the Nordic Council",
       "qualifiers": {
         "P580": "2002-01-01",
         "P582": "2002-12-31",
@@ -3168,7 +3292,8 @@
     {
       "id": "Q20167466",
       "label": "Premier of the Åland Islands",
-      "title": "Premier of the Åland Islands"
+      "title": "Premier of the Åland Islands",
+      "description": "head of government of Åland"
     }
   ],
   "Q920124": [
@@ -3199,7 +3324,8 @@
     {
       "id": "Q11895091",
       "label": "Minister of Education and Culture of Finland",
-      "title": "Minister of Education and Culture of Finland"
+      "title": "Minister of Education and Culture of Finland",
+      "description": "member of the government of Finland"
     }
   ],
   "Q11880880": [
@@ -3213,7 +3339,8 @@
     {
       "id": "Q1294631",
       "label": "Minister of Justice",
-      "title": "Minister of Justice"
+      "title": "Minister of Justice",
+      "description": "Minister of Justice in Finland"
     }
   ],
   "Q11870505": [
@@ -3252,6 +3379,7 @@
       "id": "Q22981850",
       "label": "Leader of the Centre Party",
       "title": "Leader of the Centre Party",
+      "description": "Finnish party leader",
       "qualifiers": {
         "P580": "2010",
         "P582": "2012-05-09",
@@ -3274,6 +3402,7 @@
       "id": "Q738695",
       "label": "Prime Minister of Finland",
       "title": "Prime Minister of Finland",
+      "description": "position",
       "qualifiers": {
         "P580": "2010-06-22",
         "P582": "2011-06-22",
@@ -3286,6 +3415,7 @@
       "id": "Q11895142",
       "label": "Minister for European Affairs and Foreign Trade",
       "title": "Minister for European Affairs and Foreign Trade",
+      "description": "in Finland",
       "qualifiers": {
         "P580": "2005-09-02",
         "P582": "2006-03-03",
@@ -3325,6 +3455,7 @@
       "id": "Q17118521",
       "label": "Minister for International Development",
       "title": "Minister for International Development",
+      "description": "in Finland",
       "qualifiers": {
         "P580": "2013-10-17"
       }
@@ -3335,6 +3466,7 @@
       "id": "Q11895142",
       "label": "Minister for European Affairs and Foreign Trade",
       "title": "Minister for European Affairs and Foreign Trade",
+      "description": "in Finland",
       "qualifiers": {
         "P580": "2014-06-24"
       }
@@ -3345,6 +3477,7 @@
       "id": "Q10563305",
       "label": "Minister of Labour",
       "title": "Minister of Labour",
+      "description": "member of the government of Finland",
       "qualifiers": {
         "P580": "2000-02-25",
         "P582": "2007-04-19",
@@ -3366,6 +3499,7 @@
       "id": "Q24205201",
       "label": "Minister of Agriculture and Forestry",
       "title": "Minister of Agriculture and Forestry",
+      "description": "Finnish cabinet position",
       "qualifiers": {
         "P580": "2014-06-24",
         "P582": "2015-05-28",
@@ -3378,6 +3512,7 @@
       "id": "Q1445938",
       "label": "Minister of the Interior",
       "title": "Minister of the Interior",
+      "description": "Finnish Minister of the Interior",
       "qualifiers": {
         "P580": "2015-05-29",
         "P361": "Juha Sipilä's cabinet",
@@ -3388,6 +3523,7 @@
       "id": "Q22981837",
       "label": "Chairperson of the National Coalition Party",
       "title": "Chairperson of the National Coalition Party",
+      "description": "leader of Finnish political party",
       "qualifiers": {
         "P580": "2016-06-11",
         "P1365": "Alexander Stubb"
@@ -3449,14 +3585,16 @@
     {
       "id": "Q2367542",
       "label": "Minister of Finance",
-      "title": "Minister of Finance"
+      "title": "Minister of Finance",
+      "description": "cabinet minister of Finland"
     }
   ],
   "Q2983767": [
     {
       "id": "Q27169",
       "label": "member of the European Parliament",
-      "title": "member of the European Parliament"
+      "title": "member of the European Parliament",
+      "description": "person who has been elected to the European Parliament"
     },
     {
       "id": "Q17592486",
@@ -3482,7 +3620,8 @@
     {
       "id": "Q1294631",
       "label": "Minister of Justice",
-      "title": "Minister of Justice"
+      "title": "Minister of Justice",
+      "description": "Minister of Justice in Finland"
     }
   ],
   "Q4349194": [
@@ -3496,7 +3635,8 @@
     {
       "id": "Q27169",
       "label": "member of the European Parliament",
-      "title": "member of the European Parliament"
+      "title": "member of the European Parliament",
+      "description": "person who has been elected to the European Parliament"
     }
   ],
   "Q5413089": [
