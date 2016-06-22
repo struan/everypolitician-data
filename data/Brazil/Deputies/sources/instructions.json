@@ -5,7 +5,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/brasil-deputados-historic",
-        "query": "SELECT * FROM data d JOIN membership m ON d.id = m.id WHERE term = 55"
+        "query": "SELECT *, NULL as birth_date, NULL as death_date FROM data d JOIN membership m ON d.id = m.id WHERE term = 55"
       },
       "source": "http://www.camara.gov.br",
       "type": "membership"
