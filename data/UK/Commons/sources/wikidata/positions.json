@@ -2016,6 +2016,17 @@
       "description": "voters' representative in the House of Commons of the United Kingdom"
     }
   ],
+  "Q24053857": [
+    {
+      "id": "Q16707842",
+      "label": "Member of Parliament in the United Kingdom",
+      "title": "Member of Parliament in the United Kingdom",
+      "description": "voters' representative in the House of Commons of the United Kingdom",
+      "qualifiers": {
+        "P580": "2016-05-06"
+      }
+    }
+  ],
   "Q272643": [
     {
       "id": "Q16707842",
@@ -9228,6 +9239,18 @@
       "label": "Member of Parliament in the United Kingdom",
       "title": "Member of Parliament in the United Kingdom",
       "description": "voters' representative in the House of Commons of the United Kingdom"
+    }
+  ],
+  "Q24034408": [
+    {
+      "id": "Q16707842",
+      "label": "Member of Parliament in the United Kingdom",
+      "title": "Member of Parliament in the United Kingdom",
+      "description": "voters' representative in the House of Commons of the United Kingdom",
+      "qualifiers": {
+        "P580": "2016-05-06",
+        "P768": "Sheffield Brightside and Hillsborough"
+      }
     }
   ],
   "Q6303339": [
@@ -19039,6 +19062,20 @@
       "description": "voters' representative in the House of Commons of the United Kingdom"
     }
   ],
+  "Q4768656": [
+    {
+      "id": "Q16707842",
+      "label": "Member of Parliament in the United Kingdom",
+      "title": "Member of Parliament in the United Kingdom",
+      "description": "voters' representative in the House of Commons of the United Kingdom",
+      "qualifiers": {
+        "P580": "2001-06-08",
+        "P582": "2010-04-12",
+        "P1365": "John Home Robertson",
+        "P1366": "Fiona O'Donnell"
+      }
+    }
+  ],
   "Q6831647": [
     {
       "id": "Q16707842",
@@ -24732,20 +24769,6 @@
         "P580": "1997-05-02",
         "P582": "2010-04-12",
         "P1365": "Roland Boyes"
-      }
-    }
-  ],
-  "Q4768656": [
-    {
-      "id": "Q16707842",
-      "label": "Member of Parliament in the United Kingdom",
-      "title": "Member of Parliament in the United Kingdom",
-      "description": "voters' representative in the House of Commons of the United Kingdom",
-      "qualifiers": {
-        "P580": "2001-06-08",
-        "P582": "2010-04-12",
-        "P1365": "John Home Robertson",
-        "P1366": "Fiona O'Donnell"
       }
     }
   ]
