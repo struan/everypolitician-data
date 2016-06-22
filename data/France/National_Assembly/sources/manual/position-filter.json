@@ -46,6 +46,11 @@
         "name": "Minister of Health"
       },
       {
+        "id": "Q17553783",
+        "name": "Minister of Justice",
+        "description": "French cabinet position"
+      },
+      {
         "id": "Q16059954",
         "name": "Minister of National Education"
       },
@@ -66,6 +71,11 @@
         "name": "Ministry of Higher Education and Research"
       },
       {
+        "id": "Q191954",
+        "name": "President of the French Republic",
+        "description": "head of state of France"
+      },
+      {
         "id": "Q1587677",
         "name": "Prime Minister of France"
       },
@@ -79,9 +89,23 @@
       }
     ],
     "party": [
-
+      {
+        "id": "Q747123",
+        "name": "First Secretary of the French Socialist Party",
+        "description": "Wikimedia list article"
+      }
     ],
     "other": [
+      {
+        "id": "Q683337",
+        "name": "Co-Prince of Andorra",
+        "description": "head of state of Andorra"
+      },
+      {
+        "id": "Q17618208",
+        "name": "General Secretary of the Elysee Palace",
+        "description": "head of the office of the French President"
+      },
       {
         "id": "Q1433970",
         "name": "Keeper of the Seals of France"
@@ -99,6 +123,11 @@
         "name": "President of the General Council"
       },
       {
+        "id": "Q19822699",
+        "name": "mayor of Paris",
+        "description": null
+      },
+      {
         "id": "Q17741514",
         "name": "mayor of Rennes"
       }
@@ -106,24 +135,6 @@
   },
   "unknown": {
     "unknown": [
-      {
-        "id": "Q683337",
-        "name": "Co-Prince of Andorra",
-        "description": "head of state of Andorra",
-        "count": 1
-      },
-      {
-        "id": "Q747123",
-        "name": "First Secretary of the French Socialist Party",
-        "description": "Wikimedia list article",
-        "count": 1
-      },
-      {
-        "id": "Q17618208",
-        "name": "General Secretary of the Elysee Palace",
-        "description": "head of the office of the French President",
-        "count": 1
-      },
       {
         "id": "Q1398920",
         "name": "General council",
@@ -137,12 +148,6 @@
         "count": 1
       },
       {
-        "id": "Q17553783",
-        "name": "Minister of Justice",
-        "description": "French cabinet position",
-        "count": 1
-      },
-      {
         "id": "Q2602778",
         "name": "Ministry of Ecology, Sustainable Development and Energy",
         "description": null,
@@ -153,12 +158,6 @@
         "name": "Ministry of Justice",
         "description": "justice ministry in France",
         "count": 2
-      },
-      {
-        "id": "Q191954",
-        "name": "President of the French Republic",
-        "description": "head of state of France",
-        "count": 1
       },
       {
         "id": "Q23090514",
@@ -219,12 +218,6 @@
         "name": "mayor",
         "description": "head of municipal government such as a town or city",
         "count": 3
-      },
-      {
-        "id": "Q19822699",
-        "name": "mayor of Paris",
-        "description": null,
-        "count": 1
       },
       {
         "id": "Q3278452",
