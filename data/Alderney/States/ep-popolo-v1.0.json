@@ -510,6 +510,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "nan",
+          "name": "Bû-tóng-che̍k",
+          "note": "multilingual"
+        },
+        {
           "lang": "zh",
           "name": "無黨派",
           "note": "multilingual"
@@ -936,19 +941,19 @@
       "start_date": "2012"
     },
     {
-      "classification": "general election",
-      "end_date": "2014",
-      "id": "Q19587066",
-      "name": "Alderney general election, 2014",
-      "start_date": "2014"
-    },
-    {
       "classification": "legislative period",
       "end_date": "2015",
       "id": "term/2014",
       "name": "2014–2015",
       "organization_id": "legislature",
       "start_date": "2014"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2014-11-22",
+      "id": "Q19587066",
+      "name": "Alderney general election, 2014",
+      "start_date": "2014-11-22"
     }
   ],
   "areas": [
