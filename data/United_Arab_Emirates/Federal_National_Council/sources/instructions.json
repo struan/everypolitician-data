@@ -21,6 +21,14 @@
         "from": "gender-balance",
         "source": "United-Arab-Emirates/Federal-National-Council"
       }
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "create": {
+        "from": "election-wikidata",
+        "base": "Q24718538"
+      }
     }
   ]
 }
