@@ -79,6 +79,7 @@
       "id": "Q20748648",
       "label": "municipal councillor",
       "title": "municipal councillor (of Amsterdam-Zuid)",
+      "description": "member of a municipal council in the Netherlands",
       "qualifiers": {
         "P642": "Amsterdam-Zuid",
         "P580": "2007-05",
@@ -342,6 +343,7 @@
       "id": "Q3058109",
       "label": "Prime Minister of the Netherlands",
       "title": "Prime Minister of the Netherlands",
+      "description": "chairman of the Council of Ministers of the Netherlands",
       "qualifiers": {
         "P580": "2010-10-14",
         "P1365": "Jan Peter Balkenende"
@@ -407,7 +409,8 @@
     {
       "id": "Q20007045",
       "label": "Minister of Foreign Affairs",
-      "title": "Minister of Foreign Affairs"
+      "title": "Minister of Foreign Affairs",
+      "description": "Minister of Foreign Affairs of the Netherlands"
     },
     {
       "id": "Q2661677",
@@ -440,7 +443,8 @@
     {
       "id": "Q27169",
       "label": "member of the European Parliament",
-      "title": "member of the European Parliament"
+      "title": "member of the European Parliament",
+      "description": "person who has been elected to the European Parliament"
     },
     {
       "id": "Q18887908",
@@ -692,6 +696,7 @@
       "id": "Q1056190",
       "label": "Ministry of Health, Welfare and Sport",
       "title": "Ministry of Health, Welfare and Sport",
+      "description": "Dutch ministry",
       "qualifiers": {
         "P580": "2010-10-14"
       }
@@ -965,6 +970,7 @@
       "id": "Q27169",
       "label": "member of the European Parliament",
       "title": "member of the European Parliament",
+      "description": "person who has been elected to the European Parliament",
       "qualifiers": {
         "P580": "2004-07-20",
         "P582": "2010-06-17"
@@ -1050,7 +1056,8 @@
     {
       "id": "Q27169",
       "label": "member of the European Parliament",
-      "title": "member of the European Parliament"
+      "title": "member of the European Parliament",
+      "description": "person who has been elected to the European Parliament"
     },
     {
       "id": "Q18887908",
@@ -1233,7 +1240,8 @@
     {
       "id": "Q27169",
       "label": "member of the European Parliament",
-      "title": "member of the European Parliament"
+      "title": "member of the European Parliament",
+      "description": "person who has been elected to the European Parliament"
     },
     {
       "id": "Q18887908",
@@ -1472,6 +1480,7 @@
       "id": "Q928764",
       "label": "parliamentary group leader",
       "title": "parliamentary group leader (of Socialist Party)",
+      "description": "holds an influential political post in a parliamentary system with strong party discipline",
       "qualifiers": {
         "P642": "Socialist Party",
         "P580": "2010-03-05"
@@ -1587,6 +1596,7 @@
       "id": "Q15729702",
       "label": "minister of the Interior and Kingdom Relations",
       "title": "minister of the Interior and Kingdom Relations",
+      "description": "Dutch minister",
       "qualifiers": {
         "P580": "2012-11-05",
         "P1365": "Liesbeth Spies",
