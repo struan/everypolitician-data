@@ -28,10 +28,24 @@
       {
         "id": "Q866680",
         "name": "President of Vietnam"
+      },
+      {
+        "id": "Q1043568",
+        "name": "Prime Minister of Vietnam",
+        "description": "Head of Government of Vietnam"
+      },
+      {
+        "id": "Q5354130",
+        "name": "Vice President of Vietnam",
+        "description": null
       }
     ],
     "party": [
-
+      {
+        "id": "Q23644849",
+        "name": "Executive Secretary of the Secretariat",
+        "description": "Secretariat of the Communist Party of Vietnam"
+      }
     ],
     "other": [
 
@@ -39,21 +53,7 @@
   },
   "unknown": {
     "unknown": [
-      {
-        "id": "Q23644849",
-        "name": "Executive Secretary of the Secretariat",
-        "count": 1
-      },
-      {
-        "id": "Q3370169",
-        "name": "List of Prime Ministers of Vietnam",
-        "count": 1
-      },
-      {
-        "id": "Q5354130",
-        "name": "Vice President of Vietnam",
-        "count": 1
-      }
+
     ]
   }
 }
