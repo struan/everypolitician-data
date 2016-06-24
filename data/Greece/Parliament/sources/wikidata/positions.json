@@ -1646,9 +1646,43 @@
   ],
   "Q7129826": [
     {
-      "id": "Q24306421",
-      "label": "Q24306421",
-      "title": "Q24306421"
+      "id": "Q4657217",
+      "label": "municipal executive",
+      "title": "municipal executive",
+      "qualifiers": {
+        "P580": "1980",
+        "P582": "1986",
+        "P768": "Chaidari"
+      }
+    },
+    {
+      "id": "Q18915989",
+      "label": "Member of the Hellenic Parliament",
+      "title": "Member of the Hellenic Parliament",
+      "qualifiers": {
+        "P580": "1989",
+        "P582": "1993",
+        "P768": "Athens B"
+      }
+    },
+    {
+      "id": "Q4657217",
+      "label": "municipal executive",
+      "title": "municipal executive",
+      "qualifiers": {
+        "P580": "1990",
+        "P768": "Peristeri"
+      }
+    },
+    {
+      "id": "Q18915989",
+      "label": "Member of the Hellenic Parliament",
+      "title": "Member of the Hellenic Parliament",
+      "qualifiers": {
+        "P580": "2000",
+        "P582": "2007",
+        "P768": "Q24306421"
+      }
     }
   ],
   "Q23759516": [
@@ -2492,7 +2526,8 @@
       "title": "Member of the Hellenic Parliament",
       "qualifiers": {
         "P580": "1996",
-        "P582": "2009"
+        "P582": "2009",
+        "P768": "Athens B"
       }
     },
     {
@@ -2502,7 +2537,9 @@
       "description": "former Greek cabinet position",
       "qualifiers": {
         "P580": "2004-03-10",
-        "P582": "2007-01-08"
+        "P582": "2007-01-08",
+        "P1365": "Nikos Christodoulakis",
+        "P1366": "Yannis Papathanasiou"
       }
     }
   ],
