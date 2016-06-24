@@ -51,8 +51,11 @@ var vote = function vote($choice){
 var getDuplicateIDs = function(typeOfID) {
   var voteColumn = {'ID': 0, 'UUID': 1}[typeOfID],
   votes = allVotes(),
+  // Filter out any votes that were skipped, which is those where the
+  // second element of the array representing the vote is null.
+  votesNotSkipped = _.filter(votes, function (v) { return v[1] !== null });
   duplicated = _.omit(
-    _.groupBy(votes, function(e) { return e[voteColumn] }),
+    _.groupBy(votesNotSkipped, function(e) { return e[voteColumn] }),
     function(v, k, o) { return v.length <= 1 }
   );
   return _.object(
