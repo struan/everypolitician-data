@@ -410,45 +410,46 @@
     {
       "id": "Q6865935",
       "label": "Minister for National Defence of Greece",
-      "title": "Minister for National Defence of Greece",
+      "title": "Minister for National Defence of Greece (of Third Cabinet of Andreas Papandreou)",
       "description": "Greek government minister",
       "qualifiers": {
         "P580": "1993-10-13",
-        "P582": "1996-09-25"
+        "P582": "1996-09-25",
+        "P1365": "Ioannis Varvitsiotis",
+        "P1366": "Akis Tsochatzopoulos",
+        "P642": "Third Cabinet of Andreas Papandreou"
       }
     },
     {
       "id": "Q19752714",
       "label": "Finance minister of Greece",
-      "title": "Finance minister of Greece",
+      "title": "Finance minister of Greece (of First Cabinet of Andreas Papandreou)",
       "description": "Greek government minister",
       "qualifiers": {
         "P580": "1984-03-27",
-        "P582": "1985-07-26"
+        "P582": "1985-07-26",
+        "P1365": "Q15618317",
+        "P1366": "Dimitris Tsovolas",
+        "P642": "First Cabinet of Andreas Papandreou"
       }
     },
     {
       "id": "Q19858443",
       "label": "Minister of National Education and Religious Affairs of Greece",
-      "title": "Minister of National Education and Religious Affairs of Greece",
-      "description": "Greek minister in charge of \"National Education and Religious Affairs\" between 1955 and 2009"
+      "title": "Minister of National Education and Religious Affairs of Greece (of Second Cabinet of Costas Simitis)",
+      "description": "Greek minister in charge of \"National Education and Religious Affairs\" between 1955 and 2009",
+      "qualifiers": {
+        "P580": "1996-09-25",
+        "P582": "2000-04-13",
+        "P1365": "George Papandreou",
+        "P1366": "Petros Efthymiou",
+        "P642": "Second Cabinet of Costas Simitis"
+      }
     },
     {
       "id": "Q19858626",
       "label": "Minister of Commercial Marine of Greece",
       "title": "Minister of Commercial Marine of Greece",
-      "description": "Greek government minister"
-    },
-    {
-      "id": "Q19904305",
-      "label": "MInister of the National Economy of Greece",
-      "title": "MInister of the National Economy of Greece",
-      "description": "Greek government minister"
-    },
-    {
-      "id": "Q23901442",
-      "label": "Minister of Education of Greece",
-      "title": "Minister of Education of Greece",
       "description": "Greek government minister"
     }
   ],
@@ -949,37 +950,84 @@
     {
       "id": "Q16147098",
       "label": "Minister for Foreign Affairs of Greece",
-      "title": "Minister for Foreign Affairs of Greece",
+      "title": "Minister for Foreign Affairs of Greece (of First Cabinet of Kostas Karamanlis)",
       "description": "Greek government minister",
       "qualifiers": {
         "P580": "2006-02-15",
         "P582": "2009-10-07",
         "P1365": "Petros Molyviatis",
-        "P1366": "George Papandreou"
+        "P1366": "George Papandreou",
+        "P642": "First Cabinet of Kostas Karamanlis"
       }
     },
     {
       "id": "Q19904334",
       "label": "Minister of Culture of Greece",
-      "title": "Minister of Culture of Greece",
-      "description": "Greek government minister"
+      "title": "Minister of Culture of Greece (of Cabinet of Konstantinos Mitsotakis)",
+      "description": "Greek government minister",
+      "qualifiers": {
+        "P580": "1992-12-07",
+        "P582": "1993-10-13",
+        "P1365": "Anna Benaki-Psarouda",
+        "P1366": "Melina Mercouri",
+        "P642": "Cabinet of Konstantinos Mitsotakis"
+      }
     },
     {
-      "id": "Q20639919",
-      "label": "Mayor of Athens",
-      "title": "Mayor of Athens",
-      "description": "Mayor of the Greek capital Athens"
+      "id": "Q30185",
+      "label": "mayor",
+      "title": "mayor",
+      "description": "head of municipal government such as a town or city",
+      "qualifiers": {
+        "P580": "2003-01-01",
+        "P582": "2006-02-14",
+        "P1365": "Dimitris Avramopoulos",
+        "P1366": "Q12877943",
+        "P768": "Athens Municipality"
+      }
     },
     {
       "id": "Q23652105",
       "label": "Q23652105",
-      "title": "Q23652105",
-      "description": "undersecretary to a ministry of the Greek government"
+      "title": "Q23652105 (of Cabinet of Konstantinos Mitsotakis)",
+      "description": "undersecretary to a ministry of the Greek government",
+      "qualifiers": {
+        "P580": "1990-10-01",
+        "P582": "1991-08-08",
+        "P642": "Cabinet of Konstantinos Mitsotakis"
+      }
     },
     {
-      "id": "Q24306409",
-      "label": "Q24306409",
-      "title": "Q24306409"
+      "id": "Q18915989",
+      "label": "Member of the Hellenic Parliament",
+      "title": "Member of the Hellenic Parliament (of New Democracy)",
+      "qualifiers": {
+        "P580": "1989",
+        "P582": "1996",
+        "P768": "Q24306409",
+        "P642": "New Democracy"
+      }
+    },
+    {
+      "id": "Q18915989",
+      "label": "Member of the Hellenic Parliament",
+      "title": "Member of the Hellenic Parliament (of New Democracy)",
+      "qualifiers": {
+        "P580": "1996",
+        "P582": "2002",
+        "P768": "Athens A",
+        "P642": "New Democracy"
+      }
+    },
+    {
+      "id": "Q18915989",
+      "label": "Member of the Hellenic Parliament",
+      "title": "Member of the Hellenic Parliament (of New Democracy)",
+      "qualifiers": {
+        "P580": "2007",
+        "P768": "Athens A",
+        "P642": "New Democracy"
+      }
     }
   ],
   "Q3247472": [
@@ -2304,13 +2352,46 @@
     {
       "id": "Q20128305",
       "label": "Minister of Agricultural Development and Food of Greece",
-      "title": "Minister of Agricultural Development and Food of Greece",
-      "description": "Greek government minister"
+      "title": "Minister of Agricultural Development and Food of Greece (of First Cabinet of Kostas Karamanlis)",
+      "description": "Greek government minister",
+      "qualifiers": {
+        "P580": "2004-09-23",
+        "P582": "2007-09-19",
+        "P1365": "Savvas Tsitouridis",
+        "P642": "First Cabinet of Kostas Karamanlis"
+      }
     },
     {
-      "id": "Q24306245",
-      "label": "Q24306245",
-      "title": "Q24306245"
+      "id": "Q21486119",
+      "label": "Q21486119",
+      "title": "Q21486119 (of First Cabinet of Kostas Karamanlis)",
+      "description": "undersecretary to a ministry of the Greek government",
+      "qualifiers": {
+        "P580": "2004-03-09",
+        "P582": "2004-09-23",
+        "P642": "First Cabinet of Kostas Karamanlis"
+      }
+    },
+    {
+      "id": "Q23639838",
+      "label": "Q23639838",
+      "title": "Q23639838 (of Cabinet of Konstantinos Mitsotakis)",
+      "description": "undersecretary to a ministry of the Greek government",
+      "qualifiers": {
+        "P580": "1992-12-03",
+        "P582": "1993-10-13",
+        "P642": "Cabinet of Konstantinos Mitsotakis"
+      }
+    },
+    {
+      "id": "Q18915989",
+      "label": "Member of the Hellenic Parliament",
+      "title": "Member of the Hellenic Parliament (of New Democracy)",
+      "qualifiers": {
+        "P580": "1989-06-18",
+        "P768": "Q24306245",
+        "P642": "New Democracy"
+      }
     }
   ],
   "Q12299725": [
@@ -2661,13 +2742,26 @@
     {
       "id": "Q18915989",
       "label": "Member of the Hellenic Parliament",
-      "title": "Member of the Hellenic Parliament"
+      "title": "Member of the Hellenic Parliament (of Panhellenic Socialist Movement)",
+      "qualifiers": {
+        "P580": "2000",
+        "P582": "2011",
+        "P768": "Athens B",
+        "P642": "Panhellenic Socialist Movement"
+      }
     },
     {
       "id": "Q21486119",
       "label": "Q21486119",
-      "title": "Q21486119",
-      "description": "undersecretary to a ministry of the Greek government"
+      "title": "Q21486119 (of Cabinet of George Papandreou)",
+      "description": "undersecretary to a ministry of the Greek government",
+      "qualifiers": {
+        "P580": "2010-09-07",
+        "P582": "2011-06-17",
+        "P1365": "Michalis Karchimakis",
+        "P1366": "Q16168279",
+        "P642": "Cabinet of George Papandreou"
+      }
     }
   ],
   "Q437648": [
