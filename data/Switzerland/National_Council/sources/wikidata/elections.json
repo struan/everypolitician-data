@@ -66,7 +66,8 @@
     "dates": [
       "2011-10-23"
     ],
-    "follows": "Swiss federal election, 2007"
+    "follows": "Swiss federal election, 2007",
+    "followed_by": "Swiss federal election, 2015"
   },
   "Q666315": {
     "identifiers": [
@@ -180,6 +181,7 @@
     "dates": [
       "2007"
     ],
+    "follows": "Swiss federal election, 2003",
     "followed_by": "Swiss federal election, 2011"
   },
   "Q690782": {
@@ -375,7 +377,9 @@
     ],
     "dates": [
       "1919-10-26"
-    ]
+    ],
+    "follows": "Swiss federal election, 1917",
+    "followed_by": "Swiss federal election, 1922"
   },
   "Q3586905": {
     "identifiers": [
@@ -431,7 +435,9 @@
     ],
     "dates": [
       "1922"
-    ]
+    ],
+    "follows": "Swiss federal election, 1919",
+    "followed_by": "Swiss federal election, 1925"
   },
   "Q3586907": {
     "identifiers": [
@@ -967,7 +973,8 @@
     ],
     "dates": [
       "2015-10-18"
-    ]
+    ],
+    "follows": "Swiss federal election, 2011"
   },
   "Q17326124": {
     "identifiers": [
@@ -991,11 +998,17 @@
         "lang": "en",
         "name": "Swiss federal election 1848",
         "note": "multilingual"
+      },
+      {
+        "lang": "it",
+        "name": "Elezioni federali in Svizzera del 1848",
+        "note": "multilingual"
       }
     ],
     "dates": [
       "1848"
-    ]
+    ],
+    "followed_by": "Swiss federal election 1851"
   },
   "Q17381804": {
     "identifiers": [
@@ -1023,7 +1036,9 @@
     ],
     "dates": [
       "1863"
-    ]
+    ],
+    "follows": "Swiss federal election 1860",
+    "followed_by": "Swiss federal election"
   },
   "Q17382225": {
     "identifiers": [
@@ -1051,7 +1066,9 @@
     ],
     "dates": [
       "1860"
-    ]
+    ],
+    "follows": "Swiss federal election",
+    "followed_by": "Swiss federal election 1863"
   },
   "Q17493607": {
     "identifiers": [
@@ -1079,7 +1096,9 @@
     ],
     "dates": [
       "1887"
-    ]
+    ],
+    "follows": "Swiss federal election",
+    "followed_by": "Swiss federal election"
   },
   "Q17561240": {
     "identifiers": [
@@ -1107,7 +1126,9 @@
     ],
     "dates": [
       "1905"
-    ]
+    ],
+    "follows": "Swiss federal election, 1902",
+    "followed_by": "Swiss federal election, 1908"
   },
   "Q17591875": {
     "identifiers": [
@@ -1135,7 +1156,9 @@
     ],
     "dates": [
       "1851"
-    ]
+    ],
+    "follows": "Swiss federal election 1848",
+    "followed_by": "Swiss federal election 1854"
   },
   "Q17591877": {
     "identifiers": [
@@ -1168,7 +1191,9 @@
     ],
     "dates": [
       "1854"
-    ]
+    ],
+    "follows": "Swiss federal election 1851",
+    "followed_by": "Swiss federal election"
   },
   "Q17591894": {
     "identifiers": [
@@ -1196,7 +1221,9 @@
     ],
     "dates": [
       "1902"
-    ]
+    ],
+    "follows": "Swiss federal election",
+    "followed_by": "Swiss federal election 1905"
   },
   "Q17591898": {
     "identifiers": [
@@ -1224,7 +1251,9 @@
     ],
     "dates": [
       "1908"
-    ]
+    ],
+    "follows": "Swiss federal election 1905",
+    "followed_by": "Swiss federal election, 1911"
   },
   "Q17591900": {
     "identifiers": [
@@ -1252,7 +1281,9 @@
     ],
     "dates": [
       "1911"
-    ]
+    ],
+    "follows": "Swiss federal election, 1908",
+    "followed_by": "Swiss federal election, 1914"
   },
   "Q18027758": {
     "identifiers": [
@@ -1280,7 +1311,9 @@
     ],
     "dates": [
       "1914"
-    ]
+    ],
+    "follows": "Swiss federal election, 1911",
+    "followed_by": "Swiss federal election, 1917"
   },
   "Q18027760": {
     "identifiers": [
@@ -1308,6 +1341,8 @@
     ],
     "dates": [
       "1917"
-    ]
+    ],
+    "follows": "Swiss federal election, 1914",
+    "followed_by": "Swiss federal election, 1919"
   }
 }
