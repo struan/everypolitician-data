@@ -3249,6 +3249,7 @@
         }
       ],
       "email": "Hannah.Blythyn@assembly.wales",
+      "gender": "female",
       "id": "08254a5f-fd4a-4aa9-b404-5df06c854c71",
       "identifiers": [
         {
@@ -7067,6 +7068,7 @@
         }
       ],
       "email": "Neil.McEvoy@assembly.wales",
+      "gender": "male",
       "given_name": "Neil",
       "id": "6ea66d0e-77e6-42b0-9e22-f71d00ea9f44",
       "identifiers": [
@@ -9249,6 +9251,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "hu",
+          "name": "Brit Függetlenségi Párt",
+          "note": "multilingual"
+        },
+        {
           "lang": "en-gb",
           "name": "UKIP",
           "note": "multilingual"
@@ -9286,6 +9293,11 @@
         {
           "lang": "cs",
           "name": "Strana nezávislosti Spojeného království",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "UKIP",
           "note": "multilingual"
         }
       ]
