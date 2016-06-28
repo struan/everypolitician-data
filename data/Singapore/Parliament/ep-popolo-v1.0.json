@@ -6792,21 +6792,6 @@
       ]
     },
     {
-      "id": "73919311-ddd6-4e94-9985-67a92efa9f06",
-      "image": "http://www.parliament.gov.sg/sites/default/files/Intan%20Azura%20Mokhtar_web.jpg",
-      "images": [
-        {
-          "url": "http://www.parliament.gov.sg/sites/default/files/Intan%20Azura%20Mokhtar_web.jpg"
-        }
-      ],
-      "name": "Intan Azura Mokhtar",
-      "sources": [
-        {
-          "url": "http://www.parliament.gov.sg/history/12th-parliament"
-        }
-      ]
-    },
-    {
       "birth_date": "1963-12-24",
       "gender": "female",
       "given_name": "Irene",
@@ -7489,14 +7474,52 @@
       ]
     },
     {
+      "gender": "male",
       "id": "b5e012a9-9035-40e6-bda3-ec451340c447",
+      "identifiers": [
+        {
+          "identifier": "Q24006711",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.gov.sg/sites/default/files/K%20Muralidharan%20Pillai_0.jpg",
       "images": [
         {
           "url": "http://www.parliament.gov.sg/sites/default/files/K%20Muralidharan%20Pillai_0.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Murali_Pillai"
+        },
+        {
+          "note": "Wikipedia (id)",
+          "url": "https://id.wikipedia.org/wiki/Murali_Pillai"
+        }
+      ],
       "name": "K Muralidharan Pillai",
+      "other_names": [
+        {
+          "name": "Murali Pillai",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Murali Pillai",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Murali Pillai",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "穆仁理",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.parliament.gov.sg/history/13th-parliament"
@@ -13112,21 +13135,6 @@
       "sources": [
         {
           "url": "http://www.parliament.gov.sg/history/11th-parliament"
-        }
-      ]
-    },
-    {
-      "id": "10cc922c-85de-4a82-890b-24a7e610639c",
-      "image": "http://www.parliament.gov.sg/sites/default/files/Murali%20Pillai_Thumb.jpg",
-      "images": [
-        {
-          "url": "http://www.parliament.gov.sg/sites/default/files/Murali%20Pillai_Thumb.jpg"
-        }
-      ],
-      "name": "Murali Pillai",
-      "sources": [
-        {
-          "url": "http://www.parliament.gov.sg/history/13th-parliament"
         }
       ]
     },
@@ -19672,21 +19680,6 @@
       ]
     },
     {
-      "id": "d9f220a3-481f-400d-994d-9cec1e053c91",
-      "image": "http://www.parliament.gov.sg/sites/default/files/zainul.jpg",
-      "images": [
-        {
-          "url": "http://www.parliament.gov.sg/sites/default/files/zainul.jpg"
-        }
-      ],
-      "name": "Zainal Sapari",
-      "sources": [
-        {
-          "url": "http://www.parliament.gov.sg/history/12th-parliament"
-        }
-      ]
-    },
-    {
       "birth_date": "1963-07-03",
       "gender": "male",
       "id": "674cdf5e-095d-40f1-8aee-ad0cd7b86437",
@@ -21181,13 +21174,6 @@
       "on_behalf_of_id": "party/people’s_action_party",
       "organization_id": "legislature",
       "person_id": "10bfde8a-a624-45fe-b75d-bb74a224e349",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/people’s_action_party",
-      "organization_id": "legislature",
-      "person_id": "10cc922c-85de-4a82-890b-24a7e610639c",
       "role": "member"
     },
     {
@@ -24009,20 +23995,6 @@
       "on_behalf_of_id": "party/nominated_member_of_parliament",
       "organization_id": "legislature",
       "person_id": "738eca98-1db5-4845-b106-3077feb884c4",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/12",
-      "on_behalf_of_id": "party/people’s_action_party",
-      "organization_id": "legislature",
-      "person_id": "73919311-ddd6-4e94-9985-67a92efa9f06",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/people’s_action_party",
-      "organization_id": "legislature",
-      "person_id": "73919311-ddd6-4e94-9985-67a92efa9f06",
       "role": "member"
     },
     {
@@ -27334,20 +27306,6 @@
       "on_behalf_of_id": "party/people’s_action_party",
       "organization_id": "legislature",
       "person_id": "d9bed5ad-d299-4640-a3c4-095429273891",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/12",
-      "on_behalf_of_id": "party/people’s_action_party",
-      "organization_id": "legislature",
-      "person_id": "d9f220a3-481f-400d-994d-9cec1e053c91",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/people’s_action_party",
-      "organization_id": "legislature",
-      "person_id": "d9f220a3-481f-400d-994d-9cec1e053c91",
       "role": "member"
     },
     {
