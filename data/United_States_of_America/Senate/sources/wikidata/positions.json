@@ -219,7 +219,13 @@
       "id": "Q13217683",
       "label": "United States Senator",
       "title": "United States Senator",
-      "description": "member of the United States Senate"
+      "description": "member of the United States Senate",
+      "qualifiers": {
+        "P582": "2012-12-17",
+        "P580": "1963-01-03",
+        "P1365": "Oren E. Long",
+        "P1366": "Brian Schatz"
+      }
     },
     {
       "id": "Q13218630",
@@ -1002,7 +1008,6 @@
       "id": "Q6627401",
       "label": "Mayor of Albuquerque",
       "title": "Mayor of Albuquerque",
-      "description": "Wikimedia list article",
       "qualifiers": {
         "P580": "1967-10",
         "P582": "1970-03"
