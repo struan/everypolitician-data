@@ -9217,6 +9217,22 @@
       ]
     },
     {
+      "birth_date": "1959-05-25",
+      "id": "8789de19-8f3f-47f8-84d6-f5988373965c",
+      "image": "http://www.sabor.hr/lgs.axd?t=16&id=46271",
+      "images": [
+        {
+          "url": "http://www.sabor.hr/lgs.axd?t=16&id=46271"
+        }
+      ],
+      "name": "Tomislav Karamarko",
+      "sources": [
+        {
+          "url": "http://www.sabor.hr/lgs.axd?t=24&id=6306"
+        }
+      ]
+    },
+    {
       "birth_date": "1964-03-31",
       "gender": "male",
       "id": "fb0b4bb4-e473-4e4e-bba9-637a677b215d",
@@ -10439,6 +10455,10 @@
         {
           "identifier": "4828",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "305582749",
+          "scheme": "viaf"
         },
         {
           "identifier": "Q23908896",
@@ -16242,6 +16262,14 @@
       "on_behalf_of_id": "party/sdp",
       "organization_id": "legislature",
       "person_id": "85ea0d2b-75b5-48b8-b227-ec6a250eb44c",
+      "role": "member"
+    },
+    {
+      "area_id": "area/9th",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/unknown",
+      "organization_id": "legislature",
+      "person_id": "8789de19-8f3f-47f8-84d6-f5988373965c",
       "role": "member"
     },
     {
