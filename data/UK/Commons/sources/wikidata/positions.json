@@ -11331,7 +11331,11 @@
       "id": "Q16707842",
       "label": "Member of Parliament in the United Kingdom",
       "title": "Member of Parliament in the United Kingdom",
-      "description": "voters' representative in the House of Commons of the United Kingdom"
+      "description": "voters' representative in the House of Commons of the United Kingdom",
+      "qualifiers": {
+        "P580": "2010-05-06",
+        "P768": "South Northamptonshire"
+      }
     },
     {
       "id": "Q5333410",
@@ -11339,7 +11343,16 @@
       "title": "Economic Secretary to the Treasury",
       "qualifiers": {
         "P580": "2014-04-09",
-        "P1365": "Nicky Morgan"
+        "P1365": "Nicky Morgan",
+        "P582": "2015-05-11"
+      }
+    },
+    {
+      "id": "Q25196293",
+      "label": "Minister of State for Energy",
+      "title": "Minister of State for Energy",
+      "qualifiers": {
+        "P580": "2015-05-11"
       }
     }
   ],
@@ -14406,7 +14419,8 @@
       "title": "Member of Parliament in the United Kingdom",
       "description": "voters' representative in the House of Commons of the United Kingdom",
       "qualifiers": {
-        "P580": "2005-05-05"
+        "P580": "2005-05-05",
+        "P768": "Surrey Heath"
       }
     },
     {
@@ -14424,6 +14438,15 @@
       "qualifiers": {
         "P580": "2007-07-02",
         "P582": "2010-05-11"
+      }
+    },
+    {
+      "id": "Q3477307",
+      "label": "Secretary of State for Justice",
+      "title": "Secretary of State for Justice",
+      "description": "United Kingdom government cabinet minister",
+      "qualifiers": {
+        "P580": "2015-05-08"
       }
     }
   ],
@@ -17580,7 +17603,31 @@
       "id": "Q16707842",
       "label": "Member of Parliament in the United Kingdom",
       "title": "Member of Parliament in the United Kingdom",
-      "description": "voters' representative in the House of Commons of the United Kingdom"
+      "description": "voters' representative in the House of Commons of the United Kingdom",
+      "qualifiers": {
+        "P580": "2005-05-05",
+        "P768": "Preseli Pembrokeshire",
+        "P2715": "United Kingdom general election, 2005"
+      }
+    },
+    {
+      "id": "Q7444357",
+      "label": "Secretary of State for Work and Pensions",
+      "title": "Secretary of State for Work and Pensions",
+      "description": "United Kingdom government cabinet minister",
+      "qualifiers": {
+        "P580": "2016-03-19"
+      }
+    },
+    {
+      "id": "Q1846384",
+      "label": "Secretary of State for Wales",
+      "title": "Secretary of State for Wales",
+      "description": "United Kingdom government cabinet minister",
+      "qualifiers": {
+        "P580": "2014-07-15",
+        "P582": "2016-03-19"
+      }
     }
   ],
   "Q5553039": [
@@ -21392,7 +21439,9 @@
       "title": "Member of Parliament in the United Kingdom",
       "description": "voters' representative in the House of Commons of the United Kingdom",
       "qualifiers": {
-        "P580": "1992-04-09"
+        "P580": "1992-04-09",
+        "P768": "Woodspring",
+        "P2715": "United Kingdom general election, 1992"
       }
     },
     {
@@ -23228,7 +23277,13 @@
       "id": "Q7444357",
       "label": "Secretary of State for Work and Pensions",
       "title": "Secretary of State for Work and Pensions",
-      "description": "United Kingdom government cabinet minister"
+      "description": "United Kingdom government cabinet minister",
+      "qualifiers": {
+        "P1365": "Chris Grayling",
+        "P580": "2009-01-19",
+        "P582": "2010-05-11",
+        "P1366": "Yvette Cooper"
+      }
     },
     {
       "id": "Q7460544",
@@ -23278,7 +23333,12 @@
       "id": "Q16707842",
       "label": "Member of Parliament in the United Kingdom",
       "title": "Member of Parliament in the United Kingdom",
-      "description": "voters' representative in the House of Commons of the United Kingdom"
+      "description": "voters' representative in the House of Commons of the United Kingdom",
+      "qualifiers": {
+        "P580": "1997-05-01",
+        "P768": "Maidenhead",
+        "P2715": "United Kingdom general election, 1997"
+      }
     },
     {
       "id": "Q16321336",
