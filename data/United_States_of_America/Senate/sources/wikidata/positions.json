@@ -319,13 +319,25 @@
     {
       "id": "Q13217683",
       "label": "United States Senator",
-      "title": "United States Senator",
-      "description": "member of the United States Senate"
+      "title": "United States Senator (of Ohio)",
+      "description": "member of the United States Senate",
+      "qualifiers": {
+        "P580": "1999-01-03",
+        "P582": "2011-01-03",
+        "P1365": "John Glenn",
+        "P1366": "Rob Portman",
+        "P642": "Ohio"
+      }
     },
     {
       "id": "Q17502533",
       "label": "member of the Ohio House of Representatives",
-      "title": "member of the Ohio House of Representatives"
+      "title": "member of the Ohio House of Representatives",
+      "qualifiers": {
+        "P580": "1967-01-03",
+        "P582": "1971-12-15",
+        "P1366": "Edward Ryder"
+      }
     },
     {
       "id": "Q1660669",
@@ -340,7 +352,14 @@
       "id": "Q20644070",
       "label": "Governor of Ohio",
       "title": "Governor of Ohio",
-      "description": "the governor of Ohio"
+      "description": "the governor of Ohio",
+      "qualifiers": {
+        "P580": "1991-01-14",
+        "P582": "1998-12-31",
+        "P1545": "65",
+        "P1365": "Dick Celeste",
+        "P1366": "Nancy Hollister"
+      }
     }
   ],
   "Q1895804": [
