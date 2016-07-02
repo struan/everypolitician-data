@@ -21031,6 +21031,30 @@
       "description": "voters' representative in the House of Commons of the United Kingdom"
     }
   ],
+  "Q24668273": [
+    {
+      "id": "Q486839",
+      "label": "member of parliament",
+      "title": "member of parliament",
+      "description": "representative of the voters to a parliament",
+      "qualifiers": {
+        "P768": "Tooting",
+        "P580": "2016-06-17",
+        "P155": "Sadiq Khan",
+        "P2715": "Tooting by-election, 2016"
+      }
+    },
+    {
+      "id": "Q708492",
+      "label": "councillor",
+      "title": "councillor",
+      "description": "representative of voters to a local government",
+      "qualifiers": {
+        "P194": "Wandsworth London Borough Council",
+        "P582": "2016-06"
+      }
+    }
+  ],
   "Q264305": [
     {
       "id": "Q16707842",
