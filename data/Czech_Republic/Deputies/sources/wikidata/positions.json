@@ -3690,21 +3690,32 @@
   ],
   "Q11906955": [
     {
-      "id": "Q2529439",
-      "label": "Czech National Council",
-      "title": "Czech National Council",
-      "description": "former legislative body of the Czech Republic as a member state of Czech-Slovak federation"
+      "id": "Q25265211",
+      "label": "member of the Czech National Council",
+      "title": "member of the Czech National Council",
+      "qualifiers": {
+        "P580": "1990-02-06",
+        "P582": "1992-06-04"
+      }
     },
     {
       "id": "Q27169",
       "label": "member of the European Parliament",
       "title": "member of the European Parliament",
-      "description": "person who has been elected to the European Parliament"
+      "description": "person who has been elected to the European Parliament",
+      "qualifiers": {
+        "P580": "2004-05-01",
+        "P582": "2004-07-19"
+      }
     },
     {
       "id": "Q19803234",
       "label": "Member of the Chamber of Deputies of the Parliament of the Czech Republic",
-      "title": "Member of the Chamber of Deputies of the Parliament of the Czech Republic"
+      "title": "Member of the Chamber of Deputies of the Parliament of the Czech Republic",
+      "qualifiers": {
+        "P580": "1996-06-01",
+        "P582": "2006-06-15"
+      }
     }
   ],
   "Q15230178": [
