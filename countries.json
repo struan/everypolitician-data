@@ -854,19 +854,19 @@
         "slug": "House-of-Assembly",
         "sources_directory": "data/Bahamas/House_of_Assembly/sources",
         "popolo": "data/Bahamas/House_of_Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a66903a/data/Bahamas/House_of_Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/c0a9ee7/data/Bahamas/House_of_Assembly/ep-popolo-v1.0.json",
         "names": "data/Bahamas/House_of_Assembly/names.csv",
-        "lastmod": "1467474202",
+        "lastmod": "1467655459",
         "person_count": 38,
-        "sha": "a66903a",
+        "sha": "c0a9ee7",
         "legislative_periods": [
           {
             "id": "term/2012",
             "name": "2012–",
-            "start_date": "2012",
+            "start_date": "2012-05-08",
             "slug": "2012",
             "csv": "data/Bahamas/House_of_Assembly/term-2012.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a66903a/data/Bahamas/House_of_Assembly/term-2012.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/c0a9ee7/data/Bahamas/House_of_Assembly/term-2012.csv"
           }
         ],
         "statement_count": 1303
