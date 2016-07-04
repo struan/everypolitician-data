@@ -1,10 +1,52 @@
 {
+  "Q57843": [
+    {
+      "id": "Q2199011",
+      "label": "Minister of Internal Affairs",
+      "title": "Minister of Internal Affairs",
+      "description": "Serbian government official in charge of the Ministry of Internal Affairs",
+      "qualifiers": {
+        "P580": "2008-07-07"
+      }
+    },
+    {
+      "id": "Q835586",
+      "label": "Prime Minister of Serbia",
+      "title": "Prime Minister of Serbia",
+      "description": "position",
+      "qualifiers": {
+        "P1365": "Mirko Cvetković",
+        "P1366": "",
+        "P580": "2012-07-27"
+      }
+    },
+    {
+      "id": "Q16799332",
+      "label": "Deputy Prime Minister of Serbia",
+      "title": "Deputy Prime Minister of Serbia",
+      "qualifiers": {
+        "P580": "2008-07-07",
+        "P582": "2012-07-27"
+      }
+    }
+  ],
   "Q226696": [
     {
       "id": "Q6867695",
       "label": "Ministry of the Interior",
       "title": "Ministry of the Interior",
       "description": "Ministry in Yugoslavia"
+    }
+  ],
+  "Q1273025": [
+    {
+      "id": "Q16799332",
+      "label": "Deputy Prime Minister of Serbia",
+      "title": "Deputy Prime Minister of Serbia",
+      "qualifiers": {
+        "P580": "2001-01-25",
+        "P582": "2004-03-03"
+      }
     }
   ],
   "Q1254664": [
@@ -27,6 +69,37 @@
       "qualifiers": {
         "P580": "2013-09-03",
         "P582": "2013-10-25"
+      }
+    }
+  ],
+  "Q1265331": [
+    {
+      "id": "Q2199072",
+      "label": "Minister of Labour, Employment and Social Policy",
+      "title": "Minister of Labour, Employment and Social Policy",
+      "qualifiers": {
+        "P580": "2007-05-15",
+        "P582": "2012-07-27",
+        "P1365": "Slobodan Lalović",
+        "P1366": "Jovan Krkobabić"
+      }
+    },
+    {
+      "id": "Q16799332",
+      "label": "Deputy Prime Minister of Serbia",
+      "title": "Deputy Prime Minister of Serbia",
+      "qualifiers": {
+        "P580": "2012-07-27"
+      }
+    },
+    {
+      "id": "Q2198867",
+      "label": "Minister of Trade, Tourism and Telecommunications",
+      "title": "Minister of Trade, Tourism and Telecommunications",
+      "description": "Serbian government official",
+      "qualifiers": {
+        "P580": "2012-07-27",
+        "P1365": "Slobodan Milosavljević"
       }
     }
   ],
@@ -58,6 +131,50 @@
       }
     }
   ],
+  "Q222031": [
+    {
+      "id": "Q2198783",
+      "label": "Minister of Defense",
+      "title": "Minister of Defense",
+      "description": "government official in charge of the Ministry of Defense in Serbia",
+      "qualifiers": {
+        "P1365": "Dragan Šutanovac",
+        "P580": "2012-07-27",
+        "P582": "2013-09-02",
+        "P1366": "Nebojša Rodić"
+      }
+    },
+    {
+      "id": "Q17098318",
+      "label": "Minister of Information",
+      "title": "Minister of Information",
+      "qualifiers": {
+        "P580": "1998-03-24",
+        "P582": "2000-10-24",
+        "P1365": "Q12758100",
+        "P1366": "Ivica Dačić"
+      }
+    },
+    {
+      "id": "Q835586",
+      "label": "Prime Minister of Serbia",
+      "title": "Prime Minister of Serbia",
+      "description": "position",
+      "qualifiers": {
+        "P580": "2014-04-27",
+        "P1365": "Ivica Dačić"
+      }
+    },
+    {
+      "id": "Q16799332",
+      "label": "Deputy Prime Minister of Serbia",
+      "title": "Deputy Prime Minister of Serbia",
+      "qualifiers": {
+        "P580": "2012-07-27",
+        "P582": "2014-04-27"
+      }
+    }
+  ],
   "Q1192059": [
     {
       "id": "Q889830",
@@ -83,6 +200,25 @@
       }
     }
   ],
+  "Q891147": [
+    {
+      "id": "Q7241332",
+      "label": "President of the Government of Vojvodina",
+      "title": "President of the Government of Vojvodina"
+    }
+  ],
+  "Q16082744": [
+    {
+      "id": "Q2198845",
+      "label": "Minister of Energy and Mining",
+      "title": "Minister of Energy and Mining",
+      "description": "Serbian minister",
+      "qualifiers": {
+        "P580": "2014-04-27",
+        "P1365": "Zorana Mihajlović"
+      }
+    }
+  ],
   "Q1280390": [
     {
       "id": "Q1254987",
@@ -103,6 +239,17 @@
       "qualifiers": {
         "P580": "2014-04-23",
         "P1365": "Nebojša Stefanović"
+      }
+    }
+  ],
+  "Q338223": [
+    {
+      "id": "Q16799332",
+      "label": "Deputy Prime Minister of Serbia",
+      "title": "Deputy Prime Minister of Serbia",
+      "qualifiers": {
+        "P580": "2003-03-18",
+        "P582": "2004-03-03"
       }
     }
   ]
