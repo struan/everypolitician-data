@@ -3524,7 +3524,7 @@
       "classification": "legislative period",
       "end_date": "1981",
       "id": "term/1977",
-      "name": "1977 election",
+      "name": "1977–1981",
       "organization_id": "legislature",
       "start_date": "1977"
     },
@@ -3539,7 +3539,7 @@
       "classification": "legislative period",
       "end_date": "1985",
       "id": "term/1981",
-      "name": "1981 election",
+      "name": "1981–1985",
       "organization_id": "legislature",
       "start_date": "1981"
     },
@@ -3554,7 +3554,7 @@
       "classification": "legislative period",
       "end_date": "1989",
       "id": "term/1985",
-      "name": "1985 election",
+      "name": "1985–1989",
       "organization_id": "legislature",
       "start_date": "1985"
     },
@@ -3569,7 +3569,7 @@
       "classification": "legislative period",
       "end_date": "1993",
       "id": "term/1989",
-      "name": "1989 election",
+      "name": "1989–1993",
       "organization_id": "legislature",
       "start_date": "1989"
     },
@@ -3584,7 +3584,7 @@
       "classification": "legislative period",
       "end_date": "1997",
       "id": "term/1993",
-      "name": "1993 election",
+      "name": "1993–1997",
       "organization_id": "legislature",
       "start_date": "1993"
     },
@@ -3599,7 +3599,7 @@
       "classification": "legislative period",
       "end_date": "2001",
       "id": "term/1997",
-      "name": "1997 election",
+      "name": "1997–2001",
       "organization_id": "legislature",
       "start_date": "1997"
     },
@@ -3614,7 +3614,7 @@
       "classification": "legislative period",
       "end_date": "2005",
       "id": "term/2001",
-      "name": "2001 election",
+      "name": "2001–2005",
       "organization_id": "legislature",
       "start_date": "2001"
     },
@@ -3629,7 +3629,7 @@
       "classification": "legislative period",
       "end_date": "2009",
       "id": "term/2005",
-      "name": "2005 election",
+      "name": "2005–2009",
       "organization_id": "legislature",
       "start_date": "2005"
     },
@@ -3644,23 +3644,23 @@
       "classification": "legislative period",
       "end_date": "2013",
       "id": "term/2009",
-      "name": "2009 election",
+      "name": "2009–2013",
       "organization_id": "legislature",
       "start_date": "2009"
-    },
-    {
-      "classification": "legislative period",
-      "end_date": "2017",
-      "id": "term/2013",
-      "name": "2013 election",
-      "organization_id": "legislature",
-      "start_date": "2013"
     },
     {
       "classification": "general election",
       "end_date": "2013-11-07",
       "id": "Q5431967",
       "name": "Falkland Islands general election, 2013",
+      "start_date": "2013-11-07"
+    },
+    {
+      "classification": "legislative period",
+      "end_date": "2017",
+      "id": "term/2013",
+      "name": "2013–2017",
+      "organization_id": "legislature",
       "start_date": "2013-11-07"
     }
   ],
