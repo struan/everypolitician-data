@@ -40,12 +40,7 @@
       }
     },
     {
-      "file": "morph/terms.csv",
-      "create": {
-        "from": "morph",
-        "scraper": "dracos/falkland-islands",
-        "query": "SELECT *, ID as start_date, ID + 4 AS end_date FROM terms"
-      },
+      "file": "manual/terms.csv",
       "type": "term"
     },
     {
