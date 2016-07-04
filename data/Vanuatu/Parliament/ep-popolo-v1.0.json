@@ -2899,7 +2899,25 @@
     {
       "classification": "party",
       "id": "party/fmp",
-      "name": "FMP"
+      "identifiers": [
+        {
+          "identifier": "Q3366456",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "FMP",
+      "other_names": [
+        {
+          "lang": "fr",
+          "name": "Parti fren mélanésien",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Fren Melanesian Party",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
@@ -3934,7 +3952,20 @@
     {
       "classification": "party",
       "id": "party/psp",
-      "name": "PSP"
+      "identifiers": [
+        {
+          "identifier": "Q25056823",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "PSP",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "People's Services Party",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "legislature",
@@ -4112,7 +4143,20 @@
     {
       "classification": "party",
       "id": "party/vndp",
-      "name": "VNDP"
+      "identifiers": [
+        {
+          "identifier": "Q23023640",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "VNDP",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Vanuatu National Development Party",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
