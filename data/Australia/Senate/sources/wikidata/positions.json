@@ -1062,22 +1062,23 @@
   ],
   "Q6514788": [
     {
-      "id": "Q3244676",
-      "label": "New South Wales Legislative Council",
-      "title": "New South Wales Legislative Council",
-      "description": "Upper house of the Parliament of New South Wales"
+      "id": "Q18810377",
+      "label": "Member of the New South Wales Legislative Council",
+      "title": "Member of the New South Wales Legislative Council",
+      "description": "public office in New South Wales, Australia",
+      "qualifiers": {
+        "P580": "1999-03-27",
+        "P582": "2010-07-19"
+      }
     },
     {
       "id": "Q6814428",
       "label": "member of the Australian Senate",
       "title": "member of the Australian Senate",
-      "description": "Representative"
-    },
-    {
-      "id": "Q18810377",
-      "label": "Member of the New South Wales Legislative Council",
-      "title": "Member of the New South Wales Legislative Council",
-      "description": "public office in New South Wales, Australia"
+      "description": "Representative",
+      "qualifiers": {
+        "P580": "2011-07-01"
+      }
     }
   ],
   "Q5125267": [
