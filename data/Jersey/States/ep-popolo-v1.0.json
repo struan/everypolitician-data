@@ -1985,7 +1985,7 @@
         },
         {
           "lang": "ro",
-          "name": "Politician independent",
+          "name": "politician independent",
           "note": "multilingual"
         },
         {
@@ -2136,6 +2136,16 @@
         {
           "lang": "sd",
           "name": "آزاد",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Politicus nullius factionis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nan",
+          "name": "Bû-tóng-che̍k",
           "note": "multilingual"
         },
         {
@@ -2341,11 +2351,6 @@
         {
           "lang": "tr",
           "name": "Serbest siyasetçi",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ro",
-          "name": "Parteilos",
           "note": "multilingual"
         },
         {
@@ -2917,11 +2922,67 @@
   ],
   "events": [
     {
+      "classification": "general election",
+      "end_date": "1993",
+      "id": "Q6184998",
+      "name": "Jersey general election, 1993",
+      "start_date": "1993"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1996",
+      "id": "Q6185000",
+      "name": "Jersey general election, 1996",
+      "start_date": "1996"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1999",
+      "id": "Q6185002",
+      "name": "Jersey general election, 1999",
+      "start_date": "1999"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2002",
+      "id": "Q16851241",
+      "name": "Jersey general election, 2002",
+      "start_date": "2002"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2005",
+      "id": "Q6185006",
+      "name": "Jersey general election, 2005",
+      "start_date": "2005"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2008",
+      "id": "Q6185007",
+      "name": "Jersey general election, 2008",
+      "start_date": "2008"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2011",
+      "id": "Q6185010",
+      "name": "Jersey general election, 2011",
+      "start_date": "2011"
+    },
+    {
       "classification": "legislative period",
       "id": "term/6",
       "name": "Assembly 2011–",
       "organization_id": "legislature",
       "start_date": "2011"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2014-10-15",
+      "id": "Q18207499",
+      "name": "Jersey general election, 2014",
+      "start_date": "2014-10-15"
     }
   ],
   "areas": [
