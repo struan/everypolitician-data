@@ -207,9 +207,14 @@
   ],
   "Q6768190": [
     {
-      "id": "Q3112646",
-      "label": "Welsh Government",
-      "title": "Welsh Government"
+      "id": "Q25341917",
+      "label": "Shadow Minister for Social Justice, Equality and Housing",
+      "title": "Shadow Minister for Social Justice, Equality and Housing",
+      "description": "Welsh shadow government position",
+      "qualifiers": {
+        "P580": "2007-07-11",
+        "P1365": ""
+      }
     },
     {
       "id": "Q3406079",
@@ -699,12 +704,12 @@
   ],
   "Q691388": [
     {
-      "id": "Q3044721",
-      "label": "Department for Environment, Food and Rural Affairs",
-      "title": "Department for Environment, Food and Rural Affairs",
-      "description": "United Kingdom government ministerial department",
+      "id": "Q25341661",
+      "label": "Shadow Minister (Environment, Food and Rural Affairs)",
+      "title": "Shadow Minister (Environment, Food and Rural Affairs)",
       "qualifiers": {
-        "P580": "2010-10-11"
+        "P580": "2011-10",
+        "P582": "2015-03"
       }
     },
     {
@@ -714,7 +719,8 @@
       "description": "voters' representative in the House of Commons of the United Kingdom",
       "qualifiers": {
         "P580": "2002-02-14",
-        "P1365": "Ray Powell"
+        "P1365": "Ray Powell",
+        "P582": "2016-03-23"
       }
     }
   ],
