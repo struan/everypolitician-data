@@ -40,23 +40,34 @@
       }
     ],
     "executive": [
-
+      {
+        "id": "Q1714331",
+        "name": "Federal Minister of Justice",
+        "description": "justice minister of Austria"
+      }
     ],
     "party": [
-
+      {
+        "id": "Q24256233",
+        "name": "chairman of the Freedom Party of Austria",
+        "description": null
+      },
+      {
+        "id": "Q24206963",
+        "name": "federal spokesperson of the Austrian Green Party",
+        "description": "leader of the Austrian Green Party"
+      }
     ],
     "other": [
-
+      {
+        "id": "Q25273208",
+        "name": "Austrian Students' Association chairperson",
+        "description": null
+      }
     ]
   },
   "unknown": {
     "unknown": [
-      {
-        "id": "Q1714331",
-        "name": "Federal Minister of Justice",
-        "description": "justice minister of Austria",
-        "count": 1
-      },
       {
         "id": "Q19666653",
         "name": "Landesrat",
@@ -68,18 +79,6 @@
         "name": "Q22328268",
         "description": null,
         "count": 2
-      },
-      {
-        "id": "Q24256233",
-        "name": "chairman of the Freedom Party of Austria",
-        "description": null,
-        "count": 1
-      },
-      {
-        "id": "Q24206963",
-        "name": "federal spokesperson of the Austrian Green Party",
-        "description": "leader of the Austrian Green Party",
-        "count": 1
       }
     ]
   }
