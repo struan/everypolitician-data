@@ -7200,6 +7200,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "789cf330-43c4-4030-b4d2-f29ac7078897",
       "identifiers": [
         {
@@ -9141,7 +9142,7 @@
     },
     {
       "birth_date": "1923-09-16",
-      "death_date": "2015-03-22",
+      "death_date": "2015-03-23",
       "family_name": "Li",
       "gender": "male",
       "id": "de1cf06e-04f4-43e0-8a70-5739713891d4",
@@ -19970,6 +19971,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ja",
+          "name": "社会主義戦線",
+          "note": "multilingual"
+        },
+        {
           "lang": "zh",
           "name": "社阵",
           "note": "multilingual"
@@ -20210,6 +20216,16 @@
           "lang": "en",
           "name": "PAP",
           "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "'''People's Action Party'''",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Партия народного действия",
+          "note": "multilingual"
         }
       ]
     },
@@ -20273,6 +20289,11 @@
         {
           "lang": "pl",
           "name": "Singapurski Sojusz Demokratyczny",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "シンガポール民主連盟",
           "note": "multilingual"
         },
         {
@@ -20347,6 +20368,11 @@
         {
           "lang": "pl",
           "name": "Demokratyczna Partia Singapuru",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "シンガポール民主党",
           "note": "multilingual"
         },
         {
@@ -20464,8 +20490,18 @@
           "note": "multilingual"
         },
         {
+          "lang": "ja",
+          "name": "シンガポール民主連盟",
+          "note": "multilingual"
+        },
+        {
           "lang": "de",
           "name": "Singapore People's Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "シンガポール人民党",
           "note": "multilingual"
         }
       ]
@@ -20580,6 +20616,11 @@
         {
           "lang": "en",
           "name": "WP",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "The Workers' Party",
           "note": "multilingual"
         }
       ]
