@@ -5,7 +5,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/northern_cyprus_parliament_wikipedia",
-        "query": "SELECT * FROM data"
+        "query": "SELECT * FROM data ORDER BY name"
       },
       "source": "https://en.wikipedia.org/wiki/14th_Parliament_of_Northern_Cyprus",
       "type": "membership"
@@ -30,7 +30,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/northern_cyprus_parliament_wikidata",
-        "query": "SELECT * FROM data"
+        "query": "SELECT * FROM data ORDER BY id"
       },
       "type": "wikidata",
       "merge": {
@@ -65,6 +65,14 @@
       "create": {
         "from": "wikidata-raw",
         "source": "reconciliation/wikidata.csv"
+      }
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "create": {
+        "from": "election-wikidata",
+        "base": "Q25369215"
       }
     }
   ]
