@@ -1476,6 +1476,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "dz",
+          "name": "འབྲུག་ཕུན་སུམ་ཚོགས་པ",
+          "note": "multilingual"
+        },
+        {
           "lang": "zh",
           "name": "不丹繁榮進步黨",
           "note": "multilingual"
@@ -1604,6 +1609,11 @@
         {
           "lang": "th",
           "name": "พรรคประชาธิปไตยประชาชน",
+          "note": "multilingual"
+        },
+        {
+          "lang": "dz",
+          "name": "མི་སེརདམངས་གཙོའི་ཚོགས་པ།",
           "note": "multilingual"
         },
         {
@@ -1999,6 +2009,20 @@
     }
   ],
   "events": [
+    {
+      "classification": "general election",
+      "end_date": "2008-03-24",
+      "id": "Q864684",
+      "name": "Bhutanese National Assembly election, 2008",
+      "start_date": "2008-03-24"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2013",
+      "id": "Q13728366",
+      "name": "Bhutanese National Assembly election, 2013",
+      "start_date": "2013"
+    },
     {
       "classification": "legislative period",
       "id": "term/2",
