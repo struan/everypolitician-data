@@ -37,7 +37,7 @@ GEM
       safe_yaml (~> 1.0.0)
     domain_name (0.5.20160310)
       unf (>= 0.0.5, < 1.0.0)
-    facebook_username_extractor (0.1.0)
+    facebook_username_extractor (0.2.0)
     fuzzy_match (2.1.0)
     hashdiff (0.3.0)
     http-cookie (1.0.2)
@@ -87,6 +87,7 @@ DEPENDENCIES
   csv_to_popolo (~> 0.25.0)!
   everypolitician!
   everypolitician-popolo!
+  facebook_username_extractor (~> 0.2.0)
   fuzzy_match
   iso_country_codes
   json

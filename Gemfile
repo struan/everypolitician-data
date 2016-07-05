@@ -17,6 +17,7 @@ gem 'unicode_utils'
 gem 'wikisnakker', '~> 0.5.0', github: 'everypolitician/wikisnakker'
 gem 'everypolitician', github: 'everypolitician/everypolitician-ruby'
 gem 'everypolitician-popolo', github: 'everypolitician/everypolitician-popolo'
+gem 'facebook_username_extractor', '~> 0.2.0'
 gem 'json5'
 gem 'slop', '~> 3.6.0' # tied to pry version
 gem 'rcsv'
