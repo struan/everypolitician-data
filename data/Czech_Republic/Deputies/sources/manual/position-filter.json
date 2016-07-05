@@ -23,6 +23,11 @@
         "name": "Member of the Senate of the Parliament of the Czech Republic"
       },
       {
+        "id": "Q25265211",
+        "name": "member of the Czech National Council",
+        "description": null
+      },
+      {
         "id": "Q27169",
         "name": "member of the European Parliament"
       },
@@ -107,6 +112,18 @@
   "unknown": {
     "unknown": [
       {
+        "id": "Q12052827",
+        "name": "List of Ministers of Health of the Czech Republic",
+        "description": "Wikimedia list article",
+        "count": 1
+      },
+      {
+        "id": "Q12053193",
+        "name": "List of Ministers of Transport of the Czech Republic",
+        "description": "Wikimedia list article",
+        "count": 1
+      },
+      {
         "id": "Q12037736",
         "name": "Ministry of Regional Development",
         "description": null,
@@ -117,24 +134,6 @@
         "name": "Prorector",
         "description": "member of the management body of a university",
         "count": 2
-      },
-      {
-        "id": "Q12047080",
-        "name": "Q12047080",
-        "description": null,
-        "count": 1
-      },
-      {
-        "id": "Q12052827",
-        "name": "Q12052827",
-        "description": "Wikimedia list article",
-        "count": 1
-      },
-      {
-        "id": "Q12053193",
-        "name": "Q12053193",
-        "description": "Wikimedia list article",
-        "count": 1
       },
       {
         "id": "Q15712674",
@@ -185,12 +184,6 @@
         "count": 2
       },
       {
-        "id": "Q25265211",
-        "name": "member of the Czech National Council",
-        "description": null,
-        "count": 1
-      },
-      {
         "id": "Q83307",
         "name": "minister",
         "description": "politician who holds significant public office in a national or regional government",
@@ -207,6 +200,12 @@
         "name": "rector",
         "description": "academic official",
         "count": 2
+      },
+      {
+        "id": "Q12047080",
+        "name": "vice-dean",
+        "description": null,
+        "count": 1
       }
     ]
   }
