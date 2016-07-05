@@ -560,6 +560,26 @@
       "label": "Member of Parliament in the United Kingdom",
       "title": "Member of Parliament in the United Kingdom",
       "description": "voters' representative in the House of Commons of the United Kingdom"
+    },
+    {
+      "id": "Q7460592",
+      "label": "Shadow Secretary of State for Education",
+      "title": "Shadow Secretary of State for Education",
+      "qualifiers": {
+        "P580": "2016-06-27",
+        "P582": "2016-06-29",
+        "P1365": "Lucy Powell"
+      }
+    },
+    {
+      "id": "Q25359878",
+      "label": "Shadow Minister of State for Europe",
+      "title": "Shadow Minister of State for Europe",
+      "description": "UK shadow minister",
+      "qualifiers": {
+        "P580": "2016-01-05",
+        "P582": "2016-06-27"
+      }
     }
   ],
   "Q302309": [
@@ -981,6 +1001,15 @@
       "label": "Member of Parliament in the United Kingdom",
       "title": "Member of Parliament in the United Kingdom",
       "description": "voters' representative in the House of Commons of the United Kingdom"
+    },
+    {
+      "id": "Q15109454",
+      "label": "Minister of State for Transport",
+      "title": "Minister of State for Transport",
+      "qualifiers": {
+        "P580": "2010-05-12",
+        "P582": "2012-09-04"
+      }
     }
   ],
   "Q334278": [
@@ -1690,6 +1719,26 @@
       "label": "Member of Parliament in the United Kingdom",
       "title": "Member of Parliament in the United Kingdom",
       "description": "voters' representative in the House of Commons of the United Kingdom"
+    },
+    {
+      "id": "Q7460592",
+      "label": "Shadow Secretary of State for Education",
+      "title": "Shadow Secretary of State for Education",
+      "qualifiers": {
+        "P580": "2015-09-13",
+        "P582": "2016-06-26",
+        "P1365": "Tristram Hunt"
+      }
+    },
+    {
+      "id": "Q25360154",
+      "label": "Shadow Minister for the Cabinet Office",
+      "title": "Shadow Minister for the Cabinet Office",
+      "description": "UK shadow minister",
+      "qualifiers": {
+        "P580": "2014-11-05",
+        "P582": "2015-09-13"
+      }
     }
   ],
   "Q302892": [
@@ -1786,16 +1835,16 @@
   ],
   "Q306169": [
     {
-      "id": "Q3044721",
-      "label": "Department for Environment, Food and Rural Affairs",
-      "title": "Department for Environment, Food and Rural Affairs",
-      "description": "United Kingdom government ministerial department"
+      "id": "Q25358560",
+      "label": "Minister of State for Farming and the Environment",
+      "title": "Minister of State for Farming and the Environment",
+      "description": "UK junior minister"
     },
     {
-      "id": "Q2982287",
-      "label": "Department for Transport",
-      "title": "Department for Transport",
-      "description": "United Kingdom government ministerial department responsible for the English transport network"
+      "id": "Q25358150",
+      "label": "Parliamentary Under-Secretary of State for Transport",
+      "title": "Parliamentary Under-Secretary of State for Transport",
+      "description": "junior transport minister in the UK"
     },
     {
       "id": "Q6865920",
@@ -4555,10 +4604,10 @@
   ],
   "Q5107475": [
     {
-      "id": "Q2982287",
-      "label": "Department for Transport",
-      "title": "Department for Transport",
-      "description": "United Kingdom government ministerial department responsible for the English transport network",
+      "id": "Q25358150",
+      "label": "Parliamentary Under-Secretary of State for Transport",
+      "title": "Parliamentary Under-Secretary of State for Transport",
+      "description": "junior transport minister in the UK",
       "qualifiers": {
         "P580": "2009-06-09",
         "P582": "2010-05-06",
@@ -6895,12 +6944,30 @@
   ],
   "Q18164278": [
     {
-      "id": "Q1055894",
-      "label": "deputy",
-      "title": "deputy",
-      "description": "name for legislator in many countries",
+      "id": "Q16707842",
+      "label": "Member of Parliament in the United Kingdom",
+      "title": "Member of Parliament in the United Kingdom",
+      "description": "voters' representative in the House of Commons of the United Kingdom",
       "qualifiers": {
         "P580": "2015"
+      }
+    },
+    {
+      "id": "Q7460592",
+      "label": "Shadow Secretary of State for Education",
+      "title": "Shadow Secretary of State for Education",
+      "qualifiers": {
+        "P580": "2016-07-01",
+        "P1365": "Pat Glass"
+      }
+    },
+    {
+      "id": "Q7460553",
+      "label": "Shadow Minister for Women and Equalities",
+      "title": "Shadow Minister for Women and Equalities",
+      "qualifiers": {
+        "P580": "2016-06-27",
+        "P1365": "Kate Green"
       }
     }
   ],
@@ -14590,10 +14657,10 @@
       }
     },
     {
-      "id": "Q220945",
-      "label": "Party of European Socialists",
-      "title": "Party of European Socialists",
-      "description": "political party at European level",
+      "id": "Q25360395",
+      "label": "President of the Party of European Socialists",
+      "title": "President of the Party of European Socialists",
+      "description": "EU party leader",
       "qualifiers": {
         "P580": "2001-06-11",
         "P582": "2004-06-20",
@@ -15967,19 +16034,37 @@
     {
       "id": "Q7460600",
       "label": "Shadow Secretary of State for Transport",
-      "title": "Shadow Secretary of State for Transport"
+      "title": "Shadow Secretary of State for Transport",
+      "qualifiers": {
+        "P580": "2002-07-23",
+        "P582": "2003-11-10"
+      }
     },
     {
-      "id": "Q5995",
-      "label": "Cabinet Office",
-      "title": "Cabinet Office",
-      "description": "United Kingdom government ministerial department"
+      "id": "Q25360328",
+      "label": "Shadow Cabinet Office Minister",
+      "title": "Shadow Cabinet Office Minister",
+      "description": "UK shadow minister",
+      "qualifiers": {
+        "P580": "2001-09-14",
+        "P582": "2002-07-23"
+      }
     },
     {
       "id": "Q16707842",
       "label": "Member of Parliament in the United Kingdom",
       "title": "Member of Parliament in the United Kingdom",
       "description": "voters' representative in the House of Commons of the United Kingdom"
+    },
+    {
+      "id": "Q25360282",
+      "label": "Shadow Secretary of State for Education and Skills",
+      "title": "Shadow Secretary of State for Education and Skills",
+      "description": "UK shadow minister",
+      "qualifiers": {
+        "P580": "2004-03-15",
+        "P582": "2005-05-06"
+      }
     }
   ],
   "Q16107112": [
@@ -21043,10 +21128,10 @@
   ],
   "Q24668273": [
     {
-      "id": "Q486839",
-      "label": "member of parliament",
-      "title": "member of parliament",
-      "description": "representative of the voters to a parliament",
+      "id": "Q16707842",
+      "label": "Member of Parliament in the United Kingdom",
+      "title": "Member of Parliament in the United Kingdom",
+      "description": "voters' representative in the House of Commons of the United Kingdom",
       "qualifiers": {
         "P768": "Tooting",
         "P580": "2016-06-17",
