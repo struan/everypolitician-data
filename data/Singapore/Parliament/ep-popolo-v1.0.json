@@ -1087,21 +1087,6 @@
       ]
     },
     {
-      "id": "3006a602-e995-4ee8-8fc7-31496ec0e0a1",
-      "image": "http://www.parliament.gov.sg/sites/default/files/AzmoonAhmad_web.jpg",
-      "images": [
-        {
-          "url": "http://www.parliament.gov.sg/sites/default/files/AzmoonAhmad_web.jpg"
-        }
-      ],
-      "name": "Azmoon Ahmad",
-      "sources": [
-        {
-          "url": "http://www.parliament.gov.sg/history/13th-parliament"
-        }
-      ]
-    },
-    {
       "id": "13f773a3-93ec-4a91-9bed-0b19e306af79",
       "image": "http://www.parliament.gov.sg/sites/default/files/blank_photo.jpg",
       "images": [
@@ -4827,10 +4812,10 @@
     },
     {
       "id": "34808b3b-d4ec-4e05-b2d9-b757c9396a20",
-      "image": "http://www.parliament.gov.sg/sites/default/files/Ganesh%20Rajaram.jpg",
+      "image": "http://www.parliament.gov.sg/sites/default/files/blank_photo_0.jpg",
       "images": [
         {
-          "url": "http://www.parliament.gov.sg/sites/default/files/Ganesh%20Rajaram.jpg"
+          "url": "http://www.parliament.gov.sg/sites/default/files/blank_photo_0.jpg"
         }
       ],
       "name": "Ganesh Rajaram",
@@ -6792,21 +6777,6 @@
       ]
     },
     {
-      "id": "b3a11132-e758-4142-a934-940ca9efe5d8",
-      "image": "http://www.parliament.gov.sg/sites/default/files/Intan%20Azura%20Mokhtar_web.jpg",
-      "images": [
-        {
-          "url": "http://www.parliament.gov.sg/sites/default/files/Intan%20Azura%20Mokhtar_web.jpg"
-        }
-      ],
-      "name": "Intan Azura Mokhtar",
-      "sources": [
-        {
-          "url": "http://www.parliament.gov.sg/history/12th-parliament"
-        }
-      ]
-    },
-    {
       "birth_date": "1963-12-24",
       "gender": "female",
       "given_name": "Irene",
@@ -7489,21 +7459,6 @@
       ]
     },
     {
-      "id": "be8cf25a-3e6f-4296-bf20-82ccfd751279",
-      "image": "http://www.parliament.gov.sg/sites/default/files/K%20Muralidharan%20Pillai_0.jpg",
-      "images": [
-        {
-          "url": "http://www.parliament.gov.sg/sites/default/files/K%20Muralidharan%20Pillai_0.jpg"
-        }
-      ],
-      "name": "K Muralidharan Pillai",
-      "sources": [
-        {
-          "url": "http://www.parliament.gov.sg/history/13th-parliament"
-        }
-      ]
-    },
-    {
       "birth_date": "1960",
       "gender": "male",
       "given_name": "K.",
@@ -7953,10 +7908,10 @@
     },
     {
       "id": "ee96d979-5533-4ac5-8a70-56cc678065a9",
-      "image": "http://www.parliament.gov.sg/sites/default/files/Kok%20Heng%20Leun.jpg",
+      "image": "http://www.parliament.gov.sg/sites/default/files/blank_photo_1.jpg",
       "images": [
         {
-          "url": "http://www.parliament.gov.sg/sites/default/files/Kok%20Heng%20Leun.jpg"
+          "url": "http://www.parliament.gov.sg/sites/default/files/blank_photo_1.jpg"
         }
       ],
       "name": "Kok Heng Leun",
@@ -12334,10 +12289,10 @@
     },
     {
       "id": "8afcf654-ed70-4f77-afdd-f513a4bc654a",
-      "image": "http://www.parliament.gov.sg/sites/default/files/MahdevMohan_Web.jpg",
+      "image": "http://www.parliament.gov.sg/sites/default/files/blank_photo_2.jpg",
       "images": [
         {
-          "url": "http://www.parliament.gov.sg/sites/default/files/MahdevMohan_Web.jpg"
+          "url": "http://www.parliament.gov.sg/sites/default/files/blank_photo_2.jpg"
         }
       ],
       "name": "Mahdev Mohan",
@@ -13112,21 +13067,6 @@
       "sources": [
         {
           "url": "http://www.parliament.gov.sg/history/11th-parliament"
-        }
-      ]
-    },
-    {
-      "id": "7bd9ec69-ce41-488b-b8d9-3f9b7adeb9da",
-      "image": "http://www.parliament.gov.sg/sites/default/files/Murali%20Pillai_Thumb.jpg",
-      "images": [
-        {
-          "url": "http://www.parliament.gov.sg/sites/default/files/Murali%20Pillai_Thumb.jpg"
-        }
-      ],
-      "name": "Murali Pillai",
-      "sources": [
-        {
-          "url": "http://www.parliament.gov.sg/history/13th-parliament"
         }
       ]
     },
@@ -19672,21 +19612,6 @@
       ]
     },
     {
-      "id": "8fcf045c-6d19-4a67-b02c-f5114c198b2e",
-      "image": "http://www.parliament.gov.sg/sites/default/files/zainul.jpg",
-      "images": [
-        {
-          "url": "http://www.parliament.gov.sg/sites/default/files/zainul.jpg"
-        }
-      ],
-      "name": "Zainal Sapari",
-      "sources": [
-        {
-          "url": "http://www.parliament.gov.sg/history/12th-parliament"
-        }
-      ]
-    },
-    {
       "birth_date": "1963-07-03",
       "gender": "male",
       "id": "674cdf5e-095d-40f1-8aee-ad0cd7b86437",
@@ -21272,7 +21197,8 @@
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
       "person_id": "13f773a3-93ec-4a91-9bed-0b19e306af79",
-      "role": "member"
+      "role": "member",
+      "start_date": "2016-03-22"
     },
     {
       "legislative_period_id": "term/10",
@@ -22130,13 +22056,6 @@
     },
     {
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/unknown",
-      "organization_id": "legislature",
-      "person_id": "3006a602-e995-4ee8-8fc7-31496ec0e0a1",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/13",
       "on_behalf_of_id": "party/people’s_action_party",
       "organization_id": "legislature",
       "person_id": "30161889-8a34-45b8-9123-7c14ca24da05",
@@ -22182,7 +22101,8 @@
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
       "person_id": "34808b3b-d4ec-4e05-b2d9-b757c9396a20",
-      "role": "member"
+      "role": "member",
+      "start_date": "2016-03-22"
     },
     {
       "legislative_period_id": "term/5",
@@ -23365,7 +23285,8 @@
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
       "person_id": "59fe3e5c-7597-40ce-97d6-7b4708c3e1bb",
-      "role": "member"
+      "role": "member",
+      "start_date": "2016-03-22"
     },
     {
       "legislative_period_id": "term/11",
@@ -24292,13 +24213,6 @@
       "role": "member"
     },
     {
-      "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/people’s_action_party",
-      "organization_id": "legislature",
-      "person_id": "7bd9ec69-ce41-488b-b8d9-3f9b7adeb9da",
-      "role": "member"
-    },
-    {
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/nominated_member_of_parliament",
       "organization_id": "legislature",
@@ -24639,7 +24553,8 @@
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
       "person_id": "8afcf654-ed70-4f77-afdd-f513a4bc654a",
-      "role": "member"
+      "role": "member",
+      "start_date": "2016-03-22"
     },
     {
       "legislative_period_id": "term/11",
@@ -24828,20 +24743,6 @@
       "on_behalf_of_id": "party/people’s_action_party",
       "organization_id": "legislature",
       "person_id": "8f0b6ebb-932d-48ae-9f87-2c95bf8a33ee",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/12",
-      "on_behalf_of_id": "party/people’s_action_party",
-      "organization_id": "legislature",
-      "person_id": "8fcf045c-6d19-4a67-b02c-f5114c198b2e",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/people’s_action_party",
-      "organization_id": "legislature",
-      "person_id": "8fcf045c-6d19-4a67-b02c-f5114c198b2e",
       "role": "member"
     },
     {
@@ -25479,14 +25380,16 @@
       "on_behalf_of_id": "party/nominated_member_of_parliament",
       "organization_id": "legislature",
       "person_id": "a31048d1-46f1-4c9a-a67d-e92408986bbf",
-      "role": "member"
+      "role": "member",
+      "start_date": "2016-03-22"
     },
     {
       "legislative_period_id": "term/13",
       "on_behalf_of_id": "party/nominated_member_of_parliament",
       "organization_id": "legislature",
       "person_id": "a31048d1-46f1-4c9a-a67d-e92408986bbf",
-      "role": "member"
+      "role": "member",
+      "start_date": "2016-03-22"
     },
     {
       "legislative_period_id": "term/11",
@@ -25794,14 +25697,16 @@
       "on_behalf_of_id": "party/nominated_member_of_parliament",
       "organization_id": "legislature",
       "person_id": "b1110acb-68c8-4d62-86f7-60b0974b9e65",
-      "role": "member"
+      "role": "member",
+      "start_date": "2016-03-22"
     },
     {
       "legislative_period_id": "term/13",
       "on_behalf_of_id": "party/nominated_member_of_parliament",
       "organization_id": "legislature",
       "person_id": "b1110acb-68c8-4d62-86f7-60b0974b9e65",
-      "role": "member"
+      "role": "member",
+      "start_date": "2016-03-22"
     },
     {
       "legislative_period_id": "term/10",
@@ -25934,20 +25839,6 @@
       "on_behalf_of_id": "party/people’s_action_party",
       "organization_id": "legislature",
       "person_id": "b38c6609-ea96-448f-8575-079bc67c2952",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/12",
-      "on_behalf_of_id": "party/people’s_action_party",
-      "organization_id": "legislature",
-      "person_id": "b3a11132-e758-4142-a934-940ca9efe5d8",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/people’s_action_party",
-      "organization_id": "legislature",
-      "person_id": "b3a11132-e758-4142-a934-940ca9efe5d8",
       "role": "member"
     },
     {
@@ -26319,14 +26210,16 @@
       "on_behalf_of_id": "party/nominated_member_of_parliament",
       "organization_id": "legislature",
       "person_id": "ba7014e4-3179-4125-989f-00b75b7d7541",
-      "role": "member"
+      "role": "member",
+      "start_date": "2016-03-22"
     },
     {
       "legislative_period_id": "term/13",
       "on_behalf_of_id": "party/nominated_member_of_parliament",
       "organization_id": "legislature",
       "person_id": "ba7014e4-3179-4125-989f-00b75b7d7541",
-      "role": "member"
+      "role": "member",
+      "start_date": "2016-03-22"
     },
     {
       "legislative_period_id": "term/12",
@@ -26438,13 +26331,6 @@
       "on_behalf_of_id": "party/people’s_action_party",
       "organization_id": "legislature",
       "person_id": "bd37204f-b43d-4252-a998-69ea8a415264",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/people’s_action_party",
-      "organization_id": "legislature",
-      "person_id": "be8cf25a-3e6f-4296-bf20-82ccfd751279",
       "role": "member"
     },
     {
@@ -28048,7 +27934,8 @@
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
       "person_id": "ee96d979-5533-4ac5-8a70-56cc678065a9",
-      "role": "member"
+      "role": "member",
+      "start_date": "2016-03-22"
     },
     {
       "legislative_period_id": "term/9",
@@ -28062,14 +27949,16 @@
       "on_behalf_of_id": "party/nominated_member_of_parliament",
       "organization_id": "legislature",
       "person_id": "f1266740-99f3-437a-8f10-50268c26bdd3",
-      "role": "member"
+      "role": "member",
+      "start_date": "2016-03-22"
     },
     {
       "legislative_period_id": "term/13",
       "on_behalf_of_id": "party/nominated_member_of_parliament",
       "organization_id": "legislature",
       "person_id": "f1266740-99f3-437a-8f10-50268c26bdd3",
-      "role": "member"
+      "role": "member",
+      "start_date": "2016-03-22"
     },
     {
       "legislative_period_id": "term/8",
