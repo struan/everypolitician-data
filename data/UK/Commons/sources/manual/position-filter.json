@@ -231,6 +231,11 @@
         "name": "Minister of State for Europe"
       },
       {
+        "id": "Q25358560",
+        "name": "Minister of State for Farming and the Environment",
+        "description": "UK junior minister"
+      },
+      {
         "id": "Q4146869",
         "name": "Minister of State for Foreign Affairs"
       },
@@ -273,6 +278,11 @@
       {
         "id": "Q23304253",
         "name": "Parliamentary Under-Secretary of State for International Development"
+      },
+      {
+        "id": "Q25358150",
+        "name": "Parliamentary Under-Secretary of State for Transport",
+        "description": "junior transport minister in the UK"
       },
       {
         "id": "Q23304239",
@@ -493,12 +503,27 @@
         "name": "Leader of the Ulster Unionist Party"
       },
       {
+        "id": "Q25273109",
+        "name": "Leader of the Welsh Liberal Democrats",
+        "description": "Welsh party leader"
+      },
+      {
         "id": "Q17088878",
         "name": "Liberal Democrats Chief Whip"
       },
       {
         "id": "Q24081995",
         "name": "President of the Liberal Democrats"
+      },
+      {
+        "id": "Q25360395",
+        "name": "President of the Party of European Socialists",
+        "description": "EU party leader"
+      },
+      {
+        "id": "Q25360328",
+        "name": "Shadow Cabinet Office Minister",
+        "description": "UK shadow minister"
       },
       {
         "id": "Q11013932",
@@ -534,8 +559,18 @@
         "name": "Shadow Minister for Women and Equalities"
       },
       {
+        "id": "Q25360154",
+        "name": "Shadow Minister for the Cabinet Office",
+        "description": "UK shadow minister"
+      },
+      {
         "id": "Q20819509",
         "name": "Shadow Minister for the Olympics"
+      },
+      {
+        "id": "Q25359878",
+        "name": "Shadow Minister of State for Europe",
+        "description": "UK shadow minister"
       },
       {
         "id": "Q24312774",
@@ -557,6 +592,11 @@
       {
         "id": "Q7460592",
         "name": "Shadow Secretary of State for Education"
+      },
+      {
+        "id": "Q25360282",
+        "name": "Shadow Secretary of State for Education and Skills",
+        "description": "UK shadow minister"
       },
       {
         "id": "Q7460593",
@@ -827,7 +867,7 @@
         "id": "Q5995",
         "name": "Cabinet Office",
         "description": "United Kingdom government ministerial department",
-        "count": 6
+        "count": 5
       },
       {
         "id": "Q1094524",
@@ -869,7 +909,7 @@
         "id": "Q3044721",
         "name": "Department for Environment, Food and Rural Affairs",
         "description": "United Kingdom government ministerial department",
-        "count": 4
+        "count": 2
       },
       {
         "id": "Q5260119",
@@ -887,7 +927,7 @@
         "id": "Q2982287",
         "name": "Department for Transport",
         "description": "United Kingdom government ministerial department responsible for the English transport network",
-        "count": 6
+        "count": 4
       },
       {
         "id": "Q1191394",
@@ -938,12 +978,6 @@
         "count": 1
       },
       {
-        "id": "Q25273109",
-        "name": "Leader of the Welsh Liberal Democrats",
-        "description": "Welsh party leader",
-        "count": 1
-      },
-      {
         "id": "Q6540616",
         "name": "Liberal Democrat Frontbench Team",
         "description": null,
@@ -974,12 +1008,6 @@
         "count": 4
       },
       {
-        "id": "Q220945",
-        "name": "Party of European Socialists",
-        "description": "political party at European level",
-        "count": 1
-      },
-      {
         "id": "Q7257298",
         "name": "Public Accounts Committee",
         "description": null,
@@ -989,6 +1017,12 @@
         "id": "Q303329",
         "name": "Shadow Cabinet",
         "description": "senior group of opposition spokespeople",
+        "count": 1
+      },
+      {
+        "id": "Q25341661",
+        "name": "Shadow Minister (Environment, Food and Rural Affairs)",
+        "description": null,
         "count": 1
       },
       {
@@ -1010,21 +1044,9 @@
         "count": 4
       },
       {
-        "id": "Q1055894",
-        "name": "deputy",
-        "description": "name for legislator in many countries",
-        "count": 1
-      },
-      {
         "id": "Q1413677",
         "name": "justice ministry",
         "description": "ministry in the government of a state, responsible for justice",
-        "count": 1
-      },
-      {
-        "id": "Q486839",
-        "name": "member of parliament",
-        "description": "representative of the voters to a parliament",
         "count": 1
       }
     ]
