@@ -981,6 +981,12 @@
         }
       ],
       "image": "https://upload.wikimedia.org/wikipedia/commons/6/65/Congress_of_the_People_Trinidad_Logo.png",
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.coptnt.com/"
+        }
+      ],
       "name": "COP",
       "other_names": [
         {
@@ -1042,6 +1048,36 @@
           "lang": "et",
           "name": "Rahva Rahvusliikumine",
           "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Λαϊκό Εθνικό Κίνημα",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Народное национальное движение",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "人民国家運動",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "People's National Movement",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "PNM",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "人民国民運動",
+          "note": "multilingual"
         }
       ]
     },
@@ -1099,6 +1135,36 @@
         {
           "lang": "et",
           "name": "Ühinenud Rahvuskongress",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Объединённый национальный конгресс",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "統一民族会議",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "UNC",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Congres national uni",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "United National Congress",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "連合国民会議",
           "note": "multilingual"
         }
       ]
@@ -1447,6 +1513,125 @@
     }
   ],
   "events": [
+    {
+      "classification": "general election",
+      "end_date": "1946",
+      "id": "Q17027365",
+      "name": "Trinidad and Tobago general election, 1946",
+      "start_date": "1946"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1950",
+      "id": "Q7842453",
+      "name": "Trinidad and Tobago general election, 1950",
+      "start_date": "1950"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1956",
+      "id": "Q7842456",
+      "name": "Trinidad and Tobago general election, 1956",
+      "start_date": "1956"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1961",
+      "id": "Q7842457",
+      "name": "Trinidad and Tobago general election, 1961",
+      "start_date": "1961"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1966",
+      "id": "Q7842458",
+      "name": "Trinidad and Tobago general election, 1966",
+      "start_date": "1966"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1971",
+      "id": "Q7842459",
+      "name": "Trinidad and Tobago general election, 1971",
+      "start_date": "1971"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1976",
+      "id": "Q7842460",
+      "name": "Trinidad and Tobago general election, 1976",
+      "start_date": "1976"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1981",
+      "id": "Q7842461",
+      "name": "Trinidad and Tobago general election, 1981",
+      "start_date": "1981"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1986",
+      "id": "Q16976134",
+      "name": "Trinidad and Tobago general election, 1986",
+      "start_date": "1986"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1991",
+      "id": "Q7842464",
+      "name": "Trinidad and Tobago general election, 1991",
+      "start_date": "1991"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1995",
+      "id": "Q7842465",
+      "name": "Trinidad and Tobago general election, 1995",
+      "start_date": "1995"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2000",
+      "id": "Q7842467",
+      "name": "Trinidad and Tobago general election, 2000",
+      "start_date": "2000"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2001",
+      "id": "Q7842466",
+      "name": "Trinidad and Tobago general election, 2001",
+      "start_date": "2001"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2002",
+      "id": "Q7842468",
+      "name": "Trinidad and Tobago general election, 2002",
+      "start_date": "2002"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2007",
+      "id": "Q16958162",
+      "name": "Trinidad and Tobago general election, 2007",
+      "start_date": "2007"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2010-05-24",
+      "id": "Q7842472",
+      "name": "Trinidad and Tobago general election, 2010",
+      "start_date": "2010-05-24"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2015-09-07",
+      "id": "Q20648308",
+      "name": "Trinidad and Tobago general election, 2015",
+      "start_date": "2015-09-07"
+    },
     {
       "classification": "legislative period",
       "id": "term/11",
