@@ -5,8 +5,13 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/jersey-assembly",
-        "query": "SELECT *, parish AS area, 6 as term FROM data"
+        "query": "SELECT *, parish AS area FROM data"
       },
+      "source": "http://www.statesassembly.gov.je",
+      "type": "membership"
+    },
+    {
+      "file": "manual/members.csv",
       "source": "http://www.statesassembly.gov.je",
       "type": "membership"
     },
