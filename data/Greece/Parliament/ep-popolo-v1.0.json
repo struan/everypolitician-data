@@ -46,11 +46,27 @@
       ]
     },
     {
+      "birth_date": "1946",
+      "gender": "male",
       "id": "6feba9da-67fb-4bf8-a818-6b0ebd258589",
       "identifiers": [
         {
           "identifier": "917622ea-9d47-49b1-aa2b-616923f247e6",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "917622ea-9d47-49b1-aa2b-616923f247e6",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "Q19941930",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Γιώργος_Αδαμόπουλος"
         }
       ],
       "name": "Adamopoulos Georgios",
@@ -58,6 +74,11 @@
         {
           "lang": "el",
           "name": "Αδαμόπουλος Αθανασίου Γεώργιος",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Γιώργος Αδαμόπουλος",
           "note": "multilingual"
         }
       ],
@@ -172,18 +193,53 @@
       ]
     },
     {
+      "birth_date": "1985",
+      "gender": "female",
       "id": "5c93dae6-8590-4252-8a90-9ddc2478c7ea",
       "identifiers": [
         {
           "identifier": "013bab92-bddf-4508-b849-6150356536c4",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "013bab92-bddf-4508-b849-6150356536c4",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "Q18888584",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Ирини-Елени_Агатопулу"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Iríni-Eléni_Agathopoúlou"
         }
       ],
       "name": "Agathopoulou Eirini - Eleni",
       "other_names": [
         {
+          "lang": "bg",
+          "name": "Ирини-Елени Агатопулу",
+          "note": "multilingual"
+        },
+        {
           "lang": "el",
           "name": "Αγαθοπούλου Δημητρίου Ειρήνη-Ελένη",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Irini-Eleni Agathopoulou",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Irini-Eleni Agathopoulou",
           "note": "multilingual"
         }
       ],
@@ -914,18 +970,52 @@
       ]
     },
     {
+      "gender": "male",
       "id": "545bc93e-6063-4f5e-97e6-f2e4db591fa6",
       "identifiers": [
         {
           "identifier": "da7ae748-9dce-4624-87ab-0cbba1233cfa",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "da7ae748-9dce-4624-87ab-0cbba1233cfa",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "Q2967430",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Chryssovalandis_Alexopoulos"
         }
       ],
       "name": "Alexopoulos Chrysovalantis",
       "other_names": [
         {
+          "name": "Chrysovalandis Alexopoulos",
+          "note": "alternate"
+        },
+        {
           "lang": "el",
           "name": "Αλεξόπουλος Δημητρίου Χρυσοβαλάντης",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Χρυσοβαλάντης Αλεξόπουλος",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Chrysovalandis Alexopoulos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Chrysovalandis Alexopoulos",
           "note": "multilingual"
         }
       ],
@@ -1284,18 +1374,71 @@
       ]
     },
     {
+      "birth_date": "1966-07-07",
+      "gender": "female",
       "id": "26a6f2af-4645-402e-a809-4a154a9c557b",
       "identifiers": [
         {
           "identifier": "2455e6cc-db1f-46de-aaa4-47b4f9f5d1a7",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "2455e6cc-db1f-46de-aaa4-47b4f9f5d1a7",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "Q18889152",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Евангелия_Аманатиду"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Lítsa_Ammanatídou-Paschalídou"
+        },
+        {
+          "note": "website",
+          "url": "http://www.ammanatidou.gr/"
         }
       ],
       "name": "Ammanatidou - (Paschalidou) Evangelia (Litsa)",
       "other_names": [
         {
+          "name": "Litsa Amanatidou-Paschalidou",
+          "note": "alternate"
+        },
+        {
+          "lang": "bg",
+          "name": "Евангелия Аманатиду",
+          "note": "multilingual"
+        },
+        {
           "lang": "el",
           "name": "Αμμανατίδου - (Πασχαλίδου) Γεωργίου Ευαγγελία (Λίτσα)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Ευαγγελία Αμμανατίδου-Πασχαλίδου",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Litsa Amanatidou-Paschalidou",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Litsa Amanatidou-Paschalidou",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Litsa Amanatidou-Paschalidou",
           "note": "multilingual"
         }
       ],
@@ -1778,15 +1921,42 @@
       ]
     },
     {
+      "birth_date": "1946",
+      "gender": "male",
       "id": "ee86787f-5393-4910-8028-681939853323",
       "identifiers": [
         {
           "identifier": "72e4fe52-d46b-453c-a1ce-c553d7f2004b",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "72e4fe52-d46b-453c-a1ce-c553d7f2004b",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "Q12873618",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Andrianopoulos.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Andrianopoulos.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Ανδρέας_Ανδριανόπουλος"
         }
       ],
       "name": "Andrianopoulos Andreas",
       "other_names": [
+        {
+          "lang": "el",
+          "name": "Ανδρέας Ανδριανόπουλος",
+          "note": "multilingual"
+        },
         {
           "lang": "el",
           "name": "Ανδριανόπουλος Ιωάννη Ανδρέας",
@@ -2033,11 +2203,27 @@
       ]
     },
     {
+      "birth_date": "1947-10-28",
+      "gender": "male",
       "id": "4c9155ed-a1a4-4124-8e40-e6e545244709",
       "identifiers": [
         {
           "identifier": "e1411004-4b36-403d-b5ec-848cc594ce77",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "e1411004-4b36-403d-b5ec-848cc594ce77",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "Q23636195",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Νικόλαος_Αγγελόπουλος"
         }
       ],
       "name": "Angelopoulos Nikolaos",
@@ -2045,6 +2231,11 @@
         {
           "lang": "el",
           "name": "Αγγελόπουλος Κωνσταντίνου Νικόλαος",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Νικόλαος Αγγελόπουλος",
           "note": "multilingual"
         }
       ],
@@ -2538,18 +2729,75 @@
       ]
     },
     {
+      "birth_date": "1960-12-17",
+      "gender": "female",
       "id": "06b767f9-b6ba-44af-af07-d676326b17fd",
       "identifiers": [
         {
+          "identifier": "16511866f",
+          "scheme": "bnf"
+        },
+        {
           "identifier": "017c0708-a0df-450f-baff-a43400d37da5",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "017c0708-a0df-450f-baff-a43400d37da5",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "n2009067268",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "101406479",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q19864781",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Rania_Antonopoulos_2013_cropped.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Rania_Antonopoulos_2013_cropped.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Rania_Antonopoulos"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Ouranía_Antonopoúlou"
         }
       ],
       "name": "Antonopoulou Ourania",
       "other_names": [
         {
+          "name": "Rania Antonopoulos",
+          "note": "alternate"
+        },
+        {
           "lang": "el",
           "name": "Αντωνοπούλου Αντωνίου Ουρανία",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Rania Antonopoulos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Ouranía Antonopoúlou",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Rania Antonopoulos",
           "note": "multilingual"
         }
       ],
@@ -3211,9 +3459,9 @@
       ]
     },
     {
-      "birth_date": "1954-03-20",
+      "birth_date": "1944-03-09",
       "gender": "female",
-      "given_name": "Liana",
+      "given_name": "Maria",
       "id": "f51ee225-a590-4538-9c02-c9e5b255ee3e",
       "identifiers": [
         {
@@ -3221,67 +3469,29 @@
           "scheme": "everypolitician_legacy"
         },
         {
-          "identifier": "/m/09j_fn",
-          "scheme": "freebase"
-        },
-        {
-          "identifier": "da28629f-8ff3-4d16-9b94-91d0675b3cc4",
+          "identifier": "5e6d3676-ad5a-44e8-a997-ffaa03024f1e",
           "scheme": "hellenic_parliament"
         },
         {
-          "identifier": "nm2549004",
-          "scheme": "imdb"
-        },
-        {
-          "identifier": "Q2628736",
+          "identifier": "Q12880688",
           "scheme": "wikidata"
-        }
-      ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Liana_Kanelli.jpg",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Liana_Kanelli.jpg"
         }
       ],
       "links": [
         {
           "note": "Wikipedia (el)",
-          "url": "https://el.wikipedia.org/wiki/Λιάνα_Κανέλλη"
-        },
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Liana_Kanelli"
-        },
-        {
-          "note": "Wikipedia (es)",
-          "url": "https://es.wikipedia.org/wiki/Liana_Kanelli"
-        },
-        {
-          "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Liána_Kanélli"
-        },
-        {
-          "note": "Wikipedia (it)",
-          "url": "https://it.wikipedia.org/wiki/Liana_Kanelli"
-        },
-        {
-          "note": "Wikipedia (ru)",
-          "url": "https://ru.wikipedia.org/wiki/Канелли,_Лиана"
-        },
-        {
-          "note": "Wikipedia (sv)",
-          "url": "https://sv.wikipedia.org/wiki/Liana_Kanelli"
+          "url": "https://el.wikipedia.org/wiki/Μαρία_Αρσένη"
         }
       ],
       "name": "Arseni Maria",
       "other_names": [
         {
-          "name": "Liana Kanelli",
+          "name": "Maria Arsenis",
           "note": "alternate"
         },
         {
           "lang": "de",
-          "name": "Liana Kanelli",
+          "name": "Maria Arsenis",
           "note": "multilingual"
         },
         {
@@ -3291,52 +3501,27 @@
         },
         {
           "lang": "el",
-          "name": "Λιάνα Κανέλλη",
+          "name": "Μαρία Αρσένη",
           "note": "multilingual"
         },
         {
           "lang": "en",
-          "name": "Liana Kanelli",
-          "note": "multilingual"
-        },
-        {
-          "lang": "es",
-          "name": "Liana Kanelli",
+          "name": "Maria Arsenis",
           "note": "multilingual"
         },
         {
           "lang": "fr",
-          "name": "Liána Kanélli",
-          "note": "multilingual"
-        },
-        {
-          "lang": "hu",
-          "name": "Liana Kanelli",
+          "name": "Maria Arsenis",
           "note": "multilingual"
         },
         {
           "lang": "it",
-          "name": "Liana Kanelli",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ja",
-          "name": "リアナ・カネリ",
+          "name": "Maria Arsenis",
           "note": "multilingual"
         },
         {
           "lang": "nl",
-          "name": "Liana Kanelli",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ru",
-          "name": "Канелли, Лиана",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sv",
-          "name": "Liana Kanelli",
+          "name": "Maria Arsenis",
           "note": "multilingual"
         }
       ],
@@ -4913,6 +5098,7 @@
       ]
     },
     {
+      "birth_date": "1958-10-22",
       "contact_details": [
         {
           "type": "email",
@@ -4921,20 +5107,52 @@
       ],
       "email": "e.avlonitou@parliament.gr",
       "gender": "female",
+      "given_name": "Eleni",
       "id": "dee8fcb9-0881-466d-aaf7-84d66fd76785",
       "identifiers": [
         {
           "identifier": "4d7306d4-b301-43df-bd2d-2ffbd22c5327",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "4d7306d4-b301-43df-bd2d-2ffbd22c5327",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "21699098",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q16744033",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/Avlonitou%20photo_3.jpg",
       "images": [
         {
           "url": "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/Avlonitou%20photo_3.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Eleni_Avlonitou-w1.jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Eleni_Avlonitou"
+        },
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Ελένη_Αυλωνίτου"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Eleni_Avlonitou"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Eleni_Avlonitou"
+        },
         {
           "note": "website",
           "url": "http://www.avlonitou.gr"
@@ -4943,8 +5161,37 @@
       "name": "Avlonitou Eleni",
       "other_names": [
         {
+          "name": "Eleni Avlonitou",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Eleni Avlonitou",
+          "note": "multilingual"
+        },
+        {
           "lang": "el",
           "name": "Αυλωνίτου Βασιλείου Ελένη",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Ελένη Αυλωνίτου",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Eleni Avlonitou",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Eleni Avlonitou",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Eleni Avlonitou",
           "note": "multilingual"
         }
       ],
@@ -4999,18 +5246,231 @@
       ]
     },
     {
+      "birth_date": "1953-06-06",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "avramopoulos"
+        }
+      ],
+      "gender": "male",
+      "given_name": "Dimitris",
       "id": "bd275f55-7f77-4006-ad82-0ee910e1a64c",
       "identifiers": [
         {
           "identifier": "e7de51bc-72ac-49dd-a848-7b49721dc247",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/0434fz",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "e7de51bc-72ac-49dd-a848-7b49721dc247",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "Q983664",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Dimitris_Avramopoulos_at_the_Pentagon_April_2012.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Dimitris_Avramopoulos_at_the_Pentagon_April_2012.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Димитрис_Аврамопулос"
+        },
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Dimitris_Avramopoulos"
+        },
+        {
+          "note": "Wikipedia (cswikiquote)",
+          "url": "https://cswikiquote.wikipedia.org/wiki/Dimitris_Avramopulos"
+        },
+        {
+          "note": "Wikipedia (da)",
+          "url": "https://da.wikipedia.org/wiki/Dimitris_Avramopoulos"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Dimitris_Avramopoulos"
+        },
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Δημήτρης_Αβραμόπουλος"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Dimitris_Avramopoulos"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Dimitris_Avramópulos"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Dimítris_Avramópoulos"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Dimitris_Avramopoulos"
+        },
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/디미트리스_아브라모풀로스"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Dimitris_Avramopoulos"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Dimitris_Avramopoulos"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Dimitris_Awramopulos"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Аврамопулос,_Димитрис"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Dimitris_Avramopoulos"
+        },
+        {
+          "note": "Wikipedia (tr)",
+          "url": "https://tr.wikipedia.org/wiki/Dimitris_Avramopulos"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Дімітріс_Аврамопулос"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/avramopoulos"
+        },
+        {
+          "note": "website",
+          "url": "http://avramopoulos.gr/el"
         }
       ],
       "name": "Avramopoulos Dimitrios",
       "other_names": [
         {
+          "name": "Dimitris Avramopoulos",
+          "note": "alternate"
+        },
+        {
+          "lang": "bg",
+          "name": "Димитрис Аврамопулос",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Dimitris Avramopulos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Dimitris Avramopoulos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Dimitris Avramopoulos",
+          "note": "multilingual"
+        },
+        {
           "lang": "el",
           "name": "Αβραμόπουλος Λάμπρου Δημήτριος",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Δημήτρης Αβραμόπουλος",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Dimitris Avramopoulos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Dimitris Avramopoulos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Dimítris Avramópoulos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Dimitris Avramopoulos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Dimitris Avramopoulos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ディミトリス・アヴラモポロウス",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "디미트리스 아브라모풀로스",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Dimitris Avramopoulos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Dimitris Avramopoulos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Dimitris Avramopoulos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Димитрис Аврамопулос",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Dimitris Avramopoulos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Dimitris Avramopulos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Дімітріс Аврамопулос",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "迪米特里斯·阿夫拉莫波洛斯",
           "note": "multilingual"
         }
       ],
@@ -5595,6 +6055,7 @@
       ]
     },
     {
+      "birth_date": "1950",
       "contact_details": [
         {
           "type": "email",
@@ -5608,6 +6069,14 @@
         {
           "identifier": "3e964920-cf9a-47cd-9827-a43400fbb732",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "3e964920-cf9a-47cd-9827-a43400fbb732",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "Q20995377",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/Balaouras2.jpg",
@@ -5616,11 +6085,31 @@
           "url": "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/Balaouras2.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Μάκης_Μπαλαούρας"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Gerasimos_Balaouras"
+        }
+      ],
       "name": "Balaouras Gerasimos",
       "other_names": [
         {
           "lang": "el",
+          "name": "Μάκης Μπαλαούρας",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
           "name": "Μπαλαούρας Δημητρίου Γεράσιμος",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Gerasimos Balaouras",
           "note": "multilingual"
         }
       ],
@@ -6309,18 +6798,87 @@
       ]
     },
     {
+      "birth_date": "1928",
+      "death_date": "2012-10-25",
+      "gender": "male",
+      "given_name": "Dimitris",
       "id": "def0f032-6bd1-464e-bc49-96b41ac882ca",
       "identifiers": [
         {
           "identifier": "968863cb-e549-4f87-a0d9-d97fad70965e",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "968863cb-e549-4f87-a0d9-d97fad70965e",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "316390863",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q1226012",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Dimitris_Beis"
+        },
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Δημήτρης_Μπέης"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Dimitris_Beis"
         }
       ],
       "name": "Beis Dimitrios",
       "other_names": [
         {
+          "name": "Dimitris Beis",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Dimitris Beis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Δημήτρης Μπέης",
+          "note": "multilingual"
+        },
+        {
           "lang": "el",
           "name": "Μπέης Γεωργίου Δημήτριος",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Dimitris Beis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Dimitris Beis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Dimitris Beis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Dimitris Beis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Dimitris Beis",
           "note": "multilingual"
         }
       ],
@@ -6688,15 +7246,35 @@
       ]
     },
     {
+      "gender": "male",
       "id": "67980451-aff8-43a2-8d75-1779cf504711",
       "identifiers": [
         {
           "identifier": "e8b38f83-fec4-4745-bbf7-5a886465bc13",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "e8b38f83-fec4-4745-bbf7-5a886465bc13",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "Q23670585",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Γιώργος_Μπιρδιμήρης"
         }
       ],
       "name": "Birdimiris Georgios",
       "other_names": [
+        {
+          "lang": "el",
+          "name": "Γιώργος Μπιρδιμήρης",
+          "note": "multilingual"
+        },
         {
           "lang": "el",
           "name": "Μπιρδιμήρης Αναστασίου Γεώργιος",
@@ -6798,15 +7376,29 @@
       ]
     },
     {
+      "gender": "female",
       "id": "bcf2a693-75da-41b8-9a29-a4dba66fc8b7",
       "identifiers": [
         {
           "identifier": "072a65d4-959f-49ac-941b-6847117b6e0e",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "072a65d4-959f-49ac-941b-6847117b6e0e",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "Q23759737",
+          "scheme": "wikidata"
         }
       ],
       "name": "Bolari Maria",
       "other_names": [
+        {
+          "lang": "el",
+          "name": "Μαρία Μπόλαρη",
+          "note": "multilingual"
+        },
         {
           "lang": "el",
           "name": "Μπόλαρη Βασιλείου Μαρία",
@@ -7175,6 +7767,7 @@
       ]
     },
     {
+      "birth_date": "1947-01-01",
       "contact_details": [
         {
           "type": "email",
@@ -7188,6 +7781,14 @@
         {
           "identifier": "96a24613-fb1d-4e23-8a85-666288512171",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "96a24613-fb1d-4e23-8a85-666288512171",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "Q4813213",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/bouras.jpg",
@@ -7198,6 +7799,18 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Θανάσης_Μπούρας"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Athanasios_Bouras"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Athanásios_Boúras"
+        },
+        {
           "note": "website",
           "url": "http://www.abouras.gr/"
         }
@@ -7205,8 +7818,37 @@
       "name": "Bouras Athanasios",
       "other_names": [
         {
+          "name": "Athanasios Bouras",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Athanasios Bouras",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Θανάσης Μπούρας",
+          "note": "multilingual"
+        },
+        {
           "lang": "el",
           "name": "Μπούρας Κωνσταντίνου Αθανάσιος",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Athanasios Bouras",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Athanasios Bouras",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Athanasios Bouras",
           "note": "multilingual"
         }
       ],
@@ -7217,15 +7859,37 @@
       ]
     },
     {
+      "birth_date": "1935",
+      "death_date": "1996-12-01",
+      "gender": "female",
       "id": "227856d6-bd80-4f80-9b01-438a668bad42",
       "identifiers": [
         {
           "identifier": "624873a4-537c-46b3-a817-24d3d44231c5",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "624873a4-537c-46b3-a817-24d3d44231c5",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "Q16512482",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Καλλιόπη_Μπουρδάρα_(βουλευτής_ΠΑΣΟΚ)"
         }
       ],
       "name": "Bourdara Kalliopi",
       "other_names": [
+        {
+          "lang": "el",
+          "name": "Καλλιόπη Μπουρδάρα",
+          "note": "multilingual"
+        },
         {
           "lang": "el",
           "name": "Μπουρδάρα Γεωργίου Καλλιόπη",
@@ -7831,10 +8495,23 @@
         {
           "identifier": "d94b5d26-97a8-4ad0-bee1-28e20922b0cb",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "d94b5d26-97a8-4ad0-bee1-28e20922b0cb",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "Q23905846",
+          "scheme": "wikidata"
         }
       ],
       "name": "Charalampopoulos Konstantinos",
       "other_names": [
+        {
+          "lang": "el",
+          "name": "Κωνσταντίνος Χαραλαμπόπουλος",
+          "note": "multilingual"
+        },
         {
           "lang": "el",
           "name": "Χαραλαμπόπουλος Αλεξάνδρου Κωνσταντίνος",
@@ -8437,11 +9114,20 @@
       ],
       "email": "c.chatzisavvas@parliament.gr",
       "gender": "male",
+      "given_name": "Chrístos",
       "id": "629abcf8-4a1f-4f86-99c3-651050defe4f",
       "identifiers": [
         {
           "identifier": "2658fbed-4973-4ad0-a922-a4340152854c",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "2658fbed-4973-4ad0-a922-a4340152854c",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "Q21008206",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/man_164.jpg",
@@ -8450,11 +9136,22 @@
           "url": "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/man_164.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Chrístos_Chatzisávvas"
+        }
+      ],
       "name": "Chatzisavvas Christos",
       "other_names": [
         {
           "lang": "el",
           "name": "Χατζησάββας Κωνσταντίνου Χρήστος",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Chrístos Chatzisávvas",
           "note": "multilingual"
         }
       ],
@@ -8602,10 +9299,29 @@
         {
           "identifier": "d8fc82cc-ec32-44ea-8667-c28f7108163e",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "d8fc82cc-ec32-44ea-8667-c28f7108163e",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "Q23010963",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Γεώργιος_Χιονίδης"
         }
       ],
       "name": "Chionidis Georgios",
       "other_names": [
+        {
+          "lang": "el",
+          "name": "Γεώργιος Χιονίδης",
+          "note": "multilingual"
+        },
         {
           "lang": "el",
           "name": "Χιονίδης Χαράλαμπου Γεώργιος",
@@ -8883,25 +9599,57 @@
       ]
     },
     {
+      "birth_date": "1948",
       "gender": "female",
       "id": "1a40e52d-dd82-4ff8-948c-10c88257d540",
       "identifiers": [
         {
           "identifier": "57e39806-451f-4585-be3a-a52500ac4c68",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "57e39806-451f-4585-be3a-a52500ac4c68",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "Q24702508",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/woman.jpg",
       "images": [
         {
           "url": "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/woman.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Tasia_Christodoulopoulou.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Τασία_Χριστοδουλοπούλου"
         }
       ],
       "name": "Christodoulopoulou Anastasia",
       "other_names": [
         {
+          "name": "Tasia Christodoulopoulou",
+          "note": "alternate"
+        },
+        {
+          "lang": "el",
+          "name": "Τασία Χριστοδουλοπούλου",
+          "note": "multilingual"
+        },
+        {
           "lang": "el",
           "name": "Χριστοδουλοπούλου Ζαχαρία Αναστασία",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Tasia Christodoulopoulou",
           "note": "multilingual"
         }
       ],
@@ -10415,18 +11163,93 @@
       ]
     },
     {
+      "birth_date": "1948",
+      "gender": "male",
+      "given_name": "Giannis",
       "id": "1b55cea2-caab-41ac-9d5c-73a2d0dbe61d",
       "identifiers": [
         {
           "identifier": "d5990c06-e153-422c-96cb-56ac7d2fa5e3",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "d5990c06-e153-422c-96cb-56ac7d2fa5e3",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "Q3559189",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Giannis_Diamantidis.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Giannis_Diamantidis.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Γιάννης_Διαμαντίδης"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Giannis_Diamantidis"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Янніс_Діамантідіс"
         }
       ],
       "name": "Diamantidis Ioannis",
       "other_names": [
         {
+          "name": "Giannis Diamantidis",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Giannis Diamantidis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Γιάννης Διαμαντίδης",
+          "note": "multilingual"
+        },
+        {
           "lang": "el",
           "name": "Διαμαντίδης Δημητρίου Ιωάννης",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Giannis Diamantidis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Giannis Diamantidis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Giannis Diamantidis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Giannis Diamantidis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Giannis Diamantidis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Янніс Діамантідіс",
           "note": "multilingual"
         }
       ],
@@ -11524,15 +12347,36 @@
       ]
     },
     {
+      "birth_date": "1929",
+      "gender": "male",
       "id": "22a594e8-0058-43b3-a263-77a3fd447d16",
       "identifiers": [
         {
           "identifier": "eab45ebc-94af-4d93-91d2-f6bc4b4148a9",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "eab45ebc-94af-4d93-91d2-f6bc4b4148a9",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "Q19635549",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Δημοσθένης_Δημοσθενόπουλος"
         }
       ],
       "name": "Dimosthenopoulos Dimosthenis",
       "other_names": [
+        {
+          "lang": "el",
+          "name": "Δημοσθένης_Δημοσθενόπουλος",
+          "note": "multilingual"
+        },
         {
           "lang": "el",
           "name": "Δημοσθενόπουλος Βασιλείου Δημοσθένης",
@@ -11656,11 +12500,38 @@
       ]
     },
     {
+      "birth_date": "1951",
+      "gender": "male",
+      "given_name": "Costas",
       "id": "acf4f793-1e60-4b0a-a1c5-4cf613719a75",
       "identifiers": [
         {
+          "identifier": "12365098z",
+          "scheme": "bnf"
+        },
+        {
           "identifier": "53e19969-ce12-4b35-952a-a525010daf38",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "53e19969-ce12-4b35-952a-a525010daf38",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "086620827",
+          "scheme": "nta"
+        },
+        {
+          "identifier": "060601213",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "111834618",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q5175041",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/man_56.jpg",
@@ -11669,11 +12540,55 @@
           "url": "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/man_56.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Κώστας_Δουζίνας"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Costas_Douzinas"
+        }
+      ],
       "name": "Douzinas Konstantinos",
       "other_names": [
         {
+          "name": "Costas Douzinas",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Costas Douzinas",
+          "note": "multilingual"
+        },
+        {
           "lang": "el",
           "name": "Δουζίνας Ευαγγέλου Κωνσταντίνος",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Κώστας Δουζίνας",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Costas Douzinas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Costas Douzinas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Costas Douzinas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Costas Douzinas",
           "note": "multilingual"
         }
       ],
@@ -11859,6 +12774,7 @@
       ]
     },
     {
+      "birth_date": "1947-08-22",
       "contact_details": [
         {
           "type": "email",
@@ -11872,19 +12788,73 @@
         {
           "identifier": "88537272-1951-4a8f-82ed-b2bcf2b57cdc",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88537272-1951-4a8f-82ed-b2bcf2b57cdc",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "Q7786625",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/dritsasth.jpg",
       "images": [
         {
           "url": "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/dritsasth.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Thodoris_Dritsas_2014_cropped.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Θοδωρής_Δρίτσας"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Thodoris_Dritsas"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Theódoros_Drítsas"
         }
       ],
       "name": "Dritsas Theodoros",
       "other_names": [
         {
+          "name": "Thodoris Dritsas",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Thodoris Dritsas",
+          "note": "multilingual"
+        },
+        {
           "lang": "el",
           "name": "Δρίτσας Παναγιώτη Θεόδωρος",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Θοδωρής Δρίτσας",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Thodoris Dritsas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Thodoris Dritsas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Thodoris Dritsas",
           "note": "multilingual"
         }
       ],
@@ -13362,25 +14332,80 @@
       ]
     },
     {
+      "birth_date": "1960",
       "gender": "male",
+      "given_name": "Nikólaos",
       "id": "b64271ad-0baf-4814-b38e-7acc220ddf33",
       "identifiers": [
         {
           "identifier": "fcbdd84c-999f-4b99-b472-a4340144b8b6",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "fcbdd84c-999f-4b99-b472-a4340144b8b6",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "Q20995410",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/man_104.jpg",
       "images": [
         {
           "url": "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/man_104.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Nikos_Filis_2014.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Νίκος_Φίλης"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Nikos_Filis"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Nikólaos_Fílis"
+        },
+        {
+          "note": "Wikipedia (la)",
+          "url": "https://la.wikipedia.org/wiki/Nicolaus_Philes"
         }
       ],
       "name": "Filis Nikolaos",
       "other_names": [
         {
+          "name": "Nikos Filis",
+          "note": "alternate"
+        },
+        {
+          "lang": "el",
+          "name": "Νίκος Φίλης",
+          "note": "multilingual"
+        },
+        {
           "lang": "el",
           "name": "Φίλης Αριστοτέλη Νικόλαος",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Nikos Filis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Nikólaos Fílis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Nicolaus Philes",
           "note": "multilingual"
         }
       ],
@@ -13391,12 +14416,21 @@
       ]
     },
     {
+      "birth_date": "1938",
       "gender": "male",
       "id": "bac1a50e-f9bb-4cc6-8e1e-456ab8a60d21",
       "identifiers": [
         {
           "identifier": "718dfd31-95c1-451d-9d79-a52500d459d9",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "718dfd31-95c1-451d-9d79-a52500d459d9",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "Q18914803",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/man_7.jpg",
@@ -13405,11 +14439,68 @@
           "url": "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/man_7.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Alekos_Flambouraris"
+        },
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Αλέκος_Φλαμπουράρης"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Alekos_Flambouraris"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Alékos_Flambouráris"
+        }
+      ],
       "name": "Flampouraris Alexandros",
       "other_names": [
         {
+          "name": "Alekos Flambouraris",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Alekos Flambouraris",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Αλέκος Φλαμπουράρης",
+          "note": "multilingual"
+        },
+        {
           "lang": "el",
           "name": "Φλαμπουράρης Γερασίμου Αλέξανδρος",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Alekos Flambouraris",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "Alekos Flambouraris",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "Alekos Flambouraris",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Alekos Flambouraris",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Alekos Flambouraris",
           "note": "multilingual"
         }
       ],
@@ -13716,18 +14807,65 @@
       ]
     },
     {
+      "birth_date": "1956-06-04",
+      "gender": "male",
+      "given_name": "Giorgos",
       "id": "7dab825a-5a8d-4704-938a-5e538cb0b7fb",
       "identifiers": [
         {
           "identifier": "7d5e0e96-cfe5-4ccb-af41-b0da6cb5aea8",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "7d5e0e96-cfe5-4ccb-af41-b0da6cb5aea8",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "Q1525593",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/76/Giorgos_Floridis.png",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Giorgos_Floridis.png"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Giorgos_Floridis"
+        },
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Γιώργος_Φλωρίδης"
         }
       ],
       "name": "Floridis Georgios",
       "other_names": [
         {
+          "lang": "de",
+          "name": "Giorgos Floridis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Γιώργος Φλωρίδης",
+          "note": "multilingual"
+        },
+        {
           "lang": "el",
           "name": "Φλωρίδης Διαμαντή Γεώργιος",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Giorgos Floridis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Giorgos Floridis",
           "note": "multilingual"
         }
       ],
@@ -15232,11 +16370,27 @@
       ]
     },
     {
+      "birth_date": "1936-04-15",
+      "gender": "male",
       "id": "861d4f65-00ce-4b9b-bf7c-a3d1f4ed2904",
       "identifiers": [
         {
           "identifier": "d0194d93-6cfe-4738-a85c-0475a280b6af",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "d0194d93-6cfe-4738-a85c-0475a280b6af",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "Q24034772",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Γιώργος_Γεωργίου_(Έλληνας_πολιτικός)"
         }
       ],
       "name": "Georgiou Stergiou Georgios",
@@ -15244,6 +16398,11 @@
         {
           "lang": "el",
           "name": "Γεωργίου Στεργίου Γεώργιος",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Γιώργος Γεωργίου",
           "note": "multilingual"
         }
       ],
@@ -15502,6 +16661,7 @@
       ]
     },
     {
+      "birth_date": "1961-01-16",
       "contact_details": [
         {
           "type": "email",
@@ -15510,11 +16670,20 @@
       ],
       "email": "olgagerovasili@gmail.com",
       "gender": "female",
+      "given_name": "Olga",
       "id": "4a67a985-732b-4d56-98c2-0f8938b58fc9",
       "identifiers": [
         {
           "identifier": "e14d5e43-6ac0-47e3-a5b4-633dfb423dd5",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "e14d5e43-6ac0-47e3-a5b4-633dfb423dd5",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "Q20995416",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.hellenicparliament.gr/UserFiles/ead3237d-2c71-43a9-b9ae-057fcbd6268d/gerovasiliolga.jpg",
@@ -15525,6 +16694,14 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Όλγα_Γεροβασίλη"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Ólga_Yerovassíli"
+        },
+        {
           "note": "website",
           "url": "http://gerovasili.wordpress.com"
         }
@@ -15532,8 +16709,27 @@
       "name": "Gerovasili Olga",
       "other_names": [
         {
+          "name": "Olga Gerovasili",
+          "note": "alternate"
+        },
+        {
+          "lang": "el",
+          "name": "Όλγα Γεροβασίλη",
+          "note": "multilingual"
+        },
+        {
           "lang": "el",
           "name": "Γεροβασίλη Βασιλείου Όλγα",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Olga Gerovasili",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Ólga Yerovassíli",
           "note": "multilingual"
         }
       ],
@@ -16432,11 +17628,20 @@
       ]
     },
     {
+      "gender": "male",
       "id": "4b33fb83-46e9-4d2a-bcea-a9da21d23c73",
       "identifiers": [
         {
           "identifier": "0bbdadb4-3887-4d20-a8ee-e657f0b53d7e",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "0bbdadb4-3887-4d20-a8ee-e657f0b53d7e",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "Q24340691",
+          "scheme": "wikidata"
         }
       ],
       "name": "Gkesoulis Nikolaos",
@@ -16444,6 +17649,11 @@
         {
           "lang": "el",
           "name": "Γκεσούλης Γεωργίου Νικόλαος",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Νικόλαος Γκεσούλης",
           "note": "multilingual"
         }
       ],
@@ -17556,10 +18766,23 @@
         {
           "identifier": "e9c4343c-c4bd-429f-b471-76851a52c9c0",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "e9c4343c-c4bd-429f-b471-76851a52c9c0",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "Q23905843",
+          "scheme": "wikidata"
         }
       ],
       "name": "Iatropoulou Aikaterini",
       "other_names": [
+        {
+          "lang": "el",
+          "name": "Αικατερίνη Ιατροπούλου",
+          "note": "multilingual"
+        },
         {
           "lang": "el",
           "name": "Ιατροπούλου Ιωάννη Αικατερίνη",
@@ -19836,6 +21059,7 @@
       ]
     },
     {
+      "birth_date": "1954-03-20",
       "contact_details": [
         {
           "type": "email",
@@ -19844,24 +21068,133 @@
       ],
       "email": "kke@parliament.gr",
       "gender": "female",
+      "given_name": "Liana",
       "id": "898664db-51a6-4f39-b7cb-e5af0bd3ad3b",
       "identifiers": [
         {
           "identifier": "da28629f-8ff3-4d16-9b94-91d0675b3cc4",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/09j_fn",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "da28629f-8ff3-4d16-9b94-91d0675b3cc4",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "nm2549004",
+          "scheme": "imdb"
+        },
+        {
+          "identifier": "Q2628736",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/KANELILIANA.jpg",
       "images": [
         {
           "url": "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/KANELILIANA.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Liana_Kanelli.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Λιάνα_Κανέλλη"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Liana_Kanelli"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Liana_Kanelli"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Liána_Kanélli"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Liana_Kanelli"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Канелли,_Лиана"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Liana_Kanelli"
         }
       ],
       "name": "Kanelli Garyfallia (Liana)",
       "other_names": [
         {
+          "name": "Liana Kanelli",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Liana Kanelli",
+          "note": "multilingual"
+        },
+        {
           "lang": "el",
           "name": "Κανέλλη Χρήστου Γαρυφαλλιά (Λιάνα)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Λιάνα Κανέλλη",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Liana Kanelli",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Liana Kanelli",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Liána Kanélli",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Liana Kanelli",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Liana Kanelli",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "リアナ・カネリ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Liana Kanelli",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Канелли, Лиана",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Liana Kanelli",
           "note": "multilingual"
         }
       ],
@@ -21865,6 +23198,7 @@
       ]
     },
     {
+      "birth_date": "1951-08-04",
       "contact_details": [
         {
           "type": "email",
@@ -21873,11 +23207,20 @@
       ],
       "email": "karasmanis@parliament.gr",
       "gender": "male",
+      "given_name": "Georgios",
       "id": "4bb3582b-eaf5-4adb-9715-8571b4cacc48",
       "identifiers": [
         {
           "identifier": "434805ad-6fe0-45d3-8c0a-80ab74f09f3b",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "434805ad-6fe0-45d3-8c0a-80ab74f09f3b",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "Q17280535",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/KARASMANISGEORGIOS.jpg",
@@ -21886,11 +23229,40 @@
           "url": "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/KARASMANISGEORGIOS.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Георгиос_Карасманис"
+        },
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Γιώργος_Καρασμάνης"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Geórgios_Karasmánis"
+        }
+      ],
       "name": "Karasmanis Georgios",
       "other_names": [
         {
+          "lang": "bg",
+          "name": "Георгиос Карасманис",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Γιώργος Καρασμάνης",
+          "note": "multilingual"
+        },
+        {
           "lang": "el",
           "name": "Καρασμάνης Αθανασίου Γεώργιος",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Georgios Karasmanis",
           "note": "multilingual"
         }
       ],
@@ -22733,15 +24105,36 @@
       ]
     },
     {
+      "birth_date": "1950-03-26",
+      "gender": "male",
       "id": "3db5005d-66da-4b34-83b4-bdb7879b756a",
       "identifiers": [
         {
           "identifier": "ca989c01-c7ed-4715-8e93-ab3abd765fc4",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "ca989c01-c7ed-4715-8e93-ab3abd765fc4",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "Q16329216",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Γιώργος_Κασσάρας"
         }
       ],
       "name": "Kassaras Ioannis Georgios",
       "other_names": [
+        {
+          "lang": "el",
+          "name": "Γιώργος Κασσάρας",
+          "note": "multilingual"
+        },
         {
           "lang": "el",
           "name": "Κασσάρας Ιωάννη Γεώργιος",
@@ -22777,18 +24170,152 @@
       ]
     },
     {
+      "birth_date": "1956",
+      "gender": "male",
+      "given_name": "Charis",
       "id": "5d6166fe-2cfc-443f-a866-c0e3d9166e62",
       "identifiers": [
         {
+          "identifier": "42276",
+          "scheme": "biblionet"
+        },
+        {
           "identifier": "b7d84e07-c593-42ca-a753-5e1b9708a128",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/0gh6l3p",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "139825274",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "b7d84e07-c593-42ca-a753-5e1b9708a128",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "0000 0000 7888 6877",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "n2002046058",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "102667844",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q1063232",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Charis_Kastanidis.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Charis_Kastanidis.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Харис_Кастанидис"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Charis_Kastanidis"
+        },
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Χάρης_Καστανίδης"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Haris_Kastanidis"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Háris_Kastanídis"
+        },
+        {
+          "note": "Wikipedia (mk)",
+          "url": "https://mk.wikipedia.org/wiki/Харис_Кастанидис"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Кастанидис,_Харис"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Харіс_Кастанідіс"
         }
       ],
       "name": "Kastanidis Charalampos",
       "other_names": [
         {
+          "name": "Haris Kastanidis",
+          "note": "alternate"
+        },
+        {
+          "lang": "bg",
+          "name": "Харис Кастанидис",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Charis Kastanidis",
+          "note": "multilingual"
+        },
+        {
           "lang": "el",
           "name": "Καστανίδης Γεωργίου Χαράλαμπος",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Χάρης Καστανίδης",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Haris Kastanidis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Haris Kastanidis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Háris Kastanídis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Haris Kastanidis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "Харис Кастанидис",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Haris Kastanidis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Кастанидис, Харис",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Харіс Кастанідіс",
           "note": "multilingual"
         }
       ],
@@ -24479,18 +26006,98 @@
       ]
     },
     {
+      "birth_date": "1959-05-25",
+      "gender": "male",
       "id": "d3ef87cd-aac0-4497-af33-5ba224884611",
       "identifiers": [
         {
+          "identifier": "125068",
+          "scheme": "europarlmep"
+        },
+        {
           "identifier": "8cdad4a9-6541-40b6-8c7c-ee858ca4031e",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "8cdad4a9-6541-40b6-8c7c-ee858ca4031e",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "Q6751217",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Manolis_Kefalogiannis"
+        },
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Μανώλης_Κεφαλογιάννης"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Manolis_Kefalogiannis"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Manolis_Kefaloyiannis"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Manolis_Kiefalojanis"
         }
       ],
       "name": "Kefalogiannis Emmanouil",
       "other_names": [
         {
+          "name": "Manolis Kefalogiannis",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Manolis Kefalogiannis",
+          "note": "multilingual"
+        },
+        {
           "lang": "el",
           "name": "Κεφαλογιάννης Κωνσταντίνου Εμμανουήλ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Μανώλης Κεφαλογιάννης",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Manolis Kefalogiannis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Manolis Kefalogiannis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Manolis Kefaloyiannis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Manolis Kefalogiannis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Manolis Kefalogiannis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Manolis Kiefalojanis",
           "note": "multilingual"
         }
       ],
@@ -24565,6 +26172,7 @@
       ]
     },
     {
+      "birth_date": "1961",
       "contact_details": [
         {
           "type": "email",
@@ -24573,11 +26181,20 @@
       ],
       "email": "info@kegeroglou.gr",
       "gender": "male",
+      "given_name": "Vassilios",
       "id": "1d55a112-afff-4791-b62e-32dee4c7c49f",
       "identifiers": [
         {
           "identifier": "41bcd457-067d-42cd-bf41-a3b95913c3fe",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "41bcd457-067d-42cd-bf41-a3b95913c3fe",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "Q20856023",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/kegeroglou2.jpg",
@@ -24588,6 +26205,14 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Βασίλης_Κεγκέρογλου"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Vassilios_Kéguéroglou"
+        },
+        {
           "note": "website",
           "url": "http://www.kegeroglou.gr"
         }
@@ -24596,7 +26221,22 @@
       "other_names": [
         {
           "lang": "el",
+          "name": "Βασίλης Κεγκέρογλου",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
           "name": "Κεγκέρογλου Αλεξάνδρου Βασίλειος",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Vassilios Kéguéroglou",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Vassilios Kéguéroglou",
           "note": "multilingual"
         }
       ],
@@ -24693,6 +26333,7 @@
       ]
     },
     {
+      "birth_date": "1980-07-18",
       "contact_details": [
         {
           "type": "email",
@@ -24706,6 +26347,14 @@
         {
           "identifier": "c7362b4e-73b1-49ee-bcc0-a4340151de8c",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "c7362b4e-73b1-49ee-bcc0-a4340151de8c",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "Q24700322",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/Kerameosniki_1.jpg",
@@ -24716,6 +26365,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Νίκη_Κεραμέως"
+        },
+        {
           "note": "website",
           "url": "http://www.nikikerameus.gr"
         }
@@ -24725,6 +26378,11 @@
         {
           "lang": "el",
           "name": "Κεραμέως Κωνσταντίνου Νίκη",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Νίκη Κεραμέως",
           "note": "multilingual"
         }
       ],
@@ -24975,11 +26633,29 @@
       ]
     },
     {
+      "birth_date": "1912-12",
+      "death_date": "2005",
+      "gender": "male",
+      "given_name": "Panagiotis",
       "id": "7bacb8d5-2df1-49e3-978d-b47abb923bc1",
       "identifiers": [
         {
           "identifier": "b254daee-2331-4d2d-9e31-3b68a006e850",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "b254daee-2331-4d2d-9e31-3b68a006e850",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "Q14723993",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Παναγιώτης_Κλης_(πολιτικός)"
         }
       ],
       "name": "Klis Panagiotis",
@@ -24987,6 +26663,11 @@
         {
           "lang": "el",
           "name": "Κλής Θεοδώρου Παναγιώτης",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Παναγιώτης Κλης",
           "note": "multilingual"
         }
       ],
@@ -25871,18 +27552,105 @@
       ]
     },
     {
+      "birth_date": "1912-11-21",
+      "death_date": "2009-11-09",
+      "gender": "male",
+      "given_name": "Giorgos",
       "id": "4d9ccbb9-c124-40a8-88bc-e453f1b440d8",
       "identifiers": [
         {
+          "identifier": "23014",
+          "scheme": "biblionet"
+        },
+        {
           "identifier": "eaa6b7e1-359d-4d59-8e2f-71a2a7457c05",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "eaa6b7e1-359d-4d59-8e2f-71a2a7457c05",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "Q445545",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Giorgos_Kontogeorgis"
+        },
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Γιώργος_Κοντογεώργης"
+        },
+        {
+          "note": "Wikipedia (eo)",
+          "url": "https://eo.wikipedia.org/wiki/Giorgios_Contogeorgis"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Giorgios_Contogeorgis"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Giorgios_Contogeorgis"
         }
       ],
       "name": "Kontogeorgis Georgios",
       "other_names": [
         {
+          "name": "Giorgos Kontogeorgis",
+          "note": "alternate"
+        },
+        {
+          "lang": "cy",
+          "name": "Giorgos Kontogeorgis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Giorgos Kontogeorgis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Γιώργος Κοντογεώργης",
+          "note": "multilingual"
+        },
+        {
           "lang": "el",
           "name": "Κοντογεώργης Λεωνίδα Γεώργιος",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Giorgos Kontogeorgis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Giorgios Contogeorgis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Giorgios Contogeorgis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Giorgios Contogeorgis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Giorgios Contogeorgis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Giorgios Contogeorgis",
           "note": "multilingual"
         }
       ],
@@ -26169,15 +27937,37 @@
       ]
     },
     {
+      "birth_date": "1900",
+      "death_date": "1994-08-24",
+      "gender": "male",
       "id": "97cf2d2d-5f3c-4458-97b3-9e1fa56d6819",
       "identifiers": [
         {
           "identifier": "8d91a65e-0ab9-4122-897c-0263796de7a7",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "8d91a65e-0ab9-4122-897c-0263796de7a7",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "Q23670570",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Ιωάννης_Κοντοβράκης"
         }
       ],
       "name": "Kontovrakis Ioannis",
       "other_names": [
+        {
+          "lang": "el",
+          "name": "Ιωάννης Κοντοβράκης",
+          "note": "multilingual"
+        },
         {
           "lang": "el",
           "name": "Κοντοβράκης Παναγιώτη Ιωάννης",
@@ -28127,18 +29917,174 @@
       ]
     },
     {
+      "birth_date": "1948-09-03",
+      "gender": "male",
       "id": "e2999f31-18ec-443a-9245-9920232ffd58",
       "identifiers": [
         {
           "identifier": "5498cd09-b15a-4311-bb83-61a3f144d8f3",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/03hhmdr",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "5498cd09-b15a-4311-bb83-61a3f144d8f3",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "Q970854",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Fotis_Kouvelis.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Fotis_Kouvelis.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Fotis_Kuvelis"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Fotis_Kouvelis"
+        },
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Φώτης_Κουβέλης"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Fotis_Kouvelis"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Fotis_Kouvelis"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Fótis_Kouvélis"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Fotis_Kouvelis"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Fotis_Kouvelis"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Fotis_Kuwelis"
+        },
+        {
+          "note": "Wikipedia (plwikiquote)",
+          "url": "https://plwikiquote.wikipedia.org/wiki/Fotis_Kuwelis"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Кувелис,_Фотис"
+        },
+        {
+          "note": "Wikipedia (sk)",
+          "url": "https://sk.wikipedia.org/wiki/Fotis_Kuvelis"
+        },
+        {
+          "note": "Wikipedia (tr)",
+          "url": "https://tr.wikipedia.org/wiki/Fotis_Kuvelis"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Фотіс_Кувеліс"
+        },
+        {
+          "note": "website",
+          "url": "http://www.kouvelis.gr"
         }
       ],
       "name": "Kouvelis Fotios - Fanourios",
       "other_names": [
         {
+          "name": "Fotis Kouvelis",
+          "note": "alternate"
+        },
+        {
+          "lang": "ca",
+          "name": "Fotis Kuvelis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Fotis Kouvelis",
+          "note": "multilingual"
+        },
+        {
           "lang": "el",
           "name": "Κουβέλης Ευαγγέλου Φώτιος - Φανούριος",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Φώτης Κουβέλης",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Fotis Kouvelis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Fotis Kouvelis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Fótis Kouvélis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Fotis Kouvelis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Fotis Kouvelis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Fotis Kouvelis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Fotis Kuwelis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Кувелис, Фотис",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Fotis Kuvelis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Fotis Kouvelis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Фотіс Кувеліс",
           "note": "multilingual"
         }
       ],
@@ -29043,18 +30989,126 @@
       ]
     },
     {
+      "birth_date": "1941-04-06",
+      "death_date": "2008-12-11",
+      "gender": "female",
+      "given_name": "Angeliki",
       "id": "4e80d20a-7c2f-4496-ab07-8dafd2e96dd2",
       "identifiers": [
         {
+          "identifier": "12019691m",
+          "scheme": "bnf"
+        },
+        {
+          "identifier": "2235",
+          "scheme": "cths"
+        },
+        {
           "identifier": "b59522c1-ed63-4b30-bf56-82bc343eec6d",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "b59522c1-ed63-4b30-bf56-82bc343eec6d",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "0000 0001 0855 1294",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "072049545",
+          "scheme": "nta"
+        },
+        {
+          "identifier": "028341767",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "12320533",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q4762724",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Αγγελική_Λαΐου"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Angeliki_Laiou"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Angeliki_Laiu"
+        },
+        {
+          "note": "Wikipedia (tr)",
+          "url": "https://tr.wikipedia.org/wiki/Angeliki_Laiou"
         }
       ],
       "name": "Laiou Angeliki",
       "other_names": [
         {
+          "name": "Angeliki Laiou",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Angeliki Laiou",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Αγγελική Λαΐου",
+          "note": "multilingual"
+        },
+        {
           "lang": "el",
           "name": "Λαίου Ευαγγέλου Αγγελική",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Angeliki Laiou",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "Angeliki Laiou",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "Angeliki Laiou",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Angeliki Laiou",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Angeliki Laiou",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Angeliki Laiou",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Angeliki Laiu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Angeliki Laiou",
           "note": "multilingual"
         }
       ],
@@ -29465,15 +31519,37 @@
       ]
     },
     {
+      "birth_date": "1918",
+      "death_date": "1989",
+      "gender": "male",
       "id": "54b25729-41c8-4c32-94ff-90c49eeefb56",
       "identifiers": [
         {
           "identifier": "e8a60950-2034-4d3b-9f84-8246f5d36b4c",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "e8a60950-2034-4d3b-9f84-8246f5d36b4c",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "Q12879670",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Κωνσταντίνος_Λάσκαρης"
         }
       ],
       "name": "Laskaris Konstantinos",
       "other_names": [
+        {
+          "lang": "el",
+          "name": "Κωνσταντίνος Λάσκαρης",
+          "note": "multilingual"
+        },
         {
           "lang": "el",
           "name": "Λάσκαρης Γεωργίου Κωνσταντίνος",
@@ -29610,18 +31686,55 @@
       ]
     },
     {
+      "birth_date": "1935",
+      "death_date": "1997-03-20",
+      "gender": "male",
       "id": "0ce40d92-407d-4c94-b4f8-4f1247fb4914",
       "identifiers": [
         {
           "identifier": "c48e5815-4ad0-43d8-81be-c4cc14201899",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "c48e5815-4ad0-43d8-81be-c4cc14201899",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "Q12873648",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/YMITTOS-2.JPG",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/YMITTOS-2.JPG"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Ανδρέας_Λεντάκης"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Лендакис,_Андреас"
         }
       ],
       "name": "Lentakis Andreas",
       "other_names": [
         {
           "lang": "el",
+          "name": "Ανδρέας Λεντάκης",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
           "name": "Λεντάκης Βασιλείου Ανδρέας",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Лендакис, Андреас",
           "note": "multilingual"
         }
       ],
@@ -31224,15 +33337,36 @@
       ]
     },
     {
+      "birth_date": "1951-01-12",
+      "gender": "male",
       "id": "60539a72-3390-4c61-8913-52e5bae59117",
       "identifiers": [
         {
           "identifier": "281b6b95-c889-4439-b624-eaea3f3e9288",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "281b6b95-c889-4439-b624-eaea3f3e9288",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "Q23653341",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Ευάγγελος_Μαλέσιος"
         }
       ],
       "name": "Malesios Evangelos",
       "other_names": [
+        {
+          "lang": "el",
+          "name": "Ευάγγελος Μαλέσιος",
+          "note": "multilingual"
+        },
         {
           "lang": "el",
           "name": "Μαλέσιος Νικολάου Ευάγγελος",
@@ -33050,6 +35184,14 @@
         {
           "identifier": "4b28a478-8768-453f-b820-a52500f1a43a",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "4b28a478-8768-453f-b820-a52500f1a43a",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "Q23670581",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/man_32.jpg",
@@ -33060,12 +35202,21 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Αναστάσιος_Μεγαλομύστακας"
+        },
+        {
           "note": "website",
           "url": "a.megalomystakas@parliament.gr"
         }
       ],
       "name": "Megalomystakas Anastasios",
       "other_names": [
+        {
+          "lang": "el",
+          "name": "Αναστάσιος Μεγαλομύστακας",
+          "note": "multilingual"
+        },
         {
           "lang": "el",
           "name": "Μεγαλομύστακας Χρήστου Αναστάσιος",
@@ -37048,18 +39199,252 @@
       ]
     },
     {
+      "birth_date": "1938-08-17",
+      "gender": "male",
+      "given_name": "Theodoros",
       "id": "5c570203-609a-4f64-836b-166d5b2a25d3",
       "identifiers": [
         {
           "identifier": "49d4e91d-0c23-4189-85c4-6a03fef35373",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "357915",
+          "scheme": "fast"
+        },
+        {
+          "identifier": "/m/087qt7",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "1026112745",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "49d4e91d-0c23-4189-85c4-6a03fef35373",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "nm5911128",
+          "scheme": "imdb"
+        },
+        {
+          "identifier": "0000 0001 0898 2596",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "nr95023487",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "114357609",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "49118069",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q462542",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/TheodorosPangalos.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/TheodorosPangalos.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Теодорос_Пангалос"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Theodoros_Pangalos_(Politiker)"
+        },
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Θεόδωρος_Πάγκαλος_(πολιτικός)"
+        },
+        {
+          "note": "Wikipedia (elwikiquote)",
+          "url": "https://elwikiquote.wikipedia.org/wiki/Θεόδωρος_Πάγκαλος"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Theodoros_Pangalos_(politician)"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Theodoros_Pangalos"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Theódoros_Pángalos_(1938-_)"
+        },
+        {
+          "note": "Wikipedia (mk)",
+          "url": "https://mk.wikipedia.org/wiki/Теодорос_Пангалос"
+        },
+        {
+          "note": "Wikipedia (mr)",
+          "url": "https://mr.wikipedia.org/wiki/थियोडोरोस_पँगालोस"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Theodoros_Pangalos_(politicus)"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Teodoros_Pangalos"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Пангалос,_Теодорос_(политик)"
+        },
+        {
+          "note": "Wikipedia (sk)",
+          "url": "https://sk.wikipedia.org/wiki/Theodoros_Pangalos_(mladší)"
+        },
+        {
+          "note": "Wikipedia (tr)",
+          "url": "https://tr.wikipedia.org/wiki/Teodoros_Pangalos"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Теодорос_Пангалос"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/塞奥佐罗斯·潘加洛斯"
         }
       ],
       "name": "Pagkalos Theodoros",
       "other_names": [
         {
+          "name": "Theodoros Pangalos",
+          "note": "alternate"
+        },
+        {
+          "lang": "bg",
+          "name": "Теодорос Пангалос",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Theodoros Pangalos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Θεόδωρος Γ. Πάγκαλος",
+          "note": "multilingual"
+        },
+        {
           "lang": "el",
           "name": "Πάγκαλος Γεωργίου Θεόδωρος",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Theodoros Pangalos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Theodoros Pangalos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Theodoros Pangalos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Theódoros Pángalos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Theodoros Pangalos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "Теодорос Пангалос",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mr",
+          "name": "थियोडोरोस पँगालोस",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Theodoros Pangalos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Theodoros Pangalos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Пангалос, Теодорос",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Theodoros Pangalos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Teodoros Pangalos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Теодорос Пангалос",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "塞奥佐罗斯·潘加洛斯",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "塞奥佐罗斯·潘加洛斯",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hans",
+          "name": "塞奥佐罗斯·潘加洛斯",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "塞奧佐羅斯·潘加洛斯",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "塞奧佐羅斯·潘加洛斯",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-sg",
+          "name": "塞奥佐罗斯·潘加洛斯",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-tw",
+          "name": "塞奧佐羅斯·潘加洛斯",
           "note": "multilingual"
         }
       ],
@@ -38122,15 +40507,36 @@
       ]
     },
     {
+      "death_date": "1998",
+      "gender": "male",
       "id": "33698015-328f-4e46-8cc4-8d1ce7ca524e",
       "identifiers": [
         {
           "identifier": "a981c1fe-5f98-4d30-ac81-192a53ea9d96",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "a981c1fe-5f98-4d30-ac81-192a53ea9d96",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "Q23636359",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Γεώργιος_Δ._Παπαδημητρίου"
         }
       ],
       "name": "Papadimitriou Georgios",
       "other_names": [
+        {
+          "lang": "el",
+          "name": "Γεώργιος Δ. Παπαδημητρίου",
+          "note": "multilingual"
+        },
         {
           "lang": "el",
           "name": "Παπαδημητρίου Δημητρίου Γεώργιος",
@@ -38144,15 +40550,35 @@
       ]
     },
     {
+      "gender": "male",
       "id": "54c3dcc5-84cc-446c-bf7d-9e88e3dd5af4",
       "identifiers": [
         {
           "identifier": "0a21b988-15b5-4118-9da8-d774be8c6825",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "0a21b988-15b5-4118-9da8-d774be8c6825",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "Q23670598",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Γεώργιος_Α._Παπαδημητρίου"
         }
       ],
       "name": "Papadimitriou Georgios",
       "other_names": [
+        {
+          "lang": "el",
+          "name": "Γεώργιος Α. Παπαδημητρίου",
+          "note": "multilingual"
+        },
         {
           "lang": "el",
           "name": "Παπαδημητρίου Αλεξάνδρου Γεώργιος",
@@ -38210,15 +40636,37 @@
       ]
     },
     {
+      "birth_date": "1914-04-20",
+      "death_date": "2006",
+      "gender": "male",
       "id": "ef36b490-9783-40c6-b0d9-8245135b0499",
       "identifiers": [
         {
           "identifier": "f8864543-f17a-440c-9fe6-0cfd1d05a5cb",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "f8864543-f17a-440c-9fe6-0cfd1d05a5cb",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "Q17605586",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Ντίνος_Παπαδημητρίου"
         }
       ],
       "name": "Papadimitriou Konstantinos",
       "other_names": [
+        {
+          "lang": "el",
+          "name": "Ντίνος Παπαδημητρίου",
+          "note": "multilingual"
+        },
         {
           "lang": "el",
           "name": "Παπαδημητρίου Νικολάου Κωνσταντίνος",
@@ -38605,15 +41053,36 @@
       ]
     },
     {
+      "birth_date": "1949",
+      "gender": "male",
       "id": "c526711e-6c0e-4d87-a48e-d1a8f5eb1419",
       "identifiers": [
         {
           "identifier": "129cc955-ecb7-4135-8d0c-f7b8d29fed48",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "129cc955-ecb7-4135-8d0c-f7b8d29fed48",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "Q12873280",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Αλέκος_Παπαδόπουλος_(πολιτικός)"
         }
       ],
       "name": "Papadopoulos Konstantinou Alexandros (Alekos)",
       "other_names": [
+        {
+          "lang": "el",
+          "name": "Αλέκος Παπαδόπουλος",
+          "note": "multilingual"
+        },
         {
           "lang": "el",
           "name": "Παπαδόπουλος Κωνσταντίνου Αλέξανδρος (Αλέκος)",
@@ -39000,18 +41469,52 @@
       ]
     },
     {
+      "birth_date": "1947-10-06",
+      "gender": "male",
       "id": "b568878c-7a23-4ab6-96ad-5b01783f7f3c",
       "identifiers": [
         {
           "identifier": "a67d10ba-0ca8-483d-9c88-ad1730118dd4",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "a67d10ba-0ca8-483d-9c88-ad1730118dd4",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "Q22959060",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Ελευθέριος_Παπαγεωργόπουλος"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Eleftherios_Papageorgopoulos"
         }
       ],
       "name": "Papageorgopoulos Eleftherios",
       "other_names": [
         {
+          "name": "Eleftherios Papageorgopoulos",
+          "note": "alternate"
+        },
+        {
+          "lang": "el",
+          "name": "Ελεύθεριος Παπαγεωργόπουλος",
+          "note": "multilingual"
+        },
+        {
           "lang": "el",
           "name": "Παπαγεωργόπουλος Νικολάου Ελευθέριος",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Eleftherios Papageorgopoulos",
           "note": "multilingual"
         }
       ],
@@ -39322,15 +41825,37 @@
       ]
     },
     {
+      "birth_date": "1910",
+      "death_date": "1986-01-28",
+      "gender": "male",
       "id": "bea87a4f-9db6-463e-bf47-4f979d171511",
       "identifiers": [
         {
           "identifier": "007d7f83-3e2e-4aca-8f6f-5ec9ce5c8fb8",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "007d7f83-3e2e-4aca-8f6f-5ec9ce5c8fb8",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "Q20650920",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Νικόλαος_Γ._Παπαϊωάννου"
         }
       ],
       "name": "Papaioannou Nikolaos",
       "other_names": [
+        {
+          "lang": "el",
+          "name": "Νικόλαος Γ. Παπαϊωάννου",
+          "note": "multilingual"
+        },
         {
           "lang": "el",
           "name": "Παπαϊωάννου Γεωργίου Νικόλαος",
@@ -42250,10 +44775,23 @@
         {
           "identifier": "43f9a0f2-4964-4657-9fd6-7c8fae9ff276",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "43f9a0f2-4964-4657-9fd6-7c8fae9ff276",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "Q23905844",
+          "scheme": "wikidata"
         }
       ],
       "name": "Patsilinakos Ioannis",
       "other_names": [
+        {
+          "lang": "el",
+          "name": "Ιωάννης Πατσιλινάκος",
+          "note": "multilingual"
+        },
         {
           "lang": "el",
           "name": "Πατσιλινάκος Αλεξάνδρου Ιωάννης",
@@ -42855,11 +45393,28 @@
       ]
     },
     {
+      "birth_date": "1933-07-09",
+      "death_date": "2016-04-16",
+      "gender": "male",
       "id": "e70ebd26-9192-4103-969a-11e6e08225ca",
       "identifiers": [
         {
           "identifier": "51bf0415-b1a7-40ca-8c23-d7b70422f141",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "51bf0415-b1a7-40ca-8c23-d7b70422f141",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "Q12874202",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Αυγερινός_(Ρένος)_Πετραλιάς"
         }
       ],
       "name": "Petralias Avgerinos",
@@ -42867,6 +45422,11 @@
         {
           "lang": "el",
           "name": "Πετραλιάς Αντωνίου Αυγερινός",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Ρένος Πετραλιάς",
           "note": "multilingual"
         }
       ],
@@ -42877,18 +45437,68 @@
       ]
     },
     {
+      "birth_date": "1931-08-18",
+      "death_date": "2016-01-06",
+      "gender": "male",
       "id": "6754e2c0-1efd-4c4d-9135-ab6ba59f2a54",
       "identifiers": [
         {
           "identifier": "761cde3d-c2b9-44ee-a9b9-9ee2ed67527b",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "761cde3d-c2b9-44ee-a9b9-9ee2ed67527b",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "Q14535892",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Ioannis_Petridis_MP_of_Pieria.png",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Ioannis_Petridis_MP_of_Pieria.png"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Ιωάννης_Πετρίδης"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ioannis_Petridis"
+        },
+        {
+          "note": "Wikipedia (simple)",
+          "url": "https://simple.wikipedia.org/wiki/Ioannis_Petridis"
         }
       ],
       "name": "Petridis Ioannis",
       "other_names": [
         {
+          "name": "Ioannis Petridis",
+          "note": "alternate"
+        },
+        {
+          "lang": "el",
+          "name": "Ιωάννης Πετρίδης",
+          "note": "multilingual"
+        },
+        {
           "lang": "el",
           "name": "Πετρίδης Θεοδώρου Ιωάννης",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Ioannis Petridis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Ioannis Petridis",
           "note": "multilingual"
         }
       ],
@@ -43466,24 +46076,69 @@
       ],
       "email": "pavlos.polakis@gmail.com",
       "gender": "male",
+      "given_name": "Pavlos",
       "id": "b4eb7a8f-d1c2-462f-9f4a-83515ceb1a47",
       "identifiers": [
         {
           "identifier": "fca68671-e503-463b-9f3f-a434013d5bb1",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "fca68671-e503-463b-9f3f-a434013d5bb1",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "Q20830739",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/man_124.jpg",
       "images": [
         {
           "url": "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/man_124.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Pavlos_Polakis_2014.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Παύλος_Πολάκης"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Pavlos_Polakis"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Pávlos_Polákis"
         }
       ],
       "name": "Polakis Paylos",
       "other_names": [
         {
+          "name": "Pavlos Polakis",
+          "note": "alternate"
+        },
+        {
+          "lang": "el",
+          "name": "Παύλος Πολάκης",
+          "note": "multilingual"
+        },
+        {
           "lang": "el",
           "name": "Πολάκης Πέτρου Παύλος",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Pavlos Polakis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Pavlos Polakis",
           "note": "multilingual"
         }
       ],
@@ -46935,18 +49590,117 @@
       ]
     },
     {
+      "birth_date": "1949-12-21",
+      "gender": "male",
+      "given_name": "Nikolaos",
       "id": "0addda39-4c39-45a9-b50e-342567e758e9",
       "identifiers": [
         {
+          "identifier": "28582",
+          "scheme": "europarlmep"
+        },
+        {
           "identifier": "b2363149-1c23-4e79-b5d1-4ae772547723",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/03jpwb",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "b2363149-1c23-4e79-b5d1-4ae772547723",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "309592679",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q3124878",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Νίκος_Σηφουνάκης"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Nikolaos_Sifounakis"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Níkos_Sifounákis"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Nikolaos_Sifunakis"
+        },
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Nikolaos_Sifounakis"
         }
       ],
       "name": "Sifounakis Nikolaos",
       "other_names": [
         {
+          "name": "Nikolaos Sifounakis",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Nikolaos Sifounakis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Νίκος Σηφουνάκης",
+          "note": "multilingual"
+        },
+        {
           "lang": "el",
           "name": "Σηφουνάκης Οδυσσέα Νικόλαος",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Nikolaos Sifounakis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Nikolaos Sifounakis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Níkos Sifounákis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Nikolaos Sifounakis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ニコラオス・シフナキス",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Nikolaos Sifounakis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Nikolaos Sifounakis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Nikolaos Sifounakis",
           "note": "multilingual"
         }
       ],
@@ -47792,15 +50546,36 @@
       ]
     },
     {
+      "death_date": "2001-12-10",
+      "gender": "male",
       "id": "05fed210-5005-4796-ae68-85e24a90f42c",
       "identifiers": [
         {
           "identifier": "41a46d7b-2ee6-426e-b8f3-48e11362a97b",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "41a46d7b-2ee6-426e-b8f3-48e11362a97b",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "Q23670556",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Θανάσης_Σκουλάς"
         }
       ],
       "name": "Skoulas Athanasios",
       "other_names": [
+        {
+          "lang": "el",
+          "name": "Θανάσης Σκουλάς",
+          "note": "multilingual"
+        },
         {
           "lang": "el",
           "name": "Σκουλάς Εμμανουήλ Αθανάσιος",
@@ -47945,6 +50720,7 @@
       ]
     },
     {
+      "birth_date": "1973-03-14",
       "contact_details": [
         {
           "type": "email",
@@ -47953,11 +50729,20 @@
       ],
       "email": "info@skrekaskostas.gr",
       "gender": "male",
+      "given_name": "Konstantínos",
       "id": "517d096f-a13e-43ce-a466-9d4c4b775b67",
       "identifiers": [
         {
           "identifier": "09bb14cd-2858-4ea6-92f5-5285bca69430",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "09bb14cd-2858-4ea6-92f5-5285bca69430",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "Q20995506",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/SKREKAS-KONSTANTINOS_1.png",
@@ -47968,6 +50753,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Konstantínos_Skrékas"
+        },
+        {
           "note": "website",
           "url": "http://skrekaskostas.gr"
         }
@@ -47977,6 +50766,11 @@
         {
           "lang": "el",
           "name": "Σκρέκας Θεοδώρου Κωνσταντίνος",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Konstantínos Skrékas",
           "note": "multilingual"
         }
       ],
@@ -48550,6 +51344,14 @@
         {
           "identifier": "c5923139-4306-416f-b57c-a52500f279ae",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "c5923139-4306-416f-b57c-a52500f279ae",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "Q23905977",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/Spartinos%20kwstas_1.jpg",
@@ -48560,6 +51362,11 @@
       ],
       "name": "Spartinos Konstantinos",
       "other_names": [
+        {
+          "lang": "el",
+          "name": "Κωνσταντίνος Σπαρτινός",
+          "note": "multilingual"
+        },
         {
           "lang": "el",
           "name": "Σπαρτινός Νικολάου Κωνσταντίνος",
@@ -52828,15 +55635,37 @@
       ]
     },
     {
+      "birth_date": "1938",
+      "death_date": "2012-06-27",
+      "gender": "male",
       "id": "52ea1dba-9b31-4b65-a9ec-4cc036e8ac43",
       "identifiers": [
         {
           "identifier": "2f34c8f1-d1b3-491a-8a1a-ef8e6495a8ae",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "2f34c8f1-d1b3-491a-8a1a-ef8e6495a8ae",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "Q23636386",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Κωνσταντίνος_Τριαρίδης"
         }
       ],
       "name": "Triaridis Konstantinos",
       "other_names": [
+        {
+          "lang": "el",
+          "name": "Κωνσταντίνος Τριαρίδης",
+          "note": "multilingual"
+        },
         {
           "lang": "el",
           "name": "Τριαρίδης Αθανασίου Κωνσταντίνος",
@@ -54578,12 +57407,22 @@
       ]
     },
     {
+      "birth_date": "1958",
       "gender": "male",
+      "given_name": "Giannis",
       "id": "cb1b46c9-5253-412d-8d07-4a26cd18d802",
       "identifiers": [
         {
           "identifier": "1627ed80-df12-45a6-87d2-a52500ea9e3d",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "1627ed80-df12-45a6-87d2-a52500ea9e3d",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "Q21064104",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/man_18.jpg",
@@ -54592,11 +57431,26 @@
           "url": "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/man_18.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Giannis_Tsironis"
+        }
+      ],
       "name": "Tsironis Ioannis",
       "other_names": [
         {
+          "name": "Giannis Tsironis",
+          "note": "alternate"
+        },
+        {
           "lang": "el",
           "name": "Τσιρώνης Γεωργίου Ιωάννης",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Giannis Tsironis",
           "note": "multilingual"
         }
       ],
@@ -59006,11 +61860,20 @@
     },
     {
       "gender": "male",
+      "given_name": "Andreas",
       "id": "43ba0553-02d7-4655-874b-319187a92334",
       "identifiers": [
         {
           "identifier": "2f2bd347-51ea-42ff-a3d9-7e23eb1ea9d6",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "2f2bd347-51ea-42ff-a3d9-7e23eb1ea9d6",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "Q19629692",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/man_142.jpg",
@@ -59019,11 +61882,54 @@
           "url": "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/man_142.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Andreas_Xanthos"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Andréas_Xanthós"
+        },
+        {
+          "note": "Wikipedia (la)",
+          "url": "https://la.wikipedia.org/wiki/Andreas_Xanthus"
+        }
+      ],
       "name": "Xanthos Andreas",
       "other_names": [
         {
+          "name": "Andreas Xanthos",
+          "note": "alternate"
+        },
+        {
+          "lang": "el",
+          "name": "Ανδρέας Ξανθός",
+          "note": "multilingual"
+        },
+        {
           "lang": "el",
           "name": "Ξανθός Γεωργίου Ανδρέας",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Andreas Xanthos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Andréas Xanthós",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Andreas Xanthos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Andreas Xanthus",
           "note": "multilingual"
         }
       ],
@@ -59799,11 +62705,26 @@
       ]
     },
     {
+      "gender": "male",
       "id": "74db8e1e-a387-4f41-b466-f071992833be",
       "identifiers": [
         {
           "identifier": "0509aa82-8a3e-4c19-ae21-4f82d9d66af2",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "0509aa82-8a3e-4c19-ae21-4f82d9d66af2",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "Q20995552",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Ioánnis_Zerdelís"
         }
       ],
       "name": "Zerdelis Ioannis",
@@ -59811,6 +62732,11 @@
         {
           "lang": "el",
           "name": "Ζερδελής Χριστοφόρου Ιωάννης",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Ioánnis Zerdelís",
           "note": "multilingual"
         }
       ],
@@ -60185,6 +63111,14 @@
         {
           "identifier": "cd500bca-908d-4b13-99f4-25f0e933cbe7",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "cd500bca-908d-4b13-99f4-25f0e933cbe7",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "Q23905849",
+          "scheme": "wikidata"
         }
       ],
       "name": "koumpanis Symeon",
@@ -60192,6 +63126,11 @@
         {
           "lang": "el",
           "name": "Κουμπάνης Ιωάννη Συμεών",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Συμεών Κουμπάνης",
           "note": "multilingual"
         }
       ],
