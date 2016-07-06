@@ -3897,6 +3897,12 @@
       "id": "Q9045502",
       "label": "member of the Parliament of Norway",
       "title": "member of the Parliament of Norway"
+    },
+    {
+      "id": "Q25376088",
+      "label": "Minister of Education and Church Affairs",
+      "title": "Minister of Education and Church Affairs",
+      "description": "Norwegian minister"
     }
   ],
   "Q4216656": [
@@ -4170,6 +4176,16 @@
       "id": "Q9045502",
       "label": "member of the Parliament of Norway",
       "title": "member of the Parliament of Norway"
+    },
+    {
+      "id": "Q25376088",
+      "label": "Minister of Education and Church Affairs",
+      "title": "Minister of Education and Church Affairs",
+      "description": "Norwegian minister",
+      "qualifiers": {
+        "P580": "1945",
+        "P582": "1948"
+      }
     }
   ],
   "Q4586046": [
@@ -4702,28 +4718,50 @@
       "id": "Q14436783",
       "label": "Minister of Children, Equality and Social Inclusion",
       "title": "Minister of Children, Equality and Social Inclusion",
-      "description": "Cabinet minister of Norway"
+      "description": "Cabinet minister of Norway",
+      "qualifiers": {
+        "P580": "1971",
+        "P582": "1972"
+      }
     },
     {
       "id": "Q1769706",
       "label": "Minister of Justice and Public Security",
-      "title": "Minister of Justice and Public Security"
+      "title": "Minister of Justice and Public Security",
+      "qualifiers": {
+        "P580": "1973-10-16",
+        "P582": "1979-10-08"
+      }
     },
     {
       "id": "Q3437006",
       "label": "Minister of Local Government and Regional Development",
-      "title": "Minister of Local Government and Regional Development"
+      "title": "Minister of Local Government and Regional Development",
+      "qualifiers": {
+        "P580": "1979",
+        "P582": "1980"
+      }
     },
     {
       "id": "Q9045502",
       "label": "member of the Parliament of Norway",
-      "title": "member of the Parliament of Norway"
+      "title": "member of the Parliament of Norway",
+      "qualifiers": {
+        "P580": "1977",
+        "P582": "1981"
+      }
     },
     {
       "id": "Q5588796",
       "label": "Government Director of Personnel",
       "title": "Government Director of Personnel",
       "description": "Norwegian position in the civil service"
+    },
+    {
+      "id": "Q25376088",
+      "label": "Minister of Education and Church Affairs",
+      "title": "Minister of Education and Church Affairs",
+      "description": "Norwegian minister"
     }
   ],
   "Q5643760": [
@@ -6074,14 +6112,13 @@
       "title": "member of the Parliament of Norway"
     },
     {
-      "id": "Q83307",
-      "label": "minister",
-      "title": "minister",
-      "description": "politician who holds significant public office in a national or regional government",
+      "id": "Q25376088",
+      "label": "Minister of Education and Church Affairs",
+      "title": "Minister of Education and Church Affairs",
+      "description": "Norwegian minister",
       "qualifiers": {
         "P580": "1948-06-28",
         "P582": "1953-12-09",
-        "P1037": "Q11980720",
         "P1365": "Kaare Fostervoll",
         "P1366": "Birger Bergersen",
         "P805": "Gerhardsen's Second Cabinet"
@@ -7423,6 +7460,12 @@
         "P1365": "Kirsti Kolle Grøndahl",
         "P1366": "Thorbjørn Jagland"
       }
+    },
+    {
+      "id": "Q25342372",
+      "label": "Minister of Government Administration, Reform and Church Affairs",
+      "title": "Minister of Government Administration, Reform and Church Affairs",
+      "description": "Norwegian minister"
     }
   ],
   "Q5668264": [
@@ -7948,9 +7991,16 @@
   ],
   "Q446337": [
     {
-      "id": "Q1769636",
-      "label": "Ministry of Government Administration, Reform and Church Affairs",
-      "title": "Ministry of Government Administration, Reform and Church Affairs"
+      "id": "Q25342372",
+      "label": "Minister of Government Administration, Reform and Church Affairs",
+      "title": "Minister of Government Administration, Reform and Church Affairs",
+      "description": "Norwegian minister",
+      "qualifiers": {
+        "P580": "1999",
+        "P582": "2000",
+        "P1365": "Eldbjørg Løwer",
+        "P1366": "Jørgen Kosmo"
+      }
     },
     {
       "id": "Q14436783",
@@ -9573,8 +9623,8 @@
     },
     {
       "id": "Q6516696",
-      "label": "Q6516696",
-      "title": "Q6516696",
+      "label": "county mayor",
+      "title": "county mayor",
       "qualifiers": {
         "P580": "2007",
         "P582": "2013",
