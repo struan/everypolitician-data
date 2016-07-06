@@ -1908,9 +1908,16 @@
       "images": [
         {
           "url": "http://static.rada.gov.ua/dep_img8/d75_1.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Artushenko_Igor.jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Артюшенко,_Игорь_Андреевич"
+        },
         {
           "note": "Wikipedia (uk)",
           "url": "https://uk.wikipedia.org/wiki/Артюшенко_Ігор_Андрійович"
@@ -1922,6 +1929,16 @@
       ],
       "name": "Артюшенко Ігор Андрійович",
       "other_names": [
+        {
+          "lang": "en",
+          "name": "Igor Artjushenko",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Артюшенко, Игорь Андреевич",
+          "note": "multilingual"
+        },
         {
           "lang": "uk",
           "name": "Артюшенко Ігор Андрійович",
@@ -3511,6 +3528,10 @@
         {
           "note": "Wikipedia (ca)",
           "url": "https://ca.wikipedia.org/wiki/Olha_Bohomolets"
+        },
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Olha_Bogomolets"
         },
         {
           "note": "Wikipedia (de)",
@@ -5111,6 +5132,7 @@
       "patronymic_name": "Романович"
     },
     {
+      "birth_date": "1971-05-06",
       "family_name": "Велікін",
       "given_name": "Олег",
       "id": "f2fc7486-32cb-459c-93ed-684b2ca32261",
@@ -5118,6 +5140,10 @@
         {
           "identifier": "19857",
           "scheme": "rada"
+        },
+        {
+          "identifier": "Q25375994",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://static.rada.gov.ua/dep_img8/bp78.jpg",
@@ -5126,7 +5152,20 @@
           "url": "http://static.rada.gov.ua/dep_img8/bp78.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Велікін_Олег_Маркович"
+        }
+      ],
       "name": "Велікін Олег Маркович",
+      "other_names": [
+        {
+          "lang": "uk",
+          "name": "Велікін Олег Маркович",
+          "note": "multilingual"
+        }
+      ],
       "patronymic_name": "Маркович"
     },
     {
@@ -18274,6 +18313,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Мепаришвили,_Хвича_Нодарович"
+        },
+        {
           "note": "Wikipedia (uk)",
           "url": "https://uk.wikipedia.org/wiki/Мепарішвілі_Хвича_Нодарович"
         }
@@ -21828,6 +21871,10 @@
           "url": "https://pl.wikipedia.org/wiki/Wasyl_Petiowka"
         },
         {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Петёвка,_Василий_Васильевич"
+        },
+        {
           "note": "Wikipedia (uk)",
           "url": "https://uk.wikipedia.org/wiki/Петьовка_Василь_Васильович"
         }
@@ -22726,6 +22773,10 @@
         {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Wiktorija_Ptaschnyk"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Пташник,_Виктория_Юрьевна"
         },
         {
           "note": "Wikipedia (uk)",
@@ -24955,7 +25006,7 @@
         },
         {
           "note": "Wikipedia (sv)",
-          "url": "https://sv.wikipedia.org/wiki/Denys_Silantiyev"
+          "url": "https://sv.wikipedia.org/wiki/Denys_Sylantjev"
         },
         {
           "note": "Wikipedia (uk)",
@@ -30367,6 +30418,7 @@
       "patronymic_name": "Аронович"
     },
     {
+      "birth_date": "1971-04-08",
       "family_name": "Шевченко",
       "gender": "male",
       "given_name": "Олександр",
@@ -30389,6 +30441,9 @@
       "images": [
         {
           "url": "http://static.rada.gov.ua/dep_img8/d83_1.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Олександр_Шевченко.jpg"
         }
       ],
       "links": [
@@ -30397,12 +30452,25 @@
           "url": "https://commons.wikipedia.org/wiki/Category:Oleksandr_Leonidovych_Shevchenko"
         },
         {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Шевченко,_Александр_Леонидович"
+        },
+        {
           "note": "Wikipedia (uk)",
           "url": "https://uk.wikipedia.org/wiki/Шевченко_Олександр_Леонідович"
+        },
+        {
+          "note": "website",
+          "url": "http://shevchenko.if.ua"
         }
       ],
       "name": "Шевченко Олександр Леонідович",
       "other_names": [
+        {
+          "lang": "ru",
+          "name": "Александр Леонидович Шевченко",
+          "note": "multilingual"
+        },
         {
           "lang": "uk",
           "name": "Шевченко Олександр Леонідович",
