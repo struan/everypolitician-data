@@ -88,12 +88,28 @@
       "id": "Q845439",
       "label": "Prime Minister of Lithuania",
       "title": "Prime Minister of Lithuania",
-      "description": "position"
+      "description": "position",
+      "qualifiers": {
+        "P580": "2006-07-04",
+        "P582": "2008-12-09"
+      }
     },
     {
       "id": "Q18507240",
       "label": "Member of the Seimas",
       "title": "Member of the Seimas"
+    },
+    {
+      "id": "Q25470413",
+      "label": "Minister of National Defence",
+      "title": "Minister of National Defence",
+      "description": "in Lithuania",
+      "qualifiers": {
+        "P580": "2004-12-14",
+        "P582": "2006-07-18",
+        "P1365": "Linas Antanas Linkevičius",
+        "P1366": "Juozas Olekas"
+      }
     }
   ],
   "Q11714005": [
@@ -413,6 +429,12 @@
       "id": "Q18507240",
       "label": "Member of the Seimas",
       "title": "Member of the Seimas"
+    },
+    {
+      "id": "Q25470413",
+      "label": "Minister of National Defence",
+      "title": "Minister of National Defence",
+      "description": "in Lithuania"
     }
   ],
   "Q552497": [
