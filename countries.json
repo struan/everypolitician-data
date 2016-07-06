@@ -4892,22 +4892,22 @@
         "slug": "States",
         "sources_directory": "data/Jersey/States/sources",
         "popolo": "data/Jersey/States/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/478f97f/data/Jersey/States/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/4bce540/data/Jersey/States/ep-popolo-v1.0.json",
         "names": "data/Jersey/States/names.csv",
-        "lastmod": "1467668422",
-        "person_count": 58,
-        "sha": "478f97f",
+        "lastmod": "1467810995",
+        "person_count": 61,
+        "sha": "4bce540",
         "legislative_periods": [
           {
-            "id": "term/6",
-            "name": "Assembly 2011–",
-            "start_date": "2011",
-            "slug": "6",
-            "csv": "data/Jersey/States/term-6.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/478f97f/data/Jersey/States/term-6.csv"
+            "id": "term/2011",
+            "name": "Assembly 2014–",
+            "start_date": "2014-11-03",
+            "slug": "2011",
+            "csv": "data/Jersey/States/term-2011.csv",
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/4bce540/data/Jersey/States/term-2011.csv"
           }
         ],
-        "statement_count": 1590
+        "statement_count": 1638
       }
     ]
   },
