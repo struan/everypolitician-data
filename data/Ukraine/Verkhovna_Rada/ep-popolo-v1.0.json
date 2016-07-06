@@ -5132,6 +5132,7 @@
       "patronymic_name": "Романович"
     },
     {
+      "birth_date": "1971-05-06",
       "family_name": "Велікін",
       "given_name": "Олег",
       "id": "f2fc7486-32cb-459c-93ed-684b2ca32261",
@@ -5139,6 +5140,10 @@
         {
           "identifier": "19857",
           "scheme": "rada"
+        },
+        {
+          "identifier": "Q25375994",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://static.rada.gov.ua/dep_img8/bp78.jpg",
@@ -5147,7 +5152,20 @@
           "url": "http://static.rada.gov.ua/dep_img8/bp78.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Велікін_Олег_Маркович"
+        }
+      ],
       "name": "Велікін Олег Маркович",
+      "other_names": [
+        {
+          "lang": "uk",
+          "name": "Велікін Олег Маркович",
+          "note": "multilingual"
+        }
+      ],
       "patronymic_name": "Маркович"
     },
     {
