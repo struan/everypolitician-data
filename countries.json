@@ -110,20 +110,20 @@
         "slug": "States",
         "sources_directory": "data/Alderney/States/sources",
         "popolo": "data/Alderney/States/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/239267e/data/Alderney/States/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/beb21e5/data/Alderney/States/ep-popolo-v1.0.json",
         "names": "data/Alderney/States/names.csv",
-        "lastmod": "1466613615",
+        "lastmod": "1467808300",
         "person_count": 10,
-        "sha": "239267e",
+        "sha": "beb21e5",
         "legislative_periods": [
           {
-            "end_date": "2015",
+            "end_date": "2016-11",
             "id": "term/2014",
-            "name": "2014–2015",
-            "start_date": "2014",
+            "name": "2014–2016",
+            "start_date": "2014-11-22",
             "slug": "2014",
             "csv": "data/Alderney/States/term-2014.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/239267e/data/Alderney/States/term-2014.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/beb21e5/data/Alderney/States/term-2014.csv"
           }
         ],
         "statement_count": 531
