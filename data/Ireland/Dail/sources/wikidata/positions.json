@@ -75,12 +75,22 @@
     {
       "id": "Q6865958",
       "label": "Minister for Social Protection",
-      "title": "Minister for Social Protection"
+      "title": "Minister for Social Protection",
+      "qualifiers": {
+        "P580": "2011-03-09",
+        "P582": "2016-05-06",
+        "P1365": "Éamon Ó Cuív",
+        "P1366": "Leo Varadkar"
+      }
     },
     {
       "id": "Q6866369",
       "label": "Minister of State for Overseas Development",
-      "title": "Minister of State for Overseas Development"
+      "title": "Minister of State for Overseas Development",
+      "qualifiers": {
+        "P580": "1994-12-20",
+        "P582": "1997-06-26"
+      }
     },
     {
       "id": "Q654291",
@@ -89,13 +99,27 @@
       "description": "member of the Irish Parliament"
     },
     {
-      "id": "Q6508524",
-      "label": "Leader of the Labour Party",
-      "title": "Leader of the Labour Party",
-      "description": "leader of the Labour Party in Ireland",
+      "id": "Q25391770",
+      "label": "Deputy Leader of the Labour Party",
+      "title": "Deputy Leader of the Labour Party",
+      "description": "Ireland",
       "qualifiers": {
         "P580": "2014-07-04",
-        "P1365": "Eamon Gilmore"
+        "P1365": "Eamon Gilmore",
+        "P582": "2016-05-20",
+        "P1366": "Brendan Howlin"
+      }
+    },
+    {
+      "id": "Q1146214",
+      "label": "Tánaiste",
+      "title": "Tánaiste",
+      "description": "deputy prime minister of Ireland",
+      "qualifiers": {
+        "P580": "2014-07-04",
+        "P582": "2016-05-06",
+        "P1365": "Eamon Gilmore",
+        "P1366": "Frances Fitzgerald"
       }
     }
   ],
@@ -1304,6 +1328,15 @@
       "label": "Deputy to the Dáil",
       "title": "Deputy to the Dáil",
       "description": "member of the Irish Parliament"
+    },
+    {
+      "id": "Q25342400",
+      "label": "Minister of State for Tourism and Sport",
+      "title": "Minister of State for Tourism and Sport",
+      "description": "Irish minister of state",
+      "qualifiers": {
+        "P580": "2016-05-19"
+      }
     }
   ],
   "Q3777612": [
@@ -1650,12 +1683,20 @@
       "id": "Q6866375",
       "label": "Minister of State for Trade and Development",
       "title": "Minister of State for Trade and Development",
-      "description": "Irish cabinet minister"
+      "description": "Irish cabinet minister",
+      "qualifiers": {
+        "P580": "2009-04-22",
+        "P582": "2011-03-09"
+      }
     },
     {
       "id": "Q6866364",
       "label": "Minister of State for Labour Affairs",
-      "title": "Minister of State for Labour Affairs"
+      "title": "Minister of State for Labour Affairs",
+      "qualifiers": {
+        "P580": "2007-06-20",
+        "P582": "2009-04-21"
+      }
     },
     {
       "id": "Q654291",
@@ -1758,15 +1799,33 @@
   ],
   "Q3777472": [
     {
-      "id": "Q6866523",
-      "label": "Ministers of State of the 31st Dáil",
-      "title": "Ministers of State of the 31st Dáil"
+      "id": "Q25342399",
+      "label": "Minister of State for Regional Economic Development",
+      "title": "Minister of State for Regional Economic Development",
+      "description": "Irish Minister of State",
+      "qualifiers": {
+        "P580": "2016-05-19"
+      }
     },
     {
       "id": "Q654291",
       "label": "Deputy to the Dáil",
       "title": "Deputy to the Dáil",
-      "description": "member of the Irish Parliament"
+      "description": "member of the Irish Parliament",
+      "qualifiers": {
+        "P580": "1994-06"
+      }
+    },
+    {
+      "id": "Q25342400",
+      "label": "Minister of State for Tourism and Sport",
+      "title": "Minister of State for Tourism and Sport",
+      "description": "Irish minister of state",
+      "qualifiers": {
+        "P580": "2011-03-10",
+        "P582": "2016-05-19",
+        "P1366": "Patrick O'Donovan"
+      }
     }
   ],
   "Q5221987": [
@@ -1798,12 +1857,23 @@
       "id": "Q1146214",
       "label": "Tánaiste",
       "title": "Tánaiste",
-      "description": "deputy prime minister of Ireland"
+      "description": "deputy prime minister of Ireland",
+      "qualifiers": {
+        "P580": "2011-03-09",
+        "P582": "2014-07-04",
+        "P1365": "Mary Coughlan",
+        "P1366": "Joan Burton"
+      }
     },
     {
       "id": "Q6865853",
       "label": "Minister for Foreign Affairs and Trade",
-      "title": "Minister for Foreign Affairs and Trade"
+      "title": "Minister for Foreign Affairs and Trade",
+      "qualifiers": {
+        "P580": "2011-03-09",
+        "P582": "2014-07-11",
+        "P1366": "Charles Flanagan"
+      }
     },
     {
       "id": "Q6508524",
@@ -1828,23 +1898,38 @@
     {
       "id": "Q6865904",
       "label": "Minister for Justice and Equality",
-      "title": "Minister for Justice and Equality"
+      "title": "Minister for Justice and Equality",
+      "qualifiers": {
+        "P580": "2011-01-20",
+        "P582": "2011-03-09"
+      }
     },
     {
       "id": "Q6865750",
       "label": "Minister for Agriculture, Food and the Marine",
-      "title": "Minister for Agriculture, Food and the Marine"
+      "title": "Minister for Agriculture, Food and the Marine",
+      "qualifiers": {
+        "P580": "2008-05-07",
+        "P582": "2011-03-09"
+      }
     },
     {
       "id": "Q6866339",
       "label": "Minister of State for Children",
-      "title": "Minister of State for Children"
+      "title": "Minister of State for Children",
+      "qualifiers": {
+        "P580": "2007-06-20",
+        "P582": "2008-05-07"
+      }
     },
     {
       "id": "Q654291",
       "label": "Deputy to the Dáil",
       "title": "Deputy to the Dáil",
-      "description": "member of the Irish Parliament"
+      "description": "member of the Irish Parliament",
+      "qualifiers": {
+        "P580": "1992-11"
+      }
     }
   ],
   "Q273274": [
