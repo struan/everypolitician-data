@@ -9490,14 +9490,30 @@
     {
       "gender": "male",
       "id": "88a1b311-0eef-4a22-ba0e-9500d8cd22bf",
+      "identifiers": [
+        {
+          "identifier": "Q24839448",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90060.jpg",
       "images": [
         {
           "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90060.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/陳宜民"
+        }
+      ],
       "name": "Yi-Ming Chen",
       "other_names": [
+        {
+          "name": "陳宜民",
+          "note": "alternate"
+        },
         {
           "lang": "zh",
           "name": "陳宜民",
@@ -10791,6 +10807,11 @@
         {
           "lang": "bg",
           "name": "Демократическа прогресивна партия",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Demokratik İlerici Parti",
           "note": "multilingual"
         },
         {
