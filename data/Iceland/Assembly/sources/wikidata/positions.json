@@ -579,7 +579,11 @@
     {
       "id": "Q17013941",
       "label": "Minister of Justice and Ecclesiastical Affairs",
-      "title": "Minister of Justice and Ecclesiastical Affairs"
+      "title": "Minister of Justice and Ecclesiastical Affairs",
+      "qualifiers": {
+        "P580": "1999",
+        "P582": "2003"
+      }
     }
   ],
   "Q540028": [
@@ -1068,13 +1072,32 @@
       "id": "Q21272959",
       "label": "Member of the Althing",
       "title": "Member of the Althing",
-      "description": "Member of the Icelandic parliament"
+      "description": "Member of the Icelandic parliament",
+      "qualifiers": {
+        "P580": "2007-04",
+        "P768": "Northeast Constituency",
+        "P582": "2009"
+      }
     },
     {
       "id": "Q16429233",
       "label": "Minister of the Interior",
       "title": "Minister of the Interior",
-      "description": "Icelandic Minister of the Interior"
+      "description": "Icelandic Minister of the Interior",
+      "qualifiers": {
+        "P580": "2014-12-04",
+        "P1365": "Sigmundur Davíð Gunnlaugsson"
+      }
+    },
+    {
+      "id": "Q21272959",
+      "label": "Member of the Althing",
+      "title": "Member of the Althing",
+      "description": "Member of the Icelandic parliament",
+      "qualifiers": {
+        "P768": "Reykjavík Constituency South",
+        "P580": "2009"
+      }
     }
   ],
   "Q6032483": [
