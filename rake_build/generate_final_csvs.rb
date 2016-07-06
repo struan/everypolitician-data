@@ -131,8 +131,10 @@ namespace :term_csvs do
     else 
       { exclude: { self: [], other: [] }, include: { self: [], other_legislatures: [], executive: [], party: [], other: [] } }
     end
+
     to_include = filter[:include].map { |_, fs| fs.map { |f| f[:id] } }.flatten.to_set
     to_exclude = filter[:exclude].map { |_, fs| fs.map { |f| f[:id] } }.flatten.to_set
+    executive  = filter[:include][:executive].map { |p| p[:id] }.to_set
 
     want, unknown = @json[:persons].map { |p| 
       (p[:identifiers] || []).find_all { |i| i[:scheme] == 'wikidata' }.map { |id|
@@ -150,6 +152,10 @@ namespace :term_csvs do
         }
       }
     }.flatten(2).reject { |r| to_exclude.include? r[:position_id] }.partition { |r| to_include.include? r[:position_id] }
+
+    want.select { |p| executive.include? p[:position_id] }.select { |p| p[:start_date].nil? && p[:end_date].nil? }.each do |p|
+      warn "  ☇ No dates for #{p[:name]} (#{p[:wikidata]}) as #{p[:position]}"
+    end
 
     (filter[:unknown] ||= {})[:unknown] = unknown.
       group_by { |u| u[:position_id] }.
