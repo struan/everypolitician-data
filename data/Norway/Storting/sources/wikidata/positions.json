@@ -7423,6 +7423,12 @@
         "P1365": "Kirsti Kolle Grøndahl",
         "P1366": "Thorbjørn Jagland"
       }
+    },
+    {
+      "id": "Q25342372",
+      "label": "Minister of Government Administration, Reform and Church Affairs",
+      "title": "Minister of Government Administration, Reform and Church Affairs",
+      "description": "Norwegian minister"
     }
   ],
   "Q5668264": [
@@ -7948,9 +7954,16 @@
   ],
   "Q446337": [
     {
-      "id": "Q1769636",
-      "label": "Ministry of Government Administration, Reform and Church Affairs",
-      "title": "Ministry of Government Administration, Reform and Church Affairs"
+      "id": "Q25342372",
+      "label": "Minister of Government Administration, Reform and Church Affairs",
+      "title": "Minister of Government Administration, Reform and Church Affairs",
+      "description": "Norwegian minister",
+      "qualifiers": {
+        "P580": "1999",
+        "P582": "2000",
+        "P1365": "Eldbjørg Løwer",
+        "P1366": "Jørgen Kosmo"
+      }
     },
     {
       "id": "Q14436783",
@@ -9573,8 +9586,8 @@
     },
     {
       "id": "Q6516696",
-      "label": "Q6516696",
-      "title": "Q6516696",
+      "label": "county mayor",
+      "title": "county mayor",
       "qualifiers": {
         "P580": "2007",
         "P582": "2013",
