@@ -9000,6 +9000,34 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "m.nauyoma@parliament.na"
+        }
+      ],
+      "email": "m.nauyoma@parliament.na",
+      "id": "d498c690-ecc3-4360-83c5-1d7b65a5b7ce",
+      "identifiers": [
+        {
+          "identifier": "Nauyoma-Reinhold-Madala",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parliament.gov.na/images/nationalassemblymembers/6thparliament/hon_nauyoma.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.gov.na/images/nationalassemblymembers/6thparliament/hon_nauyoma.jpg"
+        }
+      ],
+      "name": "Nauyoma, Reinhold Madala",
+      "sources": [
+        {
+          "url": "http://www.parliament.gov.na/index.php?option=com_contact&view=contact&id=1470:nauyoma-reinhold-madala-all&catid=104&Itemid=1479"
+        }
+      ]
+    },
+    {
       "birth_date": "1956-03-18",
       "gender": "female",
       "given_name": "Rebecca",
@@ -10950,7 +10978,7 @@
       "name": "Shikongo, Torka Victorine",
       "sources": [
         {
-          "url": "http://www.parliament.gov.na/index.php?option=com_contact&view=contact&id=1275:shikongo-torka-victorine-all&catid=104&Itemid=1479"
+          "url": "http://www.parliament.gov.na/index.php?option=com_contact&view=contact&id=1276:shikongo-torka-victorine-chief&catid=104&Itemid=1479"
         }
       ]
     },
@@ -17592,7 +17620,7 @@
     },
     {
       "legislative_period_id": "term/6",
-      "on_behalf_of_id": "",
+      "on_behalf_of_id": "SWAPO",
       "organization_id": "legislature",
       "person_id": "c1ea27ce-78f3-4283-a8d5-61d046e5ba4f",
       "role": "member"
@@ -17805,6 +17833,13 @@
       "on_behalf_of_id": "SWAPO",
       "organization_id": "legislature",
       "person_id": "d474eba0-2504-4108-b491-6372abf850bb",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/6",
+      "on_behalf_of_id": "APP",
+      "organization_id": "legislature",
+      "person_id": "d498c690-ecc3-4360-83c5-1d7b65a5b7ce",
       "role": "member"
     },
     {
@@ -18292,7 +18327,7 @@
     },
     {
       "legislative_period_id": "term/6",
-      "on_behalf_of_id": "SWAPO",
+      "on_behalf_of_id": "UDF",
       "organization_id": "legislature",
       "person_id": "eac826f2-6c3c-4fe3-9c75-50b1b84cd6a7",
       "role": "member"
