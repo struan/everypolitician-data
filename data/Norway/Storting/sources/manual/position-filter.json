@@ -54,12 +54,22 @@
         "name": "Minister of Culture"
       },
       {
+        "id": "Q25376088",
+        "name": "Minister of Education and Church Affairs",
+        "description": "Norwegian minister"
+      },
+      {
         "id": "Q22981866",
         "name": "Minister of Education and Research"
       },
       {
         "id": "Q3734685",
         "name": "Minister of Finance of Norway"
+      },
+      {
+        "id": "Q25342372",
+        "name": "Minister of Government Administration, Reform and Church Affairs",
+        "description": "Norwegian minister"
       },
       {
         "id": "Q6866170",
@@ -155,12 +165,6 @@
   "unknown": {
     "unknown": [
       {
-        "id": "Q25342372",
-        "name": "Minister of Government Administration, Reform and Church Affairs",
-        "description": "Norwegian minister",
-        "count": 2
-      },
-      {
         "id": "Q6516696",
         "name": "county mayor",
         "description": null,
@@ -171,12 +175,6 @@
         "name": "mayor",
         "description": "head of municipal government such as a town or city",
         "count": 4
-      },
-      {
-        "id": "Q83307",
-        "name": "minister",
-        "description": "politician who holds significant public office in a national or regional government",
-        "count": 1
       }
     ]
   }
