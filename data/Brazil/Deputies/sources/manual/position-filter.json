@@ -30,7 +30,11 @@
 
     ],
     "other": [
-
+      {
+        "id": "Q24255165",
+        "name": "Mayor of São Paulo",
+        "description": null
+      }
     ]
   },
   "unknown": {
@@ -42,9 +46,15 @@
         "count": 1
       },
       {
-        "id": "Q24255165",
-        "name": "Mayor of São Paulo",
+        "id": "Q4657217",
+        "name": "municipal executive",
         "description": null,
+        "count": 1
+      },
+      {
+        "id": "Q371909",
+        "name": "prefect",
+        "description": "magisterial title",
         "count": 1
       }
     ]
