@@ -5,7 +5,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/honduras-national-congress-wikipedia",
-        "query": "SELECT *, 8 AS term FROM data"
+        "query": "SELECT *, 8 AS term FROM data ORDER BY name"
       },
       "source": "https://es.wikipedia.org/wiki/Anexo:Diputados_del_Congreso_Nacional_de_Honduras_2014-2018",
       "type": "membership"
@@ -15,7 +15,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/honduras-national-congress-wikidata",
-        "query": "SELECT * FROM data"
+        "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "http://wikidata.org/",
       "type": "wikidata",
