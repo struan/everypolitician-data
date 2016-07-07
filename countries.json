@@ -6566,11 +6566,11 @@
         "slug": "House-of-Representatives",
         "sources_directory": "data/Netherlands/House_of_Representatives/sources",
         "popolo": "data/Netherlands/House_of_Representatives/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/7ff418f/data/Netherlands/House_of_Representatives/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/cee6cc1/data/Netherlands/House_of_Representatives/ep-popolo-v1.0.json",
         "names": "data/Netherlands/House_of_Representatives/names.csv",
-        "lastmod": "1467822924",
+        "lastmod": "1467907326",
         "person_count": 190,
-        "sha": "7ff418f",
+        "sha": "cee6cc1",
         "legislative_periods": [
           {
             "id": "term/2012",
@@ -6578,10 +6578,10 @@
             "start_date": "2012-09-20",
             "slug": "2012",
             "csv": "data/Netherlands/House_of_Representatives/term-2012.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/7ff418f/data/Netherlands/House_of_Representatives/term-2012.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/cee6cc1/data/Netherlands/House_of_Representatives/term-2012.csv"
           }
         ],
-        "statement_count": 15408
+        "statement_count": 15410
       }
     ]
   },
@@ -8938,11 +8938,11 @@
         "slug": "Congress",
         "sources_directory": "data/Spain/Congress/sources",
         "popolo": "data/Spain/Congress/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/15c78fa/data/Spain/Congress/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e359bab/data/Spain/Congress/ep-popolo-v1.0.json",
         "names": "data/Spain/Congress/names.csv",
-        "lastmod": "1467853449",
+        "lastmod": "1467900732",
         "person_count": 621,
-        "sha": "15c78fa",
+        "sha": "e359bab",
         "legislative_periods": [
           {
             "id": "term/11",
@@ -8950,7 +8950,7 @@
             "start_date": "2016-01-13",
             "slug": "11",
             "csv": "data/Spain/Congress/term-11.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/15c78fa/data/Spain/Congress/term-11.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e359bab/data/Spain/Congress/term-11.csv"
           },
           {
             "end_date": "2015-10-27",
@@ -8959,10 +8959,10 @@
             "start_date": "2011-11-28",
             "slug": "10",
             "csv": "data/Spain/Congress/term-10.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/15c78fa/data/Spain/Congress/term-10.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e359bab/data/Spain/Congress/term-10.csv"
           }
         ],
-        "statement_count": 32054
+        "statement_count": 32081
       }
     ]
   },
