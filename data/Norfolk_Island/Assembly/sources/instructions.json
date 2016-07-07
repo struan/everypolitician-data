@@ -11,12 +11,7 @@
       "type": "membership"
     },
     {
-      "file": "morph/terms.csv",
-      "create": {
-        "from": "morph",
-        "scraper": "tmtmtmtm/norfolk-island-assembly",
-        "query": "SELECT * FROM terms"
-      },
+      "file": "manual/terms.csv",
       "type": "term"
     },
     {
@@ -33,6 +28,14 @@
       "create": {
         "from": "group-wikidata",
         "source": "manual/group_wikidata.csv"
+      }
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "create": {
+        "from": "election-wikidata",
+        "base": "Q25541728"
       }
     }
   ]
