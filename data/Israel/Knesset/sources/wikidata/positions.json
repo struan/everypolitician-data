@@ -5641,7 +5641,10 @@
       "id": "Q208487",
       "label": "Prime Minister of Israel",
       "title": "Prime Minister of Israel",
-      "description": "position of the Israeli head of government"
+      "description": "position of the Israeli head of government",
+      "qualifiers": {
+        "P580": "1969-02-26"
+      }
     },
     {
       "id": "Q4047513",
@@ -15490,7 +15493,13 @@
       "id": "Q208487",
       "label": "Prime Minister of Israel",
       "title": "Prime Minister of Israel",
-      "description": "position of the Israeli head of government"
+      "description": "position of the Israeli head of government",
+      "qualifiers": {
+        "P580": "2006-01-04",
+        "P582": "2009-03-31",
+        "P1365": "Ariel Sharon",
+        "P1366": "Benjamin Netanyahu"
+      }
     },
     {
       "id": "Q20021270",
