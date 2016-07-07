@@ -135,7 +135,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/saint-kitts-and-nevis-elections-wikidata",
-        "query": "SELECT * FROM data"
+        "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "http://wikidata.org/",
       "type": "wikidata",
@@ -167,6 +167,14 @@
       "create": {
         "from": "wikidata-raw",
         "source": "reconciliation/wikidata.csv"
+      }
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "create": {
+        "from": "election-wikidata",
+        "base": "Q25546854"
       }
     }
   ]
