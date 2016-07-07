@@ -11,12 +11,7 @@
       "type": "membership"
     },
     {
-      "file": "morph/terms.csv",
-      "create": {
-        "from": "morph",
-        "scraper": "tmtmtmtm/norfolk-island-assembly",
-        "query": "SELECT * FROM terms"
-      },
+      "file": "manual/terms.csv",
       "type": "term"
     },
     {
