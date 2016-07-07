@@ -102,6 +102,10 @@
         {
           "identifier": "19859",
           "scheme": "rada"
+        },
+        {
+          "identifier": "Q25375958",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://static.rada.gov.ua/dep_img8/nf77.jpg",
@@ -110,7 +114,20 @@
           "url": "http://static.rada.gov.ua/dep_img8/nf77.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Єдаков_Ярослав_Юрійович"
+        }
+      ],
       "name": "Єдаков Ярослав Юрійович",
+      "other_names": [
+        {
+          "lang": "uk",
+          "name": "Єдаков Ярослав Юрійович",
+          "note": "multilingual"
+        }
+      ],
       "patronymic_name": "Юрійович"
     },
     {
@@ -10842,6 +10859,10 @@
         {
           "note": "Wikipedia (commons)",
           "url": "https://commons.wikipedia.org/wiki/Category:Sergiy_Kaplin"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Каплин,_Сергей_Николаевич"
         },
         {
           "note": "Wikipedia (uk)",
@@ -21884,6 +21905,11 @@
         {
           "lang": "pl",
           "name": "Wasyl Petiowka",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Василий Васильевич Петёвка",
           "note": "multilingual"
         },
         {
@@ -33095,7 +33121,7 @@
         },
         {
           "lang": "ru",
-          "name": "Солидарность",
+          "name": "Блок Петра Порошенко \"Солидарность\"",
           "note": "multilingual"
         },
         {
@@ -33226,6 +33252,21 @@
         {
           "lang": "uk",
           "name": "Блок Петра Порошенка",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Солидарность",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Блок Петра Порошенко",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "БПП",
           "note": "multilingual"
         }
       ]
