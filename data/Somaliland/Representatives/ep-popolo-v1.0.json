@@ -1,4 +1,7 @@
 {
+  "posts": [
+
+  ],
   "persons": [
     {
       "id": "6d190750-ffec-44d1-a7b8-6e53f8391bb5",
@@ -1915,11 +1918,25 @@
   ],
   "events": [
     {
+      "classification": "general election",
+      "end_date": "2005-09-29",
+      "id": "Q426222",
+      "name": "Somaliland parliamentary election, 2005",
+      "start_date": "2005-09-29"
+    },
+    {
       "classification": "legislative period",
       "id": "term/2005",
       "name": "First Parliament",
       "organization_id": "legislature",
       "start_date": "2005-09-29"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2017",
+      "id": "Q15206389",
+      "name": "Somaliland parliamentary election, 2017",
+      "start_date": "2017"
     }
   ],
   "areas": [
