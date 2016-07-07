@@ -695,14 +695,49 @@
       ]
     },
     {
+      "gender": "male",
+      "given_name": "Geoffrey",
       "id": "01f8c289-72f7-4b9c-affc-f8fe77c896ca",
+      "identifiers": [
+        {
+          "identifier": "Q5534463",
+          "scheme": "wikidata"
+        }
+      ],
       "links": [
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Geoffrey_Boot"
         }
       ],
-      "name": "Geoffrey Boot"
+      "name": "Geoffrey Boot",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Geoffrey Boot",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Geoffrey Boot",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Geoffrey Boot",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Geoffrey Boot",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Geoffrey Boot",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -960,6 +995,12 @@
       ],
       "email": "Jon.Joughin@gov.im",
       "id": "2772c913-226a-40e8-a3a2-fc14d413d9c9",
+      "identifiers": [
+        {
+          "identifier": "Q25350177",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.tynwald.org.im/SiteCollectionImages/JoughinJ.JPG",
       "images": [
         {
@@ -977,6 +1018,11 @@
         {
           "name": "Jonathan JOUGHIN MHK",
           "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Jonathan Joughin",
+          "note": "multilingual"
         }
       ],
       "sources": [
@@ -1461,6 +1507,10 @@
         {
           "identifier": "ralph-peake",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q25350178",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.tynwald.org.im/SiteCollectionImages/PeakeGR.jpg",
@@ -1480,6 +1530,11 @@
         {
           "name": "George Ralph PEAKE MHK",
           "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Ralph Peake",
+          "note": "multilingual"
         }
       ],
       "sources": [
