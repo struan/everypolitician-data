@@ -462,7 +462,7 @@
         },
         {
           "lang": "ro",
-          "name": "Politician independent",
+          "name": "politician independent",
           "note": "multilingual"
         },
         {
@@ -613,6 +613,16 @@
         {
           "lang": "sd",
           "name": "آزاد",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Politicus nullius factionis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nan",
+          "name": "Bû-tóng-che̍k",
           "note": "multilingual"
         },
         {
@@ -822,11 +832,6 @@
         },
         {
           "lang": "ro",
-          "name": "Parteilos",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ro",
           "name": "Politicieni independenţi",
           "note": "multilingual"
         },
@@ -1011,6 +1016,13 @@
     }
   ],
   "events": [
+    {
+      "classification": "general election",
+      "end_date": "2013-07-17",
+      "id": "Q16932892",
+      "name": "Saint Helena general election, 2013",
+      "start_date": "2013-07-17"
+    },
     {
       "classification": "legislative period",
       "id": "term/2013",
