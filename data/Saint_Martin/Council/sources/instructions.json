@@ -15,7 +15,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/saint-martin-territorial-council-wikidata",
-        "query": "SELECT * FROM data"
+        "query": "SELECT * FROM data ORDER BY id"
       },
       "type": "wikidata",
       "merge": {
@@ -50,6 +50,14 @@
       "create": {
         "from": "group-wikidata",
         "source": "manual/group_wikidata.csv"
+      }
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "create": {
+        "from": "election-wikidata",
+        "base": "Q25534427"
       }
     }
   ]
