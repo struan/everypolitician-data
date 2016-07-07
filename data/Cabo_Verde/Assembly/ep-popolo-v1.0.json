@@ -607,6 +607,21 @@
       ]
     },
     {
+      "id": "b346526c-6679-411b-9656-5ad2bc6493ed",
+      "identifiers": [
+        {
+          "identifier": "283",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Carlos Tavares Rodrigues",
+      "sources": [
+        {
+          "url": "Informa_Dep.aspx?CodDeputado=283"
+        }
+      ]
+    },
+    {
       "id": "a087ef6b-70b8-470f-8431-28fc7737b456",
       "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=299",
       "images": [
@@ -747,6 +762,21 @@
       "sources": [
         {
           "url": "http://www.parlamento.cv/Inform_Dep2.aspx?CodDeputado=399"
+        }
+      ]
+    },
+    {
+      "id": "b9ed8195-f5d9-4c3d-bb6c-746b2f9cc0ad",
+      "identifiers": [
+        {
+          "identifier": "233",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "David Lima Gomes",
+      "sources": [
+        {
+          "url": "Informa_Dep.aspx?CodDeputado=233"
         }
       ]
     },
@@ -1009,6 +1039,21 @@
       ]
     },
     {
+      "id": "f7cee335-496d-468b-a4d8-4cfbfa61a750",
+      "identifiers": [
+        {
+          "identifier": "282",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Felisberto Alves Vieira",
+      "sources": [
+        {
+          "url": "Informa_Dep.aspx?CodDeputado=282"
+        }
+      ]
+    },
+    {
       "id": "749bcd6a-a9d0-47e6-8f03-4575e0959d3c",
       "identifiers": [
         {
@@ -1098,6 +1143,21 @@
       "sources": [
         {
           "url": "http://www.parlamento.cv/Inform_Dep2.aspx?CodDeputado=308"
+        }
+      ]
+    },
+    {
+      "id": "e1e0c610-8dde-4307-9410-aa267333fb5e",
+      "identifiers": [
+        {
+          "identifier": "230",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Filipe Baptista Gomes Furtado",
+      "sources": [
+        {
+          "url": "Informa_Dep.aspx?CodDeputado=230"
         }
       ]
     },
@@ -2979,6 +3039,11 @@
           "note": "multilingual"
         }
       ]
+    },
+    {
+      "classification": "party",
+      "id": "",
+      "name": "unknown"
     }
   ],
   "meta": {
@@ -3708,6 +3773,13 @@
       "role": "member"
     },
     {
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "",
+      "organization_id": "legislature",
+      "person_id": "b346526c-6679-411b-9656-5ad2bc6493ed",
+      "role": "member"
+    },
+    {
       "area_id": "area/fogo",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "MPD",
@@ -3745,6 +3817,14 @@
       "on_behalf_of_id": "MPD",
       "organization_id": "legislature",
       "person_id": "b6f60dd0-75ec-4658-9810-6d28840c7cf1",
+      "role": "member"
+    },
+    {
+      "area_id": "area/brava",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "MPD",
+      "organization_id": "legislature",
+      "person_id": "b9ed8195-f5d9-4c3d-bb6c-746b2f9cc0ad",
       "role": "member"
     },
     {
@@ -4004,6 +4084,14 @@
       "role": "member"
     },
     {
+      "area_id": "area/santiago_norte",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "MPD",
+      "organization_id": "legislature",
+      "person_id": "e1e0c610-8dde-4307-9410-aa267333fb5e",
+      "role": "member"
+    },
+    {
       "area_id": "area/américa",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "MPD",
@@ -4081,6 +4169,14 @@
       "on_behalf_of_id": "PAICV",
       "organization_id": "legislature",
       "person_id": "f757d849-973c-4359-84f9-4078f2d6ce5d",
+      "role": "member"
+    },
+    {
+      "area_id": "area/santiago_sul",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "PAICV",
+      "organization_id": "legislature",
+      "person_id": "f7cee335-496d-468b-a4d8-4cfbfa61a750",
       "role": "member"
     },
     {
