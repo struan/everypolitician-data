@@ -38,7 +38,13 @@
       "id": "Q3259469",
       "label": "Prime Minister of Poland",
       "title": "Prime Minister of Poland",
-      "description": "Head of Government of Poland"
+      "description": "Head of Government of Poland",
+      "qualifiers": {
+        "P580": "1992-07-08",
+        "P582": "1993-10-26",
+        "P1365": "Waldemar Pawlak",
+        "P1366": "Waldemar Pawlak"
+      }
     },
     {
       "id": "Q21328636",
@@ -1419,6 +1425,26 @@
       "id": "Q21328636",
       "label": "Member of the Sejm of the Republic of Poland",
       "title": "Member of the Sejm of the Republic of Poland"
+    },
+    {
+      "id": "Q3259469",
+      "label": "Prime Minister of Poland",
+      "title": "Prime Minister of Poland",
+      "description": "Head of Government of Poland",
+      "qualifiers": {
+        "P580": "1992-06-05",
+        "P582": "1992-07-10"
+      }
+    },
+    {
+      "id": "Q3259469",
+      "label": "Prime Minister of Poland",
+      "title": "Prime Minister of Poland",
+      "description": "Head of Government of Poland",
+      "qualifiers": {
+        "P580": "1993-10-26",
+        "P582": "1995-03-07"
+      }
     }
   ],
   "Q9155828": [
