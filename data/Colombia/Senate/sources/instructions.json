@@ -1,0 +1,26 @@
+{
+  "sources": [
+    {
+      "file": "morph/data.csv",
+      "create": {
+        "from": "morph",
+        "scraper": "wfdd/colombia-senado-scraper",
+        "query": "SELECT * FROM data ORDER BY id"
+      },
+      "source": "http://www.secretariasenado.gov.co/",
+      "type": "membership"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term"
+    },
+    {
+      "file": "gender-balance/results.csv",
+      "type": "gender",
+      "create": {
+        "from": "gender-balance",
+        "source": "Colombia/Senate"
+      }
+    }
+  ]
+}
