@@ -7091,6 +7091,10 @@
           "scheme": "riigikogu"
         },
         {
+          "identifier": "225145003298161301958",
+          "scheme": "viaf"
+        },
+        {
           "identifier": "Q253515",
           "scheme": "wikidata"
         }
@@ -16856,6 +16860,18 @@
       ]
     },
     {
+      "birth_date": "1953-04-20",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "peep.aru@riigikogu.ee"
+        }
+      ],
+      "email": "peep.aru@riigikogu.ee",
+      "id": "5eb3f11c-99ad-4309-8d6b-be22118d88cc",
+      "name": "Peep Aru"
+    },
+    {
       "birth_date": "1953-06-11",
       "contact_details": [
         {
@@ -20301,6 +20317,18 @@
           "note": "multilingual"
         }
       ]
+    },
+    {
+      "birth_date": "1964-07-23",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "toomas.jyrgenstein@riigikogu.ee"
+        }
+      ],
+      "email": "toomas.jyrgenstein@riigikogu.ee",
+      "id": "3f51d0d2-dde9-4ccb-b5fe-5226b51230d4",
+      "name": "Toomas Jürgenstein"
     },
     {
       "birth_date": "1963-02-16",
@@ -26482,6 +26510,15 @@
       "role": "member"
     },
     {
+      "area_id": "area/tartu_linn",
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "SDE",
+      "organization_id": "legislature",
+      "person_id": "3f51d0d2-dde9-4ccb-b5fe-5226b51230d4",
+      "role": "member",
+      "start_date": "2016-06-16"
+    },
+    {
       "legislative_period_id": "term/12",
       "on_behalf_of_id": "RE",
       "organization_id": "legislature",
@@ -26618,6 +26655,7 @@
     },
     {
       "area_id": "area/tallinna_mustamäe_ja_nõmme_linnaosa",
+      "end_date": "2016-07-06",
       "legislative_period_id": "term/13",
       "on_behalf_of_id": "RE",
       "organization_id": "legislature",
@@ -26761,6 +26799,15 @@
       "organization_id": "legislature",
       "person_id": "5db703d7-bdb8-4d14-b2dd-1100aa9c1671",
       "role": "member"
+    },
+    {
+      "area_id": "area/järva-_ja_viljandimaa",
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "RE",
+      "organization_id": "legislature",
+      "person_id": "5eb3f11c-99ad-4309-8d6b-be22118d88cc",
+      "role": "member",
+      "start_date": "2016-07-07"
     },
     {
       "legislative_period_id": "term/12",
@@ -27152,6 +27199,7 @@
     },
     {
       "area_id": "area/tartu_linn",
+      "end_date": "2016-06-07",
       "legislative_period_id": "term/13",
       "on_behalf_of_id": "SDE",
       "organization_id": "legislature",
