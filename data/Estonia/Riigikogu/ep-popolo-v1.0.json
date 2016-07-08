@@ -16865,11 +16865,32 @@
         {
           "type": "email",
           "value": "peep.aru@riigikogu.ee"
+        },
+        {
+          "type": "phone",
+          "value": "6316595"
         }
       ],
       "email": "peep.aru@riigikogu.ee",
       "id": "5eb3f11c-99ad-4309-8d6b-be22118d88cc",
-      "name": "Peep Aru"
+      "identifiers": [
+        {
+          "identifier": "13ae3199-f2e4-4b49-a73b-f2880451da33",
+          "scheme": "riigikogu"
+        }
+      ],
+      "image": "http://www.riigikogu.ee/wpcms/wp-content/uploads/ems/temp/a5b93b1a-716b-4dcf-aba8-9ddcce524f11.jpg",
+      "images": [
+        {
+          "url": "http://www.riigikogu.ee/wpcms/wp-content/uploads/ems/temp/a5b93b1a-716b-4dcf-aba8-9ddcce524f11.jpg"
+        }
+      ],
+      "name": "Peep Aru",
+      "sources": [
+        {
+          "url": "http://www.riigikogu.ee/riigikogu/koosseis/riigikogu-liikmed/saadik/13ae3199-f2e4-4b49-a73b-f2880451da33/Peep-Aru"
+        }
+      ]
     },
     {
       "birth_date": "1953-06-11",
@@ -20324,11 +20345,49 @@
         {
           "type": "email",
           "value": "toomas.jyrgenstein@riigikogu.ee"
+        },
+        {
+          "type": "phone",
+          "value": "6316676"
         }
       ],
       "email": "toomas.jyrgenstein@riigikogu.ee",
       "id": "3f51d0d2-dde9-4ccb-b5fe-5226b51230d4",
-      "name": "Toomas Jürgenstein"
+      "identifiers": [
+        {
+          "identifier": "6e0b6122-249d-48f1-9582-9df8b2bb236d",
+          "scheme": "riigikogu"
+        },
+        {
+          "identifier": "Q25519722",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www.riigikogu.ee/wpcms/wp-content/uploads/ems/temp/a6771f61-d4ac-4f26-b3a3-eabc8dd2b4a6.jpg",
+      "images": [
+        {
+          "url": "http://www.riigikogu.ee/wpcms/wp-content/uploads/ems/temp/a6771f61-d4ac-4f26-b3a3-eabc8dd2b4a6.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (et)",
+          "url": "https://et.wikipedia.org/wiki/Toomas_Jürgenstein"
+        }
+      ],
+      "name": "Toomas Jürgenstein",
+      "other_names": [
+        {
+          "lang": "et",
+          "name": "Toomas Jürgenstein",
+          "note": "multilingual"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.riigikogu.ee/riigikogu/koosseis/riigikogu-liikmed/saadik/6e0b6122-249d-48f1-9582-9df8b2bb236d/Toomas-J%C3%BCrgenstein"
+        }
+      ]
     },
     {
       "birth_date": "1963-02-16",
