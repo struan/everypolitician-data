@@ -3335,6 +3335,10 @@
         {
           "identifier": "farrugia-marlene",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q24643928",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parlament.mt/file.aspx?f=31724",
@@ -3343,7 +3347,29 @@
           "url": "http://www.parlament.mt/file.aspx?f=31724"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Marlene_Farrugia"
+        },
+        {
+          "note": "Wikipedia (mt)",
+          "url": "https://mt.wikipedia.org/wiki/Marlene_Farrugia"
+        }
+      ],
       "name": "Marlene Farrugia",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Marlene Farrugia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mt",
+          "name": "Marlene Farrugia",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.parlament.mt/farrugia-marlene"
