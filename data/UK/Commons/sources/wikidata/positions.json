@@ -1838,24 +1838,57 @@
       "id": "Q25358560",
       "label": "Minister of State for Farming and the Environment",
       "title": "Minister of State for Farming and the Environment",
-      "description": "UK junior minister"
+      "description": "UK junior minister",
+      "qualifiers": {
+        "P580": "2009-06-08",
+        "P582": "2010-05-11",
+        "P1365": "Jane Kennedy",
+        "P1366": "James Paice"
+      }
     },
     {
       "id": "Q25358150",
       "label": "Parliamentary Under-Secretary of State for Transport",
       "title": "Parliamentary Under-Secretary of State for Transport",
-      "description": "junior transport minister in the UK"
+      "description": "junior transport minister in the UK",
+      "qualifiers": {
+        "P580": "2007-06-28",
+        "P582": "2009-06-08",
+        "P1365": "Mike O'Brien",
+        "P1366": "Chris Mole"
+      }
     },
     {
       "id": "Q6865920",
       "label": "Minister for London",
-      "title": "Minister for London"
+      "title": "Minister for London",
+      "qualifiers": {
+        "P580": "2005-05-06",
+        "P582": "2007-06-28",
+        "P1365": "Keith Hill",
+        "P1366": "Tessa Jowell"
+      }
     },
     {
       "id": "Q16707842",
       "label": "Member of Parliament in the United Kingdom",
       "title": "Member of Parliament in the United Kingdom",
-      "description": "voters' representative in the House of Commons of the United Kingdom"
+      "description": "voters' representative in the House of Commons of the United Kingdom",
+      "qualifiers": {
+        "P580": "1997-05-01",
+        "P768": "Poplar and Canning Town",
+        "P582": "2010"
+      }
+    },
+    {
+      "id": "Q16707842",
+      "label": "Member of Parliament in the United Kingdom",
+      "title": "Member of Parliament in the United Kingdom",
+      "description": "voters' representative in the House of Commons of the United Kingdom",
+      "qualifiers": {
+        "P580": "2010",
+        "P768": "Poplar and Limehouse"
+      }
     }
   ],
   "Q332870": [
@@ -3022,6 +3055,12 @@
         "P1365": "Emily Blatch, Baroness Blatch",
         "P1366": "Barbara Roche"
       }
+    },
+    {
+      "id": "Q25358150",
+      "label": "Parliamentary Under-Secretary of State for Transport",
+      "title": "Parliamentary Under-Secretary of State for Transport",
+      "description": "junior transport minister in the UK"
     }
   ],
   "Q269868": [
@@ -9962,6 +10001,11 @@
       "label": "Member of Parliament in the United Kingdom",
       "title": "Member of Parliament in the United Kingdom",
       "description": "voters' representative in the House of Commons of the United Kingdom"
+    },
+    {
+      "id": "Q6865920",
+      "label": "Minister for London",
+      "title": "Minister for London"
     }
   ],
   "Q6152317": [
@@ -11171,6 +11215,12 @@
       "label": "Minister of State for Northern Ireland",
       "title": "Minister of State for Northern Ireland",
       "description": "UK minister"
+    },
+    {
+      "id": "Q25358560",
+      "label": "Minister of State for Farming and the Environment",
+      "title": "Minister of State for Farming and the Environment",
+      "description": "UK junior minister"
     }
   ],
   "Q332843": [
@@ -11301,6 +11351,12 @@
         "P1365": "Francis Pym, Baron Pym",
         "P1366": "Lucy Frazer"
       }
+    },
+    {
+      "id": "Q25358560",
+      "label": "Minister of State for Farming and the Environment",
+      "title": "Minister of State for Farming and the Environment",
+      "description": "UK junior minister"
     }
   ],
   "Q694967": [
