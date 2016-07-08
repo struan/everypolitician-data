@@ -2365,15 +2365,27 @@
   ],
   "Q3269598": [
     {
-      "id": "Q6866327",
-      "label": "Minister of State",
-      "title": "Minister of State",
-      "description": "junior cabinet minister in the Canadian Cabinet"
+      "id": "Q25525828",
+      "label": "Minister of State (Foreign Affairs and Consular)",
+      "title": "Minister of State (Foreign Affairs and Consular)",
+      "description": "Canadian minister of state",
+      "qualifiers": {
+        "P580": "2013-07-15",
+        "P582": "2015-11-04",
+        "P1365": "Allan Kerpan",
+        "P1366": ""
+      }
     },
     {
       "id": "Q6866422",
       "label": "Minister of Western Economic Diversification",
-      "title": "Minister of Western Economic Diversification"
+      "title": "Minister of Western Economic Diversification",
+      "qualifiers": {
+        "P580": "2008-10-30",
+        "P582": "2013-07-15",
+        "P1365": "Rona Ambrose",
+        "P1366": "Michelle Rempel"
+      }
     }
   ],
   "Q3085579": [
@@ -3096,6 +3108,11 @@
       "label": "member of the House of Commons of Canada",
       "title": "member of the House of Commons of Canada",
       "description": "representative elected by the canadian voters"
+    },
+    {
+      "id": "Q6866422",
+      "label": "Minister of Western Economic Diversification",
+      "title": "Minister of Western Economic Diversification"
     }
   ],
   "Q3206282": [
