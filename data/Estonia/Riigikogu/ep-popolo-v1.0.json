@@ -7091,6 +7091,10 @@
           "scheme": "riigikogu"
         },
         {
+          "identifier": "225145003298161301958",
+          "scheme": "viaf"
+        },
+        {
           "identifier": "Q253515",
           "scheme": "wikidata"
         }
@@ -16856,6 +16860,39 @@
       ]
     },
     {
+      "birth_date": "1953-04-20",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "peep.aru@riigikogu.ee"
+        },
+        {
+          "type": "phone",
+          "value": "6316595"
+        }
+      ],
+      "email": "peep.aru@riigikogu.ee",
+      "id": "5eb3f11c-99ad-4309-8d6b-be22118d88cc",
+      "identifiers": [
+        {
+          "identifier": "13ae3199-f2e4-4b49-a73b-f2880451da33",
+          "scheme": "riigikogu"
+        }
+      ],
+      "image": "http://www.riigikogu.ee/wpcms/wp-content/uploads/ems/temp/a5b93b1a-716b-4dcf-aba8-9ddcce524f11.jpg",
+      "images": [
+        {
+          "url": "http://www.riigikogu.ee/wpcms/wp-content/uploads/ems/temp/a5b93b1a-716b-4dcf-aba8-9ddcce524f11.jpg"
+        }
+      ],
+      "name": "Peep Aru",
+      "sources": [
+        {
+          "url": "http://www.riigikogu.ee/riigikogu/koosseis/riigikogu-liikmed/saadik/13ae3199-f2e4-4b49-a73b-f2880451da33/Peep-Aru"
+        }
+      ]
+    },
+    {
       "birth_date": "1953-06-11",
       "contact_details": [
         {
@@ -20299,6 +20336,56 @@
           "lang": "it",
           "name": "Tiit Tammsaar",
           "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "birth_date": "1964-07-23",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "toomas.jyrgenstein@riigikogu.ee"
+        },
+        {
+          "type": "phone",
+          "value": "6316676"
+        }
+      ],
+      "email": "toomas.jyrgenstein@riigikogu.ee",
+      "id": "3f51d0d2-dde9-4ccb-b5fe-5226b51230d4",
+      "identifiers": [
+        {
+          "identifier": "6e0b6122-249d-48f1-9582-9df8b2bb236d",
+          "scheme": "riigikogu"
+        },
+        {
+          "identifier": "Q25519722",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www.riigikogu.ee/wpcms/wp-content/uploads/ems/temp/a6771f61-d4ac-4f26-b3a3-eabc8dd2b4a6.jpg",
+      "images": [
+        {
+          "url": "http://www.riigikogu.ee/wpcms/wp-content/uploads/ems/temp/a6771f61-d4ac-4f26-b3a3-eabc8dd2b4a6.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (et)",
+          "url": "https://et.wikipedia.org/wiki/Toomas_Jürgenstein"
+        }
+      ],
+      "name": "Toomas Jürgenstein",
+      "other_names": [
+        {
+          "lang": "et",
+          "name": "Toomas Jürgenstein",
+          "note": "multilingual"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.riigikogu.ee/riigikogu/koosseis/riigikogu-liikmed/saadik/6e0b6122-249d-48f1-9582-9df8b2bb236d/Toomas-J%C3%BCrgenstein"
         }
       ]
     },
@@ -26482,6 +26569,15 @@
       "role": "member"
     },
     {
+      "area_id": "area/tartu_linn",
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "SDE",
+      "organization_id": "legislature",
+      "person_id": "3f51d0d2-dde9-4ccb-b5fe-5226b51230d4",
+      "role": "member",
+      "start_date": "2016-06-16"
+    },
+    {
       "legislative_period_id": "term/12",
       "on_behalf_of_id": "RE",
       "organization_id": "legislature",
@@ -26618,6 +26714,7 @@
     },
     {
       "area_id": "area/tallinna_mustamäe_ja_nõmme_linnaosa",
+      "end_date": "2016-07-06",
       "legislative_period_id": "term/13",
       "on_behalf_of_id": "RE",
       "organization_id": "legislature",
@@ -26761,6 +26858,15 @@
       "organization_id": "legislature",
       "person_id": "5db703d7-bdb8-4d14-b2dd-1100aa9c1671",
       "role": "member"
+    },
+    {
+      "area_id": "area/järva-_ja_viljandimaa",
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "RE",
+      "organization_id": "legislature",
+      "person_id": "5eb3f11c-99ad-4309-8d6b-be22118d88cc",
+      "role": "member",
+      "start_date": "2016-07-07"
     },
     {
       "legislative_period_id": "term/12",
@@ -27152,6 +27258,7 @@
     },
     {
       "area_id": "area/tartu_linn",
+      "end_date": "2016-06-07",
       "legislative_period_id": "term/13",
       "on_behalf_of_id": "SDE",
       "organization_id": "legislature",
