@@ -1654,7 +1654,29 @@
       "id": "Q55831",
       "label": "Acting President of Poland",
       "title": "Acting President of Poland",
-      "description": "position"
+      "description": "position",
+      "qualifiers": {
+        "P580": "2010-07-08",
+        "P582": "2010-08-06"
+      }
+    },
+    {
+      "id": "Q25598671",
+      "label": "Minister of Foreign Affairs",
+      "title": "Minister of Foreign Affairs",
+      "description": "Polish minister"
+    },
+    {
+      "id": "Q25598713",
+      "label": "Minister of the Interior and Administration",
+      "title": "Minister of the Interior and Administration",
+      "description": "Polish minister",
+      "qualifiers": {
+        "P580": "2007-11-16",
+        "P582": "2009-10-13",
+        "P1365": "Władysław Stasiak",
+        "P1366": "Jerzy Miller"
+      }
     }
   ],
   "Q6271017": [
