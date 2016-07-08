@@ -23898,6 +23898,7 @@
       "patronymic_name": "Павлович"
     },
     {
+      "birth_date": "1980-08-07",
       "family_name": "Саврасов",
       "given_name": "Максим",
       "id": "9e512dbb-ecc1-4c80-9ce5-31ca4ae207f1",
@@ -23905,6 +23906,10 @@
         {
           "identifier": "19858",
           "scheme": "rada"
+        },
+        {
+          "identifier": "Q25375975",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://static.rada.gov.ua/dep_img8/bp79.jpg",
@@ -23913,7 +23918,20 @@
           "url": "http://static.rada.gov.ua/dep_img8/bp79.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Саврасов_Максим_Віталійович"
+        }
+      ],
       "name": "Саврасов Максим Віталійович",
+      "other_names": [
+        {
+          "lang": "uk",
+          "name": "Саврасов Максим Віталійович",
+          "note": "multilingual"
+        }
+      ],
       "patronymic_name": "Віталійович"
     },
     {
