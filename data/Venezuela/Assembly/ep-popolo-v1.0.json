@@ -1761,6 +1761,10 @@
           "scheme": "freebase"
         },
         {
+          "identifier": "310626137",
+          "scheme": "viaf"
+        },
+        {
           "identifier": "Q1227076",
           "scheme": "wikidata"
         }
@@ -3295,14 +3299,49 @@
       ]
     },
     {
+      "birth_date": "1971-08-13",
+      "family_name": "Guzmán",
+      "gender": "male",
+      "given_name": "Rafael",
       "id": "2121830c-d263-48f4-9b64-d6b3713ba82e",
+      "identifiers": [
+        {
+          "identifier": "Q25147299",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.asambleanacional.gob.ve/uploads/diputado/dip_d2ae4054c9f0180527a843aca15bc837607f1704.jpg",
       "images": [
         {
           "url": "http://www.asambleanacional.gob.ve/uploads/diputado/dip_d2ae4054c9f0180527a843aca15bc837607f1704.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Rafael_Guzmán.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Rafael_Guzmán"
         }
       ],
       "name": "GUZMÁN REVERÓN RAFAEL DAVID",
+      "other_names": [
+        {
+          "name": "Rafael Guzmán",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Rafael Guzmán",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Rafael Guzmán",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.asambleanacional.gob.ve/diputado/id/343"
@@ -6122,14 +6161,44 @@
       ]
     },
     {
+      "birth_date": "1968",
+      "gender": "female",
       "id": "38982312-871d-483e-91fe-8c33ee47be73",
+      "identifiers": [
+        {
+          "identifier": "Q22275207",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.asambleanacional.gob.ve/uploads/diputado/dip_63509e9bf5d91851c7ddaecb03691ea215d64c65.jpg",
       "images": [
         {
           "url": "http://www.asambleanacional.gob.ve/uploads/diputado/dip_63509e9bf5d91851c7ddaecb03691ea215d64c65.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Melva_Paredes"
+        }
+      ],
       "name": "PAREDES FISCHER MELVA MATUCHA",
+      "other_names": [
+        {
+          "name": "Melva Paredes",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Melva Paredes",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Melva Paredes",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.asambleanacional.gob.ve/diputado/id/387"
