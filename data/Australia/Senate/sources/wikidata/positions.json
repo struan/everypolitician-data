@@ -399,22 +399,45 @@
   ],
   "Q13522531": [
     {
-      "id": "Q2390270",
-      "label": "Treasurer of Australia",
-      "title": "Treasurer of Australia",
-      "description": "Australian government minister in charge of economic policy"
+      "id": "Q25514686",
+      "label": "Minister for Justice and Consumer Affairs",
+      "title": "Minister for Justice and Consumer Affairs",
+      "description": "Australian minister",
+      "qualifiers": {
+        "P580": "1990-04-04",
+        "P582": "1992-05-27"
+      }
     },
     {
       "id": "Q6865898",
       "label": "Minister for Justice",
       "title": "Minister for Justice",
-      "description": "Australian Minister"
+      "description": "Australian Minister",
+      "qualifiers": {
+        "P580": "1987-09-18",
+        "P582": "1993-03-24",
+        "P1366": "Duncan Kerr"
+      }
     },
     {
       "id": "Q6814428",
       "label": "member of the Australian Senate",
       "title": "member of the Australian Senate",
-      "description": "Representative"
+      "description": "Representative",
+      "qualifiers": {
+        "P768": "Tasmania",
+        "P580": "1978-07-01",
+        "P582": "1993-07-05"
+      }
+    },
+    {
+      "id": "Q7574624",
+      "label": "Special Minister of State",
+      "title": "Special Minister of State",
+      "qualifiers": {
+        "P580": "1987-02-16",
+        "P582": "1987-07-24"
+      }
     }
   ],
   "Q7356268": [
@@ -1260,6 +1283,12 @@
       "id": "Q19597471",
       "label": "Member of the Parliament of South Australia",
       "title": "Member of the Parliament of South Australia"
+    },
+    {
+      "id": "Q676357",
+      "label": "Premier of South Australia",
+      "title": "Premier of South Australia",
+      "description": "head of government for the state of South Australia, Australia"
     }
   ],
   "Q6239528": [
@@ -2622,6 +2651,12 @@
       "label": "member of the Australian Senate",
       "title": "member of the Australian Senate",
       "description": "Representative"
+    },
+    {
+      "id": "Q6865883",
+      "label": "Minister for Industry and Innovation",
+      "title": "Minister for Industry and Innovation",
+      "description": "portfolio in the Government of Australia"
     }
   ],
   "Q4910376": [
