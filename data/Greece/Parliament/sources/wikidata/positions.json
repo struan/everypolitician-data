@@ -2767,25 +2767,71 @@
     {
       "id": "Q20639905",
       "label": "Minister of Health and Social Solidarity of Greece",
-      "title": "Minister of Health and Social Solidarity of Greece",
-      "description": "Greek government minister"
+      "title": "Minister of Health and Social Solidarity of Greece (of First Cabinet of Kostas Karamanlis)",
+      "description": "Greek government minister",
+      "qualifiers": {
+        "P580": "2004-03-10",
+        "P582": "2006-02-04",
+        "P1365": "Q16327194",
+        "P1366": "Dimitris Avramopoulos",
+        "P642": "First Cabinet of Kostas Karamanlis"
+      }
     },
     {
       "id": "Q27169",
       "label": "member of the European Parliament",
-      "title": "member of the European Parliament",
-      "description": "person who has been elected to the European Parliament"
+      "title": "member of the European Parliament (of Political Spring)",
+      "description": "person who has been elected to the European Parliament",
+      "qualifiers": {
+        "P580": "1994",
+        "P582": "1999",
+        "P768": "Greece",
+        "P642": "Political Spring"
+      }
     },
     {
       "id": "Q18915989",
       "label": "Member of the Hellenic Parliament",
-      "title": "Member of the Hellenic Parliament"
+      "title": "Member of the Hellenic Parliament (of New Democracy)",
+      "qualifiers": {
+        "P580": "1990-04-08",
+        "P582": "1994-05-23",
+        "P768": "Athens A",
+        "P642": "New Democracy"
+      }
     },
     {
       "id": "Q20639919",
       "label": "Mayor of Athens",
       "title": "Mayor of Athens",
-      "description": "Mayor of the Greek capital Athens"
+      "description": "Mayor of the Greek capital Athens",
+      "qualifiers": {
+        "P580": "2007-01-01",
+        "P582": "2011-01-01",
+        "P1365": "Q12877943",
+        "P1366": "Giorgos Kaminis"
+      }
+    },
+    {
+      "id": "Q18915989",
+      "label": "Member of the Hellenic Parliament",
+      "title": "Member of the Hellenic Parliament (of New Democracy)",
+      "qualifiers": {
+        "P580": "2000-04-09",
+        "P582": "2006-12-22",
+        "P768": "Athens A",
+        "P642": "New Democracy"
+      }
+    },
+    {
+      "id": "Q18915989",
+      "label": "Member of the Hellenic Parliament",
+      "title": "Member of the Hellenic Parliament (of New Democracy)",
+      "qualifiers": {
+        "P580": "2012-05-06",
+        "P768": "Athens A",
+        "P642": "New Democracy"
+      }
     }
   ],
   "Q12236394": [
@@ -4329,8 +4375,8 @@
     },
     {
       "id": "Q19904356",
-      "label": "Ministre of Supplies of Greece",
-      "title": "Ministre of Supplies of Greece",
+      "label": "Minister of Supplies",
+      "title": "Minister of Supplies",
       "description": "Greek government minister"
     },
     {

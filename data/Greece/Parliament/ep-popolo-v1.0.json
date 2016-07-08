@@ -7724,6 +7724,7 @@
       ]
     },
     {
+      "birth_date": "1932",
       "death_date": "1986-02-17",
       "gender": "male",
       "id": "0b2a7310-0818-458c-b58c-6f29c5a263f7",
@@ -8872,18 +8873,78 @@
       ]
     },
     {
+      "birth_date": "1944-09-15",
+      "gender": "male",
+      "given_name": "Sotirios",
       "id": "2f28a24a-9d92-458f-8e44-a6f2f9f32b52",
       "identifiers": [
         {
           "identifier": "3c54af65-d31b-4cfb-8745-e11bf06f7ebe",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "3c54af65-d31b-4cfb-8745-e11bf06f7ebe",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "Q7563998",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Σωτήρης_Χατζηγάκης"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Sotirios_Hatzigakis"
         }
       ],
       "name": "Chatzigakis Sotirios",
       "other_names": [
         {
+          "name": "Sotirios Hatzigakis",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Sotirios Hatzigakis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Σωτήρης Χατζηγάκης",
+          "note": "multilingual"
+        },
+        {
           "lang": "el",
           "name": "Χατζηγάκης Μιχαήλ Σωτήριος",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Sotirios Hatzigakis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Sotirios Hatzigakis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Sotirios Hatzigakis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Sotirios Hatzigakis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Sotirios Hatzigakis",
           "note": "multilingual"
         }
       ],
@@ -14334,7 +14395,7 @@
     {
       "birth_date": "1960",
       "gender": "male",
-      "given_name": "Nikólaos",
+      "given_name": "Nicolas",
       "id": "b64271ad-0baf-4814-b38e-7acc220ddf33",
       "identifiers": [
         {
@@ -15930,6 +15991,7 @@
       ]
     },
     {
+      "birth_date": "1964",
       "contact_details": [
         {
           "type": "email",
@@ -15943,15 +16005,74 @@
         {
           "identifier": "80c8c04f-388a-44c3-a2e1-fc43ad7e0f12",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "80c8c04f-388a-44c3-a2e1-fc43ad7e0f12",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "Q12885954",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/Genimata%20Fofi_1.jpg",
       "images": [
         {
           "url": "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/Genimata%20Fofi_1.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Fofi_Gennimata_2009-05-16.jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Фофи_Генимата"
+        },
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Fofi_Gennimata"
+        },
+        {
+          "note": "Wikipedia (da)",
+          "url": "https://da.wikipedia.org/wiki/Fotini_Gennimata"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Fofi_Gennimata"
+        },
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Φώφη_Γεννηματά"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Fofi_Gennimata"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Fófi_Yennimatá"
+        },
+        {
+          "note": "Wikipedia (gl)",
+          "url": "https://gl.wikipedia.org/wiki/Fofi_Gennimata"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Fofi_Gennimata"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Fotini_Gennimata"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Fofi_Jenimata"
+        },
+        {
+          "note": "Wikipedia (tr)",
+          "url": "https://tr.wikipedia.org/wiki/Fofi_Gennimata"
+        },
         {
           "note": "website",
           "url": "www.fgennnimata.gr"
@@ -15960,8 +16081,72 @@
       "name": "Genimata Foteini (Fofi)",
       "other_names": [
         {
+          "name": "Fofi Gennimata",
+          "note": "alternate"
+        },
+        {
+          "lang": "bg",
+          "name": "Фофи Генимата",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Fotini Gennimata",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Fofi Gennimata",
+          "note": "multilingual"
+        },
+        {
           "lang": "el",
           "name": "Γενηματά Γεωργίου Φωτεινή (Φώφη)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Φώφη Γεννηματά",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Fofi Gennimata",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Fófi Yennimatá",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Fofi Gennimata",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Fotini Gennimata",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Fofi Gennimata",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Fofi Jenimata",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Fofi Gennimata",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "福菲·甘尼瑪塔",
           "note": "multilingual"
         }
       ],
@@ -16290,6 +16475,7 @@
       ]
     },
     {
+      "birth_date": "1972-11-06",
       "contact_details": [
         {
           "type": "email",
@@ -16301,21 +16487,97 @@
       "id": "30b9236b-a9d5-434d-a38b-ba82438d7253",
       "identifiers": [
         {
+          "identifier": "33300",
+          "scheme": "biblionet"
+        },
+        {
           "identifier": "60d8e525-9b5d-4c91-8b20-438333549712",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "60d8e525-9b5d-4c91-8b20-438333549712",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "Q4684534",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/GeorgiadisSpiridonAdonis8_1.jpg",
       "images": [
         {
           "url": "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/GeorgiadisSpiridonAdonis8_1.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/AdonisGeorgiadis.png"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Adonis_Georgiadis"
+        },
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Άδωνις_Γεωργιάδης"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Adonis_Georgiadis"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Spyrídon-Ádonis_Georgiádis"
+        },
+        {
+          "note": "website",
+          "url": "http://www.adonisgeorgiadis.gr"
         }
       ],
       "name": "Georgiadis Spyridon - Adonis",
       "other_names": [
         {
+          "name": "Adonis Georgiades",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Adonis Georgiades",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Άδωνις Γεωργιάδης",
+          "note": "multilingual"
+        },
+        {
           "lang": "el",
           "name": "Γεωργιάδης Αθανασίου Σπυρίδων - Άδωνις",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Adonis Georgiades",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Adonis Georgiades",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Spyrídon-Ádonis Georgiádis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Adonis Georgiades",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Adonis Georgiades",
           "note": "multilingual"
         }
       ],
@@ -16992,18 +17254,115 @@
       ]
     },
     {
+      "birth_date": "1951-06-06",
+      "gender": "female",
+      "given_name": "Marietta",
       "id": "cf208c86-6c05-4f1e-8de5-655a4e92ddb4",
       "identifiers": [
         {
+          "identifier": "1431",
+          "scheme": "europarlmep"
+        },
+        {
           "identifier": "ecadf126-569c-4776-a29c-a0c3674656c0",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/0b7cz5",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "170609510",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "ecadf126-569c-4776-a29c-a0c3674656c0",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "no2008071633",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "34267268",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q3293913",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Marietta_Giannakou"
+        },
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Μαριέττα_Γιαννάκου"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Marietta_Giannakou"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Mariétta_Yannákou"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Marieta_Janaku"
         }
       ],
       "name": "Giannakou - Koutsikou Mariori (Marietta)",
       "other_names": [
         {
+          "name": "Marietta Giannakou",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Marietta Giannakou",
+          "note": "multilingual"
+        },
+        {
           "lang": "el",
           "name": "Γιαννάκου - Κουτσίκου Παναγιώτη Μαριορή (Μαριέττα)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Μαριέττα Γιαννάκου",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Marietta Giannakou",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Marietta Giannakou",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Mariétta Yannákou",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Marietta Giannakou",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Marietta Giannakou",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Marietta Giannakou",
           "note": "multilingual"
         }
       ],
@@ -18423,18 +18782,82 @@
       ]
     },
     {
+      "birth_date": "1934",
+      "gender": "male",
+      "given_name": "Kostas",
       "id": "a818b7d0-7f0f-4ab1-ba42-3460c0c8519e",
       "identifiers": [
         {
+          "identifier": "43527",
+          "scheme": "biblionet"
+        },
+        {
           "identifier": "f48b12dd-dc7b-4221-86ae-72176366fc87",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "f48b12dd-dc7b-4221-86ae-72176366fc87",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "Q6433554",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Κωστής_Γόντικας"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Kostis_Gontikas"
         }
       ],
       "name": "Gontikas Konstantinos",
       "other_names": [
         {
+          "name": "Kostis Gontikas",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Kostis Gontikas",
+          "note": "multilingual"
+        },
+        {
           "lang": "el",
           "name": "Γόντικας Δημητρίου Κωνσταντίνος",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Κωστής Γόντικας",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Kostis Gontikas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Kostis Gontikas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Kostis Gontikas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Kostis Gontikas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Kostis Gontikas",
           "note": "multilingual"
         }
       ],
@@ -24202,6 +24625,10 @@
         {
           "identifier": "n2002046058",
           "scheme": "lcauth"
+        },
+        {
+          "identifier": "3507",
+          "scheme": "pace"
         },
         {
           "identifier": "102667844",
@@ -40550,6 +40977,7 @@
       ]
     },
     {
+      "death_date": "2009-02-16",
       "gender": "male",
       "id": "54c3dcc5-84cc-446c-bf7d-9e88e3dd5af4",
       "identifiers": [
