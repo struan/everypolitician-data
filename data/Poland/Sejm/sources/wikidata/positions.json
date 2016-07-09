@@ -1166,6 +1166,13 @@
       "description": "person who has been elected to the European Parliament"
     }
   ],
+  "Q55933": [
+    {
+      "id": "Q15051532",
+      "label": "Deputy Prime Minister of the Republic of Poland",
+      "title": "Deputy Prime Minister of the Republic of Poland"
+    }
+  ],
   "Q245792": [
     {
       "id": "Q100172",
@@ -1372,7 +1379,13 @@
     {
       "id": "Q15051532",
       "label": "Deputy Prime Minister of the Republic of Poland",
-      "title": "Deputy Prime Minister of the Republic of Poland"
+      "title": "Deputy Prime Minister of the Republic of Poland",
+      "qualifiers": {
+        "P580": "2007-09-10",
+        "P582": "2007-11-16",
+        "P1365": "Przemysław Gosiewski",
+        "P1366": "Przemysław Gosiewski"
+      }
     },
     {
       "id": "Q11781525",
@@ -1395,6 +1408,28 @@
       "qualifiers": {
         "P580": "2007-11-05",
         "P582": "2008-01-14"
+      }
+    },
+    {
+      "id": "Q15051532",
+      "label": "Deputy Prime Minister of the Republic of Poland",
+      "title": "Deputy Prime Minister of the Republic of Poland",
+      "qualifiers": {
+        "P580": "2006-09-22",
+        "P582": "2007-09-07",
+        "P1365": "Roman Giertych",
+        "P1366": "Przemysław Gosiewski"
+      }
+    },
+    {
+      "id": "Q15051532",
+      "label": "Deputy Prime Minister of the Republic of Poland",
+      "title": "Deputy Prime Minister of the Republic of Poland",
+      "qualifiers": {
+        "P580": "2006-01-07",
+        "P582": "2006-06-24",
+        "P1365": "Ludwik Dorn",
+        "P1366": "Roman Giertych"
       }
     }
   ],
@@ -1886,6 +1921,13 @@
       "title": "Member of the Sejm of the Republic of Poland"
     }
   ],
+  "Q55941": [
+    {
+      "id": "Q15051532",
+      "label": "Deputy Prime Minister of the Republic of Poland",
+      "title": "Deputy Prime Minister of the Republic of Poland"
+    }
+  ],
   "Q644441": [
     {
       "id": "Q27169",
@@ -1956,6 +1998,11 @@
       "id": "Q4294477",
       "label": "Ministry of National Education",
       "title": "Ministry of National Education"
+    },
+    {
+      "id": "Q15051532",
+      "label": "Deputy Prime Minister of the Republic of Poland",
+      "title": "Deputy Prime Minister of the Republic of Poland"
     }
   ],
   "Q462233": [
