@@ -1434,7 +1434,10 @@
     {
       "id": "Q12311817",
       "label": "member of the Folketing",
-      "title": "member of the Folketing"
+      "title": "member of the Folketing",
+      "qualifiers": {
+        "P580": "1998"
+      }
     },
     {
       "id": "Q11991832",
@@ -1811,22 +1814,65 @@
   ],
   "Q257881": [
     {
-      "id": "Q3430357",
-      "label": "Ministry for Food, Agriculture and Fisheries",
-      "title": "Ministry for Food, Agriculture and Fisheries",
-      "description": "government ministry in Denmark"
-    },
-    {
       "id": "Q1476458",
       "label": "European Commissioner for the Environment",
       "title": "European Commissioner for the Environment",
-      "description": "position"
+      "description": "position",
+      "qualifiers": {
+        "P580": "1995-01-01",
+        "P582": "1999-03-15"
+      }
     },
     {
-      "id": "Q30185",
-      "label": "mayor",
-      "title": "mayor",
-      "description": "head of municipal government such as a town or city"
+      "id": "Q24300568",
+      "label": "Minister for Food, Agriculture and Fisheries",
+      "title": "Minister for Food, Agriculture and Fisheries",
+      "description": "Danish minister",
+      "qualifiers": {
+        "P580": "2000-02-23",
+        "P582": "2001-11-21",
+        "P1365": "Henrik Dam Kristensen",
+        "P1366": "Mariann Fischer Boel"
+      }
+    },
+    {
+      "id": "Q5340905",
+      "label": "Education Minister of Denmark",
+      "title": "Education Minister of Denmark",
+      "qualifiers": {
+        "P580": "1975-02-13",
+        "P582": "1979-01-05",
+        "P1365": "Knud Heinesen",
+        "P1366": "Tove Nielsen"
+      }
+    },
+    {
+      "id": "Q5340905",
+      "label": "Education Minister of Denmark",
+      "title": "Education Minister of Denmark",
+      "qualifiers": {
+        "P580": "1975-02-13",
+        "P582": "1979-01-05",
+        "P1365": "Tove Nielsen",
+        "P1366": "Dorte Bennedsen"
+      }
+    },
+    {
+      "id": "Q25713826",
+      "label": "Lord Mayor of Copenhagen",
+      "title": "Lord Mayor of Copenhagen"
+    },
+    {
+      "id": "Q25513955",
+      "label": "Minister of Social Affairs",
+      "title": "Minister of Social Affairs",
+      "description": "Danish cabinet position",
+      "qualifiers": {
+        "P580": "1979-10-26",
+        "P582": "1981-12-30",
+        "P1365": "Erling Jensen",
+        "P1366": "Bent Hansen"
+      }
     }
   ],
   "Q529900": [
@@ -1889,6 +1935,18 @@
         "P1365": "Morten Bødskov",
         "P1366": "Mette Frederiksen"
       }
+    },
+    {
+      "id": "Q25513955",
+      "label": "Minister of Social Affairs",
+      "title": "Minister of Social Affairs",
+      "description": "Danish cabinet position"
+    },
+    {
+      "id": "Q24300568",
+      "label": "Minister for Food, Agriculture and Fisheries",
+      "title": "Minister for Food, Agriculture and Fisheries",
+      "description": "Danish minister"
     }
   ],
   "Q12314541": [
@@ -1962,10 +2020,16 @@
       "description": "head of municipal government such as a town or city"
     },
     {
-      "id": "Q83307",
-      "label": "minister",
-      "title": "minister",
-      "description": "politician who holds significant public office in a national or regional government"
+      "id": "Q25513955",
+      "label": "Minister of Social Affairs",
+      "title": "Minister of Social Affairs",
+      "description": "Danish cabinet position",
+      "qualifiers": {
+        "P580": "2010",
+        "P582": "2011",
+        "P1365": "Karen Ellemann",
+        "P1366": "Karen Hækkerup"
+      }
     }
   ],
   "Q12326843": [
