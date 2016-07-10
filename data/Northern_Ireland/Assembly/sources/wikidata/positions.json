@@ -1538,6 +1538,12 @@
         "P1365": "Mark Durkan",
         "P1366": ""
       }
+    },
+    {
+      "id": "Q22979248",
+      "label": "Minister for Employment and Learning",
+      "title": "Minister for Employment and Learning",
+      "description": "Minister of the Northern Ireland Executive"
     }
   ],
   "Q6096121": [
@@ -2879,7 +2885,13 @@
       "id": "Q22979248",
       "label": "Minister for Employment and Learning",
       "title": "Minister for Employment and Learning",
-      "description": "Minister of the Northern Ireland Executive"
+      "description": "Minister of the Northern Ireland Executive",
+      "qualifiers": {
+        "P580": "2001",
+        "P582": "2002",
+        "P1365": "Sean Farren",
+        "P1366": ""
+      }
     }
   ],
   "Q6837191": [
