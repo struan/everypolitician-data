@@ -5471,6 +5471,16 @@
       "label": "Member of the National Assembly for Wales",
       "title": "Member of the National Assembly for Wales",
       "description": "member of the legislature of Wales"
+    },
+    {
+      "id": "Q25713850",
+      "label": "Leader of Plaid Cymru",
+      "title": "Leader of Plaid Cymru",
+      "description": "Welsh party leader",
+      "qualifiers": {
+        "P580": "1991",
+        "P582": "2000"
+      }
     }
   ],
   "Q1052366": [
@@ -15465,14 +15475,33 @@
       "description": "member of the legislature of Wales",
       "qualifiers": {
         "P582": "2013-06-20",
-        "P580": "1999-05-06"
+        "P580": "1999-05-06",
+        "P768": "Ynys Môn"
       }
     },
     {
       "id": "Q23602586",
       "label": "Minister for Business, Enterprise, Technology and Science",
       "title": "Minister for Business, Enterprise, Technology and Science",
-      "description": "Welsh government position"
+      "description": "Welsh government position",
+      "qualifiers": {
+        "P580": "2007",
+        "P582": "2011",
+        "P1365": "Brian Gibbons",
+        "P1366": "Edwina Hart"
+      }
+    },
+    {
+      "id": "Q25713850",
+      "label": "Leader of Plaid Cymru",
+      "title": "Leader of Plaid Cymru",
+      "description": "Welsh party leader",
+      "qualifiers": {
+        "P580": "2000-03-16",
+        "P582": "2012-03-16",
+        "P1365": "Dafydd Wigley",
+        "P1366": "Leanne Wood"
+      }
     }
   ],
   "Q328608": [
@@ -24225,7 +24254,8 @@
       "title": "Shadow Leader of the House of Commons",
       "qualifiers": {
         "P580": "2011-10-07",
-        "P1365": "Hilary Benn"
+        "P1365": "Hilary Benn",
+        "P1366": "Chris Bryant"
       }
     },
     {
