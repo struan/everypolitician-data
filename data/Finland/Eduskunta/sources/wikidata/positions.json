@@ -558,7 +558,11 @@
       "id": "Q1294631",
       "label": "Minister of Justice",
       "title": "Minister of Justice",
-      "description": "Minister of Justice in Finland"
+      "description": "Minister of Justice in Finland",
+      "qualifiers": {
+        "P580": "1994-05-01",
+        "P582": "1995-04-13"
+      }
     }
   ],
   "Q11893035": [
@@ -886,7 +890,12 @@
     {
       "id": "Q17592486",
       "label": "member of the Parliament of Finland",
-      "title": "member of the Parliament of Finland"
+      "title": "member of the Parliament of Finland",
+      "qualifiers": {
+        "P580": "1983-03-26",
+        "P582": "1999-03-23",
+        "P768": "Vaasa"
+      }
     },
     {
       "id": "Q738695",
@@ -905,7 +914,35 @@
       "id": "Q22981850",
       "label": "Leader of the Centre Party",
       "title": "Leader of the Centre Party",
-      "description": "Finnish party leader"
+      "description": "Finnish party leader",
+      "qualifiers": {
+        "P580": "1990",
+        "P582": "2002",
+        "P1365": "Paavo Väyrynen",
+        "P1366": "Anneli Jäätteenmäki"
+      }
+    },
+    {
+      "id": "Q17592486",
+      "label": "member of the Parliament of Finland",
+      "title": "member of the Parliament of Finland",
+      "qualifiers": {
+        "P580": "1999-03-24",
+        "P582": "2003-03-18",
+        "P768": "Helsinki"
+      }
+    },
+    {
+      "id": "Q392228",
+      "label": "Speaker of the Parliament of Finland",
+      "title": "Speaker of the Parliament of Finland",
+      "description": "position",
+      "qualifiers": {
+        "P580": "1991-04-04",
+        "P582": "1991-04-26",
+        "P1365": "Kalevi Sorsa",
+        "P1366": "Ilkka Suominen"
+      }
     }
   ],
   "Q5401749": [
@@ -961,7 +998,17 @@
       "id": "Q1294631",
       "label": "Minister of Justice",
       "title": "Minister of Justice",
-      "description": "Minister of Justice in Finland"
+      "description": "Minister of Justice in Finland",
+      "qualifiers": {
+        "P580": "2005-09-23",
+        "P582": "2007-04-19"
+      }
+    },
+    {
+      "id": "Q11895063",
+      "label": "Minister of Transport and Communications",
+      "title": "Minister of Transport and Communications",
+      "description": "in Finland"
     }
   ],
   "Q541499": [
@@ -1189,7 +1236,7 @@
         "P582": "2012-03-01",
         "P1366": "Sauli Niinistö",
         "P1365": "Martti Ahtisaari",
-        "P361": "Finnish presidential election, 2000"
+        "P2715": "Finnish presidential election, 2000"
       }
     },
     {
@@ -2339,7 +2386,8 @@
       "title": "Minister of Justice",
       "description": "Minister of Justice in Finland",
       "qualifiers": {
-        "P580": "2011-06-22"
+        "P580": "2011-06-22",
+        "P582": "2015-05-29"
       }
     }
   ],
@@ -3393,7 +3441,11 @@
       "id": "Q20167466",
       "label": "Premier of the Åland Islands",
       "title": "Premier of the Åland Islands",
-      "description": "head of government of Åland"
+      "description": "head of government of Åland",
+      "qualifiers": {
+        "P580": "1995-11-24",
+        "P582": "1999-12-03"
+      }
     }
   ],
   "Q920124": [
@@ -3440,7 +3492,11 @@
       "id": "Q1294631",
       "label": "Minister of Justice",
       "title": "Minister of Justice",
-      "description": "Minister of Justice in Finland"
+      "description": "Minister of Justice in Finland",
+      "qualifiers": {
+        "P580": "2007-04-19",
+        "P582": "2011-06-22"
+      }
     }
   ],
   "Q11870505": [
@@ -3782,7 +3838,11 @@
       "id": "Q1294631",
       "label": "Minister of Justice",
       "title": "Minister of Justice",
-      "description": "Minister of Justice in Finland"
+      "description": "Minister of Justice in Finland",
+      "qualifiers": {
+        "P580": "1999-04-15",
+        "P582": "2005-09-22"
+      }
     }
   ],
   "Q4349194": [
