@@ -5524,15 +5524,37 @@
       ]
     },
     {
+      "birth_date": "1906",
+      "death_date": "1992-01-23",
+      "gender": "male",
       "id": "f1be3bf5-e397-4ab1-96d4-2c93adbb0a02",
       "identifiers": [
         {
           "identifier": "a4503882-0cd9-406d-9c57-30057e17230d",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "a4503882-0cd9-406d-9c57-30057e17230d",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "Q20685081",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Γεώργιος_Μπακατσέλος"
         }
       ],
       "name": "Bakatselos Georgios",
       "other_names": [
+        {
+          "lang": "el",
+          "name": "Γεώργιος Μπακατσέλος",
+          "note": "multilingual"
+        },
         {
           "lang": "el",
           "name": "Μπακατσέλος Δημητρίου Γεώργιος",
@@ -26606,18 +26628,79 @@
       ]
     },
     {
+      "birth_date": "1933-12-06",
+      "death_date": "2012-01-20",
+      "gender": "male",
+      "given_name": "Ioannis",
       "id": "5a0affd0-58b0-4d1d-8477-d2eabff92db4",
       "identifiers": [
         {
           "identifier": "f07469e7-c263-4fab-b362-41fbbdca0c58",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "f07469e7-c263-4fab-b362-41fbbdca0c58",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "Q6062066",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Γιάννης_Κεφαλογιάννης"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ioannis_Kefalogiannis"
         }
       ],
       "name": "Kefalogiannis Ioannis",
       "other_names": [
         {
+          "name": "Ioannis Kefalogiannis",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Ioannis Kefalogiannis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Γιάννης Κεφαλογιάννης",
+          "note": "multilingual"
+        },
+        {
           "lang": "el",
           "name": "Κεφαλογιάννης Κωνσταντίνου Ιωάννης",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Ioannis Kefalogiannis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Ioannis Kefalogiannis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Ioannis Kefalogiannis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Ioannis Kefalogiannis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Ioannis Kefalogiannis",
           "note": "multilingual"
         }
       ],
@@ -27847,18 +27930,124 @@
       ]
     },
     {
+      "birth_date": "1942-06-08",
+      "gender": "male",
+      "given_name": "Nikos",
       "id": "28245874-f519-422f-bc30-69c434da5248",
       "identifiers": [
         {
+          "identifier": "19027",
+          "scheme": "biblionet"
+        },
+        {
           "identifier": "a1d949df-6785-4ad4-918d-37fee73115e9",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/042clp",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "a1d949df-6785-4ad4-918d-37fee73115e9",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "Q3347276",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Nikos_Konstantopoulos_2013_cropped.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Nikos_Konstantopoulos_2013_cropped.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Νίκος_Κωνσταντόπουλος"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Nikos_Konstantopoulos"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Níkos_Konstantópoulos"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Nikos_Konstandopulos"
+        },
+        {
+          "note": "Wikipedia (tl)",
+          "url": "https://tl.wikipedia.org/wiki/Níkos_Konstantópoulos"
         }
       ],
       "name": "Konstantopoulos - Nikolaos",
       "other_names": [
         {
+          "name": "Nikos Konstantopoulos",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Nikos Konstantopoulos",
+          "note": "multilingual"
+        },
+        {
           "lang": "el",
           "name": "Κωνσταντόπουλος Ανδρέα Νικόλαος",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Νίκος Κωνσταντόπουλος",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Nikos Konstantopoulos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Nikos Konstantopoulos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Níkos Konstantópoulos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Nikos Konstantopoulos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Nikos Konstantopoulos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Nikos Konstandopulos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Никос Константопулос",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tl",
+          "name": "Níkos Konstantópoulos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "尼科斯·康斯坦托普洛斯",
           "note": "multilingual"
         }
       ],
@@ -27964,18 +28153,135 @@
       ]
     },
     {
+      "birth_date": "1976-12-08",
+      "gender": "female",
+      "given_name": "Zoé",
       "id": "a456bd9e-61ed-45bc-8259-dc274cea8b3f",
       "identifiers": [
         {
           "identifier": "62cd33f2-ff20-43aa-8bf6-cedf23e3bfcd",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "62cd33f2-ff20-43aa-8bf6-cedf23e3bfcd",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "Q12877513",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e2/20150125_Zoi_Konstantopoulou_SIRIZA_political_party_Greece.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/20150125_Zoi_Konstantopoulou_SIRIZA_political_party_Greece.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (az)",
+          "url": "https://az.wikipedia.org/wiki/Zoe_Konstantopolou"
+        },
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Zoi_Konstantopoulou"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Zoi_Konstantopoulou"
+        },
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Ζωή_Κωνσταντοπούλου"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Zoe_Konstantopoulou"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Zoé_Konstantopoúlou"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Zoi_Konstantopoulou"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Zoi_Konstandopulu"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Константопулу,_Зои"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/佐伊·康斯坦托普洛斯"
+        },
+        {
+          "note": "website",
+          "url": "http://www.zoikonstantopoulou.gr"
         }
       ],
       "name": "Konstantopoulou Zoe",
       "other_names": [
         {
+          "name": "Zoi Konstantopoulou",
+          "note": "alternate"
+        },
+        {
+          "lang": "az",
+          "name": "Zoe Konstantopolou",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Zoi Konstantopoulou",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Ζωή Κωνσταντοπούλου",
+          "note": "multilingual"
+        },
+        {
           "lang": "el",
           "name": "Κωνσταντοπούλου Ν. Ζωή",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Zoi Konstantopoulou",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Zoé Konstantopoulou",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ゾエ・コンスタントポウロウ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Zoi Konstantopoulou",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Zoi Konstandopulu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Константопулу, Зои",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "佐伊·康斯坦托普洛斯",
           "note": "multilingual"
         }
       ],
