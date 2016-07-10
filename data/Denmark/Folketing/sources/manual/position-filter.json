@@ -61,11 +61,11 @@
         "name": "Minister for Ecclesiastical Affairs of Denmark"
       },
       {
-        "id": "Q24300568",
+        "id": "Q3430357",
         "name": "Minister for Food, Agriculture and Fisheries"
       },
       {
-        "id": "Q3430357",
+        "id": "Q24300568",
         "name": "Minister for Food, Agriculture and Fisheries"
       },
       {
@@ -99,6 +99,12 @@
       {
         "id": "Q7689385",
         "name": "Tax Minister of Denmark"
+      },
+      {
+        "id": "Q25513955",
+        "name": "Minister of Social Affairs",
+        "description": "Danish cabinet position",
+        "count": 3
       }
     ],
     "party": [
@@ -160,65 +166,15 @@
       {
         "id": "Q12336940",
         "name": "State auditor"
-      }
-    ]
-  },
-  "unknown": {
-    "unknown": [
-      {
-        "id": "Q3544677",
-        "name": "List of Ministers for Food, Agriculture and Fisheries",
-        "description": "Wikimedia list article",
-        "count": 1
       },
       {
         "id": "Q25713826",
         "name": "Lord Mayor of Copenhagen",
         "description": null,
         "count": 1
-      },
-      {
-        "id": "Q25513955",
-        "name": "Minister of Social Affairs",
-        "description": "Danish cabinet position",
-        "count": 3
-      },
-      {
-        "id": "Q3437404",
-        "name": "Ministry of Business and Growth",
-        "description": "Danish ministry",
-        "count": 1
-      },
-      {
-        "id": "Q3359295",
-        "name": "Ministry of Climate and Energy",
-        "description": null,
-        "count": 1
-      },
-      {
-        "id": "Q4994741",
-        "name": "Q4994741",
-        "description": null,
-        "count": 1
-      },
-      {
-        "id": "Q12313165",
-        "name": "attorney-in-fact",
-        "description": "person authorized to legally act on behalf of someone else",
-        "count": 1
-      },
-      {
-        "id": "Q30185",
-        "name": "mayor",
-        "description": "head of municipal government such as a town or city",
-        "count": 5
-      },
-      {
-        "id": "Q83307",
-        "name": "minister",
-        "description": "politician who holds significant public office in a national or regional government",
-        "count": 3
       }
     ]
+  },
+  "unknown": {
   }
 }
