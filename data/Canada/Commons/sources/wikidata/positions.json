@@ -3372,13 +3372,37 @@
       "id": "Q541355",
       "label": "Minister of Foreign Affairs of Canada",
       "title": "Minister of Foreign Affairs of Canada",
-      "description": "Canadian minister"
+      "description": "Canadian minister",
+      "qualifiers": {
+        "P580": "2007-08-13",
+        "P582": "2008-05-26",
+        "P1365": "Peter MacKay",
+        "P1366": "David Emerson"
+      }
     },
     {
       "id": "Q3251779",
       "label": "Minister of Industry",
       "title": "Minister of Industry",
-      "description": "Canadian minister"
+      "description": "Canadian minister",
+      "qualifiers": {
+        "P580": "2006-02-06",
+        "P582": "2007-08-13",
+        "P1365": "David Emerson",
+        "P1366": "Jim Prentice"
+      }
+    },
+    {
+      "id": "Q24190727",
+      "label": "Minister of Small Business and Tourism",
+      "title": "Minister of Small Business and Tourism",
+      "description": "Canadian minister",
+      "qualifiers": {
+        "P580": "2011-05-18",
+        "P582": "2015-11-04",
+        "P1365": "Rob Moore",
+        "P1366": "Bardish Chagger"
+      }
     }
   ],
   "Q6939423": [
@@ -3527,6 +3551,14 @@
       "label": "member of the House of Commons of Canada",
       "title": "member of the House of Commons of Canada",
       "description": "representative elected by the canadian voters"
+    }
+  ],
+  "Q21402871": [
+    {
+      "id": "Q24190727",
+      "label": "Minister of Small Business and Tourism",
+      "title": "Minister of Small Business and Tourism",
+      "description": "Canadian minister"
     }
   ],
   "Q3026209": [
@@ -3968,6 +4000,12 @@
       "label": "member of the House of Commons of Canada",
       "title": "member of the House of Commons of Canada",
       "description": "representative elected by the canadian voters"
+    },
+    {
+      "id": "Q24190727",
+      "label": "Minister of Small Business and Tourism",
+      "title": "Minister of Small Business and Tourism",
+      "description": "Canadian minister"
     }
   ],
   "Q7297216": [
