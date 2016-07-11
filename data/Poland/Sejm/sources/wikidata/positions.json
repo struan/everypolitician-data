@@ -273,6 +273,12 @@
       "id": "Q21328636",
       "label": "Member of the Sejm of the Republic of Poland",
       "title": "Member of the Sejm of the Republic of Poland"
+    },
+    {
+      "id": "Q25711733",
+      "label": "Minister of Education",
+      "title": "Minister of Education",
+      "description": "Polish minister"
     }
   ],
   "Q273569": [
@@ -585,6 +591,12 @@
       "id": "Q21328636",
       "label": "Member of the Sejm of the Republic of Poland",
       "title": "Member of the Sejm of the Republic of Poland"
+    },
+    {
+      "id": "Q25711733",
+      "label": "Minister of Education",
+      "title": "Minister of Education",
+      "description": "Polish minister"
     }
   ],
   "Q1676071": [
@@ -1487,6 +1499,12 @@
       "id": "Q21328636",
       "label": "Member of the Sejm of the Republic of Poland",
       "title": "Member of the Sejm of the Republic of Poland"
+    },
+    {
+      "id": "Q25711733",
+      "label": "Minister of Education",
+      "title": "Minister of Education",
+      "description": "Polish minister"
     }
   ],
   "Q261112": [
@@ -1589,6 +1607,12 @@
       "id": "Q21328636",
       "label": "Member of the Sejm of the Republic of Poland",
       "title": "Member of the Sejm of the Republic of Poland"
+    },
+    {
+      "id": "Q25711733",
+      "label": "Minister of Education",
+      "title": "Minister of Education",
+      "description": "Polish minister"
     }
   ],
   "Q5533534": [
@@ -1603,7 +1627,10 @@
     {
       "id": "Q21328636",
       "label": "Member of the Sejm of the Republic of Poland",
-      "title": "Member of the Sejm of the Republic of Poland"
+      "title": "Member of the Sejm of the Republic of Poland",
+      "qualifiers": {
+        "P580": "2005-09-25"
+      }
     },
     {
       "id": "Q736559",
@@ -1995,9 +2022,10 @@
   ],
   "Q55937": [
     {
-      "id": "Q4294477",
-      "label": "Ministry of National Education",
-      "title": "Ministry of National Education"
+      "id": "Q25711733",
+      "label": "Minister of Education",
+      "title": "Minister of Education",
+      "description": "Polish minister"
     },
     {
       "id": "Q15051532",
