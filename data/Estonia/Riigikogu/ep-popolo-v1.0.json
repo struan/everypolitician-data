@@ -16740,17 +16740,35 @@
     },
     {
       "birth_date": "1953-04-20",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "peep.aru@riigikogu.ee"
+        },
+        {
+          "type": "phone",
+          "value": "6316595"
+        }
+      ],
+      "email": "peep.aru@riigikogu.ee",
       "gender": "male",
       "given_name": "Peep",
-      "id": "37157edd-5b83-4193-ba8b-7636a9b92788",
+      "id": "5eb3f11c-99ad-4309-8d6b-be22118d88cc",
       "identifiers": [
+        {
+          "identifier": "13ae3199-f2e4-4b49-a73b-f2880451da33",
+          "scheme": "riigikogu"
+        },
         {
           "identifier": "Q2067037",
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/RE_Peep_Aru.jpg",
+      "image": "http://www.riigikogu.ee/wpcms/wp-content/uploads/ems/temp/a5b93b1a-716b-4dcf-aba8-9ddcce524f11.jpg",
       "images": [
+        {
+          "url": "http://www.riigikogu.ee/wpcms/wp-content/uploads/ems/temp/a5b93b1a-716b-4dcf-aba8-9ddcce524f11.jpg"
+        },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/RE_Peep_Aru.jpg"
         }
@@ -16861,35 +16879,7 @@
           "name": "Peep Aru",
           "note": "multilingual"
         }
-      ]
-    },
-    {
-      "birth_date": "1953-04-20",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "peep.aru@riigikogu.ee"
-        },
-        {
-          "type": "phone",
-          "value": "6316595"
-        }
       ],
-      "email": "peep.aru@riigikogu.ee",
-      "id": "5eb3f11c-99ad-4309-8d6b-be22118d88cc",
-      "identifiers": [
-        {
-          "identifier": "13ae3199-f2e4-4b49-a73b-f2880451da33",
-          "scheme": "riigikogu"
-        }
-      ],
-      "image": "http://www.riigikogu.ee/wpcms/wp-content/uploads/ems/temp/a5b93b1a-716b-4dcf-aba8-9ddcce524f11.jpg",
-      "images": [
-        {
-          "url": "http://www.riigikogu.ee/wpcms/wp-content/uploads/ems/temp/a5b93b1a-716b-4dcf-aba8-9ddcce524f11.jpg"
-        }
-      ],
-      "name": "Peep Aru",
       "sources": [
         {
           "url": "http://www.riigikogu.ee/riigikogu/koosseis/riigikogu-liikmed/saadik/13ae3199-f2e4-4b49-a73b-f2880451da33/Peep-Aru"
@@ -19425,6 +19415,10 @@
         {
           "identifier": "47201a8e-4ae7-45fa-8659-b47930d6f99c",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "1105987868",
+          "scheme": "gnd"
         },
         {
           "identifier": "vjnscmob3zo5",
@@ -26523,13 +26517,6 @@
       "role": "member"
     },
     {
-      "legislative_period_id": "term/12",
-      "on_behalf_of_id": "RE",
-      "organization_id": "legislature",
-      "person_id": "37157edd-5b83-4193-ba8b-7636a9b92788",
-      "role": "member"
-    },
-    {
       "area_id": "area/võru-,_valga-_ja_põlvamaa",
       "legislative_period_id": "term/13",
       "on_behalf_of_id": "KESK",
@@ -26861,6 +26848,13 @@
       "on_behalf_of_id": "SDE",
       "organization_id": "legislature",
       "person_id": "5db703d7-bdb8-4d14-b2dd-1100aa9c1671",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/12",
+      "on_behalf_of_id": "RE",
+      "organization_id": "legislature",
+      "person_id": "5eb3f11c-99ad-4309-8d6b-be22118d88cc",
       "role": "member"
     },
     {
