@@ -2090,6 +2090,12 @@
       "id": "Q22978391",
       "label": "Madrid Councillor",
       "title": "Madrid Councillor"
+    },
+    {
+      "id": "Q25672112",
+      "label": "Foreign Minister",
+      "title": "Foreign Minister",
+      "description": "member of the Spanish Cabinet"
     }
   ],
   "Q6075800": [
@@ -2134,10 +2140,14 @@
   ],
   "Q58095": [
     {
-      "id": "Q2339304",
-      "label": "Ministry of Foreign Affairs and Cooperation of Spain",
-      "title": "Ministry of Foreign Affairs and Cooperation of Spain",
-      "description": "Runs diplomatic relations of the Kingdom of Spain and other countries"
+      "id": "Q25672112",
+      "label": "Foreign Minister",
+      "title": "Foreign Minister",
+      "description": "member of the Spanish Cabinet",
+      "qualifiers": {
+        "P580": "2011-12-22",
+        "P1365": "Trinidad Jiménez"
+      }
     },
     {
       "id": "Q27169",
