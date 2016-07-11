@@ -297,6 +297,12 @@
       "label": "Member of the National Council of Slovakia",
       "title": "Member of the National Council of Slovakia",
       "description": "member of the unicameral parliament of Slovakia"
+    },
+    {
+      "id": "Q2501411",
+      "label": "Minister of Foreign Affairs",
+      "title": "Minister of Foreign Affairs",
+      "description": "Minister of Foreign Affairs in Slovakia"
     }
   ],
   "Q9359944": [
@@ -328,7 +334,13 @@
       "id": "Q2501411",
       "label": "Minister of Foreign Affairs",
       "title": "Minister of Foreign Affairs",
-      "description": "Minister of Foreign Affairs in Slovakia"
+      "description": "Minister of Foreign Affairs in Slovakia",
+      "qualifiers": {
+        "P580": "1996-08-27",
+        "P582": "1997-05-25",
+        "P1365": "Juraj Schenk",
+        "P1366": "Zdenka Kramplová"
+      }
     }
   ],
   "Q552706": [
