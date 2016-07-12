@@ -21,14 +21,15 @@ describe Reconciliation::Fuzzer do
   subject { Reconciliation::Fuzzer.new(existing_rows, incoming_rows, instructions) }
 
   it 'returns matches for the incoming rows' do
-    subject.find_all.must_equal [
+    subject.score_all.must_equal [
       {
         incoming: { id: '123', name: 'Shamus' },
         existing: [
           [
             {
               :uuid=>"d50ab88c-8c56-4530-90b2-868adb2b94cd",
-              :name=>"Seamus"
+              :name=>"Seamus",
+              :fuzzit => "seamus",
             },
             0.6,
             0.8333333333333334
