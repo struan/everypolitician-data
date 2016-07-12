@@ -7657,7 +7657,52 @@
     {
       "classification": "party",
       "id": "party/sociedad_patriótica",
-      "name": "Sociedad Patriótica"
+      "identifiers": [
+        {
+          "identifier": "Q570082",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/92/Sociedad_Patriótica_21_de_Enero.JPG",
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.sociedadpatriotica.com/"
+        }
+      ],
+      "name": "Sociedad Patriótica",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Partido Sociedad Patriótica",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "January 21 Patriotic Society Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Sociedad Patriótica 21 de Enero",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti société patriotique 21 janvier",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Partito della Società Patriottica",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "January 21 Patriotic Society Party",
+          "note": "multilingual"
+        }
+      ]
     }
   ],
   "meta": {
