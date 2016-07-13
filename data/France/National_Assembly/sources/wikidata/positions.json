@@ -8070,7 +8070,13 @@
       "id": "Q20202948",
       "label": "Minister of the Economy, Finances and Industry",
       "title": "Minister of the Economy, Finances and Industry",
-      "description": "French minister"
+      "description": "French minister",
+      "qualifiers": {
+        "P580": "2012-05-16",
+        "P582": "2014-04-02",
+        "P1365": "François Baroin",
+        "P1366": "Michel Sapin"
+      }
     },
     {
       "id": "Q3044918",
@@ -12181,6 +12187,12 @@
       "label": "Member of the General Council",
       "title": "Member of the General Council",
       "description": "elected member of the local assembly of a French department (before March 2015)"
+    },
+    {
+      "id": "Q20202948",
+      "label": "Minister of the Economy, Finances and Industry",
+      "title": "Minister of the Economy, Finances and Industry",
+      "description": "French minister"
     }
   ],
   "Q1862692": [
@@ -30212,6 +30224,12 @@
         "P1365": "Nicolas Sarkozy",
         "P1366": "Michèle Alliot-Marie"
       }
+    },
+    {
+      "id": "Q20202948",
+      "label": "Minister of the Economy, Finances and Industry",
+      "title": "Minister of the Economy, Finances and Industry",
+      "description": "French minister"
     }
   ],
   "Q63275": [
