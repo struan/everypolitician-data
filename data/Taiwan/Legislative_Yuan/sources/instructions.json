@@ -25,7 +25,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/taiwan-legislative-yuan-wikidata",
-        "query": "SELECT * FROM data"
+        "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "http://wikidata.org/",
       "type": "wikidata",
