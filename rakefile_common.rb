@@ -59,6 +59,15 @@ def json_write(file, json)
   File.write(file, JSON.pretty_generate(json))
 end
 
+module Enumerable
+  # Workaround for native sort_by producing inconsistent results between OS X
+  # and Linux.
+  # @see https://bugs.ruby-lang.org/issues/11379
+  def portable_sort_by(&block)
+    group_by(&block).sort_by { |group_name, _| group_name }.flat_map { |_, group| group }
+  end
+end
+
 def popolo_write(file, json)
   # TODO remove the need for the .to_s here, by ensuring all People and Orgs have names
   json[:persons].sort_by!       { |p| [ p[:name].to_s, p[:id] ] }
