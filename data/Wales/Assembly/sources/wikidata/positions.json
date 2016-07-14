@@ -18,7 +18,19 @@
       "id": "Q23196598",
       "label": "Minister for Education and Skills",
       "title": "Minister for Education and Skills",
-      "description": "Welsh cabinet minister"
+      "description": "Welsh cabinet minister",
+      "qualifiers": {
+        "P580": "2009-12-10",
+        "P582": "2013-06-25",
+        "P1365": "Jane Hutt",
+        "P1366": "Huw Lewis"
+      }
+    },
+    {
+      "id": "Q25713804",
+      "label": "Minister for Public Services",
+      "title": "Minister for Public Services",
+      "description": "Welsh minister"
     }
   ],
   "Q6662955": [
@@ -173,6 +185,16 @@
       "label": "Member of the National Assembly for Wales",
       "title": "Member of the National Assembly for Wales",
       "description": "member of the legislature of Wales"
+    },
+    {
+      "id": "Q25713850",
+      "label": "Leader of Plaid Cymru",
+      "title": "Leader of Plaid Cymru",
+      "description": "Welsh party leader",
+      "qualifiers": {
+        "P580": "2012",
+        "P1365": "Ieuan Wyn Jones"
+      }
     }
   ],
   "Q6207115": [
@@ -295,6 +317,12 @@
       "label": "Member of the National Assembly for Wales",
       "title": "Member of the National Assembly for Wales",
       "description": "member of the legislature of Wales"
+    },
+    {
+      "id": "Q23196598",
+      "label": "Minister for Education and Skills",
+      "title": "Minister for Education and Skills",
+      "description": "Welsh cabinet minister"
     }
   ],
   "Q5346948": [
@@ -332,6 +360,16 @@
         "P582": "2011-05-13",
         "P1366": "Lesley Griffiths",
         "P1365": "Brian Gibbons"
+      }
+    },
+    {
+      "id": "Q6865829",
+      "label": "Minister for Finance",
+      "title": "Minister for Finance",
+      "description": "member of the cabinet in the Welsh Government",
+      "qualifiers": {
+        "P580": "1999",
+        "P582": "2003"
       }
     }
   ],
@@ -382,10 +420,16 @@
       }
     },
     {
-      "id": "Q10691",
-      "label": "Plaid Cymru",
-      "title": "Plaid Cymru",
-      "description": "Welsh political party"
+      "id": "Q25713850",
+      "label": "Leader of Plaid Cymru",
+      "title": "Leader of Plaid Cymru",
+      "description": "Welsh party leader",
+      "qualifiers": {
+        "P580": "2000-03-16",
+        "P582": "2012-03-16",
+        "P1365": "Dafydd Wigley",
+        "P1366": "Leanne Wood"
+      }
     }
   ],
   "Q6388501": [
@@ -505,7 +549,13 @@
       "id": "Q6865862",
       "label": "Minister for Health and Social Services",
       "title": "Minister for Health and Social Services",
-      "description": "in Welsh Government"
+      "description": "in Welsh Government",
+      "qualifiers": {
+        "P580": "2013-03-14",
+        "P582": "2016-05-19",
+        "P1365": "Lesley Griffiths",
+        "P1366": "Vaughan Gething"
+      }
     }
   ],
   "Q20065239": [
@@ -535,14 +585,33 @@
       "id": "Q23196598",
       "label": "Minister for Education and Skills",
       "title": "Minister for Education and Skills",
-      "description": "Welsh cabinet minister"
+      "description": "Welsh cabinet minister",
+      "qualifiers": {
+        "P580": "2013-06-26",
+        "P582": "2016-05-07",
+        "P1365": "Leighton Andrews",
+        "P1366": "Kirsty Williams"
+      }
+    },
+    {
+      "id": "Q25713806",
+      "label": "Minister for Communities and Tackling Poverty",
+      "title": "Minister for Communities and Tackling Poverty",
+      "description": "Welsh minister"
     }
   ],
   "Q7321239": [
     {
-      "id": "Q3112646",
-      "label": "Welsh Government",
-      "title": "Welsh Government"
+      "id": "Q25713775",
+      "label": "Minister for Heritage",
+      "title": "Minister for Heritage",
+      "description": "Welsh minister",
+      "qualifiers": {
+        "P580": "2007-07-11",
+        "P582": "2008-07-18",
+        "P1365": "",
+        "P1366": "Alun Ffred Jones"
+      }
     },
     {
       "id": "Q3406079",
@@ -687,13 +756,46 @@
       "id": "Q23196598",
       "label": "Minister for Education and Skills",
       "title": "Minister for Education and Skills",
-      "description": "Welsh cabinet minister"
+      "description": "Welsh cabinet minister",
+      "qualifiers": {
+        "P580": "2007-07-19",
+        "P582": "2010-12-09",
+        "P1365": "Rhodri Morgan",
+        "P1366": ""
+      }
     },
     {
       "id": "Q3406079",
       "label": "Member of the National Assembly for Wales",
       "title": "Member of the National Assembly for Wales",
       "description": "member of the legislature of Wales"
+    },
+    {
+      "id": "Q6865862",
+      "label": "Minister for Health and Social Services",
+      "title": "Minister for Health and Social Services",
+      "description": "in Welsh Government"
+    },
+    {
+      "id": "Q6865829",
+      "label": "Minister for Finance",
+      "title": "Minister for Finance",
+      "description": "member of the cabinet in the Welsh Government",
+      "qualifiers": {
+        "P580": "2009-12-09",
+        "P582": "2016-05",
+        "P1366": "Mark Drakeford"
+      }
+    },
+    {
+      "id": "Q6865829",
+      "label": "Minister for Finance",
+      "title": "Minister for Finance",
+      "description": "member of the cabinet in the Welsh Government",
+      "qualifiers": {
+        "P580": "2007-05-25",
+        "P582": "2007-07-19"
+      }
     }
   ],
   "Q3405148": [
@@ -721,7 +823,35 @@
       "id": "Q3406079",
       "label": "Member of the National Assembly for Wales",
       "title": "Member of the National Assembly for Wales",
-      "description": "member of the legislature of Wales"
+      "description": "member of the legislature of Wales",
+      "qualifiers": {
+        "P768": "Caernarfon",
+        "P580": "2003-05-01",
+        "P582": "2007-05-03"
+      }
+    },
+    {
+      "id": "Q25713775",
+      "label": "Minister for Heritage",
+      "title": "Minister for Heritage",
+      "description": "Welsh minister",
+      "qualifiers": {
+        "P580": "2008-07-22",
+        "P582": "2011",
+        "P1365": "Rhodri Glyn Thomas",
+        "P1366": ""
+      }
+    },
+    {
+      "id": "Q3406079",
+      "label": "Member of the National Assembly for Wales",
+      "title": "Member of the National Assembly for Wales",
+      "description": "member of the legislature of Wales",
+      "qualifiers": {
+        "P768": "Arfon",
+        "P580": "2007-05-03",
+        "P582": "2016-04-04"
+      }
     }
   ],
   "Q117720": [
