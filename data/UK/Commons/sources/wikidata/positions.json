@@ -422,12 +422,6 @@
   ],
   "Q304095": [
     {
-      "id": "Q3044733",
-      "label": "Department of Energy and Climate Change",
-      "title": "Department of Energy and Climate Change",
-      "description": "United Kingdom government ministerial department"
-    },
-    {
       "id": "Q16707842",
       "label": "Member of Parliament in the United Kingdom",
       "title": "Member of Parliament in the United Kingdom",
@@ -1755,6 +1749,27 @@
       "label": "Member of Parliament in the United Kingdom",
       "title": "Member of Parliament in the United Kingdom",
       "description": "voters' representative in the House of Commons of the United Kingdom"
+    },
+    {
+      "id": "Q2484309",
+      "label": "Secretary of State for the Home Department",
+      "title": "Secretary of State for the Home Department",
+      "description": "United Kingdom government cabinet minister",
+      "qualifiers": {
+        "P580": "2016-07-13",
+        "P1365": "Theresa May"
+      }
+    },
+    {
+      "id": "Q7444345",
+      "label": "Secretary of State for Energy and Climate Change",
+      "title": "Secretary of State for Energy and Climate Change",
+      "description": "United Kingdom government cabinet minister",
+      "qualifiers": {
+        "P580": "2015-05-11",
+        "P582": "2016-07-13",
+        "P1365": "Edward Davey"
+      }
     }
   ],
   "Q694853": [
@@ -3389,7 +3404,20 @@
       "id": "Q16707842",
       "label": "Member of Parliament in the United Kingdom",
       "title": "Member of Parliament in the United Kingdom",
-      "description": "voters' representative in the House of Commons of the United Kingdom"
+      "description": "voters' representative in the House of Commons of the United Kingdom",
+      "qualifiers": {
+        "P580": "2001-06-09"
+      }
+    },
+    {
+      "id": "Q1371091",
+      "label": "Secretary of State for Foreign and Commonwealth Affairs",
+      "title": "Secretary of State for Foreign and Commonwealth Affairs",
+      "description": "United Kingdom government cabinet minister heading the Foreign and Commonwealth Office",
+      "qualifiers": {
+        "P580": "2016-07-13",
+        "P1365": "Philip Hammond"
+      }
     }
   ],
   "Q7151723": [
@@ -12059,7 +12087,19 @@
       "description": "United Kingdom government cabinet minister heading the Foreign and Commonwealth Office",
       "qualifiers": {
         "P580": "2014-07-15",
-        "P1365": "William Hague"
+        "P1365": "William Hague",
+        "P582": "2016-07-13",
+        "P1366": "Boris Johnson"
+      }
+    },
+    {
+      "id": "Q531471",
+      "label": "Chancellor of the Exchequer",
+      "title": "Chancellor of the Exchequer",
+      "description": "title held by the British Cabinet minister who is responsible for all economic and financial matters",
+      "qualifiers": {
+        "P580": "2016-07-13",
+        "P1365": "George Osborne"
       }
     }
   ],
@@ -23505,12 +23545,24 @@
       "id": "Q609884",
       "label": "First Lord of the Treasury",
       "title": "First Lord of the Treasury",
-      "description": "head of the commission exercising the ancient office of Lord High Treasurer in the United Kingdom"
+      "description": "head of the commission exercising the ancient office of Lord High Treasurer in the United Kingdom",
+      "qualifiers": {
+        "P580": "2010-05-11",
+        "P582": "2016-07-13",
+        "P1365": "Gordon Brown",
+        "P1366": "Theresa May"
+      }
     },
     {
       "id": "Q3315116",
       "label": "Minister for the Civil Service",
-      "title": "Minister for the Civil Service"
+      "title": "Minister for the Civil Service",
+      "qualifiers": {
+        "P580": "2010-05-11",
+        "P582": "2016-07-13",
+        "P1365": "Gordon Brown",
+        "P1366": "Theresa May"
+      }
     },
     {
       "id": "Q2741536",
@@ -23682,6 +23734,25 @@
       "description": "most senior politician within the Conservative Party in the United Kingdom",
       "qualifiers": {
         "P580": "2016-07-11",
+        "P1365": "David Cameron"
+      }
+    },
+    {
+      "id": "Q609884",
+      "label": "First Lord of the Treasury",
+      "title": "First Lord of the Treasury",
+      "description": "head of the commission exercising the ancient office of Lord High Treasurer in the United Kingdom",
+      "qualifiers": {
+        "P580": "2016-07-13",
+        "P1365": "David Cameron"
+      }
+    },
+    {
+      "id": "Q3315116",
+      "label": "Minister for the Civil Service",
+      "title": "Minister for the Civil Service",
+      "qualifiers": {
+        "P580": "2016-07-13",
         "P1365": "David Cameron"
       }
     }
