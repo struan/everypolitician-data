@@ -2358,7 +2358,23 @@
     {
       "id": "Q18171345",
       "label": "Member of the Congress of Deputies of Spain",
-      "title": "Member of the Congress of Deputies of Spain"
+      "title": "Member of the Congress of Deputies of Spain",
+      "qualifiers": {
+        "P580": "2011",
+        "P768": "Barcelona",
+        "P102": "Democratic Convergence of Catalonia"
+      }
+    },
+    {
+      "id": "Q708492",
+      "label": "councillor",
+      "title": "councillor (of Sabadell)",
+      "description": "representative of voters to a local government",
+      "qualifiers": {
+        "P642": "Sabadell",
+        "P580": "2007",
+        "P582": "2011"
+      }
     }
   ],
   "Q11935755": [
