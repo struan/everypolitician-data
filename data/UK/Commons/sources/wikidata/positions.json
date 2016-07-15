@@ -755,6 +755,12 @@
       "qualifiers": {
         "P580": "2012-11-15"
       }
+    },
+    {
+      "id": "Q25906219",
+      "label": "Chair of the Parliamentary Labour Party",
+      "title": "Chair of the Parliamentary Labour Party",
+      "description": "UK party leader"
     }
   ],
   "Q5394713": [
@@ -2028,9 +2034,9 @@
   ],
   "Q260960": [
     {
-      "id": "Q6540616",
-      "label": "Liberal Democrat Frontbench Team",
-      "title": "Liberal Democrat Frontbench Team",
+      "id": "Q25906198",
+      "label": "Liberal Democrat Shadow Leader of the Commons",
+      "title": "Liberal Democrat Shadow Leader of the Commons",
       "qualifiers": {
         "P580": "1999-08-29",
         "P582": "2003-05-15",
@@ -3012,10 +3018,10 @@
   ],
   "Q6848224": [
     {
-      "id": "Q3044742",
-      "label": "Department of Health",
-      "title": "Department of Health",
-      "description": "United Kingdom government ministerial department",
+      "id": "Q23304196",
+      "label": "Minister of State for Health",
+      "title": "Minister of State for Health",
+      "description": "UK minister",
       "qualifiers": {
         "P580": "2009-06-08",
         "P582": "2010-05-11",
@@ -3024,10 +3030,9 @@
       }
     },
     {
-      "id": "Q3044733",
-      "label": "Department of Energy and Climate Change",
-      "title": "Department of Energy and Climate Change",
-      "description": "United Kingdom government ministerial department",
+      "id": "Q25196293",
+      "label": "Minister of State for Energy",
+      "title": "Minister of State for Energy",
       "qualifiers": {
         "P580": "2008-10-05",
         "P582": "2009-06-08",
@@ -3036,10 +3041,10 @@
       }
     },
     {
-      "id": "Q1191394",
-      "label": "Department for Work and Pensions",
-      "title": "Department for Work and Pensions",
-      "description": "United Kingdom government ministerial department",
+      "id": "Q25906212",
+      "label": "Minister of State for Pensions",
+      "title": "Minister of State for Pensions",
+      "description": "UK minister of state",
       "qualifiers": {
         "P580": "2007-06-27",
         "P582": "2008-10-05",
@@ -3056,7 +3061,8 @@
         "P580": "1992-04-09",
         "P582": "2010-04-12",
         "P1365": "Francis Maude",
-        "P1366": "Dan Byles"
+        "P1366": "Dan Byles",
+        "P768": "North Warwickshire"
       }
     },
     {
@@ -3087,6 +3093,30 @@
       "label": "Parliamentary Under-Secretary of State for Transport",
       "title": "Parliamentary Under-Secretary of State for Transport",
       "description": "junior transport minister in the UK"
+    },
+    {
+      "id": "Q6866372",
+      "label": "Minister of State for Trade",
+      "title": "Minister of State for Trade",
+      "qualifiers": {
+        "P580": "2004-09-10",
+        "P582": "2005-05-11"
+      }
+    },
+    {
+      "id": "Q6866372",
+      "label": "Minister of State for Trade",
+      "title": "Minister of State for Trade",
+      "qualifiers": {
+        "P580": "2003-06-13",
+        "P582": "2004-09-10"
+      }
+    },
+    {
+      "id": "Q4146869",
+      "label": "Minister of State for Foreign Affairs",
+      "title": "Minister of State for Foreign Affairs",
+      "description": "junior ministerial position in the British government"
     }
   ],
   "Q269868": [
@@ -4473,10 +4503,10 @@
   ],
   "Q336111": [
     {
-      "id": "Q7450071",
-      "label": "List of Senators of the College of Justice",
-      "title": "List of Senators of the College of Justice",
-      "description": "Wikimedia list article",
+      "id": "Q19754948",
+      "label": "Senator of the College of Justice",
+      "title": "Senator of the College of Justice",
+      "description": "subclass of judges in Scottland, Britain",
       "qualifiers": {
         "P580": "2006",
         "P1365": "Hazel Cosgrove, Lady Cosgrove"
@@ -4496,7 +4526,10 @@
       "id": "Q16707842",
       "label": "Member of Parliament in the United Kingdom",
       "title": "Member of Parliament in the United Kingdom",
-      "description": "voters' representative in the House of Commons of the United Kingdom"
+      "description": "voters' representative in the House of Commons of the United Kingdom",
+      "qualifiers": {
+        "P768": "Edinburgh Pentlands"
+      }
     },
     {
       "id": "Q18952564",
@@ -6001,9 +6034,10 @@
   ],
   "Q334443": [
     {
-      "id": "Q14472169",
-      "label": "Parliamentary Labour Party",
-      "title": "Parliamentary Labour Party",
+      "id": "Q25906219",
+      "label": "Chair of the Parliamentary Labour Party",
+      "title": "Chair of the Parliamentary Labour Party",
+      "description": "UK party leader",
       "qualifiers": {
         "P580": "2001-07-11",
         "P582": "2005-05-24",
@@ -6420,10 +6454,10 @@
   ],
   "Q534727": [
     {
-      "id": "Q5260119",
-      "label": "Department for Innovation, Universities and Skills",
-      "title": "Department for Innovation, Universities and Skills",
-      "description": "department of the United Kingdom Governmentedit"
+      "id": "Q25906161",
+      "label": "Minister of State for Innovation, Universities and Skills",
+      "title": "Minister of State for Innovation, Universities and Skills",
+      "description": "UK minister of state"
     },
     {
       "id": "Q16707842",
@@ -6823,18 +6857,20 @@
       "label": "Shadow Chief Secretary to the Treasury",
       "title": "Shadow Chief Secretary to the Treasury",
       "qualifiers": {
-        "P580": "2015-09-13"
+        "P580": "2015-09-13",
+        "P582": "2016-06-26",
+        "P1365": "Shabana Mahmood",
+        "P1366": "Rebecca Long-Bailey"
       }
     },
     {
-      "id": "Q3477321",
-      "label": "Parliamentary Private Secretary",
-      "title": "Parliamentary Private Secretary"
-    },
-    {
-      "id": "Q7574785",
-      "label": "Special advisers",
-      "title": "Special advisers"
+      "id": "Q140686",
+      "label": "chairperson",
+      "title": "chairperson (of Fabian Society)",
+      "description": "highest officer of an organized group",
+      "qualifiers": {
+        "P642": "Fabian Society"
+      }
     }
   ],
   "Q337802": [
@@ -7127,12 +7163,6 @@
     }
   ],
   "Q336214": [
-    {
-      "id": "Q3297079",
-      "label": "Secretary of State for Culture, Media and Sport",
-      "title": "Secretary of State for Culture, Media and Sport",
-      "description": "United Kingdom government cabinet minister"
-    },
     {
       "id": "Q16707842",
       "label": "Member of Parliament in the United Kingdom",
@@ -9946,9 +9976,7 @@
       "description": "United Kingdom government cabinet minister",
       "qualifiers": {
         "P580": "2016-07-14",
-        "P1365": "John Whittingdale",
-        "P582": "",
-        "P1366": ""
+        "P1365": "John Whittingdale"
       }
     }
   ],
@@ -11175,9 +11203,9 @@
   ],
   "Q334339": [
     {
-      "id": "Q2631987",
-      "label": "Attorney General for England and Wales",
-      "title": "Attorney General for England and Wales",
+      "id": "Q23674385",
+      "label": "Shadow Attorney General for England and Wales",
+      "title": "Shadow Attorney General for England and Wales",
       "qualifiers": {
         "P580": "2009-09-08",
         "P582": "2010-05-11",
@@ -11186,19 +11214,14 @@
       }
     },
     {
-      "id": "Q1413677",
-      "label": "justice ministry",
-      "title": "justice ministry",
-      "description": "ministry in the government of a state, responsible for justice"
-    },
-    {
       "id": "Q16707842",
       "label": "Member of Parliament in the United Kingdom",
       "title": "Member of Parliament in the United Kingdom",
       "description": "voters' representative in the House of Commons of the United Kingdom",
       "qualifiers": {
         "P580": "1992-04-09",
-        "P1365": "John Farr"
+        "P1365": "John Farr",
+        "P768": "Harborough"
       }
     },
     {
@@ -11214,10 +11237,10 @@
       }
     },
     {
-      "id": "Q3477307",
-      "label": "Secretary of State for Justice",
-      "title": "Secretary of State for Justice",
-      "description": "United Kingdom government cabinet minister",
+      "id": "Q25906185",
+      "label": "Shadow Minister for Prisons",
+      "title": "Shadow Minister for Prisons",
+      "description": "UK shadow minister",
       "qualifiers": {
         "P580": "2007-07-02",
         "P582": "2009-09-08",
@@ -12130,7 +12153,9 @@
       "title": "Member of Parliament in the United Kingdom",
       "description": "voters' representative in the House of Commons of the United Kingdom",
       "qualifiers": {
-        "P580": "1997-05-01"
+        "P580": "1997-05-01",
+        "P768": "Runnymede and Weybridge",
+        "P2715": "United Kingdom general election, 1997"
       }
     },
     {
@@ -12720,6 +12745,11 @@
       "label": "Member of Parliament in the United Kingdom",
       "title": "Member of Parliament in the United Kingdom",
       "description": "voters' representative in the House of Commons of the United Kingdom"
+    },
+    {
+      "id": "Q16324556",
+      "label": "Shadow Chief Secretary to the Treasury",
+      "title": "Shadow Chief Secretary to the Treasury"
     }
   ],
   "Q263802": [
@@ -12738,6 +12768,7 @@
       "id": "Q3477319",
       "label": "Parliamentary Secretary",
       "title": "Parliamentary Secretary",
+      "description": "in Canada",
       "qualifiers": {
         "P108": "Cabinet Office",
         "P580": "2008-01-25",
@@ -12900,10 +12931,10 @@
   ],
   "Q304388": [
     {
-      "id": "Q5260487",
-      "label": "Department of Social Security",
-      "title": "Department of Social Security",
-      "description": "defunct governmental agency in the United Kingdom",
+      "id": "Q25906165",
+      "label": "Minister for Welfare Reform",
+      "title": "Minister for Welfare Reform",
+      "description": "UK ministerial role",
       "qualifiers": {
         "P580": "1997-05-02",
         "P582": "1998-10-24",
@@ -12915,7 +12946,11 @@
       "id": "Q16707842",
       "label": "Member of Parliament in the United Kingdom",
       "title": "Member of Parliament in the United Kingdom",
-      "description": "voters' representative in the House of Commons of the United Kingdom"
+      "description": "voters' representative in the House of Commons of the United Kingdom",
+      "qualifiers": {
+        "P580": "1979-05-03",
+        "P768": "Birkenhead"
+      }
     }
   ],
   "Q264023": [
@@ -15303,7 +15338,30 @@
       "id": "Q2747647",
       "label": "Secretary of State for Defence",
       "title": "Secretary of State for Defence",
+      "description": "United Kingdom government cabinet minister",
+      "qualifiers": {
+        "P580": "2008-10-03",
+        "P582": "2009-06-05",
+        "P1365": "Des Browne, Baron Browne of Ladyton",
+        "P1366": "Bob Ainsworth"
+      }
+    },
+    {
+      "id": "Q3858507",
+      "label": "Secretary of State for Business, Innovation and Skills",
+      "title": "Secretary of State for Business, Innovation and Skills",
       "description": "United Kingdom government cabinet minister"
+    },
+    {
+      "id": "Q6865995",
+      "label": "Minister for the Cabinet Office",
+      "title": "Minister for the Cabinet Office"
+    },
+    {
+      "id": "Q23304196",
+      "label": "Minister of State for Health",
+      "title": "Minister of State for Health",
+      "description": "UK minister"
     }
   ],
   "Q576175": [
@@ -17664,10 +17722,10 @@
   ],
   "Q1379995": [
     {
-      "id": "Q3044721",
-      "label": "Department for Environment, Food and Rural Affairs",
-      "title": "Department for Environment, Food and Rural Affairs",
-      "description": "United Kingdom government ministerial department",
+      "id": "Q25906153",
+      "label": "Minister of State for Sustainable Food, Farming and Animal Health",
+      "title": "Minister of State for Sustainable Food, Farming and Animal Health",
+      "description": "UK minister of state",
       "qualifiers": {
         "P580": "2006-05-06",
         "P582": "2008-10-03"
@@ -17700,6 +17758,23 @@
         "P1365": "Barbara Roche",
         "P1366": "Beverley Hughes"
       }
+    },
+    {
+      "id": "Q25906156",
+      "label": "Minister of State for Children in Northern Ireland",
+      "title": "Minister of State for Children in Northern Ireland",
+      "description": "UK minister of state"
+    },
+    {
+      "id": "Q601819",
+      "label": "Department for Communities and Local Government",
+      "title": "Department for Communities and Local Government",
+      "description": "United Kingdom government ministerial department"
+    },
+    {
+      "id": "Q6866360",
+      "label": "Minister of State for Immigration",
+      "title": "Minister of State for Immigration"
     }
   ],
   "Q689421": [
@@ -18129,12 +18204,6 @@
   ],
   "Q749759": [
     {
-      "id": "Q578269",
-      "label": "HM Treasury",
-      "title": "HM Treasury",
-      "description": "United Kingdom government department"
-    },
-    {
       "id": "Q16707842",
       "label": "Member of Parliament in the United Kingdom",
       "title": "Member of Parliament in the United Kingdom",
@@ -18142,8 +18211,7 @@
       "qualifiers": {
         "P580": "2010-05-06",
         "P1365": "John Heppell",
-        "P582": "2005-05-05",
-        "P1366": "Philip Davies"
+        "P768": "Nottingham East"
       }
     },
     {
@@ -18152,7 +18220,8 @@
       "title": "Shadow Chancellor of the Exchequer",
       "qualifiers": {
         "P580": "2015-05-11",
-        "P1365": "Ed Balls"
+        "P1365": "Ed Balls",
+        "P582": "2015-09-12"
       }
     },
     {
@@ -18165,6 +18234,24 @@
         "P1365": "Rachel Reeves",
         "P1366": "Shabana Mahmood"
       }
+    },
+    {
+      "id": "Q16707842",
+      "label": "Member of Parliament in the United Kingdom",
+      "title": "Member of Parliament in the United Kingdom",
+      "description": "voters' representative in the House of Commons of the United Kingdom",
+      "qualifiers": {
+        "P580": "1997-05-01",
+        "P582": "2005-05-05",
+        "P1365": "Marcus Fox",
+        "P1366": "Philip Davies",
+        "P768": "Shipley"
+      }
+    },
+    {
+      "id": "Q4838448",
+      "label": "Baby of the House",
+      "title": "Baby of the House"
     }
   ],
   "Q2894842": [
@@ -18715,13 +18802,14 @@
   ],
   "Q296639": [
     {
-      "id": "Q4898557",
-      "label": "Better Together",
-      "title": "Better Together",
-      "description": "organization campaigning for a No vote in the Scottish independence referendum, 2014",
+      "id": "Q140686",
+      "label": "chairperson",
+      "title": "chairperson (of Better Together)",
+      "description": "highest officer of an organized group",
       "qualifiers": {
         "P580": "2012-06-01",
-        "P582": "2014-09-19"
+        "P582": "2014-09-19",
+        "P642": "Better Together"
       }
     },
     {
@@ -20679,6 +20767,13 @@
       "description": "voters' representative in the House of Commons of the United Kingdom"
     }
   ],
+  "Q19979355": [
+    {
+      "id": "Q16324556",
+      "label": "Shadow Chief Secretary to the Treasury",
+      "title": "Shadow Chief Secretary to the Treasury"
+    }
+  ],
   "Q272644": [
     {
       "id": "Q3246797",
@@ -20951,12 +21046,6 @@
       }
     },
     {
-      "id": "Q303329",
-      "label": "Shadow Cabinet",
-      "title": "Shadow Cabinet",
-      "description": "senior group of opposition spokespeople"
-    },
-    {
       "id": "Q16707842",
       "label": "Member of Parliament in the United Kingdom",
       "title": "Member of Parliament in the United Kingdom",
@@ -20985,10 +21074,10 @@
       }
     },
     {
-      "id": "Q162754",
-      "label": "Chancellor of the Duchy of Lancaster",
-      "title": "Chancellor of the Duchy of Lancaster",
-      "description": "ministerial office in Her Majesty's Government",
+      "id": "Q25906187",
+      "label": "Shadow Chancellor of the Duchy of Lancaster",
+      "title": "Shadow Chancellor of the Duchy of Lancaster",
+      "description": "UK shadow minister",
       "qualifiers": {
         "P580": "1997-06-11",
         "P582": "1998-06-01",
@@ -21471,22 +21560,22 @@
   ],
   "Q264964": [
     {
-      "id": "Q2612019",
-      "label": "Department for Education",
-      "title": "Department for Education",
-      "description": "United Kingdom government ministerial department"
+      "id": "Q25906140",
+      "label": "Shadow Minister for Schools",
+      "title": "Shadow Minister for Schools",
+      "description": "UK shadow minister"
     },
     {
-      "id": "Q2612027",
-      "label": "Department for Business, Innovation and Skills",
-      "title": "Department for Business, Innovation and Skills",
-      "description": "United Kingdom government ministerial department"
+      "id": "Q25906143",
+      "label": "Shadow Minister for Further Education, Skills, Apprenticeships and Consumer Affairs",
+      "title": "Shadow Minister for Further Education, Skills, Apprenticeships and Consumer Affairs",
+      "description": "UK shadow minister"
     },
     {
-      "id": "Q5995",
-      "label": "Cabinet Office",
-      "title": "Cabinet Office",
-      "description": "United Kingdom government ministerial department"
+      "id": "Q25906145",
+      "label": "Parliamentary Secretary for Cabinet Office",
+      "title": "Parliamentary Secretary for Cabinet Office",
+      "description": "UK parliamentary secretary"
     },
     {
       "id": "Q16707842",
@@ -22840,12 +22929,6 @@
   ],
   "Q333039": [
     {
-      "id": "Q3858507",
-      "label": "Secretary of State for Business, Innovation and Skills",
-      "title": "Secretary of State for Business, Innovation and Skills",
-      "description": "United Kingdom government cabinet minister"
-    },
-    {
       "id": "Q1060844",
       "label": "Paymaster General",
       "title": "Paymaster General",
@@ -23319,9 +23402,10 @@
   ],
   "Q1101999": [
     {
-      "id": "Q14472169",
-      "label": "Parliamentary Labour Party",
-      "title": "Parliamentary Labour Party",
+      "id": "Q25906219",
+      "label": "Chair of the Parliamentary Labour Party",
+      "title": "Chair of the Parliamentary Labour Party",
+      "description": "UK party leader",
       "qualifiers": {
         "P580": "1997-05-01",
         "P582": "2001-07-11",
@@ -23848,7 +23932,8 @@
       "qualifiers": {
         "P580": "2010-05-11",
         "P1365": "Alan Johnson",
-        "P582": "2016-07-13"
+        "P582": "2016-07-13",
+        "P1366": "Amber Rudd"
       }
     },
     {
@@ -24864,9 +24949,10 @@
   ],
   "Q285249": [
     {
-      "id": "Q14472169",
-      "label": "Parliamentary Labour Party",
-      "title": "Parliamentary Labour Party",
+      "id": "Q25906219",
+      "label": "Chair of the Parliamentary Labour Party",
+      "title": "Chair of the Parliamentary Labour Party",
+      "description": "UK party leader",
       "qualifiers": {
         "P580": "2005-05-24",
         "P582": "2006-12-05",
