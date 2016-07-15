@@ -137,8 +137,18 @@
         "name": "Minister of Public Services and Procurement"
       },
       {
+        "id": "Q24190727",
+        "name": "Minister of Small Business and Tourism",
+        "description": "Canadian minister"
+      },
+      {
         "id": "Q6866327",
         "name": "Minister of State"
+      },
+      {
+        "id": "Q25525828",
+        "name": "Minister of State (Foreign Affairs and Consular)",
+        "description": "Canadian minister of state"
       },
       {
         "id": "Q24198460",
@@ -179,18 +189,6 @@
       {
         "id": "Q7444351",
         "name": "Secretary of State for Latin America and Africa"
-      },
-      {
-        "id": "Q24190727",
-        "name": "Minister of Small Business and Tourism",
-        "description": "Canadian minister",
-        "count": 3
-      },
-      {
-        "id": "Q25525828",
-        "name": "Minister of State (Foreign Affairs and Consular)",
-        "description": "Canadian minister of state",
-        "count": 1
       }
     ],
     "party": [
@@ -231,5 +229,55 @@
     ]
   },
   "unknown": {
+    "unknown": [
+      {
+        "id": "Q1018894",
+        "name": "Bâtonnier",
+        "description": null,
+        "count": 1
+      },
+      {
+        "id": "Q2937241",
+        "name": "Cape Breton—Canso",
+        "description": null,
+        "count": 1
+      },
+      {
+        "id": "Q3477319",
+        "name": "Parliamentary Secretary",
+        "description": null,
+        "count": 1
+      },
+      {
+        "id": "Q21682605",
+        "name": "board member of Society for Brain Mapping and Therapeutic",
+        "description": null,
+        "count": 1
+      },
+      {
+        "id": "Q5261098",
+        "name": "deputy leader",
+        "description": "second-in-command of a political party",
+        "count": 1
+      },
+      {
+        "id": "Q30185",
+        "name": "mayor",
+        "description": "head of municipal government such as a town or city",
+        "count": 1
+      },
+      {
+        "id": "Q83307",
+        "name": "minister",
+        "description": "politician who holds significant public office in a national or regional government",
+        "count": 1
+      },
+      {
+        "id": "Q1553195",
+        "name": "party leader",
+        "description": "leading official of a political party",
+        "count": 1
+      }
+    ]
   }
 }
