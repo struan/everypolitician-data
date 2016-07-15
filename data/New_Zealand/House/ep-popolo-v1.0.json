@@ -12247,7 +12247,14 @@
         }
       ],
       "email": "Marama.Davidson@parliament.govt.nz",
-      "id": "fc278646-c277-430d-ba47-69a9ae71bd76",
+      "gender": "female",
+      "id": "ed1ce5e7-6931-45bd-b38f-e138fb5fbac1",
+      "identifiers": [
+        {
+          "identifier": "Q20983272",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://www.parliament.nz/media/1280/davidson-marama3.C1fwxA.jpg",
       "images": [
         {
@@ -12255,6 +12262,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Marama_Davidson"
+        },
         {
           "note": "facebook",
           "url": "https://facebook.com/marama.davidson"
@@ -12265,6 +12276,13 @@
         }
       ],
       "name": "Marama Davidson",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Marama Davidson",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Davidson, Marama",
       "sources": [
         {
@@ -13010,6 +13028,7 @@
       ]
     },
     {
+      "birth_date": "1958",
       "contact_details": [
         {
           "type": "email",
@@ -13021,7 +13040,15 @@
         }
       ],
       "email": "maureen.pugh@parliament.govt.nz",
-      "id": "40184f5c-ab62-4332-afb6-7c31f617df8c",
+      "gender": "female",
+      "given_name": "Maureen",
+      "id": "801b541a-a9c1-479b-a4ee-c2e1a9152020",
+      "identifiers": [
+        {
+          "identifier": "Q17466674",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://www.parliament.nz/media/1974/pugh-maureen.C2oGbg.png",
       "images": [
         {
@@ -13029,6 +13056,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Maureen_Pugh"
+        },
         {
           "note": "facebook",
           "url": "https://facebook.com/wct.maureenpugh"
@@ -13039,6 +13070,23 @@
         }
       ],
       "name": "Maureen Pugh",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Maureen Pugh",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Maureen Pugh",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Maureen Pugh",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Pugh, Maureen",
       "sources": [
         {
@@ -25655,14 +25703,6 @@
       "role": "member"
     },
     {
-      "area_id": "area/list",
-      "legislative_period_id": "term/51",
-      "on_behalf_of_id": "party/national_party",
-      "organization_id": "legislature",
-      "person_id": "40184f5c-ab62-4332-afb6-7c31f617df8c",
-      "role": "member"
-    },
-    {
       "area_id": "area/new_plymouth",
       "legislative_period_id": "term/48",
       "on_behalf_of_id": "party/labour",
@@ -26638,6 +26678,14 @@
       "on_behalf_of_id": "party/labour_party",
       "organization_id": "legislature",
       "person_id": "7e0f9041-c537-4c55-9ce6-6d29d5534b38",
+      "role": "member"
+    },
+    {
+      "area_id": "area/list",
+      "legislative_period_id": "term/51",
+      "on_behalf_of_id": "party/national_party",
+      "organization_id": "legislature",
+      "person_id": "801b541a-a9c1-479b-a4ee-c2e1a9152020",
       "role": "member"
     },
     {
@@ -28679,6 +28727,14 @@
     {
       "area_id": "area/list",
       "legislative_period_id": "term/51",
+      "on_behalf_of_id": "party/green_party",
+      "organization_id": "legislature",
+      "person_id": "ed1ce5e7-6931-45bd-b38f-e138fb5fbac1",
+      "role": "member"
+    },
+    {
+      "area_id": "area/list",
+      "legislative_period_id": "term/51",
       "on_behalf_of_id": "party/national_party",
       "organization_id": "legislature",
       "person_id": "edc1f229-a9a2-403c-b9a8-cede74a00700",
@@ -28834,14 +28890,6 @@
       "on_behalf_of_id": "party/labour_party",
       "organization_id": "legislature",
       "person_id": "fc1eb965-9694-45fd-8cbe-21c1ce7189e9",
-      "role": "member"
-    },
-    {
-      "area_id": "area/list",
-      "legislative_period_id": "term/51",
-      "on_behalf_of_id": "party/green_party",
-      "organization_id": "legislature",
-      "person_id": "fc278646-c277-430d-ba47-69a9ae71bd76",
       "role": "member"
     },
     {
