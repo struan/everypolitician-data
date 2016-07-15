@@ -490,6 +490,11 @@
         "name": "Mayor of Burlington, Vermont"
       },
       {
+        "id": "Q25349730",
+        "name": "Mayor of Richmond",
+        "description": null
+      },
+      {
         "id": "Q1535739",
         "name": "Mayor of San Diego"
       },
@@ -510,8 +515,18 @@
         "name": "North Dakota Attorney General"
       },
       {
+        "id": "Q19768230",
+        "name": "North Dakota Tax Commissioner",
+        "description": "Head of the North Dakota Office of State Tax Commissioner"
+      },
+      {
         "id": "Q7080745",
         "name": "Ohio Attorney General"
+      },
+      {
+        "id": "Q7080891",
+        "name": "Ohio Secretary of State",
+        "description": "elected statewide official in the State of Ohio"
       },
       {
         "id": "Q7101331",
@@ -576,27 +591,59 @@
       {
         "id": "Q786242",
         "name": "White House Chief of Staff"
-      },
-      {
-        "id": "Q25349730",
-        "name": "Mayor of Richmond",
-        "description": null,
-        "count": 1
-      },
-      {
-        "id": "Q19768230",
-        "name": "North Dakota Tax Commissioner",
-        "description": "Head of the North Dakota Office of State Tax Commissioner",
-        "count": 1
-      },
-      {
-        "id": "Q7080891",
-        "name": "Ohio Secretary of State",
-        "description": "elected statewide official in the State of Ohio",
-        "count": 1
       }
     ]
   },
   "unknown": {
+    "unknown": [
+      {
+        "id": "Q7140693",
+        "name": "Partner",
+        "description": "rank in a business",
+        "count": 1
+      },
+      {
+        "id": "Q758225",
+        "name": "attorney at law",
+        "description": "professional title for lawyers in some jurisdictions",
+        "count": 2
+      },
+      {
+        "id": "Q188628",
+        "name": "board of directors",
+        "description": "body overseeing an organization",
+        "count": 6
+      },
+      {
+        "id": "Q140686",
+        "name": "chairperson",
+        "description": "highest officer of an organized group",
+        "count": 2
+      },
+      {
+        "id": "Q1607826",
+        "name": "editor",
+        "description": "person who edits texts or publications",
+        "count": 1
+      },
+      {
+        "id": "Q6500754",
+        "name": "internship",
+        "description": null,
+        "count": 2
+      },
+      {
+        "id": "Q5405633",
+        "name": "research assistant",
+        "description": "person performing research, generally at a university, often not holding any higher academic degree",
+        "count": 1
+      },
+      {
+        "id": "Q1622272",
+        "name": "university teacher",
+        "description": "professor, full, associate or assistant. person teaching at a university",
+        "count": 1
+      }
+    ]
   }
 }
