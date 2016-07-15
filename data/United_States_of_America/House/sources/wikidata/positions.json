@@ -3748,7 +3748,14 @@
       "id": "Q13218630",
       "label": "United States representative",
       "title": "United States representative",
-      "description": "elected representative in the US"
+      "description": "elected representative in the US",
+      "qualifiers": {
+        "P768": "Illinois's 8th congressional district",
+        "P580": "2011-01-03",
+        "P582": "2013-01-03",
+        "P1365": "Melissa Bean",
+        "P1366": "Tammy Duckworth"
+      }
     }
   ],
   "Q983537": [
@@ -6127,18 +6134,32 @@
       "id": "Q13217683",
       "label": "United States Senator",
       "title": "United States Senator",
-      "description": "member of the United States Senate"
+      "description": "member of the United States Senate",
+      "qualifiers": {
+        "P580": "2007-01-03"
+      }
     },
     {
       "id": "Q13218630",
       "label": "United States representative",
       "title": "United States representative",
-      "description": "elected representative in the US"
+      "description": "elected representative in the US",
+      "qualifiers": {
+        "P580": "1993-01-03",
+        "P582": "2007-01-03",
+        "P768": "Ohio's 13th congressional district"
+      }
     },
     {
       "id": "Q17502533",
       "label": "member of the Ohio House of Representatives",
       "title": "member of the Ohio House of Representatives"
+    },
+    {
+      "id": "Q7080891",
+      "label": "Ohio Secretary of State",
+      "title": "Ohio Secretary of State",
+      "description": "elected statewide official in the State of Ohio"
     }
   ],
   "Q1909268": [
@@ -9681,7 +9702,8 @@
       "title": "Governor of Indiana",
       "qualifiers": {
         "P580": "2013-01-14",
-        "P1365": "Mitch Daniels"
+        "P1365": "Mitch Daniels",
+        "P2715": "Indiana gubernatorial election, 2012"
       }
     },
     {

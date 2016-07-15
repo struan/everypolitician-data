@@ -490,6 +490,11 @@
         "name": "Mayor of Burlington, Vermont"
       },
       {
+        "id": "Q25349730",
+        "name": "Mayor of Richmond",
+        "description": null
+      },
+      {
         "id": "Q1535739",
         "name": "Mayor of San Diego"
       },
@@ -510,8 +515,18 @@
         "name": "North Dakota Attorney General"
       },
       {
+        "id": "Q19768230",
+        "name": "North Dakota Tax Commissioner",
+        "description": "Head of the North Dakota Office of State Tax Commissioner"
+      },
+      {
         "id": "Q7080745",
         "name": "Ohio Attorney General"
+      },
+      {
+        "id": "Q7080891",
+        "name": "Ohio Secretary of State",
+        "description": "elected statewide official in the State of Ohio"
       },
       {
         "id": "Q7101331",
@@ -581,24 +596,6 @@
   },
   "unknown": {
     "unknown": [
-      {
-        "id": "Q25349730",
-        "name": "Mayor of Richmond",
-        "description": null,
-        "count": 1
-      },
-      {
-        "id": "Q19768230",
-        "name": "North Dakota Tax Commissioner",
-        "description": "Head of the North Dakota Office of State Tax Commissioner",
-        "count": 1
-      },
-      {
-        "id": "Q7080891",
-        "name": "Ohio Secretary of State",
-        "description": "elected statewide official in the State of Ohio",
-        "count": 1
-      },
       {
         "id": "Q7140693",
         "name": "Partner",
