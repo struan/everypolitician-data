@@ -5314,14 +5314,30 @@
     {
       "gender": "female",
       "id": "c5076a6e-b8be-49e3-85c6-a6e250eebbba",
+      "identifiers": [
+        {
+          "identifier": "Q24840132",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90115.jpg",
       "images": [
         {
           "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90115.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/李麗芬_(社運人士)"
+        }
+      ],
       "name": "Li-Feng Lee",
       "other_names": [
+        {
+          "name": "李麗芬",
+          "note": "alternate"
+        },
         {
           "lang": "zh",
           "name": "李麗芬",
@@ -9468,16 +9484,33 @@
       ]
     },
     {
+      "birth_date": "1962-02-10",
       "gender": "male",
       "id": "18771ae5-d236-417a-9ad5-81bb4237b800",
+      "identifiers": [
+        {
+          "identifier": "Q8350171",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90114.jpg",
       "images": [
         {
           "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90114.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/施義芳"
+        }
+      ],
       "name": "Yi-Fang Shih",
       "other_names": [
+        {
+          "name": "施義芳",
+          "note": "alternate"
+        },
         {
           "lang": "zh",
           "name": "施義芳",
