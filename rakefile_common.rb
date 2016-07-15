@@ -59,21 +59,30 @@ def json_write(file, json)
   File.write(file, JSON.pretty_generate(json))
 end
 
+module Enumerable
+  # Workaround for native sort_by producing inconsistent results between OS X
+  # and Linux.
+  # @see https://bugs.ruby-lang.org/issues/11379
+  def portable_sort_by(&block)
+    group_by(&block).sort_by { |group_name, _| group_name }.flat_map { |_, group| group }
+  end
+end
+
 def popolo_write(file, json)
   # TODO remove the need for the .to_s here, by ensuring all People and Orgs have names
-  json[:persons].sort_by!       { |p| [ p[:name].to_s, p[:id] ] }
+  json[:persons] = json[:persons].portable_sort_by { |p| [ p[:name].to_s, p[:id] ] }
   json[:persons].each do |p|
-    p[:identifiers].sort_by!     { |i| [ i[:scheme], i[:identifier] ] } if p.key?(:identifiers)
-    p[:contact_details].sort_by! { |d| [ d[:type] ] }                   if p.key?(:contact_details)
-    p[:links].sort_by!           { |l| [ l[:note] ] }                   if p.key?(:links)
-    p[:other_names].sort_by!     { |n| [ n[:lang].to_s, n[:name] ] }    if p.key?(:other_names)
+    p[:identifiers]     &&= p[:identifiers].portable_sort_by { |i| [ i[:scheme], i[:identifier] ] }
+    p[:contact_details] &&= p[:contact_details].portable_sort_by { |d| [ d[:type] ] }
+    p[:links]           &&= p[:links].portable_sort_by { |l| l[:note] }
+    p[:other_names]     &&= p[:other_names].portable_sort_by { |n| [ n[:lang].to_s, n[:name] ] }
   end
-  json[:organizations].sort_by! { |o| [ o[:name].to_s, o[:id] ] }
-  json[:memberships].sort_by!   { |m| [ 
-    m[:person_id], m[:organization_id], m[:legislative_period_id], m[:start_date].to_s, m[:on_behalf_of_id].to_s, m[:area_id].to_s 
+  json[:organizations] = json[:organizations].portable_sort_by { |o| [ o[:name].to_s, o[:id] ] }
+  json[:memberships]   = json[:memberships].portable_sort_by { |m| [
+    m[:person_id], m[:organization_id], m[:legislative_period_id], m[:start_date].to_s, m[:on_behalf_of_id].to_s, m[:area_id].to_s
   ] }
-  json[:events].sort_by!        { |e| [ e[:start_date].to_s || '', e[:id].to_s ] } if json.key? :events
-  json[:areas].sort_by!         { |a| [ a[:id] ] } if json.key? :areas
+  json[:events] &&= json[:events].portable_sort_by { |e| [ e[:start_date].to_s || '', e[:id].to_s ] }
+  json[:areas]  &&= json[:areas].portable_sort_by  { |a| [ a[:id] ] }
   final = Hash[deep_sort(json).sort_by { |k, _| k }.reverse]
   File.write(file, JSON.pretty_generate(final))
 end
