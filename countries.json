@@ -6510,19 +6510,28 @@
         "slug": "Parliament",
         "sources_directory": "data/Nauru/Parliament/sources",
         "popolo": "data/Nauru/Parliament/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3577226/data/Nauru/Parliament/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3f4e8f0/data/Nauru/Parliament/ep-popolo-v1.0.json",
         "names": "data/Nauru/Parliament/names.csv",
-        "lastmod": "1467938108",
-        "person_count": 26,
-        "sha": "3577226",
+        "lastmod": "1468671852",
+        "person_count": 33,
+        "sha": "3f4e8f0",
         "legislative_periods": [
           {
+            "id": "term/22",
+            "name": "22nd Parliament",
+            "start_date": "2016-07-11",
+            "slug": "22",
+            "csv": "data/Nauru/Parliament/term-22.csv",
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3f4e8f0/data/Nauru/Parliament/term-22.csv"
+          },
+          {
+            "end_date": "2016-05-14",
             "id": "term/21",
             "name": "21st Parliament",
             "start_date": "2013-06-11",
             "slug": "21",
             "csv": "data/Nauru/Parliament/term-21.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3577226/data/Nauru/Parliament/term-21.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3f4e8f0/data/Nauru/Parliament/term-21.csv"
           },
           {
             "end_date": "2013-05-23",
@@ -6531,7 +6540,7 @@
             "start_date": "2010-06-22",
             "slug": "20",
             "csv": "data/Nauru/Parliament/term-20.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3577226/data/Nauru/Parliament/term-20.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3f4e8f0/data/Nauru/Parliament/term-20.csv"
           },
           {
             "end_date": "2010-05-23",
@@ -6540,10 +6549,10 @@
             "start_date": "2000-06-19",
             "slug": "19",
             "csv": "data/Nauru/Parliament/term-19.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3577226/data/Nauru/Parliament/term-19.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3f4e8f0/data/Nauru/Parliament/term-19.csv"
           }
         ],
-        "statement_count": 2361
+        "statement_count": 2507
       }
     ]
   },
