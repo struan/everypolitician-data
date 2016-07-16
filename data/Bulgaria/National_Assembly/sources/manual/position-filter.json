@@ -30,14 +30,13 @@
         "name": "President of Bulgaria"
       },
       {
-        "id": "Q4404583",
-        "name": "Prime Minister of Bulgaria"
-      },
-      {
         "id": "Q14946265",
         "name": "President of Bulgaria",
-        "description": null,
-        "count": 2
+        "description": null
+      },
+      {
+        "id": "Q4404583",
+        "name": "Prime Minister of Bulgaria"
       }
     ],
     "party": [
@@ -48,5 +47,13 @@
     ]
   },
   "unknown": {
+    "unknown": [
+      {
+        "id": "Q30185",
+        "name": "mayor",
+        "description": "head of municipal government such as a town or city",
+        "count": 4
+      }
+    ]
   }
 }
