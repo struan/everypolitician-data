@@ -238,16 +238,27 @@
       "description": "Portuguese minister"
     },
     {
-      "id": "Q2518691",
-      "label": "defence minister",
-      "title": "defence minister",
-      "description": "minister in charge of defence affairs"
+      "id": "Q25906445",
+      "label": "Minister of National Defence",
+      "title": "Minister of National Defence",
+      "description": "Minister in Portugal",
+      "qualifiers": {
+        "P580": "1981-09-04",
+        "P582": "1983-06-09",
+        "P1365": "Luís de Azevedo Coutinho",
+        "P1366": "Rui Machete"
+      }
     },
     {
       "id": "Q19953703",
       "label": "Member of the Assembly of the Republic",
       "title": "Member of the Assembly of the Republic",
       "description": "member of the Portuguese parliament"
+    },
+    {
+      "id": "Q1723031",
+      "label": "Prime Minister of Portugal",
+      "title": "Prime Minister of Portugal"
     }
   ],
   "Q2831797": [
@@ -639,6 +650,14 @@
       "label": "Member of the Assembly of the Republic",
       "title": "Member of the Assembly of the Republic",
       "description": "member of the Portuguese parliament"
+    }
+  ],
+  "Q10365280": [
+    {
+      "id": "Q25906445",
+      "label": "Minister of National Defence",
+      "title": "Minister of National Defence",
+      "description": "Minister in Portugal"
     }
   ],
   "Q737410": [
