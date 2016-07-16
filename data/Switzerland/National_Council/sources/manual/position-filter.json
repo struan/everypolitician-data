@@ -35,8 +35,7 @@
       {
         "id": "Q25550811",
         "name": "Vice president of Switzerland",
-        "description": null,
-        "count": 4
+        "description": null
       }
     ],
     "party": [
@@ -78,5 +77,37 @@
     ]
   },
   "unknown": {
+    "unknown": [
+      {
+        "id": "Q147733",
+        "name": "City president",
+        "description": "Highest-ranking officer in the municipal government of a town or a large urban city",
+        "count": 1
+      },
+      {
+        "id": "Q24700014",
+        "name": "Commune president",
+        "description": null,
+        "count": 1
+      },
+      {
+        "id": "Q121998",
+        "name": "ambassador",
+        "description": "diplomatic envoy",
+        "count": 1
+      },
+      {
+        "id": "Q484876",
+        "name": "chief executive officer",
+        "description": "highest-ranking corporate officer or administrator",
+        "count": 1
+      },
+      {
+        "id": "Q1055894",
+        "name": "deputy",
+        "description": "name for legislator in many countries",
+        "count": 1
+      }
+    ]
   }
 }
