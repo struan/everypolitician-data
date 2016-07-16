@@ -1677,10 +1677,10 @@
   ],
   "Q260562": [
     {
-      "id": "Q3044733",
-      "label": "Department of Energy and Climate Change",
-      "title": "Department of Energy and Climate Change",
-      "description": "United Kingdom government ministerial department",
+      "id": "Q25906279",
+      "label": "Minister of State for Climate Change",
+      "title": "Minister of State for Climate Change",
+      "description": "UK minister of state",
       "qualifiers": {
         "P580": "2010-05-12",
         "P582": "2014-07-14",
@@ -1696,7 +1696,8 @@
         "P580": "2001-06-07",
         "P582": "2015-03-30",
         "P1365": "Charles Wardle",
-        "P1366": "Huw Merriman"
+        "P1366": "Huw Merriman",
+        "P768": "Bexhill and Battle"
       }
     }
   ],
@@ -5162,9 +5163,10 @@
   ],
   "Q263882": [
     {
-      "id": "Q14472169",
-      "label": "Parliamentary Labour Party",
-      "title": "Parliamentary Labour Party",
+      "id": "Q25906219",
+      "label": "Chair of the Parliamentary Labour Party",
+      "title": "Chair of the Parliamentary Labour Party",
+      "description": "UK party leader",
       "qualifiers": {
         "P580": "2012-03-15",
         "P582": "2015-02-09",
@@ -5181,7 +5183,8 @@
         "P580": "1997-05-01",
         "P582": "2015-03-30",
         "P1365": "John Evans, Baron Evans of Parkside",
-        "P1366": "Conor McGinn"
+        "P1366": "Conor McGinn",
+        "P768": "St Helens North"
       }
     }
   ],
@@ -10373,10 +10376,10 @@
   ],
   "Q478319": [
     {
-      "id": "Q3044721",
-      "label": "Department for Environment, Food and Rural Affairs",
-      "title": "Department for Environment, Food and Rural Affairs",
-      "description": "United Kingdom government ministerial department",
+      "id": "Q25906264",
+      "label": "Shadow Minister for the Environment",
+      "title": "Shadow Minister for the Environment",
+      "description": "UK shadow minister",
       "qualifiers": {
         "P580": "2012-05-15",
         "P582": "2015-05-08",
@@ -10389,10 +10392,30 @@
       "title": "Member of Parliament in the United Kingdom",
       "description": "voters' representative in the House of Commons of the United Kingdom",
       "qualifiers": {
-        "P580": "2001-06-07",
+        "P580": "2005",
         "P582": "2015-03-30",
+        "P1365": "",
+        "P1366": "Stewart McDonald",
+        "P768": "Glasgow South"
+      }
+    },
+    {
+      "id": "Q25358150",
+      "label": "Parliamentary Under-Secretary of State for Transport",
+      "title": "Parliamentary Under-Secretary of State for Transport",
+      "description": "junior transport minister in the UK"
+    },
+    {
+      "id": "Q16707842",
+      "label": "Member of Parliament in the United Kingdom",
+      "title": "Member of Parliament in the United Kingdom",
+      "description": "voters' representative in the House of Commons of the United Kingdom",
+      "qualifiers": {
+        "P580": "2001-06-07",
+        "P582": "2005",
         "P1365": "John Maxton",
-        "P1366": "Stewart McDonald"
+        "P1366": "",
+        "P768": "Glasgow Cathcart"
       }
     }
   ],
@@ -12105,21 +12128,28 @@
   ],
   "Q478248": [
     {
-      "id": "Q763388",
-      "label": "Home Office",
-      "title": "Home Office",
-      "description": "United Kingdom government ministerial department"
+      "id": "Q25906287",
+      "label": "Shadow Minister of State, Home Office",
+      "title": "Shadow Minister of State, Home Office",
+      "description": "UK shadow minister"
     },
     {
       "id": "Q6865949",
       "label": "Minister for Security",
-      "title": "Minister for Security"
+      "title": "Minister for Security",
+      "qualifiers": {
+        "P580": "2009-06-08",
+        "P582": "2010-05-11"
+      }
     },
     {
       "id": "Q16707842",
       "label": "Member of Parliament in the United Kingdom",
       "title": "Member of Parliament in the United Kingdom",
-      "description": "voters' representative in the House of Commons of the United Kingdom"
+      "description": "voters' representative in the House of Commons of the United Kingdom",
+      "qualifiers": {
+        "P768": "Delyn"
+      }
     },
     {
       "id": "Q23641754",
@@ -12131,6 +12161,18 @@
         "P582": "2007-05-08",
         "P1365": "John Spellar",
         "P1366": "Paul Goggins"
+      }
+    },
+    {
+      "id": "Q25906291",
+      "label": "Minister of State for Justice",
+      "title": "Minister of State for Justice",
+      "description": "UK minister of state",
+      "qualifiers": {
+        "P580": "2007-05-09",
+        "P582": "2009-06-09",
+        "P1365": "",
+        "P1366": "Maria Eagle"
       }
     }
   ],
@@ -13334,6 +13376,12 @@
         "P582": "2005-05-05",
         "P1366": "James Brokenshire"
       }
+    },
+    {
+      "id": "Q25906219",
+      "label": "Chair of the Parliamentary Labour Party",
+      "title": "Chair of the Parliamentary Labour Party",
+      "description": "UK party leader"
     }
   ],
   "Q695197": [
@@ -14934,6 +14982,12 @@
         "P1365": "Andrew Stunell",
         "P1366": "Alistair Carmichael"
       }
+    },
+    {
+      "id": "Q25906282",
+      "label": "Minister of State for Care Services",
+      "title": "Minister of State for Care Services",
+      "description": "UK minister of state"
     }
   ],
   "Q296866": [
@@ -21712,6 +21766,18 @@
         "P580": "2001-06-07",
         "P1365": "David Prior"
       }
+    },
+    {
+      "id": "Q25906282",
+      "label": "Minister of State for Care Services",
+      "title": "Minister of State for Care Services",
+      "description": "UK minister of state"
+    },
+    {
+      "id": "Q25906282",
+      "label": "Minister of State for Care Services",
+      "title": "Minister of State for Care Services",
+      "description": "UK minister of state"
     }
   ],
   "Q5022974": [
@@ -22036,6 +22102,12 @@
         "P1365": "William Powell",
         "P1366": "Louise Mensch"
       }
+    },
+    {
+      "id": "Q25906282",
+      "label": "Minister of State for Care Services",
+      "title": "Minister of State for Care Services",
+      "description": "UK minister of state"
     }
   ],
   "Q332374": [
@@ -22807,10 +22879,10 @@
   ],
   "Q7533492": [
     {
-      "id": "Q910019",
-      "label": "Department for Culture, Media and Sport",
-      "title": "Department for Culture, Media and Sport",
-      "description": "United Kingdom government ministerial department",
+      "id": "Q25906269",
+      "label": "Parliamentary Under-Secretary for Creative Industries",
+      "title": "Parliamentary Under-Secretary for Creative Industries",
+      "description": "UK parliamentary under-secretary",
       "qualifiers": {
         "P580": "2009-06-09",
         "P582": "2010-05-11",
@@ -22819,10 +22891,10 @@
       }
     },
     {
-      "id": "Q5260119",
-      "label": "Department for Innovation, Universities and Skills",
-      "title": "Department for Innovation, Universities and Skills",
-      "description": "department of the United Kingdom Governmentedit",
+      "id": "Q25906270",
+      "label": "Parliamentary Under-Secretary for Further Education",
+      "title": "Parliamentary Under-Secretary for Further Education",
+      "description": "UK parliamentary under-secretary",
       "qualifiers": {
         "P580": "2008-10-05",
         "P582": "2009-06-09",
@@ -22839,7 +22911,8 @@
         "P580": "2001-06-08",
         "P582": "2010-04-12",
         "P1365": "Robin Corbett, Baron Corbett of Castle Vale",
-        "P1366": "Jack Dromey"
+        "P1366": "Jack Dromey",
+        "P768": "Birmingham Erdington"
       }
     },
     {
@@ -22849,7 +22922,8 @@
       "description": "person who has been elected to the European Parliament",
       "qualifiers": {
         "P580": "2014-07-01",
-        "P1365": "Michael Cashman"
+        "P1365": "Michael Cashman",
+        "P768": "West Midlands"
       }
     }
   ],
