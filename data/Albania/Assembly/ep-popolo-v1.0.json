@@ -1344,6 +1344,9 @@
       "images": [
         {
           "url": "https://www.parlament.al/wp-content/uploads/2015/12/Arta-Dade-PS.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Arta_Dade_(Albania)_-_July_2016_(cropped).jpg"
         }
       ],
       "links": [
@@ -6705,9 +6708,30 @@
         {
           "identifier": "ilir_gjoni",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q13040130",
+          "scheme": "wikidata"
         }
       ],
-      "name": "Ilir Gjoni"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ilir_Gjoni"
+        },
+        {
+          "note": "Wikipedia (sq)",
+          "url": "https://sq.wikipedia.org/wiki/Ilir_Gjoni"
+        }
+      ],
+      "name": "Ilir Gjoni",
+      "other_names": [
+        {
+          "lang": "sq",
+          "name": "Ilir Gjoni",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1969-03-24",
