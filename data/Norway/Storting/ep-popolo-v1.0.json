@@ -10679,6 +10679,9 @@
       "images": [
         {
           "url": "http://data.stortinget.no/eksport/personbilde?personid=BEM&storrelse=middels"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Bente_Stein_Mathisen.JPG"
         }
       ],
       "links": [
@@ -32393,6 +32396,10 @@
           "scheme": "lcauth"
         },
         {
+          "identifier": "1427",
+          "scheme": "pace"
+        },
+        {
           "identifier": "05675308X",
           "scheme": "sudoc"
         },
@@ -39144,6 +39151,11 @@
         },
         {
           "lang": "nl",
+          "name": "Håkon Johnsen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
           "name": "Håkon Johnsen",
           "note": "multilingual"
         }
@@ -69803,6 +69815,10 @@
         {
           "note": "Wikipedia (no)",
           "url": "https://no.wikipedia.org/wiki/Marit_Nybakk"
+        },
+        {
+          "note": "Wikipedia (simple)",
+          "url": "https://simple.wikipedia.org/wiki/Marit_Nybakk"
         },
         {
           "note": "Wikipedia (sv)",
