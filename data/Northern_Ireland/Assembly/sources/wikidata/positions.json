@@ -1549,7 +1549,21 @@
       "id": "Q22979248",
       "label": "Minister for Employment and Learning",
       "title": "Minister for Employment and Learning",
-      "description": "Minister of the Northern Ireland Executive"
+      "description": "Minister of the Northern Ireland Executive",
+      "qualifiers": {
+        "P580": "1999-12-02"
+      }
+    },
+    {
+      "id": "Q22979248",
+      "label": "Minister for Employment and Learning",
+      "title": "Minister for Employment and Learning",
+      "description": "Minister of the Northern Ireland Executive",
+      "qualifiers": {
+        "P580": "2000-05-30",
+        "P582": "2001-12-14",
+        "P1366": "Carmel Hanna"
+      }
     }
   ],
   "Q6096121": [
@@ -2885,7 +2899,12 @@
       "id": "Q3272410",
       "label": "Member of the Legislative Assembly of Northern Ireland",
       "title": "Member of the Legislative Assembly of Northern Ireland",
-      "description": "representative elected by the voters to the Northern Ireland Assembly in Northern Ireland"
+      "description": "representative elected by the voters to the Northern Ireland Assembly in Northern Ireland",
+      "qualifiers": {
+        "P580": "1998",
+        "P768": "Belfast South",
+        "P582": "2010-01-18"
+      }
     },
     {
       "id": "Q22979248",
@@ -2893,8 +2912,8 @@
       "title": "Minister for Employment and Learning",
       "description": "Minister of the Northern Ireland Executive",
       "qualifiers": {
-        "P580": "2001",
-        "P582": "2002",
+        "P580": "2001-12-14",
+        "P582": "2002-10-14",
         "P1365": "Sean Farren",
         "P1366": ""
       }
@@ -3315,7 +3334,8 @@
       "qualifiers": {
         "P580": "2010-10-27",
         "P582": "2011-05-05",
-        "P1365": "Reg Empey"
+        "P1365": "Reg Empey",
+        "P1366": "Stephen Farry"
       }
     },
     {
