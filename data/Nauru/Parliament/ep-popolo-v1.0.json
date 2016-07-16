@@ -59,6 +59,10 @@
       ]
     },
     {
+      "id": "6dfb93ca-7a75-4347-b20c-a1a75a252062",
+      "name": "Asterio Appi"
+    },
+    {
       "birth_date": "1959-12-31",
       "contact_details": [
         {
@@ -957,6 +961,14 @@
       ]
     },
     {
+      "id": "0139cecd-3589-4951-82bc-b4889cd67a33",
+      "name": "Jaden Dogireiy"
+    },
+    {
+      "id": "4b163bf1-03b8-4d1d-b2bb-23d021ba909a",
+      "name": "Jason Bingham Agir"
+    },
+    {
       "birth_date": "1971-06-27",
       "gender": "male",
       "id": "692cc1e8-af7d-4b14-8d54-aeda57338c7d",
@@ -1138,6 +1150,10 @@
           "note": "multilingual"
         }
       ]
+    },
+    {
+      "id": "1f93cd4b-93c0-484b-a784-1efd1c961589",
+      "name": "Lionel Aingimea"
     },
     {
       "birth_date": "1948-06-20",
@@ -2313,6 +2329,10 @@
       ]
     },
     {
+      "id": "df307805-4df4-4d53-a0d8-6a958528b50d",
+      "name": "Sean Oppenheimer"
+    },
+    {
       "birth_date": "1966-07-08",
       "gender": "male",
       "id": "50886da6-8654-4790-89d5-528ed7d8c876",
@@ -2655,6 +2675,10 @@
       ]
     },
     {
+      "id": "04665ced-cf33-43e2-b08b-d781798b8ab6",
+      "name": "Tawaki Kam"
+    },
+    {
       "birth_date": "1968-08-31",
       "gender": "male",
       "id": "17405a38-3a25-4c51-ad86-3794742f9540",
@@ -2733,6 +2757,10 @@
           "note": "multilingual"
         }
       ]
+    },
+    {
+      "id": "ba262a16-ed37-49d2-a550-4cc1c9092972",
+      "name": "Vodrick Detsiogo"
     }
   ],
   "organizations": [
@@ -3456,21 +3484,51 @@
       "classification": "party",
       "id": "party/unknown",
       "name": "Unknown"
+    },
+    {
+      "classification": "party",
+      "id": "party/unknown",
+      "name": "unknown"
     }
   ],
   "meta": {
     "sources": [
       "https://en.wikipedia.org/wiki/Parliament_of_Nauru",
+      "http://www.naurugov.nr/government-information-office/",
       "http://wikidata.org/"
     ]
   },
   "memberships": [
+    {
+      "area_id": "area/anabar/ijuw/anibare",
+      "legislative_period_id": "term/22",
+      "on_behalf_of_id": "party/unknown",
+      "organization_id": "legislature",
+      "person_id": "0139cecd-3589-4951-82bc-b4889cd67a33",
+      "role": "member"
+    },
     {
       "area_id": "area/ubenide",
       "legislative_period_id": "term/21",
       "on_behalf_of_id": "party/non-partisan",
       "organization_id": "legislature",
       "person_id": "02d3781d-f785-4f2e-b1e6-c56b396a7093",
+      "role": "member"
+    },
+    {
+      "area_id": "area/ubenide",
+      "legislative_period_id": "term/22",
+      "on_behalf_of_id": "party/unknown",
+      "organization_id": "legislature",
+      "person_id": "02d3781d-f785-4f2e-b1e6-c56b396a7093",
+      "role": "member"
+    },
+    {
+      "area_id": "area/menen",
+      "legislative_period_id": "term/22",
+      "on_behalf_of_id": "party/unknown",
+      "organization_id": "legislature",
+      "person_id": "04665ced-cf33-43e2-b08b-d781798b8ab6",
       "role": "member"
     },
     {
@@ -3543,6 +3601,22 @@
       "on_behalf_of_id": "party/non-partisan",
       "organization_id": "legislature",
       "person_id": "17405a38-3a25-4c51-ad86-3794742f9540",
+      "role": "member"
+    },
+    {
+      "area_id": "area/ubenide",
+      "legislative_period_id": "term/22",
+      "on_behalf_of_id": "party/unknown",
+      "organization_id": "legislature",
+      "person_id": "17405a38-3a25-4c51-ad86-3794742f9540",
+      "role": "member"
+    },
+    {
+      "area_id": "area/menen",
+      "legislative_period_id": "term/22",
+      "on_behalf_of_id": "party/unknown",
+      "organization_id": "legislature",
+      "person_id": "1f93cd4b-93c0-484b-a784-1efd1c961589",
       "role": "member"
     },
     {
@@ -3571,6 +3645,14 @@
     },
     {
       "area_id": "area/aiwo",
+      "legislative_period_id": "term/22",
+      "on_behalf_of_id": "party/unknown",
+      "organization_id": "legislature",
+      "person_id": "361a24bf-3a5c-4aad-80cc-d9efff197461",
+      "role": "member"
+    },
+    {
+      "area_id": "area/aiwo",
       "legislative_period_id": "term/20",
       "on_behalf_of_id": "party/non-partisan",
       "organization_id": "legislature",
@@ -3586,6 +3668,22 @@
       "role": "member"
     },
     {
+      "area_id": "area/aiwo",
+      "legislative_period_id": "term/22",
+      "on_behalf_of_id": "party/unknown",
+      "organization_id": "legislature",
+      "person_id": "39ac2f15-513d-4c90-ac24-3a8108bea3e4",
+      "role": "member"
+    },
+    {
+      "area_id": "area/buada",
+      "legislative_period_id": "term/22",
+      "on_behalf_of_id": "party/unknown",
+      "organization_id": "legislature",
+      "person_id": "4b163bf1-03b8-4d1d-b2bb-23d021ba909a",
+      "role": "member"
+    },
+    {
       "area_id": "area/ubenide",
       "legislative_period_id": "term/19",
       "on_behalf_of_id": "party/unknown",
@@ -3610,6 +3708,14 @@
       "role": "member"
     },
     {
+      "area_id": "area/ubenide",
+      "legislative_period_id": "term/22",
+      "on_behalf_of_id": "party/unknown",
+      "organization_id": "legislature",
+      "person_id": "50732d43-5318-409a-a5ca-29670f1bb846",
+      "role": "member"
+    },
+    {
       "area_id": "area/buada",
       "legislative_period_id": "term/19",
       "on_behalf_of_id": "party/unknown",
@@ -3629,6 +3735,14 @@
       "area_id": "area/buada",
       "legislative_period_id": "term/21",
       "on_behalf_of_id": "party/non-partisan",
+      "organization_id": "legislature",
+      "person_id": "50886da6-8654-4790-89d5-528ed7d8c876",
+      "role": "member"
+    },
+    {
+      "area_id": "area/buada",
+      "legislative_period_id": "term/22",
+      "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
       "person_id": "50886da6-8654-4790-89d5-528ed7d8c876",
       "role": "member"
@@ -3658,6 +3772,14 @@
       "role": "member"
     },
     {
+      "area_id": "area/yaren",
+      "legislative_period_id": "term/22",
+      "on_behalf_of_id": "party/unknown",
+      "organization_id": "legislature",
+      "person_id": "692cc1e8-af7d-4b14-8d54-aeda57338c7d",
+      "role": "member"
+    },
+    {
       "area_id": "area/boe",
       "legislative_period_id": "term/19",
       "on_behalf_of_id": "party/unknown",
@@ -3679,6 +3801,14 @@
       "on_behalf_of_id": "party/non-partisan",
       "organization_id": "legislature",
       "person_id": "6b84796d-bbd7-4b09-bd94-cfda16785bd1",
+      "role": "member"
+    },
+    {
+      "area_id": "area/boe",
+      "legislative_period_id": "term/22",
+      "on_behalf_of_id": "party/unknown",
+      "organization_id": "legislature",
+      "person_id": "6dfb93ca-7a75-4347-b20c-a1a75a252062",
       "role": "member"
     },
     {
@@ -3746,6 +3876,14 @@
       "role": "member"
     },
     {
+      "area_id": "area/boe",
+      "legislative_period_id": "term/22",
+      "on_behalf_of_id": "party/unknown",
+      "organization_id": "legislature",
+      "person_id": "802e8e7a-ee52-44ef-840a-0e83f06c7d12",
+      "role": "member"
+    },
+    {
       "area_id": "area/anabar",
       "legislative_period_id": "term/19",
       "on_behalf_of_id": "party/unknown",
@@ -3765,6 +3903,14 @@
       "area_id": "area/anabar",
       "legislative_period_id": "term/21",
       "on_behalf_of_id": "party/naoero_amo",
+      "organization_id": "legislature",
+      "person_id": "80626a5a-33a8-47e7-88ca-0fcd5f2e26fe",
+      "role": "member"
+    },
+    {
+      "area_id": "area/anabar/ijuw/anibare",
+      "legislative_period_id": "term/22",
+      "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
       "person_id": "80626a5a-33a8-47e7-88ca-0fcd5f2e26fe",
       "role": "member"
@@ -3794,6 +3940,14 @@
       "role": "member"
     },
     {
+      "area_id": "area/anetan/ewa",
+      "legislative_period_id": "term/22",
+      "on_behalf_of_id": "party/unknown",
+      "organization_id": "legislature",
+      "person_id": "92077ffa-2ff9-4d36-ac28-cf39a74f1c76",
+      "role": "member"
+    },
+    {
       "area_id": "area/yaren",
       "legislative_period_id": "term/21",
       "on_behalf_of_id": "party/non-partisan",
@@ -3802,6 +3956,22 @@
       "role": "member"
     },
     {
+      "area_id": "area/yaren",
+      "legislative_period_id": "term/22",
+      "on_behalf_of_id": "party/unknown",
+      "organization_id": "legislature",
+      "person_id": "aa16b078-a0f9-49ec-8239-c4c076f70d8b",
+      "role": "member"
+    },
+    {
+      "area_id": "area/menen",
+      "legislative_period_id": "term/22",
+      "on_behalf_of_id": "party/unknown",
+      "organization_id": "legislature",
+      "person_id": "ba262a16-ed37-49d2-a550-4cc1c9092972",
+      "role": "member"
+    },
+    {
       "area_id": "area/anabar",
       "legislative_period_id": "term/19",
       "on_behalf_of_id": "party/unknown",
@@ -3839,6 +4009,14 @@
       "on_behalf_of_id": "party/non-partisan",
       "organization_id": "legislature",
       "person_id": "dd4c4957-518b-4346-a99c-b3deb1e2fa82",
+      "role": "member"
+    },
+    {
+      "area_id": "area/anetan/ewa",
+      "legislative_period_id": "term/22",
+      "on_behalf_of_id": "party/unknown",
+      "organization_id": "legislature",
+      "person_id": "df307805-4df4-4d53-a0d8-6a958528b50d",
       "role": "member"
     },
     {
@@ -3877,6 +4055,14 @@
       "area_id": "area/ubenide",
       "legislative_period_id": "term/21",
       "on_behalf_of_id": "party/non-partisan",
+      "organization_id": "legislature",
+      "person_id": "f11e4e54-2761-421b-8d70-74e323885619",
+      "role": "member"
+    },
+    {
+      "area_id": "area/ubenide",
+      "legislative_period_id": "term/22",
+      "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
       "person_id": "f11e4e54-2761-421b-8d70-74e323885619",
       "role": "member"
@@ -4079,6 +4265,7 @@
     },
     {
       "classification": "legislative period",
+      "end_date": "2016-05-14",
       "id": "term/21",
       "name": "21st Parliament",
       "organization_id": "legislature",
@@ -4090,6 +4277,13 @@
       "id": "Q20723131",
       "name": "Nauruan parliamentary election, 2016",
       "start_date": "2016-07-09"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/22",
+      "name": "22nd Parliament",
+      "organization_id": "legislature",
+      "start_date": "2016-07-11"
     }
   ],
   "areas": [
@@ -4104,8 +4298,18 @@
       "type": "constituency"
     },
     {
+      "id": "area/anabar/ijuw/anibare",
+      "name": "Anabar/Ijuw/Anibare",
+      "type": "constituency"
+    },
+    {
       "id": "area/anetan",
       "name": "Anetan",
+      "type": "constituency"
+    },
+    {
+      "id": "area/anetan/ewa",
+      "name": "Anetan/Ewa",
       "type": "constituency"
     },
     {
@@ -4116,6 +4320,11 @@
     {
       "id": "area/buada",
       "name": "Buada",
+      "type": "constituency"
+    },
+    {
+      "id": "area/menen",
+      "name": "Menen",
       "type": "constituency"
     },
     {
