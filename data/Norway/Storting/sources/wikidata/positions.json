@@ -2497,6 +2497,12 @@
       "id": "Q9045502",
       "label": "member of the Parliament of Norway",
       "title": "member of the Parliament of Norway"
+    },
+    {
+      "id": "Q14436783",
+      "label": "Minister of Children, Equality and Social Inclusion",
+      "title": "Minister of Children, Equality and Social Inclusion",
+      "description": "Cabinet minister of Norway"
     }
   ],
   "Q4802426": [
@@ -5877,12 +5883,20 @@
       "id": "Q3734685",
       "label": "Minister of Finance of Norway",
       "title": "Minister of Finance of Norway",
-      "description": "in Norway"
+      "description": "in Norway",
+      "qualifiers": {
+        "P580": "1947",
+        "P582": "1951"
+      }
     },
     {
       "id": "Q11992117",
       "label": "Minister of Agriculture and Food (Norway)",
-      "title": "Minister of Agriculture and Food (Norway)"
+      "title": "Minister of Agriculture and Food (Norway)",
+      "qualifiers": {
+        "P580": "1955",
+        "P582": "1956"
+      }
     },
     {
       "id": "Q9045502",
@@ -8018,7 +8032,13 @@
       "id": "Q14436783",
       "label": "Minister of Children, Equality and Social Inclusion",
       "title": "Minister of Children, Equality and Social Inclusion",
-      "description": "Cabinet minister of Norway"
+      "description": "Cabinet minister of Norway",
+      "qualifiers": {
+        "P580": "2001",
+        "P582": "2005",
+        "P1365": "Karita Bekkemellem",
+        "P1366": "Karita Bekkemellem"
+      }
     },
     {
       "id": "Q16147743",
