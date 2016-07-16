@@ -43,4 +43,4 @@ Optionally let us know what we might be able to do to fix it.
 
 ## Notes
 
-Antything else we should know or be aware of.
+Anything else we should know or be aware of.
