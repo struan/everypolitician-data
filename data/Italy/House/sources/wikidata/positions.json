@@ -4859,6 +4859,26 @@
       "label": "member of the Chamber of Deputies of the Italian Republic",
       "title": "member of the Chamber of Deputies of the Italian Republic",
       "description": "deputy in the lower house of the Parliament of Italy"
+    },
+    {
+      "id": "Q388338",
+      "label": "treasurer",
+      "title": "treasurer (of Future Italy)",
+      "description": "person responsible for running the treasury of an organization",
+      "qualifiers": {
+        "P642": "Future Italy"
+      }
+    },
+    {
+      "id": "Q25712839",
+      "label": "party chief representative",
+      "title": "party chief representative (of Civic Choice)",
+      "qualifiers": {
+        "P642": "Civic Choice",
+        "P580": "2015-02-08",
+        "P582": "2016-07-14",
+        "P1365": "Stefania Giannini"
+      }
     }
   ],
   "Q8220408": [
