@@ -15,8 +15,7 @@
       {
         "id": "Q468879",
         "name": "Speaker of the National Assembly of Hungary",
-        "description": "position",
-        "count": 1
+        "description": "position"
       }
     ],
     "other_legislatures": [
@@ -26,6 +25,11 @@
       }
     ],
     "executive": [
+      {
+        "id": "Q470760",
+        "name": "Minister of Civilian Intelligence Services",
+        "description": null
+      },
       {
         "id": "Q18325108",
         "name": "Minister of Defence"
@@ -65,12 +69,6 @@
       {
         "id": "Q23645103",
         "name": "Secretary of State for Territorial Public Administration"
-      },
-      {
-        "id": "Q470760",
-        "name": "Minister of Civilian Intelligence Services",
-        "description": null,
-        "count": 1
       }
     ],
     "party": [
@@ -84,5 +82,19 @@
     ]
   },
   "unknown": {
+    "unknown": [
+      {
+        "id": "Q736559",
+        "name": "Secretary of State",
+        "description": "minister or senior civil servant in the government of a state",
+        "count": 12
+      },
+      {
+        "id": "Q30185",
+        "name": "mayor",
+        "description": "head of municipal government such as a town or city",
+        "count": 2
+      }
+    ]
   }
 }
