@@ -350,7 +350,29 @@
       "id": "Q6865833",
       "label": "Minister for Finance",
       "title": "Minister for Finance",
-      "description": "Australian minister"
+      "description": "Australian minister",
+      "qualifiers": {
+        "P580": "1983-03-11",
+        "P582": "1984-12-13",
+        "P1365": "Margaret Guilfoyle",
+        "P1366": "Peter Walsh"
+      }
+    },
+    {
+      "id": "Q2390270",
+      "label": "Treasurer of Australia",
+      "title": "Treasurer of Australia",
+      "description": "Australian government minister in charge of economic policy"
+    },
+    {
+      "id": "Q11796967",
+      "label": "Minister for School Education, Early Childhood and Youth",
+      "title": "Minister for School Education, Early Childhood and Youth"
+    },
+    {
+      "id": "Q6865979",
+      "label": "Minister for Trade",
+      "title": "Minister for Trade"
     }
   ],
   "Q6154225": [
@@ -2847,18 +2869,6 @@
       }
     },
     {
-      "id": "Q2390270",
-      "label": "Treasurer of Australia",
-      "title": "Treasurer of Australia",
-      "description": "Australian government minister in charge of economic policy",
-      "qualifiers": {
-        "P580": "2004-07-18",
-        "P582": "2006-01-27",
-        "P1365": "Helen Coonan",
-        "P1366": "Peter Dutton"
-      }
-    },
-    {
       "id": "Q6865809",
       "label": "Minister for Employment and Workplace Relations",
       "title": "Minister for Employment and Workplace Relations",
@@ -4117,7 +4127,14 @@
       "id": "Q18912794",
       "label": "Member of the Australian House of Representatives",
       "title": "Member of the Australian House of Representatives",
-      "description": "representative elected by the voters in  Australia"
+      "description": "representative elected by the voters in  Australia",
+      "qualifiers": {
+        "P580": "2013-09-07",
+        "P582": "2016-05-09",
+        "P768": "Perth",
+        "P1365": "Stephen Smith",
+        "P1366": "Tim Hammond"
+      }
     }
   ],
   "Q6394630": [
