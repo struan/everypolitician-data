@@ -12,7 +12,11 @@
   },
   "include": {
     "self": [
-
+      {
+        "id": "Q468879",
+        "name": "Speaker of the National Assembly of Hungary",
+        "description": "position"
+      }
     ],
     "other_legislatures": [
       {
@@ -21,6 +25,11 @@
       }
     ],
     "executive": [
+      {
+        "id": "Q470760",
+        "name": "Minister of Civilian Intelligence Services",
+        "description": null
+      },
       {
         "id": "Q18325108",
         "name": "Minister of Defence"
