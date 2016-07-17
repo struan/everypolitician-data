@@ -4848,16 +4848,37 @@
   ],
   "Q3058054": [
     {
-      "id": "Q3288496",
-      "label": "Ministry for Rural Affairs",
-      "title": "Ministry for Rural Affairs",
-      "description": "ministry of the Swedish government"
+      "id": "Q10686194",
+      "label": "Minister for Agriculture, Food and Fisheries",
+      "title": "Minister for Agriculture, Food and Fisheries",
+      "description": "Swedish cabinet minister",
+      "qualifiers": {
+        "P580": "2010-10-05",
+        "P582": "2014-10-03",
+        "P1365": "Eskil Erlandsson",
+        "P1366": "Sven-Erik Bucht"
+      }
     },
     {
       "id": "Q10655178",
       "label": "Member of the Riksdag",
       "title": "Member of the Riksdag",
-      "description": "Member of the Swedish parlament"
+      "description": "Member of the Swedish parlament",
+      "qualifiers": {
+        "P580": "1994-10-03"
+      }
+    },
+    {
+      "id": "Q10686194",
+      "label": "Minister for Agriculture, Food and Fisheries",
+      "title": "Minister for Agriculture, Food and Fisheries",
+      "description": "Swedish cabinet minister",
+      "qualifiers": {
+        "P580": "2006-10-06",
+        "P582": "2010-10-05",
+        "P1365": "Ann-Christin Nykvist",
+        "P1366": "Eskil Erlandsson"
+      }
     }
   ],
   "Q6027916": [
