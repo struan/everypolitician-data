@@ -2751,7 +2751,13 @@
     {
       "id": "Q3278079",
       "label": "Deputy Prime Minister of Finland",
-      "title": "Deputy Prime Minister of Finland"
+      "title": "Deputy Prime Minister of Finland",
+      "qualifiers": {
+        "P580": "2005-09-23",
+        "P582": "2007-04-19",
+        "P1365": "Antti Kalliomäki",
+        "P1366": "Jyrki Katainen"
+      }
     }
   ],
   "Q16298352": [
@@ -3673,8 +3679,9 @@
     },
     {
       "id": "Q5482321",
-      "label": "Q5482321",
-      "title": "Q5482321",
+      "label": "Minister of the Ministry of Finance",
+      "title": "Minister of the Ministry of Finance",
+      "description": "Finnish deputy Minister",
       "qualifiers": {
         "P580": "2007-04-19",
         "P582": "2010-06-21",
@@ -3847,6 +3854,11 @@
       "label": "Minister of Finance",
       "title": "Minister of Finance",
       "description": "cabinet minister of Finland"
+    },
+    {
+      "id": "Q3278079",
+      "label": "Deputy Prime Minister of Finland",
+      "title": "Deputy Prime Minister of Finland"
     }
   ],
   "Q2983767": [
