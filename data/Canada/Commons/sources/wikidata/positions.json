@@ -327,8 +327,8 @@
   "Q716246": [
     {
       "id": "Q3315120",
-      "label": "Canadian Minister of Justice",
-      "title": "Canadian Minister of Justice",
+      "label": "Minister of Justice",
+      "title": "Minister of Justice",
       "description": "minister responsible for the Department of Justice and is also Attorney General of Canada",
       "qualifiers": {
         "P580": "2013-07-15",
@@ -892,8 +892,8 @@
     },
     {
       "id": "Q3315120",
-      "label": "Canadian Minister of Justice",
-      "title": "Canadian Minister of Justice",
+      "label": "Minister of Justice",
+      "title": "Minister of Justice",
       "description": "minister responsible for the Department of Justice and is also Attorney General of Canada",
       "qualifiers": {
         "P580": "2007-01-04",
@@ -1541,14 +1541,25 @@
     },
     {
       "id": "Q3315120",
-      "label": "Canadian Minister of Justice",
-      "title": "Canadian Minister of Justice",
-      "description": "minister responsible for the Department of Justice and is also Attorney General of Canada"
+      "label": "Minister of Justice",
+      "title": "Minister of Justice",
+      "description": "minister responsible for the Department of Justice and is also Attorney General of Canada",
+      "qualifiers": {
+        "P580": "2006-02-06",
+        "P582": "2007-01-04",
+        "P1365": "Irwin Cotler",
+        "P1366": "Rob Nicholson"
+      }
     },
     {
       "id": "Q18846372",
       "label": "Member of the Executive Council of Manitoba",
       "title": "Member of the Executive Council of Manitoba"
+    },
+    {
+      "id": "Q16933914",
+      "label": "Minister of Public Safety and Emergency Preparedness",
+      "title": "Minister of Public Safety and Emergency Preparedness"
     }
   ],
   "Q3331416": [
@@ -3424,8 +3435,8 @@
   "Q983119": [
     {
       "id": "Q3315120",
-      "label": "Canadian Minister of Justice",
-      "title": "Canadian Minister of Justice",
+      "label": "Minister of Justice",
+      "title": "Minister of Justice",
       "description": "minister responsible for the Department of Justice and is also Attorney General of Canada",
       "qualifiers": {
         "P580": "2003-12-12",
