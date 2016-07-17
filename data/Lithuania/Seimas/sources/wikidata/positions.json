@@ -820,7 +820,13 @@
       "id": "Q25470413",
       "label": "Minister of National Defence",
       "title": "Minister of National Defence",
-      "description": "in Lithuania"
+      "description": "in Lithuania",
+      "qualifiers": {
+        "P580": "2008-12-09",
+        "P582": "2012-12-13",
+        "P1365": "Juozas Olekas",
+        "P1366": "Juozas Olekas"
+      }
     }
   ],
   "Q58201": [
@@ -828,6 +834,18 @@
       "id": "Q18507240",
       "label": "Member of the Seimas",
       "title": "Member of the Seimas"
+    },
+    {
+      "id": "Q25894090",
+      "label": "Minister of Foreign Affairs",
+      "title": "Minister of Foreign Affairs",
+      "description": "Lithuanian cabinet position",
+      "qualifiers": {
+        "P580": "2010-02-11",
+        "P582": "2012-12-13",
+        "P1365": "Vygaudas Ušackas",
+        "P1366": "Linas Antanas Linkevičius"
+      }
     }
   ],
   "Q1291415": [
