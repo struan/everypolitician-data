@@ -60,6 +60,7 @@ class RemoteSource::Morph < RemoteSource
     key = ERB::Util.url_encode(morph_api_key)
     query = ERB::Util.url_encode(qs.gsub(/\s+/, ' ').strip)
     url = "https://api.morph.io/#{src}/data.csv?key=#{key}&query=#{query}"
+    warn "⤈ No ORDER BY for #{i(:file)}" unless qs.downcase.include? 'order by'
     begin
       open(url).read
     rescue => e
