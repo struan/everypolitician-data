@@ -7712,6 +7712,7 @@
     {
       "birth_date": "1964-09-22",
       "death_date": "2015-07-28",
+      "gender": "male",
       "id": "994bb381-f994-4a34-a6d9-681fb3d2d789",
       "identifiers": [
         {
@@ -7742,6 +7743,11 @@
           "note": "alternate"
         },
         {
+          "lang": "en",
+          "name": "Gheorghe Ciobanu",
+          "note": "multilingual"
+        },
+        {
           "lang": "fr",
           "name": "Gheorghe Ciobanu",
           "note": "multilingual"
@@ -7768,6 +7774,7 @@
         }
       ],
       "email": "liliana.ciobanu@cdep.ro",
+      "gender": "female",
       "id": "38ebf61d-5dc0-4b6d-a6e8-fed5dbb72fc5",
       "identifiers": [
         {
@@ -8607,6 +8614,7 @@
         }
       ],
       "email": "gheorghe.costin@cdep.ro",
+      "gender": "male",
       "id": "087dc51c-302a-4d15-ae22-c7cf7f3fcfb6",
       "identifiers": [
         {
@@ -10583,6 +10591,11 @@
         {
           "name": "Petre Daea",
           "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Petre Daea",
+          "note": "multilingual"
         },
         {
           "lang": "la",
@@ -13994,7 +14007,7 @@
           "scheme": "everypolitician_legacy"
         },
         {
-          "identifier": "Q18515633",
+          "identifier": "Q12720668",
           "scheme": "wikidata"
         }
       ],
@@ -14028,7 +14041,7 @@
       "name": "Gerea Andrei Dominic",
       "other_names": [
         {
-          "name": "Andrei Gerea",
+          "name": "Andrei Dominic Gerea",
           "note": "alternate"
         },
         {
@@ -14047,13 +14060,18 @@
           "note": "multilingual"
         },
         {
+          "lang": "it",
+          "name": "Andrei Dominic Gerea",
+          "note": "multilingual"
+        },
+        {
           "lang": "la",
           "name": "Andreas Gerea",
           "note": "multilingual"
         },
         {
           "lang": "ro",
-          "name": "Andrei Gerea",
+          "name": "Andrei Dominic Gerea",
           "note": "multilingual"
         }
       ],
@@ -15880,6 +15898,11 @@
           "note": "alternate"
         },
         {
+          "lang": "en",
+          "name": "Vasile Horga",
+          "note": "multilingual"
+        },
+        {
           "lang": "it",
           "name": "Vasile Horga",
           "note": "multilingual"
@@ -16091,6 +16114,10 @@
         {
           "identifier": "/m/027g5c_",
           "scheme": "freebase"
+        },
+        {
+          "identifier": "7078",
+          "scheme": "pace"
         },
         {
           "identifier": "Q274775",
@@ -18239,6 +18266,11 @@
           "note": "alternate"
         },
         {
+          "lang": "en",
+          "name": "Mihai Lupu",
+          "note": "multilingual"
+        },
+        {
           "lang": "it",
           "name": "Mihai Lupu",
           "note": "multilingual"
@@ -20325,6 +20357,7 @@
         }
       ],
       "email": "liliana.minca@cdep.ro",
+      "family_name": "Mincă",
       "gender": "female",
       "id": "df0b8fac-610f-49c5-9334-032da6958dc3",
       "identifiers": [
@@ -20642,6 +20675,7 @@
       ],
       "email": "adrian.mocanu@cdep.ro",
       "gender": "male",
+      "given_name": "Adrian",
       "id": "9073a68c-e87f-489a-bb83-479502b7b6c3",
       "identifiers": [
         {
@@ -20670,6 +20704,11 @@
         {
           "name": "Adrian Mocanu",
           "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Adrian Mocanu",
+          "note": "multilingual"
         },
         {
           "lang": "ro",
@@ -21353,6 +21392,7 @@
         }
       ],
       "email": "ioan.munteanu@cdep.ro",
+      "gender": "male",
       "id": "5c7ccba8-f883-4dc7-b7e3-f2a315a41674",
       "identifiers": [
         {
@@ -32467,6 +32507,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "6463",
+          "scheme": "pace"
+        },
+        {
           "identifier": "Q21747063",
           "scheme": "wikidata"
         }
@@ -34128,6 +34172,10 @@
         {
           "identifier": "379",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "110035705X",
+          "scheme": "gnd"
         },
         {
           "identifier": "Q15967888",
@@ -36151,6 +36199,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ioan_Vulpescu"
+        },
+        {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Ionuț_Vulpescu"
         },
@@ -36883,6 +36935,11 @@
         {
           "name": "Viorel Ștefan",
           "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Viorel Ștefan",
+          "note": "multilingual"
         },
         {
           "lang": "ro",
