@@ -41,6 +41,11 @@
         "name": "Deputy Prime Minister of the Republic of Poland"
       },
       {
+        "id": "Q25711733",
+        "name": "Minister of Education",
+        "description": "Polish minister"
+      },
+      {
         "id": "Q11781525",
         "name": "Minister of Finance of Poland"
       },
@@ -61,12 +66,6 @@
       {
         "id": "Q3259469",
         "name": "Prime Minister of Poland"
-      },
-      {
-        "id": "Q25711733",
-        "name": "Minister of Education",
-        "description": "Polish minister",
-        "count": 5
       }
     ],
     "party": [
@@ -125,5 +124,67 @@
     ]
   },
   "unknown": {
+    "unknown": [
+      {
+        "id": "Q178909",
+        "name": "Chancellery of the President of the Republic of Poland",
+        "description": "organization",
+        "count": 1
+      },
+      {
+        "id": "Q4380777",
+        "name": "Ministry of Agriculture and Rural Development",
+        "description": null,
+        "count": 2
+      },
+      {
+        "id": "Q4294766",
+        "name": "Ministry of Labour and Social Policy",
+        "description": null,
+        "count": 1
+      },
+      {
+        "id": "Q4294646",
+        "name": "Ministry of Regional Development",
+        "description": null,
+        "count": 1
+      },
+      {
+        "id": "Q2560876",
+        "name": "National Security Bureau",
+        "description": null,
+        "count": 1
+      },
+      {
+        "id": "Q736559",
+        "name": "Secretary of State",
+        "description": "minister or senior civil servant in the government of a state",
+        "count": 1
+      },
+      {
+        "id": "Q1558362",
+        "name": "Voivodeship marshal",
+        "description": null,
+        "count": 1
+      },
+      {
+        "id": "Q121998",
+        "name": "ambassador",
+        "description": "diplomatic envoy",
+        "count": 1
+      },
+      {
+        "id": "Q30185",
+        "name": "mayor",
+        "description": "head of municipal government such as a town or city",
+        "count": 1
+      },
+      {
+        "id": "Q4657217",
+        "name": "municipal executive",
+        "description": null,
+        "count": 1
+      }
+    ]
   }
 }
