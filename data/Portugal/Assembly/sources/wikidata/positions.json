@@ -670,15 +670,27 @@
   ],
   "Q58161": [
     {
-      "id": "Q1723031",
-      "label": "Prime Minister of Portugal",
-      "title": "Prime Minister of Portugal"
+      "id": "Q25909451",
+      "label": "Deputy Prime Minister",
+      "title": "Deputy Prime Minister",
+      "description": "of Portugal",
+      "qualifiers": {
+        "P580": "2013-07-24",
+        "P582": "2015-11-26",
+        "P1365": "Eurico de Melo"
+      }
     },
     {
-      "id": "Q4294480",
-      "label": "Ministry of National Defence",
-      "title": "Ministry of National Defence",
-      "description": "Portuguese government ministry responsible for military and National Defense affairs"
+      "id": "Q25906445",
+      "label": "Minister of National Defence",
+      "title": "Minister of National Defence",
+      "description": "Minister in Portugal",
+      "qualifiers": {
+        "P580": "2002-04-06",
+        "P582": "2005-03-12",
+        "P1365": "Rui Pena",
+        "P1366": "Luís Amado"
+      }
     },
     {
       "id": "Q27169",
@@ -695,6 +707,12 @@
       "label": "Member of the Assembly of the Republic",
       "title": "Member of the Assembly of the Republic",
       "description": "member of the Portuguese parliament"
+    },
+    {
+      "id": "Q4294919",
+      "label": "Minister of Foreign Affairs",
+      "title": "Minister of Foreign Affairs",
+      "description": "Portuguese minister"
     }
   ],
   "Q607679": [
