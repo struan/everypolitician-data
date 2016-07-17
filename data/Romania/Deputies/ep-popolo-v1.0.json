@@ -1520,6 +1520,13 @@
     },
     {
       "birth_date": "1972-09-11",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "ionel.arsene@gmail.com"
+        }
+      ],
+      "email": "ionel.arsene@gmail.com",
       "gender": "male",
       "given_name": "Ionel",
       "id": "af24cda6-21e7-4d70-b08f-fb66d00f1c9b",
@@ -3938,6 +3945,17 @@
     },
     {
       "birth_date": "1975-10-11",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "claudia.boghicevici@cdep.ro"
+        },
+        {
+          "type": "email",
+          "value": "cabinet.boghicevici@yahoo.com"
+        }
+      ],
+      "email": "claudia.boghicevici@cdep.ro",
       "gender": "female",
       "given_name": "Claudia",
       "id": "d69ff828-4957-4189-9ee7-26f97a2e2839",
@@ -10953,6 +10971,13 @@
     },
     {
       "birth_date": "1951-02-25",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "toader.dima@cdep.ro"
+        }
+      ],
+      "email": "toader.dima@cdep.ro",
       "gender": "male",
       "id": "080b565d-ee4b-457a-8035-870ae621e177",
       "identifiers": [
@@ -11411,6 +11436,17 @@
     },
     {
       "birth_date": "1973-03-12",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "mihai.dontu@cdep.ro"
+        },
+        {
+          "type": "email",
+          "value": "dontzum@yahoo.com"
+        }
+      ],
+      "email": "mihai.dontu@cdep.ro",
       "id": "4b6e71c1-a701-43a6-a1a8-f1b080b20870",
       "identifiers": [
         {
@@ -11654,6 +11690,13 @@
     },
     {
       "birth_date": "1975-06-16",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "dragomir.viorelmarian@yahoo.com"
+        }
+      ],
+      "email": "dragomir.viorelmarian@yahoo.com",
       "gender": "male",
       "id": "e629e16e-224e-4fec-8fe8-2bc651ef87f3",
       "identifiers": [
@@ -12437,6 +12480,13 @@
     },
     {
       "birth_date": "1970-08-01",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "ioana.dumitru@cdep.ro"
+        }
+      ],
+      "email": "ioana.dumitru@cdep.ro",
       "gender": "female",
       "id": "e4beef84-d95e-4a1a-b674-ee0a992be985",
       "identifiers": [
@@ -12748,6 +12798,13 @@
     },
     {
       "birth_date": "1954-05-05",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "marian.enache@cdep.ro"
+        }
+      ],
+      "email": "marian.enache@cdep.ro",
       "gender": "male",
       "given_name": "Marian",
       "id": "d5630a05-af83-4f61-a550-a2f240be9750",
@@ -13543,6 +13600,17 @@
     },
     {
       "birth_date": "1972-09-19",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "danielflorea72@yahoo.com"
+        },
+        {
+          "type": "email",
+          "value": "daniel.florea@scaflorea.ro"
+        }
+      ],
+      "email": "danielflorea72@yahoo.com",
       "gender": "male",
       "given_name": "Daniel",
       "id": "18eba9c4-a772-4b22-9f70-5d3655e1497d",
@@ -13930,20 +13998,83 @@
         }
       ],
       "email": "andrei.gerea@cdep.ro",
+      "gender": "male",
+      "given_name": "Andrei",
       "id": "393c3355-c08e-4cbc-98fb-1b71a22b0965",
       "identifiers": [
         {
           "identifier": "142",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q12720668",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.cdep.ro/parlamentari/l2012/Gerea_Andrei_Dominic.jpg",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2012/Gerea_Andrei_Dominic.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Original_dsc_5481_(cropped).jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Andrei_Gerea"
+        },
+        {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/Andrei_Gerea"
+        },
+        {
+          "note": "Wikipedia (la)",
+          "url": "https://la.wikipedia.org/wiki/Andreas_Gerea"
+        },
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Andrei_Gerea"
         }
       ],
       "name": "Gerea Andrei Dominic",
+      "other_names": [
+        {
+          "name": "Andrei Dominic Gerea",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Andrei Gerea",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Andrei Gerea",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Andrei Gerea",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Andrei Dominic Gerea",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Andreas Gerea",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Andrei Dominic Gerea",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Andrei Dominic GEREA",
       "sources": [
         {
@@ -16775,6 +16906,17 @@
     },
     {
       "birth_date": "1968-05-04",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "vasile.iliuta@cdep.ro"
+        },
+        {
+          "type": "email",
+          "value": "deputat.iliuta@gmail.com"
+        }
+      ],
+      "email": "vasile.iliuta@cdep.ro",
       "gender": "male",
       "id": "66d22306-b11d-4973-bbf4-db9fe1b4cb2d",
       "identifiers": [
@@ -17673,6 +17815,17 @@
     },
     {
       "birth_date": "1980-01-29",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "kereskenyi.gabor@cdep.ro"
+        },
+        {
+          "type": "email",
+          "value": "kereskenyi_gabor@yahoo.com"
+        }
+      ],
+      "email": "kereskenyi.gabor@cdep.ro",
       "id": "45e25365-e7f8-451e-bb8f-708140928082",
       "identifiers": [
         {
@@ -21131,6 +21284,13 @@
     },
     {
       "birth_date": "1981-04-23",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "motini2000@yahoo.com"
+        }
+      ],
+      "email": "motini2000@yahoo.com",
       "gender": "male",
       "id": "4991063e-560b-451d-b2c5-6e9102efd455",
       "identifiers": [
@@ -21886,6 +22046,13 @@
     },
     {
       "birth_date": "1978-08-13",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "neculacosmin@gmail.com"
+        }
+      ],
+      "email": "neculacosmin@gmail.com",
       "gender": "male",
       "id": "6bde5662-8c58-457d-b24d-aa74c80e3667",
       "identifiers": [
@@ -23955,6 +24122,17 @@
     },
     {
       "birth_date": "1951-06-29",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "laurentiu.nistor@cdep.ro"
+        },
+        {
+          "type": "email",
+          "value": "laurentiu.nistor@gmail.com"
+        }
+      ],
+      "email": "laurentiu.nistor@cdep.ro",
       "gender": "male",
       "id": "8c950337-7a63-4b10-9c3a-a9c96fd69a96",
       "identifiers": [
@@ -29125,6 +29303,13 @@
     },
     {
       "birth_date": "1980-01-26",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "cristian.resmerita@cdep.ro"
+        }
+      ],
+      "email": "cristian.resmerita@cdep.ro",
       "gender": "male",
       "id": "e2d8be99-bb86-4d37-9df2-fa5662cdcc2e",
       "identifiers": [
@@ -29609,6 +29794,13 @@
     },
     {
       "birth_date": "1972-02-06",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "gheorghe.roman@cdep.ro"
+        }
+      ],
+      "email": "gheorghe.roman@cdep.ro",
       "gender": "male",
       "id": "bcacd023-a0f3-4514-94be-a975bb6aeeb2",
       "identifiers": [
@@ -30415,6 +30607,21 @@
     },
     {
       "birth_date": "1976-01-17",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "constantin.radulescu@cdep.ro"
+        },
+        {
+          "type": "email",
+          "value": "deputatconstantinradulescu@yahoo.com"
+        },
+        {
+          "type": "email",
+          "value": "costi@constantinradulescu.ro"
+        }
+      ],
+      "email": "constantin.radulescu@cdep.ro",
       "gender": "male",
       "given_name": "Constantin",
       "id": "b24aaaa3-5e95-4098-bd97-77d26d9ffd25",
@@ -38707,11 +38914,6 @@
           "note": "multilingual"
         }
       ]
-    },
-    {
-      "classification": "party",
-      "id": "party/unknown",
-      "name": "unknown"
     }
   ],
   "meta": {
@@ -38763,6 +38965,7 @@
     },
     {
       "area_id": "18",
+      "end_date": "2013-06-04",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/psd",
       "organization_id": "legislature",
@@ -38835,6 +39038,7 @@
     },
     {
       "area_id": "41",
+      "end_date": "2015-02-02",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/psd",
       "organization_id": "legislature",
@@ -38940,6 +39144,7 @@
     },
     {
       "area_id": "4",
+      "end_date": "2014-10-21",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/psd",
       "organization_id": "legislature",
@@ -38971,6 +39176,7 @@
     },
     {
       "area_id": "42",
+      "end_date": "2013-05-20",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/pnl",
       "organization_id": "legislature",
@@ -39123,6 +39329,7 @@
     },
     {
       "area_id": "24",
+      "end_date": "2016-04-26",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/psd",
       "organization_id": "legislature",
@@ -39203,6 +39410,7 @@
     },
     {
       "area_id": "8",
+      "end_date": "2015-02-09",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/pnl",
       "organization_id": "legislature",
@@ -39315,6 +39523,7 @@
     },
     {
       "area_id": "40",
+      "end_date": "2015-07-27",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/psd",
       "organization_id": "legislature",
@@ -39387,6 +39596,7 @@
     },
     {
       "area_id": "42",
+      "end_date": "2015-03-12",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/psd",
       "organization_id": "legislature",
@@ -39507,6 +39717,7 @@
     },
     {
       "area_id": "17",
+      "end_date": "2013-10-15",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/pdl",
       "organization_id": "legislature",
@@ -39523,6 +39734,7 @@
     },
     {
       "area_id": "24",
+      "end_date": "2016-03-07",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/psd",
       "organization_id": "legislature",
@@ -39827,6 +40039,7 @@
     },
     {
       "area_id": "40",
+      "end_date": "2014-03-11",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/psd",
       "organization_id": "legislature",
@@ -39875,6 +40088,7 @@
     },
     {
       "area_id": "8",
+      "end_date": "2015-04-01",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/alde",
       "organization_id": "legislature",
@@ -40113,6 +40327,7 @@
     },
     {
       "area_id": "10",
+      "end_date": "2014-04-28",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/alde",
       "organization_id": "legislature",
@@ -40121,6 +40336,7 @@
     },
     {
       "area_id": "10",
+      "end_date": "2014-12-19",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/pnl",
       "organization_id": "legislature",
@@ -40146,7 +40362,7 @@
     {
       "end_date": "2014-02-03",
       "legislative_period_id": "term/2012",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/minoritati",
       "organization_id": "legislature",
       "person_id": "6d87b9e9-ce01-451c-855f-416b550bd3b5",
       "role": "member"
@@ -40208,6 +40424,7 @@
     },
     {
       "area_id": "17",
+      "end_date": "2013-12-10",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/psd",
       "organization_id": "legislature",
@@ -40265,6 +40482,7 @@
     },
     {
       "area_id": "14",
+      "end_date": "2015-04-01",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/pnl",
       "organization_id": "legislature",
@@ -40281,6 +40499,7 @@
     },
     {
       "area_id": "32",
+      "end_date": "2013-09-03",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/pnl",
       "organization_id": "legislature",
@@ -40306,7 +40525,7 @@
     {
       "area_id": "24",
       "legislative_period_id": "term/2012",
-      "on_behalf_of_id": "party/psd",
+      "on_behalf_of_id": "party/non-attached",
       "organization_id": "legislature",
       "person_id": "7a3b87b7-80cf-4503-9dfe-c9066497c3c0",
       "role": "member"
@@ -40480,6 +40699,7 @@
     },
     {
       "area_id": "4",
+      "end_date": "2015-02-10",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/alde",
       "organization_id": "legislature",
@@ -40528,6 +40748,7 @@
     },
     {
       "area_id": "24",
+      "end_date": "2014-01-30",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/pnl",
       "organization_id": "legislature",
@@ -40585,7 +40806,7 @@
     {
       "area_id": "18",
       "legislative_period_id": "term/2012",
-      "on_behalf_of_id": "party/psd",
+      "on_behalf_of_id": "party/unpr",
       "organization_id": "legislature",
       "person_id": "95f53591-6b9e-4084-97b1-2889ac07d244",
       "role": "member"
@@ -40608,6 +40829,7 @@
     },
     {
       "area_id": "37",
+      "end_date": "2015-07-28",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/psd",
       "organization_id": "legislature",
@@ -40679,6 +40901,7 @@
     },
     {
       "area_id": "42",
+      "end_date": "2014-06-11",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/psd",
       "organization_id": "legislature",
@@ -40727,6 +40950,7 @@
     },
     {
       "area_id": "16",
+      "end_date": "2016-03-02",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/non-attached",
       "organization_id": "legislature",
@@ -40751,6 +40975,7 @@
     },
     {
       "area_id": "10",
+      "end_date": "2015-09-29",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/psd",
       "organization_id": "legislature",
@@ -40815,6 +41040,7 @@
     },
     {
       "area_id": "8",
+      "end_date": "2015-01-19",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/psd",
       "organization_id": "legislature",
@@ -40855,6 +41081,7 @@
     },
     {
       "area_id": "22",
+      "end_date": "2015-02-16",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/psd",
       "organization_id": "legislature",
@@ -40959,6 +41186,7 @@
     },
     {
       "area_id": "17",
+      "end_date": "2014-03-04",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/psd",
       "organization_id": "legislature",
@@ -41125,6 +41353,7 @@
     },
     {
       "area_id": "22",
+      "end_date": "2013-04-29",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/pnl",
       "organization_id": "legislature",
@@ -41284,7 +41513,7 @@
     {
       "area_id": "11",
       "legislative_period_id": "term/2012",
-      "on_behalf_of_id": "party/psd",
+      "on_behalf_of_id": "party/unpr",
       "organization_id": "legislature",
       "person_id": "cecbdf64-0c0b-4400-a0d8-e5cbccabfe70",
       "role": "member"
@@ -41346,6 +41575,7 @@
     },
     {
       "area_id": "25",
+      "end_date": "2013-09-03",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/pnl",
       "organization_id": "legislature",
@@ -41434,6 +41664,7 @@
     },
     {
       "area_id": "15",
+      "end_date": "2015-04-01",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/udmr",
       "organization_id": "legislature",
@@ -41442,6 +41673,7 @@
     },
     {
       "area_id": "18",
+      "end_date": "2014-06-23",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/psd",
       "organization_id": "legislature",
@@ -41584,6 +41816,7 @@
     },
     {
       "area_id": "37",
+      "end_date": "2014-03-25",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/alde",
       "organization_id": "legislature",
@@ -41654,13 +41887,14 @@
     {
       "area_id": "10",
       "legislative_period_id": "term/2012",
-      "on_behalf_of_id": "party/psd",
+      "on_behalf_of_id": "party/unpr",
       "organization_id": "legislature",
       "person_id": "e4e20250-9f03-462e-ac2e-f5e3c65fa7d0",
       "role": "member"
     },
     {
       "area_id": "42",
+      "end_date": "2014-05-12",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/alde",
       "organization_id": "legislature",
@@ -41717,6 +41951,7 @@
     },
     {
       "area_id": "27",
+      "end_date": "2015-04-29",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/alde",
       "organization_id": "legislature",
@@ -41725,6 +41960,7 @@
     },
     {
       "area_id": "8",
+      "end_date": "2015-09-01",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/psd",
       "organization_id": "legislature",
@@ -41741,6 +41977,7 @@
     },
     {
       "area_id": "42",
+      "end_date": "2015-07-18",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/alde",
       "organization_id": "legislature",
@@ -41789,6 +42026,7 @@
     },
     {
       "area_id": "24",
+      "end_date": "2015-04-20",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/psd",
       "organization_id": "legislature",
@@ -41837,15 +42075,16 @@
     },
     {
       "area_id": "22",
-      "end_date": "2014-06-11",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/psd",
       "organization_id": "legislature",
       "person_id": "ef336163-ecb5-4c0e-ba13-f0eb5c2a171e",
-      "role": "member"
+      "role": "member",
+      "start_date": "2014-06-11"
     },
     {
       "area_id": "16",
+      "end_date": "2016-01-25",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/psd",
       "organization_id": "legislature",
@@ -42007,6 +42246,7 @@
     },
     {
       "area_id": "3",
+      "end_date": "2015-05-12",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/pnl",
       "organization_id": "legislature",
