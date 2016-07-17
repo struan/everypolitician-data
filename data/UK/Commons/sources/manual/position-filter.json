@@ -115,16 +115,21 @@
         "name": "Minister for Business, Enterprise, Technology and Science"
       },
       {
-        "id": "Q6865755",
+        "id": "Q6865753",
         "name": "Minister for Children"
       },
       {
-        "id": "Q6865753",
+        "id": "Q6865755",
         "name": "Minister for Children"
       },
       {
         "id": "Q6865773",
         "name": "Minister for Community Safety and Legal Affairs"
+      },
+      {
+        "id": "Q25909926",
+        "name": "Minister for Culture and Tourism",
+        "description": "UK minister"
       },
       {
         "id": "Q6865776",
@@ -229,8 +234,18 @@
         "name": "Minister of Finance and Personnel"
       },
       {
+        "id": "Q25906282",
+        "name": "Minister of State for Care Services",
+        "description": "UK minister of state"
+      },
+      {
         "id": "Q25906156",
         "name": "Minister of State for Children in Northern Ireland",
+        "description": "UK minister of state"
+      },
+      {
+        "id": "Q25906279",
+        "name": "Minister of State for Climate Change",
         "description": "UK minister of state"
       },
       {
@@ -270,6 +285,16 @@
       {
         "id": "Q25906161",
         "name": "Minister of State for Innovation, Universities and Skills",
+        "description": "UK minister of state"
+      },
+      {
+        "id": "Q25910299",
+        "name": "Minister of State for International Development",
+        "description": "UK minister of state"
+      },
+      {
+        "id": "Q25906291",
+        "name": "Minister of State for Justice",
         "description": "UK minister of state"
       },
       {
@@ -314,6 +339,16 @@
       {
         "id": "Q24205246",
         "name": "Parliamentary Under Secretary of State for Justice"
+      },
+      {
+        "id": "Q25906269",
+        "name": "Parliamentary Under-Secretary for Creative Industries",
+        "description": "UK parliamentary under-secretary"
+      },
+      {
+        "id": "Q25906270",
+        "name": "Parliamentary Under-Secretary for Further Education",
+        "description": "UK parliamentary under-secretary"
       },
       {
         "id": "Q23304253",
@@ -654,12 +689,22 @@
         "description": "UK shadow minister"
       },
       {
+        "id": "Q25906264",
+        "name": "Shadow Minister for the Environment",
+        "description": "UK shadow minister"
+      },
+      {
         "id": "Q20819509",
         "name": "Shadow Minister for the Olympics"
       },
       {
         "id": "Q25359878",
         "name": "Shadow Minister of State for Europe",
+        "description": "UK shadow minister"
+      },
+      {
+        "id": "Q25906287",
+        "name": "Shadow Minister of State, Home Office",
         "description": "UK shadow minister"
       },
       {
@@ -1036,36 +1081,6 @@
         "count": 7
       },
       {
-        "id": "Q25909926",
-        "name": "Minister for Culture and Tourism",
-        "description": "UK minister",
-        "count": 1
-      },
-      {
-        "id": "Q25906282",
-        "name": "Minister of State for Care Services",
-        "description": "UK minister of state",
-        "count": 5
-      },
-      {
-        "id": "Q25906279",
-        "name": "Minister of State for Climate Change",
-        "description": "UK minister of state",
-        "count": 1
-      },
-      {
-        "id": "Q25910299",
-        "name": "Minister of State for International Development",
-        "description": "UK minister of state",
-        "count": 1
-      },
-      {
-        "id": "Q25906291",
-        "name": "Minister of State for Justice",
-        "description": "UK minister of state",
-        "count": 1
-      },
-      {
         "id": "Q2579210",
         "name": "Official Opposition Shadow Cabinet",
         "description": "opposition cabinet of the United Kingdom",
@@ -1078,33 +1093,9 @@
         "count": 1
       },
       {
-        "id": "Q25906269",
-        "name": "Parliamentary Under-Secretary for Creative Industries",
-        "description": "UK parliamentary under-secretary",
-        "count": 1
-      },
-      {
-        "id": "Q25906270",
-        "name": "Parliamentary Under-Secretary for Further Education",
-        "description": "UK parliamentary under-secretary",
-        "count": 1
-      },
-      {
         "id": "Q7257298",
         "name": "Public Accounts Committee",
         "description": "select committee of the British House of Commons",
-        "count": 1
-      },
-      {
-        "id": "Q25906264",
-        "name": "Shadow Minister for the Environment",
-        "description": "UK shadow minister",
-        "count": 1
-      },
-      {
-        "id": "Q25906287",
-        "name": "Shadow Minister of State, Home Office",
-        "description": "UK shadow minister",
         "count": 1
       },
       {
