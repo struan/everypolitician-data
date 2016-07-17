@@ -25,6 +25,16 @@
     ],
     "executive": [
       {
+        "id": "Q25894090",
+        "name": "Minister of Foreign Affairs",
+        "description": "Lithuanian cabinet position"
+      },
+      {
+        "id": "Q25707086",
+        "name": "Minister of Health",
+        "description": "Lithuanian cabinet position"
+      },
+      {
         "id": "Q25470413",
         "name": "Minister of National Defence",
         "description": "in Lithuania"
@@ -43,18 +53,7 @@
   },
   "unknown": {
     "unknown": [
-      {
-        "id": "Q25894090",
-        "name": "Minister of Foreign Affairs",
-        "description": "Lithuanian cabinet position",
-        "count": 1
-      },
-      {
-        "id": "Q25707086",
-        "name": "Minister of Health",
-        "description": "Lithuanian cabinet position",
-        "count": 1
-      }
+
     ]
   }
 }
