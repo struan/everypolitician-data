@@ -12449,6 +12449,7 @@
       "id": "Q5468214",
       "label": "Foreign Affairs Select Committee",
       "title": "Foreign Affairs Select Committee",
+      "description": "select committee appointed by the British House of Commons",
       "qualifiers": {
         "P580": "2010-05-17",
         "P582": "2015-03-30",
@@ -13799,6 +13800,7 @@
       "id": "Q25860233",
       "label": "Secretary of State for Exiting the European Union",
       "title": "Secretary of State for Exiting the European Union",
+      "description": "secretary of state responsible for the United Kingdom's withdrawal from the European Union",
       "qualifiers": {
         "P580": "2016-07-13",
         "P1365": ""
@@ -14949,10 +14951,10 @@
   ],
   "Q269977": [
     {
-      "id": "Q3044742",
-      "label": "Department of Health",
-      "title": "Department of Health",
-      "description": "United Kingdom government ministerial department",
+      "id": "Q25906282",
+      "label": "Minister of State for Care Services",
+      "title": "Minister of State for Care Services",
+      "description": "UK minister of state",
       "qualifiers": {
         "P580": "2010-05-11",
         "P582": "2012-09-04",
@@ -14969,7 +14971,8 @@
         "P580": "1997-05-01",
         "P582": "2015-03-30",
         "P1365": "Lady Olga Maitland",
-        "P1366": "Paul Scully"
+        "P1366": "Paul Scully",
+        "P768": "Sutton and Cheam"
       }
     },
     {
@@ -14982,12 +14985,6 @@
         "P1365": "Andrew Stunell",
         "P1366": "Alistair Carmichael"
       }
-    },
-    {
-      "id": "Q25906282",
-      "label": "Minister of State for Care Services",
-      "title": "Minister of State for Care Services",
-      "description": "UK minister of state"
     }
   ],
   "Q296866": [
@@ -18752,6 +18749,7 @@
       "id": "Q7257298",
       "label": "Public Accounts Committee",
       "title": "Public Accounts Committee",
+      "description": "select committee of the British House of Commons",
       "qualifiers": {
         "P580": "2010-06-10",
         "P582": "2015-03-30",
@@ -21360,10 +21358,10 @@
       "description": "United Kingdom government ministerial department"
     },
     {
-      "id": "Q910019",
-      "label": "Department for Culture, Media and Sport",
-      "title": "Department for Culture, Media and Sport",
-      "description": "United Kingdom government ministerial department",
+      "id": "Q25909926",
+      "label": "Minister for Culture and Tourism",
+      "title": "Minister for Culture and Tourism",
+      "description": "UK minister",
       "qualifiers": {
         "P580": "2008-10-04",
         "P582": "2009-09-22",
@@ -21397,10 +21395,16 @@
       }
     },
     {
-      "id": "Q358834",
-      "label": "Foreign and Commonwealth Office",
-      "title": "Foreign and Commonwealth Office",
-      "description": "Ministry of Foreign Affairs of the United Kingdom"
+      "id": "Q25910299",
+      "label": "Minister of State for International Development",
+      "title": "Minister of State for International Development",
+      "description": "UK minister of state",
+      "qualifiers": {
+        "P580": "2008-10-05",
+        "P582": "2009-06-08",
+        "P1365": "Gillian Merron",
+        "P1366": "Michael John Foster"
+      }
     },
     {
       "id": "Q16707842",
@@ -21445,10 +21449,16 @@
       }
     },
     {
-      "id": "Q23304196",
-      "label": "Minister of State for Health",
-      "title": "Minister of State for Health",
-      "description": "UK minister"
+      "id": "Q25906282",
+      "label": "Minister of State for Care Services",
+      "title": "Minister of State for Care Services",
+      "description": "UK minister of state",
+      "qualifiers": {
+        "P580": "2006-05-15",
+        "P582": "2008-10-03",
+        "P1365": "Norman Warner, Baron Warner",
+        "P1366": "Phil Hope"
+      }
     }
   ],
   "Q269940": [
