@@ -2107,10 +2107,14 @@
   ],
   "Q780453": [
     {
-      "id": "Q11231196",
-      "label": "Ministry of Economy and Finance (Spain)",
-      "title": "Ministry of Economy and Finance (Spain)",
-      "description": "Wikimedia list article"
+      "id": "Q25907267",
+      "label": "Minister of Finance and Public Administrations",
+      "title": "Minister of Finance and Public Administrations",
+      "description": "Spanish minister",
+      "qualifiers": {
+        "P580": "2011-12-22",
+        "P1366": "Elena Salgado"
+      }
     },
     {
       "id": "Q27169",
@@ -2122,6 +2126,18 @@
       "id": "Q18171345",
       "label": "Member of the Congress of Deputies of Spain",
       "title": "Member of the Congress of Deputies of Spain"
+    },
+    {
+      "id": "Q25907267",
+      "label": "Minister of Finance and Public Administrations",
+      "title": "Minister of Finance and Public Administrations",
+      "description": "Spanish minister",
+      "qualifiers": {
+        "P580": "2000-04-28",
+        "P582": "2004-04-17",
+        "P1365": "Rodrigo Rato",
+        "P1366": "Pedro Solbes"
+      }
     }
   ],
   "Q9014023": [
