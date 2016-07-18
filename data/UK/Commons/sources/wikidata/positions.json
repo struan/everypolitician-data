@@ -13917,6 +13917,16 @@
       "label": "Member of Parliament in the United Kingdom",
       "title": "Member of Parliament in the United Kingdom",
       "description": "voters' representative in the House of Commons of the United Kingdom"
+    },
+    {
+      "id": "Q7460591",
+      "label": "Shadow Secretary of State for Culture, Media and Sport",
+      "title": "Shadow Secretary of State for Culture, Media and Sport"
+    },
+    {
+      "id": "Q7460600",
+      "label": "Shadow Secretary of State for Transport",
+      "title": "Shadow Secretary of State for Transport"
     }
   ],
   "Q5300550": [
@@ -14620,14 +14630,13 @@
   ],
   "Q391300": [
     {
-      "id": "Q2612019",
-      "label": "Department for Education",
-      "title": "Department for Education",
-      "description": "United Kingdom government ministerial department",
+      "id": "Q25917383",
+      "label": "Minister of State for Schools",
+      "title": "Minister of State for Schools",
+      "description": "UK minister of state",
       "qualifiers": {
         "P580": "2015-05-12",
-        "P1365": "David Laws",
-        "P582": "2015-05-12"
+        "P1365": "David Laws"
       }
     },
     {
@@ -14637,7 +14646,26 @@
       "description": "voters' representative in the House of Commons of the United Kingdom",
       "qualifiers": {
         "P580": "1997-05-01",
-        "P1365": "Boundary Commissions"
+        "P1365": "",
+        "P768": "Bognor Regis and Littlehampton"
+      }
+    },
+    {
+      "id": "Q25917392",
+      "label": "Minister of State for School Reform",
+      "title": "Minister of State for School Reform",
+      "description": "UK minister of state"
+    },
+    {
+      "id": "Q25917383",
+      "label": "Minister of State for Schools",
+      "title": "Minister of State for Schools",
+      "description": "UK minister of state",
+      "qualifiers": {
+        "P580": "2010-05-13",
+        "P582": "2012-09-04",
+        "P1365": "Vernon Coaker",
+        "P1366": "Vernon Coaker"
       }
     }
   ],
@@ -21782,12 +21810,6 @@
       "label": "Minister of State for Care Services",
       "title": "Minister of State for Care Services",
       "description": "UK minister of state"
-    },
-    {
-      "id": "Q25906282",
-      "label": "Minister of State for Care Services",
-      "title": "Minister of State for Care Services",
-      "description": "UK minister of state"
     }
   ],
   "Q5022974": [
@@ -23883,7 +23905,8 @@
       "title": "Secretary of State for Environment, Food and Rural Affairs",
       "description": "United Kingdom government cabinet minister",
       "qualifiers": {
-        "P580": "2014-07-15"
+        "P580": "2014-07-15",
+        "P582": "2016-07-14"
       }
     },
     {
@@ -24806,7 +24829,8 @@
       "qualifiers": {
         "P580": "2011-10-07",
         "P1365": "Hilary Benn",
-        "P1366": "Chris Bryant"
+        "P1366": "Chris Bryant",
+        "P582": "2015-09-13"
       }
     },
     {
@@ -24829,6 +24853,17 @@
         "P582": "2009-06-08",
         "P1365": "Phillip Oppenheim",
         "P1366": "Kitty Ussher"
+      }
+    },
+    {
+      "id": "Q15039982",
+      "label": "Shadow Secretary of State for Business, Innovation and Skills",
+      "title": "Shadow Secretary of State for Business, Innovation and Skills",
+      "qualifiers": {
+        "P582": "2016-06-27",
+        "P580": "2015-09-13",
+        "P1366": "Jon Trickett",
+        "P1365": "Chuka Umunna"
       }
     }
   ],
