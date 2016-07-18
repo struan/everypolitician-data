@@ -5,7 +5,7 @@
       "create": {
         "from": "morph",
         "scraper": "dracos/falkland-islands",
-        "query": "SELECT *, REPLACE(LOWER(name),' ','_') AS id FROM data"
+        "query": "SELECT *, REPLACE(LOWER(name),' ','_') AS id FROM data ORDER BY name"
       },
       "source": "https://en.wikipedia.org/",
       "type": "membership"
@@ -15,7 +15,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/falkland-islands-assembly",
-        "query": "SELECT *, REPLACE(LOWER(name),' ','_') AS id FROM data"
+        "query": "SELECT *, REPLACE(LOWER(name),' ','_') AS id FROM data ORDER BY name"
       },
       "source": "http://www.falklands.gov.fk/self-governance/legislative/assembly-members/",
       "type": "person",
@@ -30,7 +30,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/falkland-islands-representatives-wikidata",
-        "query": "SELECT * FROM data"
+        "query": "SELECT * FROM data ORDER BY id"
       },
       "type": "wikidata",
       "merge": {
