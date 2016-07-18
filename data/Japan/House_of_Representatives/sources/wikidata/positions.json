@@ -557,13 +557,30 @@
       "id": "Q274948",
       "label": "Prime Minister of Japan",
       "title": "Prime Minister of Japan",
-      "description": "head of government of Japan"
+      "description": "head of government of Japan",
+      "qualifiers": {
+        "P580": "2008-09-24",
+        "P582": "2009-09-16",
+        "P1365": "Yasuo Fukuda",
+        "P1366": "Yukio Hatoyama"
+      }
     },
     {
       "id": "Q17506823",
       "label": "member of the House of Representatives of Japan",
       "title": "member of the House of Representatives of Japan",
       "description": "elected Representative of the  House of Representatives of Japan"
+    },
+    {
+      "id": "Q1767791",
+      "label": "Deputy Prime Minister of Japan",
+      "title": "Deputy Prime Minister of Japan"
+    },
+    {
+      "id": "Q6500849",
+      "label": "Minister of Finance",
+      "title": "Minister of Finance",
+      "description": "Japanese minister"
     }
   ],
   "Q11461458": [
