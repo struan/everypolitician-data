@@ -2185,13 +2185,26 @@
       "id": "Q3272410",
       "label": "Member of the Legislative Assembly of Northern Ireland",
       "title": "Member of the Legislative Assembly of Northern Ireland",
-      "description": "representative elected by the voters to the Northern Ireland Assembly in Northern Ireland"
+      "description": "representative elected by the voters to the Northern Ireland Assembly in Northern Ireland",
+      "qualifiers": {
+        "P580": "1998-06-25",
+        "P582": "2007-03-07",
+        "P1365": "",
+        "P1366": "John McCallister",
+        "P768": "South Down"
+      }
     },
     {
       "id": "Q24284762",
       "label": "Minister for the Environment",
       "title": "Minister for the Environment",
-      "description": "Northern Ireland Executive position"
+      "description": "Northern Ireland Executive position",
+      "qualifiers": {
+        "P580": "2002-02-20",
+        "P582": "2002-10-15",
+        "P1365": "Sam Foster",
+        "P1366": "Arlene Foster"
+      }
     }
   ],
   "Q5106839": [
@@ -3366,7 +3379,8 @@
       "qualifiers": {
         "P580": "2010-05-24",
         "P582": "2011-05-05",
-        "P1365": "Margaret Ritchie"
+        "P1365": "Margaret Ritchie",
+        "P1366": "Nelson McCausland"
       }
     },
     {
@@ -3457,6 +3471,12 @@
       "label": "Member of the Legislative Assembly of Northern Ireland",
       "title": "Member of the Legislative Assembly of Northern Ireland",
       "description": "representative elected by the voters to the Northern Ireland Assembly in Northern Ireland"
+    },
+    {
+      "id": "Q24284762",
+      "label": "Minister for the Environment",
+      "title": "Minister for the Environment",
+      "description": "Northern Ireland Executive position"
     }
   ],
   "Q4709010": [
