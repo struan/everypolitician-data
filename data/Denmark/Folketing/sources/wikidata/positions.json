@@ -1915,6 +1915,12 @@
       "id": "Q12311817",
       "label": "member of the Folketing",
       "title": "member of the Folketing"
+    },
+    {
+      "id": "Q12341969",
+      "label": "Minister of Economic and Business Affairs",
+      "title": "Minister of Economic and Business Affairs",
+      "description": "Danish minister"
     }
   ],
   "Q12325727": [
@@ -3157,6 +3163,12 @@
       "id": "Q12311817",
       "label": "member of the Folketing",
       "title": "member of the Folketing"
+    },
+    {
+      "id": "Q12341969",
+      "label": "Minister of Economic and Business Affairs",
+      "title": "Minister of Economic and Business Affairs",
+      "description": "Danish minister"
     }
   ],
   "Q1338185": [
@@ -3283,10 +3295,16 @@
       }
     },
     {
-      "id": "Q3437404",
-      "label": "Ministry of Business and Growth",
-      "title": "Ministry of Business and Growth",
-      "description": "Danish ministry"
+      "id": "Q12341969",
+      "label": "Minister of Economic and Business Affairs",
+      "title": "Minister of Economic and Business Affairs",
+      "description": "Danish minister",
+      "qualifiers": {
+        "P580": "2008-09-10",
+        "P582": "2010-02-23",
+        "P1365": "Bendt Bendtsen",
+        "P1366": "Lars Barfoed"
+      }
     },
     {
       "id": "Q12311817",
@@ -3307,6 +3325,12 @@
         "P1365": "Frank Jensen",
         "P1366": "Brian Mikkelsen"
       }
+    },
+    {
+      "id": "Q21070726",
+      "label": "Deputy Prime Minister",
+      "title": "Deputy Prime Minister",
+      "description": "of Denmark"
     }
   ],
   "Q531054": [
