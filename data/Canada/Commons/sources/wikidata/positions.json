@@ -77,6 +77,14 @@
       "description": "representative elected by the canadian voters"
     }
   ],
+  "Q21335996": [
+    {
+      "id": "Q3251800",
+      "label": "Minister of Health",
+      "title": "Minister of Health",
+      "description": "in Canada"
+    }
+  ],
   "Q3229624": [
     {
       "id": "Q15964890",
@@ -376,13 +384,25 @@
       "id": "Q3251800",
       "label": "Minister of Health",
       "title": "Minister of Health",
-      "description": "in Canada"
+      "description": "in Canada",
+      "qualifiers": {
+        "P580": "2008-10-30",
+        "P582": "2013-07-15",
+        "P1365": "Peter Kent",
+        "P1366": "Catherine McKenna"
+      }
     },
     {
       "id": "Q15964890",
       "label": "member of the House of Commons of Canada",
       "title": "member of the House of Commons of Canada",
       "description": "representative elected by the canadian voters"
+    },
+    {
+      "id": "Q3251775",
+      "label": "Minister of the Environment",
+      "title": "Minister of the Environment",
+      "description": "in Canada"
     }
   ],
   "Q3517031": [
@@ -1923,6 +1943,12 @@
       "label": "member of the House of Commons of Canada",
       "title": "member of the House of Commons of Canada",
       "description": "representative elected by the canadian voters"
+    },
+    {
+      "id": "Q3251800",
+      "label": "Minister of Health",
+      "title": "Minister of Health",
+      "description": "in Canada"
     }
   ],
   "Q3441372": [
