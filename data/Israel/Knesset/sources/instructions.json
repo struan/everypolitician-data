@@ -26,6 +26,21 @@
       }
     },
     {
+      "file": "morph/twitter.csv",
+      "create": {
+        "from": "morph",
+        "scraper": "everypolitician-scrapers/twitter-israel",
+        "query": "SELECT * FROM data ORDER BY id"
+      },
+      "source": "https://twitter.com/PolitwoopsIL/lists/mp",
+      "type": "person",
+      "merge": {
+        "incoming_field": "name",
+        "existing_field": "name",
+        "reconciliation_file": "reconciliation/twitter.csv"
+      }
+    },
+    {
       "file": "morph/terms.csv",
       "type": "term",
       "create": {
