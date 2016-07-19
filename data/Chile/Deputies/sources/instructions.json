@@ -5,7 +5,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/chile-opendata",
-        "query": "SELECT *, CASE district WHEN '0' THEN '' ELSE district END AS area FROM data"
+        "query": "SELECT *, CASE district WHEN '0' THEN '' ELSE district END AS area FROM data ORDER BY id"
       },
       "source": "http://opendata.congreso.cl",
       "type": "membership"
@@ -15,7 +15,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/chile-congress-wikidata",
-        "query": "SELECT * FROM data"
+        "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "http://wikidata.org/",
       "type": "wikidata",
