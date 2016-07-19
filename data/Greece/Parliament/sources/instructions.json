@@ -80,6 +80,21 @@
         "from": "group-wikidata",
         "source": "manual/group_wikidata.csv"
       }
+    },
+    {
+      "file": "morph/twitter.csv",
+      "create": {
+        "from": "morph",
+        "scraper": "everypolitician-scrapers/greek-mps-twitter",
+        "query": "SELECT * FROM data"
+      },
+      "type": "person",
+      "source": "https://twitter.com/damomac/lists/greek-mps-2015",
+      "merge": {
+        "incoming_field": "name",
+        "existing_field": "name__en",
+        "reconciliation_file": "reconciliation/twitter.csv"
+      }
     }
   ]
 }
