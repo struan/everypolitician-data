@@ -1846,6 +1846,10 @@
         {
           "identifier": "bello-s",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q25136908",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.congress.gov.ph/members/images/16th/bello-s.jpg",
@@ -1854,7 +1858,24 @@
           "url": "http://www.congress.gov.ph/members/images/16th/bello-s.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Silvestre_Bello_III"
+        }
+      ],
       "name": "Bello, Silvestre III H.",
+      "other_names": [
+        {
+          "name": "Silvestre Bello III",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Silvestre Bello III",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.congress.gov.ph/members/search.php?id=bello-s"
@@ -12213,11 +12234,17 @@
       ]
     },
     {
+      "gender": "male",
+      "given_name": "Antonio",
       "id": "3321524e-595e-410c-8d5f-c69bcdc5fed3",
       "identifiers": [
         {
           "identifier": "tinio-a",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q17370935",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.congress.gov.ph/members/images/16th/tinio-a.jpg",
@@ -12226,7 +12253,38 @@
           "url": "http://www.congress.gov.ph/members/images/16th/tinio-a.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Antonio_Tinio"
+        },
+        {
+          "note": "Wikipedia (tl)",
+          "url": "https://tl.wikipedia.org/wiki/Antonio_Tinio"
+        }
+      ],
       "name": "Tinio, Antonio L.",
+      "other_names": [
+        {
+          "name": "Antonio Tinio",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Antonio Tinio",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Antonio Tinio",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tl",
+          "name": "Antonio Tinio",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.congress.gov.ph/members/search.php?id=tinio-a"
@@ -12973,11 +13031,17 @@
       ]
     },
     {
+      "gender": "male",
+      "given_name": "Mark",
       "id": "6cc88da0-cb9c-48b6-86ca-f3fe7dbe8677",
       "identifiers": [
         {
           "identifier": "villar-m",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q17371175",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.congress.gov.ph/members/images/16th/villar-m.jpg",
@@ -12986,7 +13050,33 @@
           "url": "http://www.congress.gov.ph/members/images/16th/villar-m.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Mark_Villar"
+        },
+        {
+          "note": "Wikipedia (tl)",
+          "url": "https://tl.wikipedia.org/wiki/Mark_Villar"
+        }
+      ],
       "name": "Villar, Mark A.",
+      "other_names": [
+        {
+          "name": "Mark Villar",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Mark Villar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tl",
+          "name": "Mark Villar",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.congress.gov.ph/members/search.php?id=villar-m"
@@ -13212,11 +13302,17 @@
       ]
     },
     {
+      "gender": "male",
+      "given_name": "Ronaldo",
       "id": "dea45881-58cd-4f2a-8959-d7b9dfbdd5ce",
       "identifiers": [
         {
           "identifier": "zamora-r",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q12970122",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.congress.gov.ph/members/images/16th/zamora-r.jpg",
@@ -13225,7 +13321,38 @@
           "url": "http://www.congress.gov.ph/members/images/16th/zamora-r.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ronaldo_Zamora"
+        },
+        {
+          "note": "Wikipedia (tl)",
+          "url": "https://tl.wikipedia.org/wiki/Ronaldo_Zamora"
+        }
+      ],
       "name": "Zamora, Ronaldo B.",
+      "other_names": [
+        {
+          "name": "Ronaldo Zamora",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Ronaldo Zamora",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Ronaldo Zamora",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tl",
+          "name": "Ronaldo Zamora",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.congress.gov.ph/members/search.php?id=zamora-r"
