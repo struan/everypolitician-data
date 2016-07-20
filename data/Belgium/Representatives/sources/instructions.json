@@ -5,7 +5,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/belgium-represenatives-wikipedia",
-        "query": "SELECT *, null as source FROM data"
+        "query": "SELECT *, null as source FROM data ORDER BY name"
       },
       "source": "https://nl.wikipedia.org/",
       "type": "membership"
@@ -15,7 +15,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/belgium-lachambre",
-        "query": "SELECT * FROM data"
+        "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "http://www.lachambre.be/",
       "type": "person",
@@ -30,7 +30,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/belgium-represenatives-wikidata",
-        "query": "SELECT * FROM data"
+        "query": "SELECT * FROM data ORDER BY id"
       },
       "type": "wikidata",
       "merge": {
