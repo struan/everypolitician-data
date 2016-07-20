@@ -12,7 +12,11 @@
   },
   "include": {
     "self": [
-
+      {
+        "id": "Q25907282",
+        "name": "President of the Chamber of Representatives",
+        "description": "Head of the Belgian Chamber of Representatives"
+      }
     ],
     "other_legislatures": [
       {
@@ -52,6 +56,11 @@
         "description": "Belgian minister"
       },
       {
+        "id": "Q25907280",
+        "name": "Minister of the Civil Service",
+        "description": "Belgian minister"
+      },
+      {
         "id": "Q2746377",
         "name": "Minister-President of Flanders"
       },
@@ -81,18 +90,6 @@
   },
   "unknown": {
     "unknown": [
-      {
-        "id": "Q25907280",
-        "name": "Minister of the Civil Service",
-        "description": "Belgian minister",
-        "count": 1
-      },
-      {
-        "id": "Q25907282",
-        "name": "President of the Chamber of Representatives",
-        "description": "Head of the Belgian Chamber of Representatives",
-        "count": 1
-      },
       {
         "id": "Q16009147",
         "name": "mayor",
