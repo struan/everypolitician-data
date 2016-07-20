@@ -12,7 +12,11 @@
   },
   "include": {
     "self": [
-
+      {
+        "id": "Q25907282",
+        "name": "President of the Chamber of Representatives",
+        "description": "Head of the Belgian Chamber of Representatives"
+      }
     ],
     "other_legislatures": [
       {
@@ -49,6 +53,11 @@
       {
         "id": "Q25712502",
         "name": "Minister of Social Affairs and Health",
+        "description": "Belgian minister"
+      },
+      {
+        "id": "Q25907280",
+        "name": "Minister of the Civil Service",
         "description": "Belgian minister"
       },
       {
