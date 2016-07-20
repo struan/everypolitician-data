@@ -92,7 +92,7 @@
       "source": "https://twitter.com/damomac/lists/greek-mps-2015",
       "merge": {
         "incoming_field": "name",
-        "existing_field": "name__en",
+        "existing_field": "name__el",
         "reconciliation_file": "reconciliation/twitter.csv"
       }
     }
