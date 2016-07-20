@@ -4505,6 +4505,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "3313",
+          "scheme": "pace"
+        },
+        {
           "identifier": "Q3029701",
           "scheme": "wikidata"
         }
@@ -8780,6 +8784,10 @@
         {
           "identifier": "01016",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "6444",
+          "scheme": "pace"
         },
         {
           "identifier": "Q2926869",
@@ -21353,6 +21361,15 @@
       "start_date": "2014-07-22"
     },
     {
+      "area_id": "area/waals-brabant",
+      "legislative_period_id": "term/54",
+      "on_behalf_of_id": "party/ps",
+      "organization_id": "legislature",
+      "person_id": "014de10e-b557-4c6e-9b40-3be52de53f49",
+      "role": "member",
+      "start_date": "2014-07-30"
+    },
+    {
       "area_id": "area/luxemburg",
       "legislative_period_id": "term/54",
       "on_behalf_of_id": "party/cdh",
@@ -21368,6 +21385,15 @@
       "person_id": "038b3b3d-68a5-4123-96bc-aed68c850739",
       "role": "member",
       "start_date": "2014-10-11"
+    },
+    {
+      "area_id": "area/waals-brabant",
+      "legislative_period_id": "term/54",
+      "on_behalf_of_id": "party/mr",
+      "organization_id": "legislature",
+      "person_id": "038b3b3d-68a5-4123-96bc-aed68c850739",
+      "role": "member",
+      "start_date": "2014-10-14"
     },
     {
       "area_id": "area/west-vlaanderen",
@@ -21395,7 +21421,7 @@
     },
     {
       "area_id": "area/waals-brabant",
-      "end_date": "2014-10-11",
+      "end_date": "2014-10-14",
       "legislative_period_id": "term/54",
       "on_behalf_of_id": "party/mr",
       "organization_id": "legislature",
@@ -21533,6 +21559,15 @@
       "start_date": "2014-07-22"
     },
     {
+      "area_id": "area/brussel-hoofdstad",
+      "legislative_period_id": "term/54",
+      "on_behalf_of_id": "party/cdh",
+      "organization_id": "legislature",
+      "person_id": "20d31766-47ea-45bf-9a71-b5cb1953905f",
+      "role": "member",
+      "start_date": "2014-07-30"
+    },
+    {
       "area_id": "area/west-vlaanderen",
       "legislative_period_id": "term/54",
       "on_behalf_of_id": "party/sp.a",
@@ -21558,7 +21593,7 @@
     },
     {
       "area_id": "area/henegouwen",
-      "end_date": "2014-10-11",
+      "end_date": "2014-10-14",
       "legislative_period_id": "term/54",
       "on_behalf_of_id": "party/mr",
       "organization_id": "legislature",
@@ -21695,7 +21730,7 @@
     },
     {
       "area_id": "area/oost-vlaanderen",
-      "end_date": "2014-10-11",
+      "end_date": "2014-10-14",
       "legislative_period_id": "term/54",
       "on_behalf_of_id": "party/open_vld",
       "organization_id": "legislature",
@@ -21744,7 +21779,7 @@
     },
     {
       "area_id": "area/waals-brabant",
-      "end_date": "2014-07-22",
+      "end_date": "2014-07-30",
       "legislative_period_id": "term/54",
       "on_behalf_of_id": "party/ps",
       "organization_id": "legislature",
@@ -21769,7 +21804,7 @@
     },
     {
       "area_id": "area/antwerpen",
-      "end_date": "2014-10-11",
+      "end_date": "2014-10-14",
       "legislative_period_id": "term/54",
       "on_behalf_of_id": "party/n-va",
       "organization_id": "legislature",
@@ -21834,6 +21869,15 @@
       "start_date": "2014-10-11"
     },
     {
+      "area_id": "area/oost-vlaanderen",
+      "legislative_period_id": "term/54",
+      "on_behalf_of_id": "party/cd&v",
+      "organization_id": "legislature",
+      "person_id": "6102ee1a-7991-4b7c-8952-5a3c3c64d472",
+      "role": "member",
+      "start_date": "2014-10-14"
+    },
+    {
       "area_id": "area/brussel-hoofdstad",
       "legislative_period_id": "term/54",
       "on_behalf_of_id": "party/ps",
@@ -21892,7 +21936,7 @@
     },
     {
       "area_id": "area/vlaams-brabant",
-      "end_date": "2014-10-11",
+      "end_date": "2014-10-14",
       "legislative_period_id": "term/54",
       "on_behalf_of_id": "party/open_vld",
       "organization_id": "legislature",
@@ -21917,7 +21961,7 @@
     },
     {
       "area_id": "area/brussel-hoofdstad",
-      "end_date": "2014-07-22",
+      "end_date": "2014-07-30",
       "legislative_period_id": "term/54",
       "on_behalf_of_id": "party/cdh",
       "organization_id": "legislature",
@@ -21934,7 +21978,7 @@
     },
     {
       "area_id": "area/luik",
-      "end_date": "2015-04-19",
+      "end_date": "2015-04-23",
       "legislative_period_id": "term/54",
       "on_behalf_of_id": "party/cdh",
       "organization_id": "legislature",
@@ -21943,7 +21987,7 @@
     },
     {
       "area_id": "area/vlaams-brabant",
-      "end_date": "2014-10-11",
+      "end_date": "2014-10-14",
       "legislative_period_id": "term/54",
       "on_behalf_of_id": "party/cd&v",
       "organization_id": "legislature",
@@ -21985,7 +22029,7 @@
     },
     {
       "area_id": "area/luik",
-      "end_date": "2014-10-11",
+      "end_date": "2014-10-14",
       "legislative_period_id": "term/54",
       "on_behalf_of_id": "party/mr",
       "organization_id": "legislature",
@@ -22082,6 +22126,15 @@
       "start_date": "2014-10-11"
     },
     {
+      "area_id": "area/vlaams-brabant",
+      "legislative_period_id": "term/54",
+      "on_behalf_of_id": "party/n-va",
+      "organization_id": "legislature",
+      "person_id": "849c1a51-310f-465f-ba84-4bea681abb34",
+      "role": "member",
+      "start_date": "2014-10-14"
+    },
+    {
       "area_id": "area/oost-vlaanderen",
       "legislative_period_id": "term/54",
       "on_behalf_of_id": "party/sp.a",
@@ -22115,7 +22168,6 @@
     },
     {
       "area_id": "area/antwerpen",
-      "end_date": "2014-07-25",
       "legislative_period_id": "term/54",
       "on_behalf_of_id": "party/open_vld",
       "organization_id": "legislature",
@@ -22179,6 +22231,15 @@
       "person_id": "9687a1c7-c75d-4293-b602-dfc0c65c3001",
       "role": "member",
       "start_date": "2014-10-11"
+    },
+    {
+      "area_id": "area/henegouwen",
+      "legislative_period_id": "term/54",
+      "on_behalf_of_id": "party/mr",
+      "organization_id": "legislature",
+      "person_id": "9687a1c7-c75d-4293-b602-dfc0c65c3001",
+      "role": "member",
+      "start_date": "2014-10-14"
     },
     {
       "area_id": "area/limburg",
@@ -22351,6 +22412,15 @@
       "start_date": "2014-10-11"
     },
     {
+      "area_id": "area/limburg",
+      "legislative_period_id": "term/54",
+      "on_behalf_of_id": "party/n-va",
+      "organization_id": "legislature",
+      "person_id": "b46ce58e-21a7-4eff-96bb-c5620b78bd36",
+      "role": "member",
+      "start_date": "2014-10-14"
+    },
+    {
       "area_id": "area/luik",
       "legislative_period_id": "term/54",
       "on_behalf_of_id": "party/ps",
@@ -22407,6 +22477,15 @@
       "person_id": "bc11cd0c-3d67-4e7e-8132-36e45e6f3ab0",
       "role": "member",
       "start_date": "2015-04-19"
+    },
+    {
+      "area_id": "area/luik",
+      "legislative_period_id": "term/54",
+      "on_behalf_of_id": "party/cdh",
+      "organization_id": "legislature",
+      "person_id": "bc11cd0c-3d67-4e7e-8132-36e45e6f3ab0",
+      "role": "member",
+      "start_date": "2015-04-23"
     },
     {
       "area_id": "area/luik",
@@ -22482,7 +22561,7 @@
     },
     {
       "area_id": "area/limburg",
-      "end_date": "2014-10-11",
+      "end_date": "2014-10-14",
       "legislative_period_id": "term/54",
       "on_behalf_of_id": "party/n-va",
       "organization_id": "legislature",
@@ -22523,6 +22602,15 @@
       "start_date": "2014-10-11"
     },
     {
+      "area_id": "area/oost-vlaanderen",
+      "legislative_period_id": "term/54",
+      "on_behalf_of_id": "party/open_vld",
+      "organization_id": "legislature",
+      "person_id": "c992af10-62b0-4ecd-97d0-eb925968bb7f",
+      "role": "member",
+      "start_date": "2014-10-14"
+    },
+    {
       "area_id": "area/namen",
       "legislative_period_id": "term/54",
       "on_behalf_of_id": "party/ecolo",
@@ -22532,7 +22620,7 @@
     },
     {
       "area_id": "area/oost-vlaanderen",
-      "end_date": "2014-10-11",
+      "end_date": "2014-10-14",
       "legislative_period_id": "term/54",
       "on_behalf_of_id": "party/cd&v",
       "organization_id": "legislature",
@@ -22557,6 +22645,15 @@
       "start_date": "2014-10-11"
     },
     {
+      "area_id": "area/luik",
+      "legislative_period_id": "term/54",
+      "on_behalf_of_id": "party/mr",
+      "organization_id": "legislature",
+      "person_id": "d0db86fd-cea5-42b7-a6d3-0c2991b143f0",
+      "role": "member",
+      "start_date": "2014-10-14"
+    },
+    {
       "area_id": "area/vlaams-brabant",
       "legislative_period_id": "term/54",
       "on_behalf_of_id": "party/open_vld",
@@ -22567,11 +22664,29 @@
     },
     {
       "area_id": "area/vlaams-brabant",
-      "end_date": "2014-10-11",
+      "legislative_period_id": "term/54",
+      "on_behalf_of_id": "party/open_vld",
+      "organization_id": "legislature",
+      "person_id": "d2a22740-0381-47d4-84d6-5b5875979da3",
+      "role": "member",
+      "start_date": "2014-10-14"
+    },
+    {
+      "area_id": "area/vlaams-brabant",
+      "end_date": "2014-10-14",
       "legislative_period_id": "term/54",
       "on_behalf_of_id": "party/n-va",
       "organization_id": "legislature",
       "person_id": "d303762e-65f6-4258-98bc-b3c2ad76c562",
+      "role": "member"
+    },
+    {
+      "area_id": "area/brussel-hoofdstad",
+      "end_date": "2015-09-22",
+      "legislative_period_id": "term/54",
+      "on_behalf_of_id": "party/mr",
+      "organization_id": "legislature",
+      "person_id": "d4333f8f-4f3b-40a4-92e4-92c091c08fdf",
       "role": "member"
     },
     {
@@ -22626,6 +22741,15 @@
       "start_date": "2014-10-11"
     },
     {
+      "area_id": "area/vlaams-brabant",
+      "legislative_period_id": "term/54",
+      "on_behalf_of_id": "party/cd&v",
+      "organization_id": "legislature",
+      "person_id": "dfc4c345-63ec-4a75-887f-9df133f9b25e",
+      "role": "member",
+      "start_date": "2014-10-14"
+    },
+    {
       "area_id": "area/brussel-hoofdstad",
       "legislative_period_id": "term/54",
       "on_behalf_of_id": "party/cdh",
@@ -22667,6 +22791,15 @@
       "person_id": "e75e0a13-c23b-478e-a69f-9f5856becec6",
       "role": "member",
       "start_date": "2014-10-11"
+    },
+    {
+      "area_id": "area/antwerpen",
+      "legislative_period_id": "term/54",
+      "on_behalf_of_id": "party/n-va",
+      "organization_id": "legislature",
+      "person_id": "e75e0a13-c23b-478e-a69f-9f5856becec6",
+      "role": "member",
+      "start_date": "2014-10-14"
     },
     {
       "area_id": "area/oost-vlaanderen",

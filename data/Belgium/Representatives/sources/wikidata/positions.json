@@ -500,13 +500,31 @@
       "id": "Q24199589",
       "label": "Minister of Defence",
       "title": "Minister of Defence",
-      "description": "defence minister of Belgium"
+      "description": "defence minister of Belgium",
+      "qualifiers": {
+        "P580": "1999-07-12",
+        "P582": "2007-12-21",
+        "P1365": "Jean-Pol Poncelet",
+        "P1366": "Pieter De Crem"
+      }
     },
     {
       "id": "Q15705021",
       "label": "member of the Chamber of Representatives of Belgium",
       "title": "member of the Chamber of Representatives of Belgium",
       "description": "member of the lower house of the federal parliament of Belgium"
+    },
+    {
+      "id": "Q25907282",
+      "label": "President of the Chamber of Representatives",
+      "title": "President of the Chamber of Representatives",
+      "description": "Head of the Belgian Chamber of Representatives"
+    },
+    {
+      "id": "Q25907280",
+      "label": "Minister of the Civil Service",
+      "title": "Minister of the Civil Service",
+      "description": "Belgian minister"
     }
   ],
   "Q1974298": [
@@ -1428,6 +1446,12 @@
       "label": "member of the Chamber of Representatives of Belgium",
       "title": "member of the Chamber of Representatives of Belgium",
       "description": "member of the lower house of the federal parliament of Belgium"
+    },
+    {
+      "id": "Q24199589",
+      "label": "Minister of Defence",
+      "title": "Minister of Defence",
+      "description": "defence minister of Belgium"
     }
   ],
   "Q15992": [
