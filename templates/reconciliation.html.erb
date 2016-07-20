@@ -79,9 +79,11 @@
                   <dt title="{{ field }}">{{ field }}:</dt>
                   <dd>
                   {% if (field == 'image') { %}
-                    <img src="{{ person[field] }}" width="150">
+                    {% person[field].split(';').forEach(function(img) { %}
+                      <img src="{{ img }}" width="150">
+                    {% }) %}
                   {% } else { %}
-                    {{ person[field] }} 
+                    {{ person[field].split(';').join(', ') }}
                   {% } %}
                   </dd>
                 {% } %}
@@ -106,12 +108,14 @@
                   <dt title="{{ field }}">{{ field }}:</dt>
                   <dd>
                   {% if (field == 'image') { %}
-                    <img src="{{ person[field] }}" width="150">
+                    {% person[field].split(';').forEach(function(img) { %}
+                      <img src="{{ img }}" width="150">
+                    {% }) %}
                   {% } else { %}
-                    {% if (compare_with[field] == person[field]) { %} 
-                      <span class="match">{{ person[field] }}</span>
+                    {% if (_.any(person[field].split(';'), function(f) { f == compare_with[field] })) { %}
+                      <span class="match">{{ person[field].split(';').join(', ') }}</span>
                     {% } else { %}
-                      <span class="nomatch">{{ person[field] }}</span>
+                      <span class="nomatch">{{ person[field].split(';').join(', ') }}</span>
                     {% } %}
                   {% } %}
                   </dd>
