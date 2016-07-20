@@ -77,7 +77,7 @@
       "create": {
         "from": "morph",
         "scraper": "everypolitician-scrapers/twitter-australia-senate",
-        "query": "SELECT * FROM data"
+        "query": "SELECT * FROM data ORDER BY id"
       },
       "type": "person",
       "source": "https://twitter.com/AuSenate/lists/senators",
