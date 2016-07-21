@@ -82,6 +82,10 @@
                     {% person[field].split(';').forEach(function(img) { %}
                       <img src="{{ img }}" width="150">
                     {% }) %}
+                  {% } else if (field == 'twitter') { %}
+                    {% person[field].split(';').forEach(function(twitter) { %}
+                      {{ twitter_as_link(twitter) }}
+                    {% }) %}
                   {% } else { %}
                     {{ person[field].split(';').join(', ') }}
                   {% } %}
@@ -110,6 +114,10 @@
                   {% if (field == 'image') { %}
                     {% person[field].split(';').forEach(function(img) { %}
                       <img src="{{ img }}" width="150">
+                    {% }) %}
+                  {% } else if (field == 'twitter') { %}
+                    {% person[field].split(';').forEach(function(twitter) { %}
+                      {{ twitter_as_link(twitter) }}
                     {% }) %}
                   {% } else { %}
                     {% if (_.any(person[field].split(';'), function(f) { f == compare_with[field] })) { %}

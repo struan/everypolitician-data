@@ -103,6 +103,15 @@ var nextPairing = function nextPairing($currentPairing){
   }
 }
 
+var twitter_as_link = function twitter_as_link(str) {
+  if (str.startsWith('http')) {
+    return '<a href="' + str + '">' + str + '</a>';
+  } else {
+    return '<a href="https://twitter.com/' + str + '">' + str + '</a>';
+  }
+}
+
+
 var highlightExistingVotes = function highlightExistingVotes($pairing){
   var allVotesSoFar = allVotes();
 
@@ -250,6 +259,8 @@ jQuery(function($) {
       // return;
     // }
     
+    var alwaysInclude = ['image', 'twitter'];
+
     var incomingPersonFields = _.filter(Object.keys(incomingPerson), function(field) {
       return incomingPerson[field];
     });
@@ -257,7 +268,7 @@ jQuery(function($) {
       var person = existing[0];
       return Object.keys(person);
     })));
-    var commonFields = _.intersection(incomingPersonFields, existingPeopleFields);
+    var commonFields = _.union(alwaysInclude, _.intersection(incomingPersonFields, existingPeopleFields));
 
     var incomingPersonHTML = renderTemplate('incomingPerson', {
       person: incomingPerson,
@@ -269,7 +280,7 @@ jQuery(function($) {
     var existingPersonHTML = _.map(match.existing, function(existing) {
       var person = existing[0];
       person.matchStrength = Math.ceil(existing[1] * 100);
-      var fields = _.intersection(incomingPersonFields, Object.keys(person));
+      var fields = _.union(alwaysInclude, _.intersection(incomingPersonFields, Object.keys(person)));
 
       var incomingNameWords = incomingPerson[window.incomingField].toLowerCase().replace(',', '').split(/\s+/);
       var markedName = _.map(person[window.existingField].replace(',', '').split(/\s+/), function(word){
