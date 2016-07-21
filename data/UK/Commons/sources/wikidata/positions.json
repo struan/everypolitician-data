@@ -3136,10 +3136,16 @@
       "description": "United Kingdom government ministerial department"
     },
     {
-      "id": "Q1191394",
-      "label": "Department for Work and Pensions",
-      "title": "Department for Work and Pensions",
-      "description": "United Kingdom government ministerial department"
+      "id": "Q25935131",
+      "label": "Parliamentary Under Secretary of State for Work and Pensions",
+      "title": "Parliamentary Under Secretary of State for Work and Pensions",
+      "description": "UK parliamentary under-secretary",
+      "qualifiers": {
+        "P580": "2009-06-09",
+        "P582": "2010-05-11",
+        "P1365": "Kitty Ussher",
+        "P1366": "Maria Miller"
+      }
     },
     {
       "id": "Q16707842",
@@ -3967,10 +3973,10 @@
   ],
   "Q575217": [
     {
-      "id": "Q6865753",
-      "label": "Minister for Children",
-      "title": "Minister for Children",
-      "description": "Wikipedia disambiguation page"
+      "id": "Q25935122",
+      "label": "Minister of State for Children and Families",
+      "title": "Minister of State for Children and Families",
+      "description": "UK minister of state"
     },
     {
       "id": "Q23304231",
@@ -10672,10 +10678,10 @@
       "description": "voters' representative in the House of Commons of the United Kingdom"
     },
     {
-      "id": "Q3303456",
-      "label": "Leader of the Conservative Party",
-      "title": "Leader of the Conservative Party",
-      "description": "most senior politician within the Conservative Party in the United Kingdom",
+      "id": "Q24301902",
+      "label": "Deputy Leader of the Conservative Party",
+      "title": "Deputy Leader of the Conservative Party",
+      "description": "senior politician in the British Conservative Party",
       "qualifiers": {
         "P580": "1997-06-11",
         "P582": "1999-06-15",
@@ -16215,7 +16221,9 @@
       "description": "most senior politician within the Labour Party in the United Kingdom",
       "qualifiers": {
         "P580": "2010-09-25",
-        "P1365": "Gordon Brown"
+        "P1365": "Gordon Brown",
+        "P582": "2015-05-08",
+        "P1366": "Jeremy Corbyn"
       }
     },
     {
@@ -18840,10 +18848,16 @@
   ],
   "Q272500": [
     {
-      "id": "Q2612019",
-      "label": "Department for Education",
-      "title": "Department for Education",
-      "description": "United Kingdom government ministerial department"
+      "id": "Q25935122",
+      "label": "Minister of State for Children and Families",
+      "title": "Minister of State for Children and Families",
+      "description": "UK minister of state",
+      "qualifiers": {
+        "P580": "2010-05-13",
+        "P582": "2012-09-04",
+        "P1365": "Dawn Primarolo",
+        "P1366": "Elizabeth Truss"
+      }
     },
     {
       "id": "Q16707842",
@@ -24227,7 +24241,8 @@
         "P580": "2001-06-07",
         "P582": "2005-05-05",
         "P1365": "Sam Galbraith",
-        "P1366": "Boundary Commissions"
+        "P1366": "Boundary Commissions",
+        "P768": "Strathkelvin and Bearsden"
       }
     }
   ],
