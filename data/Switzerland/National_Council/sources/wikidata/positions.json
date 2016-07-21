@@ -2345,7 +2345,18 @@
       "id": "Q688230",
       "label": "President of the Swiss Confederation",
       "title": "President of the Swiss Confederation",
-      "description": "presiding member of the seven-member Swiss Federal Council"
+      "description": "presiding member of the seven-member Swiss Federal Council",
+      "qualifiers": {
+        "P580": "2013-01-01",
+        "P582": "2013-12-31",
+        "P1365": "Eveline Widmer-Schlumpf",
+        "P1366": "Didier Burkhalter"
+      }
+    },
+    {
+      "id": "Q25550811",
+      "label": "Vice president of Switzerland",
+      "title": "Vice president of Switzerland"
     }
   ],
   "Q116446": [
