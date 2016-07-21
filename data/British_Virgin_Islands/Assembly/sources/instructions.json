@@ -5,7 +5,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/british-virgin-islands-assembly-wikipedia",
-        "query": "SELECT * FROM data WHERE term >= 2007"
+        "query": "SELECT *, NULL as source FROM data WHERE term >= 2007 ORDER BY id"
       },
       "source": "https://en.wikipedia.org",
       "type": "membership"
@@ -15,7 +15,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/british-virgin-islands-assembly-wikidata",
-        "query": "SELECT * FROM data"
+        "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "http://wikidata.org/",
       "type": "wikidata",
