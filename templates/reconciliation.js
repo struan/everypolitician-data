@@ -103,6 +103,15 @@ var nextPairing = function nextPairing($currentPairing){
   }
 }
 
+var twitter_as_link = function twitter_as_link(str) {
+  if (str.startsWith('http')) {
+    return '<a href="' + str + '">' + str + '</a>';
+  } else {
+    return '<a href="https://twitter.com/' + str + '">' + str + '</a>';
+  }
+}
+
+
 var highlightExistingVotes = function highlightExistingVotes($pairing){
   var allVotesSoFar = allVotes();
 

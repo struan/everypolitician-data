@@ -84,11 +84,7 @@
                     {% }) %}
                   {% } else if (field == 'twitter') { %}
                     {% person[field].split(';').forEach(function(twitter) { %}
-                      {% if (twitter.startsWith('http')) { %}
-                        <a href="{{ twitter }}">{{ twitter }}</a>
-                      {% } else { %}
-                        <a href="https://twitter.com/{{ twitter }}">{{ twitter }}</a>
-                      {% } %}
+                      {{ twitter_as_link(twitter) }}
                     {% }) %}
                   {% } else { %}
                     {{ person[field].split(';').join(', ') }}
@@ -121,11 +117,7 @@
                     {% }) %}
                   {% } else if (field == 'twitter') { %}
                     {% person[field].split(';').forEach(function(twitter) { %}
-                      {% if (twitter.startsWith('http')) { %}
-                        <a href="{{ twitter }}">{{ twitter }}</a>
-                      {% } else { %}
-                        <a href="https://twitter.com/{{ twitter }}">{{ twitter }}</a>
-                      {% } %}
+                      {{ twitter_as_link(twitter) }}
                     {% }) %}
                   {% } else { %}
                     {% if (_.any(person[field].split(';'), function(f) { f == compare_with[field] })) { %}
