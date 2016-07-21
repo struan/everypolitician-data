@@ -4,6 +4,7 @@ require 'pathname'
 require 'pry'
 require 'tmpdir'
 require 'json'
+require_relative 'lib/git'
 
 ISO = IsoCountryCodes.for_select
 
@@ -61,13 +62,18 @@ task 'countries.json' do
   end
 
   data, _ = json_from('countries.json') rescue {}
-  
+  # If we know we'll need data for every country directory anyway,
+  # it's much faster to pass the single directory 'data' than a list
+  # of every country directory:
+  commit_metadata = file_to_commit_metadata(
+    to_build == 'data' ? ['data'] : countries.values.flatten
+  )
+
   countries.each do |c, hs|
     meta_file = hs.first + '/../meta.json'
     meta = File.exist?(meta_file) ? JSON.load(File.open meta_file) : {}
     name = meta['name'] || c.tr('_', ' ')
     slug = c.tr('_', '-')
-
     country = {
       name: name,
       # Deprecated — will be removed soon!
@@ -79,9 +85,7 @@ task 'countries.json' do
         name_file = h + '/names.csv'
         remote_source = 'https://cdn.rawgit.com/everypolitician/everypolitician-data/%s/%s'
         popolo, statement_count = json_from(json_file)
-
-        cmd = "git --no-pager log --format='%h|%at' -1 #{h}"
-        (sha, lastmod) = `#{cmd}`.chomp.split('|')
+        sha, lastmod = commit_metadata[json_file].values_at :sha, :timestamp
         lname = name_from(popolo)
         lslug = h.split('/').last.tr('_', '-')
         {
@@ -94,7 +98,10 @@ task 'countries.json' do
           lastmod: lastmod,
           person_count: popolo[:persons].size,
           sha: sha,
-          legislative_periods: terms_from(popolo, h).each { |t| t[:csv_url] = remote_source % [sha, t[:csv]] },
+          legislative_periods: terms_from(popolo, h).each { |t|
+            term_csv_sha = commit_metadata[t[:csv]][:sha]
+            t[:csv_url] = remote_source % [term_csv_sha, t[:csv]]
+          },
           statement_count: statement_count,
         }
       }
