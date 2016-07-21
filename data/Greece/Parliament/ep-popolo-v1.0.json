@@ -36605,6 +36605,7 @@
       ]
     },
     {
+      "birth_date": "1953-12-14",
       "contact_details": [
         {
           "type": "email",
@@ -36613,20 +36614,120 @@
       ],
       "email": "meimarakis@parliament.gr",
       "gender": "male",
+      "given_name": "Evangelos",
       "id": "a0fe99d7-1fc3-4ecd-bc16-65024a935afd",
       "identifiers": [
         {
           "identifier": "eb41b0cf-3eb8-42de-84ce-e2af5f33202b",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/0bghsc",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "1063048516",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "eb41b0cf-3eb8-42de-84ce-e2af5f33202b",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "312620729",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q1895909",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/meimarakisev.jpg",
       "images": [
         {
           "url": "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/meimarakisev.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Meimarakis.jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Evànguelos_Meimarakis"
+        },
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Evangelos_Meimarakis"
+        },
+        {
+          "note": "Wikipedia (da)",
+          "url": "https://da.wikipedia.org/wiki/Vangelis_Meimarakis"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Vangelis_Meimarakis"
+        },
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Ευάγγελος_Μεϊμαράκης"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Vangelis_Meimarakis"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Vangelis_Meimarakis"
+        },
+        {
+          "note": "Wikipedia (fa)",
+          "url": "https://fa.wikipedia.org/wiki/اوانجلوس_میماراکیس"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Evángelos_Meïmarákis"
+        },
+        {
+          "note": "Wikipedia (gl)",
+          "url": "https://gl.wikipedia.org/wiki/Vangelis_Meimarakis"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Vangelis_Meimarakis"
+        },
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/방겔리스_메이마라키스"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Evangelos_Meimarakis"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Vangelis_Meimarakis"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Wangelis_Meimarakis"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Vangelis_Meimarakis"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Меймаракис,_Вангелис"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Вангеліс_Меймаракіс"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/伊万杰洛斯·梅伊马拉基斯"
+        },
         {
           "note": "website",
           "url": "http://www.meimarakis.gr/"
@@ -36635,8 +36736,127 @@
       "name": "Meimarakis Evangelos - Vasileios",
       "other_names": [
         {
+          "name": "Vangelis Meimarakis",
+          "note": "alternate"
+        },
+        {
+          "lang": "ca",
+          "name": "Evànguelos Meimarakis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Vangelis Meimarakis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Vangelis Meimarakis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Βαγγέλης Μεϊμαράκης",
+          "note": "multilingual"
+        },
+        {
           "lang": "el",
           "name": "Μεϊμαράκης Ιωάννη Ευάγγελος - Βασίλειος",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Vangelis Meimarakis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Vangelis Meimarakis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "اوانجلوس میماراکیس",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Evángelos Meïmarákis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Vangelis Meimarakis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Vangelis Meimarakis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Vangelis Meimarakis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "エバンゲロス・メイマラキス",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "방겔리스 메이마라키스",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Vangelis Meimarakis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Vangelis Meimarakis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Ewangelos Meimarakis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Vangelis Meimarakis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Меймаракис, Вангелис",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Вангеліс Меймаракіс",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "伊万杰洛斯·梅伊马拉基斯",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hans",
+          "name": "伊万杰洛斯·梅伊马拉基斯",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "伊萬傑洛斯·梅伊馬拉基斯",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "伊萬傑洛斯·梅伊馬拉基斯",
           "note": "multilingual"
         }
       ],
@@ -38239,6 +38459,10 @@
       "id": "e335de91-d37e-483c-9337-ae0639f423d7",
       "identifiers": [
         {
+          "identifier": "49452",
+          "scheme": "biblionet"
+        },
+        {
           "identifier": "0c54b23b-d183-42e7-9e38-1033ad1c9a37",
           "scheme": "everypolitician_legacy"
         },
@@ -38690,18 +38914,152 @@
       ]
     },
     {
+      "birth_date": "1928-06-12",
+      "gender": "male",
+      "given_name": "Petros",
       "id": "79d47acd-7088-475d-a87e-2fa63ad240c8",
       "identifiers": [
         {
+          "identifier": "56804",
+          "scheme": "biblionet"
+        },
+        {
           "identifier": "5bfc3fc9-6c6c-4645-b92d-4958604dd570",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/04vpw7",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "1029833605",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "5bfc3fc9-6c6c-4645-b92d-4958604dd570",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "295390459",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q1252175",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/88/Molyviatis.JPG",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Molyviatis.JPG"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Петрос_Моливиатис"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Petros_Molyviatis"
+        },
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Πέτρος_Μολυβιάτης"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Petros_Molyviatis"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Petros_Moliviatis"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Pétros_Molyviátis"
+        },
+        {
+          "note": "Wikipedia (mk)",
+          "url": "https://mk.wikipedia.org/wiki/Петрос_Моливијатис"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Petros_Molyviatis"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Petros_Moliwiatis"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/佩特洛斯·莫利维亚提斯"
         }
       ],
       "name": "Molyviatis Petros",
       "other_names": [
         {
+          "name": "Petros Molyviatis",
+          "note": "alternate"
+        },
+        {
+          "lang": "bg",
+          "name": "Петрос Моливиатис",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Petros Molyviatis",
+          "note": "multilingual"
+        },
+        {
           "lang": "el",
           "name": "Μολυβιάτης Γεωργίου Πέτρος",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Πέτρος Μολυβιάτης",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Petros Molyviatis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Petros Molyviatis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Pétros G. Molyviátis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Petros Molyviatis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "Петрос Моливијатис",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Petros Molyviatis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Petros Moliwiatis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "佩特洛斯·莫利维亚提斯",
           "note": "multilingual"
         }
       ],
@@ -39439,18 +39797,72 @@
       ]
     },
     {
+      "birth_date": "1944-10-03",
+      "gender": "male",
+      "given_name": "Anastasio",
       "id": "ba1ddf78-fcc8-45b3-9057-4e5e64056d1c",
       "identifiers": [
         {
           "identifier": "0740e41b-b1b7-4962-a755-ba0d9e107d14",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "0740e41b-b1b7-4962-a755-ba0d9e107d14",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "Q18009829",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Αναστάσιος_Νεράντζης"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Anastasios_Nerantzis"
+        },
+        {
+          "note": "website",
+          "url": "http://www.nerantzis.gr/"
         }
       ],
       "name": "Nerantzis Anastasios",
       "other_names": [
         {
+          "name": "Anastasios Nerantzis",
+          "note": "alternate"
+        },
+        {
+          "lang": "ca",
+          "name": "Anastásios Nerándzis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Αναστάσιος Νεράντζης",
+          "note": "multilingual"
+        },
+        {
           "lang": "el",
           "name": "Νεράντζης Δημητρίου Αναστάσιος",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Anastasios Nerantzis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Anastásios Nerándzis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Anastasios Nerantzis",
           "note": "multilingual"
         }
       ],
