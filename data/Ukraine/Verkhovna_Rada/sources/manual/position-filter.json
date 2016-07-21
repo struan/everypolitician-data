@@ -36,6 +36,16 @@
         "name": "Minister of Foreign Affairs"
       },
       {
+        "id": "Q25827669",
+        "name": "Minister of Fuel and Energy",
+        "description": "Ukrainian minister"
+      },
+      {
+        "id": "Q25903997",
+        "name": "Minister of Interior Affairs",
+        "description": "Minister in Ukraine"
+      },
+      {
         "id": "Q3099723",
         "name": "Minister-President"
       },
@@ -53,6 +63,11 @@
     ],
     "other": [
       {
+        "id": "Q369716",
+        "name": "General Prosecutor of Ukraine",
+        "description": null
+      },
+      {
         "id": "Q23645130",
         "name": "Mayor of Donetsk"
       }
@@ -60,18 +75,6 @@
   },
   "unknown": {
     "unknown": [
-      {
-        "id": "Q25827669",
-        "name": "Minister of Fuel and Energy",
-        "description": "Ukrainian minister",
-        "count": 1
-      },
-      {
-        "id": "Q2445140",
-        "name": "Ministry of Internal Affairs",
-        "description": "agency of the Ukraine government",
-        "count": 1
-      },
       {
         "id": "Q30185",
         "name": "mayor",
