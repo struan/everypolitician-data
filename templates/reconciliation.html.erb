@@ -82,6 +82,14 @@
                     {% person[field].split(';').forEach(function(img) { %}
                       <img src="{{ img }}" width="150">
                     {% }) %}
+                  {% } else if (field == 'twitter') { %}
+                    {% person[field].split(';').forEach(function(twitter) { %}
+                      {% if (twitter.startsWith('http')) { %}
+                        <a href="{{ twitter }}">{{ twitter }}</a>
+                      {% } else { %}
+                        <a href="https://twitter.com/{{ twitter }}">{{ twitter }}</a>
+                      {% } %}
+                    {% }) %}
                   {% } else { %}
                     {{ person[field].split(';').join(', ') }}
                   {% } %}
@@ -110,6 +118,14 @@
                   {% if (field == 'image') { %}
                     {% person[field].split(';').forEach(function(img) { %}
                       <img src="{{ img }}" width="150">
+                    {% }) %}
+                  {% } else if (field == 'twitter') { %}
+                    {% person[field].split(';').forEach(function(twitter) { %}
+                      {% if (twitter.startsWith('http')) { %}
+                        <a href="{{ twitter }}">{{ twitter }}</a>
+                      {% } else { %}
+                        <a href="https://twitter.com/{{ twitter }}">{{ twitter }}</a>
+                      {% } %}
                     {% }) %}
                   {% } else { %}
                     {% if (_.any(person[field].split(';'), function(f) { f == compare_with[field] })) { %}
