@@ -5778,7 +5778,9 @@
       "description": "parliamentary position of the House of Representatives of Australia",
       "qualifiers": {
         "P580": "1985-09-05",
-        "P582": "1989-05-09"
+        "P582": "1989-05-09",
+        "P1365": "Andrew Peacock",
+        "P1366": "Andrew Peacock"
       }
     },
     {
@@ -5811,9 +5813,16 @@
       "description": "Australian minister"
     },
     {
-      "id": "Q6865979",
-      "label": "Minister for Trade",
-      "title": "Minister for Trade"
+      "id": "Q25909440",
+      "label": "Minister for Special Trade Negotiations",
+      "title": "Minister for Special Trade Negotiations",
+      "description": "Australian minister",
+      "qualifiers": {
+        "P580": "1977-07-17",
+        "P582": "1977-12-20",
+        "P1365": "",
+        "P1366": "Victor Garland"
+      }
     }
   ],
   "Q6767168": [
