@@ -21,6 +21,19 @@
       }
     },
     {
+      "file": "google/term-10-sheet.csv",
+      "create": {
+        "url": "https://docs.google.com/spreadsheets/d/1MldbvN9HaHgyRJ8riUV2fppEmYoJyP4EPRNkCjpz4E0/export?format=csv"
+      },
+      "source": "https://asl19.org/",
+      "type": "membership",
+      "merge": {
+        "incoming_field": "name",
+        "existing_field": "name",
+        "reconciliation_file": "reconciliation/term-10.csv"
+      }
+    },
+    {
       "file": "manual/terms.csv",
       "type": "term"
     },
