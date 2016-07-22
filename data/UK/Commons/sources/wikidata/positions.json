@@ -3130,10 +3130,16 @@
   ],
   "Q391605": [
     {
-      "id": "Q910019",
-      "label": "Department for Culture, Media and Sport",
-      "title": "Department for Culture, Media and Sport",
-      "description": "United Kingdom government ministerial department"
+      "id": "Q25939217",
+      "label": "Shadow Minister for Culture and Media",
+      "title": "Shadow Minister for Culture and Media",
+      "description": "UK shadow minister",
+      "qualifiers": {
+        "P580": "2011-10-07",
+        "P582": "2014-12-03",
+        "P1365": "Gloria De Piero",
+        "P1366": "Chris Bryant"
+      }
     },
     {
       "id": "Q25935131",
@@ -3157,6 +3163,18 @@
         "P768": "Bishop Auckland",
         "P1365": "Derek Foster, Baron Foster of Bishop Auckland"
       }
+    },
+    {
+      "id": "Q2636053",
+      "label": "Leader of the House of Commons",
+      "title": "Leader of the House of Commons",
+      "description": "responsible for arranging government business in the House of Commons"
+    },
+    {
+      "id": "Q25939219",
+      "label": "Shadow Minister for Welfare Reform",
+      "title": "Shadow Minister for Welfare Reform",
+      "description": "UK shadow minister"
     }
   ],
   "Q750104": [
@@ -6241,6 +6259,12 @@
       "label": "Member of Parliament in the United Kingdom",
       "title": "Member of Parliament in the United Kingdom",
       "description": "voters' representative in the House of Commons of the United Kingdom"
+    },
+    {
+      "id": "Q25939217",
+      "label": "Shadow Minister for Culture and Media",
+      "title": "Shadow Minister for Culture and Media",
+      "description": "UK shadow minister"
     }
   ],
   "Q264220": [
