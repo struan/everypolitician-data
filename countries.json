@@ -2260,11 +2260,11 @@
         "slug": "Sabor",
         "sources_directory": "data/Croatia/Sabor/sources",
         "popolo": "data/Croatia/Sabor/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3ef2422/data/Croatia/Sabor/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/0600433/data/Croatia/Sabor/ep-popolo-v1.0.json",
         "names": "data/Croatia/Sabor/names.csv",
         "lastmod": "1469195975",
         "person_count": 287,
-        "sha": "3ef2422",
+        "sha": "0600433",
         "legislative_periods": [
           {
             "id": "term/8",
@@ -2272,7 +2272,7 @@
             "start_date": "2015-12-28",
             "slug": "8",
             "csv": "data/Croatia/Sabor/term-8.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3ef2422/data/Croatia/Sabor/term-8.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/0600433/data/Croatia/Sabor/term-8.csv"
           },
           {
             "end_date": "2015-09-28",
@@ -2281,7 +2281,7 @@
             "start_date": "2011-12-22",
             "slug": "7",
             "csv": "data/Croatia/Sabor/term-7.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3ef2422/data/Croatia/Sabor/term-7.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/0600433/data/Croatia/Sabor/term-7.csv"
           }
         ],
         "statement_count": 9694
@@ -6610,11 +6610,11 @@
         "slug": "House-of-Representatives",
         "sources_directory": "data/Netherlands/House_of_Representatives/sources",
         "popolo": "data/Netherlands/House_of_Representatives/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/1a6900e/data/Netherlands/House_of_Representatives/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2f70651/data/Netherlands/House_of_Representatives/ep-popolo-v1.0.json",
         "names": "data/Netherlands/House_of_Representatives/names.csv",
-        "lastmod": "1468789900",
+        "lastmod": "1469212448",
         "person_count": 190,
-        "sha": "1a6900e",
+        "sha": "2f70651",
         "legislative_periods": [
           {
             "id": "term/2012",
@@ -6622,10 +6622,10 @@
             "start_date": "2012-09-20",
             "slug": "2012",
             "csv": "data/Netherlands/House_of_Representatives/term-2012.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/91dfcf1/data/Netherlands/House_of_Representatives/term-2012.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2f70651/data/Netherlands/House_of_Representatives/term-2012.csv"
           }
         ],
-        "statement_count": 15439
+        "statement_count": 15446
       }
     ]
   },
