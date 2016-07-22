@@ -2260,11 +2260,11 @@
         "slug": "Sabor",
         "sources_directory": "data/Croatia/Sabor/sources",
         "popolo": "data/Croatia/Sabor/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3ef2422/data/Croatia/Sabor/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/0600433/data/Croatia/Sabor/ep-popolo-v1.0.json",
         "names": "data/Croatia/Sabor/names.csv",
         "lastmod": "1469195975",
         "person_count": 287,
-        "sha": "3ef2422",
+        "sha": "0600433",
         "legislative_periods": [
           {
             "id": "term/8",
@@ -2272,7 +2272,7 @@
             "start_date": "2015-12-28",
             "slug": "8",
             "csv": "data/Croatia/Sabor/term-8.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3ef2422/data/Croatia/Sabor/term-8.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/0600433/data/Croatia/Sabor/term-8.csv"
           },
           {
             "end_date": "2015-09-28",
@@ -2281,7 +2281,7 @@
             "start_date": "2011-12-22",
             "slug": "7",
             "csv": "data/Croatia/Sabor/term-7.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3ef2422/data/Croatia/Sabor/term-7.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/0600433/data/Croatia/Sabor/term-7.csv"
           }
         ],
         "statement_count": 9694
@@ -8478,11 +8478,11 @@
         "slug": "Parliament",
         "sources_directory": "data/Sierra_Leone/Parliament/sources",
         "popolo": "data/Sierra_Leone/Parliament/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2ddacc8/data/Sierra_Leone/Parliament/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/7a83e3a/data/Sierra_Leone/Parliament/ep-popolo-v1.0.json",
         "names": "data/Sierra_Leone/Parliament/names.csv",
-        "lastmod": "1465843943",
+        "lastmod": "1469208942",
         "person_count": 124,
-        "sha": "2ddacc8",
+        "sha": "7a83e3a",
         "legislative_periods": [
           {
             "id": "term/2-4",
@@ -8493,7 +8493,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/0c40a52/data/Sierra_Leone/Parliament/term-2-4.csv"
           }
         ],
-        "statement_count": 1719
+        "statement_count": 1722
       }
     ]
   },
