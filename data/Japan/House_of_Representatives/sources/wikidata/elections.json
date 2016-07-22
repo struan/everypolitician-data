@@ -173,6 +173,7 @@
     "dates": [
       "1993-07-23"
     ],
+    "followed_by": "Japanese general election, 1996",
     "office": "Prime Minister of Japan",
     "successful_candidates": [
       "Morihiro Hosokawa"
@@ -807,6 +808,8 @@
     "dates": [
       "1969-12-27"
     ],
+    "follows": "Japanese general election, 1967",
+    "followed_by": "Japanese general election",
     "office": "Prime Minister of Japan",
     "successful_candidates": [
       "Eisaku Satō"
@@ -874,6 +877,8 @@
     "dates": [
       "1972-12-10"
     ],
+    "follows": "Japanese general election",
+    "followed_by": "Japanese general election",
     "office": "Prime Minister of Japan",
     "successful_candidates": [
       "Kakuei Tanaka"
@@ -1330,6 +1335,8 @@
     "dates": [
       "1976-12-05"
     ],
+    "follows": "Japanese general election",
+    "followed_by": "Japanese general election",
     "office": "Prime Minister of Japan",
     "successful_candidates": [
       "Takeo Miki"
@@ -1562,7 +1569,9 @@
     ],
     "dates": [
       "1949-01-23"
-    ]
+    ],
+    "follows": "1947 Japanese general election",
+    "followed_by": "Japanese general election, 1952"
   },
   "Q1766378": {
     "identifiers": [
@@ -2121,6 +2130,8 @@
     "dates": [
       "1955-02-27"
     ],
+    "follows": "Japanese general election",
+    "followed_by": "Japanese general election, 1958",
     "office": "Prime Minister of Japan",
     "successful_candidates": [
       "Ichirō Hatoyama"
@@ -2162,7 +2173,9 @@
     ],
     "dates": [
       "1958-05-22"
-    ]
+    ],
+    "follows": "Japanese general election, 1955",
+    "followed_by": "Japanese general election, 1960"
   },
   "Q6158646": {
     "identifiers": [
@@ -2200,7 +2213,9 @@
     ],
     "dates": [
       "1960-11-20"
-    ]
+    ],
+    "follows": "Japanese general election, 1958",
+    "followed_by": "Japanese general election, 1963"
   },
   "Q6158649": {
     "identifiers": [
@@ -2244,6 +2259,8 @@
     "dates": [
       "1963-11-21"
     ],
+    "follows": "Japanese general election, 1960",
+    "followed_by": "Japanese general election, 1967",
     "office": "Prime Minister of Japan",
     "successful_candidates": [
       "Kakuei Tanaka"
@@ -2301,6 +2318,8 @@
     "dates": [
       "1967-01-29"
     ],
+    "follows": "Japanese general election, 1963",
+    "followed_by": "Japanese general election",
     "office": "Prime Minister of Japan",
     "successful_candidates": [
       "Kakuei Tanaka"
@@ -2474,6 +2493,7 @@
     ],
     "dates": [
       "2016-07-10"
-    ]
+    ],
+    "follows": "Japanese House of Councillors election"
   }
 }
