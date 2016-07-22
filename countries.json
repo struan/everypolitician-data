@@ -2260,11 +2260,11 @@
         "slug": "Sabor",
         "sources_directory": "data/Croatia/Sabor/sources",
         "popolo": "data/Croatia/Sabor/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3ef2422/data/Croatia/Sabor/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/0600433/data/Croatia/Sabor/ep-popolo-v1.0.json",
         "names": "data/Croatia/Sabor/names.csv",
         "lastmod": "1469195975",
         "person_count": 287,
-        "sha": "3ef2422",
+        "sha": "0600433",
         "legislative_periods": [
           {
             "id": "term/8",
@@ -2272,7 +2272,7 @@
             "start_date": "2015-12-28",
             "slug": "8",
             "csv": "data/Croatia/Sabor/term-8.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3ef2422/data/Croatia/Sabor/term-8.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/0600433/data/Croatia/Sabor/term-8.csv"
           },
           {
             "end_date": "2015-09-28",
@@ -2281,7 +2281,7 @@
             "start_date": "2011-12-22",
             "slug": "7",
             "csv": "data/Croatia/Sabor/term-7.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3ef2422/data/Croatia/Sabor/term-7.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/0600433/data/Croatia/Sabor/term-7.csv"
           }
         ],
         "statement_count": 9694
@@ -9129,11 +9129,11 @@
         "slug": "Riksdag",
         "sources_directory": "data/Sweden/Riksdag/sources",
         "popolo": "data/Sweden/Riksdag/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/586388c/data/Sweden/Riksdag/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/00a14c9/data/Sweden/Riksdag/ep-popolo-v1.0.json",
         "names": "data/Sweden/Riksdag/names.csv",
-        "lastmod": "1469068505",
+        "lastmod": "1469211722",
         "person_count": 1619,
-        "sha": "586388c",
+        "sha": "00a14c9",
         "legislative_periods": [
           {
             "end_date": "2018-09-24",
@@ -9244,7 +9244,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/4f60050/data/Sweden/Riksdag/term-1976.csv"
           }
         ],
-        "statement_count": 94310
+        "statement_count": 94321
       }
     ]
   },
