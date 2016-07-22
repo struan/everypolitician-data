@@ -1642,8 +1642,29 @@
       ]
     },
     {
+      "gender": "female",
+      "given_name": "Rose",
       "id": "49f12138-60dc-4f12-9ad5-8ffa918148ed",
+      "identifiers": [
+        {
+          "identifier": "Q24852044",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Rose_Toki-Brown"
+        }
+      ],
       "name": "Rose Toki-Brown",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Rose Toki-Brown",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/Cook_Islands_general_election,_2014"
