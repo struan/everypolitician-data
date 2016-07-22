@@ -763,7 +763,8 @@
     ],
     "dates": [
       "1989"
-    ]
+    ],
+    "followed_by": "Polish parliamentary election, 1991"
   },
   "Q2536330": {
     "identifiers": [
@@ -816,7 +817,8 @@
     ],
     "dates": [
       "1922"
-    ]
+    ],
+    "followed_by": "1928 Polish legislative election"
   },
   "Q2608105": {
     "identifiers": [
@@ -885,6 +887,7 @@
     "dates": [
       "1991"
     ],
+    "followed_by": "Polish parliamentary election, 1993",
     "office": "Prime Minister of Poland",
     "successful_candidates": [
       "Jan Olszewski"
@@ -1213,7 +1216,8 @@
     ],
     "dates": [
       "1930"
-    ]
+    ],
+    "followed_by": "1935 Polish legislative election"
   },
   "Q3054954": {
     "identifiers": [
@@ -1309,7 +1313,9 @@
     ],
     "dates": [
       "1928"
-    ]
+    ],
+    "follows": "1922 Polish legislative election",
+    "followed_by": "1930 Polish legislative election"
   },
   "Q17507754": {
     "identifiers": [
@@ -1408,6 +1414,7 @@
     "dates": [
       "2015-10-25"
     ],
+    "followed_by": "Next Polish parliamentary election",
     "office": "Prime Minister of Poland"
   }
 }
