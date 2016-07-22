@@ -5,7 +5,7 @@
       "create": {
         "from": "morph",
         "scraper": "wfdd/inatsisartut-scraper",
-        "query": "SELECT * FROM data"
+        "query": "SELECT * FROM data ORDER BY term DESC, name"
       },
       "source": "http://en.inatsisartut.gl/members-of-inatsisartut.aspx",
       "type": "membership"
@@ -30,7 +30,7 @@
       "create": {
         "from": "morph",
         "scraper": "wfdd/inatsisartut-scraper",
-        "query": "SELECT * FROM terms"
+        "query": "SELECT * FROM terms ORDER BY id"
       },
       "source": "http://github.com/wfdd/inatsisartut-scraper",
       "type": "term"
