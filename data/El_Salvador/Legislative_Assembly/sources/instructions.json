@@ -32,6 +32,21 @@
         "from": "election-wikidata",
         "base": "Q25343631"
       }
+    },
+    {
+      "file": "morph/twitter.csv",
+      "create": {
+        "from": "morph",
+        "scraper": "everypolitician-scrapers/twitter-list-el-salvador",
+        "query": "SELECT * FROM data ORDER BY id"
+      },
+      "type": "person",
+      "source": "https://twitter.com/AsambleaSV/lists/diputadas-y-diputados",
+      "merge": {
+        "incoming_field": "name",
+        "existing_field": "name",
+        "reconciliation_file": "reconciliation/twitter.csv"
+      }
     }
   ]
 }
