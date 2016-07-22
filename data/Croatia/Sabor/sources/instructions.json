@@ -75,6 +75,21 @@
         "from": "election-wikidata",
         "base": "Q22276008"
       }
+    },
+    {
+      "file": "morph/twitter.csv",
+      "create": {
+        "from": "morph",
+        "scraper": "everypolitician-scrapers/twitter-list-croatia",
+        "query": "SELECT * FROM data ORDER BY id"
+      },
+      "type": "person",
+      "source": "https://twitter.com/electionista/lists/hr",
+      "merge": {
+        "incoming_field": "name",
+        "existing_field": "name",
+        "reconciliation_file": "reconciliation/twitter.csv"
+      }
     }
   ]
 }
