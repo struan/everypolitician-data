@@ -1486,33 +1486,53 @@
   ],
   "Q2048881": [
     {
-      "id": "Q83307",
-      "label": "minister",
-      "title": "minister",
-      "description": "politician who holds significant public office in a national or regional government"
-    },
-    {
-      "id": "Q27169",
-      "label": "member of the European Parliament",
-      "title": "member of the European Parliament",
-      "description": "person who has been elected to the European Parliament"
-    },
-    {
       "id": "Q18915989",
       "label": "Member of the Hellenic Parliament",
-      "title": "Member of the Hellenic Parliament"
+      "title": "Member of the Hellenic Parliament (of New Democracy)",
+      "qualifiers": {
+        "P580": "2000",
+        "P582": "2014",
+        "P768": "Athens B",
+        "P642": "New Democracy"
+      }
     },
     {
       "id": "Q6865935",
       "label": "Minister for National Defence of Greece",
-      "title": "Minister for National Defence of Greece",
-      "description": "Greek government minister"
+      "title": "Minister for National Defence of Greece (of Cabinet of Antonis Samaras)",
+      "description": "Greek government minister",
+      "qualifiers": {
+        "P580": "2012-06-21",
+        "P582": "2013-06-25",
+        "P1365": "Frangoulis Frangos",
+        "P1366": "Dimitris Avramopoulos",
+        "P642": "Cabinet of Antonis Samaras"
+      }
     },
     {
       "id": "Q23901330",
       "label": "Minister for Employment and Social Protection",
-      "title": "Minister for Employment and Social Protection",
-      "description": "Greek government minister"
+      "title": "Minister for Employment and Social Protection (of First Cabinet of Kostas Karamanlis)",
+      "description": "Greek government minister",
+      "qualifiers": {
+        "P580": "2004-03-10",
+        "P582": "2006-02-15",
+        "P1365": "Dimitris Reppas",
+        "P1366": "Savvas Tsitouridis",
+        "P642": "First Cabinet of Kostas Karamanlis"
+      }
+    },
+    {
+      "id": "Q19904334",
+      "label": "Minister of Culture of Greece",
+      "title": "Minister of Culture of Greece (of Cabinet of Antonis Samaras)",
+      "description": "Greek government minister",
+      "qualifiers": {
+        "P580": "2013-06-25",
+        "P582": "2014-06-10",
+        "P1365": "Konstantinos Tzavaras",
+        "P642": "Cabinet of Antonis Samaras"
+      }
     }
   ],
   "Q5998037": [
@@ -1790,7 +1810,7 @@
       "qualifiers": {
         "P580": "1989-07-02",
         "P582": "1989-10-12",
-        "P1365": "Q14337768",
+        "P1365": "Panagiotis Markopoulos",
         "P642": "Cabinet of Tzannis Tzannetakis"
       }
     },
@@ -2871,6 +2891,57 @@
       }
     }
   ],
+  "Q1252175": [
+    {
+      "id": "Q18915989",
+      "label": "Member of the Hellenic Parliament",
+      "title": "Member of the Hellenic Parliament (of New Democracy)",
+      "qualifiers": {
+        "P580": "1996",
+        "P582": "2004",
+        "P642": "New Democracy"
+      }
+    },
+    {
+      "id": "Q16147098",
+      "label": "Minister for Foreign Affairs of Greece",
+      "title": "Minister for Foreign Affairs of Greece (of Caretaker Cabinet of Panagiotis Pikrammenos)",
+      "description": "Greek government minister",
+      "qualifiers": {
+        "P580": "2012-05-17",
+        "P582": "2012-06-21",
+        "P1365": "Stavros Dimas",
+        "P1366": "Dimitris Avramopoulos",
+        "P642": "Caretaker Cabinet of Panagiotis Pikrammenos"
+      }
+    },
+    {
+      "id": "Q16147098",
+      "label": "Minister for Foreign Affairs of Greece",
+      "title": "Minister for Foreign Affairs of Greece (of First Cabinet of Kostas Karamanlis)",
+      "description": "Greek government minister",
+      "qualifiers": {
+        "P580": "2004-03-10",
+        "P582": "2006-02-15",
+        "P1365": "Anastasios Giannitsis",
+        "P1366": "Dora Bakoyannis",
+        "P642": "First Cabinet of Kostas Karamanlis"
+      }
+    },
+    {
+      "id": "Q16147098",
+      "label": "Minister for Foreign Affairs of Greece",
+      "title": "Minister for Foreign Affairs of Greece (of Caretaker cabinet of Vassiliki Thanou 2015)",
+      "description": "Greek government minister",
+      "qualifiers": {
+        "P580": "2015-08-28",
+        "P582": "2015-09-20",
+        "P1365": "Nikos Kotzias",
+        "P1366": "Nikos Kotzias",
+        "P642": "Caretaker cabinet of Vassiliki Thanou 2015"
+      }
+    }
+  ],
   "Q14723993": [
     {
       "id": "Q23653050",
@@ -3510,46 +3581,140 @@
       "title": "Member of the Hellenic Parliament"
     }
   ],
-  "Q535120": [
-    {
-      "id": "Q83307",
-      "label": "minister",
-      "title": "minister",
-      "description": "politician who holds significant public office in a national or regional government"
-    },
+  "Q1895909": [
     {
       "id": "Q18915989",
       "label": "Member of the Hellenic Parliament",
-      "title": "Member of the Hellenic Parliament"
+      "title": "Member of the Hellenic Parliament (of New Democracy)",
+      "qualifiers": {
+        "P580": "1989",
+        "P768": "Athens B",
+        "P642": "New Democracy"
+      }
+    },
+    {
+      "id": "Q7574264",
+      "label": "Speaker of the Hellenic Parliament",
+      "title": "Speaker of the Hellenic Parliament",
+      "qualifiers": {
+        "P580": "2012-06-29",
+        "P582": "2015-02-06",
+        "P1365": "Vyron Polydoras",
+        "P1366": "Zoi Konstantopoulou"
+      }
+    },
+    {
+      "id": "Q6865935",
+      "label": "Minister for National Defence of Greece",
+      "title": "Minister for National Defence of Greece (of Second Cabinet of Kostas Karamanlis)",
+      "description": "Greek government minister",
+      "qualifiers": {
+        "P580": "2008-02-15",
+        "P582": "2009-10-07",
+        "P1365": "Spilios Spiliotopoulos",
+        "P1366": "Evangelos Venizelos",
+        "P642": "Second Cabinet of Kostas Karamanlis"
+      }
     },
     {
       "id": "Q23638525",
       "label": "Q23638525",
-      "title": "Q23638525",
-      "description": "undersecretary to a ministry of the Greek government"
+      "title": "Q23638525 (of Cabinet of Konstantinos Mitsotakis)",
+      "description": "undersecretary to a ministry of the Greek government",
+      "qualifiers": {
+        "P580": "1992-12-03",
+        "P582": "1993-10-13",
+        "P1365": "Vasilis Papageorgopoulos",
+        "P1366": "Q16329248",
+        "P642": "Cabinet of Konstantinos Mitsotakis"
+      }
+    },
+    {
+      "id": "Q6508538",
+      "label": "Leader of the Opposition",
+      "title": "Leader of the Opposition (of New Democracy)",
+      "description": "parliamentary position of Greece",
+      "qualifiers": {
+        "P580": "2015-07-05",
+        "P582": "2015-11-24",
+        "P1365": "Antonis Samaras",
+        "P1366": "Ioannis Plakiotakis",
+        "P642": "New Democracy"
+      }
+    }
+  ],
+  "Q535120": [
+    {
+      "id": "Q18915989",
+      "label": "Member of the Hellenic Parliament",
+      "title": "Member of the Hellenic Parliament (of New Democracy)",
+      "qualifiers": {
+        "P580": "1985",
+        "P582": "2009",
+        "P768": "Athens B",
+        "P642": "New Democracy"
+      }
+    },
+    {
+      "id": "Q23638525",
+      "label": "Q23638525",
+      "title": "Q23638525 (of Cabinet of Konstantinos Mitsotakis)",
+      "description": "undersecretary to a ministry of the Greek government",
+      "qualifiers": {
+        "P580": "1990-04-11",
+        "P582": "1991-08-08",
+        "P1366": "Vasilis Papageorgopoulos",
+        "P642": "Cabinet of Konstantinos Mitsotakis"
+      }
     },
     {
       "id": "Q23653074",
       "label": "Q23653074",
-      "title": "Q23653074",
-      "description": "undersecretary to a ministry of the Greek government"
+      "title": "Q23653074 (of Cabinet of Konstantinos Mitsotakis)",
+      "description": "undersecretary to a ministry of the Greek government",
+      "qualifiers": {
+        "P580": "1992-12-03",
+        "P582": "1993-10-13",
+        "P1365": "Dimitris Sioufas",
+        "P1366": "Q19941961",
+        "P642": "Cabinet of Konstantinos Mitsotakis"
+      }
     },
     {
       "id": "Q23836192",
       "label": "Q23836192",
-      "title": "Q23836192"
-    },
-    {
-      "id": "Q23901330",
-      "label": "Minister for Employment and Social Protection",
-      "title": "Minister for Employment and Social Protection",
-      "description": "Greek government minister"
+      "title": "Q23836192 (of First Cabinet of Kostas Karamanlis)",
+      "qualifiers": {
+        "P580": "2004-03-18",
+        "P582": "2006-02-15",
+        "P1365": "Georgios Orfanos",
+        "P642": "First Cabinet of Kostas Karamanlis"
+      }
     },
     {
       "id": "Q23901456",
       "label": "Minister of Tourist Development of Greece",
-      "title": "Minister of Tourist Development of Greece",
-      "description": "Greek government minister"
+      "title": "Minister of Tourist Development of Greece (of First Cabinet of Kostas Karamanlis)",
+      "description": "Greek government minister",
+      "qualifiers": {
+        "P580": "2006-02-15",
+        "P582": "2007-09-19",
+        "P1366": "Aris Spiliotopoulos",
+        "P642": "First Cabinet of Kostas Karamanlis"
+      }
+    },
+    {
+      "id": "Q23901330",
+      "label": "Minister for Employment and Social Protection",
+      "title": "Minister for Employment and Social Protection (of Second Cabinet of Kostas Karamanlis)",
+      "description": "Greek government minister",
+      "qualifiers": {
+        "P580": "2007-12-17",
+        "P582": "2009-10-07",
+        "P1365": "Vasilios Magginas",
+        "P1366": "Andreas Loverdos",
+        "P642": "Second Cabinet of Kostas Karamanlis"
+      }
     }
   ],
   "Q3577025": [
@@ -3647,7 +3812,7 @@
         "P580": "1984-01-17",
         "P582": "1985-05-09",
         "P1365": "Georgios Gennimatas",
-        "P1366": "Q14337768",
+        "P1366": "Panagiotis Markopoulos",
         "P642": "First Cabinet of Andreas Papandreou"
       }
     },
@@ -3659,7 +3824,7 @@
       "qualifiers": {
         "P580": "1985-06-05",
         "P582": "1987-02-05",
-        "P1365": "Q14337768",
+        "P1365": "Panagiotis Markopoulos",
         "P1366": "Q18621822",
         "P642": "Second Cabinet of Andreas Papandreou"
       }
@@ -4090,6 +4255,64 @@
       "id": "Q24324132",
       "label": "Q24324132",
       "title": "Q24324132"
+    }
+  ],
+  "Q18009829": [
+    {
+      "id": "Q18915989",
+      "label": "Member of the Hellenic Parliament",
+      "title": "Member of the Hellenic Parliament (of New Democracy)",
+      "qualifiers": {
+        "P580": "1974",
+        "P582": "1977",
+        "P768": "Piraeus B",
+        "P642": "New Democracy"
+      }
+    },
+    {
+      "id": "Q18915989",
+      "label": "Member of the Hellenic Parliament",
+      "title": "Member of the Hellenic Parliament (of New Democracy)",
+      "qualifiers": {
+        "P580": "1989",
+        "P582": "1990",
+        "P768": "Piraeus B",
+        "P642": "New Democracy"
+      }
+    },
+    {
+      "id": "Q18915989",
+      "label": "Member of the Hellenic Parliament",
+      "title": "Member of the Hellenic Parliament (of New Democracy)",
+      "qualifiers": {
+        "P580": "1993",
+        "P582": "2014",
+        "P768": "Piraeus B",
+        "P642": "New Democracy"
+      }
+    },
+    {
+      "id": "Q23651600",
+      "label": "Q23651600",
+      "title": "Q23651600 (of First Cabinet of Kostas Karamanlis)",
+      "description": "undersecretary to a ministry of the Greek government",
+      "qualifiers": {
+        "P580": "2004-03-10",
+        "P582": "2006-02-15",
+        "P642": "First Cabinet of Kostas Karamanlis"
+      }
+    },
+    {
+      "id": "Q23639069",
+      "label": "Q23639069",
+      "title": "Q23639069 (of First Cabinet of Kostas Karamanlis)",
+      "description": "undersecretary to a ministry of the Greek government",
+      "qualifiers": {
+        "P580": "2006-02-15",
+        "P582": "2007-09-19",
+        "P1365": "Q19833600",
+        "P642": "First Cabinet of Kostas Karamanlis"
+      }
     }
   ],
   "Q18914803": [
