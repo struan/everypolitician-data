@@ -11,6 +11,7 @@ task :refresh_country_meta do
   jurisdiction = (legislature.P1001 || legislature.P131 || legislature.P17 || binding.pry).value
 
   data = {
+    id: SecureRandom.uuid,
     name: jurisdiction.label('en'),
     iso_code: jurisdiction.P297,
     wikidata: jurisdiction.id,
@@ -18,6 +19,6 @@ task :refresh_country_meta do
   
   puts JSON.pretty_generate(data)
 
-  File.write('../meta.json', JSON.pretty_generate(c_json))
+  File.write('../meta.json', JSON.pretty_generate(data))
 end
 
