@@ -13,7 +13,7 @@ task :refresh_country_meta do
   data = {
     id: SecureRandom.uuid,
     name: jurisdiction.label('en'),
-    iso_code: jurisdiction.P297,
+    iso_code: jurisdiction.P297 || jurisdiction.P300,
     wikidata: jurisdiction.id,
   }.merge(c_json)
   
