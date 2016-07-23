@@ -11,7 +11,7 @@ def json_from(json_file)
   statements = 0
   json = JSON.load(File.read(json_file), lambda { |h|
     statements += h.values.select { |v| v.class == String }.count if h.class == Hash 
-  }, symbolize_names: true)
+  }, symbolize_names: true, create_additions: false)
   return json, statements
 end
 
