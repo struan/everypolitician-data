@@ -20,5 +20,10 @@ task :refresh_country_meta do
   puts JSON.pretty_generate(data)
 
   File.write('../meta.json', JSON.pretty_generate(data))
+
+  unless l_json.key? :uuid
+    l_json[:uuid] = SecureRandom.uuid
+    File.write('meta.json', JSON.pretty_generate(l_json))
+  end
 end
 
