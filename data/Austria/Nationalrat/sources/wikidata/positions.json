@@ -61,7 +61,7 @@
     {
       "id": "Q1343573",
       "label": "Member of state parliament",
-      "title": "Member of state parliament (of Vorarlberg)",
+      "title": "Member of state parliament",
       "description": "representative of the voters to a state or provincial parliament",
       "qualifiers": {
         "P642": "Vorarlberg",
@@ -172,7 +172,7 @@
     {
       "id": "Q19360771",
       "label": "member of the Austrian federal council",
-      "title": "member of the Austrian federal council (of Vorarlberg)",
+      "title": "member of the Austrian federal council",
       "qualifiers": {
         "P642": "Vorarlberg",
         "P580": "1994-10-19",
@@ -182,7 +182,7 @@
     {
       "id": "Q1343573",
       "label": "Member of state parliament",
-      "title": "Member of state parliament (of Vorarlberg)",
+      "title": "Member of state parliament",
       "description": "representative of the voters to a state or provincial parliament",
       "qualifiers": {
         "P642": "Vorarlberg",
@@ -659,7 +659,7 @@
     {
       "id": "Q19360771",
       "label": "member of the Austrian federal council",
-      "title": "member of the Austrian federal council (of Vorarlberg)",
+      "title": "member of the Austrian federal council",
       "qualifiers": {
         "P642": "Vorarlberg",
         "P580": "1999-10-20",
@@ -1176,6 +1176,16 @@
   ],
   "Q1332812": [
     {
+      "id": "Q19666653",
+      "label": "Landesrat",
+      "title": "Landesrat",
+      "description": "member of a state government of an Austrian federal state",
+      "qualifiers": {
+        "P642": "Upper Austria",
+        "P580": "2015-10-23"
+      }
+    },
+    {
       "id": "Q17535155",
       "label": "Member of the National Council of Austria",
       "title": "Member of the National Council of Austria",
@@ -1190,21 +1200,11 @@
     {
       "id": "Q19360771",
       "label": "member of the Austrian federal council",
-      "title": "member of the Austrian federal council (of Upper Austria)",
+      "title": "member of the Austrian federal council",
       "qualifiers": {
         "P642": "Upper Austria",
         "P580": "2009-10-23",
         "P582": "2010-10-20"
-      }
-    },
-    {
-      "id": "Q19666653",
-      "label": "Landesrat",
-      "title": "Landesrat (of Upper Austria)",
-      "description": "member of a state government of an Austrian federal state",
-      "qualifiers": {
-        "P642": "Upper Austria",
-        "P580": "2015-10-23"
       }
     }
   ],
@@ -1492,6 +1492,16 @@
   ],
   "Q15787318": [
     {
+      "id": "Q1343573",
+      "label": "Member of state parliament",
+      "title": "Member of state parliament",
+      "description": "representative of the voters to a state or provincial parliament",
+      "qualifiers": {
+        "P642": "Vienna",
+        "P580": "2015"
+      }
+    },
+    {
       "id": "Q17535155",
       "label": "Member of the National Council of Austria",
       "title": "Member of the National Council of Austria",
@@ -1499,16 +1509,6 @@
         "P580": "2013-10-29",
         "P582": "2015-10-09",
         "P1366": "Claudia Gamon"
-      }
-    },
-    {
-      "id": "Q1343573",
-      "label": "Member of state parliament",
-      "title": "Member of state parliament (of Vienna)",
-      "description": "representative of the voters to a state or provincial parliament",
-      "qualifiers": {
-        "P642": "Vienna",
-        "P580": "2015"
       }
     },
     {
@@ -1611,7 +1611,7 @@
     {
       "id": "Q1343573",
       "label": "Member of state parliament",
-      "title": "Member of state parliament (of Vienna)",
+      "title": "Member of state parliament",
       "description": "representative of the voters to a state or provincial parliament",
       "qualifiers": {
         "P642": "Vienna",
