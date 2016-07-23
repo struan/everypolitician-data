@@ -41,8 +41,8 @@ class WikidataLookup
   def names_from(labels)
     labels.values.flatten.map do |label|
       {
-        lang: label['language'],
-        name: label['value'],
+        lang: label[:language],
+        name: label[:value],
         note: 'multilingual'
       }
     end
@@ -121,7 +121,7 @@ class P39sLookup < WikidataLookup
         id: posn.value.id,
         label: label,
         title: title,
-        description: posn.value.description('en').to_s,
+        description: posn.value.description(:en).to_s,
         qualifiers: qual_data,
       }.reject { |_,v| v.empty? } rescue {}
     end
