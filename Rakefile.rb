@@ -1,24 +1,11 @@
 require 'fileutils'
-require 'iso_country_codes'
 require 'pathname'
 require 'pry'
 require 'tmpdir'
 require 'json'
 require_relative 'lib/git'
 
-ISO = IsoCountryCodes.for_select
-
 @HOUSES = FileList['data/*/*/Rakefile.rb'].map { |f| f.pathmap '%d' }.reject { |p| File.exist? "#{p}/WIP" }
-
-def name_to_iso_code(name)
-  if code = ISO.find { |iname, _| iname == name }
-    return code.last
-  elsif code = ISO.find { |iname, _| iname.start_with? name }
-    return code.last
-  else
-    fail "Can't find country code for #{name}"
-  end
-end
 
 def json_from(json_file)
   statements = 0
@@ -78,7 +65,7 @@ task 'countries.json' do
       name: name,
       # Deprecated — will be removed soon!
       country: name,
-      code: (meta['iso_code'] || name_to_iso_code(name)).upcase,
+      code: meta['iso_code'].upcase,
       slug: slug,
       legislatures: hs.map { |h|
         json_file = h + '/ep-popolo-v1.0.json'
