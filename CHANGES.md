@@ -1,5 +1,10 @@
 ﻿# This file documents substantial changes to the format of data files
 
+2016-07-26
+
+* The `Organization` for each legislature now has a unique ID, rather
+than being simply "legislature" everywhere.
+
 2016-05-29
 
 * Some Election data is now available as Popolo `Event`s.
