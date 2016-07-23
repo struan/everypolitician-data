@@ -1216,6 +1216,28 @@
       "label": "member of the Australian Senate",
       "title": "member of the Australian Senate",
       "description": "Representative"
+    },
+    {
+      "id": "Q6865898",
+      "label": "Minister for Justice",
+      "title": "Minister for Justice",
+      "description": "Australian Minister"
+    },
+    {
+      "id": "Q6865868",
+      "label": "Minister for Home Affairs",
+      "title": "Minister for Home Affairs",
+      "description": "Australian ministerial position"
+    },
+    {
+      "id": "Q7574624",
+      "label": "Special Minister of State",
+      "title": "Special Minister of State"
+    },
+    {
+      "id": "Q6865874",
+      "label": "Minister for Human Services",
+      "title": "Minister for Human Services"
     }
   ],
   "Q6225870": [
@@ -1977,6 +1999,11 @@
       "label": "member of the Australian Senate",
       "title": "member of the Australian Senate",
       "description": "Representative"
+    },
+    {
+      "id": "Q17007714",
+      "label": "Minister for Indigenous Affairs",
+      "title": "Minister for Indigenous Affairs"
     }
   ],
   "Q3566032": [
@@ -2774,7 +2801,18 @@
       "id": "Q6865833",
       "label": "Minister for Finance",
       "title": "Minister for Finance",
-      "description": "Australian minister"
+      "description": "Australian minister",
+      "qualifiers": {
+        "P580": "1984-12-13",
+        "P582": "1990-04-04",
+        "P1365": "John Dawkins",
+        "P1366": "Ralph Willis"
+      }
+    },
+    {
+      "id": "Q6865964",
+      "label": "Minister for Resources and Energy",
+      "title": "Minister for Resources and Energy"
     }
   ],
   "Q5053981": [
@@ -2840,13 +2878,31 @@
     {
       "id": "Q3315112",
       "label": "Minister for Defence",
-      "title": "Minister for Defence"
+      "title": "Minister for Defence",
+      "qualifiers": {
+        "P580": "2013-09-18",
+        "P582": "2014-12-23",
+        "P1365": "Stephen Smith",
+        "P1366": "Kevin Andrews"
+      }
     },
     {
       "id": "Q6814428",
       "label": "member of the Australian Senate",
       "title": "member of the Australian Senate",
       "description": "Representative"
+    },
+    {
+      "id": "Q6865898",
+      "label": "Minister for Justice",
+      "title": "Minister for Justice",
+      "description": "Australian Minister",
+      "qualifiers": {
+        "P580": "2007-03-09",
+        "P582": "2007-12-03",
+        "P1365": "Chris Ellison",
+        "P1366": "Bob Debus"
+      }
     }
   ],
   "Q4768766": [
