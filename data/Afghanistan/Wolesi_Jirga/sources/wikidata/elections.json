@@ -92,6 +92,7 @@
       "2005-09-18"
     ],
     "follows": "Afghan parliamentary election, 1988",
+    "followed_by": "Afghan parliamentary election, 2010",
     "successful_candidates": [
       "Yunus Qanuni"
     ]
@@ -154,6 +155,7 @@
       "2010-09-18"
     ],
     "follows": "Afghan parliamentary election, 2005",
+    "followed_by": "Afghan parliamentary election, 2016",
     "eligible_voters": "10300000",
     "ballots_cast": "4216594"
   },
@@ -178,7 +180,9 @@
     ],
     "dates": [
       "1965-09-07"
-    ]
+    ],
+    "follows": "Afghan parliamentary election, 1965",
+    "followed_by": "Afghan parliamentary election, 1969"
   },
   "Q4689130": {
     "identifiers": [
@@ -202,7 +206,8 @@
     "dates": [
       "1969"
     ],
-    "follows": "Afghan parliamentary election, 1965"
+    "follows": "Afghan parliamentary election, 1965",
+    "followed_by": "Afghan parliamentary election, 1988"
   },
   "Q4689131": {
     "identifiers": [
@@ -227,6 +232,7 @@
       "1988"
     ],
     "follows": "Afghan parliamentary election, 1969",
+    "followed_by": "Afghan parliamentary election, 2005",
     "successful_candidates": [
       "Mohammad Hasan Sharq"
     ]
