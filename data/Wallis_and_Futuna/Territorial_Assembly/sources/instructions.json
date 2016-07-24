@@ -5,7 +5,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/wallis-and-futuna-territorial-assembly",
-        "query": "SELECT * FROM data"
+        "query": "SELECT * FROM data ORDER BY name"
       },
       "source": "https://fr.wikipedia.org/wiki/Assembl%C3%A9e_territoriale_des_%C3%AEles_Wallis_et_Futuna",
       "type": "membership"
@@ -15,7 +15,7 @@
       "create": {
         "from": "morph",
         "scraper": "wfdd/wf-assemblee-territoriale-scraper",
-        "query": "SELECT *, name AS id FROM data"
+        "query": "SELECT *, name AS id FROM data ORDER BY name"
       },
       "source": "http://www.wallis-et-futuna.pref.gouv.fr/Wallis-et-Futuna/Organisation-institutionnelle/Assemblee-Territoriale-collectivite",
       "type": "person",
@@ -30,7 +30,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/wallis-and-futuna-territorial-assembly-wikidata",
-        "query": "SELECT * FROM data"
+        "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "http://wikidata.org/",
       "type": "wikidata",
