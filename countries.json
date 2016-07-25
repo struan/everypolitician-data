@@ -4553,11 +4553,11 @@
         "slug": "Dail",
         "sources_directory": "data/Ireland/Dail/sources",
         "popolo": "data/Ireland/Dail/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/6967bcf/data/Ireland/Dail/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/65f85ff/data/Ireland/Dail/ep-popolo-v1.0.json",
         "names": "data/Ireland/Dail/names.csv",
-        "lastmod": "1469384124",
+        "lastmod": "1469260422",
         "person_count": 226,
-        "sha": "6967bcf",
+        "sha": "65f85ff",
         "legislative_periods": [
           {
             "id": "term/32",
@@ -4565,7 +4565,7 @@
             "start_date": "2016-03-10",
             "slug": "32",
             "csv": "data/Ireland/Dail/term-32.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/6f7ad2d/data/Ireland/Dail/term-32.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/65f85ff/data/Ireland/Dail/term-32.csv"
           },
           {
             "end_date": "2016-03-02",
@@ -4574,10 +4574,10 @@
             "start_date": "2011-03-09",
             "slug": "31",
             "csv": "data/Ireland/Dail/term-31.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/6f7ad2d/data/Ireland/Dail/term-31.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/65f85ff/data/Ireland/Dail/term-31.csv"
           }
         ],
-        "statement_count": 13165
+        "statement_count": 13845
       }
     ]
   },
