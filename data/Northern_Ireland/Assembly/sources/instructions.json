@@ -14,7 +14,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/ni-assembly-wikidata",
-        "query": "SELECT *, REPLACE(SUBSTR(REPLACE(identifier__parliamentDOTuk,'/','-------'), -6), '-', '') AS parlid FROM data"
+        "query": "SELECT *, REPLACE(SUBSTR(REPLACE(identifier__parliamentDOTuk,'/','-------'), -6), '-', '') AS parlid FROM data ORDER BY id"
       },
       "source": "http://wikidata.org/",
       "type": "wikidata",
