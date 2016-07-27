@@ -111,7 +111,7 @@ class P39sLookup < WikidataLookup
     p39s.map do |posn|
       qualifiers = posn.qualifiers
       qual_data  = Hash[qualifiers.properties.map { |p| 
-        [p, qualifiers[p].value.to_s]
+        [p.to_s, qualifiers[p].value.to_s]
       }]
 
       title = label = posn.value.to_s
