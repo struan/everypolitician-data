@@ -84,7 +84,7 @@
                     {% }) %}
                   {% } else if (field == 'twitter') { %}
                     {% person[field].split(';').forEach(function(twitter) { %}
-                      {{ twitter_as_link(twitter) }}
+                      {{ twitterAsLink(twitter) }}
                     {% }) %}
                   {% } else { %}
                     {{ person[field].split(';').join(', ') }}
@@ -117,7 +117,7 @@
                     {% }) %}
                   {% } else if (field == 'twitter') { %}
                     {% person[field].split(';').forEach(function(twitter) { %}
-                      {{ twitter_as_link(twitter) }}
+                      {{ twitterAsLink(twitter) }}
                     {% }) %}
                   {% } else { %}
                     {% if (_.any(person[field].split(';'), function(f) { f == compare_with[field] })) { %}

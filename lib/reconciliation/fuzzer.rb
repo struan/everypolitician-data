@@ -1,4 +1,5 @@
 require 'fuzzy_match'
+require 'twitter_username_extractor'
 require 'unicode_utils'
 
 # Given a list of existing People records (each of which must have a UUID)
@@ -18,14 +19,12 @@ module Reconciliation
       @instructions = instructions
     end
 
+
     # Ensure we only have one row per UUID, and generate for each row a
-    # 'fuzzit' field that we'll be checking against. For now this just
-    # defaults to the lowercase value of the 'existing_field' field
-    # (usually name) — later we'll want to be able to expand this to 
-    # something more complex. (e.g. multiple fields)
-    #
+    # 'fuzzit' field that we'll be checking against. 
+    # TODO allow this to be more complex — e.g. multiple fields
     def existing_people
-      @_existing_people ||= existing_rows.uniq { |r| r[:uuid] }.each { |r| r[:fuzzit] = UnicodeUtils.downcase(r[existing_field].to_s) }
+      @_existing_people ||= existing_rows.uniq { |r| r[:uuid] }.each { |r| r[:fuzzit] = comparable(r[existing_field], existing_field) }
     end
 
     def fuzzer
@@ -38,7 +37,7 @@ module Reconciliation
           warn "No #{incoming_field} in #{incoming_row.reject { |k, v| v.to_s.empty? }}".red
           next
         end
-        matches = fuzzer.find_all_with_score(UnicodeUtils.downcase(incoming_row[incoming_field]))
+        matches = fuzzer.find_all_with_score(comparable(incoming_row[incoming_field], incoming_field))
         unless matches.any?
           warn "No fuzzed matches for #{incoming_row.reject { |k, v| v.to_s.empty? }}"
           next
@@ -65,6 +64,20 @@ module Reconciliation
       instructions[:existing_field].to_sym
     rescue NoMethodError
       raise('Need an `existing_field` to match on')
+    end
+
+    # Standardise the strings we're comparing 
+    # For now just downcase it (in a Unicode-friendly way); later we'll
+    # want to make this more cmomplex (e.g. accent folding)
+    def comparable(str, field=nil)
+      return if str.to_s.empty?
+      if field == :twitter
+        # Convert all the values to simple twitter-names
+        return str.to_s.split(';').map do |h| 
+          TwitterUsernameExtractor.extract(h) rescue nil
+        end.compact.uniq.join(";")
+      end
+      UnicodeUtils.downcase(str.to_s)
     end
 
     def display(row)
