@@ -1,4 +1,5 @@
 require 'fuzzy_match'
+require 'twitter_username_extractor'
 require 'unicode_utils'
 
 # Given a list of existing People records (each of which must have a UUID)
@@ -23,7 +24,7 @@ module Reconciliation
     # 'fuzzit' field that we'll be checking against. 
     # TODO allow this to be more complex — e.g. multiple fields
     def existing_people
-      @_existing_people ||= existing_rows.uniq { |r| r[:uuid] }.each { |r| r[:fuzzit] = comparable(r[existing_field]) }
+      @_existing_people ||= existing_rows.uniq { |r| r[:uuid] }.each { |r| r[:fuzzit] = comparable(r[existing_field], existing_field) }
     end
 
     def fuzzer
@@ -36,7 +37,7 @@ module Reconciliation
           warn "No #{incoming_field} in #{incoming_row.reject { |k, v| v.to_s.empty? }}".red
           next
         end
-        matches = fuzzer.find_all_with_score(comparable(incoming_row[incoming_field]))
+        matches = fuzzer.find_all_with_score(comparable(incoming_row[incoming_field], incoming_field))
         unless matches.any?
           warn "No fuzzed matches for #{incoming_row.reject { |k, v| v.to_s.empty? }}"
           next
@@ -69,8 +70,12 @@ module Reconciliation
     # For now just downcase it (in a Unicode-friendly way); later we'll
     # want to make this more cmomplex (e.g. accent folding)
     def comparable(str, field=nil)
+      return if str.to_s.empty?
       if field == :twitter
-        binding.pry
+        # Convert all the values to simple twitter-names
+        return str.to_s.split(';').map do |h| 
+          TwitterUsernameExtractor.extract(h) rescue nil
+        end.compact.uniq.join(";")
       end
       UnicodeUtils.downcase(str.to_s)
     end

@@ -12,6 +12,12 @@ GIT
       everypolitician-popolo
 
 GIT
+  remote: git://github.com/everypolitician/twitter_username_extractor.git
+  revision: 891a0f4ea587195fc952305562048f53498b2d84
+  specs:
+    twitter_username_extractor (0.1.0)
+
+GIT
   remote: git://github.com/everypolitician/wikisnakker.git
   revision: c2895a600fb78b2ad0df3e8ae3d24b4586a94179
   specs:
@@ -70,7 +76,6 @@ GEM
     safe_yaml (1.0.4)
     sass (3.4.22)
     slop (3.6.0)
-    twitter_username_extractor (0.1.0)
     unf (0.1.4)
       unf_ext
     unf_ext (0.0.7.2)
@@ -103,6 +108,7 @@ DEPENDENCIES
   rest-client
   sass
   slop (~> 3.6.0)
+  twitter_username_extractor!
   unicode_utils
   vcr
   webmock
