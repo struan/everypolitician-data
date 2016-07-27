@@ -1464,6 +1464,12 @@
       "id": "Q17592486",
       "label": "member of the Parliament of Finland",
       "title": "member of the Parliament of Finland"
+    },
+    {
+      "id": "Q15934457",
+      "label": "Minister of Transport",
+      "title": "Minister of Transport",
+      "description": "in Finland"
     }
   ],
   "Q503143": [
@@ -1810,6 +1816,15 @@
   ],
   "Q1038599": [
     {
+      "id": "Q188393",
+      "label": "Minister of Defence",
+      "title": "Minister of Defence",
+      "description": "in Finland",
+      "qualifiers": {
+        "P580": "2012-07-05"
+      }
+    },
+    {
       "id": "Q27169",
       "label": "member of the European Parliament",
       "title": "member of the European Parliament",
@@ -1817,15 +1832,6 @@
       "qualifiers": {
         "P580": "2009-07-14",
         "P582": "2012-07-04"
-      }
-    },
-    {
-      "id": "Q188393",
-      "label": "Minister of Defence",
-      "title": "Minister of Defence",
-      "description": "in Finland",
-      "qualifiers": {
-        "P580": "2012-07-05"
       }
     }
   ],
@@ -3892,7 +3898,13 @@
       "id": "Q15934457",
       "label": "Minister of Transport",
       "title": "Minister of Transport",
-      "description": "in Finland"
+      "description": "in Finland",
+      "qualifiers": {
+        "P580": "2014-04-04",
+        "P582": "2014-06-24",
+        "P1365": "Merja Kyllönen",
+        "P1366": "Paula Risikko"
+      }
     },
     {
       "id": "Q11895091",
