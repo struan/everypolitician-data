@@ -5957,6 +5957,9 @@
         },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Dora_Bakoyannis-headshot.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/378800000644725467/296cbcf33d5ad5068e8c75950c4e9e15.jpeg"
         }
       ],
       "links": [
@@ -6077,6 +6080,10 @@
       "other_names": [
         {
           "name": "Dora Bakoyannis",
+          "note": "alternate"
+        },
+        {
+          "name": "Ντόρα Μπακογιάννη",
           "note": "alternate"
         },
         {
@@ -11146,6 +11153,10 @@
         {
           "type": "email",
           "value": "a.davakis@parliament.gr"
+        },
+        {
+          "type": "twitter",
+          "value": "adavakis"
         }
       ],
       "email": "a.davakis@parliament.gr",
@@ -11161,9 +11172,16 @@
       "images": [
         {
           "url": "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/Davakis%20Athanasios_1.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/434178912042893312/GlKdX9XK.jpeg"
         }
       ],
       "links": [
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/adavakis"
+        },
         {
           "note": "website",
           "url": "http://www.thanasisdavakis.gr/"
@@ -11171,6 +11189,10 @@
       ],
       "name": "Davakis Athanasios",
       "other_names": [
+        {
+          "name": "Θανάσης Π. Δαβάκης",
+          "note": "alternate"
+        },
         {
           "lang": "el",
           "name": "Δαβάκης Παναγιώτη Αθανάσιος",
@@ -25827,6 +25849,12 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "hariskatanas"
+        }
+      ],
       "id": "db21bf26-5a24-48c7-9097-bb4a167fce72",
       "identifiers": [
         {
@@ -25834,8 +25862,24 @@
           "scheme": "everypolitician_legacy"
         }
       ],
+      "image": "https://pbs.twimg.com/profile_images/545916317497171968/izLs3eVj.jpeg",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/545916317497171968/izLs3eVj.jpeg"
+        }
+      ],
+      "links": [
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/hariskatanas"
+        }
+      ],
       "name": "Katanas Charisios",
       "other_names": [
+        {
+          "name": "haris katanas",
+          "note": "alternate"
+        },
         {
           "lang": "el",
           "name": "Κάτανας Λαζάρου Χαρίσιος",
@@ -27451,6 +27495,10 @@
         {
           "type": "email",
           "value": "ol.kefalogianni@parliament.gr"
+        },
+        {
+          "type": "twitter",
+          "value": "olgakef"
         }
       ],
       "email": "ol.kefalogianni@parliament.gr",
@@ -27486,6 +27534,9 @@
         },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Olga_Kefalogianni_2014d_cropped.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/697045347277914114/GwlC3mx4.jpg"
         }
       ],
       "links": [
@@ -27510,6 +27561,10 @@
           "url": "https://it.wikipedia.org/wiki/Olga_Kefalogianni"
         },
         {
+          "note": "twitter",
+          "url": "https://twitter.com/olgakef"
+        },
+        {
           "note": "website",
           "url": "http://www.olgakefalogianni.gr"
         }
@@ -27518,6 +27573,10 @@
       "other_names": [
         {
           "name": "Olga Kefalogianni",
+          "note": "alternate"
+        },
+        {
+          "name": "Όλγα Κεφαλογιάννη",
           "note": "alternate"
         },
         {
@@ -29097,6 +29156,10 @@
         {
           "type": "email",
           "value": "press.odysseas@gmail.com"
+        },
+        {
+          "type": "twitter",
+          "value": "Odysseas_"
         }
       ],
       "email": "press.odysseas@gmail.com",
@@ -29112,9 +29175,16 @@
       "images": [
         {
           "url": "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/Konstantinopoulos%20Odysseas%202.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/601838469325955073/Icg4qyBK.jpg"
         }
       ],
       "links": [
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/Odysseas_"
+        },
         {
           "note": "website",
           "url": "http://www.odysseasnet.gr"
@@ -29122,6 +29192,10 @@
       ],
       "name": "Konstantinopoulos Odysseas",
       "other_names": [
+        {
+          "name": "ΚΩΝΣΤΑΝΤΙΝΟΠΟΥΛΟΣ ΟΔ",
+          "note": "alternate"
+        },
         {
           "lang": "el",
           "name": "Κωνσταντινόπουλος Κωνσταντίνου Οδυσσέας",
@@ -55758,6 +55832,10 @@
         {
           "type": "email",
           "value": "e.stamataki@parliament.gr"
+        },
+        {
+          "type": "twitter",
+          "value": "elen_stamataki"
         }
       ],
       "email": "e.stamataki@parliament.gr",
@@ -55773,10 +55851,23 @@
       "images": [
         {
           "url": "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/stamataki%20eleni%20_1.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/440427227973312512/01AJ4t3q.jpeg"
+        }
+      ],
+      "links": [
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/elen_stamataki"
         }
       ],
       "name": "Stamataki Eleni",
       "other_names": [
+        {
+          "name": "ΕΛΕΝΗ ΣΤΑΜΑΤΑΚΗ",
+          "note": "alternate"
+        },
         {
           "lang": "el",
           "name": "Σταματάκη Παναγιώτη Ελένη",
