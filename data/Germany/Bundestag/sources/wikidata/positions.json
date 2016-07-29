@@ -5123,11 +5123,11 @@
     {
       "id": "Q736559",
       "label": "Secretary of State",
-      "title": "Secretary of State (of German Chancellery)",
+      "title": "Secretary of State (of Federal Chancellery)",
       "description": "minister or senior civil servant in the government of a state",
       "qualifiers": {
         "P580": "1969",
-        "P642": "German Chancellery"
+        "P642": "Federal Chancellery"
       }
     }
   ],
@@ -6500,6 +6500,12 @@
       "label": "Minister of Defence",
       "title": "Minister of Defence",
       "description": "German cabinet position"
+    },
+    {
+      "id": "Q25360395",
+      "label": "President of the Party of European Socialists",
+      "title": "President of the Party of European Socialists",
+      "description": "EU party leader"
     }
   ],
   "Q16433": [
@@ -13258,7 +13264,7 @@
       "title": "Bundesminister",
       "description": "cabinet office in the government of Germany",
       "qualifiers": {
-        "P488": "German Chancellery",
+        "P488": "Federal Chancellery",
         "P580": "2013-12-17"
       }
     },
@@ -19199,6 +19205,17 @@
       "title": "member of the German Bundestag",
       "description": "deputy of the German parliament",
       "qualifiers": {
+        "P580": "2013-10-22",
+        "P582": "2014-11-11",
+        "P1366": "Angelika Glöckner"
+      }
+    },
+    {
+      "id": "Q1939555",
+      "label": "member of the German Bundestag",
+      "title": "member of the German Bundestag",
+      "description": "deputy of the German parliament",
+      "qualifiers": {
         "P580": "2009-10-27",
         "P582": "2013-10-22"
       }
@@ -19224,15 +19241,9 @@
       }
     },
     {
-      "id": "Q1939555",
-      "label": "member of the German Bundestag",
-      "title": "member of the German Bundestag",
-      "description": "deputy of the German parliament",
-      "qualifiers": {
-        "P580": "2013-10-22",
-        "P582": "2014-11-11",
-        "P1366": "Angelika Glöckner"
-      }
+      "id": "Q18618563",
+      "label": "Member of Landtag of Rhineland-Palatinate",
+      "title": "Member of Landtag of Rhineland-Palatinate"
     }
   ],
   "Q1490318": [
@@ -23363,6 +23374,19 @@
       "title": "Member of Landtag of Rhineland-Palatinate"
     }
   ],
+  "Q16213981": [
+    {
+      "id": "Q1939555",
+      "label": "member of the German Bundestag",
+      "title": "member of the German Bundestag",
+      "description": "deputy of the German parliament"
+    },
+    {
+      "id": "Q18130478",
+      "label": "Member of the Landtag of Saarland",
+      "title": "Member of the Landtag of Saarland"
+    }
+  ],
   "Q71364": [
     {
       "id": "Q1939555",
@@ -26361,6 +26385,15 @@
   ],
   "Q61803": [
     {
+      "id": "Q1939555",
+      "label": "member of the German Bundestag",
+      "title": "member of the German Bundestag",
+      "description": "deputy of the German parliament",
+      "qualifiers": {
+        "P580": "1976"
+      }
+    },
+    {
       "id": "Q248352",
       "label": "Bundesminister",
       "title": "Bundesminister",
@@ -26372,15 +26405,6 @@
         "P1365": "Wolfgang Clement",
         "P1366": "Karl-Theodor zu Guttenberg",
         "P361": "First Merkel cabinet"
-      }
-    },
-    {
-      "id": "Q1939555",
-      "label": "member of the German Bundestag",
-      "title": "member of the German Bundestag",
-      "description": "deputy of the German parliament",
-      "qualifiers": {
-        "P580": "1976"
       }
     }
   ],
@@ -26928,6 +26952,15 @@
       "title": "member of the German Bundestag",
       "description": "deputy of the German parliament",
       "qualifiers": {
+        "P580": "2013-10-22"
+      }
+    },
+    {
+      "id": "Q1939555",
+      "label": "member of the German Bundestag",
+      "title": "member of the German Bundestag",
+      "description": "deputy of the German parliament",
+      "qualifiers": {
         "P580": "1998-10-26",
         "P582": "2002-10-17"
       }
@@ -26960,15 +26993,6 @@
       "qualifiers": {
         "P580": "2009-10-27",
         "P582": "2013-10-22"
-      }
-    },
-    {
-      "id": "Q1939555",
-      "label": "member of the German Bundestag",
-      "title": "member of the German Bundestag",
-      "description": "deputy of the German parliament",
-      "qualifiers": {
-        "P580": "2013-10-22"
       }
     }
   ],
@@ -27799,6 +27823,15 @@
       }
     },
     {
+      "id": "Q1939555",
+      "label": "member of the German Bundestag",
+      "title": "member of the German Bundestag",
+      "description": "deputy of the German parliament",
+      "qualifiers": {
+        "P580": "2013-10-22"
+      }
+    },
+    {
       "id": "Q4970706",
       "label": "Federal Chancellor of Germany",
       "title": "Federal Chancellor of Germany",
@@ -27910,15 +27943,6 @@
         "P361": "Cabinet Kohl IV",
         "P1365": "Hannelore Rönsch",
         "P1366": "Claudia Nolte"
-      }
-    },
-    {
-      "id": "Q1939555",
-      "label": "member of the German Bundestag",
-      "title": "member of the German Bundestag",
-      "description": "deputy of the German parliament",
-      "qualifiers": {
-        "P580": "2013-10-22"
       }
     }
   ],
@@ -28292,6 +28316,17 @@
       "title": "member of the German Bundestag",
       "description": "deputy of the German parliament",
       "qualifiers": {
+        "P580": "2013-10-22",
+        "P582": "2015-05-20",
+        "P1366": "Karin Thissen"
+      }
+    },
+    {
+      "id": "Q1939555",
+      "label": "member of the German Bundestag",
+      "title": "member of the German Bundestag",
+      "description": "deputy of the German parliament",
+      "qualifiers": {
         "P580": "1998-10-26",
         "P582": "2002-10-17"
       }
@@ -28324,17 +28359,6 @@
       "qualifiers": {
         "P580": "2009-10-27",
         "P582": "2013-10-22"
-      }
-    },
-    {
-      "id": "Q1939555",
-      "label": "member of the German Bundestag",
-      "title": "member of the German Bundestag",
-      "description": "deputy of the German parliament",
-      "qualifiers": {
-        "P580": "2013-10-22",
-        "P582": "2015-05-20",
-        "P1366": "Karin Thissen"
       }
     },
     {
@@ -30663,6 +30687,15 @@
       "title": "member of the German Bundestag",
       "description": "deputy of the German parliament",
       "qualifiers": {
+        "P580": "2013-10-22"
+      }
+    },
+    {
+      "id": "Q1939555",
+      "label": "member of the German Bundestag",
+      "title": "member of the German Bundestag",
+      "description": "deputy of the German parliament",
+      "qualifiers": {
         "P580": "1994-11-10",
         "P582": "1998-10-26"
       }
@@ -30705,15 +30738,6 @@
       "qualifiers": {
         "P580": "2009-10-27",
         "P582": "2013-10-22"
-      }
-    },
-    {
-      "id": "Q1939555",
-      "label": "member of the German Bundestag",
-      "title": "member of the German Bundestag",
-      "description": "deputy of the German parliament",
-      "qualifiers": {
-        "P580": "2013-10-22"
       }
     }
   ],
@@ -36565,7 +36589,7 @@
       "title": "Federal Minister for Special Affairs of Germany",
       "description": "Minister in the government of Germany without particular portfolio",
       "qualifiers": {
-        "P488": "German Chancellery",
+        "P488": "Federal Chancellery",
         "P580": "2009-10-28",
         "P1365": "Thomas de Maizière",
         "P361": "Second Merkel cabinet"
@@ -37118,6 +37142,18 @@
       "description": "head of municipal government such as a town or city"
     }
   ],
+  "Q21481433": [
+    {
+      "id": "Q1939555",
+      "label": "member of the German Bundestag",
+      "title": "member of the German Bundestag",
+      "description": "deputy of the German parliament",
+      "qualifiers": {
+        "P580": "2015-10-21",
+        "P1365": "Dirk Becker"
+      }
+    }
+  ],
   "Q1490552": [
     {
       "id": "Q1939555",
@@ -37411,6 +37447,15 @@
       "title": "member of the German Bundestag",
       "description": "deputy of the German parliament",
       "qualifiers": {
+        "P580": "2013-10-22"
+      }
+    },
+    {
+      "id": "Q1939555",
+      "label": "member of the German Bundestag",
+      "title": "member of the German Bundestag",
+      "description": "deputy of the German parliament",
+      "qualifiers": {
         "P580": "2009-10-27",
         "P582": "2013-10-22"
       }
@@ -37433,15 +37478,6 @@
       "qualifiers": {
         "P580": "2002-10-17",
         "P582": "2005-10-18"
-      }
-    },
-    {
-      "id": "Q1939555",
-      "label": "member of the German Bundestag",
-      "title": "member of the German Bundestag",
-      "description": "deputy of the German parliament",
-      "qualifiers": {
-        "P580": "2013-10-22"
       }
     },
     {
@@ -39516,8 +39552,8 @@
       "title": "member of the German Bundestag",
       "description": "deputy of the German parliament",
       "qualifiers": {
-        "P580": "2009-10-27",
-        "P582": "2013-10-22"
+        "P580": "2013-10-22",
+        "P768": "Hamburg Altona"
       }
     },
     {
@@ -39526,8 +39562,8 @@
       "title": "member of the German Bundestag",
       "description": "deputy of the German parliament",
       "qualifiers": {
-        "P580": "2013-10-22",
-        "P768": "Hamburg Altona"
+        "P580": "2009-10-27",
+        "P582": "2013-10-22"
       }
     },
     {
@@ -40611,7 +40647,7 @@
       "title": "Secretary of State",
       "description": "minister or senior civil servant in the government of a state",
       "qualifiers": {
-        "P488": "German Chancellery",
+        "P488": "Federal Chancellery",
         "P1365": "Bodo Hombach",
         "P1366": "Frank-Walter Steinmeier",
         "P580": "1999-08-01",
@@ -40625,7 +40661,7 @@
       "title": "Secretary of State",
       "description": "minister or senior civil servant in the government of a state",
       "qualifiers": {
-        "P488": "German Chancellery",
+        "P488": "Federal Chancellery",
         "P1365": "Frank-Walter Steinmeier",
         "P1366": "Thomas de Maizière",
         "P580": "2002-10-22",
@@ -40905,6 +40941,37 @@
       "label": "member of the German Bundestag",
       "title": "member of the German Bundestag",
       "description": "deputy of the German parliament"
+    }
+  ],
+  "Q16739242": [
+    {
+      "id": "Q30185",
+      "label": "mayor",
+      "title": "mayor (of Cologne)",
+      "description": "head of municipal government such as a town or city",
+      "qualifiers": {
+        "P642": "Cologne",
+        "P580": "2004-10-14"
+      }
+    },
+    {
+      "id": "Q1939555",
+      "label": "member of the German Bundestag",
+      "title": "member of the German Bundestag",
+      "description": "deputy of the German parliament",
+      "qualifiers": {
+        "P580": "2015-10-01"
+      }
+    },
+    {
+      "id": "Q708492",
+      "label": "councillor",
+      "title": "councillor (of city council of Cologne)",
+      "description": "representative of voters to a local government",
+      "qualifiers": {
+        "P642": "city council of Cologne",
+        "P580": "2004-10-14"
+      }
     }
   ],
   "Q2562366": [
@@ -44968,7 +45035,7 @@
       "qualifiers": {
         "P580": "2005-11-22",
         "P582": "2009-10-28",
-        "P488": "German Chancellery",
+        "P488": "Federal Chancellery",
         "P1365": "Frank-Walter Steinmeier",
         "P1366": "Ronald Pofalla",
         "P361": "First Merkel cabinet"
@@ -46848,6 +46915,11 @@
       "label": "member of the German Bundestag",
       "title": "member of the German Bundestag",
       "description": "deputy of the German parliament"
+    },
+    {
+      "id": "Q18618563",
+      "label": "Member of Landtag of Rhineland-Palatinate",
+      "title": "Member of Landtag of Rhineland-Palatinate"
     }
   ],
   "Q1733800": [
