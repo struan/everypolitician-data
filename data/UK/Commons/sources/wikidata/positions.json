@@ -2996,12 +2996,14 @@
     {
       "id": "Q16707842",
       "label": "Member of Parliament in the United Kingdom",
-      "title": "Member of Parliament in the United Kingdom (of Cambridge)",
+      "title": "Member of Parliament in the United Kingdom",
       "description": "voters' representative in the House of Commons of the United Kingdom",
       "qualifiers": {
-        "P642": "Cambridge",
         "P580": "2010-05-06",
-        "P582": "2015-03-30"
+        "P582": "2015-03-30",
+        "P768": "Cambridge",
+        "P1365": "David Howarth",
+        "P1366": "Daniel Zeichner"
       }
     }
   ],
