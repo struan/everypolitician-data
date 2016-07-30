@@ -7387,6 +7387,46 @@
       ]
     },
     {
+      "birth_date": "1960-02-02",
+      "gender": "male",
+      "id": "4fc44ef7-5406-4328-90b9-bfe9199b1017",
+      "identifiers": [
+        {
+          "identifier": "905",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q19518135",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www.na.gov.pk/en/profile.php?uid=905",
+      "images": [
+        {
+          "url": "http://www.na.gov.pk/en/profile.php?uid=905"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Khuwaja_Sohail_Mansoor"
+        }
+      ],
+      "name": "Khuwaja Sohail Mansoor",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Khuwaja Sohail Mansoor",
+          "note": "multilingual"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.na.gov.pk/en/profile.php?uid=905"
+        }
+      ]
+    },
+    {
       "contact_details": [
         {
           "type": "phone",
@@ -8271,7 +8311,7 @@
       "contact_details": [
         {
           "type": "phone",
-          "value": "0333-8734848"
+          "value": "0333-8734848, 051-9201312"
         }
       ],
       "gender": "male",
@@ -17620,57 +17660,6 @@
       ]
     },
     {
-      "birth_date": "1960-02-02",
-      "contact_details": [
-        {
-          "type": "phone",
-          "value": "0321-9220490"
-        }
-      ],
-      "gender": "male",
-      "id": "4fc44ef7-5406-4328-90b9-bfe9199b1017",
-      "identifiers": [
-        {
-          "identifier": "905",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q19518135",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://www.na.gov.pk/uploads/images/240.JPG",
-      "images": [
-        {
-          "url": "http://www.na.gov.pk/uploads/images/240.JPG"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Khuwaja_Sohail_Mansoor"
-        }
-      ],
-      "name": "Sohail Mansoor Khawaja",
-      "other_names": [
-        {
-          "name": "Khuwaja Sohail Mansoor",
-          "note": "alternate"
-        },
-        {
-          "lang": "en",
-          "name": "Khuwaja Sohail Mansoor",
-          "note": "multilingual"
-        }
-      ],
-      "patronymic_name": "Khawaja Mansoor Ahmed",
-      "sources": [
-        {
-          "url": "http://www.na.gov.pk/en/profile.php?uid=905"
-        }
-      ]
-    },
-    {
       "contact_details": [
         {
           "type": "phone",
@@ -22041,6 +22030,11 @@
           "note": "multilingual"
         }
       ]
+    },
+    {
+      "classification": "party",
+      "id": "",
+      "name": "unknown"
     }
   ],
   "meta": {
@@ -22938,9 +22932,8 @@
       "role": "member"
     },
     {
-      "area_id": "area/na-240_(karachi-ii)",
       "legislative_period_id": "term/14",
-      "on_behalf_of_id": "mqm",
+      "on_behalf_of_id": "",
       "organization_id": "65caa270-16bc-435c-ac92-e04751e26884",
       "person_id": "4fc44ef7-5406-4328-90b9-bfe9199b1017",
       "role": "member"
@@ -25669,11 +25662,6 @@
     {
       "id": "area/na-23_(kohistan_)",
       "name": "NA-23 (Kohistan )",
-      "type": "constituency"
-    },
-    {
-      "id": "area/na-240_(karachi-ii)",
-      "name": "NA-240 (Karachi-II)",
       "type": "constituency"
     },
     {
