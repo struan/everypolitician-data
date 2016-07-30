@@ -1,4 +1,5 @@
 id,name,position,start_date,end_date
+6feba9da-67fb-4bf8-a818-6b0ebd258589,Adamopoulos Georgios,Deputy Minister of Labour,,
 da686d19-5e11-4408-8944-e1db173c2905,Alevras Ioannis,President of Greece,1985-03-10,1985-03-30
 da686d19-5e11-4408-8944-e1db173c2905,Alevras Ioannis,Speaker of the Hellenic Parliament,1981,1989
 c56e98ec-a0b9-459b-a91e-0723facae267,Alogoskoufis Spyridon Georgios,Ministry of Economy and Finance of Greece,2004-03-10,2007-01-08
@@ -7,6 +8,8 @@ ee86787f-5393-4910-8028-681939853323,Andrianopoulos Andreas,Minister of Culture 
 ee86787f-5393-4910-8028-681939853323,Andrianopoulos Andreas,Minister of State of Greece,,
 ee86787f-5393-4910-8028-681939853323,Andrianopoulos Andreas,"Minister of Industry, Energy and Technology of Greece",,
 ee86787f-5393-4910-8028-681939853323,Andrianopoulos Andreas,Mayor of Piraeus,,
+4c9155ed-a1a4-4124-8e40-e6e545244709,Angelopoulos Nikolaos,Deputy Minister of Labour,,
+4c9155ed-a1a4-4124-8e40-e6e545244709,Angelopoulos Nikolaos,Deputy Minister of Employment,,
 3162b817-3e80-4263-b108-c9023676abea,Arsenis Gerasimos,Minister for National Defence of Greece,1993-10-13,1996-09-25
 3162b817-3e80-4263-b108-c9023676abea,Arsenis Gerasimos,Finance minister of Greece,1984-03-27,1985-07-26
 3162b817-3e80-4263-b108-c9023676abea,Arsenis Gerasimos,Minister of National Education and Religious Affairs of Greece,1996-09-25,2000-04-13
@@ -26,6 +29,7 @@ def0f032-6bd1-464e-bc49-96b41ac882ca,Beis Dimitrios,Mayor of Athens,,
 a2503eb2-c8a5-4137-98a7-719f52dceb24,Benaki - Psarouda Evangelou Anna,Speaker of the Hellenic Parliament,,
 a2503eb2-c8a5-4137-98a7-719f52dceb24,Benaki - Psarouda Evangelou Anna,Minister of Justice of Greece,,
 a2503eb2-c8a5-4137-98a7-719f52dceb24,Benaki - Psarouda Evangelou Anna,Minister of Culture of Greece,,
+a2503eb2-c8a5-4137-98a7-719f52dceb24,Benaki - Psarouda Evangelou Anna,Member of the Athens Academy,,
 1fd97b4c-85d9-4fdc-911d-2fd412b539fa,Charalampopoulos Ioannis,member of the European Parliament,,
 1fd97b4c-85d9-4fdc-911d-2fd412b539fa,Charalampopoulos Ioannis,Minister for Foreign Affairs of Greece,1981-10-21,1985-07-26
 1fd97b4c-85d9-4fdc-911d-2fd412b539fa,Charalampopoulos Ioannis,Minister for National Defence of Greece,,
@@ -103,6 +107,7 @@ da4d2eca-2475-4160-808a-672b121b2232,Kammenos Panagiotis (Panos),Minister for Na
 64aa06cf-b251-45e1-a8be-ed779a113cb3,Kanellopoulos Panagiotis,Prime Minister of Greece,1945-11-01,1945-11-22
 64aa06cf-b251-45e1-a8be-ed779a113cb3,Kanellopoulos Panagiotis,Minister without portfolio of Greece,1947-01-24,1947-08-29
 64aa06cf-b251-45e1-a8be-ed779a113cb3,Kanellopoulos Panagiotis,Deputy Prime Minister of Greece,,
+64aa06cf-b251-45e1-a8be-ed779a113cb3,Kanellopoulos Panagiotis,Member of the Athens Academy,,
 64aa06cf-b251-45e1-a8be-ed779a113cb3,Kanellopoulos Panagiotis,Minister without portfolio of Greece,1952-11-17,1952-12-04
 64aa06cf-b251-45e1-a8be-ed779a113cb3,Kanellopoulos Panagiotis,Prime Minister of Greece,1967-04-03,1967-04-21
 64aa06cf-b251-45e1-a8be-ed779a113cb3,Kanellopoulos Panagiotis,Minister for National Defence of Greece,1952-12-02,1955-06-06
@@ -128,6 +133,7 @@ a392e145-b985-428a-ad55-2a1eea5af2e5,Katseli Loukia-Tarsitsa (Louka),"Minister o
 d3ef87cd-aac0-4497-af33-5ba224884611,Kefalogiannis Emmanouil,member of the European Parliament,,
 d3ef87cd-aac0-4497-af33-5ba224884611,Kefalogiannis Emmanouil,Minister of Commercial Marine of Greece,,
 5a0affd0-58b0-4d1d-8477-d2eabff92db4,Kefalogiannis Ioannis,Greek Minister of the Interior,1992-12-03,1993-09-14
+5a0affd0-58b0-4d1d-8477-d2eabff92db4,Kefalogiannis Ioannis,Minister of Public Order and Citizen Protection,1989-07-02,1989-10-12
 5a0affd0-58b0-4d1d-8477-d2eabff92db4,Kefalogiannis Ioannis,Minister of State of Greece,1990-05-24,1991-09-04
 5a0affd0-58b0-4d1d-8477-d2eabff92db4,Kefalogiannis Ioannis,Minister of Tourism of Greece,1991-05-24,1991-09-04
 a456bd9e-61ed-45bc-8259-dc274cea8b3f,Konstantopoulou Zoe,Speaker of the Hellenic Parliament,2015-02-06,2015-10-04
@@ -141,10 +147,14 @@ a6044038-029c-4585-ac02-c1363960e2b2,Koutsogiorgas Agamemnon,Greek Minister of t
 a6044038-029c-4585-ac02-c1363960e2b2,Koutsogiorgas Agamemnon,Greek Minister of the Interior,1985-06-05,1987-02-05
 a6044038-029c-4585-ac02-c1363960e2b2,Koutsogiorgas Agamemnon,Minister of Justice of Greece,1987-09-23,1988-11-18
 a6044038-029c-4585-ac02-c1363960e2b2,Koutsogiorgas Agamemnon,Deputy Prime Minister of Greece,1987-11-23,1988-11-18
+a6044038-029c-4585-ac02-c1363960e2b2,Koutsogiorgas Agamemnon,Minister of Public Order and Citizen Protection,1985-07-26,1986-04-25
 a6044038-029c-4585-ac02-c1363960e2b2,Koutsogiorgas Agamemnon,Minister of the Presidency of Greece,1981-10-21,1984-01-17
 a6044038-029c-4585-ac02-c1363960e2b2,Koutsogiorgas Agamemnon,Minister of the Presidency of Greece,1988-11-18,1989-03-16
 e2999f31-18ec-443a-9245-9920232ffd58,Kouvelis Fotios - Fanourios,Minister of Justice of Greece,1989-07-02,1989-10-12
 495067a9-681b-4aab-931b-e3c91a96f192,Kyrkos Leonidas,member of the European Parliament,1981,1985
+355e4c73-a1e7-4db0-ab74-d56a4b45cd74,Lafazanis Panagiotis,"Minister of Environment, Energy and Climate Change",2015-01-27,2015-07-17
+4e80d20a-7c2f-4496-ab07-8dafd2e96dd2,Laiou Angeliki,Member of the Athens Academy,1998,
+4e80d20a-7c2f-4496-ab07-8dafd2e96dd2,Laiou Angeliki,Deputy Foreign Minister,2000-04-13,2000-11-20
 54b25729-41c8-4c32-94ff-90c49eeefb56,Laskaris Konstantinos,Employment Minister of Greece,,
 6e21c5bf-5fde-4529-8a9f-668979ddbb0c,Liapis Konstantinou Michalis - Giorgos,Minister of Culture of Greece,2007-09-19,2009-01-07
 6e21c5bf-5fde-4529-8a9f-668979ddbb0c,Liapis Konstantinou Michalis - Giorgos,Minister of Transports and Communications of Greece,2004-03-10,2007-09-19
@@ -154,6 +164,7 @@ acab142d-f12f-496c-8a25-5fc75c6193d6,Loverdos Andreas,Minister of Labour and Soc
 e57c89a6-7c7d-4c18-a58b-de7f04c3d518,Magkakis Georgios - Alexandros,Minister of Justice of Greece,,
 e57c89a6-7c7d-4c18-a58b-de7f04c3d518,Magkakis Georgios - Alexandros,Minister of Public Works,,
 e57c89a6-7c7d-4c18-a58b-de7f04c3d518,Magkakis Georgios - Alexandros,"Minister of Health, Welfare and Social Security of Greece",,
+e57c89a6-7c7d-4c18-a58b-de7f04c3d518,Magkakis Georgios - Alexandros,Deputy Foreign Minister,,
 ada29e04-1ebd-4d92-9e07-587e002927da,Magkriotis Ioannis,Minister of Macedonia-Thrace,,
 5e797663-d49a-4778-a888-d1542c25bcca,Makris Dimitrios,Greek Minister of the Interior,1956-02-29,1958-03-05
 5e797663-d49a-4778-a888-d1542c25bcca,Makris Dimitrios,Greek Minister of the Interior,1958-05-17,1961-09-20
@@ -193,6 +204,7 @@ e335de91-d37e-483c-9337-ae0639f423d7,Mitsotakis Konstantinos,Minister of Coordin
 5c570203-609a-4f64-836b-166d5b2a25d3,Pagkalos Theodoros,Minister of Culture of Greece,,
 5c570203-609a-4f64-836b-166d5b2a25d3,Pagkalos Theodoros,Minister of Transports and Communications of Greece,,
 5c570203-609a-4f64-836b-166d5b2a25d3,Pagkalos Theodoros,Deputy Prime Minister of Greece,,
+5c570203-609a-4f64-836b-166d5b2a25d3,Pagkalos Theodoros,Deputy Foreign Minister,,
 506808bf-f8cd-48d5-af49-c1b3f4071223,Panagiotopoulos Panagiotis (Panos),Minister for National Defence of Greece,2012-06-21,2013-06-25
 506808bf-f8cd-48d5-af49-c1b3f4071223,Panagiotopoulos Panagiotis (Panos),Minister for Employment and Social Protection,2004-03-10,2006-02-15
 506808bf-f8cd-48d5-af49-c1b3f4071223,Panagiotopoulos Panagiotis (Panos),Minister of Culture of Greece,2013-06-25,2014-06-10
@@ -219,6 +231,7 @@ d7591f80-ff9b-4c38-a504-c2a54a24e9bb,Papathemelis Stylianos - Angelos,Minister o
 8045b01c-2c10-4e68-a9bc-ead9c98c1b1e,Papoulias Karolos,President of Greece,2005-03-21,2015-03-13
 8045b01c-2c10-4e68-a9bc-ead9c98c1b1e,Papoulias Karolos,Minister for Foreign Affairs of Greece,1993-10-13,1996-01-22
 8045b01c-2c10-4e68-a9bc-ead9c98c1b1e,Papoulias Karolos,Minister for Foreign Affairs of Greece,1985-07-26,1989-07-02
+8045b01c-2c10-4e68-a9bc-ead9c98c1b1e,Papoulias Karolos,Deputy Foreign Minister,1984-02-08,1985-07-26
 a1632b39-ff5b-42cf-b654-ce93386960ab,Petralia - Palli Epameinonda Fani,Minister of Tourist Development of Greece,2006-02-15,2007-09-19
 a1632b39-ff5b-42cf-b654-ce93386960ab,Petralia - Palli Epameinonda Fani,Minister for Employment and Social Protection,2007-12-17,2009-10-07
 07603db2-9315-4645-8c47-882aa0fd1e4c,Petsalnikos Philippos,Speaker of the Hellenic Parliament,,
@@ -239,6 +252,8 @@ f4f27d3c-1071-4fe2-9233-4d2de9779ba5,Petsos Georgios,Minister of Transports and 
 5f106a41-2154-41c9-8661-759a6718cc5d,Rallis Georgios,Minister of Education of Greece,1976-01-05,1977-11-28
 5f106a41-2154-41c9-8661-759a6718cc5d,Rallis Georgios,Leader of the Opposition,1981-10-21,1981-12
 5f106a41-2154-41c9-8661-759a6718cc5d,Rallis Georgios,Greek Minister of the Interior,1974-07-24,1974-07-26
+5f106a41-2154-41c9-8661-759a6718cc5d,Rallis Georgios,Minister to the Prime Minister of Greece,1974-11-21,1975-01-01
+5f106a41-2154-41c9-8661-759a6718cc5d,Rallis Georgios,Minister to the Prime Minister of Greece,1974-07-26,1974-10-09
 5f106a41-2154-41c9-8661-759a6718cc5d,Rallis Georgios,Minister of the Presidency of Greece,1954-04-11,1956-02-29
 d0a27f3e-efee-4663-acff-3d3c35dd1e4a,Sakorafa Sofia,member of the European Parliament,2014,
 26d807e1-a0b6-41f7-9341-b80bb932dcf3,Samaras Antonios,Prime Minister of Greece,2012-06-20,2015-01-26
@@ -271,11 +286,13 @@ cda8836f-7b39-4fa2-a599-4f8a5ffa5271,Simitis Georgiou Kostas,Minister of Educati
 f5327e7f-57ab-404f-8622-af46ddb1a139,Stasinopoulos Michail,President of Greece,1974-12-18,1975-07-19
 f5327e7f-57ab-404f-8622-af46ddb1a139,Stasinopoulos Michail,Minister of the Presidency of Greece,,
 f5327e7f-57ab-404f-8622-af46ddb1a139,Stasinopoulos Michail,Labour minister of Greece,,
+f5327e7f-57ab-404f-8622-af46ddb1a139,Stasinopoulos Michail,Member of the Athens Academy,,
 7344117e-6590-4a48-a1b7-d867399f79c1,Stylianidis Evripidis,Minister of National Education and Religious Affairs of Greece,,
 7344117e-6590-4a48-a1b7-d867399f79c1,Stylianidis Evripidis,Minister of Transports and Communications of Greece,,
 7344117e-6590-4a48-a1b7-d867399f79c1,Stylianidis Evripidis,Minister of Education of Greece,,
 6712c519-8704-4fef-bae0-49bc2366c122,Theodorakis Michail (Mikis),Minister without portfolio of Greece,,
 6712c519-8704-4fef-bae0-49bc2366c122,Theodorakis Michail (Mikis),Minister of State of Greece,,
+6712c519-8704-4fef-bae0-49bc2366c122,Theodorakis Michail (Mikis),Member of the Athens Academy,,
 52ea1dba-9b31-4b65-a9ec-4cc036e8ac43,Triaridis Konstantinos,Minister of Macedonia-Thrace,,
 b35c2e49-d7e8-4d04-811c-42dcff2c7f18,Tsipras Alexios,Prime Minister of Greece,2015-01-26,2015-08-27
 b35c2e49-d7e8-4d04-811c-42dcff2c7f18,Tsipras Alexios,Leader of the Opposition,2012-06-21,2015-01-25
@@ -289,6 +306,7 @@ b35c2e49-d7e8-4d04-811c-42dcff2c7f18,Tsipras Alexios,Prime Minister of Greece,20
 3dea00cd-5099-46af-8ff6-809bf6199906,Tzannetakis Tzannis,Minister of Tourism of Greece,,
 3dea00cd-5099-46af-8ff6-809bf6199906,Tzannetakis Tzannis,Deputy Prime Minister of Greece,,
 24c15fb0-d146-48a0-a408-ab380288a909,Tzoumakas Stefanos,Minister of Agriculture of Greece,,
+24c15fb0-d146-48a0-a408-ab380288a909,Tzoumakas Stefanos,Minister of Labour and Social Insurance of Greece,,
 4f279b52-84b1-44ac-aa98-e136a537d949,Valyrakis Ioan. Iosif,Minister of Public Order,,
 ed659311-c5fd-4b8e-a304-05ecf39ee96f,Venizelos Evangelos,Minister for Foreign Affairs of Greece,2013-06-24,2015-01-27
 ed659311-c5fd-4b8e-a304-05ecf39ee96f,Venizelos Evangelos,Minister for National Defence of Greece,2009-10-07,2011-06-17
@@ -299,6 +317,7 @@ ed659311-c5fd-4b8e-a304-05ecf39ee96f,Venizelos Evangelos,Minister of Transports 
 ed659311-c5fd-4b8e-a304-05ecf39ee96f,Venizelos Evangelos,Minister of Development of Greece,1999-02-19,2000-04-13
 ed659311-c5fd-4b8e-a304-05ecf39ee96f,Venizelos Evangelos,Deputy Prime Minister of Greece,2013-06-25,2015-01-27
 ed659311-c5fd-4b8e-a304-05ecf39ee96f,Venizelos Evangelos,Minister of Culture of Greece,1996-09-26,1999-02-19
+ed659311-c5fd-4b8e-a304-05ecf39ee96f,Venizelos Evangelos,Minister for the Press and the Media,,
 844aae71-fcc2-4d86-8abb-5fe1af33fe7c,Veryvakis Eleftherios,Minister of National Education and Religious Affairs of Greece,,
 844aae71-fcc2-4d86-8abb-5fe1af33fe7c,Veryvakis Eleftherios,"Minister of Industry, Energy and Technology of Greece",,
 844aae71-fcc2-4d86-8abb-5fe1af33fe7c,Veryvakis Eleftherios,Minister of Social Security of Greece,,
@@ -309,3 +328,4 @@ b4a6d1db-8b8c-4e8f-b93f-2b1906a0f98c,Vgenopoulos Nikolaos,member of the European
 64b10801-3709-46d7-991a-0cd9ea24adf2,Voutsis Nikolaos,Greek Minister of the Interior,,
 9df00c0c-3bdf-4b36-8a24-9bf34da27e1a,Xenogiannakopoulou Maria - Eliza (Mariliza),member of the European Parliament,,
 9df00c0c-3bdf-4b36-8a24-9bf34da27e1a,Xenogiannakopoulou Maria - Eliza (Mariliza),Minister of Health and Social Solidarity of Greece,,
+9df00c0c-3bdf-4b36-8a24-9bf34da27e1a,Xenogiannakopoulou Maria - Eliza (Mariliza),Deputy Foreign Minister,,
