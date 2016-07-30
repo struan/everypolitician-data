@@ -1940,10 +1940,10 @@
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "http://majles.marsad.tn/2014/uploads/images/Hassouna_Nasfi.png",
+      "image": "http://majles.marsad.tn/2014/uploads/images/hassouna.png",
       "images": [
         {
-          "url": "http://majles.marsad.tn/2014/uploads/images/Hassouna_Nasfi.png"
+          "url": "http://majles.marsad.tn/2014/uploads/images/hassouna.png"
         }
       ],
       "name": "Hassouna Nasfi",
@@ -1998,12 +1998,17 @@
       ]
     },
     {
+      "birth_date": "1981-12-13",
       "gender": "female",
       "id": "ed165140-1d1b-4aa5-a7d7-59ad67cb1dda",
       "identifiers": [
         {
           "identifier": "145",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q25451738",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://majles.marsad.tn/2014/uploads/images/Hayet_Omri.png",
@@ -2012,7 +2017,25 @@
           "url": "http://majles.marsad.tn/2014/uploads/images/Hayet_Omri.png"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/حياة_عمري"
+        }
+      ],
       "name": "Hayet Omri",
+      "other_names": [
+        {
+          "lang": "ar",
+          "name": "حياة عمري",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Hayet Omri",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://majles.marsad.tn/2014/fr/assemblee"
@@ -6313,12 +6336,17 @@
       ]
     },
     {
+      "birth_date": "1987-02-03",
       "gender": "female",
       "id": "23697311-d8c3-4209-ab01-08b0afaaccbe",
       "identifiers": [
         {
           "identifier": "150",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q25453450",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://majles.marsad.tn/2014/uploads/images/Sayida_Ounissi.png",
@@ -6327,7 +6355,29 @@
           "url": "http://majles.marsad.tn/2014/uploads/images/Sayida_Ounissi.png"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/السيدة_الونيسي"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Sayida_Ounissi"
+        }
+      ],
       "name": "Sayida Ounissi",
+      "other_names": [
+        {
+          "lang": "ar",
+          "name": "السيدة الونيسي",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Sayida Ounissi",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://majles.marsad.tn/2014/fr/assemblee"
