@@ -737,6 +737,10 @@
           "url": "https://et.wikipedia.org/wiki/Ioánnis_Alevrás"
         },
         {
+          "note": "Wikipedia (fa)",
+          "url": "https://fa.wikipedia.org/wiki/ایوانیس_آلوراس"
+        },
+        {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Ioannis_Alevras"
         },
@@ -5992,6 +5996,10 @@
           "url": "https://es.wikipedia.org/wiki/Dora_Bakoyianni"
         },
         {
+          "note": "Wikipedia (fa)",
+          "url": "https://fa.wikipedia.org/wiki/دورا_باکویانیس"
+        },
+        {
           "note": "Wikipedia (fi)",
           "url": "https://fi.wikipedia.org/wiki/Dora_Bakoyannis"
         },
@@ -9118,6 +9126,10 @@
           "url": "https://pl.wikipedia.org/wiki/Konstandinos_Chadzidakis"
         },
         {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Konstantinos_Hatzidakis"
+        },
+        {
           "note": "Wikipedia (uk)",
           "url": "https://uk.wikipedia.org/wiki/Костіс_Хадзідакіс"
         },
@@ -9187,6 +9199,11 @@
         },
         {
           "lang": "pl",
+          "name": "Konstantinos Hatzidakis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
           "name": "Konstantinos Hatzidakis",
           "note": "multilingual"
         },
@@ -11865,7 +11882,7 @@
       ]
     },
     {
-      "birth_date": "1959",
+      "birth_date": "1959-02-26",
       "gender": "female",
       "given_name": "Anna",
       "id": "c73da909-fd42-460f-b1fa-2cc404825ac0",
@@ -12578,6 +12595,10 @@
           "url": "https://es.wikipedia.org/wiki/Stavros_Dimas"
         },
         {
+          "note": "Wikipedia (fa)",
+          "url": "https://fa.wikipedia.org/wiki/استاوروس_دیماس"
+        },
+        {
           "note": "Wikipedia (fi)",
           "url": "https://fi.wikipedia.org/wiki/Stavros_Dimas"
         },
@@ -13146,8 +13167,16 @@
           "scheme": "hellenic_parliament"
         },
         {
+          "identifier": "n90656060",
+          "scheme": "lcauth"
+        },
+        {
           "identifier": "086620827",
           "scheme": "nta"
+        },
+        {
+          "identifier": "OL478281A",
+          "scheme": "olid"
         },
         {
           "identifier": "060601213",
@@ -21156,6 +21185,10 @@
           "url": "https://es.wikipedia.org/wiki/Nikitas_Kaklamanis"
         },
         {
+          "note": "Wikipedia (fa)",
+          "url": "https://fa.wikipedia.org/wiki/نیکیتاس_کاکلامانیس"
+        },
+        {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Nikítas_Kaklamánis"
         },
@@ -22030,10 +22063,10 @@
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/man_206.jpg",
+      "image": "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/kamenosDimitrios_1.png",
       "images": [
         {
-          "url": "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/man_206.jpg"
+          "url": "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/kamenosDimitrios_1.png"
         }
       ],
       "name": "Kammenos Dimitrios",
@@ -22123,6 +22156,10 @@
         {
           "note": "Wikipedia (et)",
           "url": "https://et.wikipedia.org/wiki/Pános_Kamménos"
+        },
+        {
+          "note": "Wikipedia (fa)",
+          "url": "https://fa.wikipedia.org/wiki/پانوس_کامنوس"
         },
         {
           "note": "Wikipedia (fi)",
@@ -25142,6 +25179,13 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "g.karras@parliament.gr"
+        }
+      ],
+      "email": "g.karras@parliament.gr",
       "gender": "male",
       "id": "daa1f327-2724-4f3e-803d-fbd4b57f1869",
       "identifiers": [
@@ -25150,10 +25194,10 @@
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/man_29.jpg",
+      "image": "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/Karras%20Georgios-Dimitrios_1.jpg",
       "images": [
         {
-          "url": "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/man_29.jpg"
+          "url": "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/Karras%20Georgios-Dimitrios_1.jpg"
         }
       ],
       "name": "Karras Georgios-Dimitrios",
@@ -26172,18 +26216,297 @@
       ]
     },
     {
+      "birth_date": "1947-03-13",
+      "gender": "male",
+      "given_name": "Theodoros",
       "id": "4f85136c-7cd2-49f6-8a9f-358a742fd71b",
       "identifiers": [
         {
+          "identifier": "5219",
+          "scheme": "biblionet"
+        },
+        {
           "identifier": "63d3c1d9-7108-442f-a76a-c32bc619e784",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "15405741X",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "63d3c1d9-7108-442f-a76a-c32bc619e784",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "0000 0001 1790 4928",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "n86150256",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "35832136",
+          "scheme": "nla"
+        },
+        {
+          "identifier": "131331736",
+          "scheme": "nta"
+        },
+        {
+          "identifier": "15339272X",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "1500180",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q12877939",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Theódoros_Katsanevas"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Theodoros_Katsanevas"
+        },
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Θεόδωρος_Κατσανέβας"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Theodore_Katsanevas"
+        },
+        {
+          "note": "Wikipedia (eo)",
+          "url": "https://eo.wikipedia.org/wiki/Theodoros_Katsanevas"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Theodoros_Katsanevas"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Theódoros_Katsanévas"
+        },
+        {
+          "note": "Wikipedia (gl)",
+          "url": "https://gl.wikipedia.org/wiki/Theodoros_Katsanevas"
+        },
+        {
+          "note": "Wikipedia (hr)",
+          "url": "https://hr.wikipedia.org/wiki/Teodoros_Kacanevas"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Theodōros_Katsanevas"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Theodoros_Katsanevas"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Theodore_Katsanevas"
+        },
+        {
+          "note": "Wikipedia (oc)",
+          "url": "https://oc.wikipedia.org/wiki/Theódoros_Katsanevas"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Teodoros_Katsanewas"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Theodoros_Katsanevas"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Кацаневас,_Теодор"
+        },
+        {
+          "note": "Wikipedia (sah)",
+          "url": "https://sah.wikipedia.org/wiki/Теодор_Катсаневас"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Theodoros_Katsanevas"
+        },
+        {
+          "note": "Wikipedia (vec)",
+          "url": "https://vec.wikipedia.org/wiki/Theodoros_Katsanevas"
+        },
+        {
+          "note": "website",
+          "url": "http://www.unipi.gr/katsanevas"
         }
       ],
       "name": "Katsanevas Theodoros",
       "other_names": [
         {
+          "name": "Theodore Katsanevas",
+          "note": "alternate"
+        },
+        {
+          "lang": "ca",
+          "name": "Theódoros Katsanevas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Theodore Katsanevas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Theodoros Katsanevas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de-ch",
+          "name": "Theodoros Katsanevas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Θεόδωρος Κατσανέβας",
+          "note": "multilingual"
+        },
+        {
           "lang": "el",
           "name": "Κατσανέβας Κωνσταντίνου Θεόδωρος",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Theodore Katsanevas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "Theodore Katsanevas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "Theodore Katsanevas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Theodoros Katsanevas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Theodoros Katsanevas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fo",
+          "name": "Theodore Katsanevas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Theodore Katsanevas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Theodoros Katsanevas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Teodoros Kacanevas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Theodoros Katsanevas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "is",
+          "name": "Theodore Katsanevas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Theodōros Katsanevas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "セオドロス・カツァネヴァス",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kl",
+          "name": "Theodore Katsanevas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Theodore Katsanevas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Theodoros Katsanevas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Theodore Katsanevas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Theódoros Katsanevas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Teodoros Katsanewas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Theodoros Katsanevas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt-br",
+          "name": "Theodoros Katsanevas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Теодор Катсаневас",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sah",
+          "name": "Теодор Катсаневас",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Theodore Katsanevas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vec",
+          "name": "Theodoros Katsanevas",
           "note": "multilingual"
         }
       ],
@@ -27533,9 +27856,6 @@
           "url": "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/FOTO%20KEFALOGIANNI%20OLGA_1.jpg"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Olga_Kefalogianni_2014d_cropped.jpg"
-        },
-        {
           "url": "https://pbs.twimg.com/profile_images/697045347277914114/GwlC3mx4.jpg"
         }
       ],
@@ -28035,11 +28355,42 @@
       ]
     },
     {
+      "birth_date": "1914",
+      "death_date": "2009-06-03",
+      "gender": "male",
       "id": "f443baa7-8581-4a8d-ae3a-f0efd5bb6ddc",
       "identifiers": [
         {
           "identifier": "5878bfcf-7e92-4112-b5d8-d67963f008c2",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "5878bfcf-7e92-4112-b5d8-d67963f008c2",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "33082925",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q16329969",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/53/KEPESIS-1.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/KEPESIS-1.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Νίκανδρος_Κεπέσης"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Кепесис,_Никандрос"
         }
       ],
       "name": "Kepesis Nikandros",
@@ -28047,6 +28398,16 @@
         {
           "lang": "el",
           "name": "Κεπέσης Μηνά Νίκανδρος",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Νίκανδρος Κεπέσης",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Кепесис, Никандрос",
           "note": "multilingual"
         }
       ],
@@ -28573,11 +28934,28 @@
       ]
     },
     {
+      "birth_date": "1949-01-16",
+      "gender": "male",
+      "given_name": "Nikolaos",
       "id": "d329c070-786e-4f47-b4ad-918b23cf5e9c",
       "identifiers": [
         {
           "identifier": "7b581869-e24e-4d6c-bce0-ad1b4700dd53",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "7b581869-e24e-4d6c-bce0-ad1b4700dd53",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "Q12881812",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Νικόλαος_Κοκκίνης"
         }
       ],
       "name": "Kokkinis Nikolaos",
@@ -28585,6 +28963,11 @@
         {
           "lang": "el",
           "name": "Κοκκίνης Εμμανουήλ Νικόλαος",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Νικόλαος Κοκκίνης",
           "note": "multilingual"
         }
       ],
@@ -40721,6 +41104,10 @@
           "url": "https://es.wikipedia.org/wiki/Petros_Moliviatis"
         },
         {
+          "note": "Wikipedia (fa)",
+          "url": "https://fa.wikipedia.org/wiki/پتروس_مولیویاتیس"
+        },
+        {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Pétros_Molyviátis"
         },
@@ -42775,6 +43162,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Theodoros_Pangalos_(politician)"
+        },
+        {
+          "note": "Wikipedia (fa)",
+          "url": "https://fa.wikipedia.org/wiki/تئودوروس_پانگالوس"
         },
         {
           "note": "Wikipedia (fi)",
@@ -45793,18 +46184,122 @@
       ]
     },
     {
+      "birth_date": "1948-04-14",
+      "gender": "male",
+      "given_name": "Anastasio",
       "id": "51b27122-a419-4517-9b95-a7e2567d4c84",
       "identifiers": [
         {
+          "identifier": "23511",
+          "scheme": "biblionet"
+        },
+        {
           "identifier": "fa01bfcc-a3b9-42fb-84bc-5bec374f2450",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/0bgmxv",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "fa01bfcc-a3b9-42fb-84bc-5bec374f2450",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "185068235",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "315947407",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q1091143",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Αναστάσιος_Παπαληγούρας"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Anastasios_Papaligouras"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Anastásios_Papaligoúras"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/阿纳斯塔斯奥斯·帕帕里古拉斯"
         }
       ],
       "name": "Papaligouras Panagioti Anastasios - Petros",
       "other_names": [
         {
+          "name": "Anastasios Papaligouras",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Anastasios Papaligouras",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Αναστάσιος Παπαληγούρας",
+          "note": "multilingual"
+        },
+        {
           "lang": "el",
           "name": "Παπαληγούρας Παναγιώτη Αναστάσιος - Πέτρος",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Anastasios Papaligouras",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Anastasios Papaligouras",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Anastásios Papaligoúras",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Anastasios Papaligouras",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Anastasios Papaligouras",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "阿纳斯塔斯奥斯·帕帕里古拉斯",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hans",
+          "name": "阿纳斯塔斯奥斯·帕帕里古拉斯",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "阿納斯塔斯奧斯·帕帕里古拉斯",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "阿納斯塔斯奧斯·帕帕里古拉斯",
           "note": "multilingual"
         }
       ],
@@ -45999,18 +46494,544 @@
       ]
     },
     {
+      "birth_date": "1919-02-05",
+      "death_date": "1996-06-23",
+      "gender": "male",
+      "given_name": "Andreas",
       "id": "fa283f0f-70b1-4687-a33b-cdb8123d7c16",
       "identifiers": [
         {
+          "identifier": "12159119h",
+          "scheme": "bnf"
+        },
+        {
+          "identifier": "biography/Andreas-Papandreou",
+          "scheme": "britannica"
+        },
+        {
           "identifier": "c6eefa0d-c061-4892-b9f2-789ab10c292c",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "17067",
+          "scheme": "fast"
+        },
+        {
+          "identifier": "/m/01_0gy",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "119250543",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "140145",
+          "scheme": "gtaa"
+        },
+        {
+          "identifier": "c6eefa0d-c061-4892-b9f2-789ab10c292c",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "nm2562654",
+          "scheme": "imdb"
+        },
+        {
+          "identifier": "0000 0001 0887 9898",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "n50050225",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "00000011094",
+          "scheme": "munzinger"
+        },
+        {
+          "identifier": "36490552",
+          "scheme": "nla"
+        },
+        {
+          "identifier": "264/000117910",
+          "scheme": "nndb"
+        },
+        {
+          "identifier": "067512348",
+          "scheme": "nta"
+        },
+        {
+          "identifier": "n2008089269",
+          "scheme": "nukat"
+        },
+        {
+          "identifier": "OL87275A",
+          "scheme": "olid"
+        },
+        {
+          "identifier": "222806",
+          "scheme": "ptbnp"
+        },
+        {
+          "identifier": "233317",
+          "scheme": "selibr"
+        },
+        {
+          "identifier": "135347874",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "36956756",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q219256",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/85/Andreas_Papandreou_(1968)_2_crop.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Andreas_Papandreou_(1968)_2_crop.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/أندرياس_باباندريو"
+        },
+        {
+          "note": "Wikipedia (az)",
+          "url": "https://az.wikipedia.org/wiki/Andreas_Papandreu"
+        },
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Андреас_Папандреу"
+        },
+        {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Andreas_Papandreu"
+        },
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Andreas_Papandreou"
+        },
+        {
+          "note": "Wikipedia (cs)",
+          "url": "https://cs.wikipedia.org/wiki/Andreas_Papandreu"
+        },
+        {
+          "note": "Wikipedia (da)",
+          "url": "https://da.wikipedia.org/wiki/Andreas_Papandreou"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Andreas_Papandreou"
+        },
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Ανδρέας_Παπανδρέου"
+        },
+        {
+          "note": "Wikipedia (elwikiquote)",
+          "url": "https://elwikiquote.wikipedia.org/wiki/Ανδρέας_Παπανδρέου"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Andreas_Papandreou"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Andreas_Papandréu"
+        },
+        {
+          "note": "Wikipedia (et)",
+          "url": "https://et.wikipedia.org/wiki/Andréas_Papandréou"
+        },
+        {
+          "note": "Wikipedia (eu)",
+          "url": "https://eu.wikipedia.org/wiki/Andreas_Papandreu"
+        },
+        {
+          "note": "Wikipedia (fa)",
+          "url": "https://fa.wikipedia.org/wiki/آندرئاس_پاپاندرئو"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Andreas_Papandreu"
+        },
+        {
+          "note": "Wikipedia (fo)",
+          "url": "https://fo.wikipedia.org/wiki/Andreas_Papandreou"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Andréas_Papandréou"
+        },
+        {
+          "note": "Wikipedia (hy)",
+          "url": "https://hy.wikipedia.org/wiki/Անդրեաս_Պապանդրեու"
+        },
+        {
+          "note": "Wikipedia (io)",
+          "url": "https://io.wikipedia.org/wiki/Andreas_Papandreou"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Andreas_Papandreou"
+        },
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/안드레아스_파판드레우"
+        },
+        {
+          "note": "Wikipedia (la)",
+          "url": "https://la.wikipedia.org/wiki/Andreas_Papandreu"
+        },
+        {
+          "note": "Wikipedia (mr)",
+          "url": "https://mr.wikipedia.org/wiki/आंद्रिआस_पापेन्द्रु"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Andreas_Papandreou"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Andreas_Papandreou"
+        },
+        {
+          "note": "Wikipedia (oc)",
+          "url": "https://oc.wikipedia.org/wiki/Andreas_Papandreou"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Andreas_Papandreu"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Andréas_Papandréu"
+        },
+        {
+          "note": "Wikipedia (qu)",
+          "url": "https://qu.wikipedia.org/wiki/Andreas_Papandreou"
+        },
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Andreas_Papandreou"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Папандреу,_Андреас"
+        },
+        {
+          "note": "Wikipedia (sco)",
+          "url": "https://sco.wikipedia.org/wiki/Andreas_Papandreou"
+        },
+        {
+          "note": "Wikipedia (sh)",
+          "url": "https://sh.wikipedia.org/wiki/Andreas_Papandreu"
+        },
+        {
+          "note": "Wikipedia (sk)",
+          "url": "https://sk.wikipedia.org/wiki/Andreas_Papandreu"
+        },
+        {
+          "note": "Wikipedia (sq)",
+          "url": "https://sq.wikipedia.org/wiki/Andreas_Papandreu"
+        },
+        {
+          "note": "Wikipedia (sr)",
+          "url": "https://sr.wikipedia.org/wiki/Андреас_Папандреу"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Andreas_Papandreou"
+        },
+        {
+          "note": "Wikipedia (tr)",
+          "url": "https://tr.wikipedia.org/wiki/Andreas_Papandreu"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Андреас_Папандреу"
+        },
+        {
+          "note": "Wikipedia (vi)",
+          "url": "https://vi.wikipedia.org/wiki/Andreas_Papandreou"
+        },
+        {
+          "note": "Wikipedia (yo)",
+          "url": "https://yo.wikipedia.org/wiki/Andreas_Papandreou"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/安德烈亚斯·乔治乌·帕潘德里欧"
+        },
+        {
+          "note": "Wikipedia (zh_yue)",
+          "url": "https://zh_yue.wikipedia.org/wiki/Ανδρέας_Παπανδρέου"
         }
       ],
       "name": "Papandreou Andreas",
       "other_names": [
         {
+          "name": "Andreas Papandreou",
+          "note": "alternate"
+        },
+        {
+          "lang": "ar",
+          "name": "أندرياس باباندريو",
+          "note": "multilingual"
+        },
+        {
+          "lang": "az",
+          "name": "Andreas Papandreu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Андреас Папандреу",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Andreas Papandreu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Andreas Papandreu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Andreas Papandreou",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Andreas Papandreou",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Ανδρέας Παπανδρέου",
+          "note": "multilingual"
+        },
+        {
           "lang": "el",
           "name": "Παπανδρέου Γεωργίου Ανδρέας",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Andreas Papandreou",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Andreas Papandreu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Andréas Papandréou",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "Andreas Papandreu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "آندرئاس پاپاندرئو",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Andreas Papandreu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fo",
+          "name": "Andreas Papandreou",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Andréas Papandréou",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Andreas Papandreu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hy",
+          "name": "Անդրեաս Պապանդրեու",
+          "note": "multilingual"
+        },
+        {
+          "lang": "io",
+          "name": "Andreas Papandreou",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Andreas Papandreou",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "アンドレアス・パパンドレウ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "안드레아스 파판드레우",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Andreas Papandreu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mr",
+          "name": "आंद्रिआस पापेन्द्रु",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Andreas Papandreou",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Andreas Papandreou",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Andreas Papandreou",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Andreas Papandreu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Andréas Papandréu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "qu",
+          "name": "Andreas Papandreou",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Andreas Papandreou",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Папандреу, Андреас",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "Andreas Papandreou",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Andreas Papandreu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Andreas Papandreu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sq",
+          "name": "Andreas Papandreou",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Андреас Папандреу",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Andreas Papandreou",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Andreas Papandreu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Андреас Папандреу",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Andreas Papandreou",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yo",
+          "name": "Andreas Papandreou",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yue",
+          "name": "Ανδρέας Παπανδρέου",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "安德烈亚斯·乔治乌·帕潘德里欧",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "安德烈亚斯·乔治乌·帕潘德里欧",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hans",
+          "name": "安德烈亚斯·乔治乌·帕潘德里欧",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "安德烈亞斯·喬治烏·帕潘德里歐",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "安德烈亞斯·喬治烏·帕潘德里歐",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-sg",
+          "name": "安德烈亚斯·乔治乌·帕潘德里欧",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-tw",
+          "name": "安德烈亞斯·喬治烏·帕潘德里歐",
           "note": "multilingual"
         }
       ],
@@ -46516,8 +47537,13 @@
     {
       "birth_date": "1945-11-05",
       "gender": "female",
+      "given_name": "Alexandra",
       "id": "1eee06d0-eeae-4537-acf9-b46a9e97eb4a",
       "identifiers": [
+        {
+          "identifier": "28954",
+          "scheme": "biblionet"
+        },
         {
           "identifier": "399ca9e7-9c03-477e-9708-b0342e699cd4",
           "scheme": "everypolitician_legacy"
@@ -47816,18 +48842,170 @@
       ]
     },
     {
+      "birth_date": "1953-04-11",
+      "gender": "male",
+      "given_name": "Christos",
       "id": "8eb0b0da-14ea-409f-9488-0fe0302b05a0",
       "identifiers": [
         {
+          "identifier": "6613",
+          "scheme": "biblionet"
+        },
+        {
+          "identifier": "1457",
+          "scheme": "europarlmep"
+        },
+        {
           "identifier": "d0d44bef-1e77-4613-913d-ea1940cb9fad",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/0bs3399",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "d0d44bef-1e77-4613-913d-ea1940cb9fad",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "311427946",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q1087152",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/89/Christos_Papoutsis.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Christos_Papoutsis.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Khristos_Paputsís"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Christos_Papoutsis"
+        },
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Χρήστος_Παπουτσής"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Christos_Papoutsis"
+        },
+        {
+          "note": "Wikipedia (eo)",
+          "url": "https://eo.wikipedia.org/wiki/Kristos_Paputsis"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Christos_Papoutsis"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Chrístos_Papoutsís"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Christos_Papoutsis"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Christos_Paputsis"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Папуцис,_Христос"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Christos_Papoutsis"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Христос_Папуціс"
         }
       ],
       "name": "Papoutsis Christos",
       "other_names": [
         {
+          "name": "Christos Papoutsis",
+          "note": "alternate"
+        },
+        {
+          "lang": "ca",
+          "name": "Christos Papoutsis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Christos Papoutsis",
+          "note": "multilingual"
+        },
+        {
           "lang": "el",
           "name": "Παπουτσής Δημητρίου Χρήστος",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Χρήστος Παπουτσής",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Christos Papoutsis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Kristos Paputsis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Christos Papoutsis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Christos Papoutsis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Christos Papoutsis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Christos Papoutsis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Christos Paputsis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Папуцис, Христос",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Christos Papoutsis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Христос Папуціс",
           "note": "multilingual"
         }
       ],
@@ -48111,6 +49289,7 @@
       ]
     },
     {
+      "birth_date": "1952-01-21",
       "contact_details": [
         {
           "type": "email",
@@ -48128,6 +49307,14 @@
         {
           "identifier": "b461e06d-3c5a-40b3-b77c-99e5ab05770b",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "b461e06d-3c5a-40b3-b77c-99e5ab05770b",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "Q15664299",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/Parastatidis%20Theodoros_1.jpg",
@@ -48137,6 +49324,18 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Теодорос_Парастатидис"
+        },
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Θεόδωρος_Παραστατίδης"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Theódoros_Parastatídis"
+        },
         {
           "note": "twitter",
           "url": "https://twitter.com/tparastatidis"
@@ -48149,12 +49348,36 @@
       "name": "Parastatidis Theodoros",
       "other_names": [
         {
+          "name": "Theodoros Parastatidis",
+          "note": "alternate"
+        },
+        {
           "name": "theodor parastatidis",
           "note": "alternate"
         },
         {
+          "lang": "bg",
+          "name": "Теодорос Парастатидис",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Θεόδωρος Παραστατίδης",
+          "note": "multilingual"
+        },
+        {
           "lang": "el",
           "name": "Παραστατίδης Σωκράτη Θεόδωρος",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Theodoros Parastatidis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Theodoros Parastatidis",
           "note": "multilingual"
         }
       ],
@@ -48442,18 +49665,67 @@
       ]
     },
     {
+      "birth_date": "1943-10-31",
+      "gender": "male",
       "id": "3665b0b1-83c9-4d6b-9c76-d97efeea8d6c",
       "identifiers": [
         {
           "identifier": "bde94c0b-3720-4a2f-9283-e4f3040407a4",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "bde94c0b-3720-4a2f-9283-e4f3040407a4",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "Q4791088",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Αριστοτέλης_Παυλίδης"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Aristotelis_Pavlidis"
         }
       ],
       "name": "Pavlidis Aristotelis",
       "other_names": [
         {
+          "name": "Aristotelis Pavlidis",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Aristotelis Pavlidis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Αριστοτέλης Παυλίδης",
+          "note": "multilingual"
+        },
+        {
           "lang": "el",
           "name": "Παυλίδης Αντωνίου Αριστοτέλης",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Aristotelis Pavlidis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Aristotelis Pavlidis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Aristotelis Pavlidis",
           "note": "multilingual"
         }
       ],
@@ -48500,18 +49772,509 @@
       ]
     },
     {
+      "birth_date": "1950-07-10",
+      "gender": "male",
       "id": "72b7d86b-48b3-4fe0-8874-567a91cbf796",
       "identifiers": [
         {
+          "identifier": "15843",
+          "scheme": "biblionet"
+        },
+        {
           "identifier": "88073c0e-1c80-4c78-95d6-d1d3c0a2f736",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/0bd1pv",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "88073c0e-1c80-4c78-95d6-d1d3c0a2f736",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "0000 0000 3509 4060",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "n85174980",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "070022127",
+          "scheme": "nta"
+        },
+        {
+          "identifier": "078765587",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "18660363",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q3407316",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/50/Prokopis_Pavlopoulos_2008.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Prokopis_Pavlopoulos_2008.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/بروكوبيس_بافلوبولوس"
+        },
+        {
+          "note": "Wikipedia (ast)",
+          "url": "https://ast.wikipedia.org/wiki/Prokopis_Pavlopoulos"
+        },
+        {
+          "note": "Wikipedia (az)",
+          "url": "https://az.wikipedia.org/wiki/Prokopis_Pavlopulos"
+        },
+        {
+          "note": "Wikipedia (be)",
+          "url": "https://be.wikipedia.org/wiki/Пракопіс_Паўлопулас"
+        },
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Прокопис_Павлопулос"
+        },
+        {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Prokopis_Pavlópulos"
+        },
+        {
+          "note": "Wikipedia (ckb)",
+          "url": "https://ckb.wikipedia.org/wiki/پرۆکۆپیس_پاڤلۆپۆلۆس"
+        },
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Prokopis_Pavlopoulos"
+        },
+        {
+          "note": "Wikipedia (cs)",
+          "url": "https://cs.wikipedia.org/wiki/Prokopis_Pavlopulos"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Prokopis_Pavlopoulos"
+        },
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Προκόπης_Παυλόπουλος"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Prokopis_Pavlopoulos"
+        },
+        {
+          "note": "Wikipedia (eo)",
+          "url": "https://eo.wikipedia.org/wiki/Prokopis_Pavlopoulos"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Prokopis_Pavlopoulos"
+        },
+        {
+          "note": "Wikipedia (et)",
+          "url": "https://et.wikipedia.org/wiki/Prokópis_Pavlópoulos"
+        },
+        {
+          "note": "Wikipedia (fa)",
+          "url": "https://fa.wikipedia.org/wiki/پروکوپیس_پاولوپولوس"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Prokopis_Pavlopoulos"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Prokópis_Pavlópoulos"
+        },
+        {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/Prokópisz_Pavlópulosz"
+        },
+        {
+          "note": "Wikipedia (hy)",
+          "url": "https://hy.wikipedia.org/wiki/Պրոկոպիս_Պավլոպուլոս"
+        },
+        {
+          "note": "Wikipedia (id)",
+          "url": "https://id.wikipedia.org/wiki/Prokopis_Pavlopoulos"
+        },
+        {
+          "note": "Wikipedia (io)",
+          "url": "https://io.wikipedia.org/wiki/Prokopis_Pavlopoulos"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Prokopīs_Paulopoulos"
+        },
+        {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/プロコピス・パヴロプロス"
+        },
+        {
+          "note": "Wikipedia (ka)",
+          "url": "https://ka.wikipedia.org/wiki/პროკოპის_პავლოპულოსი"
+        },
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/프로코피스_파블로풀로스"
+        },
+        {
+          "note": "Wikipedia (la)",
+          "url": "https://la.wikipedia.org/wiki/Procopius_Paulopulus"
+        },
+        {
+          "note": "Wikipedia (lb)",
+          "url": "https://lb.wikipedia.org/wiki/Prokopis_Pavlopoulos"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Prokopis_Pavlopoulos"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Prokopis_Pavlopoulos"
+        },
+        {
+          "note": "Wikipedia (oc)",
+          "url": "https://oc.wikipedia.org/wiki/Procòpis_Pavlòpolos"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Prokopis_Pawlopulos"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Prokópis_Pavlópoulos"
+        },
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Prokopis_Pavlopoulos"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Павлопулос,_Прокопис"
+        },
+        {
+          "note": "Wikipedia (sco)",
+          "url": "https://sco.wikipedia.org/wiki/Prokopis_Pavlopoulos"
+        },
+        {
+          "note": "Wikipedia (sr)",
+          "url": "https://sr.wikipedia.org/wiki/Прокопис_Павлопулос"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Prokopis_Pavlopoulos"
+        },
+        {
+          "note": "Wikipedia (ta)",
+          "url": "https://ta.wikipedia.org/wiki/புரோகோபிசு_பாவ்லோபூலோசு"
+        },
+        {
+          "note": "Wikipedia (tr)",
+          "url": "https://tr.wikipedia.org/wiki/Prokopis_Pavlopulos"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Прокопіс_Павлопулос"
+        },
+        {
+          "note": "Wikipedia (vi)",
+          "url": "https://vi.wikipedia.org/wiki/Prokopis_Pavlopoulos"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/普罗科皮斯·帕夫洛普洛斯"
+        },
+        {
+          "note": "website",
+          "url": "http://www.ppavlopoulos.gr/"
         }
       ],
       "name": "Pavlopoulos Prokopios",
       "other_names": [
         {
+          "name": "Prokopis Pavlopoulos",
+          "note": "alternate"
+        },
+        {
+          "lang": "af",
+          "name": "Prokopis Pavlopoulos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "بروكوبيس بافلوبولوس",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ast",
+          "name": "Prokopis Pavlopoulos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "az",
+          "name": "Prokopis Pavlopoulos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be",
+          "name": "Пракопіс Паўлопулас",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Прокопис Павлопулос",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Prokopis Pavlópulos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ckb",
+          "name": "پرۆکۆپیس پاڤلۆپۆلۆس",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Prokopis Pavlopulos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Prokopis Pavlopoulos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Prokopis Pavlopoulos",
+          "note": "multilingual"
+        },
+        {
           "lang": "el",
           "name": "Παυλόπουλος Βασιλείου Προκόπιος",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Προκόπης Παυλόπουλος",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Prokopis Pavlopoulos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Prokopis Pavlopoulos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Prokopis Pavlopoulos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Prokópis Pavlópoulos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "پروکوپیس پاولوپولوس",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Prokopis Pavlopoulos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Prokópis Pavlópoulos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "frr",
+          "name": "Prokopis Pavlopoulos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fy",
+          "name": "Prokopis Pavlopoulos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Prokópisz Pavlópulosz",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hy",
+          "name": "Պրոկոպիս Պավլոպուլոս",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Prokopis Pavlopoulos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "io",
+          "name": "Prokopis Pavlopoulos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Prokopīs Paulopoulos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "プロコピス・パヴロプロス",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "პროკოპის პავლოპულოსი",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "프로코피스 파블로풀로스",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Procopius Paulopulus",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lb",
+          "name": "Prokopis Pavlopoulos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "Прокопис Павлопулос",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Prokopis Pavlopoulos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nds",
+          "name": "Prokopis Pavlopoulos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Prokopis Pavlopoulos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Prokopis Pavlopoulos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Procòpis Pavlòpolos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Prokopis Pawlopulos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pms",
+          "name": "Prokopis Pavlopoulos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Prokopis Pavlopoulos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Prokopis Pavlopoulos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Павлопулос, Прокопис",
+          "note": "multilingual"
+        },
+        {
+          "lang": "scn",
+          "name": "Prokopis Pavlopoulos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "Prokopis Pavlopoulos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Prokopis Pavlopoulos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Prokopis Pavlopoulos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Прокопис Павлопулос",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Prokopis Pavlopoulos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "புரோகோபிசு பாவ்லோபூலோசு",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Prokopis Pavlopoulos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Прокопіс Павлопулос",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Prokopis Pavlopoulos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "普罗科皮斯·帕夫洛普洛斯",
           "note": "multilingual"
         }
       ],
@@ -50621,6 +52384,10 @@
       "id": "5f106a41-2154-41c9-8661-759a6718cc5d",
       "identifiers": [
         {
+          "identifier": "35893",
+          "scheme": "biblionet"
+        },
+        {
           "identifier": "161604204",
           "scheme": "bnf"
         },
@@ -50705,6 +52472,10 @@
         {
           "note": "Wikipedia (et)",
           "url": "https://et.wikipedia.org/wiki/Geórgios_Rállis"
+        },
+        {
+          "note": "Wikipedia (fa)",
+          "url": "https://fa.wikipedia.org/wiki/گئورگیوس_رالیس"
         },
         {
           "note": "Wikipedia (fr)",
@@ -51101,18 +52872,134 @@
       ]
     },
     {
+      "birth_date": "1952-07-06",
+      "gender": "male",
+      "given_name": "Dimitris",
       "id": "689e82d3-10f4-4d20-9a3c-b486f4471b77",
       "identifiers": [
         {
+          "identifier": "11272",
+          "scheme": "biblionet"
+        },
+        {
           "identifier": "840acdd8-98e8-4a03-8e9f-03454c787331",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/0gh8sr0",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "142749834",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "840acdd8-98e8-4a03-8e9f-03454c787331",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "n00036708",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "72624197",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q1226051",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Reppas_Dimitris.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Reppas_Dimitris.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Dimitris_Reppas"
+        },
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Δημήτρης_Ρέππας"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Dimitris_Reppas"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Dimítris_Réppas"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Реппас,_Димитрис"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Дімітріс_Реппас"
+        },
+        {
+          "note": "website",
+          "url": "http://www.dimitrisreppas.gr"
         }
       ],
       "name": "Reppas Dimitrios",
       "other_names": [
         {
+          "name": "Dimitris Reppas",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Dimitris Reppas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Δημήτρης Ρέππας",
+          "note": "multilingual"
+        },
+        {
           "lang": "el",
           "name": "Ρέππας Παναγιώτη Δημήτριος",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Dimitris Reppas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Dimitris Reppas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Dimítris Réppas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Dimitris Reppas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Dimitris Reppas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Реппас, Димитрис",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Дімітріс Реппас",
           "note": "multilingual"
         }
       ],
@@ -56192,6 +58079,10 @@
         {
           "note": "Wikipedia (et)",
           "url": "https://et.wikipedia.org/wiki/Michaíl_Stasinópoulos"
+        },
+        {
+          "note": "Wikipedia (fa)",
+          "url": "https://fa.wikipedia.org/wiki/میکائیل_استاسینوپولوس"
         },
         {
           "note": "Wikipedia (fr)",
@@ -62320,6 +64211,10 @@
           "url": "https://et.wikipedia.org/wiki/Tzanís_Tzannetákis"
         },
         {
+          "note": "Wikipedia (fa)",
+          "url": "https://fa.wikipedia.org/wiki/تزانیس_تزانتاکیس"
+        },
+        {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Tzannís_Tzannetákis"
         },
@@ -64225,6 +66120,10 @@
         {
           "note": "Wikipedia (et)",
           "url": "https://et.wikipedia.org/wiki/Evángelos_Venizélos"
+        },
+        {
+          "note": "Wikipedia (fa)",
+          "url": "https://fa.wikipedia.org/wiki/اوانجلوس_ونیزلوس"
         },
         {
           "note": "Wikipedia (fi)",
