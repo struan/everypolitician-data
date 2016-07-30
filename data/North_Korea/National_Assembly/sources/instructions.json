@@ -5,7 +5,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/north-korea-assembly-wikipedia",
-        "query": "SELECT * FROM data"
+        "query": "SELECT * FROM data ORDER BY name"
       },
       "source": "https://en.wikipedia.org/wiki/North_Korean_parliamentary_election,_2014",
       "type": "membership"
@@ -15,7 +15,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/north-korea-assembly-wikidata",
-        "query": "SELECT * FROM data"
+        "query": "SELECT * FROM data ORDER BY id"
       },
       "type": "wikidata",
       "merge": {
