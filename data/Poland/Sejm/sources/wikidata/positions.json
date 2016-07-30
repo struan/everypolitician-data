@@ -449,6 +449,12 @@
       "qualifiers": {
         "P580": "2004-05-01"
       }
+    },
+    {
+      "id": "Q740126",
+      "label": "President of the European Parliament",
+      "title": "President of the European Parliament",
+      "description": "position"
     }
   ],
   "Q351039": [
@@ -2006,16 +2012,6 @@
   ],
   "Q9151911": [
     {
-      "id": "Q27169",
-      "label": "member of the European Parliament",
-      "title": "member of the European Parliament",
-      "description": "person who has been elected to the European Parliament",
-      "qualifiers": {
-        "P580": "2014-07-01",
-        "P582": "2015-05-25"
-      }
-    },
-    {
       "id": "Q1054799",
       "label": "President of Poland",
       "title": "President of Poland",
@@ -2023,6 +2019,16 @@
       "qualifiers": {
         "P580": "2015-08-06",
         "P1365": "Bronisław Komorowski"
+      }
+    },
+    {
+      "id": "Q27169",
+      "label": "member of the European Parliament",
+      "title": "member of the European Parliament",
+      "description": "person who has been elected to the European Parliament",
+      "qualifiers": {
+        "P580": "2014-07-01",
+        "P582": "2015-05-25"
       }
     },
     {
