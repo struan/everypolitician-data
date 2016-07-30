@@ -2,6 +2,16 @@
   "exclude": {
     "self": [
       {
+        "id": "Q24306162",
+        "name": "MP for Aetolia-Acarnania",
+        "description": null
+      },
+      {
+        "id": "Q24306118",
+        "name": "MP for Athens",
+        "description": null
+      },
+      {
         "id": "Q18915989",
         "name": "Member of the Hellenic Parliament"
       }
@@ -24,6 +34,21 @@
       }
     ],
     "executive": [
+      {
+        "id": "Q23836178",
+        "name": "Deputy Foreign Minister",
+        "description": "Greek deputy minister"
+      },
+      {
+        "id": "Q23639512",
+        "name": "Deputy Minister of Employment",
+        "description": "undersecretary to a ministry of the Greek government"
+      },
+      {
+        "id": "Q23640247",
+        "name": "Deputy Minister of Labour",
+        "description": "undersecretary to a ministry of the Greek government"
+      },
       {
         "id": "Q3394691",
         "name": "Deputy Prime Minister of Greece"
@@ -64,6 +89,11 @@
       {
         "id": "Q6865935",
         "name": "Minister for National Defence of Greece"
+      },
+      {
+        "id": "Q6866010",
+        "name": "Minister for the Press and the Media",
+        "description": null
       },
       {
         "id": "Q20128305",
@@ -126,6 +156,11 @@
         "name": "Minister of Education, Lifelong Learning and Religions of Greece"
       },
       {
+        "id": "Q23901445",
+        "name": "Minister of Environment, Energy and Climate Change",
+        "description": "Greek government minister"
+      },
+      {
         "id": "Q19942136",
         "name": "Minister of Environment, Planning and Public Works of Greece"
       },
@@ -163,6 +198,11 @@
         "description": "Greek government minister"
       },
       {
+        "id": "Q23901415",
+        "name": "Minister of Labour and Social Insurance of Greece",
+        "description": "Greek government minister"
+      },
+      {
         "id": "Q23901414",
         "name": "Minister of Labour and Social Security of Greece"
       },
@@ -177,6 +217,11 @@
       {
         "id": "Q19904275",
         "name": "Minister of Public Order"
+      },
+      {
+        "id": "Q23901391",
+        "name": "Minister of Public Order and Citizen Protection",
+        "description": "Greek government minister"
       },
       {
         "id": "Q19904300",
@@ -218,6 +263,11 @@
       {
         "id": "Q19858568",
         "name": "Minister of the Presidency of Greece"
+      },
+      {
+        "id": "Q20128287",
+        "name": "Minister to the Prime Minister of Greece",
+        "description": "Greek government minister"
       },
       {
         "id": "Q19860614",
@@ -268,29 +318,16 @@
       {
         "id": "Q21712224",
         "name": "Mayor of Preveza"
+      },
+      {
+        "id": "Q23772807",
+        "name": "Member of the Athens Academy",
+        "description": null
       }
     ]
   },
   "unknown": {
     "unknown": [
-      {
-        "id": "Q23836178",
-        "name": "Deputy Foreign Minister",
-        "description": "Greek deputy minister",
-        "count": 5
-      },
-      {
-        "id": "Q23639512",
-        "name": "Deputy Minister of Employment",
-        "description": "undersecretary to a ministry of the Greek government",
-        "count": 1
-      },
-      {
-        "id": "Q23640247",
-        "name": "Deputy Minister of Labour",
-        "description": "undersecretary to a ministry of the Greek government",
-        "count": 2
-      },
       {
         "id": "Q6501749",
         "name": "General Secretary",
@@ -302,54 +339,6 @@
         "name": "Greek minister",
         "description": null,
         "count": 3
-      },
-      {
-        "id": "Q24306162",
-        "name": "MP for Aetolia-Acarnania",
-        "description": null,
-        "count": 4
-      },
-      {
-        "id": "Q24306118",
-        "name": "MP for Athens",
-        "description": null,
-        "count": 3
-      },
-      {
-        "id": "Q23772807",
-        "name": "Member of the Athens Academy",
-        "description": null,
-        "count": 5
-      },
-      {
-        "id": "Q6866010",
-        "name": "Minister for the Press and the Media",
-        "description": null,
-        "count": 1
-      },
-      {
-        "id": "Q23901445",
-        "name": "Minister of Environment, Energy and Climate Change",
-        "description": "Greek government minister",
-        "count": 1
-      },
-      {
-        "id": "Q23901415",
-        "name": "Minister of Labour and Social Insurance of Greece",
-        "description": "Greek government minister",
-        "count": 1
-      },
-      {
-        "id": "Q23901391",
-        "name": "Minister of Public Order and Citizen Protection",
-        "description": "Greek government minister",
-        "count": 2
-      },
-      {
-        "id": "Q20128287",
-        "name": "Minister to the Prime Minister of Greece",
-        "description": "Greek government minister",
-        "count": 2
       },
       {
         "id": "Q2606039",
