@@ -26,6 +26,11 @@
         "name": "Minister of Defence"
       },
       {
+        "id": "Q6866137",
+        "name": "Minister of Finance of Sri Lanka",
+        "description": null
+      },
+      {
         "id": "Q2914380",
         "name": "President of Sri Lanka"
       },
@@ -50,7 +55,24 @@
   },
   "unknown": {
     "unknown": [
-
+      {
+        "id": "Q198668",
+        "name": "Ministry of Education",
+        "description": "Sri Lankan ministry responsible for education",
+        "count": 1
+      },
+      {
+        "id": "Q16056500",
+        "name": "Ministry of Fisheries and Aquatic Resources Development",
+        "description": null,
+        "count": 1
+      },
+      {
+        "id": "Q17070513",
+        "name": "Ministry of Foreign Employment Promotion and Welfare",
+        "description": null,
+        "count": 1
+      }
     ]
   }
 }
