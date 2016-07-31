@@ -31,7 +31,7 @@
       "create": {
         "from": "morph",
         "scraper": "andylolz/gibraltar-parliament",
-        "query": "SELECT * FROM terms"
+        "query": "SELECT * FROM terms ORDER BY id"
       },
       "source": "http://www.parliament.gi/",
       "type": "term"
@@ -41,7 +41,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/gibraltar-parliament-wikidata",
-        "query": "SELECT * FROM data"
+        "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "http://wikidata.org/",
       "type": "wikidata",
