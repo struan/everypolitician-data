@@ -23,6 +23,21 @@
       }
     },
     {
+      "file": "morph/term-6.csv",
+      "create": {
+        "from": "morph",
+        "scraper": "everypolitician-scrapers/kazakhstan-mazhilis",
+        "query": "SELECT * FROM data ORDER BY id"
+      },
+      "source": "http://www.parlam.kz",
+      "merge": {
+          "incoming_field": "name",
+          "existing_field": "name",
+          "reconciliation_file": "reconciliation/term-6.csv"
+      },
+      "type": "membership"
+    },
+    {
       "file": "wikidata/groups.json",
       "type": "group",
       "create": {
