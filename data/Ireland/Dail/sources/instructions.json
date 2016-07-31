@@ -21,6 +21,21 @@
       }
     },
     {
+      "file": "morph/twitter-donie.csv",
+      "create": {
+        "from": "morph",
+        "scraper": "everypolitician-scrapers/twitter-ireland-donie",
+        "query": "SELECT id, name as temp_name, twitter, image FROM data ORDER BY id"
+      },
+      "source": "https://twitter.com/donie/lists/32d",
+      "type": "person",
+      "merge": {
+        "incoming_field": "temp_name",
+        "existing_field": "name",
+        "reconciliation_file": "reconciliation/twitter-donie.csv"
+      }
+    },
+    {
       "file": "morph/wikidata.csv",
       "create": {
         "from": "morph",
