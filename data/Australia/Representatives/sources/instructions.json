@@ -75,7 +75,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/australia-openaustralia",
-        "query": "SELECT * FROM terms"
+        "query": "SELECT * FROM terms ORDER BY id"
       },
       "type": "term"
     },
