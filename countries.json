@@ -3705,11 +3705,11 @@
         "slug": "Parliament",
         "sources_directory": "data/Greece/Parliament/sources",
         "popolo": "data/Greece/Parliament/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a6c64b9/data/Greece/Parliament/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/427da24/data/Greece/Parliament/ep-popolo-v1.0.json",
         "names": "data/Greece/Parliament/names.csv",
-        "lastmod": "1470064810",
+        "lastmod": "1470072937",
         "person_count": 1783,
-        "sha": "a6c64b9",
+        "sha": "427da24",
         "legislative_periods": [
           {
             "id": "term/17",
@@ -3825,7 +3825,7 @@
             "start_date": "1989-06-18",
             "slug": "5",
             "csv": "data/Greece/Parliament/term-5.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/77f418d/data/Greece/Parliament/term-5.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/427da24/data/Greece/Parliament/term-5.csv"
           },
           {
             "end_date": "1989-06-02",
@@ -3834,7 +3834,7 @@
             "start_date": "1985-06-02",
             "slug": "4",
             "csv": "data/Greece/Parliament/term-4.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/77f418d/data/Greece/Parliament/term-4.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/427da24/data/Greece/Parliament/term-4.csv"
           },
           {
             "end_date": "1985-05-07",
@@ -3843,7 +3843,7 @@
             "start_date": "1981-10-18",
             "slug": "3",
             "csv": "data/Greece/Parliament/term-3.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/77f418d/data/Greece/Parliament/term-3.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/427da24/data/Greece/Parliament/term-3.csv"
           },
           {
             "end_date": "1981-09-19",
@@ -3852,7 +3852,7 @@
             "start_date": "1977-11-20",
             "slug": "2",
             "csv": "data/Greece/Parliament/term-2.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/77f418d/data/Greece/Parliament/term-2.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/427da24/data/Greece/Parliament/term-2.csv"
           },
           {
             "end_date": "1977-10-22",
@@ -3861,10 +3861,10 @@
             "start_date": "1974-11-17",
             "slug": "1",
             "csv": "data/Greece/Parliament/term-1.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/77f418d/data/Greece/Parliament/term-1.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/427da24/data/Greece/Parliament/term-1.csv"
           }
         ],
-        "statement_count": 65658
+        "statement_count": 65884
       }
     ]
   },
