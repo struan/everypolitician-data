@@ -87,8 +87,8 @@
       "type": "person",
       "source": "https://twitter.com/Montecitorio/lists/deputati",
       "merge": {
-        "incoming_field": "temp_name",
-        "existing_field": "name",
+        "incoming_field": "twitter",
+        "existing_field": "twitter",
         "reconciliation_file": "reconciliation/twitter.csv"
       }
     }
