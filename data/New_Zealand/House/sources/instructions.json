@@ -5,7 +5,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/new-zealand-parliament",
-        "query": "SELECT * FROM data"
+        "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "http://www.parliament.nz",
       "type": "membership"
@@ -30,7 +30,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/new-zealand-parliament-wikidata",
-        "query": "SELECT * FROM data"
+        "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "http://wikidata.org/",
       "type": "wikidata",

@@ -411,6 +411,12 @@
       "label": "Member of the New Zealand House of Representatives",
       "title": "Member of the New Zealand House of Representatives",
       "description": "representative elected by the voters in New Zealand"
+    },
+    {
+      "id": "Q25998902",
+      "label": "Minister of Social Development",
+      "title": "Minister of Social Development",
+      "description": "minister in New Zealand"
     }
   ],
   "Q5301028": [
@@ -2206,13 +2212,29 @@
     {
       "id": "Q6866108",
       "label": "Minister of Education",
-      "title": "Minister of Education"
+      "title": "Minister of Education",
+      "qualifiers": {
+        "P580": "2008-11-19",
+        "P582": "2011-11-25",
+        "P1365": "Chris Carter",
+        "P1366": "Hekia Parata"
+      }
     },
     {
       "id": "Q6866081",
       "label": "Minister of Corrections",
       "title": "Minister of Corrections",
       "description": "New Zealand minister"
+    },
+    {
+      "id": "Q25998902",
+      "label": "Minister of Social Development",
+      "title": "Minister of Social Development",
+      "description": "minister in New Zealand",
+      "qualifiers": {
+        "P580": "2014-10-13",
+        "P1365": "Paula Bennett"
+      }
     }
   ],
   "Q20983272": [
