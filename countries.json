@@ -5005,13 +5005,22 @@
         "slug": "Assembly",
         "sources_directory": "data/Kazakhstan/Assembly/sources",
         "popolo": "data/Kazakhstan/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a4f9ea6/data/Kazakhstan/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a472afa/data/Kazakhstan/Assembly/ep-popolo-v1.0.json",
         "names": "data/Kazakhstan/Assembly/names.csv",
-        "lastmod": "1469384213",
-        "person_count": 107,
-        "sha": "a4f9ea6",
+        "lastmod": "1470143794",
+        "person_count": 171,
+        "sha": "a472afa",
         "legislative_periods": [
           {
+            "id": "term/6",
+            "name": "Sixth Convocation",
+            "start_date": "2016-03-25",
+            "slug": "6",
+            "csv": "data/Kazakhstan/Assembly/term-6.csv",
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2e6a53f/data/Kazakhstan/Assembly/term-6.csv"
+          },
+          {
+            "end_date": "2016-01-20",
             "id": "term/5",
             "name": "Fifth Convocation",
             "start_date": "2012-01-15",
@@ -5020,7 +5029,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/afe5f27/data/Kazakhstan/Assembly/term-5.csv"
           }
         ],
-        "statement_count": 2255
+        "statement_count": 3932
       }
     ]
   },
