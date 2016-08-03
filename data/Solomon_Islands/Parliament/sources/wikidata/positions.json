@@ -39,7 +39,13 @@
       "id": "Q1425954",
       "label": "Prime Minister of the Solomon Islands",
       "title": "Prime Minister of the Solomon Islands",
-      "description": "position"
+      "description": "position",
+      "qualifiers": {
+        "P580": "2010-08-25",
+        "P582": "2011-11-16",
+        "P1365": "Derek Sikua",
+        "P1366": "Gordon Darcy Lilo"
+      }
     },
     {
       "id": "Q17633943",
@@ -171,6 +177,12 @@
       "id": "Q17633943",
       "label": "Member of the National Parliament of the Solomon Islands",
       "title": "Member of the National Parliament of the Solomon Islands"
+    },
+    {
+      "id": "Q1425954",
+      "label": "Prime Minister of the Solomon Islands",
+      "title": "Prime Minister of the Solomon Islands",
+      "description": "position"
     }
   ],
   "Q5360910": [
