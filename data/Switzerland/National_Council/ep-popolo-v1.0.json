@@ -8616,6 +8616,12 @@
     },
     {
       "birth_date": "1972-06-10",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "BernhardGuhl"
+        }
+      ],
       "family_name": "Guhl",
       "gender": "male",
       "given_name": "Bernhard",
@@ -8638,12 +8644,19 @@
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Bernhard_Guhl.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/378800000740692522/7abcb23e974f0722180179e0104c14f1.jpeg"
         }
       ],
       "links": [
         {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Bernhard_Guhl"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/BernhardGuhl"
         }
       ],
       "name": "Bernhard Guhl",
@@ -51804,6 +51817,12 @@
     },
     {
       "birth_date": "1968-06-30",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "LandoltMartin"
+        }
+      ],
       "family_name": "Landolt",
       "gender": "male",
       "given_name": "Martin",
@@ -51826,6 +51845,9 @@
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Martin_Landolt,_2009_2.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/643469425174310912/Ww6ANwN8.jpg"
         }
       ],
       "links": [
@@ -51852,6 +51874,10 @@
         {
           "note": "Wikipedia (la)",
           "url": "https://la.wikipedia.org/wiki/Martinus_Landolt"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/LandoltMartin"
         }
       ],
       "name": "Martin Landolt",
@@ -84049,7 +84075,8 @@
   "meta": {
     "sources": [
       "http://ws.parlament.ch",
-      "https://www.wikidata.org/"
+      "https://www.wikidata.org/",
+      "https://morph.io/everypolitician-scrapers/twitter-list-switzerland"
     ]
   },
   "memberships": [
