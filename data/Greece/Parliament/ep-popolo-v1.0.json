@@ -51084,7 +51084,7 @@
       ]
     },
     {
-      "birth_date": "1947",
+      "birth_date": "1947-05-13",
       "death_date": "2014-12-10",
       "gender": "male",
       "id": "f4f27d3c-1071-4fe2-9233-4d2de9779ba5",
@@ -60332,6 +60332,10 @@
         {
           "identifier": "8bbafadc-472f-4e30-8ec9-d8783150e3f8",
           "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "nm1680430",
+          "scheme": "imdb"
         },
         {
           "identifier": "0000 0001 1474 1190",
@@ -71714,6 +71718,16 @@
         {
           "lang": "cs",
           "name": "bez stranické příslušnosti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "нестраначки политичар",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "ванстраначки политичар",
           "note": "multilingual"
         }
       ]
