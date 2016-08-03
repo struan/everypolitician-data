@@ -1,8 +1,8 @@
 GIT
   remote: git://github.com/everypolitician/everypolitician-popolo.git
-  revision: 93cb11e84249806ca2001fce18e300466c779414
+  revision: 25b8a284b556b60dbe05ba11843b8743aca00975
   specs:
-    everypolitician-popolo (0.4.0)
+    everypolitician-popolo (0.5.0)
 
 GIT
   remote: git://github.com/everypolitician/everypolitician-ruby.git
@@ -94,7 +94,7 @@ DEPENDENCIES
   colorize
   csv_to_popolo (~> 0.26.0)!
   everypolitician!
-  everypolitician-popolo!
+  everypolitician-popolo (~> 0.5.0)!
   facebook_username_extractor (~> 0.2.0)
   fuzzy_match
   json
