@@ -68,8 +68,8 @@
       "type": "person",
       "source": "https://morph.io/everypolitician-scrapers/twitter-list-switzerland",
       "merge": {
-        "incoming_field": "twitter",
-        "existing_field": "twitter",
+        "incoming_field": "name",
+        "existing_field": "name",
         "reconciliation_file": "reconciliation/twitter.csv"
       }
     }
