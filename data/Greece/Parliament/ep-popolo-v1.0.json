@@ -51084,7 +51084,7 @@
       ]
     },
     {
-      "birth_date": "1947",
+      "birth_date": "1947-05-13",
       "death_date": "2014-12-10",
       "gender": "male",
       "id": "f4f27d3c-1071-4fe2-9233-4d2de9779ba5",
@@ -60286,18 +60286,88 @@
       ]
     },
     {
+      "birth_date": "1953-03-06",
+      "gender": "male",
+      "given_name": "Petros",
       "id": "795dbdee-8388-493f-b30a-104a4bdededf",
       "identifiers": [
         {
+          "identifier": "79946",
+          "scheme": "biblionet"
+        },
+        {
           "identifier": "401df417-ae33-4369-9efd-e6349f006efe",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "401df417-ae33-4369-9efd-e6349f006efe",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "Q12882548",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/33/Petros_Tatoulis.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Petros_Tatoulis.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Πέτρος_Τατούλης"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Petros_Tatoulis"
         }
       ],
       "name": "Tatoulis Panagioti Petros",
       "other_names": [
         {
+          "name": "Petros Tatoulis",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Petros Tatoulis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Πέτρος Τατούλης",
+          "note": "multilingual"
+        },
+        {
           "lang": "el",
           "name": "Τατούλης Παναγιώτη Πέτρος",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Petros Tatoulis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Petros Tatoulis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Petros Tatoulis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Petros Tatoulis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Petros Tatoulis",
           "note": "multilingual"
         }
       ],
@@ -60332,6 +60402,10 @@
         {
           "identifier": "8bbafadc-472f-4e30-8ec9-d8783150e3f8",
           "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "nm1680430",
+          "scheme": "imdb"
         },
         {
           "identifier": "0000 0001 1474 1190",
@@ -62176,18 +62250,147 @@
       ]
     },
     {
+      "birth_date": "1909-01-22",
+      "death_date": "1993-01-18",
+      "gender": "male",
+      "given_name": "Konstantinos",
       "id": "ffe2f88d-813f-4a75-a734-99ad806bb9c9",
       "identifiers": [
         {
+          "identifier": "23287",
+          "scheme": "biblionet"
+        },
+        {
+          "identifier": "118877390",
+          "scheme": "bnf"
+        },
+        {
           "identifier": "22719511-e48c-4573-84d1-992a5a0a9222",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "1800107",
+          "scheme": "fast"
+        },
+        {
+          "identifier": "1025494563",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "22719511-e48c-4573-84d1-992a5a0a9222",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "0000 0001 0916 8529",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "n80094452",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "1233292",
+          "scheme": "nlatrove"
+        },
+        {
+          "identifier": "068839073",
+          "scheme": "nta"
+        },
+        {
+          "identifier": "026673193",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "76310807",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q1128026",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Constantine_A._Trypanis"
+        },
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Κωνσταντίνος_Τρυπάνης"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/C._A._Trypanis"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Трипанис,_Константин"
         }
       ],
       "name": "Trypanis Konstantinos",
       "other_names": [
         {
+          "name": "C. A. Trypanis",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Constantine A. Trypanis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de-ch",
+          "name": "Constantine A. Trypanis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Κωνσταντίνος Τρυπάνης",
+          "note": "multilingual"
+        },
+        {
           "lang": "el",
           "name": "Τρυπάνης Αθανάσιου Κωνσταντίνος",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "C. A. Trypanis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "C. A. Trypanis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "C. A. Trypanis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "C. A. Trypanis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "C. A. Trypanis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "C. A. Trypanis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "C. A. Trypanis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Трипанис, Константин",
           "note": "multilingual"
         }
       ],
@@ -71714,6 +71917,16 @@
         {
           "lang": "cs",
           "name": "bez stranické příslušnosti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "нестраначки политичар",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "ванстраначки политичар",
           "note": "multilingual"
         }
       ]

@@ -1,4 +1,78 @@
 {
+  "Q206421": [
+    {
+      "id": "Q3409203",
+      "label": "President of Greece",
+      "title": "President of Greece",
+      "qualifiers": {
+        "P580": "1995-03-10",
+        "P582": "2005-03-12",
+        "P1365": "Konstantinos Karamanlis",
+        "P1366": "Karolos Papoulias"
+      }
+    },
+    {
+      "id": "Q19858317",
+      "label": "Greek Minister of the Interior",
+      "title": "Greek Minister of the Interior (of Fifth Cabinet of Konstantinos Karamanlis)",
+      "description": "Greek government minister",
+      "qualifiers": {
+        "P580": "1974-11-21",
+        "P582": "1976-09-10",
+        "P1365": "Panagiotis Zepos",
+        "P1366": "Q17605356",
+        "P642": "Fifth Cabinet of Konstantinos Karamanlis"
+      }
+    },
+    {
+      "id": "Q19858568",
+      "label": "Minister of the Presidency of Greece",
+      "title": "Minister of the Presidency of Greece (of Sixth Cabinet of Konstantinos Karamanlis)",
+      "description": "Greek government minister",
+      "qualifiers": {
+        "P580": "1977-11-28",
+        "P582": "1981-10-21",
+        "P1365": "Georgios Rallis",
+        "P1366": "Menios Koutsogiorgas",
+        "P642": "Sixth Cabinet of Konstantinos Karamanlis"
+      }
+    },
+    {
+      "id": "Q20083739",
+      "label": "Minister of Social Services of Greece",
+      "title": "Minister of Social Services of Greece (of Fifth Cabinet of Konstantinos Karamanlis)",
+      "description": "Greek government minister",
+      "qualifiers": {
+        "P580": "1976-09-10",
+        "P582": "1977-11-28",
+        "P1365": "Q20083737",
+        "P1366": "Q14730741",
+        "P642": "Fifth Cabinet of Konstantinos Karamanlis"
+      }
+    },
+    {
+      "id": "Q23640231",
+      "label": "Q23640231",
+      "title": "Q23640231 (of National Unity Cabinet of Konstantinos Karamanlis)",
+      "description": "undersecretary to a ministry of the Greek government",
+      "qualifiers": {
+        "P580": "1974-07-26",
+        "P582": "1974-10-09",
+        "P642": "National Unity Cabinet of Konstantinos Karamanlis"
+      }
+    },
+    {
+      "id": "Q18915989",
+      "label": "Member of the Hellenic Parliament",
+      "title": "Member of the Hellenic Parliament (of New Democracy)",
+      "qualifiers": {
+        "P580": "1974",
+        "P582": "1989",
+        "P768": "Achaea",
+        "P642": "New Democracy"
+      }
+    }
+  ],
   "Q19688846": [
     {
       "id": "Q19904275",
@@ -192,7 +266,10 @@
     {
       "id": "Q18915989",
       "label": "Member of the Hellenic Parliament",
-      "title": "Member of the Hellenic Parliament"
+      "title": "Member of the Hellenic Parliament",
+      "qualifiers": {
+        "P768": "Athens B"
+      }
     }
   ],
   "Q1886385": [
@@ -565,16 +642,22 @@
       "description": "undersecretary to a ministry of the Greek government"
     },
     {
-      "id": "Q24306466",
-      "label": "Q24306466",
-      "title": "Q24306466"
+      "id": "Q18915989",
+      "label": "Member of the Hellenic Parliament",
+      "title": "Member of the Hellenic Parliament",
+      "qualifiers": {
+        "P768": "electoral district of Kavala"
+      }
     }
   ],
   "Q12884749": [
     {
       "id": "Q18915989",
       "label": "Member of the Hellenic Parliament",
-      "title": "Member of the Hellenic Parliament"
+      "title": "Member of the Hellenic Parliament",
+      "qualifiers": {
+        "P768": "Athens B"
+      }
     },
     {
       "id": "Q19860606",
@@ -625,7 +708,7 @@
       "label": "Member of the Hellenic Parliament",
       "title": "Member of the Hellenic Parliament",
       "qualifiers": {
-        "P768": "Q25535494"
+        "P768": "Messenia"
       }
     },
     {
@@ -714,7 +797,7 @@
       "label": "Member of the Hellenic Parliament",
       "title": "Member of the Hellenic Parliament",
       "qualifiers": {
-        "P768": "Q25535494"
+        "P768": "Messenia"
       }
     },
     {
@@ -989,6 +1072,14 @@
       "label": "Q23653076",
       "title": "Q23653076",
       "description": "undersecretary to a ministry of the Greek government"
+    },
+    {
+      "id": "Q18915989",
+      "label": "Member of the Hellenic Parliament",
+      "title": "Member of the Hellenic Parliament",
+      "qualifiers": {
+        "P768": "Athens B"
+      }
     }
   ],
   "Q4791088": [
@@ -1059,7 +1150,7 @@
       "qualifiers": {
         "P580": "1977",
         "P582": "1996",
-        "P768": "Q24306364",
+        "P768": "Q20723246",
         "P642": "New Democracy"
       }
     },
@@ -1070,7 +1161,7 @@
       "qualifiers": {
         "P580": "2000",
         "P582": "2009",
-        "P768": "Q24306364",
+        "P768": "Q20723246",
         "P642": "New Democracy"
       }
     }
@@ -1117,13 +1208,9 @@
       "title": "Member of the Hellenic Parliament",
       "qualifiers": {
         "P580": "1989-11-05",
-        "P582": "1993-10"
+        "P582": "1993-10",
+        "P768": "Q23021864"
       }
-    },
-    {
-      "id": "Q24322923",
-      "label": "Q24322923",
-      "title": "Q24322923"
     }
   ],
   "Q156806": [
@@ -1321,6 +1408,14 @@
       "id": "Q3394691",
       "label": "Deputy Prime Minister of Greece",
       "title": "Deputy Prime Minister of Greece"
+    },
+    {
+      "id": "Q18915989",
+      "label": "Member of the Hellenic Parliament",
+      "title": "Member of the Hellenic Parliament",
+      "qualifiers": {
+        "P768": "Athens B"
+      }
     }
   ],
   "Q23755725": [
@@ -1356,9 +1451,12 @@
   ],
   "Q12874565": [
     {
-      "id": "Q24306364",
-      "label": "Q24306364",
-      "title": "Q24306364"
+      "id": "Q18915989",
+      "label": "Member of the Hellenic Parliament",
+      "title": "Member of the Hellenic Parliament",
+      "qualifiers": {
+        "P768": "Q20723246"
+      }
     }
   ],
   "Q234918": [
@@ -1421,7 +1519,10 @@
     {
       "id": "Q18915989",
       "label": "Member of the Hellenic Parliament",
-      "title": "Member of the Hellenic Parliament"
+      "title": "Member of the Hellenic Parliament",
+      "qualifiers": {
+        "P768": "Athens B"
+      }
     }
   ],
   "Q2859088": [
@@ -1478,18 +1579,16 @@
     {
       "id": "Q18915989",
       "label": "Member of the Hellenic Parliament",
-      "title": "Member of the Hellenic Parliament"
+      "title": "Member of the Hellenic Parliament",
+      "qualifiers": {
+        "P768": "Q23021871"
+      }
     },
     {
       "id": "Q20128305",
       "label": "Minister of Agricultural Development and Food of Greece",
       "title": "Minister of Agricultural Development and Food of Greece",
       "description": "Greek government minister"
-    },
-    {
-      "id": "Q24323964",
-      "label": "Q24323964",
-      "title": "Q24323964"
     }
   ],
   "Q23636195": [
@@ -1618,7 +1717,10 @@
     {
       "id": "Q18915989",
       "label": "Member of the Hellenic Parliament",
-      "title": "Member of the Hellenic Parliament"
+      "title": "Member of the Hellenic Parliament",
+      "qualifiers": {
+        "P768": "Athens B"
+      }
     }
   ],
   "Q2048881": [
@@ -1749,25 +1851,26 @@
     {
       "id": "Q18915989",
       "label": "Member of the Hellenic Parliament",
-      "title": "Member of the Hellenic Parliament"
+      "title": "Member of the Hellenic Parliament",
+      "qualifiers": {
+        "P768": "Q23021864"
+      }
     },
     {
       "id": "Q19942337",
       "label": "Minister of Macedonia-Thrace",
       "title": "Minister of Macedonia-Thrace",
       "description": "Greek government minister"
-    },
-    {
-      "id": "Q24322923",
-      "label": "Q24322923",
-      "title": "Q24322923"
     }
   ],
   "Q1069794": [
     {
       "id": "Q18915989",
       "label": "Member of the Hellenic Parliament",
-      "title": "Member of the Hellenic Parliament"
+      "title": "Member of the Hellenic Parliament",
+      "qualifiers": {
+        "P768": "Athens B"
+      }
     },
     {
       "id": "Q19858443",
@@ -1798,7 +1901,10 @@
     {
       "id": "Q18915989",
       "label": "Member of the Hellenic Parliament",
-      "title": "Member of the Hellenic Parliament"
+      "title": "Member of the Hellenic Parliament",
+      "qualifiers": {
+        "P768": "Athens B"
+      }
     },
     {
       "id": "Q23901100",
@@ -2080,9 +2186,12 @@
       "description": "undersecretary to a ministry of the Greek government"
     },
     {
-      "id": "Q24306459",
-      "label": "Q24306459",
-      "title": "Q24306459"
+      "id": "Q18915989",
+      "label": "Member of the Hellenic Parliament",
+      "title": "Member of the Hellenic Parliament",
+      "qualifiers": {
+        "P768": "electoral district of Ioannina"
+      }
     }
   ],
   "Q754780": [
@@ -2304,7 +2413,7 @@
       "qualifiers": {
         "P580": "1956",
         "P582": "1967",
-        "P768": "Q24324554",
+        "P768": "Q21512727",
         "P642": "National Radical Union"
       }
     },
@@ -2315,7 +2424,7 @@
       "qualifiers": {
         "P580": "1974",
         "P582": "1977",
-        "P768": "Q24324554",
+        "P768": "Q21512727",
         "P642": "New Democracy"
       }
     }
@@ -2554,9 +2663,12 @@
       "description": "undersecretary to a ministry of the Greek government"
     },
     {
-      "id": "Q24306459",
-      "label": "Q24306459",
-      "title": "Q24306459"
+      "id": "Q18915989",
+      "label": "Member of the Hellenic Parliament",
+      "title": "Member of the Hellenic Parliament",
+      "qualifiers": {
+        "P768": "electoral district of Ioannina"
+      }
     }
   ],
   "Q444093": [
@@ -2607,7 +2719,10 @@
     {
       "id": "Q18915989",
       "label": "Member of the Hellenic Parliament",
-      "title": "Member of the Hellenic Parliament"
+      "title": "Member of the Hellenic Parliament",
+      "qualifiers": {
+        "P768": "Athens B"
+      }
     },
     {
       "id": "Q19904360",
@@ -2637,7 +2752,10 @@
     {
       "id": "Q18915989",
       "label": "Member of the Hellenic Parliament",
-      "title": "Member of the Hellenic Parliament"
+      "title": "Member of the Hellenic Parliament",
+      "qualifiers": {
+        "P768": "Athens B"
+      }
     }
   ],
   "Q708364": [
@@ -2799,12 +2917,10 @@
     {
       "id": "Q18915989",
       "label": "Member of the Hellenic Parliament",
-      "title": "Member of the Hellenic Parliament"
-    },
-    {
-      "id": "Q24323989",
-      "label": "Q24323989",
-      "title": "Q24323989"
+      "title": "Member of the Hellenic Parliament",
+      "qualifiers": {
+        "P768": "Q23021868"
+      }
     }
   ],
   "Q1935856": [
@@ -2993,7 +3109,10 @@
     {
       "id": "Q18915989",
       "label": "Member of the Hellenic Parliament",
-      "title": "Member of the Hellenic Parliament"
+      "title": "Member of the Hellenic Parliament",
+      "qualifiers": {
+        "P768": "Q21008126"
+      }
     },
     {
       "id": "Q23639545",
@@ -3012,11 +3131,6 @@
       "label": "Q23651604",
       "title": "Q23651604",
       "description": "undersecretary to a ministry of the Greek government"
-    },
-    {
-      "id": "Q24324629",
-      "label": "Q24324629",
-      "title": "Q24324629"
     }
   ],
   "Q12881067": [
@@ -3081,7 +3195,10 @@
     {
       "id": "Q18915989",
       "label": "Member of the Hellenic Parliament",
-      "title": "Member of the Hellenic Parliament"
+      "title": "Member of the Hellenic Parliament",
+      "qualifiers": {
+        "P768": "Athens B"
+      }
     },
     {
       "id": "Q19858443",
@@ -3100,12 +3217,10 @@
     {
       "id": "Q18915989",
       "label": "Member of the Hellenic Parliament",
-      "title": "Member of the Hellenic Parliament"
-    },
-    {
-      "id": "Q24322931",
-      "label": "Q24322931",
-      "title": "Q24322931"
+      "title": "Member of the Hellenic Parliament",
+      "qualifiers": {
+        "P768": "Q23021865"
+      }
     }
   ],
   "Q19941930": [
@@ -3224,6 +3339,14 @@
       "title": "Member of the Hellenic Parliament",
       "qualifiers": {
         "P768": "Piraeus A"
+      }
+    },
+    {
+      "id": "Q18915989",
+      "label": "Member of the Hellenic Parliament",
+      "title": "Member of the Hellenic Parliament",
+      "qualifiers": {
+        "P768": "Athens B"
       }
     }
   ],
@@ -3394,12 +3517,10 @@
     {
       "id": "Q18915989",
       "label": "Member of the Hellenic Parliament",
-      "title": "Member of the Hellenic Parliament"
-    },
-    {
-      "id": "Q24324629",
-      "label": "Q24324629",
-      "title": "Q24324629"
+      "title": "Member of the Hellenic Parliament",
+      "qualifiers": {
+        "P768": "Q21008126"
+      }
     }
   ],
   "Q16328571": [
@@ -3427,7 +3548,10 @@
     {
       "id": "Q18915989",
       "label": "Member of the Hellenic Parliament",
-      "title": "Member of the Hellenic Parliament"
+      "title": "Member of the Hellenic Parliament",
+      "qualifiers": {
+        "P768": "Q23021864"
+      }
     },
     {
       "id": "Q19904275",
@@ -3458,11 +3582,6 @@
       "label": "Prefect",
       "title": "Prefect",
       "description": "Greek prefect"
-    },
-    {
-      "id": "Q24322923",
-      "label": "Q24322923",
-      "title": "Q24322923"
     }
   ],
   "Q57303": [
@@ -3544,7 +3663,7 @@
       "qualifiers": {
         "P580": "1977",
         "P582": "2004",
-        "P768": "Q24306459",
+        "P768": "electoral district of Ioannina",
         "P642": "Panhellenic Socialist Movement"
       }
     }
@@ -3592,7 +3711,10 @@
     {
       "id": "Q18915989",
       "label": "Member of the Hellenic Parliament",
-      "title": "Member of the Hellenic Parliament"
+      "title": "Member of the Hellenic Parliament",
+      "qualifiers": {
+        "P768": "Athens B"
+      }
     },
     {
       "id": "Q19858443",
@@ -3710,7 +3832,10 @@
     {
       "id": "Q18915989",
       "label": "Member of the Hellenic Parliament",
-      "title": "Member of the Hellenic Parliament"
+      "title": "Member of the Hellenic Parliament",
+      "qualifiers": {
+        "P768": "Athens B"
+      }
     }
   ],
   "Q5279372": [
@@ -3792,12 +3917,10 @@
     {
       "id": "Q18915989",
       "label": "Member of the Hellenic Parliament",
-      "title": "Member of the Hellenic Parliament"
-    },
-    {
-      "id": "Q24323162",
-      "label": "Q24323162",
-      "title": "Q24323162"
+      "title": "Member of the Hellenic Parliament",
+      "qualifiers": {
+        "P768": "electoral district of Magnisia"
+      }
     }
   ],
   "Q459262": [
@@ -3850,7 +3973,10 @@
     {
       "id": "Q18915989",
       "label": "Member of the Hellenic Parliament",
-      "title": "Member of the Hellenic Parliament"
+      "title": "Member of the Hellenic Parliament",
+      "qualifiers": {
+        "P768": "Athens B"
+      }
     }
   ],
   "Q703598": [
@@ -3909,7 +4035,10 @@
     {
       "id": "Q18915989",
       "label": "Member of the Hellenic Parliament",
-      "title": "Member of the Hellenic Parliament"
+      "title": "Member of the Hellenic Parliament",
+      "qualifiers": {
+        "P768": "Athens B"
+      }
     },
     {
       "id": "Q7574264",
@@ -4023,7 +4152,10 @@
     {
       "id": "Q18915989",
       "label": "Member of the Hellenic Parliament",
-      "title": "Member of the Hellenic Parliament"
+      "title": "Member of the Hellenic Parliament",
+      "qualifiers": {
+        "P768": "Athens B"
+      }
     },
     {
       "id": "Q20639905",
@@ -4493,7 +4625,10 @@
     {
       "id": "Q18915989",
       "label": "Member of the Hellenic Parliament",
-      "title": "Member of the Hellenic Parliament"
+      "title": "Member of the Hellenic Parliament",
+      "qualifiers": {
+        "P768": "Athens B"
+      }
     },
     {
       "id": "Q19912253",
@@ -4919,7 +5054,10 @@
     {
       "id": "Q18915989",
       "label": "Member of the Hellenic Parliament",
-      "title": "Member of the Hellenic Parliament"
+      "title": "Member of the Hellenic Parliament",
+      "qualifiers": {
+        "P768": "Athens B"
+      }
     },
     {
       "id": "Q19904387",
@@ -4944,12 +5082,6 @@
       "label": "Minister of Development, Competitiveness, Infrastructure, Transport and Networks",
       "title": "Minister of Development, Competitiveness, Infrastructure, Transport and Networks",
       "description": "former Greek cabinet position"
-    },
-    {
-      "id": "Q27169",
-      "label": "member of the European Parliament",
-      "title": "member of the European Parliament",
-      "description": "person who has been elected to the European Parliament"
     }
   ],
   "Q983664": [
@@ -5046,18 +5178,16 @@
     {
       "id": "Q18915989",
       "label": "Member of the Hellenic Parliament",
-      "title": "Member of the Hellenic Parliament"
+      "title": "Member of the Hellenic Parliament",
+      "qualifiers": {
+        "P768": "Q23021864"
+      }
     },
     {
       "id": "Q23906392",
       "label": "Prefect",
       "title": "Prefect",
       "description": "Greek prefect"
-    },
-    {
-      "id": "Q24322923",
-      "label": "Q24322923",
-      "title": "Q24322923"
     }
   ],
   "Q9267350": [
@@ -5070,7 +5200,10 @@
     {
       "id": "Q18915989",
       "label": "Member of the Hellenic Parliament",
-      "title": "Member of the Hellenic Parliament"
+      "title": "Member of the Hellenic Parliament",
+      "qualifiers": {
+        "P768": "Athens B"
+      }
     }
   ],
   "Q20650920": [
@@ -5134,6 +5267,14 @@
       "title": "Member of the Hellenic Parliament",
       "qualifiers": {
         "P768": "Q23021869"
+      }
+    },
+    {
+      "id": "Q18915989",
+      "label": "Member of the Hellenic Parliament",
+      "title": "Member of the Hellenic Parliament",
+      "qualifiers": {
+        "P768": "Athens B"
       }
     }
   ],
@@ -5213,7 +5354,10 @@
     {
       "id": "Q18915989",
       "label": "Member of the Hellenic Parliament",
-      "title": "Member of the Hellenic Parliament"
+      "title": "Member of the Hellenic Parliament",
+      "qualifiers": {
+        "P768": "Athens B"
+      }
     }
   ],
   "Q155390": [
@@ -5374,26 +5518,30 @@
     {
       "id": "Q18915989",
       "label": "Member of the Hellenic Parliament",
-      "title": "Member of the Hellenic Parliament"
+      "title": "Member of the Hellenic Parliament",
+      "qualifiers": {
+        "P768": "Athens B"
+      }
     }
   ],
   "Q12881812": [
     {
       "id": "Q18915989",
       "label": "Member of the Hellenic Parliament",
-      "title": "Member of the Hellenic Parliament"
-    },
-    {
-      "id": "Q24323034",
-      "label": "Q24323034",
-      "title": "Q24323034"
+      "title": "Member of the Hellenic Parliament",
+      "qualifiers": {
+        "P768": "Q23021875"
+      }
     }
   ],
   "Q12882557": [
     {
       "id": "Q18915989",
       "label": "Member of the Hellenic Parliament",
-      "title": "Member of the Hellenic Parliament"
+      "title": "Member of the Hellenic Parliament",
+      "qualifiers": {
+        "P768": "Athens B"
+      }
     }
   ],
   "Q6751217": [
@@ -5480,7 +5628,10 @@
     {
       "id": "Q18915989",
       "label": "Member of the Hellenic Parliament",
-      "title": "Member of the Hellenic Parliament"
+      "title": "Member of the Hellenic Parliament",
+      "qualifiers": {
+        "P768": "Athens B"
+      }
     },
     {
       "id": "Q6865935",
@@ -5649,12 +5800,10 @@
     {
       "id": "Q18915989",
       "label": "Member of the Hellenic Parliament",
-      "title": "Member of the Hellenic Parliament"
-    },
-    {
-      "id": "Q24323276",
-      "label": "Q24323276",
-      "title": "Q24323276"
+      "title": "Member of the Hellenic Parliament",
+      "qualifiers": {
+        "P768": "Q23021873"
+      }
     }
   ],
   "Q14782378": [
@@ -5673,28 +5822,32 @@
       }
     },
     {
-      "id": "Q24323162",
-      "label": "Q24323162",
-      "title": "Q24323162"
+      "id": "Q18915989",
+      "label": "Member of the Hellenic Parliament",
+      "title": "Member of the Hellenic Parliament",
+      "qualifiers": {
+        "P768": "electoral district of Magnisia"
+      }
     }
   ],
   "Q14338001": [
     {
       "id": "Q18915989",
       "label": "Member of the Hellenic Parliament",
-      "title": "Member of the Hellenic Parliament"
-    },
-    {
-      "id": "Q24323989",
-      "label": "Q24323989",
-      "title": "Q24323989"
+      "title": "Member of the Hellenic Parliament",
+      "qualifiers": {
+        "P768": "Q23021868"
+      }
     }
   ],
   "Q983656": [
     {
       "id": "Q18915989",
       "label": "Member of the Hellenic Parliament",
-      "title": "Member of the Hellenic Parliament"
+      "title": "Member of the Hellenic Parliament",
+      "qualifiers": {
+        "P768": "Q23021865"
+      }
     },
     {
       "id": "Q16147098",
@@ -5725,11 +5878,6 @@
       "label": "minister of defense",
       "title": "minister of defense",
       "description": "undersecretary to a ministry of the Greek government"
-    },
-    {
-      "id": "Q24322931",
-      "label": "Q24322931",
-      "title": "Q24322931"
     }
   ],
   "Q16744033": [
@@ -5775,9 +5923,12 @@
       "description": "Greek prefect"
     },
     {
-      "id": "Q24306426",
-      "label": "Q24306426",
-      "title": "Q24306426"
+      "id": "Q18915989",
+      "label": "Member of the Hellenic Parliament",
+      "title": "Member of the Hellenic Parliament",
+      "qualifiers": {
+        "P768": "Q23021866"
+      }
     }
   ],
   "Q24700322": [
@@ -5979,7 +6130,10 @@
     {
       "id": "Q18915989",
       "label": "Member of the Hellenic Parliament",
-      "title": "Member of the Hellenic Parliament"
+      "title": "Member of the Hellenic Parliament",
+      "qualifiers": {
+        "P768": "Athens B"
+      }
     },
     {
       "id": "Q19860560",
@@ -6285,7 +6439,7 @@
       "label": "Member of the Hellenic Parliament",
       "title": "Member of the Hellenic Parliament",
       "qualifiers": {
-        "P768": "Q25535494"
+        "P768": "Messenia"
       }
     }
   ],
@@ -6419,16 +6573,22 @@
       "description": "undersecretary to a ministry of the Greek government"
     },
     {
-      "id": "Q24306466",
-      "label": "Q24306466",
-      "title": "Q24306466"
+      "id": "Q18915989",
+      "label": "Member of the Hellenic Parliament",
+      "title": "Member of the Hellenic Parliament",
+      "qualifiers": {
+        "P768": "electoral district of Kavala"
+      }
     }
   ],
   "Q18638934": [
     {
       "id": "Q18915989",
       "label": "Member of the Hellenic Parliament",
-      "title": "Member of the Hellenic Parliament"
+      "title": "Member of the Hellenic Parliament",
+      "qualifiers": {
+        "P768": "Q23021871"
+      }
     },
     {
       "id": "Q19904275",
@@ -6464,18 +6624,16 @@
       "label": "Prefect",
       "title": "Prefect",
       "description": "Greek prefect"
-    },
-    {
-      "id": "Q24323964",
-      "label": "Q24323964",
-      "title": "Q24323964"
     }
   ],
   "Q12880688": [
     {
       "id": "Q18915989",
       "label": "Member of the Hellenic Parliament",
-      "title": "Member of the Hellenic Parliament"
+      "title": "Member of the Hellenic Parliament",
+      "qualifiers": {
+        "P768": "Q23021868"
+      }
     },
     {
       "id": "Q14192481",
@@ -6493,17 +6651,6 @@
       "label": "Q23653047",
       "title": "Q23653047",
       "description": "undersecretary to a ministry of the Greek government"
-    },
-    {
-      "id": "Q23906392",
-      "label": "Prefect",
-      "title": "Prefect",
-      "description": "Greek prefect"
-    },
-    {
-      "id": "Q24323989",
-      "label": "Q24323989",
-      "title": "Q24323989"
     }
   ],
   "Q373532": [
@@ -6614,9 +6761,12 @@
   ],
   "Q19017408": [
     {
-      "id": "Q24306426",
-      "label": "Q24306426",
-      "title": "Q24306426"
+      "id": "Q18915989",
+      "label": "Member of the Hellenic Parliament",
+      "title": "Member of the Hellenic Parliament",
+      "qualifiers": {
+        "P768": "Q23021866"
+      }
     }
   ],
   "Q321635": [
