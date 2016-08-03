@@ -5,7 +5,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/tuvalu-parliament-wikipedia",
-        "query": "SELECT * FROM data"
+        "query": "SELECT *, NULL AS source FROM data ORDER BY name"
       },
       "source": "https://en.wikipedia.org/",
       "type": "membership"
@@ -15,7 +15,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/tuvalu-parliament-wikidata",
-        "query": "SELECT * FROM data"
+        "query": "SELECT * FROM data ORDER BY id"
       },
       "type": "wikidata",
       "merge": {
@@ -29,7 +29,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/tuvalu-parliament-wikipedia",
-        "query": "SELECT * FROM terms"
+        "query": "SELECT * FROM terms ORDER BY id"
       },
       "type": "term"
     },
