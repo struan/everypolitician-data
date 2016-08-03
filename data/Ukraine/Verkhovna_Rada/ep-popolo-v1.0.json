@@ -96,6 +96,7 @@
     },
     {
       "family_name": "Єдаков",
+      "gender": "male",
       "given_name": "Ярослав",
       "id": "7d3c82b8-c548-438f-a2c1-3c09bcb8c258",
       "identifiers": [
@@ -31705,6 +31706,10 @@
           "url": "https://ja.wikipedia.org/wiki/ドミトリー・ヤロシ"
         },
         {
+          "note": "Wikipedia (ka)",
+          "url": "https://ka.wikipedia.org/wiki/დიმიტრი_იაროში"
+        },
+        {
           "note": "Wikipedia (oc)",
           "url": "https://oc.wikipedia.org/wiki/Dmytrò_Iàrosh"
         },
@@ -33160,6 +33165,16 @@
         {
           "lang": "cs",
           "name": "bez stranické příslušnosti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "нестраначки политичар",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "ванстраначки политичар",
           "note": "multilingual"
         }
       ]
