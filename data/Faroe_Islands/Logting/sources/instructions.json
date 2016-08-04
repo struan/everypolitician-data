@@ -5,7 +5,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/faroes-logting-wikipedia",
-        "query": "SELECT * FROM data"
+        "query": "SELECT *, NULL AS source FROM data ORDER BY term DESC, name"
       },
       "source": "https://fo.wikipedia.org/",
       "type": "membership"
@@ -15,7 +15,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/faroes-logting-wikidata",
-        "query": "SELECT * FROM data"
+        "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "http://wikidata.org/",
       "type": "wikidata",
