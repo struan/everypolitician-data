@@ -972,6 +972,7 @@
           "value": "0300-5551905"
         }
       ],
+      "gender": "male",
       "id": "93da2a31-3fd7-4bf7-8e6f-91bc79953a7b",
       "identifiers": [
         {
@@ -8185,6 +8186,7 @@
           "value": "0300-8731414"
         }
       ],
+      "gender": "male",
       "id": "fe68ef87-99ae-489c-bac8-3e9e2d16d144",
       "identifiers": [
         {
@@ -10457,6 +10459,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "a15d752e-a25d-4bab-a902-8c2463ea0eae",
       "identifiers": [
         {
@@ -10479,6 +10482,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "a676edf8-8a84-4241-98af-e0204f713b3a",
       "identifiers": [
         {
@@ -15375,6 +15379,7 @@
           "value": "0300-2220222"
         }
       ],
+      "gender": "male",
       "id": "2fe121ae-466b-41be-a7bb-3525cdef58af",
       "identifiers": [
         {
@@ -20513,6 +20518,16 @@
         {
           "lang": "cs",
           "name": "bez stranické příslušnosti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "нестраначки политичар",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "ванстраначки политичар",
           "note": "multilingual"
         }
       ]
