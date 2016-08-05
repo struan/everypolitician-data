@@ -42903,6 +42903,12 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "SamiSavioFi"
+        }
+      ],
       "gender": "male",
       "given_name": "Sami",
       "id": "b42f02f0-b899-484f-b3bb-82145b81b9da",
@@ -42916,10 +42922,20 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://pbs.twimg.com/profile_images/757529165142908928/NZhG0-vR.jpg",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/757529165142908928/NZhG0-vR.jpg"
+        }
+      ],
       "links": [
         {
           "note": "Wikipedia (fi)",
           "url": "https://fi.wikipedia.org/wiki/Sami_Savio"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/SamiSavioFi"
         }
       ],
       "name": "Sami Savio",
@@ -53830,7 +53846,26 @@
     },
     {
       "id": "990ae7f1-6699-4a33-9b94-81a2fb23f570",
-      "name": "Veronica Rehn-Kivi"
+      "identifiers": [
+        {
+          "identifier": "Q25369895",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Veronica_Rehn-Kivi"
+        }
+      ],
+      "name": "Veronica Rehn-Kivi",
+      "other_names": [
+        {
+          "lang": "fi",
+          "name": "Veronica Rehn-Kivi",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1984-03-24",
