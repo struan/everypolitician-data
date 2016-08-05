@@ -4,6 +4,7 @@ require_relative '../lib/matcher'
 require_relative '../lib/reconciliation'
 require_relative '../lib/remotesource'
 require_relative '../lib/source'
+require_relative '../lib/gender_balancer'
 
 class OcdId
   attr_reader :ocd_ids
@@ -258,33 +259,19 @@ namespace :merge_sources do
     # Gender information from Gender-Balance.org
     if gb = sources.find { |src| src.type.downcase == 'gender' }
       warn "Adding GenderBalance results from #{gb.filename}".green 
+      results = GenderBalancer.new(gb.as_table).results
+      gb_score = gb_added = 0
 
-      min_selections = 5   # accept gender if at least this many votes
-      vote_threshold = 0.8 # and at least this ratio of votes were for it
-
-      gb_votes = gb.as_table.reject { |r| (r[:total] -= r[:skip]) < min_selections }.group_by { |r| r[:uuid] }
-      gb_score = 0
-      gb_added = 0
-
-      merged_rows.group_by { |r| r[:uuid] }.select { |id, rs| gb_votes.key? id }.each do |id, rs|
-        r = rs.first
-        votes = gb_votes[id].first
-
-        # Has something score at least 80% of votes?
-        winner = %w(male female other).find { |g| (votes[g.to_sym].to_f / votes[:total].to_f) >= vote_threshold } or begin
-          # No need for a warning if we've since got the gender info from another source
-          warn "  Unclear gender vote pattern: #{votes.to_hash}" unless r[:gender]
-          next
-        end
+      merged_rows.each do |r|
+        winner = results[r[:uuid]] or next
         gb_score += 1
 
         # Warn if our results are different from another source
-        if r[:gender] && (r[:gender] != winner)
-          warn_once "    ☁ Mismatch for #{r[:uuid]} #{r[:name]} (Was: #{r[:gender]} | GB: #{winner})"
+        if r[:gender] 
+          warn_once "    ☁ Mismatch for #{r[:uuid]} #{r[:name]} (Was: #{r[:gender]} | GB: #{winner})" if r[:gender] != winner
           next
         end
 
-        next if r[:gender]
         r[:gender] = winner
         gb_added += 1
       end
