@@ -163,14 +163,14 @@
       "create": {
         "from": "morph",
         "scraper": "everypolitician-scrapers/twitter-list-canada",
-        "query": "SELECT * FROM data ORDER BY id"
+        "query": "SELECT id, name AS temp_name, twitter, image FROM data ORDER BY id"
       },
       "type": "person",
       "source": "https://twitter.com/cka_politwit/lists/federal-mps & https://twitter.com/politwoops/lists/ca",
       "merge": {
-        "incoming_field": "name",
+        "incoming_field": "temp_name",
         "existing_field": "name",
-        "reconciliation_file": "reconciliation/twitter.csv"
+        "reconciliation_file": "reconciliation/twitter-lists.csv"
       }
     }
   ]
