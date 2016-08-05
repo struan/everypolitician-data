@@ -468,7 +468,10 @@
     {
       "id": "Q18915989",
       "label": "Member of the Hellenic Parliament",
-      "title": "Member of the Hellenic Parliament"
+      "title": "Member of the Hellenic Parliament",
+      "qualifiers": {
+        "P768": "Thessaloniki A"
+      }
     }
   ],
   "Q3559189": [
@@ -1510,9 +1513,12 @@
       "description": "person who has been elected to the European Parliament"
     },
     {
-      "id": "Q24306118",
-      "label": "MP for Athens",
-      "title": "MP for Athens"
+      "id": "Q18915989",
+      "label": "Member of the Hellenic Parliament",
+      "title": "Member of the Hellenic Parliament",
+      "qualifiers": {
+        "P768": "Q26215021"
+      }
     }
   ],
   "Q23670548": [
@@ -2334,7 +2340,10 @@
     {
       "id": "Q18915989",
       "label": "Member of the Hellenic Parliament",
-      "title": "Member of the Hellenic Parliament"
+      "title": "Member of the Hellenic Parliament",
+      "qualifiers": {
+        "P768": "Thessaloniki A"
+      }
     },
     {
       "id": "Q19904387",
@@ -2614,7 +2623,7 @@
       "qualifiers": {
         "P580": "1950",
         "P582": "1956",
-        "P768": "MP for Athens",
+        "P768": "Q26215021",
         "P642": "People's Party"
       }
     },
@@ -2624,7 +2633,7 @@
       "title": "Member of the Hellenic Parliament (of National Radical Union)",
       "qualifiers": {
         "P580": "1960",
-        "P768": "MP for Athens",
+        "P768": "Q26215021",
         "P642": "National Radical Union"
       }
     },
@@ -3446,6 +3455,41 @@
       }
     }
   ],
+  "Q12882548": [
+    {
+      "id": "Q23652109",
+      "label": "Q23652109",
+      "title": "Q23652109 (of First Cabinet of Kostas Karamanlis)",
+      "description": "undersecretary to a ministry of the Greek government",
+      "qualifiers": {
+        "P580": "2004-03-10",
+        "P582": "2006-02-15",
+        "P1365": "Q16329248",
+        "P1366": "Giannis Ioannidis",
+        "P642": "First Cabinet of Kostas Karamanlis"
+      }
+    },
+    {
+      "id": "Q18915989",
+      "label": "Member of the Hellenic Parliament",
+      "title": "Member of the Hellenic Parliament (of New Democracy)",
+      "qualifiers": {
+        "P768": "Q20644146",
+        "P580": "1990",
+        "P582": "2007",
+        "P642": "New Democracy"
+      }
+    },
+    {
+      "id": "Q12139875",
+      "label": "Q12139875",
+      "title": "Q12139875",
+      "qualifiers": {
+        "P580": "2011-01-01",
+        "P768": "Peloponnese Region"
+      }
+    }
+  ],
   "Q1252175": [
     {
       "id": "Q18915989",
@@ -3760,6 +3804,14 @@
       "id": "Q23836175",
       "label": "Q23836175",
       "title": "Q23836175"
+    },
+    {
+      "id": "Q18915989",
+      "label": "Member of the Hellenic Parliament",
+      "title": "Member of the Hellenic Parliament",
+      "qualifiers": {
+        "P768": "Thessaloniki A"
+      }
     }
   ],
   "Q18572849": [
@@ -3835,6 +3887,14 @@
       "title": "Member of the Hellenic Parliament",
       "qualifiers": {
         "P768": "Athens B"
+      }
+    },
+    {
+      "id": "Q18915989",
+      "label": "Member of the Hellenic Parliament",
+      "title": "Member of the Hellenic Parliament",
+      "qualifiers": {
+        "P768": "Thessaloniki A"
       }
     }
   ],
@@ -4931,7 +4991,7 @@
       "description": "Greek government minister",
       "qualifiers": {
         "P580": "2015-09-23",
-        "P1365": "Q12872947",
+        "P1365": "Frosso Kiaou",
         "P642": "Second Cabinet of Alexis Tsipras"
       }
     }
@@ -5583,7 +5643,10 @@
     {
       "id": "Q18915989",
       "label": "Member of the Hellenic Parliament",
-      "title": "Member of the Hellenic Parliament"
+      "title": "Member of the Hellenic Parliament",
+      "qualifiers": {
+        "P768": "Thessaloniki A"
+      }
     },
     {
       "id": "Q19904275",
@@ -5694,7 +5757,10 @@
     {
       "id": "Q18915989",
       "label": "Member of the Hellenic Parliament",
-      "title": "Member of the Hellenic Parliament"
+      "title": "Member of the Hellenic Parliament",
+      "qualifiers": {
+        "P768": "Thessaloniki A"
+      }
     },
     {
       "id": "Q23652103",
@@ -5764,9 +5830,12 @@
       "description": "undersecretary to a ministry of the Greek government"
     },
     {
-      "id": "Q24306118",
-      "label": "MP for Athens",
-      "title": "MP for Athens"
+      "id": "Q18915989",
+      "label": "Member of the Hellenic Parliament",
+      "title": "Member of the Hellenic Parliament",
+      "qualifiers": {
+        "P768": "Q26215021"
+      }
     },
     {
       "id": "Q6508538",
@@ -6248,7 +6317,10 @@
     {
       "id": "Q18915989",
       "label": "Member of the Hellenic Parliament",
-      "title": "Member of the Hellenic Parliament"
+      "title": "Member of the Hellenic Parliament",
+      "qualifiers": {
+        "P768": "Thessaloniki A"
+      }
     },
     {
       "id": "Q16147098",
@@ -6422,9 +6494,12 @@
   ],
   "Q6062130": [
     {
-      "id": "Q24306118",
-      "label": "MP for Athens",
-      "title": "MP for Athens"
+      "id": "Q18915989",
+      "label": "Member of the Hellenic Parliament",
+      "title": "Member of the Hellenic Parliament",
+      "qualifiers": {
+        "P768": "Q26215021"
+      }
     },
     {
       "id": "Q18915989",
@@ -6504,7 +6579,10 @@
     {
       "id": "Q24306451",
       "label": "Q24306451",
-      "title": "Q24306451"
+      "title": "Q24306451",
+      "qualifiers": {
+        "P768": "Thessaloniki B"
+      }
     }
   ],
   "Q5277577": [
@@ -7017,6 +7095,48 @@
         "P1365": "Q16329022",
         "P1366": "Q16329022",
         "P642": "Ecumenical Cabinet of Xenophon Zolotas"
+      }
+    }
+  ],
+  "Q1128026": [
+    {
+      "id": "Q19942365",
+      "label": "Minister of Culture and Sciences of Greece",
+      "title": "Minister of Culture and Sciences of Greece (of Fifth Cabinet of Konstantinos Karamanlis)",
+      "description": "Greek government minister",
+      "qualifiers": {
+        "P580": "1974-11-21",
+        "P582": "1977-11-28",
+        "P1365": "Q15222387",
+        "P642": "Fifth Cabinet of Konstantinos Karamanlis"
+      }
+    },
+    {
+      "id": "Q18915989",
+      "label": "Member of the Hellenic Parliament",
+      "title": "Member of the Hellenic Parliament (of New Democracy)",
+      "qualifiers": {
+        "P580": "1974",
+        "P582": "1977",
+        "P642": "New Democracy"
+      }
+    },
+    {
+      "id": "Q23768979",
+      "label": "Q23768979",
+      "title": "Q23768979",
+      "qualifiers": {
+        "P580": "1986",
+        "P582": "1986",
+        "P1365": "Q16328782"
+      }
+    },
+    {
+      "id": "Q23772807",
+      "label": "Member of the Athens Academy",
+      "title": "Member of the Athens Academy",
+      "qualifiers": {
+        "P580": "1974"
       }
     }
   ]
