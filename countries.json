@@ -4553,11 +4553,11 @@
         "slug": "Dail",
         "sources_directory": "data/Ireland/Dail/sources",
         "popolo": "data/Ireland/Dail/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/1ec324a/data/Ireland/Dail/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e5b1891/data/Ireland/Dail/ep-popolo-v1.0.json",
         "names": "data/Ireland/Dail/names.csv",
-        "lastmod": "1469260422",
+        "lastmod": "1470392282",
         "person_count": 226,
-        "sha": "1ec324a",
+        "sha": "e5b1891",
         "legislative_periods": [
           {
             "id": "term/32",
@@ -4565,7 +4565,7 @@
             "start_date": "2016-03-10",
             "slug": "32",
             "csv": "data/Ireland/Dail/term-32.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/1ec324a/data/Ireland/Dail/term-32.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e5b1891/data/Ireland/Dail/term-32.csv"
           },
           {
             "end_date": "2016-03-02",
@@ -4577,7 +4577,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/1ec324a/data/Ireland/Dail/term-31.csv"
           }
         ],
-        "statement_count": 13845
+        "statement_count": 13878
       }
     ]
   },
@@ -8901,13 +8901,14 @@
         "slug": "National-Assembly",
         "sources_directory": "data/South_Korea/National_Assembly/sources",
         "popolo": "data/South_Korea/National_Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2e82b0d/data/South_Korea/National_Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/fd10cda/data/South_Korea/National_Assembly/ep-popolo-v1.0.json",
         "names": "data/South_Korea/National_Assembly/names.csv",
-        "lastmod": "1469715850",
+        "lastmod": "1470223066",
         "person_count": 298,
-        "sha": "2e82b0d",
+        "sha": "fd10cda",
         "legislative_periods": [
           {
+            "end_date": "2016-05-29",
             "id": "term/19",
             "name": "19th National Assembly",
             "start_date": "2012-05-30",
@@ -8916,7 +8917,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2e82b0d/data/South_Korea/National_Assembly/term-19.csv"
           }
         ],
-        "statement_count": 15708
+        "statement_count": 15709
       }
     ]
   },
