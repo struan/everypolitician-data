@@ -28,7 +28,7 @@ class OcdId
   def area_id_from_name(name)
     area = override(name) || finder(name)
     return if area.nil?
-    warn "  Matched Area %s to %s" % [ name.yellow, area[:name].to_s.green ] unless area[:name].include? " #{name} "
+    warn '  Matched Area %s to %s' % [name.yellow, area[:name].to_s.green] unless area[:name].include? " #{name} "
     area[:id]
   end
 
@@ -57,22 +57,21 @@ end
 
 class String
   def tidy
-    self.gsub(/[[:space:]]+/, ' ').strip
+    gsub(/[[:space:]]+/, ' ').strip
   end
 end
 
 namespace :merge_sources do
-
   task :fetch_missing do
     fetch_missing
   end
 
-  desc "Combine Sources"
+  desc 'Combine Sources'
   task MERGED_CSV => :fetch_missing do
     combine_sources
   end
 
-  @recreatable = instructions(:sources).find_all { |i| i.key? :create }
+  @recreatable = instructions(:sources).select { |i| i.key? :create }
   CLOBBER.include FileList.new(@recreatable.map { |i| i[:file] })
 
   CLEAN.include MERGED_CSV
@@ -82,7 +81,7 @@ namespace :merge_sources do
   def _should_refetch(file)
     return true unless File.exist?(file)
     return false unless ENV['REBUILD_SOURCE']
-    return file.include? ENV['REBUILD_SOURCE']
+    file.include? ENV['REBUILD_SOURCE']
   end
 
   def fetch_missing
@@ -101,23 +100,21 @@ namespace :merge_sources do
     @warnings = Set.new
   end
 
-  # http://codereview.stackexchange.com/questions/84290/combining-csvs-using-ruby-to-match-headers
   def combine_sources
-
     # Make sure all instructions have a `type`
     if (no_type = instructions(:sources).find { |src| src[:type].to_s.empty? })
       raise "Missing `type` in #{no_type} file"
     end
 
     sources = instructions(:sources).map { |s| Source::Base.instantiate(s) }
-    all_headers = (%i(id uuid) + sources.map { |s| s.fields }).flatten.uniq
+    all_headers = (%i(id uuid) + sources.map(&:fields)).flatten.uniq
 
     merged_rows = []
 
     # First get all the `membership` rows, and either merge or concat
     sources.select(&:is_memberships?).each do |src|
       warn "Add memberships from #{src.filename}".green
-      
+
       incoming_data = src.as_table
       id_map = src.id_map
 
@@ -127,12 +124,12 @@ namespace :merge_sources do
 
         if ENV['GENERATE_RECONCILIATION_INTERFACE'] && reconciler.triggered_by?(ENV['GENERATE_RECONCILIATION_INTERFACE'])
           filename = reconciler.generate_interface!(merged_rows, incoming_data.uniq { |r| r[:id] })
-          abort "Created #{filename} — please check it and re-run".green 
+          abort "Created #{filename} — please check it and re-run".green
         end
 
         pr = reconciler.previously_reconciled
         abort "No reconciliation data. Rerun with GENERATE_RECONCILIATION_INTERFACE=#{reconciler.trigger_name}" if pr.empty?
-        pr.each { |r| id_map[r[:id]] = r[:uuid] } 
+        pr.each { |r| id_map[r[:id]] = r[:uuid] }
       end
 
       incoming_data.each do |row|
@@ -152,69 +149,66 @@ namespace :merge_sources do
       incoming_data = src.as_table
 
       abort "No merge instructions for #{src.filename}" if (approaches = src.merge_instructions).empty?
-      if merge_instructions = approaches.first
-        reconciler = Reconciler.new(merge_instructions)
+      next unless merge_instructions = approaches.first
+      reconciler = Reconciler.new(merge_instructions)
 
-        if reconciler.filename
-          if ENV['GENERATE_RECONCILIATION_INTERFACE'] && reconciler.triggered_by?(ENV['GENERATE_RECONCILIATION_INTERFACE'])
-            filename = reconciler.generate_interface!(merged_rows, incoming_data.uniq { |r| r[:id] })
-            abort "Created #{filename} — please check it and re-run".green 
-          end
-
-          pr = reconciler.previously_reconciled
-          abort "No reconciliation data. Rerun with GENERATE_RECONCILIATION_INTERFACE=#{reconciler.trigger_name}" if pr.empty?
-          matcher = Matcher::Reconciled.new(merged_rows, merge_instructions, pr)
-        else 
-          matcher = Matcher::Exact.new(merged_rows, merge_instructions)
+      if reconciler.filename
+        if ENV['GENERATE_RECONCILIATION_INTERFACE'] && reconciler.triggered_by?(ENV['GENERATE_RECONCILIATION_INTERFACE'])
+          filename = reconciler.generate_interface!(merged_rows, incoming_data.uniq { |r| r[:id] })
+          abort "Created #{filename} — please check it and re-run".green
         end
 
-        unmatched = []
-        incoming_data.each do |incoming_row|
-
-          incoming_row[:identifier__wikidata] ||= incoming_row[:id] if src.i(:type) == 'wikidata'
-
-          # TODO factor this out to a Patcher again
-          to_patch = matcher.find_all(incoming_row)
-          if to_patch && !to_patch.size.zero?
-            # Be careful to take a copy and not delete from the core list
-            to_patch = to_patch.select { |r| r[:term].to_s == incoming_row[:term].to_s } if merge_instructions[:term_match]
-            uids = to_patch.map { |r| r[:uuid] }.uniq
-            if uids.count > 1
-              warn "Error: trying to patch multiple people: #{uids.join('; ')}".red.on_yellow
-              next
-            end
-            to_patch.each do |existing_row|
-              patcher = Patcher.new(existing_row, incoming_row, merge_instructions[:patch])
-              existing_row = patcher.patched
-              all_headers |= patcher.new_headers.to_a
-              patcher.warnings.each { |w| warn_once w }
-            end
-          else
-            unmatched << incoming_row
-          end
-        end
-
-        warn "* %d of %d unmatched".magenta % [unmatched.count, incoming_data.count] if unmatched.any?
-        unmatched.sample(10).each do |r|
-          warn "\t#{r.to_hash.reject { |k,v| v.to_s.empty? }.select { |k, v| %i(id name).include? k } }"
-        end 
-        output_warnings("Data Mismatches")
-        incoming_data = unmatched
+        pr = reconciler.previously_reconciled
+        abort "No reconciliation data. Rerun with GENERATE_RECONCILIATION_INTERFACE=#{reconciler.trigger_name}" if pr.empty?
+        matcher = Matcher::Reconciled.new(merged_rows, merge_instructions, pr)
+      else
+        matcher = Matcher::Exact.new(merged_rows, merge_instructions)
       end
+
+      unmatched = []
+      incoming_data.each do |incoming_row|
+        incoming_row[:identifier__wikidata] ||= incoming_row[:id] if src.i(:type) == 'wikidata'
+
+        to_patch = matcher.find_all(incoming_row)
+        if to_patch && !to_patch.size.zero?
+          # Be careful to take a copy and not delete from the core list
+          to_patch = to_patch.select { |r| r[:term].to_s == incoming_row[:term].to_s } if merge_instructions[:term_match]
+          uids = to_patch.map { |r| r[:uuid] }.uniq
+          if uids.count > 1
+            warn "Error: trying to patch multiple people: #{uids.join('; ')}".red.on_yellow
+            next
+          end
+          to_patch.each do |existing_row|
+            patcher = Patcher.new(existing_row, incoming_row, merge_instructions[:patch])
+            existing_row = patcher.patched
+            all_headers |= patcher.new_headers.to_a
+            patcher.warnings.each { |w| warn_once w }
+          end
+        else
+          unmatched << incoming_row
+        end
+      end
+
+      warn '* %d of %d unmatched'.magenta % [unmatched.count, incoming_data.count] if unmatched.any?
+      unmatched.sample(10).each do |r|
+        warn "\t#{r.to_hash.reject { |_, v| v.to_s.empty? }.select { |k, _| %i(id name).include? k }}"
+      end
+      output_warnings('Data Mismatches')
+      incoming_data = unmatched
     end
 
     # Gender information from Gender-Balance.org
     if gb = sources.find { |src| src.type.downcase == 'gender' }
-      warn "Adding GenderBalance results from #{gb.filename}".green 
+      warn "Adding GenderBalance results from #{gb.filename}".green
       results = GenderBalancer.new(gb.as_table).results
       gb_score = gb_added = 0
 
       merged_rows.each do |r|
-        winner = results[r[:uuid]] or next
+        (winner = results[r[:uuid]]) || next
         gb_score += 1
 
         # Warn if our results are different from another source
-        if r[:gender] 
+        if r[:gender]
           warn_once "    ☁ Mismatch for #{r[:uuid]} #{r[:name]} (Was: #{r[:gender]} | GB: #{winner})" if r[:gender] != winner
           next
         end
@@ -222,8 +216,8 @@ namespace :merge_sources do
         r[:gender] = winner
         gb_added += 1
       end
-      output_warnings("GenderBalance Mismatches")
-      warn "  ⚥ data for #{gb_score}; #{gb_added} added\n".cyan 
+      output_warnings('GenderBalance Mismatches')
+      warn "  ⚥ data for #{gb_score}; #{gb_added} added\n".cyan
     end
 
     # Map Areas
@@ -242,7 +236,7 @@ namespace :merge_sources do
             warn_once "    Could not resolve area_id #{r[:area_id]} for #{r[:uuid]}"
           end
         end
-        output_warnings("OCD ID issues")
+        output_warnings('OCD ID issues')
 
       else
         # Generate IDs from names
@@ -266,7 +260,7 @@ namespace :merge_sources do
     if corrs = sources.find { |src| src.type.downcase == 'corrections' }
       warn "Applying local corrections from #{corrs.filename}".green
       corrs.as_table.each do |correction|
-        rows = merged_rows.select { |r| r[:uuid] == correction[:uuid] } 
+        rows = merged_rows.select { |r| r[:uuid] == correction[:uuid] }
         if rows.empty?
           warn "Can't correct #{correction[:uuid]} — no such person"
           next
@@ -283,8 +277,7 @@ namespace :merge_sources do
       end
     end
 
-
-    # TODO add this as a Source
+    # TODO: add this as a Source
     legacy_id_file = 'sources/manual/legacy-ids.csv'
     if File.exist? legacy_id_file
       legacy = CSV.table(legacy_id_file, converters: nil).reject { |r| r[:legacy].to_s.empty? }.group_by { |r| r[:id] }
@@ -292,9 +285,9 @@ namespace :merge_sources do
       all_headers |= %i(identifier__everypolitician_legacy)
 
       merged_rows.each do |row|
-        if legacy.key? row[:uuid] 
-          # TODO: row[:identifier__everypolitician_legacy] = legacy[ row[:uuid ] ].map { |i| i[:legacy] }.join ";"
-          row[:identifier__everypolitician_legacy] = legacy[ row[:uuid ] ].first[:legacy] 
+        if legacy.key? row[:uuid]
+          # TODO: row[:identifier__everypolitician_legacy] = legacy[ row[:uuid ] ].map { |i| i[:legacy] }.join ";"
+          row[:identifier__everypolitician_legacy] = legacy[row[:uuid]].first[:legacy]
         end
       end
     end
@@ -303,11 +296,9 @@ namespace :merge_sources do
     merged_rows.each { |row| row[:id] = row[:uuid] }
 
     # Then write it all out
-    CSV.open(MERGED_CSV, "w") do |out|
+    CSV.open(MERGED_CSV, 'w') do |out|
       out << all_headers
       merged_rows.each { |r| out << all_headers.map { |header| r[header.to_sym] } }
     end
-
   end
-
 end
