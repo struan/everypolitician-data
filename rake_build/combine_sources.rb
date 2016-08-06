@@ -1,6 +1,7 @@
 require 'sass'
 require_relative '../lib/wikidata_lookup'
 require_relative '../lib/matcher'
+require_relative '../lib/patcher'
 require_relative '../lib/reconciliation'
 require_relative '../lib/remotesource'
 require_relative '../lib/source'
@@ -183,64 +184,10 @@ namespace :merge_sources do
               next
             end
             to_patch.each do |existing_row|
-              # In general, we take the first value we see — other than short dates
-              # TODO: have a 'clobber' flag (or list of values to trust the latter source for)
-
-              to_ignore = (merge_instructions[:patch] || {})[:ignore].to_a.map(&:to_sym).to_set
-              incoming_row.keys.reject { |h| h == :id || to_ignore.include?(h) }.each do |h|
-                next if incoming_row[h].to_s.empty?
-
-                # If we didn't have anything before, take the new version
-                if existing_row[h].to_s.empty? || existing_row[h].to_s.downcase == 'unknown'
-                  existing_row[h] = incoming_row[h] 
-                  next
-                end
-
-                # These are _expected_ to be different on a term-by-term basis
-                next if %i(term group group_id area area_id).include? h
-
-                # Can't do much yet with these ones…
-                next if %i(source given_name family_name).include? h
-
-                # Accept multiple values for multi-lingual names
-                if h.to_s.start_with? 'name__'
-                  existing_row[h] += ";" + incoming_row[h]
-                  next
-                end
-
-                # TODO accept multiple values for :website, etc.
-                next if %i(website).include? h
-
-                # Accept values from multiple sources for given fields
-                if %i(email twitter facebook image).include? h
-                  existing_row[h] = [existing_row[h], incoming_row[h]].join(';').split(';').map(&:strip).uniq(&:downcase).join(';')
-                  next
-                end
-
-                # If we have the same as before (case insensitively), that's OK
-                next if existing_row[h].downcase == incoming_row[h].downcase
-
-                # Accept more precise dates
-                if h.to_s.include?('date') 
-                  if incoming_row[h].include?(existing_row[h])
-                    existing_row[h] = incoming_row[h] 
-                    next
-                  end
-                  # Ignore less precise dates
-                  next if existing_row[h].include?(incoming_row[h])
-                end
-
-                # Store alternate names for `other_names`
-                if h == :name
-                  all_headers |= [:alternate_names] 
-                  existing_row[:alternate_names] ||= nil
-                  existing_row[:alternate_names] = [existing_row[:alternate_names], incoming_row[:name]].compact.join(";")
-                  next
-                end
-
-                warn_once "  ☁ Mismatch in #{h} for #{existing_row[:uuid]} (#{existing_row[h]}) vs #{incoming_row[h]} (for #{incoming_row[:id]})"
-              end
-
+              patcher = Patcher.new(existing_row, incoming_row, merge_instructions[:patch])
+              existing_row = patcher.patched
+              all_headers |= patcher.new_headers.to_a
+              patcher.warnings.each { |w| warn_once w }
             end
           else
             unmatched << incoming_row
