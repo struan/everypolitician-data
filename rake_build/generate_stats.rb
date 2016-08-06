@@ -1,4 +1,3 @@
-
 #-----------------------------------------------------------------------
 # Update the `stats.json` file for a Legislature
 #-----------------------------------------------------------------------
@@ -20,9 +19,8 @@ namespace :stats do
     latest_election = elections.map { |e| e.end_date }.compact.sort_by { |d| "#{d}-12-31" }.select { |d| d[0...4].to_i <= now.year }.last rescue ''
     latest_term_start = terms.last.start_date rescue ''
 
-    posn_file = 'sources/manual/position-filter.json'
-    if File.exist? posn_file
-      posns = JSON.parse(File.read(posn_file), symbolize_names: true )
+    if POSITION_FILTER.file?
+      posns = JSON.parse(POSITION_FILTER.read, symbolize_names: true )
       executive_positions = posns[:include][:executive].count rescue 0
     else 
       executive_positions = 0
