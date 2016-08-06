@@ -113,19 +113,13 @@ namespace :term_csvs do
 
   desc 'Build the Positions file'
   task :positions => ['ep-popolo-v1.0.json'] do
-
-    positions_raw = 'sources/wikidata/positions.json'
-    next unless File.exists? positions_raw
-
-    filter_file   = 'sources/manual/position-filter.json'
-    position_file = "unstable/positions.csv"
-    warn "Creating #{position_file}"
-
-    positions = JSON.parse(File.read(positions_raw), symbolize_names: true) 
-    filter    = if File.exist?(filter_file) 
+    next unless POSITION_RAW.file?
+    warn "Creating #{POSITION_CSV}"
+    positions = JSON.parse(POSITION_RAW.read, symbolize_names: true) 
+    filter    = if POSITION_FILTER.exist?
       # read with JSON5 to be more liberal about trailing commas. 
       # But it doesn't have a 'symbolize_names' so rountrip through JSON
-      JSON.parse(JSON5.parse(File.read(filter_file)).to_json, symbolize_names: true).each do |s, fs|
+      JSON.parse(JSON5.parse(POSITION_FILTER.read).to_json, symbolize_names: true).each do |s, fs|
         fs.each { |_,fs| fs.each { |f| f.delete :count } }
       end
     else 
@@ -170,9 +164,9 @@ namespace :term_csvs do
     csv_columns = %w(id name position start_date end_date)
     csv    = [csv_columns.to_csv, want.map { |p| csv_columns.map { |c| p[c.to_sym] }.to_csv }].compact.join
 
-    FileUtils.mkpath(File.dirname position_file)
-    File.write(position_file, csv)
-    File.write(filter_file, JSON.pretty_generate(filter))
+    POSITION_CSV.dirname.mkpath
+    File.write(POSITION_CSV, csv) # POSITION_CSV.write(csv) needs ruby 2.1.0
+    File.write(POSITION_FILTER, JSON.pretty_generate(filter))
 
     if filter[:unknown][:unknown].any? && ENV['GENERATE_POSITION_INTERFACE'] 
       html = Position::Filterer.new(filter).html
