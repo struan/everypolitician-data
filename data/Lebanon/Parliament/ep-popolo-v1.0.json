@@ -3548,6 +3548,21 @@
       ]
     },
     {
+      "id": "c54e6db7-0f4c-4073-afd9-79809724b184",
+      "identifiers": [
+        {
+          "identifier": "Q3147509",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Ibrahim Najjar",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Members_of_the_2009%E2%80%9317_Lebanese_Parliament"
+        }
+      ]
+    },
+    {
       "id": "e240a3e7-d4e8-4353-9c82-61c3f7a194ce",
       "identifiers": [
         {
@@ -3925,15 +3940,6 @@
       ]
     },
     {
-      "id": "51a9efc2-2630-4058-9125-9c41ff671411",
-      "name": "Michael Helou",
-      "sources": [
-        {
-          "url": "https://en.wikipedia.org/wiki/Members_of_the_2009%E2%80%9317_Lebanese_Parliament"
-        }
-      ]
-    },
-    {
       "birth_date": "1933-09-30",
       "gender": "male",
       "given_name": "Michel",
@@ -4193,6 +4199,21 @@
           "note": "multilingual"
         }
       ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Members_of_the_2009%E2%80%9317_Lebanese_Parliament"
+        }
+      ]
+    },
+    {
+      "id": "103873ce-6f60-4f75-8628-ec46aad72144",
+      "identifiers": [
+        {
+          "identifier": "michel_helou",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Michel Helou",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/Members_of_the_2009%E2%80%9317_Lebanese_Parliament"
@@ -5977,7 +5998,7 @@
           "url": "https://en.wikipedia.org/wiki/Nohad_Machnouk"
         }
       ],
-      "name": "Nohad El Machnouk",
+      "name": "Nohad el Machnouk",
       "other_names": [
         {
           "name": "Nohad Machnouk",
@@ -6991,8 +7012,14 @@
       ]
     },
     {
-      "id": "93f6e4a9-b7a5-4346-a0e4-af9648550972",
-      "name": "Shant Chinchinian (Jinjinian)",
+      "id": "e6781850-b7b0-48ed-80d5-3ba42f15da07",
+      "identifiers": [
+        {
+          "identifier": "shant_chinchinian_/_jinjinian",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Shant Chinchinian / Jinjinian",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/Members_of_the_2009%E2%80%9317_Lebanese_Parliament"
@@ -7008,6 +7035,114 @@
         }
       ],
       "name": "Simon Abi Ramia",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Members_of_the_2009%E2%80%9317_Lebanese_Parliament"
+        }
+      ]
+    },
+    {
+      "birth_date": "1965-10-18",
+      "gender": "male",
+      "id": "ed00b520-4d08-4071-93f0-3fba0b94867f",
+      "identifiers": [
+        {
+          "identifier": "Q2915518",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/0b42j6",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q2915518",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Sleiman_Frangieh_2.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Sleiman_Frangieh_2.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/سليمان_طوني_فرنجية"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Suleiman_Frangieh_Jr."
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Soleimane_Frangié_Jr"
+        },
+        {
+          "note": "Wikipedia (he)",
+          "url": "https://he.wikipedia.org/wiki/סולימאן_פרנג'יה_הבן"
+        },
+        {
+          "note": "Wikipedia (la)",
+          "url": "https://la.wikipedia.org/wiki/Suleiman_Frangieh_(iunior)"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Sulajman_Tony_Farandżijja"
+        }
+      ],
+      "name": "Sleiman Frangieh",
+      "other_names": [
+        {
+          "name": "Suleiman Frangieh",
+          "note": "alternate"
+        },
+        {
+          "lang": "ar",
+          "name": "سليمان طوني فرنجيّة",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Suleiman Frangieh",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Suleiman Frangieh",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Suleiman Frangieh, Jr.",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Soleimane Frangié Jr",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "סולימאן פרנג'יה הבן",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Suleiman Frangieh",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Suleiman Frangieh, Jr.",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Sulajman Tony Farandżijja",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/Members_of_the_2009%E2%80%9317_Lebanese_Parliament"
@@ -13186,6 +13321,14 @@
       "role": "member"
     },
     {
+      "area_id": "area/jezzine",
+      "legislative_period_id": "term/2009",
+      "on_behalf_of_id": "party/free_patriotic_movement",
+      "organization_id": "a040172c-f708-4c42-a421-1e569bd158f3",
+      "person_id": "103873ce-6f60-4f75-8628-ec46aad72144",
+      "role": "member"
+    },
+    {
       "area_id": "area/akkar",
       "legislative_period_id": "term/2009",
       "on_behalf_of_id": "party/future_movement",
@@ -13367,14 +13510,6 @@
       "on_behalf_of_id": "party/independent_within_14_march",
       "organization_id": "a040172c-f708-4c42-a421-1e569bd158f3",
       "person_id": "4d9e94bb-0a52-4f24-9c81-73a88bdc3bf7",
-      "role": "member"
-    },
-    {
-      "area_id": "area/jezzine",
-      "legislative_period_id": "term/2009",
-      "on_behalf_of_id": "party/free_patriotic_movement",
-      "organization_id": "a040172c-f708-4c42-a421-1e569bd158f3",
-      "person_id": "51a9efc2-2630-4058-9125-9c41ff671411",
       "role": "member"
     },
     {
@@ -13698,14 +13833,6 @@
       "role": "member"
     },
     {
-      "area_id": "area/zahlé",
-      "legislative_period_id": "term/2009",
-      "on_behalf_of_id": "party/lebanese_forces_and_zahle_block",
-      "organization_id": "a040172c-f708-4c42-a421-1e569bd158f3",
-      "person_id": "93f6e4a9-b7a5-4346-a0e4-af9648550972",
-      "role": "member"
-    },
-    {
       "area_id": "area/metn",
       "legislative_period_id": "term/2009",
       "on_behalf_of_id": "party/free_patriotic_movement",
@@ -13895,6 +14022,14 @@
       "on_behalf_of_id": "party/progressive_socialist_party",
       "organization_id": "a040172c-f708-4c42-a421-1e569bd158f3",
       "person_id": "c23b7552-08b3-4f04-a5c9-743df3d19296",
+      "role": "member"
+    },
+    {
+      "area_id": "area/chouf",
+      "legislative_period_id": "term/2009",
+      "on_behalf_of_id": "party/future_movement",
+      "organization_id": "a040172c-f708-4c42-a421-1e569bd158f3",
+      "person_id": "c54e6db7-0f4c-4073-afd9-79809724b184",
       "role": "member"
     },
     {
@@ -14090,6 +14225,14 @@
       "role": "member"
     },
     {
+      "area_id": "area/zahlé",
+      "legislative_period_id": "term/2009",
+      "on_behalf_of_id": "party/lebanese_forces_and_zahle_block",
+      "organization_id": "a040172c-f708-4c42-a421-1e569bd158f3",
+      "person_id": "e6781850-b7b0-48ed-80d5-3ba42f15da07",
+      "role": "member"
+    },
+    {
       "area_id": "area/beirut_iii",
       "legislative_period_id": "term/2009",
       "on_behalf_of_id": "party/future_movement",
@@ -14111,6 +14254,14 @@
       "on_behalf_of_id": "party/future_movement",
       "organization_id": "a040172c-f708-4c42-a421-1e569bd158f3",
       "person_id": "ec51700b-5595-4134-aefa-f0073eed0b2b",
+      "role": "member"
+    },
+    {
+      "area_id": "area/zgharta",
+      "legislative_period_id": "term/2009",
+      "on_behalf_of_id": "party/marada_movement",
+      "organization_id": "a040172c-f708-4c42-a421-1e569bd158f3",
+      "person_id": "ed00b520-4d08-4071-93f0-3fba0b94867f",
       "role": "member"
     },
     {
