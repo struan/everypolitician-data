@@ -14,8 +14,6 @@ end
 
 EveryPolitician.countries_json = 'countries.json'
 
-legislatures = EveryPolitician.countries.map { |c| c.legislatures }.flatten
-
 puts <<'eoheader'
 {| class="wikitable sortable"
 |-
@@ -35,9 +33,9 @@ EveryPolitician.countries.each do |c|
     wdp = persons.partition { |p| (p[:identifiers] || []).find { |i| i[:scheme] == 'wikidata' } }
     wdg = parties.partition { |p| (p[:identifiers] || []).find { |i| i[:scheme] == 'wikidata' } }
 
-    puts "|-"
-    puts "| %s || {{Q|%s}} || %d || %d || %.0f%% || %d || %d || %0.f%%" % [
-      c[:name], wdid.sub('Q',''), 
+    puts '|-'
+    puts '| %s || {{Q|%s}} || %d || %d || %.0f%% || %d || %d || %0.f%%' % [
+      c[:name], wdid.sub('Q', ''),
       persons.count, wdp.first.count, percentage(wdp.first.count, persons.count),
       parties.count, wdg.first.count, percentage(wdg.first.count, parties.count),
     ]
@@ -46,7 +44,7 @@ EveryPolitician.countries.each do |c|
   end
 end
 
-puts "|}"
+puts '|}'
 
 # only warn so that we can paste STDOUT to Wikidata without this
-warn "Total: %d / %d (%0.f%%)" % [total[:matched], total[:persons], total[:matched] * 100.to_f / total[:persons]]
+warn 'Total: %d / %d (%0.f%%)' % [total[:matched], total[:persons], total[:matched] * 100.to_f / total[:persons]]
