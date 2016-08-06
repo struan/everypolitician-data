@@ -1,3 +1,4 @@
+
 require 'fileutils'
 require 'pathname'
 require 'pry'
@@ -9,10 +10,10 @@ require_relative 'lib/git'
 
 def json_from(json_file)
   statements = 0
-  json = JSON.load(File.read(json_file), lambda { |h|
-    statements += h.values.select { |v| v.class == String }.count if h.class == Hash 
-  }, symbolize_names: true, create_additions: false)
-  return json, statements
+  json = JSON.load(File.read(json_file), lambda do |h|
+    statements += h.values.select { |v| v.class == String }.count if h.class == Hash
+  end, symbolize_names: true, create_additions: false)
+  [json, statements]
 end
 
 def json_write(file, json)
@@ -20,18 +21,18 @@ def json_write(file, json)
 end
 
 def terms_from(json, h)
-  terms = json[:events].find_all { |o| o[:classification] == 'legislative period' }
-  terms.sort_by { |t| t[:start_date].to_s }.reverse.map { |t|
+  terms = json[:events].select { |o| o[:classification] == 'legislative period' }
+  terms.sort_by { |t| t[:start_date].to_s }.reverse.map do |t|
     t.delete :classification
     t.delete :organization_id
     t[:slug] ||= t[:id].split('/').last
     t[:csv] = h + "/term-#{t[:slug]}.csv"
     t
-  }.select { |t| File.exist? t[:csv] }
+  end.select { |t| File.exist? t[:csv] }
 end
 
 def name_from(json)
-  orgs = json[:organizations].find_all { |o| o[:classification] == 'legislature' }
+  orgs = json[:organizations].select { |o| o[:classification] == 'legislature' }
   raise "Wrong number of legislatures (#{orgs})" unless orgs.count == 1
   orgs.first[:name]
 end
@@ -43,12 +44,12 @@ task 'countries.json' do
   #    EP_COUNTRY_REFRESH=Latvia be rake countries.json
 
   to_build = ENV['EP_COUNTRY_REFRESH'] || 'data'
-  
-  countries = @HOUSES.group_by { |h| h.split('/')[1] }.select do |c, hs|
-    hs.any? { |h| h.include? to_build } 
+
+  countries = @HOUSES.group_by { |h| h.split('/')[1] }.select do |_, hs|
+    hs.any? { |h| h.include? to_build }
   end
 
-  data, _ = json_from('countries.json') rescue {}
+  data, = json_from('countries.json') rescue {}
   # If we know we'll need data for every country directory anyway,
   # it's much faster to pass the single directory 'data' than a list
   # of every country directory:
@@ -58,16 +59,16 @@ task 'countries.json' do
 
   countries.each do |c, hs|
     meta_file = hs.first + '/../meta.json'
-    meta = File.exist?(meta_file) ? JSON.load(File.open meta_file) : {}
+    meta = File.exist?(meta_file) ? JSON.load(File.open(meta_file)) : {}
     name = meta['name'] || c.tr('_', ' ')
     slug = c.tr('_', '-')
     country = {
-      name: name,
-      # Deprecated — will be removed soon!
-      country: name,
-      code: meta['iso_code'].upcase,
-      slug: slug,
-      legislatures: hs.map { |h|
+      name:         name,
+      # Deprecated - will be removed soon!
+      country:      name,
+      code:         meta['iso_code'].upcase,
+      slug:         slug,
+      legislatures: hs.map do |h|
         json_file = h + '/ep-popolo-v1.0.json'
         name_file = h + '/names.csv'
         remote_source = 'https://cdn.rawgit.com/everypolitician/everypolitician-data/%s/%s'
@@ -76,24 +77,24 @@ task 'countries.json' do
         lname = name_from(popolo)
         lslug = h.split('/').last.tr('_', '-')
         {
-          name: lname,
-          slug: lslug,
-          sources_directory: "#{h}/sources",
-          popolo: json_file,
-          popolo_url: remote_source % [sha, json_file],
-          names: name_file,
-          lastmod: lastmod,
-          person_count: popolo[:persons].size,
-          sha: sha,
-          legislative_periods: terms_from(popolo, h).each { |t|
+          name:                lname,
+          slug:                lslug,
+          sources_directory:   "#{h}/sources",
+          popolo:              json_file,
+          popolo_url:          remote_source % [sha, json_file],
+          names:               name_file,
+          lastmod:             lastmod,
+          person_count:        popolo[:persons].size,
+          sha:                 sha,
+          legislative_periods: terms_from(popolo, h).each do |t|
             term_csv_sha = commit_metadata[t[:csv]][:sha]
             t[:csv_url] = remote_source % [term_csv_sha, t[:csv]]
-          },
-          statement_count: statement_count,
+          end,
+          statement_count:     statement_count,
         }
-      }
+      end,
     }
-    data[ data.find_index { |c| c[:name] == country[:name] } ] = country
+    data[data.find_index { |c| c[:name] == country[:name] }] = country
   end
   File.write('countries.json', JSON.pretty_generate(data.sort_by { |c| c[:name] }.to_a))
 end

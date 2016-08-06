@@ -5,13 +5,12 @@ require_relative './reconciliation/template'
 require 'csv'
 
 class Reconciler
-
   def initialize(i)
     @instructions = i
   end
 
   def filename
-    fn = @instructions[:reconciliation_file] or return
+    (fn = @instructions[:reconciliation_file]) || return
     File.join('sources', fn)
   end
 
@@ -34,7 +33,7 @@ class Reconciler
   def generate_interface!(merged_rows, incoming_data)
     interface = Reconciliation::Interface.new(merged_rows, incoming_data, previously_reconciled, @instructions)
     write_file!(interface_filename, interface.html)
-    return interface_filename
+    interface_filename
   end
 
   def incoming_field
@@ -46,6 +45,7 @@ class Reconciler
   end
 
   private
+
   def write_file!(filename, text)
     FileUtils.mkdir_p(File.dirname(filename))
     File.write(filename, text)

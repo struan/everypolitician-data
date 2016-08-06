@@ -11,6 +11,7 @@ class Position
     end
 
     private
+
     def unknown
       @json[:unknown][:unknown]
     end
@@ -20,14 +21,14 @@ class Position
     end
 
     def body
-      '<div id="data">%s</div><div><pre id="results" /></div></body></html>' % 
+      '<div id="data">%s</div><div><pre id="results" /></div></body></html>' %
         unknown.map { |p| "<p data-id='#{p[:id]}'>#{p[:name]} <small>(#{p[:description]})</small></p>" }.join("\n")
     end
 
     def scripts
-      ["https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js", '.position-filter.js'].map { |src|
-        %Q(<script src="#{src}"></script>)
-      }.join
+      ['https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js', '.position-filter.js'].map do |src|
+        %(<script src="#{src}"></script>)
+      end.join
     end
   end
 end

@@ -8,7 +8,7 @@
 # together into 'sources/merged.csv'
 
 # Step 2: verify_source_data
-# Make sure that the merged data has everything we need and is 
+# Make sure that the merged data has everything we need and is
 # well-formed
 
 # Step 3: turn_csv_to_popolo
@@ -16,7 +16,7 @@
 
 # Step 4: generate_ep_popolo
 # This turns the generic 'merged.json' into the EP-specific
-# 'ep-popolo.json' 
+# 'ep-popolo.json'
 
 # Step 5: generate_final_csvs
 # Generates term-by-term CSVs from the ep-popolo
@@ -44,8 +44,11 @@ POSITION_FILTER = Pathname.new('sources/manual/position-filter.json')
 POSITION_RAW = Pathname.new('sources/wikidata/positions.json')
 POSITION_CSV = Pathname.new('unstable/positions.csv')
 
-Numeric.class_eval { def empty?; false; end }
-
+Numeric.class_eval do
+  def empty?
+    false
+  end
+end
 
 def deep_sort(element)
   if element.is_a?(Hash)
@@ -76,20 +79,22 @@ module Enumerable
 end
 
 def popolo_write(file, json)
-  # TODO remove the need for the .to_s here, by ensuring all People and Orgs have names
-  json[:persons] = json[:persons].portable_sort_by { |p| [ p[:name].to_s, p[:id] ] }
+  # TODO: remove the need for the .to_s here, by ensuring all People and Orgs have names
+  json[:persons] = json[:persons].portable_sort_by { |p| [p[:name].to_s, p[:id]] }
   json[:persons].each do |p|
-    p[:identifiers]     &&= p[:identifiers].portable_sort_by { |i| [ i[:scheme], i[:identifier] ] }
-    p[:contact_details] &&= p[:contact_details].portable_sort_by { |d| [ d[:type] ] }
+    p[:identifiers]     &&= p[:identifiers].portable_sort_by { |i| [i[:scheme], i[:identifier]] }
+    p[:contact_details] &&= p[:contact_details].portable_sort_by { |d| [d[:type]] }
     p[:links]           &&= p[:links].portable_sort_by { |l| l[:note] }
-    p[:other_names]     &&= p[:other_names].portable_sort_by { |n| [ n[:lang].to_s, n[:name] ] }
+    p[:other_names]     &&= p[:other_names].portable_sort_by { |n| [n[:lang].to_s, n[:name]] }
   end
-  json[:organizations] = json[:organizations].portable_sort_by { |o| [ o[:name].to_s, o[:id] ] }
-  json[:memberships]   = json[:memberships].portable_sort_by { |m| [
-    m[:person_id], m[:organization_id], m[:legislative_period_id], m[:start_date].to_s, m[:on_behalf_of_id].to_s, m[:area_id].to_s
-  ] }
-  json[:events] &&= json[:events].portable_sort_by { |e| [ e[:start_date].to_s || '', e[:id].to_s ] }
-  json[:areas]  &&= json[:areas].portable_sort_by  { |a| [ a[:id] ] }
+  json[:organizations] = json[:organizations].portable_sort_by { |o| [o[:name].to_s, o[:id]] }
+  json[:memberships]   = json[:memberships].portable_sort_by do |m|
+    [
+      m[:person_id], m[:organization_id], m[:legislative_period_id], m[:start_date].to_s, m[:on_behalf_of_id].to_s, m[:area_id].to_s,
+    ]
+  end
+  json[:events] &&= json[:events].portable_sort_by { |e| [e[:start_date].to_s || '', e[:id].to_s] }
+  json[:areas]  &&= json[:areas].portable_sort_by  { |a| [a[:id]] }
   final = Hash[deep_sort(json).sort_by { |k, _| k }.reverse]
   File.write(file, JSON.pretty_generate(final))
 end
@@ -109,7 +114,7 @@ end
 def load_instructions_file
   json = clean_instructions_file
   json[:sources].each do |s|
-    s[:file] = "sources/%s" % s[:file] unless s[:file][/sources/]
+    s[:file] = 'sources/%s' % s[:file] unless s[:file][/sources/]
   end
   json
 end
@@ -119,9 +124,8 @@ def instructions(key)
   @instructions[key]
 end
 
-desc "Rebuild from source data"
-task :rebuild => [ :clobber, 'ep-popolo-v1.0.json' ]
-task :default => [ :csvs, 'stats:regenerate' ]
+desc 'Rebuild from source data'
+task rebuild: [:clobber, 'ep-popolo-v1.0.json']
+task default: [:csvs, 'stats:regenerate']
 
 Dir[File.dirname(__FILE__) + '/rake_*/*.rb'].each { |file| require file }
-

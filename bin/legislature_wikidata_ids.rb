@@ -12,16 +12,16 @@ def json_from(json_file)
   JSON.parse(File.read(json_file), symbolize_names: true)
 end
 
-file = ARGV.first or abort "Usage: #$0 <popolo file>"
+(file = ARGV.first) || abort("Usage: #{$PROGRAM_NAME} <popolo file>")
 @popolo = json_from(file)
 
 def wikidata_id(p)
   return if p[:identifiers].empty?
-  wd = p[:identifiers].find { |i| i[:scheme] == 'wikidata' } or return
+  (wd = p[:identifiers].find { |i| i[:scheme] == 'wikidata' }) || return
   wd[:identifier]
 end
 
-rows = @popolo[:persons].map { |p| [wikidata_id(p),p[:id]] }.reject { |r| r.first.nil? }.sort_by { |r| r.last }
+rows = @popolo[:persons].map { |p| [wikidata_id(p), p[:id]] }.reject { |r| r.first.nil? }.sort_by(&:last)
 
 puts %w(id uuid).to_csv
 rows.each { |r| puts r.to_csv }

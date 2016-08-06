@@ -3,7 +3,6 @@ require 'json'
 require 'csv'
 
 class RemoteSource
-
   # Instantiate correct subclass based on instructions
   def self.instantiate(i)
     c = i[:create]
@@ -16,7 +15,7 @@ class RemoteSource
     return RemoteSource::Wikidata::Area.new(i)     if c[:from] == 'area-wikidata'
     return RemoteSource::Wikidata::Raw.new(i)      if c[:from] == 'wikidata-raw'
     return RemoteSource::GenderBalance.new(i)      if c[:from] == 'gender-balance'
-    raise "Don't know how to fetch #{i[:file]}" 
+    raise "Don't know how to fetch #{i[:file]}"
   end
 
   def initialize(i)
@@ -40,7 +39,7 @@ class RemoteSource
   rescue => e
     abort "Failed to GET #{url}: #{e.message}"
   end
-  
+
   def regenerate
     FileUtils.mkpath File.dirname i(:file)
     write
@@ -56,7 +55,7 @@ end
 
 class RemoteSource::Morph < RemoteSource
   def morph_select(src, qs)
-    morph_api_key = ENV['MORPH_API_KEY'] or fail 'Need a Morph API key'
+    (morph_api_key = ENV['MORPH_API_KEY']) || fail('Need a Morph API key')
     key = ERB::Util.url_encode(morph_api_key)
     query = ERB::Util.url_encode(qs.gsub(/\s+/, ' ').strip)
     url = "https://api.morph.io/#{src}/data.csv?key=#{key}&query=#{query}"
@@ -86,10 +85,10 @@ class RemoteSource::Parlparse < RemoteSource
     gh_url = 'https://raw.githubusercontent.com/everypolitician/everypolitician-data/master/data/'
     term_file_url = gh_url + '%s/sources/manual/terms.csv'
     instructions_url = gh_url + '%s/sources/parlparse/instructions.json'
-    cwd = Dir.pwd.split("/").last(2).join("/")
+    cwd = Dir.pwd.split('/').last(2).join('/')
 
     args = {
-      terms_csv: term_file_url % cwd,
+      terms_csv:         term_file_url % cwd,
       instructions_json: instructions_url % cwd,
     }
     remote = 'https://parlparse-to-csv.herokuapp.com/?' + URI.encode_www_form(args)
@@ -113,13 +112,13 @@ class RemoteSource::Wikidata < RemoteSource
   end
 
   def map_data
-    csv_data.map { |r| r.to_hash }
+    csv_data.map(&:to_hash)
   end
 
   def raw_wikidata
     lookup_class.new(map_data)
   end
-  
+
   def processed_wikidata
     raw_wikidata.to_hash
   end
@@ -163,4 +162,3 @@ class RemoteSource::Wikidata::Raw < RemoteSource::Wikidata
     raw_wikidata.to_hash.each_with_object({}) { |(k, v), h| h[k] = v[:p39s] }.reject { |_, v| v.nil? }
   end
 end
-

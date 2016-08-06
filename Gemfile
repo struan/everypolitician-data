@@ -27,4 +27,7 @@ group :test do
   gem 'minitest-around'
   gem 'vcr'
   gem 'webmock'
+  gem 'rubocop'
 end
+
+
