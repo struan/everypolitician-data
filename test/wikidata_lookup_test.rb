@@ -6,9 +6,9 @@ describe WikidataLookup do
 
   subject do
     WikidataLookup.new([
-      { id: 'pnp', wikidata: 'Q1076562' },
-      { id: 'ppd', wikidata: 'Q199319' }
-    ])
+                         { id: 'pnp', wikidata: 'Q1076562' },
+                         { id: 'ppd', wikidata: 'Q199319' },
+                       ])
   end
 
   describe '#to_hash' do

@@ -14,7 +14,7 @@ describe Reconciliation::Fuzzer do
   let(:instructions) do
     {
       incoming_field: 'name',
-      existing_field: 'name'
+      existing_field: 'name',
     }
   end
 
@@ -27,15 +27,15 @@ describe Reconciliation::Fuzzer do
         existing: [
           [
             {
-              :uuid=>"d50ab88c-8c56-4530-90b2-868adb2b94cd",
-              :name=>"Seamus",
-              :fuzzit => "seamus",
+              uuid:   'd50ab88c-8c56-4530-90b2-868adb2b94cd',
+              name:   'Seamus',
+              fuzzit: 'seamus',
             },
             0.6,
-            0.8333333333333334
-          ]
-        ]
-      }
+            0.8333333333333334,
+          ],
+        ],
+      },
     ]
   end
 end
