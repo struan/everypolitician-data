@@ -10,7 +10,7 @@ desc "Verify merged data"
 namespace :verify do
 
   task :load => 'merge_sources:sources/merged.csv' do
-    csv_data = File.read('sources/merged.csv')
+    csv_data = MERGED_CSV.read
     @csv_headers = Rcsv.raw_parse(StringIO.new(csv_data.each_line.first)).first
     @csv = Rcsv.parse(
       csv_data,

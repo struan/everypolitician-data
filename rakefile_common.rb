@@ -32,10 +32,14 @@ require 'fileutils'
 require 'fuzzy_match'
 require 'json'
 require 'open-uri'
+require 'pathname'
 require 'pry'
 require 'rake/clean'
 require 'set'
 require 'yajl/json_gem'
+
+MERGED_JSON = Pathname.new('sources/merged.json')
+MERGED_CSV  = Pathname.new('sources/merged.csv')
 
 Numeric.class_eval { def empty?; false; end }
 

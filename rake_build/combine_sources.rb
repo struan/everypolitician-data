@@ -68,14 +68,14 @@ namespace :merge_sources do
   end
 
   desc "Combine Sources"
-  task 'sources/merged.csv' => :fetch_missing do
+  task MERGED_CSV => :fetch_missing do
     combine_sources
   end
 
   @recreatable = instructions(:sources).find_all { |i| i.key? :create }
   CLOBBER.include FileList.new(@recreatable.map { |i| i[:file] })
 
-  CLEAN.include 'sources/merged.csv'
+  CLEAN.include MERGED_CSV
 
   # We re-fetch any file that is missing, or, if REBUILD_SOURCE is set,
   # any file that matches that.
@@ -303,7 +303,7 @@ namespace :merge_sources do
     merged_rows.each { |row| row[:id] = row[:uuid] }
 
     # Then write it all out
-    CSV.open("sources/merged.csv", "w") do |out|
+    CSV.open(MERGED_CSV, "w") do |out|
       out << all_headers
       merged_rows.each { |r| out << all_headers.map { |header| r[header.to_sym] } }
     end

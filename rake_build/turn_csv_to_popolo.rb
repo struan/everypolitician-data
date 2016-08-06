@@ -1,14 +1,14 @@
 
 desc "Generate merged.json"
-task :whittle => [:clobber, 'sources/merged.json']
+task :whittle => [:clobber, MERGED_JSON]
 
 namespace :whittle do
 
-  file 'sources/merged.json' => :write 
-  CLEAN.include('sources/merged.json')
+  file MERGED_JSON => :write 
+  CLEAN.include MERGED_JSON
 
   task :load => 'verify:check_data' do
-    @json = Popolo::CSV.new('sources/merged.csv').data
+    @json = Popolo::CSV.new(MERGED_CSV).data
   end
 
   task :meta_info => :load do
@@ -25,9 +25,7 @@ namespace :whittle do
 
   # TODO work out how to make this do the 'only run if needed'
   task :write => :meta_info do
-    unless File.exists? 'sources/merged.json'
-      json_write('sources/merged.json', @json)
-    end
+    json_write(MERGED_JSON, @json) unless MERGED_JSON.exist? 
   end
 
   #---------------------------------------------------------------------
