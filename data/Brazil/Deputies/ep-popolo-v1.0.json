@@ -3066,6 +3066,21 @@
       ]
     },
     {
+      "id": "847e9c0c-11f1-42b1-9521-7acb7c3c3302",
+      "image": "http://www.camara.gov.br/internet/deputado/bandep/195143.jpg",
+      "images": [
+        {
+          "url": "http://www.camara.gov.br/internet/deputado/bandep/195143.jpg"
+        }
+      ],
+      "name": "ANDRÉ AMARAL",
+      "sources": [
+        {
+          "url": "http://www2.camara.gov.br/deputados/pesquisa/layouts_deputados_biografia?pk=201869&tipo=0"
+        }
+      ]
+    },
+    {
       "birth_date": "1961-07-22",
       "contact_details": [
         {
@@ -3619,6 +3634,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "25987da1-9622-44e6-9b31-a0477cfa8502",
       "image": "http://www.camara.gov.br/internet/deputado/bandep/74213.jpg",
       "images": [
@@ -10813,6 +10829,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "85bc55dc-99b5-46bb-b107-60e2baaac4d8",
       "image": "http://www.camara.gov.br/internet/deputado/bandep/185500.jpg",
       "images": [
@@ -14685,6 +14702,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "6a35800b-c612-43d3-9fe3-895c5538c4c0",
       "image": "http://www.camara.gov.br/internet/deputado/bandep/190149.jpg",
       "images": [
@@ -14859,6 +14877,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "7fed310f-cec2-44b4-a24f-91cb3c743118",
       "image": "http://www.camara.gov.br/internet/deputado/bandep/72442.jpg",
       "images": [
@@ -15989,6 +16008,7 @@
         }
       ],
       "email": "dep.pastorfranklin@camara.leg.br",
+      "gender": "male",
       "id": "89cbc91e-2923-4769-b802-56373245dd03",
       "image": "http://www.camara.gov.br/internet/deputado/bandep/186775.jpg",
       "images": [
@@ -24304,6 +24324,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "074d43b0-e7b0-4f05-8d83-36df3fb6036e",
       "image": "http://www.camara.gov.br/internet/deputado/bandep/141474.jpg",
       "images": [
@@ -28373,6 +28394,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "3f011bef-7bae-4bf9-8247-1178f28ef79e",
       "image": "http://www.camara.gov.br/internet/deputado/bandep/151965.jpg",
       "images": [
@@ -29431,6 +29453,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "7f3894f6-bc1b-4b73-a092-559dc19f193b",
       "image": "http://www.camara.gov.br/internet/deputado/bandep/178899.jpg",
       "images": [
@@ -34764,6 +34787,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "137c0806-e653-491d-96e7-cab98e2bdeee",
       "image": "http://www.camara.gov.br/internet/deputado/bandep/180545.jpg",
       "images": [
@@ -37309,6 +37333,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "a26ef6a9-0385-40fe-bfb5-73015e472733",
       "image": "http://www.camara.gov.br/internet/deputado/bandep/80920.jpg",
       "images": [
@@ -45223,6 +45248,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "512bfb85-5c5a-40c3-9937-0567440eebfa",
       "image": "http://www.camara.gov.br/internet/deputado/bandep/73831.jpg",
       "images": [
@@ -50546,6 +50572,11 @@
         {
           "lang": "el",
           "name": "Λαϊκό Σοσιαλιστικό Κόμμα",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "社会人民党",
           "note": "multilingual"
         },
         {
@@ -58152,6 +58183,14 @@
       "on_behalf_of_id": "PMDB",
       "organization_id": "c5d9ea98-074a-4a11-9016-a5157e4aa51e",
       "person_id": "8443622c-de15-4537-a2ed-167d9699d204",
+      "role": "member"
+    },
+    {
+      "area_id": "area/pb",
+      "legislative_period_id": "term/55",
+      "on_behalf_of_id": "PMDB",
+      "organization_id": "c5d9ea98-074a-4a11-9016-a5157e4aa51e",
+      "person_id": "847e9c0c-11f1-42b1-9521-7acb7c3c3302",
       "role": "member"
     },
     {
