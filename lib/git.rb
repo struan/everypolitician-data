@@ -2,7 +2,7 @@
 # hash that maps from symbolized match names to the matched text.
 class MatchData
   def to_hash
-    Hash[ (self.names.map(&:to_sym)).zip(self.captures) ]
+    Hash[names.map(&:to_sym).zip(captures)]
   end
 end
 
@@ -13,7 +13,7 @@ def file_to_commit_metadata(directories)
   # unnecessarily invoke a shell.
   command = [
     'git', '--no-pager', 'log', '--name-only', '--format=%h|%at',
-    '--', *directories
+    '--', *directories,
   ]
   last_commit = {}
   commit_details = nil
@@ -26,7 +26,7 @@ def file_to_commit_metadata(directories)
       commit_match = line.match /^(?<sha>[a-f\d]+)\|(?<timestamp>\d+)$/
       if commit_match
         commit_details = commit_match.to_hash
-      elsif not line.empty?
+      elsif !line.empty?
         last_commit[line] ||= commit_details
       end
     end

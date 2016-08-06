@@ -21,7 +21,7 @@ module Reconciliation
 
     # Ensure we only have one row per UUID, and generate for each row a
     # 'fuzzit' field that we'll be checking against.
-    # TODO: allow this to be more complex - e.g. multiple fields
+    # TODO: allow this to be more complex — e.g. multiple fields
     def existing_people
       @_existing_people ||= existing_rows.uniq { |r| r[:uuid] }.each { |r| r[:fuzzit] = comparable(r[existing_field], existing_field) }
     end
