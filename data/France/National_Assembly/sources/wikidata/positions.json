@@ -22643,21 +22643,14 @@
   ],
   "Q3083236": [
     {
-      "id": "Q1055894",
-      "label": "deputy",
-      "title": "deputy",
-      "description": "name for legislator in many countries",
-      "qualifiers": {
-        "P1366": "Annie Le Houérou",
-        "P580": "2002",
-        "P582": "2012",
-        "P1365": "Félix Leyzour"
-      }
-    },
-    {
       "id": "Q3044918",
       "label": "member of the French National Assembly",
-      "title": "member of the French National Assembly"
+      "title": "member of the French National Assembly",
+      "qualifiers": {
+        "P768": "Cotes-d'Armor's 4th constituency",
+        "P580": "2002-06-19",
+        "P582": "2007-06-19"
+      }
     },
     {
       "id": "Q382617",
@@ -22670,6 +22663,16 @@
       "label": "conseiller régional",
       "title": "conseiller régional",
       "description": "member of a regional council in France"
+    },
+    {
+      "id": "Q3044918",
+      "label": "member of the French National Assembly",
+      "title": "member of the French National Assembly",
+      "qualifiers": {
+        "P768": "Cotes-d'Armor's 4th constituency",
+        "P580": "2007-06-20",
+        "P582": "2012-06-19"
+      }
     }
   ],
   "Q249802": [
@@ -26222,15 +26225,14 @@
   ],
   "Q2689070": [
     {
-      "id": "Q1055894",
-      "label": "deputy",
-      "title": "deputy",
-      "description": "name for legislator in many countries"
-    },
-    {
       "id": "Q3044918",
       "label": "member of the French National Assembly",
-      "title": "member of the French National Assembly"
+      "title": "member of the French National Assembly",
+      "qualifiers": {
+        "P768": "Cotes-d'Armor's 5th constituency",
+        "P580": "1997-06-12",
+        "P582": "2002-06-18"
+      }
     },
     {
       "id": "Q382617",
@@ -26249,6 +26251,16 @@
       "label": "Member of the General Council",
       "title": "Member of the General Council",
       "description": "elected member of the local assembly of a French department (before March 2015)"
+    },
+    {
+      "id": "Q3044918",
+      "label": "member of the French National Assembly",
+      "title": "member of the French National Assembly",
+      "qualifiers": {
+        "P768": "Cotes-d'Armor's 5th constituency",
+        "P580": "2002-06-19",
+        "P582": "2007-06-19"
+      }
     }
   ],
   "Q2961751": [
