@@ -1212,7 +1212,13 @@
       "id": "Q13218630",
       "label": "United States representative",
       "title": "United States representative",
-      "description": "elected representative in the US"
+      "description": "elected representative in the US",
+      "qualifiers": {
+        "P582": "2007-01-03",
+        "P580": "1979-01-03",
+        "P1366": "Keith Ellison",
+        "P1365": "Donald M. Fraser"
+      }
     }
   ],
   "Q437667": [
@@ -6335,7 +6341,12 @@
       "id": "Q13218630",
       "label": "United States representative",
       "title": "United States representative",
-      "description": "elected representative in the US"
+      "description": "elected representative in the US",
+      "qualifiers": {
+        "P580": "2011-01-03",
+        "P768": "New York's 22nd congressional district",
+        "P2715": "United States House of Representatives elections in New York, 2010"
+      }
     }
   ],
   "Q3917251": [
@@ -7585,7 +7596,12 @@
       "id": "Q13218630",
       "label": "United States representative",
       "title": "United States representative",
-      "description": "elected representative in the US"
+      "description": "elected representative in the US",
+      "qualifiers": {
+        "P580": "2007-01-03",
+        "P1365": "Martin Olav Sabo",
+        "P768": "Minnesota's 5th congressional district"
+      }
     },
     {
       "id": "Q17505193",
@@ -12909,7 +12925,8 @@
         "P580": "2003-01-13",
         "P582": "2009-01-29",
         "P1366": "Pat Quinn",
-        "P1365": "George Ryan"
+        "P1365": "George Ryan",
+        "P1545": "40th"
       }
     }
   ],
