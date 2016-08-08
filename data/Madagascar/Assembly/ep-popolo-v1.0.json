@@ -38,6 +38,16 @@
       "name": "ALIDY Bin Soufou"
     },
     {
+      "id": "c03074e1-4051-45fa-8603-b5b8725a3b51",
+      "image": "http://www.assemblee-nationale.mg/wp-content/plugins/internet/2014/54.jpg",
+      "images": [
+        {
+          "url": "http://www.assemblee-nationale.mg/wp-content/plugins/internet/2014/54.jpg"
+        }
+      ],
+      "name": "ANDRIAMAROTIA Ludovic Edmond"
+    },
+    {
       "gender": "female",
       "id": "8e4eaad9-d9cb-4213-a206-728a3cb80bd4",
       "identifiers": [
@@ -70,6 +80,16 @@
         }
       ],
       "name": "ANDRIAMBOAVONJY Nantenaina Herisoa"
+    },
+    {
+      "id": "5552bab5-8700-4729-bb1d-21022e75db47",
+      "image": "http://www.assemblee-nationale.mg/wp-content/plugins/internet/2014/62.jpg",
+      "images": [
+        {
+          "url": "http://www.assemblee-nationale.mg/wp-content/plugins/internet/2014/62.jpg"
+        }
+      ],
+      "name": "ANDRIAMIFALISON Réné Rakotonirina"
     },
     {
       "gender": "male",
@@ -1535,10 +1555,10 @@
     },
     {
       "id": "45d35ef0-28a7-41d3-b011-aab2b07d1cdd",
-      "image": "http://www.assemblee-nationale.mg/wp-content/plugins/internet/2014/98.jpg",
+      "image": "http://www.assemblee-nationale.mg/wp-content/plugins/internet/img/vavy.png",
       "images": [
         {
-          "url": "http://www.assemblee-nationale.mg/wp-content/plugins/internet/2014/98.jpg"
+          "url": "http://www.assemblee-nationale.mg/wp-content/plugins/internet/img/vavy.png"
         }
       ],
       "name": "RAMAHATODISOLOMANANA Voanalaroy"
@@ -2800,6 +2820,16 @@
       "name": "ROCHELIN Houssen"
     },
     {
+      "id": "ef6e01b9-4785-4f7e-8c5e-ad9e26f725fb",
+      "image": "http://www.assemblee-nationale.mg/wp-content/plugins/internet/2014/8.jpg",
+      "images": [
+        {
+          "url": "http://www.assemblee-nationale.mg/wp-content/plugins/internet/2014/8.jpg"
+        }
+      ],
+      "name": "ROGER Moussa Jassat"
+    },
+    {
       "gender": "male",
       "id": "22f2f47c-b3b2-47bf-a4a4-9fc736a2f1cf",
       "identifiers": [
@@ -3681,6 +3711,16 @@
           "lang": "cs",
           "name": "bez stranické příslušnosti",
           "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "нестраначки политичар",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "ванстраначки политичар",
+          "note": "multilingual"
         }
       ]
     },
@@ -3716,6 +3756,11 @@
       "classification": "party",
       "id": "party/mapar",
       "name": "MAPAR"
+    },
+    {
+      "classification": "party",
+      "id": "party/mapar_ii",
+      "name": "MAPAR II"
     },
     {
       "classification": "party",
@@ -4141,6 +4186,14 @@
       "on_behalf_of_id": "party/indépendant",
       "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "531e761e-d6c1-4d37-b83b-51f06896babf",
+      "role": "member"
+    },
+    {
+      "area_id": "area/fandriana",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "party/mapar",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
+      "person_id": "5552bab5-8700-4729-bb1d-21022e75db47",
       "role": "member"
     },
     {
@@ -4672,6 +4725,14 @@
       "role": "member"
     },
     {
+      "area_id": "area/betioky_atsimo",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "party/vp-mmm",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
+      "person_id": "c03074e1-4051-45fa-8603-b5b8725a3b51",
+      "role": "member"
+    },
+    {
       "area_id": "area/antsiranana_ii",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mapar",
@@ -4893,6 +4954,14 @@
       "on_behalf_of_id": "party/indépendant",
       "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "ef47aac8-a23d-4c21-aac7-53996107c891",
+      "role": "member"
+    },
+    {
+      "area_id": "area/ampanihy_andrefana",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "party/mapar_ii",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
+      "person_id": "ef6e01b9-4785-4f7e-8c5e-ad9e26f725fb",
       "role": "member"
     },
     {
