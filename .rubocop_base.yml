@@ -1,0 +1,48 @@
+# A base Rubocop configuration that other repos can inherit from
+# http://rubocop.readthedocs.io/en/latest/configuration/#inheriting-configuration-from-a-remote-url
+
+Lint/AssignmentInCondition:
+  Enabled: false
+
+Lint/Debugger:
+  Enabled: false
+
+
+Performance/Casecmp:
+  Enabled: false
+
+
+Style/AlignHash:
+  EnforcedHashRocketStyle: table
+  EnforcedColonStyle: table
+
+Style/ClassAndModuleCamelCase:
+  Enabled: false
+
+Style/CollectionMethods:
+  Enabled: true
+
+Style/Documentation:
+  Enabled: false
+
+Style/FormatString:
+  EnforcedStyle: percent
+
+Style/HashSyntax:
+  EnforcedStyle: ruby19_no_mixed_keys
+
+Style/RegexpLiteral:
+  AllowInnerSlashes: true
+
+Style/RescueModifier:
+  Enabled: false
+
+Style/SignalException:
+  Enabled: false
+
+Style/SymbolArray:
+  Enabled: true
+
+Style/TrailingCommaInLiteral:
+  EnforcedStyleForMultiline: consistent_comma
+

@@ -3,47 +3,6 @@ AllCops:
     - 'data/**/*'
     - 'vendor/**/*'
 
-Lint/AssignmentInCondition:
-  Enabled: false
-
-Lint/Debugger:
-  Enabled: false
-
-Style/AlignHash:
-  EnforcedHashRocketStyle: table
-  EnforcedColonStyle: table
-
-Style/ClassAndModuleCamelCase:
-  Enabled: false
-
-Style/CollectionMethods:
-  Enabled: true
-
-Style/Documentation:
-  Enabled: false
-
-Style/FormatString:
-  EnforcedStyle: percent
-
-Style/HashSyntax:
-  EnforcedStyle: ruby19_no_mixed_keys
-
-Style/RegexpLiteral:
-  AllowInnerSlashes: true
-
-Style/RescueModifier:
-  Enabled: false
-
-Style/SignalException:
-  Enabled: false
-
-Style/SymbolArray:
-  Enabled: true
-
-Style/TrailingCommaInLiteral:
-  EnforcedStyleForMultiline: consistent_comma
-
-
 Metrics/ClassLength:
   Max: 250
 
@@ -62,8 +21,7 @@ Metrics/CyclomaticComplexity:
 Metrics/PerceivedComplexity:
   Max: 8
 
-Performance/Casecmp:
-  Enabled: false
 
-# Get rid of these ones over time
-inherit_from: .rubocop_todo.yml
+inherit_from: 
+  - .rubocop_base.yml
+  - .rubocop_todo.yml
