@@ -720,7 +720,50 @@
     {
       "id": "Q17592486",
       "label": "member of the Parliament of Finland",
-      "title": "member of the Parliament of Finland"
+      "title": "member of the Parliament of Finland",
+      "qualifiers": {
+        "P580": "1999-03-24",
+        "P582": "2012-11-16",
+        "P768": "Kymi",
+        "P1366": "Anu Urpalainen"
+      }
+    },
+    {
+      "id": "Q188393",
+      "label": "Minister of Defence",
+      "title": "Minister of Defence",
+      "description": "cabinet minister in Finland",
+      "qualifiers": {
+        "P580": "2007-04-19",
+        "P582": "2011-06-21",
+        "P361": "Matti Vanhanen's second cabinet",
+        "P1365": "Seppo Kääriäinen",
+        "P1366": "Stefan Wallin"
+      }
+    },
+    {
+      "id": "Q10495404",
+      "label": "Minister of Economic Affairs",
+      "title": "Minister of Economic Affairs",
+      "description": "cabinet minister of Finland",
+      "qualifiers": {
+        "P580": "2011-06-22",
+        "P582": "2012-11-16",
+        "P361": "Jyrki Katainen's cabinet",
+        "P1365": "Mauri Pekkarinen",
+        "P1366": "Jan Vapaavuori"
+      }
+    },
+    {
+      "id": "Q1501800",
+      "label": "Director-General",
+      "title": "Director-General (of Confederation of Finnish Industries)",
+      "description": "title given the highest executive officer in some organisations",
+      "qualifiers": {
+        "P642": "Confederation of Finnish Industries",
+        "P580": "2012",
+        "P1365": "Mikko Pukkinen"
+      }
     }
   ],
   "Q983641": [
@@ -880,6 +923,43 @@
       "id": "Q17592486",
       "label": "member of the Parliament of Finland",
       "title": "member of the Parliament of Finland"
+    }
+  ],
+  "Q32219": [
+    {
+      "id": "Q17592486",
+      "label": "member of the Parliament of Finland",
+      "title": "member of the Parliament of Finland",
+      "qualifiers": {
+        "P580": "2003-03-19",
+        "P582": "2015-04-21",
+        "P768": "Helsinki"
+      }
+    },
+    {
+      "id": "Q18694340",
+      "label": "Q18694340",
+      "title": "Q18694340",
+      "qualifiers": {
+        "P580": "2007-04-19",
+        "P582": "2011-06-21",
+        "P361": "Matti Vanhanen's second cabinet",
+        "P1365": "Anneli Taina",
+        "P1366": "Krista Kiuru"
+      }
+    },
+    {
+      "id": "Q10495404",
+      "label": "Minister of Economic Affairs",
+      "title": "Minister of Economic Affairs",
+      "description": "cabinet minister of Finland",
+      "qualifiers": {
+        "P580": "2012-11-17",
+        "P582": "2015-05-28",
+        "P361": "Jyrki Katainen's cabinet",
+        "P1365": "Jyri Häkämies",
+        "P1366": "Olli Rehn"
+      }
     }
   ],
   "Q11853453": [
@@ -1361,7 +1441,7 @@
       "id": "Q188393",
       "label": "Minister of Defence",
       "title": "Minister of Defence",
-      "description": "in Finland",
+      "description": "cabinet minister in Finland",
       "qualifiers": {
         "P580": "2003-04-17",
         "P582": "2003-06-24",
@@ -1833,7 +1913,7 @@
       "id": "Q188393",
       "label": "Minister of Defence",
       "title": "Minister of Defence",
-      "description": "in Finland",
+      "description": "cabinet minister in Finland",
       "qualifiers": {
         "P580": "2012-07-05"
       }
@@ -3040,7 +3120,7 @@
       "id": "Q188393",
       "label": "Minister of Defence",
       "title": "Minister of Defence",
-      "description": "in Finland",
+      "description": "cabinet minister in Finland",
       "qualifiers": {
         "P580": "2003-06-24",
         "P582": "2007-04-19",
@@ -3236,10 +3316,10 @@
       }
     },
     {
-      "id": "Q24205195",
+      "id": "Q10495390",
       "label": "Minister of Trade and Industry",
       "title": "Minister of Trade and Industry",
-      "description": "Finnish cabinet position",
+      "description": "government minister of Finland",
       "qualifiers": {
         "P580": "2000-02-25",
         "P582": "2003-04-16"
@@ -3976,6 +4056,56 @@
       "label": "member of the European Parliament",
       "title": "member of the European Parliament",
       "description": "person who has been elected to the European Parliament"
+    }
+  ],
+  "Q1854955": [
+    {
+      "id": "Q17592486",
+      "label": "member of the Parliament of Finland",
+      "title": "member of the Parliament of Finland",
+      "qualifiers": {
+        "P580": "1979-03-24",
+        "P768": "Central Finland"
+      }
+    },
+    {
+      "id": "Q1445938",
+      "label": "Minister of the Interior",
+      "title": "Minister of the Interior",
+      "description": "Finnish Minister of the Interior",
+      "qualifiers": {
+        "P580": "1991-04-26",
+        "P582": "1995-04-12",
+        "P361": "Esko Aho's cabinet",
+        "P1365": "Jarmo Rantanen",
+        "P1366": "Jan-Erik Enestam"
+      }
+    },
+    {
+      "id": "Q10495390",
+      "label": "Minister of Trade and Industry",
+      "title": "Minister of Trade and Industry",
+      "description": "government minister of Finland",
+      "qualifiers": {
+        "P580": "2003-04-17",
+        "P582": "2007-12-31",
+        "P361": "Anneli Jäätteenmäki's cabinet",
+        "P1365": "Sinikka Mönkäre",
+        "P1366": ""
+      }
+    },
+    {
+      "id": "Q10495404",
+      "label": "Minister of Economic Affairs",
+      "title": "Minister of Economic Affairs",
+      "description": "cabinet minister of Finland",
+      "qualifiers": {
+        "P580": "2008-01-01",
+        "P582": "2011-06-21",
+        "P361": "Matti Vanhanen's second cabinet",
+        "P1365": "",
+        "P1366": "Jyri Häkämies"
+      }
     }
   ],
   "Q5413089": [
