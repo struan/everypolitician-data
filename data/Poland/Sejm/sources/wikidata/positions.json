@@ -328,6 +328,12 @@
       "id": "Q21328636",
       "label": "Member of the Sejm of the Republic of Poland",
       "title": "Member of the Sejm of the Republic of Poland"
+    },
+    {
+      "id": "Q27169",
+      "label": "member of the European Parliament",
+      "title": "member of the European Parliament",
+      "description": "person who has been elected to the European Parliament"
     }
   ],
   "Q9179979": [
@@ -1086,6 +1092,15 @@
       "id": "Q21328636",
       "label": "Member of the Sejm of the Republic of Poland",
       "title": "Member of the Sejm of the Republic of Poland"
+    },
+    {
+      "id": "Q27169",
+      "label": "member of the European Parliament",
+      "title": "member of the European Parliament",
+      "description": "person who has been elected to the European Parliament",
+      "qualifiers": {
+        "P580": "2015-11"
+      }
     }
   ],
   "Q55915": [
