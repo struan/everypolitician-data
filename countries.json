@@ -458,11 +458,11 @@
         "slug": "Diputados",
         "sources_directory": "data/Argentina/Diputados/sources",
         "popolo": "data/Argentina/Diputados/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/ba00071/data/Argentina/Diputados/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/693346e/data/Argentina/Diputados/ep-popolo-v1.0.json",
         "names": "data/Argentina/Diputados/names.csv",
-        "lastmod": "1470043767",
+        "lastmod": "1470730158",
         "person_count": 390,
-        "sha": "ba00071",
+        "sha": "693346e",
         "legislative_periods": [
           {
             "id": "term/133",
@@ -470,10 +470,10 @@
             "start_date": "2015",
             "slug": "133",
             "csv": "data/Argentina/Diputados/term-133.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e7335de/data/Argentina/Diputados/term-133.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/693346e/data/Argentina/Diputados/term-133.csv"
           }
         ],
-        "statement_count": 14883
+        "statement_count": 12738
       },
       {
         "name": "Cámara de Senadores",
@@ -8517,11 +8517,11 @@
         "slug": "Parliament",
         "sources_directory": "data/Singapore/Parliament/sources",
         "popolo": "data/Singapore/Parliament/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/c2cdfa0/data/Singapore/Parliament/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/09a8c13/data/Singapore/Parliament/ep-popolo-v1.0.json",
         "names": "data/Singapore/Parliament/names.csv",
-        "lastmod": "1470499003",
-        "person_count": 402,
-        "sha": "c2cdfa0",
+        "lastmod": "1470717891",
+        "person_count": 407,
+        "sha": "09a8c13",
         "legislative_periods": [
           {
             "id": "term/13",
@@ -8529,7 +8529,7 @@
             "start_date": "2016-01-15",
             "slug": "13",
             "csv": "data/Singapore/Parliament/term-13.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/c2cdfa0/data/Singapore/Parliament/term-13.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/09a8c13/data/Singapore/Parliament/term-13.csv"
           },
           {
             "end_date": "2015-08-25",
@@ -8538,7 +8538,7 @@
             "start_date": "2011-10-10",
             "slug": "12",
             "csv": "data/Singapore/Parliament/term-12.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/c2cdfa0/data/Singapore/Parliament/term-12.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/09a8c13/data/Singapore/Parliament/term-12.csv"
           },
           {
             "end_date": "2011-04-19",
@@ -8640,7 +8640,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/8f7ea40/data/Singapore/Parliament/term-1.csv"
           }
         ],
-        "statement_count": 15430
+        "statement_count": 15477
       }
     ]
   },
@@ -10582,11 +10582,11 @@
         "slug": "Senate",
         "sources_directory": "data/United_States_of_America/Senate/sources",
         "popolo": "data/United_States_of_America/Senate/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/8c6f926/data/United_States_of_America/Senate/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3bc8e0f/data/United_States_of_America/Senate/ep-popolo-v1.0.json",
         "names": "data/United_States_of_America/Senate/names.csv",
-        "lastmod": "1470013859",
+        "lastmod": "1470715117",
         "person_count": 310,
-        "sha": "8c6f926",
+        "sha": "3bc8e0f",
         "legislative_periods": [
           {
             "id": "term/114",
@@ -10768,7 +10768,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/296df5c/data/United_States_of_America/Senate/term-97.csv"
           }
         ],
-        "statement_count": 68102
+        "statement_count": 68960
       }
     ]
   },
