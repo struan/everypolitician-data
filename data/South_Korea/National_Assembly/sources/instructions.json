@@ -13,7 +13,12 @@
         "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "https://github.com/teampopong/data-assembly",
-      "type": "membership"
+      "type": "membership",
+      "merge": {
+          "incoming_field": "name",
+          "existing_field": "name",
+          "reconciliation_file": "reconciliation/popong-data-20.csv"
+      }
     },
     {
       "file": "morph/wikidata.csv",
