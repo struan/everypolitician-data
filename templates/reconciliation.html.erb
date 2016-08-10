@@ -120,7 +120,7 @@
                       {{ twitterAsLink(twitter) }}
                     {% }) %}
                   {% } else { %}
-                    {% if (_.any(person[field].split(';'), function(f) { f == compare_with[field] })) { %}
+                    {% if (_.any(person[field].split(';'), function(f) { return f == compare_with[field]; })) { %}
                       <span class="match">{{ person[field].split(';').join(', ') }}</span>
                     {% } else { %}
                       <span class="nomatch">{{ person[field].split(';').join(', ') }}</span>
