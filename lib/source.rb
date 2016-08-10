@@ -1,4 +1,5 @@
 require 'rcsv'
+require_relative 'uuid_map'
 
 module Source
   class Base
@@ -153,20 +154,12 @@ module Source
       true
     end
 
-    def id_map_file
-      filename.sub(/.csv$/, '-ids.csv')
-    end
-
     def id_map
-      return {} unless File.exist?(id_map_file)
-      Hash[Rcsv.parse(File.read(id_map_file), row_as_hash: true, columns: {}).map { |r| [r['id'], r['uuid']] }]
+      id_mapper.mapping
     end
 
     def write_id_map_file!(data)
-      ::CSV.open(id_map_file, 'w') do |csv|
-        csv << %i(id uuid)
-        data.each { |id, uuid| csv << [id, uuid] }
-      end
+      id_mapper.rewrite(data)
     end
 
     def raw_table
@@ -182,6 +175,16 @@ module Source
       return raw_table unless i(:filter)
       filter = ->(row) { i(:filter)[:accept].all? { |k, v| row[k] == v } }
       @_filtered ||= raw_table.select { |row| filter.call(row) }
+    end
+
+    private
+
+    def id_mapper
+      @map ||= UuidMapFile.new(id_map_file)
+    end
+
+    def id_map_file
+      filename.sub(/.csv$/, '-ids.csv')
     end
   end
 
