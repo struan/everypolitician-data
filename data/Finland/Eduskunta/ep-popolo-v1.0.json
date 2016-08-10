@@ -124,6 +124,10 @@
           "url": "https://fi.wikipedia.org/wiki/Aila_Paloniemi"
         },
         {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Aila_Paloniemi"
+        },
+        {
           "note": "wikipedia",
           "url": "http://fi.wikipedia.org/wiki/Aila_Paloniemi"
         }
@@ -157,6 +161,11 @@
         },
         {
           "lang": "nl",
+          "name": "Aila Paloniemi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
           "name": "Aila Paloniemi",
           "note": "multilingual"
         }
@@ -1534,6 +1543,10 @@
           "url": "https://fi.wikipedia.org/wiki/Anne_Kalmari"
         },
         {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Anne_Kalmari"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/AnneKalmari"
         },
@@ -1576,6 +1589,11 @@
         },
         {
           "lang": "nl",
+          "name": "Anne Kalmari",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
           "name": "Anne Kalmari",
           "note": "multilingual"
         }
@@ -13429,6 +13447,10 @@
         {
           "type": "phone",
           "value": "(09) 432 3130"
+        },
+        {
+          "type": "twitter",
+          "value": "Vapaavuori"
         }
       ],
       "email": "jan.vapaavuori@eduskunta.fi",
@@ -13442,12 +13464,20 @@
           "scheme": "eduskunta"
         },
         {
+          "identifier": "1502382",
+          "scheme": "elonet"
+        },
+        {
           "identifier": "766",
           "scheme": "everypolitician_legacy"
         },
         {
           "identifier": "/m/05f6tzg",
           "scheme": "freebase"
+        },
+        {
+          "identifier": "nm3376114",
+          "scheme": "imdb"
         },
         {
           "identifier": "395",
@@ -13472,6 +13502,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Jan_Vapaavuori"
+        },
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Jan_Vapaavuori"
@@ -13499,6 +13533,18 @@
         {
           "note": "Wikipedia (sv)",
           "url": "https://sv.wikipedia.org/wiki/Jan_Vapaavuori"
+        },
+        {
+          "note": "instagram",
+          "url": "janvapaavuori"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/Vapaavuori"
+        },
+        {
+          "note": "website",
+          "url": "http://vapaavuori.net/"
         },
         {
           "note": "wikipedia",
@@ -19199,6 +19245,10 @@
           "scheme": "freebase"
         },
         {
+          "identifier": "nm2899975",
+          "scheme": "imdb"
+        },
+        {
           "identifier": "84",
           "scheme": "kansanmuisti"
         },
@@ -19222,6 +19272,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Jyri_Häkämies"
+        },
+        {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Jyri_Häkämies"
         },
@@ -19236,6 +19290,10 @@
         {
           "note": "Wikipedia (fi)",
           "url": "https://fi.wikipedia.org/wiki/Jyri_Häkämies"
+        },
+        {
+          "note": "Wikipedia (fiwikiquote)",
+          "url": "https://fiwikiquote.wikipedia.org/wiki/Jyri_Häkämies"
         },
         {
           "note": "Wikipedia (fr)",
@@ -31151,12 +31209,20 @@
           "scheme": "eduskunta"
         },
         {
+          "identifier": "1502327",
+          "scheme": "elonet"
+        },
+        {
           "identifier": "212",
           "scheme": "everypolitician_legacy"
         },
         {
           "identifier": "/m/02vnzkv",
           "scheme": "freebase"
+        },
+        {
+          "identifier": "nm1620862",
+          "scheme": "imdb"
         },
         {
           "identifier": "276",
@@ -31189,6 +31255,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Mauri_Pekkarinen"
+        },
+        {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Mauri_Pekkarinen"
         },
@@ -31205,6 +31275,10 @@
           "url": "https://fi.wikipedia.org/wiki/Mauri_Pekkarinen"
         },
         {
+          "note": "Wikipedia (fiwikiquote)",
+          "url": "https://fiwikiquote.wikipedia.org/wiki/Mauri_Pekkarinen"
+        },
+        {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Mauri_Pekkarinen"
         },
@@ -31219,6 +31293,10 @@
         {
           "note": "twitter",
           "url": "https://twitter.com/PekkarinenMauri"
+        },
+        {
+          "note": "website",
+          "url": "http://www.mauripekkarinen.fi/"
         },
         {
           "note": "wikipedia",
@@ -43734,6 +43812,11 @@
       ],
       "name": "Sari Essayah",
       "other_names": [
+        {
+          "lang": "ar",
+          "name": "ساري عيسايا",
+          "note": "multilingual"
+        },
         {
           "lang": "cs",
           "name": "Sari Essayahová",
