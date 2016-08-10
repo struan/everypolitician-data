@@ -4,6 +4,7 @@ module Source
   class Base
     # Instantiate correct subclass based on instructions
     def self.instantiate(i)
+      raise "Missing `type` in #{i}" unless i.key? :type
       return Source::Membership.new(i)  if i[:type] == 'membership'
       return Source::Person.new(i)      if i[:type] == 'person'
       return Source::Wikidata.new(i)    if i[:type] == 'wikidata'
