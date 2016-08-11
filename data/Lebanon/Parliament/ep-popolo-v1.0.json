@@ -3548,14 +3548,71 @@
       ]
     },
     {
+      "birth_date": "1930",
+      "gender": "male",
+      "given_name": "Ibrahim",
       "id": "c54e6db7-0f4c-4073-afd9-79809724b184",
       "identifiers": [
         {
           "identifier": "Q3147509",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q3147509",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/إبراهيم_نجار"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ibrahim_Najjar"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Ibrahim_Najjar"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Ibrahim_Nadżdżar"
         }
       ],
       "name": "Ibrahim Najjar",
+      "other_names": [
+        {
+          "lang": "ar",
+          "name": "إبراهيم نجار",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Ibrahim Najjar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Ibrahim Najjar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Ibrahim Najjar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Ibrahim Najjar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Ibrahim Nadżdżar",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/Members_of_the_2009%E2%80%9317_Lebanese_Parliament"
