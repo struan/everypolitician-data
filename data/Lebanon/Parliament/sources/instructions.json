@@ -11,6 +11,11 @@
       "type": "membership"
     },
     {
+      "file": "manual/memberships.csv",
+      "source": "https://en.wikipedia.org/wiki/Members_of_the_2009%E2%80%9317_Lebanese_Parliament",
+      "type": "membership"
+    },
+    {
       "file": "morph/wikidata.csv",
       "create": {
         "from": "morph",
