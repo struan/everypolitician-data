@@ -5,8 +5,9 @@ require_relative './reconciliation/template'
 require 'csv'
 
 class Reconciler
-  def initialize(i)
+  def initialize(i, t)
     @instructions = i
+    @trigger = t
   end
 
   def filename
@@ -18,8 +19,8 @@ class Reconciler
     File.basename(filename, '.csv')
   end
 
-  def triggered_by?(str)
-    trigger_name.include? str
+  def triggered?
+    @trigger && trigger_name.include?(@trigger)
   end
 
   def interface_filename

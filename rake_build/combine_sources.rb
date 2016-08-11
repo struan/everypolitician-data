@@ -114,10 +114,10 @@ namespace :merge_sources do
       id_map = src.id_map
 
       if merge_instructions = src.merge_instructions
-        reconciler = Reconciler.new(merge_instructions)
+        reconciler = Reconciler.new(merge_instructions, ENV['GENERATE_RECONCILIATION_INTERFACE'])
         raise "Can't reconciler memberships with a Reconciliation file yet" unless reconciler.filename
 
-        if ENV['GENERATE_RECONCILIATION_INTERFACE'] && reconciler.triggered_by?(ENV['GENERATE_RECONCILIATION_INTERFACE'])
+        if reconciler.triggered?
           filename = reconciler.generate_interface!(merged_rows, incoming_data.uniq { |r| r[:id] })
           abort "Created #{filename} — please check it and re-run".green
         end
@@ -148,10 +148,10 @@ namespace :merge_sources do
       incoming_data = src.as_table
 
       abort "No merge instructions for #{src.filename}" unless merge_instructions = src.merge_instructions
-      reconciler = Reconciler.new(merge_instructions)
+      reconciler = Reconciler.new(merge_instructions, ENV['GENERATE_RECONCILIATION_INTERFACE'])
 
       if reconciler.filename
-        if ENV['GENERATE_RECONCILIATION_INTERFACE'] && reconciler.triggered_by?(ENV['GENERATE_RECONCILIATION_INTERFACE'])
+        if reconciler.triggered?
           filename = reconciler.generate_interface!(merged_rows, incoming_data.uniq { |r| r[:id] })
           abort "Created #{filename} — please check it and re-run".green
         end
