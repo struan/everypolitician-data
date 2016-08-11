@@ -127,13 +127,18 @@ namespace :merge_sources do
         pr.each { |r| id_map[r[:id]] = r[:uuid] }
       end
 
+      # Generate UUIDs for any people we don't already know
+      (incoming_data.map { |r| r[:id] }.uniq - id_map.keys).each do |missing_id|
+        id_map[missing_id] = SecureRandom.uuid
+      end
+      src.write_id_map_file! id_map
+
       incoming_data.each do |row|
         # Assume that incoming data has no useful uuid column
-        row[:uuid] = id_map[row[:id]] ||= SecureRandom.uuid
+        row[:uuid] = id_map[row[:id]]
         merged_rows << row.to_hash
       end
 
-      src.write_id_map_file! id_map
     end
 
     # Then merge with Biographical data files
