@@ -33,8 +33,7 @@ module Source
     end
 
     def merge_instructions
-      (mi = i(:merge)) || (return [])
-      mi.class == Hash ? [mi] : mi
+      i(:merge)
     end
 
     def is_memberships?
