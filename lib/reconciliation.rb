@@ -39,7 +39,7 @@ class Reconciler
   def generate_interface!(merged_rows, incoming_data)
     interface = Reconciliation::Interface.new(merged_rows, incoming_data, previously_reconciled, @instructions)
     write_file!(interface_filename, interface.html)
-    interface_filename
+    "Created #{interface_filename} — please check it and re-run"
   end
 
   def incoming_field

@@ -116,11 +116,7 @@ namespace :merge_sources do
       if merge_instructions = src.merge_instructions
         reconciler = Reconciler.new(merge_instructions, ENV['GENERATE_RECONCILIATION_INTERFACE'])
         raise "Can't reconciler memberships with a Reconciliation file yet" unless reconciler.filename
-
-        if reconciler.triggered?
-          filename = reconciler.generate_interface!(merged_rows, incoming_data.uniq { |r| r[:id] })
-          abort "Created #{filename} — please check it and re-run".green
-        end
+        abort reconciler.generate_interface!(merged_rows, incoming_data.uniq { |r| r[:id] }) if reconciler.triggered?
 
         pr = reconciler.reconciliation_data rescue abort($!.to_s)
         pr.each { |r| id_map[r[:id]] = r[:uuid] }
@@ -151,10 +147,7 @@ namespace :merge_sources do
       reconciler = Reconciler.new(merge_instructions, ENV['GENERATE_RECONCILIATION_INTERFACE'])
 
       if reconciler.filename
-        if reconciler.triggered?
-          filename = reconciler.generate_interface!(merged_rows, incoming_data.uniq { |r| r[:id] })
-          abort "Created #{filename} — please check it and re-run".green
-        end
+        abort reconciler.generate_interface!(merged_rows, incoming_data.uniq { |r| r[:id] }) if reconciler.triggered?
 
         pr = reconciler.reconciliation_data rescue abort($!.to_s)
         matcher = Matcher::Reconciled.new(merged_rows, merge_instructions, pr)
