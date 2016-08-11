@@ -113,7 +113,7 @@ namespace :merge_sources do
       incoming_data = src.as_table
       id_map = src.id_map
 
-      if merge_instructions = src.merge_instructions.first
+      if merge_instructions = src.merge_instructions
         reconciler = Reconciler.new(merge_instructions)
         raise "Can't reconciler memberships with a Reconciliation file yet" unless reconciler.filename
 
@@ -148,8 +148,7 @@ namespace :merge_sources do
 
       incoming_data = src.as_table
 
-      abort "No merge instructions for #{src.filename}" if (approaches = src.merge_instructions).empty?
-      next unless merge_instructions = approaches.first
+      abort "No merge instructions for #{src.filename}" unless merge_instructions = src.merge_instructions
       reconciler = Reconciler.new(merge_instructions)
 
       if reconciler.filename
@@ -241,7 +240,7 @@ namespace :merge_sources do
       else
         # Generate IDs from names
         overrides_with_string_keys = Hash[area.overrides.map { |k, v| [k.to_s, v] }]
-        fuzzy = (area.merge_instructions.first || {})[:fuzzy]
+        fuzzy = (area.merge_instructions || {})[:fuzzy]
         ocd_ids = OcdId.new(area.as_table, overrides_with_string_keys, fuzzy)
 
         merged_rows.select { |r| r[:area_id].nil? }.each do |r|
