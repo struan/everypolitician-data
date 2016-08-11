@@ -5,9 +5,13 @@ require_relative './reconciliation/template'
 require 'csv'
 
 class Reconciler
-  def initialize(i, t)
+  attr_reader :merged_rows, :incoming_data
+
+  def initialize(i, trigger, merged_rows, incoming_data)
     @instructions = i
-    @trigger = t
+    @trigger = trigger
+    @merged_rows = merged_rows
+    @incoming_data = incoming_data.uniq { |r| r[:id] }
   end
 
   def filename
@@ -36,7 +40,7 @@ class Reconciler
     @_pr ||= File.exist?(filename) ? CSV.table(filename, converters: nil) : CSV::Table.new([])
   end
 
-  def generate_interface!(merged_rows, incoming_data)
+  def generate_interface!
     interface = Reconciliation::Interface.new(merged_rows, incoming_data, previously_reconciled, @instructions)
     write_file!(interface_filename, interface.html)
     "Created #{interface_filename} — please check it and re-run"
