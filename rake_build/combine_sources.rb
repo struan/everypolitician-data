@@ -122,8 +122,7 @@ namespace :merge_sources do
           abort "Created #{filename} — please check it and re-run".green
         end
 
-        pr = reconciler.previously_reconciled
-        abort "No reconciliation data. Rerun with GENERATE_RECONCILIATION_INTERFACE=#{reconciler.trigger_name}" if pr.empty?
+        pr = reconciler.reconciliation_data rescue abort($!.to_s)
         pr.each { |r| id_map[r[:id]] = r[:uuid] }
       end
 
@@ -157,8 +156,7 @@ namespace :merge_sources do
           abort "Created #{filename} — please check it and re-run".green
         end
 
-        pr = reconciler.previously_reconciled
-        abort "No reconciliation data. Rerun with GENERATE_RECONCILIATION_INTERFACE=#{reconciler.trigger_name}" if pr.empty?
+        pr = reconciler.reconciliation_data rescue abort($!.to_s)
         matcher = Matcher::Reconciled.new(merged_rows, merge_instructions, pr)
       else
         matcher = Matcher::Exact.new(merged_rows, merge_instructions)

@@ -26,6 +26,11 @@ class Reconciler
     @_ifn ||= filename.sub('.csv', '.html')
   end
 
+  def reconciliation_data
+    raise "No reconciliation data. Rerun with GENERATE_RECONCILIATION_INTERFACE=#{trigger_name}" if previously_reconciled.empty?
+    previously_reconciled
+  end
+
   def previously_reconciled
     @_pr ||= File.exist?(filename) ? CSV.table(filename, converters: nil) : CSV::Table.new([])
   end
