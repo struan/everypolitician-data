@@ -62,8 +62,14 @@ class String
 end
 
 namespace :merge_sources do
-  task :fetch_missing do
+  task :fetch_missing => :no_duplicate_names do
     fetch_missing
+  end
+
+  task :no_duplicate_names do
+    sources.group_by { |s| s.pathname.basename }.select { |_, sources| sources.count > 1 }.each do |base, _|
+      abort "More than one source called #{base}"
+    end
   end
 
   desc 'Combine Sources'
