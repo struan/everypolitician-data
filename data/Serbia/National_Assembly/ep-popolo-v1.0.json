@@ -1002,6 +1002,17 @@
       ]
     },
     {
+      "birth_date": "1954",
+      "id": "66b74202-a8c2-46fd-8dd3-70a2c9c836dc",
+      "name": "BAJRO GEGIC",
+      "sort_name": "BAJRO GEGIC",
+      "sources": [
+        {
+          "url": "http://www.parlament.gov.rs/BAJRO_GEGIC.668.488.html"
+        }
+      ]
+    },
+    {
       "birth_date": "1983-05-10",
       "family_name": "Božović",
       "gender": "male",
@@ -2954,6 +2965,17 @@
       ]
     },
     {
+      "birth_date": "1966",
+      "id": "9d7822a1-fc35-4476-bc07-ff64d3f5ffd3",
+      "name": "DRAGAN VESOVIC",
+      "sort_name": "DRAGAN VESOVIC",
+      "sources": [
+        {
+          "url": "http://www.parlament.gov.rs/DRAGAN_VESOVIC.993.488.html"
+        }
+      ]
+    },
+    {
       "birth_date": "1975",
       "honorific_prefix": "Dr",
       "id": "7f92387d-a24d-4f6c-b00c-83f8b141fcdc",
@@ -4114,6 +4136,30 @@
       ]
     },
     {
+      "birth_date": "1967",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "bauerivan"
+        }
+      ],
+      "honorific_prefix": "Dr",
+      "id": "4e623577-97fa-476e-a42e-4eee674cdda7",
+      "links": [
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/bauerivan"
+        }
+      ],
+      "name": "IVAN BAUER",
+      "sort_name": "IVAN Dr BAUER",
+      "sources": [
+        {
+          "url": "http://www.parlament.gov.rs/IVAN_BAUER+.713.488.html"
+        }
+      ]
+    },
+    {
       "birth_date": "1977",
       "contact_details": [
         {
@@ -4995,6 +5041,17 @@
       "sources": [
         {
           "url": "http://www.parlament.gov.rs/JOSIP_BROZ.944.488.html"
+        }
+      ]
+    },
+    {
+      "birth_date": "1970",
+      "id": "c5581c7d-7ecd-45da-a60d-5882ea4828e5",
+      "name": "JOVAN JOVANOVIC",
+      "sort_name": "JOVAN JOVANOVIC",
+      "sources": [
+        {
+          "url": "http://www.parlament.gov.rs/JOVAN_JOVANOVIC.992.488.html"
         }
       ]
     },
@@ -7669,6 +7726,17 @@
     },
     {
       "birth_date": "1973",
+      "id": "4c3a9f80-b9bd-4fcc-aa9d-c8d7cd3f023d",
+      "name": "NENAD MITROVIC",
+      "sort_name": "NENAD MITROVIC",
+      "sources": [
+        {
+          "url": "http://www.parlament.gov.rs/NENAD_MITROVIC.825.488.html"
+        }
+      ]
+    },
+    {
+      "birth_date": "1973",
       "id": "e47e7eca-13d5-4e96-b2f5-94279c961333",
       "identifiers": [
         {
@@ -9211,6 +9279,17 @@
       "sources": [
         {
           "url": "http://www.parlament.gov.rs/STANIJA_KOMPIROVIC.909.488.html"
+        }
+      ]
+    },
+    {
+      "birth_date": "1986",
+      "id": "cc212a84-d478-4d11-8372-31a5e8dd5838",
+      "name": "STANISLAVA JANOSEVIC",
+      "sort_name": "STANISLAVA JANOSEVIC",
+      "sources": [
+        {
+          "url": "http://www.parlament.gov.rs/STANISLAVA_JANOSEVIC.991.488.html"
         }
       ]
     },
@@ -11180,8 +11259,8 @@
     },
     {
       "classification": "party",
-      "id": "party/socialists’_movement_-_people's_peasant_party_-_united_peasant_party",
-      "name": "Socialists’ Movement - People's Peasant Party - United Peasant Party"
+      "id": "party/socialists’_movement_-_people’s_peasant_party_-_united_peasant_party",
+      "name": "Socialists’ Movement - People’s Peasant Party - United Peasant Party"
     },
     {
       "classification": "party",
@@ -11630,7 +11709,7 @@
     },
     {
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/socialists’_movement_-_people's_peasant_party_-_united_peasant_party",
+      "on_behalf_of_id": "party/socialists’_movement_-_people’s_peasant_party_-_united_peasant_party",
       "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
       "person_id": "21e1c48d-13e7-46fd-ab0e-75d84a65b8ca",
       "role": "member"
@@ -11644,7 +11723,7 @@
     },
     {
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/socialists’_movement_-_people's_peasant_party_-_united_peasant_party",
+      "on_behalf_of_id": "party/socialists’_movement_-_people’s_peasant_party_-_united_peasant_party",
       "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
       "person_id": "223b0432-79f3-4084-81d4-00a86334772a",
       "role": "member"
@@ -12180,10 +12259,18 @@
     },
     {
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/socialists’_movement_-_people's_peasant_party_-_united_peasant_party",
+      "on_behalf_of_id": "party/socialists’_movement_-_people’s_peasant_party_-_united_peasant_party",
       "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
       "person_id": "4babbe41-4308-4acc-b6ca-996df2465ad4",
       "role": "member"
+    },
+    {
+      "legislative_period_id": "term/11",
+      "on_behalf_of_id": "party/serbian_progressive_party",
+      "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
+      "person_id": "4c3a9f80-b9bd-4fcc-aa9d-c8d7cd3f023d",
+      "role": "member",
+      "start_date": "2016-08-11"
     },
     {
       "legislative_period_id": "term/11",
@@ -12191,6 +12278,14 @@
       "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
       "person_id": "4d266276-6377-4241-942b-72677b2ba155",
       "role": "member"
+    },
+    {
+      "legislative_period_id": "term/11",
+      "on_behalf_of_id": "party/social_democratic_party_of_serbia",
+      "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
+      "person_id": "4e623577-97fa-476e-a42e-4eee674cdda7",
+      "role": "member",
+      "start_date": "2016-08-11"
     },
     {
       "legislative_period_id": "term/10",
@@ -12411,6 +12506,14 @@
       "role": "member"
     },
     {
+      "legislative_period_id": "term/11",
+      "on_behalf_of_id": "party/liberal_democratic_party_-_sda_sandzak",
+      "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
+      "person_id": "66b74202-a8c2-46fd-8dd3-70a2c9c836dc",
+      "role": "member",
+      "start_date": "2016-08-11"
+    },
+    {
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
@@ -12560,7 +12663,7 @@
     },
     {
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/socialists’_movement_-_people's_peasant_party_-_united_peasant_party",
+      "on_behalf_of_id": "party/socialists’_movement_-_people’s_peasant_party_-_united_peasant_party",
       "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
       "person_id": "6f7ac7ee-1462-49aa-b4e8-979044cc587a",
       "role": "member"
@@ -13171,6 +13274,14 @@
     },
     {
       "legislative_period_id": "term/11",
+      "on_behalf_of_id": "party/dveri",
+      "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
+      "person_id": "9d7822a1-fc35-4476-bc07-ff64d3f5ffd3",
+      "role": "member",
+      "start_date": "2016-08-11"
+    },
+    {
+      "legislative_period_id": "term/11",
       "on_behalf_of_id": "party/liberal_democratic_party_-_sda_sandzak",
       "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
       "person_id": "9dd1049c-63fb-443b-872b-3fe00e15221f",
@@ -13719,7 +13830,7 @@
     },
     {
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/socialists’_movement_-_people's_peasant_party_-_united_peasant_party",
+      "on_behalf_of_id": "party/socialists’_movement_-_people’s_peasant_party_-_united_peasant_party",
       "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
       "person_id": "bb7ba8de-38c3-4f7b-b349-33c04d657775",
       "role": "member"
@@ -13828,6 +13939,14 @@
       "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
       "person_id": "c54c81fa-7e40-4e76-b453-1987708ca419",
       "role": "member"
+    },
+    {
+      "legislative_period_id": "term/11",
+      "on_behalf_of_id": "party/enough_is_enough",
+      "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
+      "person_id": "c5581c7d-7ecd-45da-a60d-5882ea4828e5",
+      "role": "member",
+      "start_date": "2016-08-11"
     },
     {
       "legislative_period_id": "term/11",
@@ -13940,6 +14059,14 @@
       "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
       "person_id": "cbf4ebed-ed46-4971-b6f5-60d8bdd8edc5",
       "role": "member"
+    },
+    {
+      "legislative_period_id": "term/11",
+      "on_behalf_of_id": "party/serbian_progressive_party",
+      "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
+      "person_id": "cc212a84-d478-4d11-8372-31a5e8dd5838",
+      "role": "member",
+      "start_date": "2016-08-11"
     },
     {
       "legislative_period_id": "term/10",
