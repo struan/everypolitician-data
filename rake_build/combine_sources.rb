@@ -62,8 +62,14 @@ class String
 end
 
 namespace :merge_sources do
-  task :fetch_missing do
+  task :fetch_missing => :no_duplicate_names do
     fetch_missing
+  end
+
+  task :no_duplicate_names do
+    sources.map(&:pathname).uniq.map(&:basename).group_by { |b| b }.select { |_,bs| bs.count > 1 }.each do |base, _|
+      abort "More than one source called #{base}"
+    end
   end
 
   desc 'Combine Sources'
@@ -100,8 +106,11 @@ namespace :merge_sources do
     @warnings = Set.new
   end
 
+  def sources
+    @sources ||= instructions(:sources).map { |s| Source::Base.instantiate(s) }
+  end
+
   def combine_sources
-    sources = instructions(:sources).map { |s| Source::Base.instantiate(s) }
     all_headers = (%i(id uuid) + sources.map(&:fields)).flatten.uniq
 
     merged_rows = []

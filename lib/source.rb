@@ -84,6 +84,10 @@ module Source
       i(:file)
     end
 
+    def pathname
+      Pathname.new(filename)
+    end
+
     def file_contents
       File.read(filename)
     end
