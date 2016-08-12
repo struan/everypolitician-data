@@ -5,7 +5,7 @@
       "create": {
         "from": "morph",
         "scraper": "struan/hong_kong_legislative_council_members",
-        "query": "SELECT *, REPLACE(id,'yr12-16/','') AS id FROM data"
+        "query": "SELECT *, REPLACE(id,'yr12-16/','') AS id FROM data ORDER BY id"
       },
       "source": "http://www.legco.gov.hk/",
       "type": "membership"
@@ -32,7 +32,7 @@
         "file": "morph/terms.csv",
         "from": "morph",
         "scraper": "struan/hong_kong_legislative_council_members",
-        "query": "SELECT * FROM terms"
+        "query": "SELECT * FROM terms ORDER BY id"
       }
     },
     {
