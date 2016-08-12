@@ -19608,14 +19608,104 @@
       ]
     },
     {
-      "id": "70848814-d431-4a62-99b8-ce371d18b9e2",
+      "birth_date": "1965-11-30",
+      "gender": "male",
+      "id": "b3ed686d-de1a-461f-985b-518788cc6dc1",
+      "identifiers": [
+        {
+          "identifier": "zainal-bin-sapari-12",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q17152348",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.gov.sg/sites/default/files/zainul.jpg",
       "images": [
         {
           "url": "http://www.parliament.gov.sg/sites/default/files/zainul.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Zainal_Sapari"
+        }
+      ],
       "name": "Zainal Sapari",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Zainal Sapari",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Zainal Sapari",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "Zainal Sapari",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "Zainal Sapari",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Zainal Sapari",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Zainal Sapari",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lzh",
+          "name": "再納",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Zainal Sapari",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yue",
+          "name": "再納",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "再纳",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "再纳",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "再納",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-sg",
+          "name": "再纳",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-tw",
+          "name": "再納",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.parliament.gov.sg/history/12th-parliament"
@@ -23890,20 +23980,6 @@
       "role": "member"
     },
     {
-      "legislative_period_id": "term/12",
-      "on_behalf_of_id": "party/people’s_action_party",
-      "organization_id": "5f27a768-1cb5-410b-8f3e-abf76b7ee07e",
-      "person_id": "70848814-d431-4a62-99b8-ce371d18b9e2",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/people’s_action_party",
-      "organization_id": "5f27a768-1cb5-410b-8f3e-abf76b7ee07e",
-      "person_id": "70848814-d431-4a62-99b8-ce371d18b9e2",
-      "role": "member"
-    },
-    {
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/nominated_member_of_parliament",
       "organization_id": "5f27a768-1cb5-410b-8f3e-abf76b7ee07e",
@@ -25899,6 +25975,20 @@
       "on_behalf_of_id": "party/people’s_action_party",
       "organization_id": "5f27a768-1cb5-410b-8f3e-abf76b7ee07e",
       "person_id": "b3e703f5-91fb-41a0-9472-2aca3a8285f5",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/12",
+      "on_behalf_of_id": "party/people’s_action_party",
+      "organization_id": "5f27a768-1cb5-410b-8f3e-abf76b7ee07e",
+      "person_id": "b3ed686d-de1a-461f-985b-518788cc6dc1",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "party/people’s_action_party",
+      "organization_id": "5f27a768-1cb5-410b-8f3e-abf76b7ee07e",
+      "person_id": "b3ed686d-de1a-461f-985b-518788cc6dc1",
       "role": "member"
     },
     {
