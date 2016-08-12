@@ -18278,18 +18278,58 @@
       ]
     },
     {
+      "birth_date": "1918-05",
+      "death_date": "2003-09-04",
+      "gender": "male",
+      "given_name": "Evangelos",
       "id": "b83e3d0a-41d8-4e29-9ffd-13ffd4e394ac",
       "identifiers": [
         {
+          "identifier": "21880",
+          "scheme": "biblionet"
+        },
+        {
           "identifier": "ee948cf5-6b67-4b47-bffb-c45345480397",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "ee948cf5-6b67-4b47-bffb-c45345480397",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "Q12877311",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Ευάγγελος_Γιαννόπουλος"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Evangelos_Yannopoulos"
         }
       ],
       "name": "Giannopoulos Evangelos",
       "other_names": [
         {
+          "name": "Evangelos Yannopoulos",
+          "note": "alternate"
+        },
+        {
           "lang": "el",
           "name": "Γιαννόπουλος Αργυρίου Ευάγγελος",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Ευάγγελος Γιαννόπουλος",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Evangelos Yannopoulos",
           "note": "multilingual"
         }
       ],
@@ -49733,6 +49773,10 @@
           "scheme": "hellenic_parliament"
         },
         {
+          "identifier": "3372",
+          "scheme": "pace"
+        },
+        {
           "identifier": "Q4791088",
           "scheme": "wikidata"
         }
@@ -66465,18 +66509,127 @@
       ]
     },
     {
+      "birth_date": "1933-08-02",
+      "gender": "male",
+      "given_name": "Ioannis",
       "id": "450d235d-5109-4bf1-bdf8-98d124fb207a",
       "identifiers": [
         {
+          "identifier": "28547",
+          "scheme": "europarlmep"
+        },
+        {
           "identifier": "cb5ca2c0-a720-44ab-b008-45ad9194d9c8",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/054q1p",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "cb5ca2c0-a720-44ab-b008-45ad9194d9c8",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "Q1428443",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Ioannis_Varvitsiotis1.png",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Ioannis_Varvitsiotis1.png"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Ioannis_Varvitsiotis"
+        },
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Ιωάννης_Βαρβιτσιώτης"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ioannis_Varvitsiotis"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Ioannis_Varvitsiotis"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Joanis_Warwitsiotis"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Ioannis_Varvitsiotis"
+        },
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Ioannis_Varvitsiotis"
         }
       ],
       "name": "Varvitsiotis Ioannis",
       "other_names": [
         {
+          "name": "Ioannis Varvitsiotis",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Ioannis Varvitsiotis",
+          "note": "multilingual"
+        },
+        {
           "lang": "el",
           "name": "Βαρβιτσιώτης Μιλτιάδη Ιωάννης",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Ιωάννης Βαρβιτσιώτης",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Ioannis Varvitsiotis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Ioannis Varvitsiotis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Ioannis Varvitsiotis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Ioannis Varvitsiotis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Ioannis Varvitsiotis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Ioannis Varvitsiotis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Ioannis Varvitsiotis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Ioannis Varvitsiotis",
           "note": "multilingual"
         }
       ],
@@ -66487,12 +66640,14 @@
       ]
     },
     {
+      "birth_date": "1897",
       "contact_details": [
         {
           "type": "email",
           "value": "info@mvarvitsiotis.gr"
         }
       ],
+      "death_date": "1960-07-12",
       "email": "info@mvarvitsiotis.gr",
       "gender": "male",
       "id": "da1d72ec-8ba1-4419-ab59-7b54b94b391b",
@@ -66500,6 +66655,14 @@
         {
           "identifier": "70d59ef2-8b5e-488d-bc2b-0198c84393c1",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "70d59ef2-8b5e-488d-bc2b-0198c84393c1",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "Q12881046",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/mvarv_1.jpg",
@@ -66510,6 +66673,18 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Miltiadis_Varvitsiotis"
+        },
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Μιλτιάδης_Βαρβιτσιώτης"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Miltiádis_Varvitsiótis"
+        },
+        {
           "note": "website",
           "url": "http://www.mvarvitsiotis.gr"
         }
@@ -66517,8 +66692,32 @@
       "name": "Varvitsiotis Miltiadis",
       "other_names": [
         {
+          "name": "Miltiádis Varvitsiótis",
+          "note": "alternate"
+        },
+        {
           "lang": "el",
           "name": "Βαρβιτσιώτης Ιωάννη Μιλτιάδης",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Μιλτιάδης Βαρβιτσιώτης",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Miltiádis Varvitsiótis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Miltiádis Varvitsiótis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Miltiádis Varvitsiótis",
           "note": "multilingual"
         }
       ],
@@ -68918,18 +69117,107 @@
       ]
     },
     {
+      "birth_date": "1956-09-14",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "vozemberg"
+        }
+      ],
+      "gender": "female",
+      "given_name": "Eliza",
       "id": "442f10cb-d3db-424e-8478-e5912d475fd8",
       "identifiers": [
         {
+          "identifier": "125065",
+          "scheme": "europarlmep"
+        },
+        {
           "identifier": "aa8febfb-48ec-456b-93b7-be5f72129317",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "aa8febfb-48ec-456b-93b7-be5f72129317",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "nm0901016",
+          "scheme": "imdb"
+        },
+        {
+          "identifier": "Q16061914",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Eliza_Vozemberg"
+        },
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Ελίζα_Βόζεμπεργκ"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Eliza_Vozemberg"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Eliza_Vozemberg"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Eliza_Wozemberg"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/vozemberg"
+        },
+        {
+          "note": "website",
+          "url": "http://vozemberg.gr/"
         }
       ],
       "name": "Vozempergk Elissavet (Eliza)",
       "other_names": [
         {
+          "name": "Eliza Vozemberg",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Eliza Vozemberg",
+          "note": "multilingual"
+        },
+        {
           "lang": "el",
           "name": "Βόζεμπεργκ Κυριάκου Ελισσάβετ (Ελίζα)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Ελίζα Βόζεμπεργκ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Eliza Vozemberg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Eliza Vozemberg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Eliza Vozemberg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Eliza Wozemberg",
           "note": "multilingual"
         }
       ],
