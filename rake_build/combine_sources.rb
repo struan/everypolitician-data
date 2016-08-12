@@ -100,8 +100,11 @@ namespace :merge_sources do
     @warnings = Set.new
   end
 
+  def sources
+    @sources ||= instructions(:sources).map { |s| Source::Base.instantiate(s) }
+  end
+
   def combine_sources
-    sources = instructions(:sources).map { |s| Source::Base.instantiate(s) }
     all_headers = (%i(id uuid) + sources.map(&:fields)).flatten.uniq
 
     merged_rows = []
