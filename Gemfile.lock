@@ -25,9 +25,9 @@ GIT
 
 GIT
   remote: git://github.com/tmtmtmtm/csv_to_popolo.git
-  revision: cb4150c56cdbbbd371d363d267bbec56bc744ff0
+  revision: 0820793e32b0397999ff7fafd52118e897202f79
   specs:
-    csv_to_popolo (0.26.0)
+    csv_to_popolo (0.26.1)
       facebook_username_extractor
       json
       rcsv
@@ -105,7 +105,7 @@ PLATFORMS
 
 DEPENDENCIES
   colorize
-  csv_to_popolo (~> 0.26.0)!
+  csv_to_popolo (~> 0.26.1)!
   everypolitician!
   everypolitician-popolo (~> 0.5.0)!
   facebook_username_extractor (~> 0.2.0)
