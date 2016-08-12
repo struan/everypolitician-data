@@ -782,7 +782,6 @@
       "name": "اشرف جمال شحاته مرسي"
     },
     {
-      "birth_date": "1985-08-25",
       "id": "06a33e11-531b-492a-8ca8-42df324be033",
       "image": "http://www.parliament.gov.eg/members/ImageVB.aspx?ImageID=4235",
       "images": [
@@ -3827,6 +3826,17 @@
       "name": "عبير السيد محمود حنفى"
     },
     {
+      "birth_date": "1966-07-04",
+      "id": "47856278-adc8-44aa-9e2f-efd4ce186e51",
+      "image": "http://www.parliament.gov.eg/members/ImageVB.aspx?ImageID=4643",
+      "images": [
+        {
+          "url": "http://www.parliament.gov.eg/members/ImageVB.aspx?ImageID=4643"
+        }
+      ],
+      "name": "عبير محمد سمير حسن"
+    },
+    {
       "birth_date": "1951-12-01",
       "id": "4908cb6d-04fa-4083-9a4d-9180f1db7399",
       "image": "http://www.parliament.gov.eg/members/ImageVB.aspx?ImageID=4300",
@@ -5219,7 +5229,7 @@
           "url": "http://www.parliament.gov.eg/members/ImageVB.aspx?ImageID=3405"
         }
       ],
-      "name": "محمد سعد بدراوى بدراوى"
+      "name": "محمد سعد بدراوى عوض"
     },
     {
       "birth_date": "1960-10-16",
@@ -7205,6 +7215,11 @@
     },
     {
       "classification": "party",
+      "id": "party/unknown",
+      "name": "unknown"
+    },
+    {
+      "classification": "party",
       "id": "party/الاتحاد",
       "name": "الاتحاد"
     },
@@ -7412,9 +7427,8 @@
       "role": "member"
     },
     {
-      "area_id": "area/الثانية",
       "legislative_period_id": "term/2015",
-      "on_behalf_of_id": "party/مستقبل_وطن",
+      "on_behalf_of_id": "party/unknown",
       "organization_id": "c12bfd70-76b4-476b-98a4-0e16a6499688",
       "person_id": "06a33e11-531b-492a-8ca8-42df324be033",
       "role": "member"
@@ -8642,6 +8656,14 @@
       "on_behalf_of_id": "party/مستقل",
       "organization_id": "c12bfd70-76b4-476b-98a4-0e16a6499688",
       "person_id": "47592240-964e-4c27-ba33-62f9e0ed3338",
+      "role": "member"
+    },
+    {
+      "area_id": "area/الفيوم",
+      "legislative_period_id": "term/2015",
+      "on_behalf_of_id": "party/مستقل",
+      "organization_id": "c12bfd70-76b4-476b-98a4-0e16a6499688",
+      "person_id": "47856278-adc8-44aa-9e2f-efd4ce186e51",
       "role": "member"
     },
     {
