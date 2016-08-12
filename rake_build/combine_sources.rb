@@ -67,7 +67,7 @@ namespace :merge_sources do
   end
 
   task :no_duplicate_names do
-    sources.group_by { |s| s.pathname.basename }.select { |_, sources| sources.count > 1 }.each do |base, _|
+    sources.map(&:pathname).uniq.map(&:basename).group_by { |b| b }.select { |_,bs| bs.count > 1 }.each do |base, _|
       abort "More than one source called #{base}"
     end
   end
