@@ -126,7 +126,8 @@
     ],
     "dates": [
       "2014-09-17"
-    ]
+    ],
+    "follows": "Fijian general election, 2006"
   },
   "Q3587154": {
     "identifiers": [
@@ -188,6 +189,8 @@
     "dates": [
       "2006-05-15"
     ],
+    "follows": "Fijian general election, 2001",
+    "followed_by": "Fijian general election, 2014",
     "office": "Prime Minister of Fiji",
     "successful_candidates": [
       "Laisenia Qarase"
@@ -237,6 +240,11 @@
       {
         "lang": "en",
         "name": "Fijian general election, 1992",
+        "note": "multilingual"
+      },
+      {
+        "lang": "hif",
+        "name": "1992 ke election",
         "note": "multilingual"
       }
     ],
