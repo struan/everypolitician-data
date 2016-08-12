@@ -60,7 +60,30 @@
       "id": "Q21272959",
       "label": "Member of the Althing",
       "title": "Member of the Althing",
-      "description": "Member of the Icelandic parliament"
+      "description": "Member of the Icelandic parliament",
+      "qualifiers": {
+        "P580": "2005",
+        "P582": "2013"
+      }
+    },
+    {
+      "id": "Q6866420",
+      "label": "Minister of Welfare",
+      "title": "Minister of Welfare",
+      "qualifiers": {
+        "P580": "2009",
+        "P582": "2009"
+      }
+    },
+    {
+      "id": "Q1758037",
+      "label": "speaker",
+      "title": "speaker",
+      "description": "presiding officer of a deliberative assembly, especially a legislative body",
+      "qualifiers": {
+        "P580": "2009",
+        "P582": "2013"
+      }
     }
   ],
   "Q6732262": [
@@ -189,6 +212,11 @@
       "label": "Member of the Althing",
       "title": "Member of the Althing",
       "description": "Member of the Icelandic parliament"
+    },
+    {
+      "id": "Q6866420",
+      "label": "Minister of Welfare",
+      "title": "Minister of Welfare"
     }
   ],
   "Q467509": [
