@@ -114,16 +114,10 @@ namespace :merge_sources do
       id_map = src.id_map
 
       if merge_instructions = src.merge_instructions
-        reconciler = Reconciler.new(merge_instructions)
+        reconciler = Reconciler.new(merge_instructions, ENV['GENERATE_RECONCILIATION_INTERFACE'], merged_rows, incoming_data)
         raise "Can't reconciler memberships with a Reconciliation file yet" unless reconciler.filename
 
-        if ENV['GENERATE_RECONCILIATION_INTERFACE'] && reconciler.triggered_by?(ENV['GENERATE_RECONCILIATION_INTERFACE'])
-          filename = reconciler.generate_interface!(merged_rows, incoming_data.uniq { |r| r[:id] })
-          abort "Created #{filename} — please check it and re-run".green
-        end
-
-        pr = reconciler.previously_reconciled
-        abort "No reconciliation data. Rerun with GENERATE_RECONCILIATION_INTERFACE=#{reconciler.trigger_name}" if pr.empty?
+        pr = reconciler.reconciliation_data rescue abort($!.to_s)
         pr.each { |r| id_map[r[:id]] = r[:uuid] }
       end
 
@@ -149,16 +143,10 @@ namespace :merge_sources do
       incoming_data = src.as_table
 
       abort "No merge instructions for #{src.filename}" unless merge_instructions = src.merge_instructions
-      reconciler = Reconciler.new(merge_instructions)
+      reconciler = Reconciler.new(merge_instructions, ENV['GENERATE_RECONCILIATION_INTERFACE'], merged_rows, incoming_data)
 
       if reconciler.filename
-        if ENV['GENERATE_RECONCILIATION_INTERFACE'] && reconciler.triggered_by?(ENV['GENERATE_RECONCILIATION_INTERFACE'])
-          filename = reconciler.generate_interface!(merged_rows, incoming_data.uniq { |r| r[:id] })
-          abort "Created #{filename} — please check it and re-run".green
-        end
-
-        pr = reconciler.previously_reconciled
-        abort "No reconciliation data. Rerun with GENERATE_RECONCILIATION_INTERFACE=#{reconciler.trigger_name}" if pr.empty?
+        pr = reconciler.reconciliation_data rescue abort($!.to_s)
         matcher = Matcher::Reconciled.new(merged_rows, merge_instructions, pr)
       else
         matcher = Matcher::Exact.new(merged_rows, merge_instructions)
