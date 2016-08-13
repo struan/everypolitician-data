@@ -2,7 +2,7 @@ require 'test_helper'
 require_relative '../lib/uuid_map'
 
 def new_tempfile
-  Tempfile.new(['data-ids', '.csv']).path
+  Pathname.new(Tempfile.new(['data-ids', '.csv']).path)
 end
 
 describe 'UUID Mapper' do

@@ -187,7 +187,7 @@ module Source
     end
 
     def id_map_file
-      filename.sub(/.csv$/, '-ids.csv')
+      Pathname.new(filename.sub(/.csv$/, '-ids.csv'))
     end
   end
 
