@@ -1568,6 +1568,82 @@
       }
     }
   ],
+  "Q16061914": [
+    {
+      "id": "Q27169",
+      "label": "member of the European Parliament",
+      "title": "member of the European Parliament (of New Democracy)",
+      "description": "person who has been elected to the European Parliament",
+      "qualifiers": {
+        "P580": "2014",
+        "P768": "Greece",
+        "P642": "New Democracy"
+      }
+    },
+    {
+      "id": "Q18915989",
+      "label": "Member of the Hellenic Parliament",
+      "title": "Member of the Hellenic Parliament (of New Democracy)",
+      "qualifiers": {
+        "P768": "Athens A",
+        "P580": "2009",
+        "P582": "2012",
+        "P642": "New Democracy"
+      }
+    }
+  ],
+  "Q1428443": [
+    {
+      "id": "Q27169",
+      "label": "member of the European Parliament",
+      "title": "member of the European Parliament",
+      "description": "person who has been elected to the European Parliament"
+    },
+    {
+      "id": "Q18915989",
+      "label": "Member of the Hellenic Parliament",
+      "title": "Member of the Hellenic Parliament",
+      "qualifiers": {
+        "P768": "Athens B"
+      }
+    },
+    {
+      "id": "Q6865935",
+      "label": "Minister for National Defence of Greece",
+      "title": "Minister for National Defence of Greece",
+      "description": "Greek government minister"
+    },
+    {
+      "id": "Q19858443",
+      "label": "Minister of National Education and Religious Affairs of Greece",
+      "title": "Minister of National Education and Religious Affairs of Greece",
+      "description": "Greek minister in charge of \"National Education and Religious Affairs\" between 1955 and 2009"
+    },
+    {
+      "id": "Q19860560",
+      "label": "Minister of Justice of Greece",
+      "title": "Minister of Justice of Greece",
+      "description": "Greek government minister"
+    },
+    {
+      "id": "Q23640231",
+      "label": "Q23640231",
+      "title": "Q23640231",
+      "description": "undersecretary to a ministry of the Greek government"
+    },
+    {
+      "id": "Q23640242",
+      "label": "Q23640242",
+      "title": "Q23640242",
+      "description": "undersecretary to a ministry of the Greek government"
+    },
+    {
+      "id": "Q23901442",
+      "label": "Minister of Education of Greece",
+      "title": "Minister of Education of Greece",
+      "description": "Greek government minister"
+    }
+  ],
   "Q21063534": [
     {
       "id": "Q18915989",
@@ -2873,25 +2949,22 @@
       }
     },
     {
-      "id": "Q19860614",
-      "label": "Minister without portfolio of Greece",
-      "title": "Minister without portfolio of Greece (of Q12879467)",
-      "description": "Greek government minister",
-      "qualifiers": {
-        "P580": "1947-01-24",
-        "P582": "1947-08-29",
-        "P642": "Q12879467"
-      }
-    },
-    {
       "id": "Q3394691",
       "label": "Deputy Prime Minister of Greece",
-      "title": "Deputy Prime Minister of Greece"
+      "title": "Deputy Prime Minister of Greece (of Q16331137)",
+      "qualifiers": {
+        "P580": "1950-03-23",
+        "P582": "1950-04-03",
+        "P642": "Q16331137"
+      }
     },
     {
       "id": "Q23772807",
       "label": "Member of the Athens Academy",
-      "title": "Member of the Athens Academy"
+      "title": "Member of the Athens Academy",
+      "qualifiers": {
+        "P580": "1959"
+      }
     },
     {
       "id": "Q19860614",
@@ -2928,6 +3001,152 @@
         "P1365": "Alexander Papagos",
         "P1366": "Konstantinos Karamanlis",
         "P642": "Cabinet of Alexander Papagos"
+      }
+    },
+    {
+      "id": "Q19752714",
+      "label": "Finance minister of Greece",
+      "title": "Finance minister of Greece (of Q12879454)",
+      "description": "Greek government minister",
+      "qualifiers": {
+        "P580": "1944-06-08",
+        "P582": "1944-09-02",
+        "P1365": "Georgios Papandreou",
+        "P642": "Q12879454"
+      }
+    },
+    {
+      "id": "Q19858626",
+      "label": "Minister of Commercial Marine of Greece",
+      "title": "Minister of Commercial Marine of Greece (of Q12879454)",
+      "description": "Greek government minister",
+      "qualifiers": {
+        "P580": "1944-07-18",
+        "P582": "1944-10-18",
+        "P1365": "Q12874943",
+        "P1366": "Q12882558",
+        "P642": "Q12879454"
+      }
+    },
+    {
+      "id": "Q19860550",
+      "label": "Minister of Naval Affairs of Greece",
+      "title": "Minister of Naval Affairs of Greece (of Q16737214)",
+      "description": "Greek government minister",
+      "qualifiers": {
+        "P580": "1944-10-23",
+        "P582": "1945-01-03",
+        "P1366": "Nikolaos Plastiras",
+        "P642": "Q16737214"
+      }
+    },
+    {
+      "id": "Q19752714",
+      "label": "Finance minister of Greece",
+      "title": "Finance minister of Greece (of Q16737214)",
+      "description": "Greek government minister",
+      "qualifiers": {
+        "P580": "1944-12-12",
+        "P582": "1945-01-03",
+        "P1365": "Alexandros Svolos",
+        "P642": "Q16737214"
+      }
+    },
+    {
+      "id": "Q19860614",
+      "label": "Minister without portfolio of Greece",
+      "title": "Minister without portfolio of Greece (of Q16331125)",
+      "description": "Greek government minister",
+      "qualifiers": {
+        "P580": "1946-04-04",
+        "P582": "1946-04-18",
+        "P642": "Q16331125"
+      }
+    },
+    {
+      "id": "Q19860550",
+      "label": "Minister of Naval Affairs of Greece",
+      "title": "Minister of Naval Affairs of Greece (of Q12879467)",
+      "description": "Greek government minister",
+      "qualifiers": {
+        "P580": "1947-01-24",
+        "P582": "1947-02-17",
+        "P1365": "Q12876011",
+        "P1366": "Sofoklis Venizelos",
+        "P642": "Q12879467"
+      }
+    },
+    {
+      "id": "Q19904275",
+      "label": "Minister of Public Order",
+      "title": "Minister of Public Order (of Q12879467)",
+      "description": "former Greek government position",
+      "qualifiers": {
+        "P580": "1947-01-24",
+        "P582": "1947-02-23",
+        "P1365": "Q16512426",
+        "P1366": "Napoleon Zervas",
+        "P642": "Q12879467"
+      }
+    },
+    {
+      "id": "Q23901093",
+      "label": "Minister of Aviation of Greece",
+      "title": "Minister of Aviation of Greece (of Q12879467)",
+      "description": "former Greek cabinet position",
+      "qualifiers": {
+        "P580": "1947-02-23",
+        "P582": "1947-08-29",
+        "P1366": "Q15955738",
+        "P642": "Q12879467"
+      }
+    },
+    {
+      "id": "Q19858431",
+      "label": "military minister of Greece",
+      "title": "military minister of Greece (of Q12879482)",
+      "description": "Greek government minister",
+      "qualifiers": {
+        "P580": "1949-01-20",
+        "P582": "1950-01-06",
+        "P1365": "Q16327161",
+        "P1366": "Ioannis Theotokis",
+        "P642": "Q12879482"
+      }
+    },
+    {
+      "id": "Q19858431",
+      "label": "military minister of Greece",
+      "title": "military minister of Greece (of Q16331137)",
+      "description": "Greek government minister",
+      "qualifiers": {
+        "P580": "1950-03-23",
+        "P582": "1950-04-03",
+        "P1365": "Ioannis Theotokis",
+        "P1366": "Sofoklis Venizelos",
+        "P642": "Q16331137"
+      }
+    },
+    {
+      "id": "Q3394691",
+      "label": "Deputy Prime Minister of Greece",
+      "title": "Deputy Prime Minister of Greece (of Third Cabinet of Konstantinos Karamanlis)",
+      "qualifiers": {
+        "P580": "1959-01-05",
+        "P582": "1961-09-20",
+        "P1366": "Ioannis Paraskevopoulos",
+        "P642": "Third Cabinet of Konstantinos Karamanlis"
+      }
+    },
+    {
+      "id": "Q3394691",
+      "label": "Deputy Prime Minister of Greece",
+      "title": "Deputy Prime Minister of Greece (of Fourth Cabinet of Konstantinos Karamanlis)",
+      "qualifiers": {
+        "P580": "1961-11-04",
+        "P582": "1963-06-16",
+        "P1365": "Ioannis Paraskevopoulos",
+        "P642": "Fourth Cabinet of Konstantinos Karamanlis"
       }
     }
   ],
@@ -5103,6 +5322,122 @@
       }
     }
   ],
+  "Q12877311": [
+    {
+      "id": "Q18915989",
+      "label": "Member of the Hellenic Parliament",
+      "title": "Member of the Hellenic Parliament (of Panhellenic Socialist Movement)",
+      "qualifiers": {
+        "P768": "Athens B",
+        "P580": "1981",
+        "P582": "2003",
+        "P642": "Panhellenic Socialist Movement"
+      }
+    },
+    {
+      "id": "Q19858585",
+      "label": "Transport Minister of Greece",
+      "title": "Transport Minister of Greece (of First Cabinet of Andreas Papandreou)",
+      "description": "Greek government minister",
+      "qualifiers": {
+        "P580": "1981-10-21",
+        "P582": "1982-07-05",
+        "P1365": "Q16512494",
+        "P1366": "Q15633754",
+        "P642": "First Cabinet of Andreas Papandreou"
+      }
+    },
+    {
+      "id": "Q19860747",
+      "label": "Labour minister of Greece",
+      "title": "Labour minister of Greece (of First Cabinet of Andreas Papandreou)",
+      "description": "Greek government minister",
+      "qualifiers": {
+        "P580": "1982-07-05",
+        "P582": "1985-06-05",
+        "P1365": "Apostolos Kaklamanis",
+        "P1366": "Akis Tsochatzopoulos",
+        "P642": "First Cabinet of Andreas Papandreou"
+      }
+    },
+    {
+      "id": "Q19860747",
+      "label": "Labour minister of Greece",
+      "title": "Labour minister of Greece (of Second Cabinet of Andreas Papandreou)",
+      "description": "Greek government minister",
+      "qualifiers": {
+        "P580": "1985-07-26",
+        "P582": "1986-10-31",
+        "P1365": "Akis Tsochatzopoulos",
+        "P1366": "Q12879693",
+        "P642": "Second Cabinet of Andreas Papandreou"
+      }
+    },
+    {
+      "id": "Q19858626",
+      "label": "Minister of Commercial Marine of Greece",
+      "title": "Minister of Commercial Marine of Greece (of Second Cabinet of Andreas Papandreou)",
+      "description": "Greek government minister",
+      "qualifiers": {
+        "P580": "1987-09-23",
+        "P582": "1988-11-18",
+        "P1365": "Efstathios Alexandris",
+        "P1366": "Q19838319",
+        "P642": "Second Cabinet of Andreas Papandreou"
+      }
+    },
+    {
+      "id": "Q20128285",
+      "label": "Minister of the Aegean",
+      "title": "Minister of the Aegean (of Second Cabinet of Andreas Papandreou)",
+      "description": "Greek government minister",
+      "qualifiers": {
+        "P580": "1988-11-18",
+        "P582": "1989-07-02",
+        "P1365": "Q19688845",
+        "P1366": "Manolis Kefalogiannis",
+        "P642": "Second Cabinet of Andreas Papandreou"
+      }
+    },
+    {
+      "id": "Q19860747",
+      "label": "Labour minister of Greece",
+      "title": "Labour minister of Greece (of Third Cabinet of Andreas Papandreou)",
+      "description": "Greek government minister",
+      "qualifiers": {
+        "P580": "1993-10-13",
+        "P582": "1994-07-08",
+        "P1365": "Q17605592",
+        "P1366": "Ioannis Skoularikis",
+        "P642": "Third Cabinet of Andreas Papandreou"
+      }
+    },
+    {
+      "id": "Q23901415",
+      "label": "Minister of Labour and Social Insurance of Greece",
+      "title": "Minister of Labour and Social Insurance of Greece (of First Cabinet of Costas Simitis)",
+      "description": "Greek government minister",
+      "qualifiers": {
+        "P580": "1996-01-22",
+        "P582": "1996-09-25",
+        "P1365": "Q12884749",
+        "P1366": "Miltiadis Papaioannou",
+        "P642": "First Cabinet of Costas Simitis"
+      }
+    },
+    {
+      "id": "Q19860560",
+      "label": "Minister of Justice of Greece",
+      "title": "Minister of Justice of Greece (of Second Cabinet of Costas Simitis)",
+      "description": "Greek government minister",
+      "qualifiers": {
+        "P580": "1996-09-25",
+        "P582": "2000-03-20",
+        "P1366": "Michael-Konstantinos Stathopoulos",
+        "P642": "Second Cabinet of Costas Simitis"
+      }
+    }
+  ],
   "Q6943302": [
     {
       "id": "Q18915989",
@@ -5771,6 +6106,16 @@
       "title": "Member of the Hellenic Parliament",
       "qualifiers": {
         "P768": "Achaea"
+      }
+    }
+  ],
+  "Q12881046": [
+    {
+      "id": "Q18915989",
+      "label": "Member of the Hellenic Parliament",
+      "title": "Member of the Hellenic Parliament",
+      "qualifiers": {
+        "P768": "Q26215021"
       }
     }
   ],
