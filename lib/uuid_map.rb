@@ -12,13 +12,14 @@ class UuidMapFile
   end
 
   def mapping
-    return {} unless File.exist?(@filename)
-    raw = File.read(@filename)
+    return {} unless @filename.exist?
+    raw = @filename.read
     return {} if raw.empty?
     Hash[Rcsv.parse(raw, row_as_hash: true, columns: {}).map { |r| [r['id'], r['uuid']] }]
   end
 
   def rewrite(data)
+    @filename.parent.mkpath
     ::CSV.open(@filename, 'w') do |csv|
       csv << %i(id uuid)
       data.each { |id, uuid| csv << [id, uuid] }
