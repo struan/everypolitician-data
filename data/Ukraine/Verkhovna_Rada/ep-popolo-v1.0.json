@@ -6944,9 +6944,7 @@
       "patronymic_name": "Володимирович"
     },
     {
-      "birth_date": "1969-02-17",
       "family_name": "Горват",
-      "gender": "male",
       "given_name": "Роберт",
       "id": "d5783731-8960-47a4-8221-e7c93db8714f",
       "identifiers": [
@@ -6957,10 +6955,6 @@
         {
           "identifier": "18075",
           "scheme": "rada"
-        },
-        {
-          "identifier": "Q20066573",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://static.rada.gov.ua/dep_img8/d68_1.jpg",
@@ -6969,20 +6963,7 @@
           "url": "http://static.rada.gov.ua/dep_img8/d68_1.jpg"
         }
       ],
-      "links": [
-        {
-          "note": "Wikipedia (uk)",
-          "url": "https://uk.wikipedia.org/wiki/Горват_Роберт_Іванович"
-        }
-      ],
       "name": "Горват Роберт Іванович",
-      "other_names": [
-        {
-          "lang": "uk",
-          "name": "Горват Роберт Іванович",
-          "note": "multilingual"
-        }
-      ],
       "patronymic_name": "Іванович"
     },
     {
@@ -31614,12 +31595,21 @@
           "url": "https://commons.wikipedia.org/wiki/Category:Vasil_Yanitsky"
         },
         {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Яницкий,_Василий_Петрович"
+        },
+        {
           "note": "Wikipedia (uk)",
           "url": "https://uk.wikipedia.org/wiki/Яніцький_Василь_Петрович"
         }
       ],
       "name": "Яніцький Василь Петрович",
       "other_names": [
+        {
+          "lang": "ru",
+          "name": "Яницкий, Василий Петрович",
+          "note": "multilingual"
+        },
         {
           "lang": "uk",
           "name": "Яніцький Василь Петрович",
