@@ -6944,7 +6944,9 @@
       "patronymic_name": "Володимирович"
     },
     {
+      "birth_date": "1969-02-17",
       "family_name": "Горват",
+      "gender": "male",
       "given_name": "Роберт",
       "id": "d5783731-8960-47a4-8221-e7c93db8714f",
       "identifiers": [
@@ -6955,6 +6957,10 @@
         {
           "identifier": "18075",
           "scheme": "rada"
+        },
+        {
+          "identifier": "Q24958322",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://static.rada.gov.ua/dep_img8/d68_1.jpg",
@@ -6963,7 +6969,29 @@
           "url": "http://static.rada.gov.ua/dep_img8/d68_1.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Горват,_Роберт_Иванович"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Горват_Роберт_Іванович"
+        }
+      ],
       "name": "Горват Роберт Іванович",
+      "other_names": [
+        {
+          "lang": "ru",
+          "name": "Горват, Роберт Иванович",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Горват Роберт Іванович",
+          "note": "multilingual"
+        }
+      ],
       "patronymic_name": "Іванович"
     },
     {
