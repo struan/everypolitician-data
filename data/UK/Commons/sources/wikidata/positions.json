@@ -547,7 +547,13 @@
       "id": "Q16707842",
       "label": "Member of Parliament in the United Kingdom",
       "title": "Member of Parliament in the United Kingdom",
-      "description": "voters' representative in the House of Commons of the United Kingdom"
+      "description": "voters' representative in the House of Commons of the United Kingdom",
+      "qualifiers": {
+        "P580": "1997-05-02",
+        "P582": "2005-04-11",
+        "P1366": "Lynda Waltho",
+        "P768": "Stourbridge"
+      }
     }
   ],
   "Q391442": [
@@ -3726,7 +3732,12 @@
       "id": "Q16707842",
       "label": "Member of Parliament in the United Kingdom",
       "title": "Member of Parliament in the United Kingdom",
-      "description": "voters' representative in the House of Commons of the United Kingdom"
+      "description": "voters' representative in the House of Commons of the United Kingdom",
+      "qualifiers": {
+        "P580": "1997-05-01",
+        "P1365": "Geoffrey Lofthouse, Baron Lofthouse of Pontefract",
+        "P768": "Pontefract and Castleford"
+      }
     },
     {
       "id": "Q4976591",
@@ -3735,7 +3746,9 @@
       "description": "individual within the UK's shadow cabinet who \"shadows\" the Home Secretary",
       "qualifiers": {
         "P580": "2011-01-20",
-        "P1365": "Ed Balls"
+        "P1365": "Ed Balls",
+        "P582": "2015",
+        "P1366": "Andy Burnham"
       }
     },
     {
@@ -4191,7 +4204,12 @@
       "id": "Q16707842",
       "label": "Member of Parliament in the United Kingdom",
       "title": "Member of Parliament in the United Kingdom",
-      "description": "voters' representative in the House of Commons of the United Kingdom"
+      "description": "voters' representative in the House of Commons of the United Kingdom",
+      "qualifiers": {
+        "P580": "2015",
+        "P768": "Bristol South",
+        "P1365": "Dawn Primarolo"
+      }
     }
   ],
   "Q337563": [
@@ -7155,7 +7173,9 @@
       "title": "Member of Parliament in the United Kingdom",
       "description": "voters' representative in the House of Commons of the United Kingdom",
       "qualifiers": {
-        "P580": "2015"
+        "P580": "2015",
+        "P1365": "David Heyes",
+        "P768": "Ashton-under-Lyne"
       }
     },
     {
@@ -9576,7 +9596,8 @@
       "description": "voters' representative in the House of Commons of the United Kingdom",
       "qualifiers": {
         "P580": "2016-05-06",
-        "P768": "Sheffield Brightside and Hillsborough"
+        "P768": "Sheffield Brightside and Hillsborough",
+        "P1365": "Harry Harpham"
       }
     }
   ],
@@ -14835,7 +14856,14 @@
       "id": "Q16707842",
       "label": "Member of Parliament in the United Kingdom",
       "title": "Member of Parliament in the United Kingdom",
-      "description": "voters' representative in the House of Commons of the United Kingdom"
+      "description": "voters' representative in the House of Commons of the United Kingdom",
+      "qualifiers": {
+        "P580": "1997-05-01",
+        "P582": "2001-06-07",
+        "P1365": "Nicholas Budgen",
+        "P1366": "Rob Marris",
+        "P768": "Wolverhampton South West"
+      }
     }
   ],
   "Q337932": [
@@ -20289,7 +20317,14 @@
       "id": "Q16707842",
       "label": "Member of Parliament in the United Kingdom",
       "title": "Member of Parliament in the United Kingdom",
-      "description": "voters' representative in the House of Commons of the United Kingdom"
+      "description": "voters' representative in the House of Commons of the United Kingdom",
+      "qualifiers": {
+        "P580": "2005-05-06",
+        "P582": "2010-04-12",
+        "P1365": "Peter Pike",
+        "P1366": "Gordon Birtwistle",
+        "P768": "Burnley"
+      }
     }
   ],
   "Q261675": [
@@ -21008,7 +21043,8 @@
         "P580": "1997-05-02",
         "P582": "2010-04-12",
         "P1365": "Tom Sackville",
-        "P1366": "Julie Hilling"
+        "P1366": "Julie Hilling",
+        "P768": "Bolton West"
       }
     },
     {
