@@ -8125,6 +8125,9 @@
       "images": [
         {
           "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/WagantallCathay_CPC.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Wagantallmp.png"
         }
       ],
       "links": [
@@ -39791,6 +39794,7 @@
           "value": "Mauril_Belanger"
         }
       ],
+      "death_date": "2016-08-16",
       "email": "mauril.belanger@parl.gc.ca",
       "gender": "male",
       "id": "c5391105-42ab-4b5c-8de0-3d8c42205e12",
@@ -39826,12 +39830,20 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Mauril_Bélanger"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Mauril_Bélanger"
         },
         {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Mauril_Bélanger"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Mauril_Bélanger"
         },
         {
           "note": "twitter",
@@ -39886,6 +39898,11 @@
         },
         {
           "lang": "nn",
+          "name": "Mauril Bélanger",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
           "name": "Mauril Bélanger",
           "note": "multilingual"
         },
@@ -54877,6 +54894,9 @@
       "images": [
         {
           "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/StubbsShannon_CPC.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Stubbsmp.jpg"
         }
       ],
       "links": [
@@ -67315,7 +67335,8 @@
       "on_behalf_of_id": "liberal",
       "organization_id": "66326899-6dd4-432c-ae60-ca6375072785",
       "person_id": "c5391105-42ab-4b5c-8de0-3d8c42205e12",
-      "role": "member"
+      "role": "member",
+      "start_date": "2016-08-16"
     },
     {
       "area_id": "area/british_columbia_(west_vancouver—sunshine_coast—sea_to_sky_country)",
