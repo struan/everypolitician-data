@@ -7284,7 +7284,7 @@
         },
         {
           "note": "website",
-          "url": "http://www.nathangillmep.uk"
+          "url": "http://www.nathangillmep.uk/"
         }
       ],
       "name": "Nathan Gill",
@@ -9247,6 +9247,11 @@
   ],
   "organizations": [
     {
+      "classification": "party",
+      "id": "party/independent",
+      "name": "Independent"
+    },
+    {
       "classification": "legislature",
       "id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "identifiers": [
@@ -10417,6 +10422,14 @@
       "on_behalf_of_id": "party/welsh_conservative_party",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "42e772e8-3d01-4dea-b0bc-5fc5ba641079",
+      "role": "member"
+    },
+    {
+      "area_id": "ocd-division/country:gb-wls/region:north_wales",
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
+      "person_id": "451236de-0f5e-448b-a11c-7923bd704fb8",
       "role": "member"
     },
     {
